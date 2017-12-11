@@ -1,0 +1,647 @@
+# Info come from [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3)
+[<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
+
+# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
+
+[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (Air Native Extensions) coded in the native language (eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://gamua.com/starling/) framework and optionally the [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
+
+Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
+
+## Contents
+
+* [Development Tools](#development-tools)
+* [Frameworks](#frameworks)
+* [User Interface](#user-interface)
+* [Multimedia](#multimedia)
+* [Database](#database)
+* [File Formats](#file-formats)
+* [Networking](#networking)
+* [Utilities](#utilities)
+* [Runtimes](#runtimes)
+* [AIR Native Extensions](#air-native-extensions)
+	
+
+## Development Tools
+*This section includes commercial tools as well as free/open source tools.*
+
+#### Code Editors
+* [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more.
+* [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content.
+* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools).
+
+#### Live Debuggers
+* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D).
+* [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application. :star:5
+* [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework. :star:44
+
+#### Asset Creators
+* [Adobe Animate CC](https://www.adobe.com/products/animate.html) - Premiere vector graphics and animation toolset for vector/spritesheet creation.
+* [TILED Map Editor](http://www.mapeditor.org/) - Flexible tile map editor compatible with various AS3 game engines.
+* [FlashMovieClipConverter](https://github.com/zenrobin/FlashMovieClipConverter) - Converts a Flash MovieClip to a Starling IAnimatable Sprite. :star:21
+
+#### SWF Obfuscators
+* [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization.
+* [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files.
+
+#### SWF Inspectors
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)). :star:229
+* [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector. :star:22
+
+#### SWF Decompilers
+* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (supports SWF/SWC, Alchemy opcodes).
+* [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex).
+
+#### ANE Dev Tools
+* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:18
+* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 . :star:42
+
+## Frameworks
+#### MVC Frameworks
+
+* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:118
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:986
+* [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:
+* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
+* [Somacore](https://github.com/soundstep/somacore_framework) - Lightweight event-based AS3 MVC framework. :star:22
+* [Kote](https://github.com/whitered/Kote) - Fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals. :star:1
+* [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games. :star:131
+
+#### UI Frameworks
+
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
+* [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex. :star:30
+* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/)). :star:60
+* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex. :star:236
+* [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern. :star:4
+* [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing. :star:107
+
+#### Game Frameworks
+
+* [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
+* [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:154
+* [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:377
+* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1150
+* [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:
+* [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:54
+* [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:27
+* [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)). :star:110
+* [YCanvas](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer. :star:119
+* [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx](https://github.com/NoRabbit/ND2Dx)). :star:336
+* [Nexus](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D. :star:14
+
+#### 3D Frameworks
+
+* [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:673
+* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl)). :star:169
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:117
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:366
+* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
+* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based). :star:
+
+#### Animation
+
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3)).
+* [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
+* [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
+* [FlashEff2](http://www.flasheff.com/) - Premiere programmatic animation library with 100+ transitions and text effects.
+* [FlashEffNano](http://www.flasheffnano.com/) - FlashEff transition library optimized for mobile devices, with 20+ transitions in 750 styles.
+* [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) - Play back GAF animations using Starling (animations authored in Flash Pro). :star:
+
+#### Signals
+
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1098
+* [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:32
+* [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:1
+* [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:7
+
+#### Functional
+
+* [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript. :star:10
+* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events). :star:92
+* [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide". :star:3
+
+#### Unit Testing
+
+* [AS3unit](https://github.com/Hoten/as3unit) - Unit testing framework for ActionScript 3. :star:5
+* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively. :star:187
+* [expect.as](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3. :star:10
+* [AS3spec](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec. :star:22
+* [Flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects. :star:274
+* [ASunit](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10. :star:50
+* [RobotEyes](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate. :star:49
+
+## User Interface
+#### UI Components
+
+* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:638
+* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more. :star:9
+* [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR. :star:41
+* [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework. :star:7
+* [GPUI](https://github.com/inspirit/GPUI) - Tiny GUI Library based on Stage3D (GPU). :star:63
+* [Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers. :star:20
+* [Flex-maps](https://github.com/igorcosta/flex-maps) - Definitive solution for maps in Apache Flex. :star:13
+* [FlexBook](https://github.com/blvz/FlexBook) - Awesome Page Flip component for Flex. :star:8
+
+#### Starling Components
+
+* [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) - View-based navigation model with swipe to navigate tabs. :star:7
+* [DataGrid](https://github.com/pol2095/Feathers-Extension-DataGrid) - Displays a datagrid with column headings and smooth scrolling. :star:8
+* [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - Displays hierarchical data arranged as an expandable tree. :star:6
+* [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) - Supports basic vector drawing functionality. :star:6
+* [CircleProgress](https://github.com/pol2095/Feathers-Extension-CircleProgress) - Displays progress using a radial progressbar. :star:5
+* [ZoomableControl](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs. :star:3
+* [Toaster](https://github.com/pol2095/Feathers-Extension-Toaster) - Simple feedback about an operation in a small popup. . :star:2
+* [Google Maps](https://github.com/ZwickTheGreat/feathers-maps) - Google Maps for Starling, optimized for mobile devices. :star:61
+
+#### Layout
+
+* [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:23
+* [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:8
+* [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
+* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:55
+* [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library. :star:3
+* [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects. :star:34
+* [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager. :star:15
+
+#### Multi Touch
+
+* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices. :star:16
+* [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
+* [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions. :star:
+* [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier. :star:14
+
+#### Game Controllers
+
+* [AS3dpad](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS). :star:12
+* [Gamepad](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard. :star:54
+* [Advanced_Joystick](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile. :star:22
+* [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR. :star:28
+
+## Multimedia
+
+#### Augmented Reality
+
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en)). :star:8
+* [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam. :star:11
+* [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality apps, using FLARToolkit/flare.tracker/flare.NFT.
+* [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library. :star:5
+* [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - A little wrapper to ease the way AR works. :star:45
+* [IN2AR](https://github.com/inspirit/IN2ARSDKExamples) - SDK for IN2AR cross-platform Augmented Reality Engine. :star:33
+
+#### Data Visualization
+
+* [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex. :star:
+* [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts. :star:
+* [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
+* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:298
+* [clearmaps](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization. :star:63
+* [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
+* [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
+* [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs. :star:2
+* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:359
+* [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media. :star:22
+
+#### Camera
+
+* [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection. :star:33
+* [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications. :star:11
+* [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams. :star:22
+* [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX. :star:14
+
+#### Image
+
+* [Scale9Image](https://github.com/Tibus/Scale9Image) - Optimized scale9Grid image for starling. :star:14
+* [ASImageLib](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript. :star:7
+* [Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format. :star:18
+* [Flip-Planes-AS3](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects. :star:14
+* [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:10
+* [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc. :star:
+* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:173
+* [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:55
+* [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3. :star:77
+* [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation. :star:12
+
+#### Font
+
+* [Firetype](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D. :star:106
+* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format. :star:33
+* [HanFont](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript. :star:14
+* [Ficon.as](https://github.com/dv/Ficon.as) - Library to easily include icon fonts. :star:4
+
+#### Particle
+
+* [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex. :star:269
+* [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade)).
+* [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3). :star:9
+* [SAP](https://github.com/gonchar/SAP) - Particle System for Starling. :star:50
+* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com. :star:318
+* [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles. :star:
+
+#### Panorama Viewer
+
+* [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player. :star:18
+* [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Panorama viewer. :star:92
+* [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer. :star:1
+* [Sphere_panorama](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D). :star:1
+* [CuTy](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10. :star:10
+
+#### QR Code
+
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:83
+* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:27
+
+#### Sound
+
+* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:143
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
+* [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
+* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:58
+* [SeiON](https://github.com/cardin/SeiON) - Sound Management Library. :star:10
+* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)- Upgraded version of the Sound Manager Class from Matt Przybylski.
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10. :star:52
+* [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript. :star:5
+* [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer. :star:87
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV. :star:217
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above. :star:13
+* [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects. :star:1
+* [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library. :star:45
+
+#### Video Player
+
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:269
+* [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:17
+* [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
+* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:113
+* [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:101
+* [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:62
+* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:19
+
+## Database
+
+#### SQLite
+* [AS3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript. :star:3
+* [AIRdb](https://github.com/dkeskar/airdb) - AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations. :star:34
+* [Flexine](https://github.com/riadvice/Flexine) - SQLite ORM for AIR. :star:4
+* [AIR-sqlite](https://github.com/probertson/air-sqlite) - Utilities for working with SQLite databases in AIR. :star:77
+
+#### MongoDB
+* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - MongoDB driver. :star:73
+* [ActionMongo](https://github.com/RIAlizer/ActionMongo) - MongoDB driver. :star:2
+
+#### CouchDB
+* [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - Client-side API for interacting with a CouchDB instance. :star:41
+* [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities. :star:23
+
+#### MySQL
+* [AS3mysql](https://github.com/hgupta9/as3mysql) - Driver for the MySQL open source database. :star:
+
+#### PostgreSQL
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database. :star:14
+
+#### DynamoDB
+* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB. :star:1
+
+#### Redis
+* [AS3redis](https://github.com/zhangq0355/as3redis) - Driver for Redis. :star:4
+
+## File Formats
+
+#### Archives
+
+* [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives. :star:181
+* [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. ([post](http://www.bytearray.org/?p=105)).
+* [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads). :star:8
+
+#### 3D Formats
+
+* [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada)). :star:7
+* [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files. :star:38
+* [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files. :star:5
+* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc. :star:118
+
+#### CSV
+
+* [CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV. :star:4
+* [Csvlib](https://github.com/51systems/csvlib) - CSV parser. :star:7
+
+#### CSS
+
+* [AS3csslib](https://github.com/heyfrench/as3csslib) - CSS3 parser, selector and style engine for ActionScript 3.0. :star:1
+* [Fcss](https://github.com/theflashbum/fcss) - Flash Cascading StyleSheet Library. :star:87
+* [Stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  Skinnable user interfaces using CSS3. :star:43
+* [Sass4as](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3. :star:4
+* [Jakute-CSS](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash. :star:10
+* [CSS.as](https://gist.github.com/trxcllnt/1161266) - Single-file CSS parser, part of TinyTLF project.
+
+#### BSON
+
+* [ActionBSON](https://github.com/fminzoni/ActionBSON) - BSON data encoder/decoder. :star:10
+* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - MongoDB Driver which includes BSON I/O. :star:73
+
+#### EXIF
+
+* [AS3-exif-lib](https://github.com/unstoppable/actionscript-exif-reading-lib) - Parse JPEG EXIF data. :star:6
+* [Exif-as3](https://github.com/bashi/exif-as3) - Parse JPEG EXIF data. :star:16
+
+#### FXG
+
+* [Fxg-as3-lib](https://github.com/pixelami/fxg-as3-lib) - Pure AS3 FXG rendering library (both runtime rendering and mxml supported). :star:9
+* [Fxg2as3](https://github.com/ZackPierce/fxg2as3) - Converting FXG markup into executable Actionscript 3 code. :star:2
+
+#### GIF
+
+* [AS3gif](https://github.com/audreyt/as3gif) - Play and encode Animated GIFs. :star:21
+* [GIF Player](https://github.com/theturtle32/Flash-Animated-GIF-Library) - Play Animated GIFs in Flash. :star:55
+* [Async-gif-decoder](https://github.com/honzabrecka/async-gif-decoder) - Asynchronous GIF decoder & player. :star:10
+
+#### ICAL
+
+* [AS3iCAL](https://github.com/nicolai86/as3.iCal) - iCal parser based on the RFC2445 specification. :star:6
+
+#### JSON
+
+* [Actionjson](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library. :star:133
+* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper. :star:14
+* [Serialkiller](https://github.com/benbjohnson/serialkiller) - JSON & XML serialization library. :star:4
+* [JsonMapper](https://github.com/kemsky/JsonMapper) - Typed JSON parser. :star:2
+* [JSONTools](https://github.com/s9tpepper/JSONTools) - JSON errors, the speed of the JSWoof JSON library, and E4X style queries dubbed E4J. :star:17
+
+#### Markdown
+
+* [Showdown.as](https://gist.github.com/cstrahan/648771) - Port of showdown.js.
+* [Actiondown](https://github.com/bbeaumont/Actiondown) - Port of Javascript Showdown. :star:2
+* [Markdownlib](https://github.com/Corsaair/markdownlib) - Implementation of Markdown. :star:2
+
+#### MP3
+
+* [AS3id3lib](https://github.com/devxoul/as3id3lib) - Parse MP3 ID3 data. :star:1
+* [AS3Icy](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire. :star:26
+
+#### PDF
+
+* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
+* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:127
+* [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer. :star:2
+* [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library. :star:2
+* [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch. :star:2
+
+#### PSD
+
+* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - Parse Photoshop PSD files and render as BitmapData objects. :star:34
+
+#### SWF
+
+* [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:526
+* [AS3abc](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files. :star:2
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools. :star:229
+* [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run. :star:14
+
+#### SVG
+
+* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - SVG Renderer for Flash Player. :star:97
+* [SVGParser](https://github.com/millermedeiros/SVGParser) - SVG parser and renderer to FIVe3D and HTML5 canvas. :star:13
+
+#### XML
+
+* [XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript. :star:2
+* [DynamicXMLParser](https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (actionscript 3). :star:2
+* [Nudge](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML. :star:1
+* [AStream](https://github.com/kokorin/AStream) - XML to Object (and vice versa) mapping library written in AS3. Compatible with XStream. :star:10
+
+#### XLSX
+
+* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (.XLSX) or Open Office spreadsheets. :star:39
+
+
+## Networking
+#### Data Loader
+
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:377
+* [BulkLoader](https://github.com/arthur-debert/BulkLoader) - Bulk asset loading library for Actionscript. :star:282
+* [AssetLoader](https://github.com/Matan/AssetLoader) - Multi-file/asset loader for AS3 built on AS3Signals. :star:125
+
+#### Hardware
+
+* [AS3midilib](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices. :star:3
+* [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards.
+* [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR. :star:33
+* [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples)). :star:116
+* [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:13
+* [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:44
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:142
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:321
+
+#### Servers
+
+* [AIRhttp](https://github.com/leopoldodonnell/airhttp) - HTTP Server for Adobe AIR. :star:16
+* [AIR-Server](https://github.com/wouterverweirder/AIR-Server) - Socket Server library for Adobe AIR. :star:41
+
+#### OAuth
+
+* [Actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services. :star:107
+* [oauth-flex](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript. :star:7
+* [oauth-as3](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3. :star:4
+
+#### HTTP
+
+* [Hendrix-HTTP](https://github.com/HendrixString/Hendrix-HttP-AiR) - Lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp. :star:9
+* [HTTPForm](https://github.com/dv/HTTPForm) - Emulate a multipart/form-data HTML form submission request, including file upload. :star:5
+* [AS3httpclient](https://github.com/abdul/as3httpclient) - HTTP client implementation. :star:4
+* [AS3httpclient](https://github.com/gabriel/as3httpclient) - HTTP client implementation. :star:245
+* [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) - AS3 API for AWS. :star:20
+
+#### P2P
+
+* [P2Plocal](https://github.com/palkan/as3_p2plocal) - Local RTMFP connections. :star:24
+* [Android-Flash-P2P](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR. :star:15
+* [GogduNet](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P. :star:
+* [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus. :star:25
+* [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1. :star:100
+* [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup. :star:2
+* [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:66
+* [P2Pmessaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash. :star:1
+* [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS. :star:177
+
+#### Sockets
+
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:225
+* [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:218
+* [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:35
+* [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:10
+* [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF. :star:2
+* [Socket.io-flash](https://github.com/sinnus/socket.io-flash) - Communication to Socket.IO v.0.8+ servers. :star:45
+* [ws-flash-client](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (uses Adobe Flash where native WebSocket is not available). :star:16
+
+#### Protocols
+
+* [GIT](https://github.com/nexussays/git-as3) - Client-side implementation of Git. :star:4
+* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Client-side implementation of Apple's Airplay. :star:22
+* [TeaTime](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol. :star:11
+* [XMPP](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library. :star:9
+* [XMPP](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library. :star:2
+* [AMQP](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP. :star:44
+* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol). :star:5
+* [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol. :star:1
+* [BDD Cucumber](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript. :star:29
+
+#### Email
+
+* [AIRXMail](https://github.com/hgupta9/AirXMail) - Complete client-side email library supporting SMTP, POP3 and IMAP4. :star:
+* [AS3Mailer](https://github.com/Matan/AS3Mailer) - Sends email using server script or invokes a mailto. :star:9
+
+## Utilities
+
+#### Artificial Intelligence
+
+* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent. :star:3
+* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent. :star:2
+* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent. :star:2
+* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent. :star:2
+* [Godmode-as3](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence). :star:28
+* [DecisionTree](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent. :star:3
+* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent. :star:2
+* [SmartKid](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D & 3D games. :star:3
+
+#### Async
+
+* [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers. :star:38
+* [Worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions. :star:77
+* [AS3Futures](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls. :star:
+
+#### Crypto
+
+* [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders. :star:68
+* [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched)). :star:87
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1522
+* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:46
+* [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more. :star:8
+* [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions. :star:1
+* [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3. :star:5
+* [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption. :star:2
+
+#### Data
+
+* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 ([website](http://sibirjak.com/osflash/projects/as3commons-collections/)). :star:100
+
+#### Geometry
+
+* [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc. :star:77
+* [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo. :star:40
+* [Coral](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion). :star:45
+* [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes. :star:8
+* [PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences. :star:3
+* [Hilbert](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve. :star:1
+* [AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm. :star:21
+* [A-star_pathfinder](https://github.com/kevhiggins/a-star_pathfinder) - A-Star pathfinding interface for tile based maps. :star:3
+* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm. :star:15
+
+#### Math
+
+* [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure. :star:1
+* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc). :star:13
+* [Performance Primitives](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives. :star:23
+* [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables. :star:9
+* [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class. :star:2
+* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate](https://github.com/SimonRichardson/as3-eval)).
+* [FlashFormulaEditor](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex. :star:15
+
+#### Text
+
+* [Linkify-as3](https://github.com/CodeCatalyst/linkify-as3) - Convert URLs, e-mail addresses, phone numbers, into clickable links. :star:8
+* [AS3hyphenation](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js. :star:1
+
+## Runtimes
+
+#### Emulators
+
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:408
+* [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:58
+* [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
+* [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:5
+
+#### Interpreters
+
+* [JS](https://github.com/theturtle32/RhinoAS3) - RhinoJS, Port of Mozilla's Rhino JavaScript interpreter. :star:8
+* [Simple JS](https://github.com/sixsided/Simplified-JavaScript-Interpreter) - AS3-based Javascript interpreter. :star:16
+* [MIL](https://github.com/ser1zw/MIL) - A MIL language VM and interpreter written in ActionScript. :star:2
+* [TALES](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript. :star:1
+* [Scheme](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript. :star:1
+* [Lisp](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter. :star:2
+* [Lisp Compiler](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2. :star:92
+* [CannonML](https://github.com/abiyasa/cannonml_as3) - keim's CannonML (shmup scripting language) interpreter. :star:3
+
+## AIR Native Extensions
+
+#### Audio ANE
+* [SongPicker](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android. :star:28
+* [SilentSwitch](https://github.com/StickSports/ANE-Silent-Switch) - ANE for iOS to mute sounds if the hardware silent switch is on. :star:38
+* [VolumePro](https://github.com/myflashlab/VolumePro-ANE) - Control native music stream volume and you can listen to the volume changes. :star:2
+* [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices. :star:59
+
+#### Multimedia ANE
+* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:89
+* [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:51
+* [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:45
+* [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
+* [VideoPlayer](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player. :star:27
+* [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:7
+* [Speech](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background. :star:11
+* [MyAR](https://github.com/myflashlab/AR-ANE-Samples) - AR ANE supporting Android and iOS 64-bit based on Metaio's SDK. :star:36
+* [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:87
+* [Barcode](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE. :star:13
+* [Bullet](https://github.com/mziwisky/bullet-ane) - Bullet physics simulation library. :star:39
+
+#### File System ANE
+* [FileChooser](https://github.com/myflashlab/fileChooser-ANE) - Enable users to select a file from the device filesystem. :star:13
+* [ZipManager](https://github.com/myflashlab/zipManager-ANE) - Zip or unzip large zip archives super fast using native process on Android and iOS. :star:7
+* [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
+
+#### Networking ANE
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:26
+* [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:2
+* [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:21
+
+#### Hardware ANE
+* [Bluetooth](https://github.com/myflashlab/bluetooth-ANE) - Scan for other devices, connect to and pair with them and transfer data between them. :star:4
+* [GPS](https://github.com/myflashlab/GPS-ANE) - Get current device GPS location as fast as possible by automatically checking the best available provider. :star:12
+* [GoogleVR](https://github.com/myflashlab/GoogleVR-ANE) - Google Virtual Reality SDK available to AIR developers. :star:14
+* [Joystick-ANE](https://github.com/StackAndHeap/joystick-ane) - ANE Joystick Library. :star:21
+* [AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE. :star:18
+* [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller. :star:22
+* [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK. :star:39
+* [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse. :star:38
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:321
+
+#### System ANE
+* [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:5
+* [DesktopToast](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX. :star:23
+* [AlarmManager](https://github.com/myflashlab/alarmManager-ANE) - Run a scheduled task even if your AIR app is closed. :star:4
+* [InAppPayments](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS. :star:11
+* [PermissionCheck](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app. :star:8
+* [RateMe](https://github.com/myflashlab/RateMe-ANE) - Ask your users to rate your app in the most efficient way. :star:1
+* [Statusbar](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime. :star:1
+* [Badge](https://github.com/myflashlab/Badge-ANE) - Control the iOS badge value. :star:
+* [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
+* [Can-Open-URL](https://github.com/StickSports/ANE-Can-Open-URL) - ANE for iOS to detect whether an app is installed to handle a specific URL scheme. :star:42
+
+#### Social ANE
+* [Facebook](https://github.com/myflashlab/facebook-ANE) - Integrate Facebook SDK into your AIR apps. :star:28
+* [GCM](https://github.com/myflashlab/GCM-ANE) - Use Google Cloud messaging on Android and iOS. . :star:3
+* [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android. :star:9
+
+#### Analytics ANE
+* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:3
+* [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS. :star:3
+* [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising. :star:27
+* [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:10
+* [Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android). :star:10
+* [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE. :star:26
+* [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts. :star:48
+

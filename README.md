@@ -24,12 +24,17 @@
 
 <br>
 
+<!--
 <div align="center">
 	<span>🐦</span>
 	<b>We now have a Twitter account: <a href="https://twitter.com/awesome__re">@awesome__re</a></b>
 	<br>
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
+<br>
+-->
+
+<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/black-out">Black Out</a> is on Product Hunt</a>.<br><sub>It makes it easy to hide sensitive parts of an image.</sub></h4>
 <br>
 
 <p align="center">
@@ -67,114 +72,114 @@
 
 ## Platforms
 
-- [Node.js](awesome/sindresorhus_awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:20325
-- [Frontend Development](awesome/dypsilon_frontend-dev-bookmarks.md) :star:23147
-- [iOS](awesome/vsouza_awesome-ios.md) - Mobile operating system for Apple phones and tablets. :star:22961
-- [Android](awesome/JStumpp_awesome-android.md) :star:4773
-- [IoT & Hybrid Apps](awesome/weblancaster_awesome-IoT-hybrid.md) :star:288
-- [Electron](awesome/sindresorhus_awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:12969
+- [Node.js](awesome/sindresorhus_awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:20340
+- [Frontend Development](awesome/dypsilon_frontend-dev-bookmarks.md) :star:23153
+- [iOS](awesome/vsouza_awesome-ios.md) - Mobile operating system for Apple phones and tablets. :star:22988
+- [Android](awesome/JStumpp_awesome-android.md) :star:4774
+- [IoT & Hybrid Apps](awesome/weblancaster_awesome-IoT-hybrid.md) :star:287
+- [Electron](awesome/sindresorhus_awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:12981
 - [Cordova](awesome/busterc_awesome-cordova.md) - JavaScript API for hybrid apps. :star:204
-- [React Native](awesome/jondot_awesome-react-native.md) :star:16098
-- [Xamarin](awesome/benoitjadinon_awesome-xamarin.md) - Mobile app development IDE, testing, and distribution. :star:667
-- [Linux](awesome/aleksandar-todorovic_awesome-linux.md) :star:1000
-	- [Containers](awesome/Friz-zy_awesome-linux-containers.md) :star:395
-- [macOS](awesome/iCHAIT_awesome-macOS.md) :star:6967
-	- [Command-Line](awesome/herrbischoff_awesome-osx-command-line.md) :star:18138
-	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
+- [React Native](awesome/jondot_awesome-react-native.md) :star:16113
+- [Xamarin](awesome/benoitjadinon_awesome-xamarin.md) - Mobile app development IDE, testing, and distribution. :star:670
+- [Linux](awesome/aleksandar-todorovic_awesome-linux.md) :star:1004
+	- [Containers](awesome/Friz-zy_awesome-linux-containers.md) :star:398
+- [macOS](awesome/iCHAIT_awesome-macOS.md) :star:6972
+	- [Command-Line](awesome/herrbischoff_awesome-osx-command-line.md) :star:18154
+	- [Screensavers](awesome/aharris88_awesome-macos-screensavers.md) :star:
 - [watchOS](awesome/yenchenlin_awesome-watchos.md) - Operating system for the Apple Watch. :star:309
 - [JVM](awesome/deephacks_awesome-jvm.md) :star:644
 - [Salesforce](awesome/mailtoharshit_awesome-salesforce.md) :star:194
-- [Amazon Web Services](awesome/donnemartin_awesome-aws.md) :star:5034
-- [Windows](awesome/Awesome-Windows_Awesome.md) :star:3299
-- [IPFS](awesome/ipfs_awesome-ipfs.md) - P2P hypermedia protocol. :star:814
+- [Amazon Web Services](awesome/donnemartin_awesome-aws.md) :star:5036
+- [Windows](awesome/Awesome-Windows_Awesome.md) :star:3302
+- [IPFS](awesome/ipfs_awesome-ipfs.md) - P2P hypermedia protocol. :star:816
 - [Fuse](awesome/vinkla_awesome-fuse.md) - Mobile development tools. :star:261
 - [Heroku](awesome/ianstormtaylor_awesome-heroku.md) - Cloud platform as a service. :star:99
-- [Raspberry Pi](awesome/thibmaek_awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more. :star:2962
+- [Raspberry Pi](awesome/thibmaek_awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more. :star:2966
 - [Qt](awesome/JesseTG_awesome-qt.md) - Cross-platform GUI app framework. :star:115
 - [WebExtensions](awesome/bfred-it_Awesome-WebExtensions.md) - Cross-browser extension system. :star:184
 - [RubyMotion](awesome/motion-open-source_awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby. :star:54
-- [Smart TV](awesome/vitalets_awesome-smart-tv.md) - Create apps for different TV platforms. :star:58
+- [Smart TV](awesome/vitalets_awesome-smart-tv.md) - Create apps for different TV platforms. :star:57
 - [GNOME](awesome/Kazhnuz_awesome-gnome.md) - Simple and distraction-free desktop environment for Linux. :star:44
 
 
 ## Programming Languages
 
-- [JavaScript](awesome/sorrycc_awesome-javascript.md) :star:12763
-	- [Promises](awesome/wbinnssmith_awesome-promises.md) :star:1034
+- [JavaScript](awesome/sorrycc_awesome-javascript.md) :star:12777
+	- [Promises](awesome/wbinnssmith_awesome-promises.md) :star:1035
 	- [Standard Style](awesome/standard_awesome-standard.md) - Style guide and linter. :star:199
 	- [Must Watch Talks](awesome/bolshchikov_js-must-watch.md) :star:11442
-	- [Tips](awesome/loverajoel_jstips.md) :star:10632
-	- [Network Layer](awesome/Kikobeats_awesome-network-js.md) :star:348
-	- [Micro npm Packages](awesome/parro-it_awesome-micro-npm-packages.md) :star:1158
-	- [Mad Science npm Packages](awesome/feross_awesome-mad-science.md) - Impossible sounding projects that exist. :star:653
-	- [Maintenance Modules](awesome/maxogden_maintenance-modules.md) - For npm packages. :star:302
+	- [Tips](awesome/loverajoel_jstips.md) :star:10630
+	- [Network Layer](awesome/Kikobeats_awesome-network-js.md) :star:350
+	- [Micro npm Packages](awesome/parro-it_awesome-micro-npm-packages.md) :star:1159
+	- [Mad Science npm Packages](awesome/feross_awesome-mad-science.md) - Impossible sounding projects that exist. :star:654
+	- [Maintenance Modules](awesome/maxogden_maintenance-modules.md) - For npm packages. :star:301
 	- [npm](awesome/sindresorhus_awesome-npm.md) - Package manager. :star:2706
 	- [AVA](awesome/avajs_awesome-ava.md) - Test runner. :star:231
-	- [ESLint](awesome/dustinspecker_awesome-eslint.md) - Linter. :star:1030
-	- [Functional Programming](awesome/stoeffel_awesome-fp-js.md) :star:2275
+	- [ESLint](awesome/dustinspecker_awesome-eslint.md) - Linter. :star:1028
+	- [Functional Programming](awesome/stoeffel_awesome-fp-js.md) :star:2282
 	- [Observables](awesome/sindresorhus_awesome-observables.md) :star:209
-	- [npm scripts](awesome/RyanZim_awesome-npm-scripts.md) - Task runner. :star:337
-- [Swift](awesome/matteocrippa_awesome-swift.md) :star:13466
-	- [Education](awesome/hsavit1_Awesome-Swift-Education.md) :star:5292
+	- [npm scripts](awesome/RyanZim_awesome-npm-scripts.md) - Task runner. :star:336
+- [Swift](awesome/matteocrippa_awesome-swift.md) :star:13473
+	- [Education](awesome/hsavit1_Awesome-Swift-Education.md) :star:5294
 	- [Playgrounds](awesome/uraimo_Awesome-Swift-Playgrounds.md) :star:1933
-- [Python](awesome/vinta_awesome-python.md) :star:42193
-	- [Asyncio](awesome/timofurrer_awesome-asyncio.md) - Asynchronous I/O in Python 3. :star:353
+- [Python](awesome/vinta_awesome-python.md) :star:42225
+	- [Asyncio](awesome/timofurrer_awesome-asyncio.md) - Asynchronous I/O in Python 3. :star:354
 	- [Scientific Audio](awesome/faroit_awesome-python-scientific-audio.md) - Scientific research in audio/music. :star:136
-- [Rust](awesome/rust-unofficial_awesome-rust.md) :star:5775
-- [Haskell](awesome/krispo_awesome-haskell.md) :star:1293
-- [PureScript](awesome/passy_awesome-purescript.md) :star:163
-- [Go](awesome/avelino_awesome-go.md) :star:25908
-- [Scala](https://github.com/lauris/awesome-scala)
-- [Ruby](https://github.com/markets/awesome-ruby)
-	- [Events](https://github.com/planetruby/awesome-events)
-- [Clojure](https://github.com/razum2um/awesome-clojure)
-- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
-- [Elixir](https://github.com/h4cc/awesome-elixir)
-- [Elm](https://github.com/isRuslan/awesome-elm)
-- [Erlang](https://github.com/drobakowski/awesome-erlang)
-- [Julia](https://github.com/svaksha/Julia.jl)
-- [Lua](https://github.com/LewisJEllis/awesome-lua)
-- [C](https://github.com/aleksandar-todorovic/awesome-c)
-- [C/C++](https://github.com/fffaraz/awesome-cpp)
-- [R](https://github.com/qinwf/awesome-R)
-- [D](https://github.com/zhaopuming/awesome-d)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
-- [Perl](https://github.com/hachiojipm/awesome-perl)
-- [Groovy](https://github.com/kdabir/awesome-groovy)
-- [Dart](https://github.com/yissachar/awesome-dart)
-- [Java](https://github.com/akullpp/awesome-java)
-	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
-- [OCaml](https://github.com/rizo/awesome-ocaml)
-- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran)
-- [.NET](https://github.com/quozd/awesome-dotnet)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core)
-- [PHP](https://github.com/ziadoz/awesome-php)
-	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
-- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-- [Assembler](https://github.com/jaspergould/awesome-asm)
-- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-- [Crystal](https://github.com/veelenga/awesome-crystal)
-- [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Rust](awesome/rust-unofficial_awesome-rust.md) :star:5784
+- [Haskell](awesome/krispo_awesome-haskell.md) :star:1294
+- [PureScript](awesome/passy_awesome-purescript.md) :star:164
+- [Go](awesome/avelino_awesome-go.md) :star:25930
+- [Scala](awesome/lauris_awesome-scala.md) :star:5463
+- [Ruby](awesome/markets_awesome-ruby.md) :star:8053
+	- [Events](awesome/planetruby_awesome-events.md) :star:196
+- [Clojure](awesome/razum2um_awesome-clojure.md) :star:1177
+- [ClojureScript](awesome/hantuzun_awesome-clojurescript.md) :star:544
+- [Elixir](awesome/h4cc_awesome-elixir.md) :star:7416
+- [Elm](awesome/isRuslan_awesome-elm.md) :star:2423
+- [Erlang](awesome/drobakowski_awesome-erlang.md) :star:775
+- [Julia](awesome/svaksha_Julia.jl.md) :star:541
+- [Lua](awesome/LewisJEllis_awesome-lua.md) :star:1548
+- [C](awesome/aleksandar-todorovic_awesome-c.md) :star:837
+- [C/C++](awesome/fffaraz_awesome-cpp.md) :star:10680
+- [R](awesome/qinwf_awesome-R.md) :star:2568
+- [D](awesome/zhaopuming_awesome-d.md) :star:262
+- [Common Lisp](awesome/CodyReichert_awesome-cl.md) :star:561
+- [Perl](awesome/hachiojipm_awesome-perl.md) :star:370
+- [Groovy](awesome/kdabir_awesome-groovy.md) :star:414
+- [Dart](awesome/yissachar_awesome-dart.md) :star:290
+- [Java](awesome/akullpp_awesome-java.md) :star:14966
+	- [RxJava](awesome/eleventigers_awesome-rxjava.md) :star:154
+- [Kotlin](awesome/KotlinBy_awesome-kotlin.md) :star:3590
+- [OCaml](awesome/rizo_awesome-ocaml.md) :star:1136
+- [ColdFusion](awesome/seancoyne_awesome-coldfusion.md) :star:48
+- [Fortran](awesome/rabbiabram_awesome-fortran.md) :star:127
+- [.NET](awesome/quozd_awesome-dotnet.md) :star:5683
+	- [Core](awesome/thangchung_awesome-dotnet-core.md) :star:3585
+- [PHP](awesome/ziadoz_awesome-php.md) :star:17368
+	- [Composer](awesome/jakoch_awesome-composer.md) - Package manager. :star:265
+- [Delphi](awesome/Fr0sT-Brutal_awesome-delphi.md) :star:392
+- [Assembler](awesome/jaspergould_awesome-asm.md) :star:201
+- [AutoHotkey](awesome/ahkscript_awesome-AutoHotkey.md) :star:597
+- [AutoIt](awesome/J2TeaM_awesome-AutoIt.md) :star:182
+- [Crystal](awesome/veelenga_awesome-crystal.md) :star:1382
+- [Frege](awesome/sfischer13_awesome-frege.md) - Haskell for the JVM. :star:14
+- [CMake](awesome/onqtam_awesome-cmake.md) - Build, test, and package software. :star:937
+- [ActionScript 3](awesome/robinrodricks_awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR. :star:52
+- [Eta](awesome/sfischer13_awesome-eta.md) - Functional programming language for the JVM. :star:29
+- [Idris](awesome/joaomilho_awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML. :star:52
 
 
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
-- [Web Tools](https://github.com/lvwzhen/tools)
-- [CSS](https://github.com/sotayamashita/awesome-css)
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips)
-- [React](https://github.com/enaqx/awesome-react) - App framework.
+- [ES6 Tools](awesome/addyosmani_es6-tools.md) :star:3520
+- [Web Performance Optimization](awesome/davidsonfellipe_awesome-wpo.md) :star:6077
+- [Web Tools](awesome/lvwzhen_tools.md) :star:307
+- [CSS](awesome/sotayamashita_awesome-css.md) :star:1301
+	- [Critical-Path Tools](awesome/addyosmani_critical-path-css-tools.md) :star:912
+	- [Scalability](awesome/davidtheclark_scalable-css-reading-list.md) :star:1225
+	- [Must-Watch Talks](awesome/AllThingsSmitty_must-watch-css.md) :star:3136
+	- [Protips](awesome/AllThingsSmitty_css-protips.md) :star:9921
+- [React](awesome/enaqx_awesome-react.md) - App framework. :star:22536
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components.
