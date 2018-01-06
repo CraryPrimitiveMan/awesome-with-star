@@ -34,7 +34,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
   - [Database](#database)
+  - [Data processing](#data-processing)
   - [Data structures](#data-structures)
+  - [Data visualization](#data-visualization)
   - [Date and time](#date-and-time)
   - [Distributed Systems](#distributed-systems)
   - [Email](#email)
@@ -73,7 +75,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns) — a DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [ivanceras/curtain](https://github.com/ivanceras/curtain) — a database administration tool for postgresql [<img src="https://api.travis-ci.org/ivanceras/curtain.svg">](https://travis-ci.org/ivanceras/curtain)
 * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust [<img src="https://api.travis-ci.org/cobalt-org/cobalt.rs.svg?branch=master">](https://travis-ci.org/cobalt-org/cobalt.rs)
-* [runconduit/conduit](https://github.com/runconduit/conduit) - Ultralight service mesh for Kubernetes. :star:361
+* [runconduit/conduit](https://github.com/runconduit/conduit) - Ultralight service mesh for Kubernetes. :star:635
 * [danielrangel/rsign](https://bitbucket.org/danielrangel/rsign) [[rsign](https://crates.io/crates/rsign)] — A simple command-line tool used to generate/sign/verify digital signatures designed to be compatible with Minisign  [![Codeship Status for danielrangel/rsign](https://app.codeship.com/projects/60b28d80-7645-0135-4402-1639b58199d0/status?branch=master)](https://app.codeship.com/projects/244452)
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
@@ -130,10 +132,11 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [rhex](https://github.com/dpc/rhex) — hexagonal ascii roguelike
   * [citybound](https://github.com/citybound/citybound) — The city sim you deserve
   * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) — a small 2D turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zemeroth.svg?branch=master">](https://travis-ci.org/ozkriff/zemeroth)
-  * [rsaarelm/magog](https://github.com/rsaarelm/magog) - A roguelike game in Rust :star:99
+  * [rsaarelm/magog](https://github.com/rsaarelm/magog) - A roguelike game in Rust :star:102
   * [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A renderer for Doom, may progress to being a playable game [<img src="https://api.travis-ci.org/cristicbz/rust-doom.svg?branch=master">](https://travis-ci.org/cristicbz/rust-doom)
-  * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) - Quake map renderer in Rust  :star:5
+  * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) - Quake map renderer in Rust :star:5
 * **Graphics**
+  * [Limeth/euclider](https://github.com/Limeth/euclider) — a real-time 4D CPU ray tracer [<img src="https://api.travis-ci.org/Limeth/euclider.svg?branch=master">](https://travis-ci.org/Limeth/euclider)
   * [ivanceras/svgbobrus](https://github.com/ivanceras/svgbobrus) — converts ASCII diagrams into SVG graphics [<img src="https://api.travis-ci.org/ivanceras/svgbobrus.svg">](https://travis-ci.org/ivanceras/svgbobrus)
   * [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
   * [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) — a ray tracer [<img src="https://api.travis-ci.org/Twinklebear/tray_rust.svg">](https://travis-ci.org/Twinklebear/tray_rust)
@@ -158,6 +161,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [redox-os/ion](https://github.com/redox-os/ion) — Next-generation system shell [<img src="https://api.travis-ci.org/redox-os/ion.svg?branch=master">](https://travis-ci.org/redox-os/ion)
   * [sharkdp/fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
   * [uutils/coreutils](https://github.com/uutils/coreutils) — a cross-platform Rust rewrite of the GNU coreutils [<img src="https://api.travis-ci.org/uutils/coreutils.svg?branch=master">](https://travis-ci.org/uutils/coreutils)
+  * [mattgreen/watchexec](https://github.com/mattgreen/watchexec) — Executes commands in response to file modifications [<img src="https://api.travis-ci.org/mattgreen/watchexec.svg?branch=master">](https://travis-ci.org/mattgreen/watchexec)
 * **Text editors**
   * [gchp/iota](https://github.com/gchp/iota) — a simple text editor [<img src="https://api.travis-ci.org/gchp/iota.svg?branch=master">](https://travis-ci.org/gchp/iota)
   * [mathall/rim](https://github.com/mathall/rim) — Vim-like text editor written in Rust [<img src="https://api.travis-ci.org/mathall/rim.svg?branch=master">](https://travis-ci.org/mathall/rim)
@@ -168,7 +172,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * **Utilities**
   * [arthrp/quick-skeleton](https://github.com/arthrp/quick-skeleton) — Project scaffolding tool, similar to Yeoman and Slush.
   * [yaa110/rubigo](https://github.com/yaa110/rubigo) — Golang dependency tool and package manager, written in Rust [<img src="https://api.travis-ci.org/yaa110/rubigo.svg?branch=master">](https://travis-ci.org/yaa110/rubigo)
-  * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV! :star:2
+  * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV! :star:3
 * **Virtualization**
   * [tailhook/vagga](https://github.com/tailhook/vagga) — a containerization tool without daemons [<img src="https://api.travis-ci.org/tailhook/vagga.svg?branch=master">](https://travis-ci.org/tailhook/vagga)
 * **Window Managers**
@@ -213,6 +217,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) [[cargo-outdated](https://crates.io/crates/cargo-outdated)] — displays when newer versions of Rust dependencies are available, or out of date [<img src="https://api.travis-ci.org/kbknapp/cargo-outdated.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-outdated)
   * [sunng87/cargo-release](https://github.com/sunng87/cargo-release) [[cargo-release](https://crates.io/crates/cargo-release)] — tool for releasing git-managed cargo project, build, tag, publish, doc and push [<img src="https://api.travis-ci.org/sunng87/cargo-release.svg?branch=master">](https://travis-ci.org/sunng87/cargo-release)
   * [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) [[cargo-script](https://crates.io/crates/cargo-script)] — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem [<img src="https://api.travis-ci.org/DanielKeep/cargo-script.svg?branch=master">](https://travis-ci.org/DanielKeep/cargo-script)
+  * [greyblake/cargo-testify](https://github.com/greyblake/cargo-testify) [[cargo-testify](https://crates.io/crates/cargo-testify)] — watches files changes, runs tests and notifies about the result with friendly OS notification [<img src="https://api.travis-ci.org/greyblake/cargo-testify.svg?branch=master">](https://travis-ci.org/greyblake/cargo-testify)
   * [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) [[cargo-update](https://crates.io/crates/cargo-update)] — cargo subcommand for checking and applying updates to installed executables [<img src="https://api.travis-ci.org/nabijaczleweli/cargo-update.svg?branch=master">](https://travis-ci.org/nabijaczleweli/cargo-update)
   * [passcod/cargo-watch](https://github.com/passcod/cargo-watch) [[cargo-watch](https://crates.io/crates/cargo-watch)] — utility for cargo to compile projects when sources change [<img src="https://api.travis-ci.org/passcod/cargo-watch.svg?branch=master">](https://travis-ci.org/passcod/cargo-watch)
 * CMake
@@ -288,7 +293,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * Objective-C
   * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Python
-  * [getsentry/milksnake](https://github.com/getsentry/milksnake) - extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable. :star:266
+  * [getsentry/milksnake](https://github.com/getsentry/milksnake) - extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable. :star:282
   * [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
   * [PyO3/PyO3](https://github.com/PyO3/PyO3) — Rust bindings for the Python interpreter [<img src="https://api.travis-ci.org/PyO3/pyo3.svg?branch=master">](https://travis-ci.org/PyO3/pyo3)
 * R
@@ -302,12 +307,12 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https://www.rust-lang.org/ides.html).
 
   * [Atom](https://atom.io/)
-    * [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust) :star:108
+    * [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust) :star:109
   * [Eclipse](https://eclipse.org/)
     * [RustDT](https://github.com/RustDT/RustDT) — [<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
   * [Emacs](https://www.gnu.org/software/emacs/)
     * [rust-mode](https://github.com/rust-lang/rust-mode) — Rust Major Mode
-    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck) :star:1450
+    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck) :star:1466
     * [emacs-racer](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete))
   * [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
   * [NetBeans](https://netbeans.org/)
@@ -316,7 +321,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
     * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) — [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
     * [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) — basic Toml support
   * [Ride](https://github.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
-  * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim) :star:25249
+  * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim) :star:25467
   * [Sublime Text](https://www.sublimetext.com/)
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) — official Rust package
     * [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) — native Sublime support (already installed)
@@ -360,6 +365,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [Mockito](https://github.com/lipanski/mockito) [[mockito](https://crates.io/crates/mockito)] — HTTP mocking [<img src="https://api.travis-ci.org/lipanski/mockito.svg?branch=master">](https://travis-ci.org/lipanski/mockito)
 * [reem/stainless](https://github.com/reem/stainless) [[stainless](https://crates.io/crates/stainless)] — Organized, flexible testing framework [<img src="https://api.travis-ci.org/reem/stainless.svg?branch=master">](https://travis-ci.org/reem/stainless)
 * [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) — a Rust fuzzer, using [AFL](http://lcamtuf.coredump.cx/afl/) [<img src="https://api.travis-ci.org/rust-fuzz/afl.rs.svg?branch=master">](https://travis-ci.org/rust-fuzz/afl.rs)
+* [trust](https://github.com/japaric/trust) - A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows :star:408
 * [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) [[tarpaulin](https://crates.io/crates/cargo-tarpaulin)] — A code coverage tool designed for Rust [<img src="https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master">](https://travis-ci.org/xd009642/tarpaulin)
 
 ## Libraries
@@ -565,6 +571,13 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
   * [ivanceras/rustorm](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
 
 
+### Data processing
+
+* [bluss/rust-ndarray](https://github.com/bluss/rust-ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
+* [kernelmachine/utah](https://github.com/kernelmachine/utah) — Dataframe structure and operations in Rust
+* [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications :star:745
+
+
 ### Data structures
 
 * [bluss/rust-itertools](https://github.com/bluss/rust-itertools) — [<img src="https://api.travis-ci.org/bluss/rust-itertools.svg?branch=master">](https://travis-ci.org/bluss/rust-itertools)
@@ -573,6 +586,10 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [fizyk20/generic-array](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums [<img src="https://api.travis-ci.org/fizyk20/generic-array.svg?branch=master">](https://travis-ci.org/fizyk20/generic-array)
 * [Nemo157/roaring-rs](https://github.com/Nemo157/roaring-rs) – Roaring Bitmaps in Rust [<img src="https://api.travis-ci.org/Nemo157/roaring-rs.svg?branch=master">](https://travis-ci.org/Nemo157/roaring-rs)
 * [reem/rust-typemap](https://github.com/reem/rust-typemap) — [<img src="https://api.travis-ci.org/reem/rust-typemap.svg?branch=master">](https://travis-ci.org/reem/rust-typemap)
+
+### Data Visualization
+
+* [saresend/gust](https://github.com/saresend/Gust) - [<img src="https://api.travis-ci.org/saresend/Gust.svg?branch=master">](https://travis-ci.org/saresend/Gust)
 
 
 ### Date and time
@@ -735,21 +752,22 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust [<img src="https://api.travis-ci.org/PistonDevelopers/conrod.svg?branch=master">](https://travis-ci.org/PistonDevelopers/conrod)
 * Cocoa
   * [kylewlacy/sorbet-cocoa](https://github.com/kylewlacy/sorbet-cocoa) — [<img src="https://api.travis-ci.org/kylewlacy/sorbet-cocoa.svg?branch=master">](https://travis-ci.org/kylewlacy/sorbet-cocoa)
-  * [servo/cocoa-rs](https://github.com/servo/cocoa-rs) :star:280
+  * [servo/cocoa-rs](https://github.com/servo/cocoa-rs) :star:285
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk](https://github.com/gtk-rs/gtk) — GTK+ bindings [<img src="https://api.travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
   * [relm](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm [<img src="https://api.travis-ci.org/antoyo/relm.svg?branch=master">](https://travis-ci.org/antoyo/relm)
 * [gyscos/Cursive](https://github.com/gyscos/Cursive) [[cursive](https://crates.io/crates/cursive)] — [<img src="https://api.travis-ci.org/gyscos/Cursive.svg?branch=master">](https://travis-ci.org/gyscos/Cursive)
-* [ImGui](https://github.com/ocornut/imgui) :star:8874
+* [ImGui](https://github.com/ocornut/imgui) :star:9148
   * [imgui-rs](https://github.com/Gekkio/imgui-rs) — Rust bindings for ImGui [<img src="https://api.travis-ci.org/Gekkio/imgui-rs.svg?branch=master">](https://travis-ci.org/Gekkio/imgui-rs)
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
+  * [clear-coat](https://github.com/jminer/clear-coat) — Clear Coat is a Rust wrapper for the IUP GUI library
   * [dcampbell24/iup-rust](https://github.com/dcampbell24/iup-rust) — IUP bindings [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — a simple UI framework built on IUP [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
-* [libui](https://github.com/andlabs/libui) :star:4759
+* [libui](https://github.com/andlabs/libui) :star:4796
   * [pcwalton/libui-rs](https://github.com/pcwalton/libui-rs) — libui bindings [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs)
 * [ncurses](http://www.gnu.org/software/ncurses/) [[ncurses](https://crates.io/keywords/ncurses)]
   * [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) — ncurses bindings [<img src="https://api.travis-ci.org/jeaye/ncurses-rs.svg?branch=master">](https://travis-ci.org/jeaye/ncurses-rs)
-* [Nuklear](https://github.com/vurtun/nuklear) :star:7570
+* [Nuklear](https://github.com/vurtun/nuklear) :star:7710
   * [nuklear-rust](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear [<img src="https://api.travis-ci.org/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
 * [Qt](http://doc.qt.io)
   * [cyndis/qmlrs](https://github.com/cyndis/qmlrs) — QtQuick bindings [<img src="https://api.travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
@@ -760,7 +778,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog](https://github.com/mlabbe/nativefiledialog) bindings
 * [Sciter](https://sciter.com/)
   * [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
-* [Termbox](https://github.com/nsf/termbox) :star:1158
+* [Termbox](https://github.com/nsf/termbox) :star:1178
   * [gchp/rustbox](https://github.com/gchp/rustbox) — a Rust implementation of Termbox [<img src="https://api.travis-ci.org/gchp/rustbox.svg?branch=master">](https://travis-ci.org/gchp/rustbox)
   * [ticki/termion](https://github.com/ticki/termion) — A bindless library for controlling terminals/TTY - provides a full-featured alternative to Termbox [<img src="https://api.travis-ci.org/ticki/termion.svg?branch=master">](https://travis-ci.org/ticki/termion)
 
@@ -974,7 +992,7 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
 * Podcasts
   * [New Rustacean](http://www.newrustacean.com) — a podcast about learning Rust
 * [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
-* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) :star:1193
+* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) :star:1224
 * [Rust Guidelines](http://aturon.github.io/)
 * [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
 

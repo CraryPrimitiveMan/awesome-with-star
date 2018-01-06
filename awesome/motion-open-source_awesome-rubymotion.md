@@ -105,7 +105,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps. :star:1
 * [MotionKit macOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - macOS Example Apps made with MotionKit.
 * [Rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - Simple OSX app using AVFoundation to stream, record, and transcode video. :star:6
-* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List. :star:7
+* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List. :star:8
 * [Menubar-popover](https://github.com/JonasNielsen/menubar-popover) - Example app to show how to use NSPopopver from the menubar. :star:10
 
 
@@ -121,7 +121,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Open Source iOS Apps
 * [Buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation. :star:1
-* [BeerJudge](https://github.com/OTGApps/BeerJudge) - iOS app for identifing different off flavors and aromas in a beer. :star:20
+* [BeerJudge](https://github.com/OTGApps/BeerJudge) - iOS app for identifing different off flavors and aromas in a beer. :star:21
 
 
 ### Propriety macOS Apps
@@ -139,7 +139,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ## Editors & RM
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
-* [Atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom. :star:4
+* [Atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom. :star:5
 * [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment. :star:41
 * [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:159
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
@@ -151,7 +151,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 Because Android support is quite new we're keeping the libraries together in this section.
 
-* [BluePotion](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (ALPHA). :star:67
+* [BluePotion](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (ALPHA). :star:68
 * [Toaster](https://github.com/jamonholmgren/toaster) - RubyMotion-android 'Toast' gem. Makes working with Android toasts really easy. :star:1
 * [Motion-maven](https://github.com/HipByte/motion-maven) - motion-maven lets you automatically manage 3rd-party Java dependencies in RubyMotion for Android projects using Maven. :star:17
 
@@ -192,7 +192,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion_print](https://github.com/OTGApps/motion_print) - RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL. :star:31
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) - Port of the awesome_print gem to RubyMotion. :star:49
 * [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:19
-* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:576
+* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:575
 
 
 ### Dependencies Management
@@ -216,14 +216,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
-* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:226
+* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1266
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1267
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
 * [ProMotion-menu](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem. :star:77
-* [ProMotion-push](https://github.com/infinitered/ProMotion-push) - Push notification support for ProMotion. :star:18
+* [ProMotion-push](https://github.com/infinitered/ProMotion-push) - Push notification support for ProMotion. :star:17
 * [ProMotion-map](https://github.com/infinitered/ProMotion-map) - ProMotion::MapScreen gem. Extracted from ProMotion core. :star:13
 
 
@@ -270,7 +270,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Menu's & Toolbars
-* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus. :star:44
+* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus. :star:45
 * [Better_toolbar](https://github.com/FluffyJack/better_toolbars) - Better way to work with toolbars. :star:7
 * [EverydayMenu](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your macOS apps. :star:11
 * [StatusBar](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar. :star:16
@@ -282,7 +282,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Hybrid
-* [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - Material design floating action button. :star:8
+* [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - Material design floating action button. :star:7
 * [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:40
 * [Motion-hybrid](https://github.com/balvig/motion-hybrid) - RubyMotion framework for easily making hybrid webview-centric iOS apps. :star:36
 
@@ -305,7 +305,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:198
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:107
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:69
-* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:178
+* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:177
 * [Motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver. :star:34
 * [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS.
@@ -320,7 +320,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Project Management
 * [Motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project. :star:26
-* [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion.
+* [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion. :star:37
 * [Motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion.
 * [Motion-my_env](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion. :star:9
 

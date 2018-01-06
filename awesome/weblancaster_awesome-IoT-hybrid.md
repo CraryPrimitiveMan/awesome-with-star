@@ -36,7 +36,7 @@
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan](https://github.com/lelylan/lelylan) :star:1117
+- [Lelylan](https://github.com/lelylan/lelylan) :star:1139
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -45,8 +45,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:32896
-- [Electron](https://github.com/atom/electron)
+- [nw.js](https://github.com/nwjs/nw.js) :star:33048
+- [Electron](https://github.com/atom/electron) :star:54790
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)

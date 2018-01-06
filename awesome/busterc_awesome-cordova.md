@@ -40,7 +40,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Tools
   - Generators
     - App
-      - [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova) :star:101
+      - [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova) :star:102
       - [generator-cordova](https://github.com/dangeross/generator-cordova)
       - [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
       - [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
@@ -48,27 +48,27 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:691
       - [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova) :star:1
       - [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova) :star:2
-      - [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:22
+      - [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:23
     - Icons + Splash Screens
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
     - Icons
-      - [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:557
+      - [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:563
       - [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
     - Splash Screens
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
-      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:341
+      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:347
       - [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
     - Plugin
-      - [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:12
+      - [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13
       - [generator-cordova-plugin-bb10](https://github.com/blackberry/generator-cordova-plugin-bb10)
       - [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) :star:14
   - Testing
     - [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
-    - [ripple](https://github.com/ripple-emulator/ripple) :star:30
+    - [ripple](https://github.com/ripple-emulator/ripple) :star:31
   - Building
     - [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   - Logging

@@ -30,7 +30,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​iOS)](https://itunes.apple.com/app/deem-movies/id1057365760) [(Android)](https://play.google.com/store/apps/details?id=com.deem).
-- [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en). :star:57
+- [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en). :star:58
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​iOS)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(Android)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(Android)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 - [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide. [(​iOS)](https://itunes.apple.com/br/app/guias-doop/id1235335392) [(Android)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
@@ -87,9 +87,9 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Open Source
 
-- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:69
+- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:68
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:25
-- [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:45
+- [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:46
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components :star:1
 - [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:30
@@ -101,7 +101,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase. :star:14
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools. :star:29
-- [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial). :star:40
+- [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial). :star:42
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
 - [Motion](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse. :star:12
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.

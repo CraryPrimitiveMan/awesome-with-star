@@ -57,7 +57,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:2924
+- [Frege](https://github.com/Frege/frege) - Official website. :star:2944
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -119,7 +119,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
 - [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
-- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!. :star:45
+- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!. :star:47
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
 ### Conferences
@@ -146,8 +146,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API. :star:15
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android. :star:1
 - [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege. :star:8
-- [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:8
-- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:86
+- [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:9
+- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:85
 
 ### Big Data
 
@@ -190,7 +190,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege. :star:5
 - [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege. :star:17
-- [Fervor](https://github.com/mchav/fervor) - Server for local directories. :star:
+- [Fervor](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools
 
@@ -199,7 +199,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
 - [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects. :star:7
 - [Gofre](https://github.com/NickSeagull/gofre) - Build system for Frege. :star:1
-- [gottlob](https://github.com/mchav/gottlob) - Build tool for Frege. :star:
+- [gottlob](https://github.com/mchav/gottlob) - Build tool for Frege.
 
 ### IDEs
 
@@ -209,7 +209,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### REPLs
 
-- [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console. :star:65
+- [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console. :star:66
 - [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL. :star:21
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 

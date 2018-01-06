@@ -34,23 +34,23 @@
 
 ## Packages
 
-- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:141
-- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions.
+- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:144
+- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:69
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:92
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:20
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
-- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:146
-- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:181
-- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:421
+- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149
+- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:180
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:425
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:53
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
-- [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly.
+- [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
 - [start-ava](https://github.com/start-runner/ava) - Run tests with Start. :star:6
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
 - [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB. :star:25
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint](https://github.com/eslint/eslint) plugins with AVA. :star:13
-- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:8
+- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js`](https://github.com/leebyron/testcheck-js).
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:2
@@ -60,7 +60,7 @@
 ## Works with AVA
 
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
-- [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js. :star:70
+- [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js. :star:72
 - [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
 - [pify](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
 - [p-event](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)

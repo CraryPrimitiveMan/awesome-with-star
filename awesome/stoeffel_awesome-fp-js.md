@@ -30,7 +30,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
-* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises. :star:43
+* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises. :star:44
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. :star:59
 * [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
@@ -52,7 +52,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
-* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:39
+* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:43
 
 ### Data Structures
 
@@ -110,14 +110,14 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Reason](http://facebook.github.io/reason/) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
-* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS. :star:243
-* [ion](https://github.com/ion-lang/ion) - no BS JS :star:26
-* [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS :star:85
+* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS. :star:253
+* [ion](https://github.com/ion-lang/ion) - no BS JS :star:28
+* [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS :star:84
 
 ## Programming Tools
 
-* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:358
-* [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1074
+* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:371
+* [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1080
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
@@ -172,7 +172,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [cube-composer](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
 * [FP Youtube Search](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
-* [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT. :star:183
+* [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT. :star:185
 * [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations. 
 * [Learn Rx](http://reactivex.io/learnrx/) – A series of interactive exercises introducing five basic ingredients of functional (reactive) programming: the `map`, `filter`, `concatAll`, `reduce`, and `zip` functions.
 
@@ -183,7 +183,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
 * [lucasviola/Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 * [xgrommx/Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
-* [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript) :star:218
+* [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript) :star:220
 
 ### Talk
 

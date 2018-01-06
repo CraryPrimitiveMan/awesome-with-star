@@ -19,25 +19,25 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable)
+- [Overview](https://github.com/zenparsing/es-observable) :star:1606
 - [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
 
-- [zen-observable](https://github.com/zenparsing/zen-observable) :star:303
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:9660
+- [zen-observable](https://github.com/zenparsing/zen-observable) :star:315
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:10076
 
 
 ## Packages
 
-- [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill. :star:38
-- [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable. :star:17
+- [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill. :star:39
+- [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable. :star:19
 - [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise. :star:24
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable. :star:52
-- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
+- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:66
 - [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function. :star:34
-- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
+- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:26
 
 
 ## Libraries

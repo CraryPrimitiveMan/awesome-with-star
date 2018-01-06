@@ -41,7 +41,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1621
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1652
 
 ### First Steps
 
@@ -55,7 +55,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Compatibility
 
-- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta. :star:
+- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
 - [Template Haskell](http://eta-lang.org/docs/html/faq.html#will-eta-have-an-interpreter-and-support-templatehaskell-in-the-future) - Status of Template Haskell.
 - [GHC 8](http://eta-lang.org/docs/html/faq.html#will-eta-be-compatible-with-ghc-8) - Compatibility with GHC 8.
 
@@ -116,7 +116,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Android
 
-- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:17
+- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:18
 
 ### Miscellaneous
 

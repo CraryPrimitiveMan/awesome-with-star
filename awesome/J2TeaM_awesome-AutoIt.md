@@ -69,6 +69,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
 - [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events. :star:7
 - [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
+- [3270 (by Worlor)](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT :star:1
 
 #### Browsers
 
@@ -369,9 +370,10 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Synology filestation (by nend)](https://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
 - [TVExplorer (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 - [SciLexer (by Kip)](https://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
-- [AutoItAppveyor (by KyleChamberlin)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI. :star:
+- [AutoItAppveyor (by KyleChamberlin)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
 - [Micro Unit Testing Framework (by KyleChamberlin)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt. :star:5
 - [TeenyScript (by tarretarretarre)](http://teenyscript.tarre.nu/documentation) - TeenyScript is a Superset of AutoIt which makes it more advanced. TeenyScript code are parsed into native AutoiT code.
+- [Logger (by Worlor)](https://github.com/Worlor/AutoIt-Logger) - Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days
 
 ## Tools
 

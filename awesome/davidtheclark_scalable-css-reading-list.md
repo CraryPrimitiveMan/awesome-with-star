@@ -57,7 +57,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 - [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 - [Bootstrap](http://mdo.github.io/code-guide/#css)
 - [SUIT](https://github.com/suitcss/suit/blob/master/doc/STYLE.md#4-css)
-- [Github](https://github.com/styleguide/css) :star:
+- [Github](https://github.com/styleguide/css)
 - [Medium](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google](https://google.github.io/styleguide/htmlcssguide.xml#CSS_Style_Rules)
 

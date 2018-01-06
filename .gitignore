@@ -1,0 +1,5 @@
+/script/
+.idea
+*.sh
+*.log
+*.out

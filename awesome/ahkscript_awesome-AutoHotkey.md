@@ -78,8 +78,8 @@ Development state:
 * [XA](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849). :star:2
 
 ### Database
-* [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179). :star:33
-* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064). :star:14
+* [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179). :star:32
+* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064). :star:15
 
 ### Filesystem
 * [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
@@ -138,7 +138,7 @@ Development state:
 ### Maths
 * [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
 * [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
-* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:20
+* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:21
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
@@ -148,7 +148,7 @@ Development state:
 * [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
 * [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
 * [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
-* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:4
+* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:5
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
@@ -161,13 +161,13 @@ Development state:
 
 ### Text manipulation
 * [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
-* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576). :star:43
+* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576). :star:42
 
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:83
-* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:30
+* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:84
+* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:31
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:15
 
 ## Scripts
@@ -177,7 +177,7 @@ Development state:
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 ### <a name="scripts-filesystem"></a>Filesystem
-* [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc). :star:118
+* [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc). :star:120
 
 ### <a name="scripts-graphics"></a>Graphics
 * [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
@@ -209,7 +209,7 @@ Development state:
 * [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
 * [SnapX](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_  :star:150
-* [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_ :star:13
+* [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_ :star:14
 
 ## <a name="tools"></a>Tools
 *List of useful AutoHotkey tools. Tools made for AutoHotkey*
@@ -218,7 +218,7 @@ Development state:
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - AutoHotkey for Pocket PCs / WinCE / Smartphones. Forum thread: [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
-* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*. :star:
+* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*. :star:313
 
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
@@ -235,9 +235,9 @@ Development state:
 * [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
-* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped. :star:134
+* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped. :star:137
 * [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
-* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) - Vim plugin to add auto-completion. (omni-completion) :star:
+* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) - Vim plugin to add auto-completion. (omni-completion)
 * [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey. :star:8
 
 ### GUI WYSIWYG Builders
@@ -266,7 +266,7 @@ Development state:
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
-* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk). :star:39
+* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk). :star:40
 * [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 * [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - Tutorial [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
 * [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - Forum thread: [link](https://autohotkey.com/board/topic/11249-embedding-perl/).
