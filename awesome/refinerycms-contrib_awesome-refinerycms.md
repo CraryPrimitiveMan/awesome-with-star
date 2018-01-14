@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:54
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1341
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1345
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:7
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -24,11 +24,11 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 
 ## [Solidus e-commerce](https://github.com/solidusio/solidus) + Refinery extensions
-* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery :star:6
+* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery :star:7
 
 ## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
 * [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product :star:1
-* [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery :star:9
+* [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery :star:10
 
 ## Refinery team extensions
 
@@ -39,7 +39,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [Resources](https://github.com/refinery/refinerycms/tree/master/resources)
 
 ### Frontoffice extensions
-* [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:7
+* [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:8
 * [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
 * [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:106
 * [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:124
@@ -51,7 +51,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:24
 
 ### Developer tools
-* [Forms](https://github.com/refinery/refinerycms-forms)
+* [Forms](https://github.com/refinery/refinerycms-forms) :star:1
 
 
 ---

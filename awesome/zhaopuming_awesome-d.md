@@ -84,7 +84,7 @@
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
-* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
+* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. 
 
 ## Events
 
@@ -150,17 +150,17 @@
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](http://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/dlang/dub) - Official package and build management system for D. :star:391
+* [dub](https://github.com/dlang/dub) - Official package and build management system for D. :star:393
 
  
 ## Compilers
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1724
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:650
-* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:332
-* [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:149
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1727
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:652
+* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:333
+* [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:150
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
 
@@ -168,10 +168,10 @@
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon. :star:391
+* [dub](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon. :star:393
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects :star:2
-* [reggae](https://github.com/atilaneves/reggae) - meta build system in D :star:49
+* [reggae](https://github.com/atilaneves/reggae) - meta build system in D :star:51
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects :star:17
 * [cmake-d](https://github.com/dcarp/cmake-d) - CMake D Projects :star:28
 * [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D :star:17
@@ -186,8 +186,8 @@
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:181
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:250
-* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:168
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:216
+* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:170
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:217
 
  
 ## Lexers, Parsers, Parser Generators
@@ -219,21 +219,24 @@
 *Networking library*
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects :star:107
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2 :star:31
-* [collie](https://github.com/putaolabs/collie) -  An asynchronous event-driven Cross-platform network framework written in D,like facebook/wangle. :star:49
+* [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D. :star:49
 
 *Full stack web frameworks.*
+* [Hunt](http://www.huntframework.com/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:303
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:305
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS. :star:16
 * [diamond](https://github.com/DiamondMVC/Diamond/) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
 *RPC library*
+* [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework. :star:23
 * [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now. :star:22
 
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
 
 ### Binary Serilization
+* [flatbuffers](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library. :star:12
 * [cerealed](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D. :star:35
 
@@ -255,17 +258,20 @@
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
-* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:894
+* [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite. :star:16
+* [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements. :star:2
+* [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite. :star:12
+* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:895
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:58
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL. :star:41
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:303
-* [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction. :star:43
-* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)). :star:68
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:305
+* [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction. :star:44
+* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)). :star:69
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL. :star:19
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2097
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2119
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:66
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:8
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
@@ -278,13 +284,13 @@
 *Libraries for working with graphical user interface applications.*
 
 
-* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide). :star:393
+* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide). :star:398
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D. :star:195
 * [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet. :star:85
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:87
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:27
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4796
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4812
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -354,8 +360,8 @@
 ## Parallel computing
 
 * [DCompute](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
-* [DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language. :star:15
-* [DerelictCL](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language. :star:4
+* [DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language. :star:16
+* [DerelictCL](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language. :star:5
 
 ## Scientific
 *Scientific programming*
@@ -365,6 +371,7 @@
 * [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others. :star:157
 * [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library. :star:157
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators. :star:18
+* [decimals](https://github.com/rumbu13/decimal) - Decimal library for D. :star:6
 
 ## Text Processing
 
@@ -380,7 +387,7 @@
 *Parsing configuration files*
 
 - [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D. :star:55
-- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language. :star:79
+- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language. :star:80
 - [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D :star:16
 
 ## Blog Engine
@@ -390,7 +397,7 @@
 
 ## Testing
 
-- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit :star:56
+- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit :star:55
 - [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework :star:75
 
 ## Other Awesome Lists

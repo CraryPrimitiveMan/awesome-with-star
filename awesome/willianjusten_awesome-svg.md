@@ -9,7 +9,6 @@
 	- [Accessible SVG](topics/Accessibility.md)
 	- [Animation](topics/Animation.md)
 	- [Books](topics/Books.md)
-	- [Downloads](topics/Downloads.md)
 	- [Experiments](topics/Experiments.md)
 	- [Filters](topics/Filters.md)
 	- [Follow on Twitter](topics/Follow-twitter.md)
@@ -48,9 +47,9 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) :star:74954
-* [Awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:993
-* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20426
+* [Awesome](https://github.com/sindresorhus/awesome) :star:75579
+* [Awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1003
+* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20480
 
 ## License
 

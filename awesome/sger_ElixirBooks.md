@@ -147,6 +147,12 @@ Learn and understand Erlang and Elixir and develop a working knowledge of the co
 
 Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
+### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
+
+<img src="https://images.manning.com/720/960/resize/book/6/0bad159-5a00-4aa9-b4b1-17cfe2fd7455/Lessel-Phoenix-MEAP-HI.png" width="120px"/>
+
+Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
+
 ### [Building Web Applications with Erlang](http://shop.oreilly.com/product/0636920021452.do)
 
 <img src="http://akamaicovers.oreilly.com/images/0636920021452/cat.gif" width="120px"/>
@@ -172,7 +178,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7503
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7536
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

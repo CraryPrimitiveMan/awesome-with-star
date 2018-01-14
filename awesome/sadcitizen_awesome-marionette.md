@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7172
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7179
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
@@ -87,10 +87,10 @@
 ## Examples and boilerplates
 
 - [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate) :star:257
-- [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js :star:23
+- [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js :star:22
 - [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js :star:18
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:66
-- [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:357
+- [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:358
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:337
 - [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:105
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:15
@@ -109,6 +109,6 @@
 - [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:136
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:70
-- [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:69
+- [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:70
 - [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework :star:26
 

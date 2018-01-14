@@ -57,9 +57,9 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1457
+* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1465
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform. :star:55
-* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2. :star:73
+* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2. :star:75
 * [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables. :star:29
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS. :star:4
 * [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer. :star:24
@@ -70,22 +70,22 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS. :star:7
 * [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS. :star:23
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS. :star:24
-* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS. :star:205
+* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS. :star:204
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS. :star:17
-* [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean. :star:12
+* [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean. :star:13
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:556
-* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:319
+* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:568
+* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:327
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:249
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts. :star:9
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it. :star:20
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources. :star:22
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:968
-* [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv. :star:210
-* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:152
-* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:33
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources. :star:23
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:980
+* [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv. :star:216
+* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:158
+* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:40
 
 
 ## Talks
@@ -105,8 +105,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Editor Plugins
 
-* [Vim-Terraform](https://github.com/hashivim/vim-terraform) :star:194
-* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:58
+* [Vim-Terraform](https://github.com/hashivim/vim-terraform) :star:196
+* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:61
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode) :star:59
 

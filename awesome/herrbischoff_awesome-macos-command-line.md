@@ -1,4 +1,4 @@
-# Info come from [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
+# Info come from [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
 
 > A curated list of shell commands and tools specific to OS X.
@@ -53,6 +53,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Power Management](#power-management)
 - [Input Devices](#input-devices)
     - [Keyboard](#keyboard)
+- [Launchpad](#launchpad)
 - [Media](#media)
     - [Audio](#audio)
     - [Video](#video)
@@ -150,6 +151,7 @@ mdfind kMDItemAppStoreHasReceipt=1
 ```
 
 #### Show Debug Menu
+Works up to Yosemite.
 ```bash
 # Enable
 defaults write com.apple.appstore ShowDebugMenu -bool true
@@ -215,12 +217,18 @@ defaults write com.apple.addressbook ABShowDebugMenu -bool false
 ### iTunes
 
 #### Keyboard Media Keys
+This works up to Yosemite. System Integrity Protection was introduced in El Capitan which prevents system Launch Agents from being unloaded.
 ```bash
 # Stop Responding to Key Presses
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
 # Respond to Key Presses (Default)
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
+```
+
+From El Capitan onwards, you can either disable SIP or resort to a kind of hack, which will make iTunes inaccessible to any user, effectively preventing it from starting itself or its helpers. Be aware that for all intents and purposes this will trash your iTunes installation and may conflict with OS updates down the road.
+```bash
+sudo chmod 0000 /Applications/iTunes.app
 ```
 
 ### Mail
@@ -363,9 +371,34 @@ sudo tmutil enablelocal
 sudo tmutil disablelocal
 ```
 
+Since High Sierra, you cannot disable local snapshots. Time Machine now always creates a local APFS snapshot and uses that snapshot as the data source to create a regular backup, rather than using the live disk as the source, as is the case with HFS formatted disks. 
+
 #### Prevent Time Machine from Prompting to Use New Hard Drives as Backup Volume
 ```bash
 sudo defaults write /Library/Preferences/com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
+```
+
+#### Show Time Machine Logs
+This little script will output the last 12 hours of Time Machine activity followed by live activity.
+```bash
+#!/bin/sh
+
+filter='processImagePath contains "backupd" and subsystem beginswith "com.apple.TimeMachine"'
+
+# show the last 12 hours
+start="$(date -j -v-12H +'%Y-%m-%d %H:%M:%S')"
+
+echo ""
+echo "[History (from $start)]"
+echo ""
+
+log show --style syslog --info --start "$start" --predicate "$filter"
+
+echo ""
+echo "[Following]"
+echo ""
+
+log stream --style syslog --info --predicate "$filter"
 ```
 
 #### Verify Backup
@@ -411,9 +444,21 @@ defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "l
 killall Dock
 ```
 
+#### Add a Nameless Stack Folder and Small Spacer
+```bash
+defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = {}; "tile-type"="small-spacer-tile"; }' && \
+killall Dock
+```
+
 #### Add a Space
 ```bash
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}' && \
+killall Dock
+```
+
+#### Add a Small Space
+```bash
+defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}' && \
 killall Dock
 ```
 
@@ -532,7 +577,11 @@ sudo diskutil repairPermissions /
 
 #### Set Boot Volume
 ```bash
+# Up to Yosemite
 bless --mount "/path/to/mounted/volume" --setBoot
+
+# From El Capitan
+sudo systemsetup -setstartupdisk /System/Library/CoreServices
 ```
 
 #### Show All Attached Disks and Partitions
@@ -986,6 +1035,20 @@ Sets a very fast repeat rate, adjust to taste.
 defaults write -g KeyRepeat -int 0.02
 ```
 
+## Launchpad
+
+#### Reset Launchpad Layout
+You need to restart `Dock` because Launchpad is tied to it.
+```bash
+# Up to Yosemite
+rm ~/Library/Application\ Support/Dock/*.db && \
+killall Dock
+
+# From El Capitan
+defaults write com.apple.dock ResetLaunchPad -bool true && \
+killall Dock
+```
+
 ## Media
 
 ### Audio
@@ -1088,6 +1151,11 @@ scselect
 
 # Switch Network Location
 scselect LocationNameFromStatus
+```
+
+#### Set Static IP Address
+```bash
+networksetup -setmanual "Ethernet" 192.168.2.100 255.255.255.0 192.168.2.1
 ```
 
 ### Networking Tools
@@ -1738,7 +1806,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7271
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7309
 
 #### fish
 Install the latest version and set as current user's default shell:
@@ -1751,8 +1819,8 @@ chsh -s $(brew --prefix)/bin/fish
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](https://fisherman.github.io/) - A blazing fast, modern plugin manager for Fish.
-- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:2950
-- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:137
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:2975
+- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:139
 
 #### Zsh
 Install the latest version and set as current user's default shell:
@@ -1764,20 +1832,20 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8430
-- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:838
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8463
+- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:842
 
 ### Terminal Fonts
 
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
-- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:4339
+- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:4348
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1821
+- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1823
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10384
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10478
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 

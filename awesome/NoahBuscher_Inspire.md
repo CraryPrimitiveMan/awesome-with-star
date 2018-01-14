@@ -13,7 +13,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
 * [siteInspire](http://www.siteinspire.com/) - Get inspired.
-* [Designer News](https://news.layervault.com/) - The best design / development links from the 'net.
+* [Designer News](https://www.designernews.co/) - The best design / development links from the 'net.
 * [CSS Winner](http://www.csswinner.com/) - Reviewed list of great websites.
 * [OnePageLove](https://onepagelove.com/) - Great influence for one page and general website design.
 * [CodeMyUI](https://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
@@ -54,7 +54,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
-    * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy. :star:260
+    * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy. :star:261
     * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme. :star:1813
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.

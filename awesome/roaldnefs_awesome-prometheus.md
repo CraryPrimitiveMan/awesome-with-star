@@ -22,20 +22,20 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:13884
+* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:14024
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
 ## Tutorials
 
-* [How To Install Prometheus using Docker on CentOS 7 ](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
-* [How to Use Prometheus to Monitor Your CentOS 7 Server ](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
+* [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
+* [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
 * [How To Install Prometheus using Docker on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04) - Walkthough on how to install Prometheus on Ubuntu 14.04.
 * [How To Use Prometheus to Monitor Your Ubuntu 14.04 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-ubuntu-14-04-server) - Walkthough on how to monitor a Ubuntu 14.04 server using Prometheus.
 * [How To Query Prometheus on Ubuntu 14.04 Part 1](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-1) - Part 1 of 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Query Prometheus on Ubuntu 14.04 Part 2](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-2) - Part 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
-* [How To Add a Prometheus Dashboard to Grafana ](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-* [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz. :star:49
+* [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
+* [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz. :star:51
 * [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 * [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 * [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
@@ -47,11 +47,12 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
 * [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) - FOSDEM 2016 - January 31, 2016 - Brian Brazil.
 * [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) - PromCon 2016 - So You Want to Write an Exporter - Brian Brazil
+* [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) - PromCon Munich - August 17-18, 2017 at Google Munich - talk recordings.
 
 ## Podcasts and interviews
 
 * [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -  Julius Volz on the FLOSS Weekly TWiT.tv show.
-* [Prometheus and Service Monitoring ](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
+* [Prometheus and Service Monitoring](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
 * [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) - Brian Brazil on the Software Engineering Daily podcast.
 
 ## Presentations
@@ -63,7 +64,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Blog posts and opinions
 
-* [Prometheus: Monitoring at SoundCloud ](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
+* [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
 * [Prometheus: A Next-Generation Monitoring System](http://www.boxever.com/prometheus-a-next-generation-monitoring-system/) - First hand experiences using Prometheus from Boxever Tech.
 * [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/) - Using Prometheus to monitor Docker containers.
 * [Prometheus and Kubernetes: A Perfect Match](https://www.weave.works/prometheus-kubernetes-perfect-match/) - Part 1 of 3 in the series _Prometheus and Kubernetes_.
@@ -83,16 +84,17 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 * [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open source metric analytics & visualization suite _tutorial by Prometheus_.
 * [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) - Prometheus Monitoring with Grafana _tutorial by logz.io_.
-* [PromDash](https://prometheus.io/docs/visualization/promdash/) - Browser-based dashboard builder for Prometheus _tutorial by Prometheus_.
 
 ## Exporters
-* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:373
-* [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:141
+
+* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:383
+* [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:143
 * [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:18
-* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:220
-* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1143
+* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:224
+* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1166
 
 ## Proxies
+
 * [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy. :star:15
 
 ## Uncategorized

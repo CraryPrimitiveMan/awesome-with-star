@@ -67,7 +67,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-  * [Cornerstome](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:611
+  * [Cornerstome](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:617
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
@@ -79,7 +79,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
-  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:194
+  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:195
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
@@ -91,31 +91,31 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
 
 ### Frameworks
-  * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient and clinician-facing apps. :star:82
+  * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient and clinician-facing apps. :star:84
   * [C3-PRO-Server](https://github.com/chb/c3-pro-server) - Highly reliable and scalable FHIR compliant web server. :star:4
   * [CareKit](https://github.com/carekit-apple/CareKit/) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPPA, and HL7 compliant applications.
   * [FHIRBase](http://fhirbase.github.io) - Storage based on the FHIR Standard.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang. :star:56
   * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
-  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects. :star:4946
+  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects. :star:4948
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server. :star:79
-  * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X. :star:54
+  * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X. :star:55
 
 ### Libraries
-  * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR. :star:222
+  * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR. :star:224
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR. :star:107
-  * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers. :star:471
+  * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers. :star:474
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III. :star:82
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
-  * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library. :star:12
-  * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects. :star:98
+  * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+  * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby. :star:28
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library. :star:91
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles. :star:16
-  * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts. :star:19
+  * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts. :star:20
 
 ### PHR
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
@@ -132,13 +132,13 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Hardware
   * [echOpen](http://echopen.org/) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer. :star:8
-  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:319
+  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:320
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
 
 ### Bioinformatics
-  * [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform. :star:686
-  * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis. :star:520
+  * [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform. :star:694
+  * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis. :star:522
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
@@ -151,7 +151,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:91
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:1589
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:1702
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:5

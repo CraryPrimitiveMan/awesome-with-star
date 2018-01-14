@@ -172,7 +172,7 @@ Contributions are always welcome!
 * [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 * [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Know thy enemy: how to prioritize and communicate risks - CRE life lessons](https://cloudplatform.googleblog.com/2017/05/know-thy-enemy-how-to-prioritize-and-communicate-risks-CRE-life-lessons.html)
-* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:832
+* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:896
 * [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 
 ## Monitoring and Alerting
@@ -204,11 +204,11 @@ Contributions are always welcome!
 * [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook) :star:218
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
-* [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template) :star:86
+* [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template) :star:87
 * [Automating Your Oncall: Open Sourcing Fossor and Ascii Etch](https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch)
 
 ## Post-Mortem
-* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3259
+* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3268
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -244,6 +244,7 @@ Contributions are always welcome!
 * [A Practical Guide to SLAs](http://blog.catchpoint.com/2016/08/04/sla-practical-guide/)
 * [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 * [No Grumpy Humans and Other Site Reliability Engineering Lessons from Google](https://thenewstack.io/sre-lessons-google-no-grumpy-humans/)
+* [Consequences of SLO violations — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -268,7 +269,7 @@ Contributions are always welcome!
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
-* [Open AWS guide](https://github.com/open-guides/og-aws) :star:18772
+* [Open AWS guide](https://github.com/open-guides/og-aws) :star:18817
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.

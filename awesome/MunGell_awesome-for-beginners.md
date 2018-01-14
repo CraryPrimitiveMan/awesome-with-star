@@ -64,7 +64,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
-- [Leaflet](https://github.com/Leaflet/Leaflet/labels/easy%20fix) _(label: easy fix)_ <br> JavaScript library for mobile-friendly interactive maps.
+- [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [angular-formly](https://github.com/formly-js/angular-formly/labels/first-timers-only) _(label: first-timers-only)_ <br> JavaScript powered forms for AngularJS.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
@@ -142,7 +142,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
-- [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
+- [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
 - [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
@@ -153,14 +153,14 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 ## Rust
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
-- [Rust-Clippy](https://github.com/Manishearth/rust-clippy/labels/E-easy) _(label: E-easy)_  <br> A bunch of lints to catch common mistakes and improve Rust code
-- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/easy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
+- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
-- [playframework](https://github.com/playframework/playframework/labels/newbie) _(label: newbie)_ The High Velocity Web Framework
+- [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ The High Velocity Web Framework
 
 ## TypeScript
 

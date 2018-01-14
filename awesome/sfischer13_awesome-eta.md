@@ -41,7 +41,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1652
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1664
 
 ### First Steps
 
@@ -116,12 +116,12 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Android
 
-- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:18
+- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:20
 
 ### Miscellaneous
 
 - [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code. :star:26
-- [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta. :star:24
+- [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta. :star:25
 
 ## License
 

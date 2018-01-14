@@ -63,6 +63,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
+  - [Paste JSON as Code](#paste-json-as-code)
   - [Path IntelliSense](#path-intellisense)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
@@ -76,6 +77,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
+  - [Wrap Selection](#wrap-selection)
 - [Explorer Icons](#explorer-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
@@ -115,6 +117,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
@@ -128,7 +131,9 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
+- [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
+- [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
@@ -218,6 +223,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [php-intellisense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - PHP IntelliSense
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
+- [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
 
 ### Python
 
@@ -237,14 +243,18 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:50
-- [Pragmatic Essence](https://github.com/orta/Essence) :star:48
+- [Essence](https://github.com/flagello/Essence) :star:49
+- [Pragmatic Essence](https://github.com/orta/Essence) :star:49
 
 ### Syntax
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
 ![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
+
+#### [Ariake Dark Color Theme](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+
+![](https://raw.githubusercontent.com/a-wart/ariake-dark/master/misc/ariake_dark_github.png)
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
@@ -393,6 +403,12 @@ Features full workbench theming
 
 ![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
+#### [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+> Infer the structure of JSON and paste is as types in many programming languages
+
+![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
+
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 > Visual Studio Code plugin that autocompletes filenames
@@ -466,6 +482,12 @@ Features full workbench theming
 > Sorts lines of text in specific order
 
 ![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
+
+### [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
+
+> Wraps selection or multiple selections with symbol or multiple symbols
+
+![](https://github.com/gko/wrap/blob/master/features.gif)
 
 ## Explorer Icons
 
@@ -574,7 +596,7 @@ Features full workbench theming
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:113
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:115
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 - [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 

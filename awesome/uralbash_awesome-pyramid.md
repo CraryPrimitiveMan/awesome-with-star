@@ -103,10 +103,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2721
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2723
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:837
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:838
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -193,17 +193,17 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:283
+* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:282
   library.
-* [colander](https://github.com/Pylons/colander) - A :star:313
+* [colander](https://github.com/Pylons/colander) - A :star:312
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:749
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:751
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2165
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2185
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -217,7 +217,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:316
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:317
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -230,13 +230,13 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:70
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:541
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:544
   HTTP request arguments, with built-in support for popular web frameworks.
-* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:282
+* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:281
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:52
   API framework sitting on top of Pyramid and ElasticSearch
-* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:52
+* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:53
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:11
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
@@ -318,7 +318,7 @@ provide new storage backends.*
 
 *Packages that help test code or generate test data.*
 
-* [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and :star:212
+* [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and :star:214
   makes it easy to send test requests to that application, without starting up
   an HTTP server.
 
@@ -344,7 +344,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:368
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:370
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -436,10 +436,10 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:75
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1349
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1366
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
-* [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:10
+* [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12
 * [RhodeCode](https://rhodecode.com/) - enterprise source code management platform. It applies unified user control, permissions, code reviews, and tool integration across Mercurial, Git, and Subversion repositories. Large and growing software teams all over the world use RhodeCode to collaborate in a secure, behind-the-firewall environment. 
 
 ## Project Management

@@ -34,27 +34,26 @@
 
 ## Packages
 
-- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:144
-- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:69
+- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:145
+- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:70
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:92
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:20
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:180
-- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:425
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:428
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:53
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
 - [start-ava](https://github.com/start-runner/ava) - Run tests with Start. :star:6
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
-- [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB. :star:25
+- [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB. :star:26
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint](https://github.com/eslint/eslint) plugins with AVA. :star:13
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
-- [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js`](https://github.com/leebyron/testcheck-js).
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:2
-- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:92
+- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:93
 
 
 ## Works with AVA

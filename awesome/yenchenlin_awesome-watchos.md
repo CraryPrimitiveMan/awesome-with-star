@@ -26,12 +26,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Libraries And Frameworks
 
 ### Connectivity
- * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds. :star:3356
+ * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds. :star:3361
 
   <space><space><img src="https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif" width="500") alt="Example App"/>
 
 ### UI
- * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier. :star:856
+ * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier. :star:857
 
   <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg" width="500") alt="Example App"/>
 
@@ -39,7 +39,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="300") alt="Example App"/>
 ### Charts
- * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS. :star:363
+ * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS. :star:364
 
   <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
@@ -65,8 +65,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  * [thinkapps for watch](http://thinkapps.com/watch-apps) - A website help you create your free Apple Watch App prototype in just 10 minutes.
 
 ### Images Generator
- * [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch. :star:414
- * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator. :star:353
+ * [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch. :star:415
+ * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator. :star:354
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
@@ -86,7 +86,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
    <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
 
- * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift. :star:1500
+ * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift. :star:1508
  * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM. :star:573
 
     <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
@@ -107,12 +107,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966") alt="Example App" width="500"/>
 
- * [WatchPics](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch. :star:84
+ * [WatchPics](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch. :star:85
 
     <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
 
  * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. :star:1076
- * [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2. :star:1017
+ * [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2. :star:1018
 
  * [soon](https://github.com/sandofsky/soon) - A countdown app. :star:64
 
@@ -157,14 +157,14 @@ Other amazingly awesome lists can be found in the
  * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. :star:13613
-   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software. :star:4424
+   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. :star:13672
+   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software. :star:4437
  * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
  * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
- * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries. :star:3064
- * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift. :star:1093
+ * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries. :star:3094
+ * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift. :star:1103
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
- * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. :star:9939
+ * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. :star:9952
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing

@@ -22,10 +22,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:110
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:112
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:43
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
-* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:40
+* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:41
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses. :star:8
 * [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs :star:29
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard :star:14
@@ -34,13 +34,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:36
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:30
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:49
-* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:33
+* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:34
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:17
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:206
-* [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service :star:17
-* [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration :star:10
+* [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service :star:18
+* [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) - Amazon SQS integration :star:10
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 * [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint :star:5
 
@@ -63,6 +63,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra :star:59
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak :star:1
 * [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:12
+* [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/atomix/)
 
 ### Metrics
 
@@ -79,12 +80,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:55
 * [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:102
-* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:26
+* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:27
 
 ### Guice
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:242
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:115
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:243
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:116
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:17
 
 ### Deployment
@@ -104,14 +105,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Serving Static Assets with DropWizard](https://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/)
 * [Hooking up Custom Jersey Servlets in Dropwizard](https://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/)
 * [Using Hibernate DAOs in DropWizard Tasks](https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
-* [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/2015/04/hibernate-in-dropwizard-cli-commands/)
 * [Heroku for Highly Available Dropwizard Apps](http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1)
 * [Enabling Newrelic for Dropwizard](http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/)
 * [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard)
 * [Using Hystrix with Dropwizard](http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html)
-* [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
+* [Using Dropwizard in combination with Elasticsearch](https://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
-* [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
+* [Use Consul's KV store for Dropwizard settings](http://www.remmelt.com/post/use-consuls-kv-store-for-dropwizard-settings/)
 * [Deploying Dropwizard on App Engine Flex](https://www.aytech.ca/blog/dropwizard-app-engine-flexible-env/)
 * [Measuring the performance of your Dropwizard application](https://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
 * [Heroku + Gradle + Dropwizard](https://www.aytech.ca/blog/heroku-gradle-dropwizard/)
@@ -119,7 +119,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Community
 
 * [dropwizard-user](https://groups.google.com/forum/#!forum/dropwizard-user)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/dropwizard)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/dropwizard)
 * [`@dropwizardio` on twitter](https://twitter.com/dropwizardio)
 
 ## Videos
@@ -139,5 +139,5 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
 

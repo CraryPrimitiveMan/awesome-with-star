@@ -30,7 +30,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​iOS)](https://itunes.apple.com/app/deem-movies/id1057365760) [(Android)](https://play.google.com/store/apps/details?id=com.deem).
-- [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en). :star:58
+- [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en). :star:59
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​iOS)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(Android)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(Android)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 - [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide. [(​iOS)](https://itunes.apple.com/br/app/guias-doop/id1235335392) [(Android)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
@@ -87,7 +87,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Open Source
 
-- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:68
+- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:69
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:25
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:46
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
@@ -96,7 +96,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:4
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:163
-- [Fuse Taptic-Feedback](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine.
+- [Fuse Taptic-Feedback](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine. :star:1
 - [fuse.QrScanner](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode. :star:2
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase. :star:14
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
@@ -107,7 +107,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse. :star:5
-- [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse. :star:6
+- [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse. :star:7
 
 ## Plugins
 

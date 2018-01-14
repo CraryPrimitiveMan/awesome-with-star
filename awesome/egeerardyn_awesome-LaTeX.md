@@ -88,7 +88,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 - [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss][foss]
 	- [LaTeXTools](https://atom.io/packages/latextools) - An Atom port of the Sublime Text package of the same name. ![foss][foss]
 
-- [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:573
+- [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:578
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
 	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1583
 
@@ -98,11 +98,11 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:264
-	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1053
+	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:268
+	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1067
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:63
+	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:65
 
 ### Online editors
 
@@ -149,7 +149,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## LaTeX-compatible GUI tools
 
 - [TikzEdt](http://www.tikzedt.org) (also:  [GitHub repo](https://github.com/hchapman/tikzedt)) - WYSIWYG and text-based editor for TikZ pictures. ![foss][foss]
-- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss] :star:92
+- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss] :star:93
 - [IPE](http://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss][foss]
 - [GeoGebra](https://www.geogebra.org/cms/) - Cross-platform geometry tool with output to TikZ. ![foss][foss]
 - [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss][foss]
@@ -181,12 +181,12 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - A collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - A truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - A short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:24
+- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:25
 
 ## Templates
 
 - [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-- [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews. :star:228
+- [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews. :star:229
 
 ## Symbols
 
@@ -210,7 +210,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Tutorials
 
 - [The (Not So) Short Introduction to LaTeX2e](http://mirrors.ctan.org/info/lshort/english/lshort.pdf) - A very comprehensive introduction to LaTeX.
-- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2055
+- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2056
 - [Getting to Grips with LaTeX](https://www.andy-roberts.net/writing/latex) - A complete guide going through the majority of things you need to know about LaTeX.
 
 ## Books

@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:208
-- [Repo](https://github.com/yoshuawuyts/choo) :star:4918
+- [Repo](https://github.com/yoshuawuyts/choo) :star:4964
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,12 +30,12 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:402
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:818
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:824
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:336
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:341
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
-- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:67
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:99
+- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:70
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:102
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:22
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:24
@@ -71,14 +71,14 @@ under the hood:
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
 - [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:10
 - [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`. :star:17
-- [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:23
+- [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:25
 
 ### Elements
 
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:105
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo. :star:15
 - [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library. :star:3
-- [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework. :star:7
+- [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework. :star:8
 
 ### CLI Templates
 
@@ -109,15 +109,17 @@ Other CLI templates
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo. :star:10
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review). :star:3
 - [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
-- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:18
+- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:19
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor. :star:33
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:28
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:5
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages. :star:30
-- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:356
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:358
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:2
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:410
+- [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:4
+
 
 ### License
 

@@ -27,7 +27,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Dots](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".". :star:2
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
-* [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript. :star:3214
+* [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript. :star:3242
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.

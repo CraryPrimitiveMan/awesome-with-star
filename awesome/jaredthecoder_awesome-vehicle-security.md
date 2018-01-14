@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3522
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3560
 
 ## Blogs
 
@@ -185,8 +185,8 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 
 # Projects
 
-- [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely. :star:145
-- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle. :star:584
+- [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely. :star:147
+- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle. :star:587
 
 # Hardware
 
@@ -197,7 +197,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
     - [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     - [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product&product_id=1444)
     - [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
-    - [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN :star:54
+    - [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN :star:55
 - [CANtact](http://linklayer.github.io/cantact/) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
 - [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - Arduino-based OBD-II Bluetooth adapter kit has both an OBD-II device and a data logger, and it comes with GPS, an accelerometer and gyro, and temperature sensors.
 - [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
@@ -232,8 +232,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:274
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:6917
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6591
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:6952
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6633
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:99
@@ -246,7 +246,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### C
 
-- [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux. :star:415
+- [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux. :star:421
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN :star:63
 
 ### C++
@@ -259,7 +259,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
-- [Python-OBD](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi. :star:212
+- [Python-OBD](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi. :star:216
 
 ### Go
 
@@ -268,7 +268,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### JavaScript
 
-- [NodeJS extension to SocketCAN](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions. :star:79
+- [NodeJS extension to SocketCAN](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions. :star:80
 
 # Companies and Jobs
 
@@ -292,17 +292,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:2905
-  - [Security](https://github.com/sbilly/awesome-security) :star:2398
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1736
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3027
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2775
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3319
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:1992
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1645
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:2927
+  - [Security](https://github.com/sbilly/awesome-security) :star:2422
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1757
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3053
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2794
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3339
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2007
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1658
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:74964
-  - [lists](https://github.com/jnv/lists) :star:4677
+  - [awesome](https://github.com/sindresorhus/awesome) :star:75590
+  - [lists](https://github.com/jnv/lists) :star:4698
 
 # Contributing
 

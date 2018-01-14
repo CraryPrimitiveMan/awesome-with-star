@@ -206,6 +206,7 @@
 | The Little Schemer | Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
+| The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
 | A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
 | A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
@@ -286,6 +287,7 @@
 |------|--------|------------------|----------------|  
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
+| Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
 | Teaching as a Subversive Activity | Neil Postman, Charles Weingartner | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971 |  
 | Summerhill School: A New View of Childhood | A. S. Neill, Albert Lamb | [4.09](https://www.goodreads.com/book/show/178734.Summerhill) | 1995 |  
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |

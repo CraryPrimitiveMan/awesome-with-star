@@ -199,9 +199,9 @@ drm/kms.
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
 * [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan) :star:26
+  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan) :star:27
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:63
+  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:68
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
 
 ## Community

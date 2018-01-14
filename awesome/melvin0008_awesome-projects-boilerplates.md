@@ -59,17 +59,17 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
-    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:831
+    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:850
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
-    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5928
+    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5927
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-    - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
     - [Library Boilerplate](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
+    - [React NPM Component Starter](https://github.com/yogaboll/react-npm-component-starter) A minimal boilerplate for building a React component for NPM
     - [React Isomorphic Starterkit](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
     - [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
     - [Flask React Boilerplate](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
@@ -77,6 +77,8 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
+- [HyperApp](#hyperapp)
+    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
@@ -103,6 +105,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+- [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
 - [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.

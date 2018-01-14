@@ -64,3 +64,38 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata)
   - [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
   - [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-)
+  - [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-)
+  - [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-)
+  - [Leap Year](https://github.com/garora/TDD-Katas#leap-year-)
+  - [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-)
+  - [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands)
+  - [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-)
+  - [Reversi](https://github.com/garora/TDD-Katas#reversi-)
+  - [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-)
+  - [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
+
+## Others
+  - [Look and Say Sequence](https://en.wikipedia.org/wiki/Look-and-say_sequence)
+  - [AKS primality test](https://en.wikipedia.org/wiki/AKS_primality_test)
+  - [Roman Numeral Converter](https://en.wikipedia.org/wiki/Roman_numerals)
+  - [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
+  - [ES6 Katas](http://es6katas.org/)
+  - [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) :star:6
+  - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
+  - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:113
+  - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
+  - [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
+  - [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
+  - [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) :star:9
+  - [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata)  
+  - [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) :star:11
+  - [incremental_katas](https://github.com/Gianfrancoalongi/incremental_katas) :star:43
+## Contribution
+  
+#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md).
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
