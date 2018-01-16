@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:824
+- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:827
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
-- [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source. :star:20
+- [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source. :star:21
 - [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 
 #### Normal Forms
@@ -186,7 +186,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:44
+- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:45
 
 ----
 

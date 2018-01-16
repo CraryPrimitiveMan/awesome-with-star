@@ -20,7 +20,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:25
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:27
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
@@ -160,7 +160,7 @@ This library has been extended by five libraries <br/>
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
-* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:55
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:56
 
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 
@@ -181,7 +181,7 @@ This library has been extended by five libraries <br/>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
-* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets :star:245
+* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets :star:244
 * [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services. :star:32
 
 ## Javascript Libraries for Salesforce

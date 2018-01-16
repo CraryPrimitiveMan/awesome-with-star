@@ -358,15 +358,15 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1476
-- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:13
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:896
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2255
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:386
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1477
+- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:897
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2259
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:387
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:126
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:45
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:290
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:292
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:87
 

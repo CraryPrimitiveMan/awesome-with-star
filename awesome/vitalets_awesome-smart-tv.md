@@ -49,7 +49,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript). :star:77
-* [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript). :star:8
+* [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript). :star:10
 * [node-webos](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript). :star:24
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript). :star:19
 * [ares-webos-sdk](https://github.com/stevenvong/ares-webos-sdk) - webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (JavaScript).
@@ -83,7 +83,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [react-tv](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay. :star:1261
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - Samsung open-source framework for multi-platform TV apps developemnt.
 * [Enyo](http://enyojs.com) - LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.
-* [Smartbox](https://github.com/immosmart/smartbox) - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development. :star:180
+* [Smartbox](https://github.com/immosmart/smartbox) - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development. :star:181
 
 ## Communication protocols
 * [DLNA](https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance) - Industry-wide standard for sharing data over a home network. Depending on the DLNA-compatible devices you own, you might be able to stream films from your laptop to your TV, play an MP3 stored on your phone over your hi-fi system, or print a photo from your tablet on your home printer.
@@ -93,8 +93,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Misc
 * [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
-* [smart-tv-app-dev-guidelines](https://github.com/ruiposse/smart-tv-app-dev-guidelines) - A Smart TV App Development examples, tutorials, best-practices and documentation. Last updated on 2015. :star:86
-* [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:. :star:23
+* [smart-tv-app-dev-guidelines](https://github.com/ruiposse/smart-tv-app-dev-guidelines) - A Smart TV App Development examples, tutorials, best-practices and documentation. Last updated on 2015. :star:87
+* [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:. :star:24
 
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/smart-tv)

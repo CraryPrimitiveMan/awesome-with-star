@@ -118,7 +118,7 @@
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:34
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype. :star:26
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
-* [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer. :star:171
+* [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer. :star:172
 * [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
 * [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer. :star:30
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code. :star:6
@@ -138,7 +138,7 @@
 * [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease. :star:81
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them. :star:59
 * [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype. :star:38
-* [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer. :star:24
+* [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer. :star:25
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects. :star:14
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:21
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:46

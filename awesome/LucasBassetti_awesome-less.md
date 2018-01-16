@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15329
+- [Official Repository](https://github.com/less/less.js) :star:15332
 
 **[Back to top](#contents)**
 
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3080
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3082
 
 **[Back to top](#contents)**
 
@@ -131,7 +131,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:8
 - [Oban](http://oban.io/) - 	Collection of mixins.
 - [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1743
-- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4284
+- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4286
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes. :star:34
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions. :star:2
 
@@ -180,7 +180,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Ruby
 
-- [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine. :star:117
+- [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine. :star:116
 
 **[Back to top](#contents)**
 
@@ -202,12 +202,12 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save. :star:106
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:697
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
-- [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:542
+- [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:543
 - [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:940
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:61
-- [Less Sublime](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text. :star:515
+- [Less Sublime](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text. :star:514
 - [Lesshint](https://github.com/lesshint/lesshint) - Tool to aid you in writing clean and consistent Less. :star:103
 - [LiveReload](http://livereload.com/) - CSS edits and image changes apply live. CoffeeScript, SASS, Less and others just work.
 - [SimpleLess](https://wearekiss.com/simpless) - SimpleLess is a minimalistic Less compiler. Just drag, drop and compile.

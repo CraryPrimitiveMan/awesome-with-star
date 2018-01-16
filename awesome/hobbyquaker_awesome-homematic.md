@@ -50,9 +50,9 @@
 
 * [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration.  :star:27
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
-* [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch. :star:18
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:189
-* [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container. :star:98
+* [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch. :star:22
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:191
+* [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container. :star:97
 
 
 ## Alternative Sensors and Actuators
@@ -60,7 +60,7 @@
 * [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware for HM_LC_Sw1PBU_FM. :star:16
 * [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired compatible Devices.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
-* [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library to create Homematic RF (BidCoS) compatible Devices. :star:23
+* [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library to create Homematic RF (BidCoS) compatible Devices. :star:24
 * [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - **$** Multi Sensor for the living room.
 
 
@@ -72,7 +72,7 @@
 * [Hm-print](https://github.com/litti/hm-print) - Print CCU Programs. :star:5
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting. :star:12
-* [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent. :star:4
+* [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent. :star:5
 * [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU. :star:23
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML. :star:30
@@ -80,7 +80,7 @@
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:69
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:70
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue). :star:17
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT. :star:13
 * [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface. :star:12
@@ -93,7 +93,7 @@
 * [Check_homematic](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU.
 * [Hm-simulator](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC. :star:4
-* [Homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear). :star:53
+* [Homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear). :star:55
 * [Language-homematic](https://github.com/Ayngush/language-homematic) - Adds syntax highlighting and snippets to HomeMatic Script files in Atom. :star:2
 * [occu-test](https://github.com/hobbyquaker/occu-test) - Automated System Tests of ReGaHss - the HomeMatic (O)CCU "Logic Layer". :star:1
 

@@ -41,7 +41,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1664
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1666
 
 ### First Steps
 

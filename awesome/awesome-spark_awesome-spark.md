@@ -45,7 +45,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:547
-* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:703
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:704
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:464
 * [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:280
 
@@ -65,31 +65,31 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). :star:845
 * [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer. :star:440
 * [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:154
-* [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer. :star:290
-* [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1350
+* [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer. :star:291
+* [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1349
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector. :star:35
-* [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector. :star:329
+* [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector. :star:332
 * [OrientDB-Spark](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector. :star:6
 
 ### Bioinformatics
 
-* [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data. :star:694
-* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:280
+* [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data. :star:695
+* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:281
 
 ### GIS
 
-* [Magellan](https://github.com/harsha2010/magellan) - Geospatial analytics using Spark. :star:337
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) - Cluster computing system for processing large-scale spatial data. :star:224
+* [Magellan](https://github.com/harsha2010/magellan) - Geospatial analytics using Spark. :star:338
+* [GeoSpark](https://github.com/Sarwat/GeoSpark) - Cluster computing system for processing large-scale spatial data. :star:225
 
 ### Time Series Analytics
 
-* [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark. :star:871
-* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:302
+* [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark. :star:872
+* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:303
 
 ### Graph Processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX. :star:337
-* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:323
+* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:324
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support. :star:97
 * [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
@@ -103,20 +103,20 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML. :star:43
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:332
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
-* [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:586
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2223
+* [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:587
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2227
 
 ### Middleware
 
-* [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing. :star:704
-* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:1898
+* [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing. :star:705
+* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:1899
 * [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services. :star:142
 * [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications. :star:421
 
 ### Utilities
 
 * [silex](https://github.com/willb/silex) - Collection of tools varying from ML extensions to additional RDD methods. :star:14
-* [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark. :star:22
+* [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark. :star:23
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark. :star:11
 
 ### Natural Language Processing
@@ -130,7 +130,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
-* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2247
+* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2249
 
 ### Testing
 
@@ -167,7 +167,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1334
+* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1336
 * [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model. :star:515
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment. :star:156

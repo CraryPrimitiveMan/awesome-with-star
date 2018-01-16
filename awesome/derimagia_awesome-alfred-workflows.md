@@ -27,24 +27,24 @@ A curated list of Awesome Alfred Workflows.
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
 - [MailTo](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups. :star:33
-- [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack. :star:218
+- [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack. :star:219
 
 ## Developer
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support. :star:313
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on. :star:61
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:200
+- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:202
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:39
-- [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:514
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1236
+- [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:515
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1239
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:81
-- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:131
+- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:132
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons). :star:14
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io). :star:200
 - [ng](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation. :star:33
-- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:413
+- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:414
 - [Packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org). :star:14
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories. :star:77
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2. :star:33
@@ -52,7 +52,7 @@ A curated list of Awesome Alfred Workflows.
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode. :star:225
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
-- [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard. :star:40
+- [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard. :star:41
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name. :star:24
 - [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...). :star:22
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols. :star:106
@@ -67,7 +67,7 @@ A curated list of Awesome Alfred Workflows.
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events. :star:5
 - [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets. :star:23
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files. :star:14
-- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred. :star:26
+- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred. :star:27
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
@@ -94,7 +94,7 @@ A curated list of Awesome Alfred Workflows.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search :star:36
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
-- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:54
+- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:55
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa. :star:498
 
@@ -106,8 +106,8 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:995
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:774
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:997
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:775
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:55
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter. :star:13
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
@@ -116,7 +116,7 @@ A curated list of Awesome Alfred Workflows.
 Here are a list of other collections of alfred collections which are useful.
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
-- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:365
+- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:366
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 

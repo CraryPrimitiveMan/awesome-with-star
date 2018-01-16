@@ -73,7 +73,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:67
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:302
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:589
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:590
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:7
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications.
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3332
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3337
 
 
 ## CMS & Blogs
@@ -110,8 +110,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:337
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:70
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:338
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:71
 
 
 ## Command Line

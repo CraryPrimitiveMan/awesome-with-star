@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:38240
+- [Rails Source Code](https://github.com/rails/rails) :star:38249
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -100,7 +100,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:86
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20276
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20275
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
@@ -108,7 +108,7 @@
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [Live](https://happyhours.io)
 - [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates   :star:38
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1916
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1915
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails :star:42
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
@@ -122,7 +122,7 @@
 - [obtvse2](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails :star:261
 - [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails [Live](https://church.io)
 - [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress :star:45
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge   :star:524
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge   :star:526
 - [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org)
 - [opensit](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [Live](http://www.openstreetmap.org)
@@ -147,7 +147,7 @@
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets   :star:65
 - [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding  [Live](http://www.selfstarter.us)
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
-- [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:278
+- [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:277
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:172
@@ -156,7 +156,7 @@
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses   :star:113
 - [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [Live](https://www.agileventures.org/)
-- [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved   :star:479
+- [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved   :star:480
 
 ### Tutorials
 
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4698
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1007
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2331
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4706
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1006
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2333
 

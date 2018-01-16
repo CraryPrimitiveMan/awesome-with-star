@@ -227,7 +227,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Media
-* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1765
+* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1764
   * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
   * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
   * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)

@@ -88,11 +88,11 @@
 * [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
-* [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python. :star:3239
+* [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python. :star:3244
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface :star:106
-* [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default). :star:2653
+* [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default). :star:2655
 * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
 * [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. :star:157
@@ -119,7 +119,7 @@
 * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go. :star:114
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
-* [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go. :star:2169
+* [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go. :star:2167
 
 ## Client management
 
@@ -141,7 +141,7 @@
 
 ## Cloud Computing
 
-* [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility. :star:2303
+* [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility. :star:2304
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
@@ -201,7 +201,7 @@
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. :star:767
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure. :star:241
 * [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
-* [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool :star:3252
+* [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool :star:3257
 
 ## Configuration Management
 
@@ -222,7 +222,7 @@
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [CapsuleCD](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). :star:48
 * [concourse](http://concourse.ci/) - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
-* [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files. :star:12711
+* [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files. :star:12728
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable continuous integration server.
@@ -239,7 +239,7 @@
   * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
-  * [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API. :star:125
+  * [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API. :star:126
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL. :star:17
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * Revision Control
@@ -277,7 +277,7 @@
 * [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
 * [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
-* [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. :star:4217
+* [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. :star:4230
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 * [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
@@ -400,9 +400,9 @@
 * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-* [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache` `Go` :star:6679
+* [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache` `Go` :star:6685
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
-* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. :star:8067
+* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. :star:8068
 * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
@@ -418,13 +418,13 @@
 * [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
 * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
-* [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask. :star:2061
+* [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask. :star:2062
 * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. :star:1618
 * [Sensu](https://sensuapp.org/) - Monitoring framework.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way. :star:292
-* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD :star:283
+* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD :star:284
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
@@ -471,11 +471,11 @@
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
 * [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
-* [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage. :star:731
+* [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage. :star:734
 * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-* [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python. :star:409
+* [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python. :star:410
 
 ## Newsletters
 
@@ -501,10 +501,10 @@
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
 * Graph
-  * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database. :star:3124
+  * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database. :star:3125
   * [Neo4j](http://neo4j.com/) - Graph database.
 * Key-Value
-  * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database. :star:12236
+  * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database. :star:12254
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
@@ -512,7 +512,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Packaging
 
-* [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator. :star:8246
+* [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator. :star:8251
 * [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby). :star:956
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. :star:252
@@ -553,8 +553,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Service Discovery
 
 * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
-* [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data. :star:2942
-* [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. :star:16341
+* [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data. :star:2943
+* [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. :star:16351
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
 ## Software Containers
@@ -582,9 +582,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace. :star:3915
+* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace. :star:3918
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
-* [Dripcap](https://github.com/dripcap/dripcap) - Caffeinated Packet Analyzer. :star:1543
+* [Dripcap](https://github.com/dripcap/dripcap) - Caffeinated Packet Analyzer. :star:1542
 * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 ## Version control
@@ -624,7 +624,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
-* [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN. :star:8984
+* [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN. :star:8990
 * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 

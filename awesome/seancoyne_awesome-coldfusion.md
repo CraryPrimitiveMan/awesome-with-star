@@ -29,7 +29,7 @@ Pull requests very welcome.
 
 ## Application Frameworks
 
-* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:177
+* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:178
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:356
@@ -76,7 +76,7 @@ Pull requests very welcome.
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:76
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:129
-* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:139
+* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:140
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:48
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library

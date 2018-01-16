@@ -9,7 +9,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2581
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2582
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -101,7 +101,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:683
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:684
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. :star:134
 
 ## Objective-C
@@ -171,7 +171,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # OS X
 
-* [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner) :star:415
+* [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner) :star:417
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner) :star:134
 * [Beacon OSX](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon :star:866
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons :star:35
@@ -179,13 +179,13 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Linux
 
-* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon) :star:34
+* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon) :star:35
 * [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon) :star:3
 
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1939
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1940
 * [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1246
 
 

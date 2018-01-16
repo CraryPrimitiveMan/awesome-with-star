@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:18
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:21
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:40
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:425
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:426
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
 
 ### 3D
@@ -59,9 +59,9 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:210
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:212
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:14
-- [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:62
+- [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:63
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:5
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:7
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:17
@@ -79,7 +79,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images :star:47
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays. :star:40
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing :star:4
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:139
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:141
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:6
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)

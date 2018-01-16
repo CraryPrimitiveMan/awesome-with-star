@@ -106,8 +106,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:354
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:81
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:356
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:82
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:161
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -125,7 +125,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:30
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:116
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:155
-- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:280
+- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:281
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:87
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:242
@@ -140,7 +140,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Control Panel
 - [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft. :star:73
-- [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft. :star:105
+- [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft. :star:104
 - [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:121
 - [Content Stats](https://github.com/wbrowar/contentstats) - Dashboard widget to see how many entries have been created for channels and structures. :star:32
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:39
@@ -187,7 +187,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Navigation
 - [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:170
-- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:101
+- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:102
 
 
 ### Integrations
@@ -225,7 +225,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Image Color](https://github.com/familiar-studio/craft-image-color) - Grabs the most prominate colors from any image asset using a twig filter on an assets object. :star:28
 - [Inflect](https://github.com/lukeholder/craft-inflect) - Several Twig filters to transform the inflection of strings. :star:39
 - [PathTools](https://github.com/nystudio107/pathtools) - Brings convenient path & url manipulation functions & filters to your Twig templates. :star:19
-- [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) - Collection of Twig filters for rewriting HTML content. :star:81
+- [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) - Collection of Twig filters for rewriting HTML content. :star:82
 - [Similar](https://github.com/aelvan/Similar-Craft) - Queries similar elements based on elements they are related to. :star:29
 - [Sprout Active](https://sprout.barrelstrengthdesign.com/craft-plugins/active) - Easily manage active states and conditional content based on your selected URL segments.
 
@@ -266,7 +266,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Query](https://github.com/craftcms/query/tree/v1) - Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 
 ##### Fields
-- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) - Fast and customized set of instantly usable Field code samples. :star:194
+- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) - Fast and customized set of instantly usable Field code samples. :star:195
 - [Field Manager](https://github.com/verbb/FieldManager) - Makes it easy to manage fields and field groups. :star:184
 - [Inventory](https://github.com/lindseydiloreto/craft-inventory) - Take stock of how your fields are being used. :star:58
 
@@ -281,7 +281,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:99
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:53
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
-- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:90
+- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:91
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
  
  
@@ -327,7 +327,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:57
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:132
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:80
-- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:184
+- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:185
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:107
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:59
 - [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:161

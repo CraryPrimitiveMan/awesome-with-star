@@ -11,7 +11,7 @@
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:81
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:644
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:179
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:180
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:190
@@ -61,7 +61,7 @@
 - [Richard Littauer](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk. :star:1
 - [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 - [JD Ballard](https://github.com/Qix-/ama) - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees. :star:4
-- [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq). :star:3
+- [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq). :star:4
 - [Mohamad Jahani](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
 - [Justin Miller](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
@@ -79,7 +79,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries](https://github.com/mourner/projects). Building the future of interactive maps. :star:7
 - [Claudio Procida](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
-- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/). :star:72
+- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/). :star:71
 - [Kahlil Lechelt](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 - [Vadim Demedes](https://github.com/vdemedes/ama) - Node.js addict. :star:2
 - [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
@@ -121,7 +121,7 @@
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
 - [Chris 'Freddy' Getsfred](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
 - [Seth Holladay](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
-- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer. :star:5
+- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer. :star:6
 - [Sitesh Shrivastava](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
 - [Zach Leatherman](https://github.com/zachleat/ama) - I have a beard sometimes.
 - [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria. :star:1

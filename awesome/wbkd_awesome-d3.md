@@ -15,10 +15,10 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library :star:90
 - [cubism](https://github.com/square/cubism) - Time Series Visualization :star:4621
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration :star:1075
-- [c3](https://github.com/c3js/c3) - Reusable chart library :star:7429
-- [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side :star:1139
-- [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data :star:6037
-- [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics :star:2592
+- [c3](https://github.com/c3js/c3) - Reusable chart library :star:7432
+- [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side :star:1140
+- [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data :star:6040
+- [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics :star:2593
 - [d2b](https://github.com/d2bjs/d2b) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more :star:23
 - [d3.chart](https://github.com/misoproject/d3.chart) - Framework for building reusable charts :star:753
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram :star:74
@@ -29,11 +29,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart :star:115
 - [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap :star:200
 - [d3-line](https://github.com/tj/d3-line) - Line chart :star:109
-- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data :star:250
+- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data :star:251
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module :star:42
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart :star:58
 - [d3plus](https://github.com/alexandersimoes/d3plus) - An extension to the D3 library that allows fast and easy creation of data visualizations :star:1359
-- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts :star:592
+- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts :star:593
 - [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components :star:383
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library :star:175
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing :star:25
@@ -52,22 +52,22 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [kotojs](https://github.com/kotojs/kotojs) - ES6 based framework :star:276
 - [metrics-graphics](https://github.com/mozilla/metrics-graphics) - Optimized for visualizing time-series data :star:6783
 - [micropolar](https://github.com/biovisualize/micropolar/) - A polar chart library
-- [mpld3](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser :star:1560
-- [neo4jd3](https://github.com/eisman/neo4jd3) - Neo4j graph visualization :star:131
-- [nvd3](https://github.com/novus/nvd3) - Re-usable charts and chart components :star:6336
+- [mpld3](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser :star:1559
+- [neo4jd3](https://github.com/eisman/neo4jd3) - Neo4j graph visualization :star:132
+- [nvd3](https://github.com/novus/nvd3) - Re-usable charts and chart components :star:6337
 - [peek](https://github.com/mtmacdonald/peek) - Object-oriented chart library :star:64
 - [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library
-- [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web :star:2285
+- [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web :star:2287
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module :star:315
-- [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs :star:6179
+- [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs :star:6181
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
-- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility :star:1581
-- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis :star:1319
+- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility :star:1582
+- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis :star:1323
 - [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
-- [vega](https://github.com/vega/vega) - A visualization grammar :star:5505
-- [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics :star:1024
-- [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams :star:558
-- [visavail](https://github.com/flrs/visavail) - Time data availability visualization :star:98
+- [vega](https://github.com/vega/vega) - A visualization grammar :star:5509
+- [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics :star:1025
+- [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams :star:559
+- [visavail](https://github.com/flrs/visavail) - Time data availability visualization :star:99
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools :star:158
 - [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs :star:312
 
@@ -78,26 +78,26 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin :star:4
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember
 - [n3-charts](https://github.com/n3-charts/line-chart) - Charts for Angular :star:1225
-- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability :star:2057
+- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability :star:2060
 - [number-picture](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations :star:83
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React :star:1691
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components :star:1304
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library that allows developers the ability to use D3 in React :star:770
-- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts :star:1301
-- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render common data visualization charts :star:2765
-- [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React :star:7683
+- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts :star:1306
+- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render common data visualization charts :star:2767
+- [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React :star:7696
 - [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 :star:1040
-- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations :star:5443
-- [vx](https://github.com/hshoff/vx) - Visualization components for React :star:3273
+- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations :star:5445
+- [vx](https://github.com/hshoff/vx) - Visualization components for React :star:3276
 
 ## Maps
 
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality :star:223
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Set of projections for showing countries' distant lands together :star:40
-- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file :star:2625
+- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file :star:2627
 - [d3-cartogram](https://github.com/shawnbot/topogram) - Cartograms with D3 & TopoJSON :star:257
 - [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features :star:81
-- [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections :star:587
+- [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections :star:591
 - [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps :star:63
 - [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles :star:151
 - [earthjs](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs)
@@ -117,7 +117,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 - [d3kit-timeline](https://github.com/kristw/d3kit-timeline) - Timeline component that labels do not overlap :star:233
 - [d3scription](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection :star:23
-- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotaion helper with built-in annotation types :star:476
+- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotaion helper with built-in annotation types :star:477
 - [d3-area-label](https://github.com/curran/d3-area-label) - A library for placing labels in areas :star:30
 - [d3-breadcrumbs](https://github.com/bumbeishvili/d3-breadcrumbs) - Simplifies breadcrumbs usage :star:1
 - [d3-component](https://github.com/curran/d3-component) - Lightweight component abstraction :star:59
@@ -158,7 +158,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics :star:158
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support :star:99
-- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds :star:2356
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds :star:2357
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus :star:67
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force :star:17
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer :star:25
@@ -166,11 +166,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling :star:34
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - Simple scrolling events :star:391
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc :star:30
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a similar manner as markdown :star:15056
+- [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a similar manner as markdown :star:15079
 - [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols :star:10
 
 ## Server side
-- [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation :star:385
+- [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation :star:386
 
 ## Code Editors
 - [Snippets for Atom](https://github.com/martgnz/d3-snippets) :star:33

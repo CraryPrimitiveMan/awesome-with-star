@@ -37,9 +37,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:474
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:475
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:194
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:367
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:368
 
 
 ### Cloud
@@ -130,7 +130,7 @@ A curated list of awesome HBase projects and resources.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
 * [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:157
-* [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:102
+* [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:103
 * [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 

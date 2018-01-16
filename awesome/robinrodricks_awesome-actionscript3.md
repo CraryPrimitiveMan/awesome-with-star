@@ -61,7 +61,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Frameworks
 #### MVC Frameworks
 
-* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:118
+* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:119
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:988
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:29
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
@@ -86,7 +86,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:153
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:376
-* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1152
+* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1151
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:31
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:54
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:28
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1100
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1101
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:33
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:1
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:7
@@ -151,7 +151,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Starling Components
 
-* [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) - View-based navigation model with swipe to navigate tabs. :star:7
+* [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) - View-based navigation model with swipe to navigate tabs. :star:8
 * [DataGrid](https://github.com/pol2095/Feathers-Extension-DataGrid) - Displays a datagrid with column headings and smooth scrolling. :star:8
 * [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - Displays hierarchical data arranged as an expandable tree. :star:6
 * [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) - Supports basic vector drawing functionality. :star:7
@@ -206,7 +206,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs. :star:2
-* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:360
+* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:361
 * [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media. :star:22
 
 #### Camera
@@ -242,7 +242,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade)).
 * [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3). :star:9
 * [SAP](https://github.com/gonchar/SAP) - Particle System for Starling. :star:50
-* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com. :star:316
+* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com. :star:317
 * [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
 #### Panorama Viewer
@@ -514,8 +514,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Async
 
-* [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers. :star:38
-* [Worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions. :star:77
+* [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers. :star:39
+* [Worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions. :star:78
 * [AS3Futures](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls.
 
 #### Crypto
@@ -597,7 +597,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:8
 * [Speech](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background. :star:12
 * [MyAR](https://github.com/myflashlab/AR-ANE-Samples) - AR ANE supporting Android and iOS 64-bit based on Metaio's SDK. :star:36
-* [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:87
+* [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:88
 * [Barcode](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE. :star:13
 * [Bullet](https://github.com/mziwisky/bullet-ane) - Bullet physics simulation library. :star:39
 

@@ -8,7 +8,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16017
+* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16027
 
 
 ## Boxes
@@ -46,7 +46,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Helpers / Tools
 
 * [Packer](https://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
-* [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images. :star:4147
+* [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images. :star:4148
 * [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) - simple command-line tool to manage multiple vagrant boxes :star:6
 
@@ -89,7 +89,7 @@ for any IP address.
 ## Popular readymade environments
 
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites. :star:763
-* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development. :star:3997
+* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development. :star:4002
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
