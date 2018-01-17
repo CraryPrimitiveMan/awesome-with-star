@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:38249
+- [Rails Source Code](https://github.com/rails/rails) :star:38265
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -73,7 +73,7 @@
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election  [Live](https://nzelection.askaway.org.nz)
 - [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere   :star:114
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
-- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1357
+- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1358
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:351
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [Live](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com)
@@ -83,7 +83,7 @@
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
 - [CoRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology   :star:42
-- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5 :star:66
+- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5 :star:68
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online :star:74
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform  [Live](https://www.tilt.com/index.html)
@@ -100,7 +100,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:86
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20275
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20284
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
@@ -108,7 +108,7 @@
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [Live](https://happyhours.io)
 - [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates   :star:38
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1915
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1916
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails :star:42
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
@@ -126,7 +126,7 @@
 - [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org)
 - [opensit](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [Live](http://www.openstreetmap.org)
-- [ossfriday](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday :star:591
+- [ossfriday](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday :star:592
 - [otwarchive](https://github.com/otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [Live](http://archiveofourown.org)
 - [PasswordPusher](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [Live](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) -  An open-source crypto currency exchange  [Live](http://www.peatio.com)
@@ -150,7 +150,7 @@
 - [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:277
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:172
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:174
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -204,7 +204,7 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1135
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1138
 
 #### Generators
 
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4706
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4708
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1006
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2333
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2335
 

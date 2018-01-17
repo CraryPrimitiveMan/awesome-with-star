@@ -322,7 +322,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Learn TLA](https://learntla.com/introduction/)
 - [test-anything](https://github.com/finnp/test-anything) :star:119
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:492
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:493
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -360,15 +360,15 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1477
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:897
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2259
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:901
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2272
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:387
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:126
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:45
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:128
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:46
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:292
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:294
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:87
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:89
 
 ### License
 

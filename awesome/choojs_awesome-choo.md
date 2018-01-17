@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:208
-- [Repo](https://github.com/yoshuawuyts/choo) :star:4966
+- [Repo](https://github.com/yoshuawuyts/choo) :star:4972
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,7 +30,7 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:402
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:826
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:827
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:342
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
@@ -39,7 +39,7 @@ under the hood:
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:22
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:24
-- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:16
+- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:17
 
 ### Demos
 

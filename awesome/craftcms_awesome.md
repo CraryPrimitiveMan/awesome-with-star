@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:356
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:357
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:82
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:161
@@ -197,7 +197,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Facebook](https://dukt.net/facebook) - Facebook Insights widget for the dashboard.
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
 - [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:109
-- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:97
+- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:98
 - [Pushover](https://superbig.co/plugins/pushover) - Send messages to Pushover.
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) - Allow a Craft user to be logged in to Shopify through Multipass.
@@ -226,7 +226,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Inflect](https://github.com/lukeholder/craft-inflect) - Several Twig filters to transform the inflection of strings. :star:39
 - [PathTools](https://github.com/nystudio107/pathtools) - Brings convenient path & url manipulation functions & filters to your Twig templates. :star:19
 - [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) - Collection of Twig filters for rewriting HTML content. :star:82
-- [Similar](https://github.com/aelvan/Similar-Craft) - Queries similar elements based on elements they are related to. :star:29
+- [Similar](https://github.com/aelvan/Similar-Craft) - Queries similar elements based on elements they are related to. :star:30
 - [Sprout Active](https://sprout.barrelstrengthdesign.com/craft-plugins/active) - Easily manage active states and conditional content based on your selected URL segments.
 
 ### Social
@@ -252,7 +252,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Development
 ##### Build Process
-- [Minify](https://github.com/nystudio107/minify) - Minify blocks of HTML,CSS,and JS inline. :star:108
+- [Minify](https://github.com/nystudio107/minify) - Minify blocks of HTML,CSS,and JS inline. :star:109
 - [Minimee](https://github.com/johndwells/craft.minimee) - Minimize,and even external ones.  :star:69
 - [Stamp](https://github.com/aelvan/Stamp-Craft) - Add timestamps to your assets in a variety of ways; as a query string,but works with files outside your template path,combine & cache your CSS and JS files. :star:21
 - [Asset Rev](https://github.com/clubstudioltd/craft-asset-rev) - Cache-bust your assets by appending query string or swapping out asset file names with their revved version. :star:69
@@ -281,7 +281,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:99
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:53
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
-- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:91
+- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:92
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
  
  
@@ -307,7 +307,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:60
 - [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:21
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:32
-- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:47
+- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:48
 - [Large Upload](https://superbig.co/plugins/large-upload) - Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Printmaker](https://craftpl.us/plugins/printmaker) - Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
 - [Rich Variables](https://github.com/nystudio107/richvariables) - Allows you to easily use Globals as variables in Rich Text fields. :star:43

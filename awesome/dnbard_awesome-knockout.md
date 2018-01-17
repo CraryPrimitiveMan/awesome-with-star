@@ -3,7 +3,7 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8688
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8695
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1080
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:99
@@ -45,5 +45,5 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js :star:14
 
 ## Examples
-- [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout :star:85
+- [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout :star:86
 

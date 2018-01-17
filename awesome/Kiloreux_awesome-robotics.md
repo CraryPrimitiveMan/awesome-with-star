@@ -25,7 +25,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
-
+* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
+* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
@@ -50,6 +51,9 @@ Robot Simulator
 
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+
+[**ROS2**](https://github.com/ros2/ros2/wiki)
+ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
@@ -174,12 +178,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3318
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:4528
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:29335
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7205
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5811
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3323
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:4559
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:29407
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7239
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5820
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:51
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:153
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:154
 

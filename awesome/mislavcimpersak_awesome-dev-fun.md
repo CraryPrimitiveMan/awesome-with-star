@@ -25,7 +25,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press. :star:7
+- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press. :star:8
 - [holdr](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone. :star:30
 
 
@@ -40,18 +40,18 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1162
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4433
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4432
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3750
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2689
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2688
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:173
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:43
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers. :star:7
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:988
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:990
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:641
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2667
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2668
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
 
@@ -74,15 +74,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5170
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5689
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5169
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5690
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1731
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:106
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1764
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1766
 - [Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.
 - [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
 
@@ -99,9 +99,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:68
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:5
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2546
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1344
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3930
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2549
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1345
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3931
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:967
 
 

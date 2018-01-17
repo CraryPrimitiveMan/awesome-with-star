@@ -23,16 +23,16 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2676
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2677
 * [Fundle](https://github.com/tuvistavie/fundle) :star:161
 * [Fresco](https://github.com/masa0x80/fresco) :star:4
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2983
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2988
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:671
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:673
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
-* [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:212
+* [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:209
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:229
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:100
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18

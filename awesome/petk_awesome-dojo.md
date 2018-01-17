@@ -86,7 +86,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 #### Dojo 2
 
-* [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities :star:159
+* [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities :star:160
 * [DOM Utilities](https://github.com/dojo/dom) - Dojo2 DOM Utilities :star:12
 * [Dojo Command Line Tooling](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
 * [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:13
@@ -126,7 +126,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * PHP
     * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo :star:4
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
-    * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
+    * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule :star:10
 
 [Back to top](#awesome-dojo)
 
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:22915
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:22931
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:24
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,15 +199,15 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13084
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13092
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:83
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:75672
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1005
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:75798
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1006
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4706
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4708
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:102
-    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:150
+    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:151
 
 [Back to top](#awesome-dojo)
 

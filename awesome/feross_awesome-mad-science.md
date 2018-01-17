@@ -14,7 +14,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
-- [glslify](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders :star:836
+- [glslify](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders :star:837
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## files
@@ -59,7 +59,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3383
+- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3385
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7408
 
 ## virtual machines

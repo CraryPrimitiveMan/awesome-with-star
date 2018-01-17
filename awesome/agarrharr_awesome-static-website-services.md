@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:827
+- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:829
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -153,7 +153,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
 - [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
 - [ShareThis](http://www.sharethis.com/) - Sharing buttons for multiple social networks.
-- [Storify](https://storify.com/) - Embed various social media in one place.
 - [Kontaktify](https://www.kontaktify.com/) - A contact widget that provides an easy way for visitors to get in touch.
 
 ### Surveys
@@ -165,7 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## E-Commerce
 
-- [Ecwid](www.ecwid.com) - Embeddable shopping cart.
+- [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
@@ -186,7 +185,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:45
+- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:47
 
 ----
 

@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5269
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5273
 
 
 ## Tutorials
@@ -57,8 +57,8 @@
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen :star:45
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:134
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:598
-* [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:185
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:6967
+* [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:186
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:6974
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:81
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:113
@@ -66,15 +66,15 @@
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework. :star:35
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2. :star:32
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers. :star:64
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:271
-* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:220
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:272
+* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:221
 
 
 ## Made With Lumen
 * [Slack Invitator](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework :star:55
 * [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen :star:41
 * [Lissandra](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen. :star:13
-* [Lumen Solder](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework. :star:1
+* [Lumen Solder](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework. :star:2
 
 
 ## Books

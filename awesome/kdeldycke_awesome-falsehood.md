@@ -91,7 +91,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management :star:196
+- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management :star:198
 library.
 
 
@@ -217,7 +217,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6338
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6355
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -235,7 +235,7 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:298
+- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:299
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
 - [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:534

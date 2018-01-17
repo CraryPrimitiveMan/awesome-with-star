@@ -277,7 +277,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:269
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:271
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
@@ -326,7 +326,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada)). :star:7
 * [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files. :star:38
 * [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files. :star:5
-* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc. :star:120
+* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc. :star:119
 
 #### CSV
 
@@ -443,7 +443,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Servers
 
 * [AIRhttp](https://github.com/leopoldodonnell/airhttp) - HTTP Server for Adobe AIR. :star:16
-* [AIR-Server](https://github.com/wouterverweirder/AIR-Server) - Socket Server library for Adobe AIR. :star:41
+* [AIR-Server](https://github.com/wouterverweirder/AIR-Server) - Socket Server library for Adobe AIR. :star:42
 
 #### OAuth
 
@@ -607,7 +607,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
 
 #### Networking ANE
-* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:28
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:30
 * [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:2
 * [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:21
 

@@ -80,7 +80,7 @@
 * [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
 
 ## Modules
-* [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes. :star:58
+* [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes. :star:59
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar. :star:92
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations. :star:56
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification. :star:22
@@ -143,7 +143,7 @@
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:21
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:46
 * [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:11
-* [bodymovin for Framer](https://github.com/72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects. :star:121
+* [bodymovin for Framer](https://github.com/72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects. :star:122
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype. :star:31
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients. :star:16
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku. :star:13
