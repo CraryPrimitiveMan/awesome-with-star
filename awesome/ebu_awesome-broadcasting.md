@@ -94,13 +94,13 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. :star:7
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
-* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:6655
+* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:6658
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility. :star:4
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
-* [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports. :star:283
+* [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports. :star:284
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
@@ -111,7 +111,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf). :star:1
 * [Ledger](https://github.com/Streampunk/ledger) - Node.js implementation of the NMOS registration and discovery specifications. :star:15
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files. :star:3
-* [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page. :star:5
+* [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page. :star:6
 
 ## Monitoring & Quality Control
 
@@ -137,7 +137,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes. :star:10
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
-* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:643
+* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:645
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON. :star:5
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
@@ -147,7 +147,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:7
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:427
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:8200
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:8203
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
@@ -158,7 +158,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
-* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:898
+* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:899
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - An analyzer to inspect network packets generated in accordance with the SMPTE ST 2110 specification. :star:9
 
@@ -167,7 +167,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule).
 * [Ardour](https://ardour.org/) - A digital audio workstation.
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
-* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:129
+* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:131
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)). :star:337
 * [OpenBroadcaster](https://github.com/openbroadcaster/observer) Open source broadcast automation server. [Player here](https://github.com/openbroadcaster/obplayer).

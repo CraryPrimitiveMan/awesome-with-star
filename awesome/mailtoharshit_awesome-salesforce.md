@@ -160,7 +160,7 @@ This library has been extended by five libraries <br/>
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
-* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:57
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:58
 
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 

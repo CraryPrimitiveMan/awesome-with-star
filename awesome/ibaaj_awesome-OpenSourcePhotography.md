@@ -54,7 +54,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.* :star:59
 
 ### GoPro
-- [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:130
+- [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:131
 - [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:74
 - [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:244
 - [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:47
@@ -65,7 +65,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:67
+- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:68
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:95
 
 
@@ -151,7 +151,7 @@ record, convert and stream audio and video.*
 - [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1224
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:75
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1386
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1391
 
 ### Video Libraries
 

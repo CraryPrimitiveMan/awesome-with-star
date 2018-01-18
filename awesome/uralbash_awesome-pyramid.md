@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2190
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2192
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -344,7 +344,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:372
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:374
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8

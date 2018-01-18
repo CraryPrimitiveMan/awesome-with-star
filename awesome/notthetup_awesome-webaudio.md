@@ -27,7 +27,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:3960
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:3961
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques. :star:250
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. :star:321
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects. :star:32
@@ -46,8 +46,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis. :star:200
 - [XSound.js](https://github.com/Korilakkuma/XSound) - Full stack library. :star:6
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance. :star:12
-- [Meyda](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features. :star:388
-- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:519
+- [Meyda](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features. :star:389
+- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:521
 - [Mooog](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables. :star:20
 - [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2633
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio. :star:24
@@ -73,7 +73,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 
 ### Apps
-- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:638
+- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:639
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange. :star:1
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you. :star:18

@@ -8,7 +8,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16043
+* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16044
 
 
 ## Boxes
@@ -40,7 +40,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
 * [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack). :star:707
 * [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux). :star:33
-* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle). :star:13
+* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle). :star:14
 * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP. :star:169
 
 ## Helpers / Tools

@@ -24,17 +24,17 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:17219
+- [Github](https://github.com/developit/preact) :star:17230
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2734
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:2882
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2736
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:2884
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:7
 
 ### Boilerplates
-- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:702
+- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:703
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2. :star:54
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact. :star:339
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript. :star:17
@@ -43,10 +43,10 @@
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel.
 
 ### Routing
-- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:366
+- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:367
 
 ### Components
-- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:297
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:302
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact. :star:28
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact. :star:36
 - [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
@@ -85,7 +85,7 @@
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
-- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:114
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:116
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact. :star:6
 
 ### Articles
@@ -102,12 +102,12 @@
 - [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast. :star:49
 - [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats. :star:75
 - [Tracks](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
-- [Hueify](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights. :star:61
+- [Hueify](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights. :star:62
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:85900
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12062
-- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:3875
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:85990
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12066
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:3876
 
 ### Tips
 Contribute some ;)

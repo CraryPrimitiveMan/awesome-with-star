@@ -156,11 +156,11 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ### Open-source emulators
 
 - [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:205
-- [jsGB](https://github.com/Two9A/jsGB) - Javascript. :star:436
+- [jsGB](https://github.com/Two9A/jsGB) - Javascript. :star:437
 - [php-terminal-Game Boy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal. :star:1236
 - [gameboy-Online](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs. :star:221
 - [cboy](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux. :star:15
-- [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:519
+- [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:520
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:61
 - [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:81
 - [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:86
@@ -192,7 +192,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ### Assemblers
 
 - [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:306
-- [wla-dx](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package. :star:191
+- [wla-dx](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package. :star:192
 - [gbasm](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code. :star:105
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift. :star:93
@@ -209,7 +209,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ### Tools
 
 - [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)). :star:92
-- [DevSound](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms. :star:9
+- [DevSound](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms. :star:10
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine for Game Boy & Game Boy Color.
 - [Game Boy Tile Data Generator](http://www.chrisantonellis.com/gameboy/gbtdg/) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer and Game Boy Map Builder tools.
@@ -223,7 +223,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope. :star:7
 - [GB-convert](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly). :star:5
 - [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM. :star:4
-- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer. :star:89
+- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer. :star:90
 - [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 - [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 - [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in NodeJS :star:5

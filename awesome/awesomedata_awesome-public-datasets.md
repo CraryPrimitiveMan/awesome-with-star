@@ -1,4 +1,4 @@
-# Info come from [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+# Info come from [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 Awesome Public Datasets
 =======================
 
@@ -15,7 +15,7 @@ Please **DO NOT** modify this file directly. We have provided
 to contribute to Awesome Public Datasets. The original PR entrance directly on repo is closed forever.
 
 
-`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of a topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
@@ -220,6 +220,8 @@ ComputerNetworks
         
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
+        
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
 * |OK_ICON| `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
@@ -257,6 +259,8 @@ DataChallenges
         
 * |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
         
+* |OK_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_
+        
 * |OK_ICON| `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
     
 EarthScience
@@ -288,6 +292,8 @@ Economics
 * |FIXME_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
         
 * |OK_ICON| `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+        
+* |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
 * |OK_ICON| `International Economics Database <http://widukind.cepremap.org/>`_
         
@@ -578,7 +584,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
+* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -638,6 +644,8 @@ Government
         
 * |FIXME_ICON| `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
         
+* |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
+        
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
@@ -675,7 +683,7 @@ Healthcare
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
         
-* |FIXME_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
+* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
         
@@ -1102,7 +1110,7 @@ SocialSciences
         
 * |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
-* |OK_ICON| `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
         
 * |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
         

@@ -46,13 +46,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo. :star:1446
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library. :star:917
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#. :star:418
-- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1069
+- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1070
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON. :star:195
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON. :star:46
 
 #### Apps
-- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1348
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2105
+- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1351
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2104
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service. :star:419
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator. :star:231
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle. :star:77
@@ -67,7 +67,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokeBot](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine. :star:16
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO. :star:600
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot. :star:17
-- [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot. :star:474
+- [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot. :star:473
 
 #### Miscellaneous
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon. :star:19
@@ -106,8 +106,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8133
-- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1903
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8134
+- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1902
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map. :star:149
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you. :star:1134
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
@@ -120,7 +120,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 #### Wiki
-- [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon. :star:655
+- [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon. :star:656
 - [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org. :star:1883
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)

@@ -53,11 +53,11 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:103
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:21
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:8
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:37
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:38
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:5
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:3
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:143
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:144
 
 ## Testing
 

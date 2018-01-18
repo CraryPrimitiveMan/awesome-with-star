@@ -88,7 +88,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### Ruby
 
-- [neo4jrb](https://github.com/neo4jrb/neo4j) - An active model wrapper for the Neo4j Graph Database for Ruby. :star:1166
+- [neo4jrb](https://github.com/neo4jrb/neo4j) - An active model wrapper for the Neo4j Graph Database for Ruby. :star:1165
 - [neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API. :star:608
 
 ### Python
@@ -108,7 +108,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Other
 
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:933
-- [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:227
+- [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:226
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:316
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:162
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R. :star:206
@@ -133,8 +133,8 @@ Neo4j graph database.
 # Full-text search
 
 - [GraphAware Neo4j Elasticsearch Integration](https://github.com/graphaware/neo4j-to-elasticsearch) - GraphAware Framework Module for Integrating Neo4j with Elasticsearch. :star:109
-- [GraphAware Graph-Aided Search](https://github.com/graphaware/graph-aided-search) - Elasticsearch plugin offering Neo4j integration for Personalized Search. :star:68
-- [neo4j-elasticsearch](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration. :star:81
+- [GraphAware Graph-Aided Search](https://github.com/graphaware/graph-aided-search) - Elasticsearch plugin offering Neo4j integration for Personalized Search. :star:69
+- [neo4j-elasticsearch](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration. :star:82
 
 # Import
 
@@ -189,7 +189,7 @@ Neo4j graph database.
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:185
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2433
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2434
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools

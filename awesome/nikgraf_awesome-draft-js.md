@@ -33,46 +33,46 @@
 * [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes. :star:212
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:487
-* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1018
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1911
-* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:388
+* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1020
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1915
+* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:389
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:161
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.  :star:39
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.  :star:40
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2524
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2525
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation. :star:47
+  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation. :star:48
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type. :star:31
-  - [Buttons](https://github.com/vacenz/last-draft-js-plugins) :star:48
-  - [Color Picker](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [Buttons](https://github.com/vacenz/last-draft-js-plugins) :star:49
+  - [Color Picker](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
   - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin) 
   - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
-  - [Embed](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [Embed](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
-  - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Focus](https://www.draft-js-plugins.com/plugin/focus)
-  - [GifPicker](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [GifPicker](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
   - [Image](https://www.draft-js-plugins.com/plugin/image)
   - [Inline Toolbar](https://www.draft-js-plugins.com/plugin/inline-toolbar)
   - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex. :star:8
-  - [Link](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [Link](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax. :star:44
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
-  - [Modal](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [Modal](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism. :star:8
   - [Resizeable](https://www.draft-js-plugins.com/plugin/resizeable)
   - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons. :star:34
   - [Side Toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
-  - [Sidebar](https://github.com/vacenz/last-draft-js-plugins) :star:48
-  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input. :star:16
+  - [Sidebar](https://github.com/vacenz/last-draft-js-plugins) :star:49
+  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input. :star:17
   - [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
-  - [Toolbar](https://github.com/vacenz/last-draft-js-plugins) :star:48
+  - [Toolbar](https://github.com/vacenz/last-draft-js-plugins) :star:49
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
 * [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) - Compliments line number gutter. :star:10
@@ -116,7 +116,7 @@
 
 * [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
-* [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs) :star:29
+* [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs) :star:30
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
 * [Rich Text Editor](https://codepen.io/Kiwka/pen/YNYvyG)

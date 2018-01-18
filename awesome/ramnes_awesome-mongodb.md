@@ -3,6 +3,10 @@
 
 # Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
+[![Issue closure](https://img.shields.io/issuestats/i/github/ramnes/awesome-mongodb.svg)](http://issuestats.com/github/ramnes/awesome-mongodb)
+[![Pull closure](https://img.shields.io/issuestats/p/github/ramnes/awesome-mongodb.svg)](http://issuestats.com/github/ramnes/awesome-mongodb)
+
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
@@ -48,13 +52,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Resources
 ### Documentation
- - [MongoDB introduction](https://docs.mongodb.org/manual/core/introduction/)
- - [MongoDB documentation](https://docs.mongodb.org/manual/)
- - [MongoDB tutorials](https://docs.mongodb.org/manual/tutorial/)
+ - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
+ - [MongoDB documentation](https://docs.mongodb.com/manual/)
+ - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
 
 ### Articles
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
- - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
+ - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
@@ -69,25 +73,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Tutorials
  - [Create a TV Show Tracker Using AngularJS, Node.js, and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - Build a REST API using Mongoose to create and retrieve data from MongoDB
- - [Write a Tumblelog Application with Flask and MongoEngine](https://docs.mongodb.org/ecosystem/tutorial/write-a-tumblelog-application-with-flask-mongoengine/) - Nice Python tutorial hidden into the official Python driver documentation
- - [Kubernetes examples](https://github.com/kubernetes/kubernetes/tree/master/examples/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on [Kubernetes](https://kubernetes.io/docs/whatisk8s/)
+ - [Kubernetes examples](https://github.com/kubernetes/kubernetes/tree/master/examples/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ### More
- - [MongoDB source code](https://github.com/mongodb/mongo) :star:12932
+ - [MongoDB source code](https://github.com/mongodb/mongo) :star:12935
  - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/) - MongoDB Inc. cloud offer
- - [MongoLab](https://mongolab.com/) - Fully managed MongoDB-as-a-Service
+ - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
  - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
 
 ## Libraries
 ### C
- - [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - Official C driver :star:374
+ - [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - Official C driver :star:375
 
 ### C++
  - [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver :star:431
 
 ### C#/.NET ###
- - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver :star:1765
+ - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver :star:1766
  - [mongo-queue-csharp](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue backed by MongoDB
  - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library :star:38
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver :star:200
@@ -103,7 +106,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver :star:263
 
 ### Go
- - [mgo](https://github.com/go-mgo/mgo) - Community Go driver :star:1921
+ - [mgo](https://github.com/go-mgo/mgo) - Community Go driver :star:1920
 
 ### Haskell
  - [mongodb](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
@@ -123,11 +126,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases :star:389
  - [MEAN.JS](https://github.com/meanjs/mean) - Full-Stack based on MongoDB, Express, AngularJS, and Node.js :star:4457
- - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js :star:4335
- - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM :star:14525
- - [mongration](https://github.com/eberhara/mongration) - Node.js migration framework :star:46
+ - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js :star:4336
+ - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM :star:14528
+ - [mongration](https://github.com/awapps/mongration) - Node.js migration framework :star:47
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io :star:55
- - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver :star:6425
+ - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver :star:6429
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - Bindings on MongoDB official C driver :star:27
@@ -144,25 +147,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-perl-driver](https://github.com/mongodb/mongo-perl-driver) - Official Perl driver :star:189
 
 ### PHP
- - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality :star:323
- - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb :star:11
- - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel :star:3059
- - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) - Repository implementation :star:5
- - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver :star:450
+ - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality :star:324
+ - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb :star:11
+ - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel :star:3061
+ - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation :star:5
+ - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver :star:451
 
 ### Python
  - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications :star:375
- - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo :star:2053
+ - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo :star:2055
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler :star:105
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB :star:10
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications :star:902
- - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver :star:2213
+ - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver :star:2214
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface :star:302
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy :star:239
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow :star:68
 
 ### R
- - [mongolite](https://github.com/jeroenooms/mongolite) - Fast and Simple MongoDB Client for R :star:152
+ - [mongolite](https://github.com/jeroen/mongolite) - Fast and Simple MongoDB Client for R :star:152
 
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver :star:1326
@@ -172,7 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) - Prototype driver written for Rust 1.x and MongoDB 3.0.x :star:225
 
 ### Scala
- - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver :star:189
+ - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver :star:190
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver :star:742
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL :star:291
 
@@ -187,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - A dataset migration tool from MongoDB to Elasticsearch and vice versa :star:67
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-Master MongoDB replication :star:54
  - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication :star:1419
- - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files :star:1038
+ - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files :star:1039
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS :star:764
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module :star:31
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content :star:1091
@@ -196,22 +199,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop :star:1316
 
 ### Deployment
- - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role :star:124
- - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook :star:383
+ - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role :star:125
+ - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook :star:382
  - [Dockerfile](https://github.com/dockerfile/mongodb) :star:233
- - [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a [Kubernetes](https://kubernetes.io/docs/whatisk8s/) cluster using the [Helm](https://github.com/kubernetes/helm) package manager.
- - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module :star:83
+ - [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a Kubernetes cluster using the Helm package manager.
+ - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
- - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
- - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
- - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client :star:2247
+ - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client :star:2249
  - [Mongotron](http://mongotron.io/) - Cross-platform, open-source MongoDB client built with Electron
- - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager :star:6395
+ - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager (formerly MongoBooster)
+ - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform MongoDB manager (formerly Robomongo)
+ - [Studio 3T](https://studio3t.com/) - Cross-platform MongoDB manager, stable and powerful (formerly MongoChef)
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
- - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog?ref=awesome) - SaaS-based MongoDB monitoring
+ - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based MongoDB monitoring
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting :star:32
  - [Motop](https://github.com/tart/motop) - MongoDB top clone :star:62
  - [mtop](https://github.com/beaufour/mtop) - Another top clone :star:50
@@ -220,20 +223,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ### Shell
- - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements :star:1342
+ - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements :star:1343
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs :star:1229
  - [Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. commercial online GUI and data-visualization platform
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
- - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3 :star:2502
+ - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3 :star:2504
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap :star:259
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
- - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of :star:806
+ - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of :star:807
 
 ## Applications
- - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB :star:6544
- - [Quokka](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB :star:1770
+ - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB :star:6549
+ - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB :star:1770
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap :star:3383
 
 ## License

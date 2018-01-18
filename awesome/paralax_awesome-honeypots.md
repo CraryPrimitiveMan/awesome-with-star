@@ -77,17 +77,17 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:392
+    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:393
     - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets . :star:28
     - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
-    - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry. :star:53
+    - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry. :star:54
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX. :star:6
-    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:274
+    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:275
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers. :star:2
 
 - Botnet C2 tools
@@ -108,7 +108,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1331
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1332
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -144,7 +144,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - VM monitoring and tools
     - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:221
+    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:222
     - [VMCloak](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox. :star:213
 
 - Binary debugger
@@ -153,7 +153,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Mobile Analysis Tool
     - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
-    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1826
+    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1828
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
@@ -313,7 +313,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK :star:1
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool :star:14
     - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
-    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer :star:98
+    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer :star:99
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Distributed spam tracking

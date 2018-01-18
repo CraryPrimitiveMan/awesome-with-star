@@ -85,7 +85,7 @@
 - [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
-- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:4099
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:4100
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 

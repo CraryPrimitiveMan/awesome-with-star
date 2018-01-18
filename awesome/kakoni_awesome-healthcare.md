@@ -67,7 +67,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-  * [Cornerstome](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:622
+  * [Cornerstome](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:623
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
@@ -151,7 +151,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:93
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:1735
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:1741
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:5

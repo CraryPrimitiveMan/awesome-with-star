@@ -19,14 +19,14 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable) :star:1620
+- [Overview](https://github.com/zenparsing/es-observable) :star:1621
 - [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
 
 - [zen-observable](https://github.com/zenparsing/zen-observable) :star:322
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:10275
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:10289
 
 
 ## Packages

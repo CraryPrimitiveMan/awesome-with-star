@@ -25,7 +25,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. :star:25
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours. :star:4
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:18
-- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:21
+- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:40
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:426
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
@@ -106,7 +106,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Geany](https://github.com/haimat/GDScript-Geany) :star:7
 - [Gedit](https://github.com/haimat/GDScript-gedit) :star:12
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:28
-- [Vim](https://github.com/quabug/vim-gdscript) :star:34
+- [Vim](https://github.com/quabug/vim-gdscript) :star:33
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes

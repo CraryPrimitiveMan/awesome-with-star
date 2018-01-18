@@ -94,17 +94,17 @@ Title | Description | Focus
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1169
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)). :star:1963
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:6715
-* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1727
+* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1729
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
-* [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:1344
+* [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:1346
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME. :star:1336
-* [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:554
+* [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:555
 
 ### macOS
 
-* [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:783
+* [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:784
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:526
-* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:3950
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:3952
 
 ## Miscellaneous
 
@@ -114,15 +114,15 @@ Title | Description | Focus
 
 ## Related Lists
 
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11331
-* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3659
-* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1000
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11333
+* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3665
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1002
 
 ## Archive/abandoned projects
 
 * [Bashstrap](https://github.com/barryclark/bashstrap) :star:1467
-* [battleschool](https://github.com/spencergibb/battleschool) :star:419
-* [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) :star:423
+* [battleschool](https://github.com/spencergibb/battleschool) :star:418
+* [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) :star:422
 * [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles) :star:51
 * [kody](https://github.com/jh3y/kody) :star:71
 * [osxc](http://osxc.github.io)

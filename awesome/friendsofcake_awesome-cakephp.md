@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17692
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20503
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17702
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20507
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -98,7 +98,7 @@ Additional lists you might find useful:
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
-- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP. :star:75
+- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP. :star:76
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens. :star:104
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies. :star:17
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization. :star:6
@@ -164,7 +164,7 @@ Additional lists you might find useful:
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin. :star:177
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem. :star:28
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:519
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:518
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior. :star:18
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:101
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file. :star:26
@@ -204,12 +204,12 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:73
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:437
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:763
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:438
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:764
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:52
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2549
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2550
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -403,7 +403,9 @@ Additional lists you might find useful:
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments. :star:4
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:14
+- [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:37
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+. :star:38
+- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:109
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE. :star:3
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.

@@ -34,7 +34,7 @@
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
 - [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm. :star:305
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
-- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:109
+- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:110
 - [Magento 2 Docker to Linux](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:143
@@ -49,7 +49,7 @@
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management. :star:74
 - [Codesniffer](https://github.com/magento-ecg/coding-standard) - Magento 2 Codesniffer. :star:260
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2. :star:26
-- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar. :star:139
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar. :star:140
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper. :star:88
 - [Magento2 PHPStorm Templates](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2 :star:99
 - [Technical Dept Collector](https://github.com/Vinai/m2-tech-debt) - Console Command to aggregates technical debt information on Magento 2 modules into a CSV format by [Vinai Kopp](https://commercehero.io/vinai). :star:15
@@ -65,7 +65,7 @@
 
 ### Deployment
 
-- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com). :star:105
+- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com). :star:106
 - [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/). :star:28
 - [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso). :star:31
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/).
@@ -102,7 +102,7 @@
 
 ### CMS
 
-- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:38
+- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:39
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support. :star:78
 - [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
 - [PageDesigner](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend. :star:42
@@ -112,7 +112,7 @@
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension. :star:54
 - [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration. :star:46
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/). :star:25
-- [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli. :star:18
+- [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli. :star:19
 
 ### Adminhtml / Backend
 
@@ -123,7 +123,7 @@
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality :star:37
 - [Image Resizer](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli). :star:40
 - [Excel Spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli). :star:5
-- [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign). :star:21
+- [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign). :star:22
 - [Mobile Detection](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign). :star:10
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:68
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect. :star:15
@@ -280,7 +280,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 ### Other Magento 2 related Awesome Lists
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:314
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:17699
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:17704
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel). :star:38
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 

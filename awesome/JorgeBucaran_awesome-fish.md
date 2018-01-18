@@ -18,23 +18,23 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:347
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:350
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2677
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2679
 * [Fundle](https://github.com/tuvistavie/fundle) :star:161
 * [Fresco](https://github.com/masa0x80/fresco) :star:4
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2988
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2990
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:673
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:674
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:209
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:229
-* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:100
+* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:101
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:25
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57

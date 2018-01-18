@@ -82,9 +82,11 @@ sellers who aren't evil for physical resources.
 - [Text Editor Resources](#text-editor-resources)
     - [Emacs](#emacs)
     - [Vim](#vim)
-    - [Sublime Text](#sublime-text)
+    - [Lem](#lem)
     - [Atom](#atom)
+    - [Sublime Text](#sublime-text)
     - [Notebooks](#notebooks)
+    - [REPLs](#repls)
 - [Text Processing](#text-processing)
 - [Tools](#tools)
 - [Unit Testing](#unit-testing)
@@ -172,6 +174,7 @@ Database
 To third parties:
 
 * [dyna](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT][200]. :star:11
+* [cl-influxdb](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT][200].
 
 
 Data Structures
@@ -203,7 +206,7 @@ Foreign Function Interface
 
 ## Objective-C ##
 
-* [objc-lisp-bridge](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT][200]. :star:10
+* [objc-lisp-bridge](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT][200]. :star:11
 
 ## Python ##
 
@@ -319,8 +322,8 @@ CLOS extensions
 * [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8]. :star:12
 
 
-Non-deterministic programming
------------------------------
+Non-deterministic, logic programming
+------------------------------------
 
 * [Screamer](https://github.com/nikodemus/screamer) - augment Common :star:114
   Lisp with practically all of the functionality of both Prolog and
@@ -329,6 +332,7 @@ Non-deterministic programming
   increasing the expressiveness of
   SCREAMER. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
   solving Project Euler puzzles.
+* [Temperance](https://sjl.bitbucket.io/temperance/) - logic programming. [MIT][200]. A focus on performance, with General Game Playing in mind.
 
 
 Learning and Tutorials
@@ -443,7 +447,7 @@ HTTP Servers
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8]. :star:79
 * [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14]. :star:145
-* [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200]. :star:600
+* [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200]. :star:601
 
 ### Clack plugins
 
@@ -458,7 +462,7 @@ HTTP Servers
 
 Web frameworks
 --------------
-* [Caveman](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8]. :star:461
+* [Caveman](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8]. :star:462
   Example projects: [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web) - Framework for building modern web apps. [Expat][14]. :star:33
 * [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200]. :star:141
@@ -511,7 +515,7 @@ Javascript
 
 * [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5]. :star:212
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
-* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:398
+* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:399
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
 * [SmackJack](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200]. :star:9
@@ -636,19 +640,19 @@ This contains plugins and other goodies for various text editors.
 
 ## Emacs ##
 
-* [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain. :star:877
+* [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain. :star:879
 * [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
 
 ## Vim ##
 
-* [SLIMV](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified. :star:243
+* [SLIMV](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified. :star:244
 * [Vlime](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200]. :star:59
 
-## Sublime Text ##
+## Lem ##
 
-* [Sublime Text](http://www.sublimetext.com/3) has Common Lisp support
-  with its "SublimeREPL" package. [Proprietary].
+* [Lem](https://github.com/cxxxr/lem) - a ready to use, Emacs-like, Slime-based :star:136
+  editor tailored for Common Lisp development. Ncurses and Electron interfaces. [MIT][200].
 
 ## Atom ##
 
@@ -656,11 +660,20 @@ This contains plugins and other goodies for various text editors.
   interactively develop Common Lisp code, helping turn Atom into a
   full-featured Lisp IDE. [MIT][200].
 
+## Sublime Text ##
+
+* [Sublime Text](http://www.sublimetext.com/3) has Common Lisp support
+  with its "SublimeREPL" package. [Proprietary].
+
 ## Notebooks ##
 
-* [cl-jupyter](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE). :star:108
+* [cl-jupyter](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE). :star:109
 * [Darkmatter](https://github.com/tamamu/darkmatter) - A :star:280
   notebook-style Common Lisp environment. [MIT][200].
+
+## REPLs ##
+
+* [cl-repl](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT][200]. With [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes). :star:39
 
 Text Processing
 ===============
@@ -827,7 +840,7 @@ This contains anything which doesn't fit into another category.
 * [iolib](https://github.com/sionescu/iolib) - I/O library. [Expat][14]. :star:107
 * [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified. :star:22
 * [named-readtables](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15]. :star:15
-* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1141
+* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1145
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39]. :star:3
 * [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].

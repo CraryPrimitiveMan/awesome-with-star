@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:38265
+- [Rails Source Code](https://github.com/rails/rails) :star:38288
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -100,7 +100,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:86
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20284
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20283
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
@@ -108,7 +108,7 @@
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [Live](https://happyhours.io)
 - [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates   :star:38
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1916
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:1918
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails :star:42
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4708
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1006
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2335
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4709
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1007
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2336
 

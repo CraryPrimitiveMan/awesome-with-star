@@ -77,7 +77,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Decoupling
 
-* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony) :star:208
+* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony) :star:209
 * [Symfony2: How to create framework independent controllers](https://matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 
 

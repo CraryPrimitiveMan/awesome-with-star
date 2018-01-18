@@ -152,7 +152,7 @@ Here awesome badge for your project:
 * [Blog](http://blog.jetbrains.com/kotlin/) 
 * [Issue Tracker](https://youtrack.jetbrains.com/issues/KT) 
 * [Twitter](https://twitter.com/kotlin) 
-* [Kotlin/KEEP](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process :star:603
+* [Kotlin/KEEP](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process :star:604
 * [Forum](https://discuss.kotlinlang.org/) 
 
 ### <a name="links-resources"></a>Resources <sup>[Back ⇈](#links-resources-subcategory)</sup>
@@ -165,7 +165,7 @@ Here awesome badge for your project:
 * [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile) 
 * [Kotlin - Google+](https://plus.google.com/communities/104597899765146112928) 
 * [From Java To Kotlin](https://github.com/fabiomsr/from-java-to-kotlin) 
-* [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin. :star:1646
+* [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin. :star:1656
 * [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet) 
 * [Kotlin Kōans Android app](https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans) - Learn Kotlin with short coding challenges on your Android device
 * [Kotlin Guide](https://kotlin.guide) - An introduction to Kotlin
@@ -188,16 +188,16 @@ Here awesome badge for your project:
 
 ## <a name="libraries-frameworks"></a>Libraries/Frameworks <sup>[Back ⇈](#libraries-frameworks-category)</sup>
 ### <a name="libraries-frameworks-web"></a>Web <sup>[Back ⇈](#libraries-frameworks-web-subcategory)</sup>
-* [ktorio/ktor](https://github.com/ktorio/ktor) - Web backend framework for Kotlin. Easy to use, fun and asynchronous. :star:2163
+* [ktorio/ktor](https://github.com/ktorio/ktor) - Web backend framework for Kotlin. Easy to use, fun and asynchronous. :star:2165
 * [TinyMission/kara](https://github.com/TinyMission/kara) - Web framework written in Kotlin. :star:476
 * [http4k/http4k](http://www.http4k.org) - Toolkit for serving and consuming HTTP services in a functional and consistent way.
 * [jean79/yested](https://github.com/jean79/yested) - A Kotlin framework for building web applications in Javascript. :star:79
 * [hhariri/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework built with Kotlin for the JVM. :star:474
-* [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML. :star:308
+* [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML. :star:309
 * [MarioAriasC/KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) - Spring support libraries for Kotlin. :star:70
 * [kohesive/kovert](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow. :star:92
 * [sdeleuze/spring-kotlin](https://github.com/sdeleuze/spring-kotlin) - Kotlin extensions for Spring projects.
-* [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin :star:57
+* [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin :star:58
 * [taskworld/kraph](https://github.com/taskworld/kraph) - GraphQL request string builder written in Kotlin :star:80
 * [sepatel/tekniq](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration :star:14
 * [vert-x3/vertx-lang-kotlin](https://github.com/vert-x3/vertx-lang-kotlin/) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
@@ -209,38 +209,38 @@ Here awesome badge for your project:
 * [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework. :star:506
 * [hexagonkt/hexagon](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serializtion and storage. :star:64
 * [danneu/kog](https://github.com/danneu/kog) - A web framework focused on simplicity, middleware, and functional composition :star:26
-* [tipsy/javalin](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin. :star:1106
+* [tipsy/javalin](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin. :star:1108
 * [laviua/komock](https://github.com/laviua/komock) - HTTP/Consul/SMTP/Spring Config mocker framework written in Kotlin :star:4
 * [hypercube1024/firefly](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application. :star:212
 * [phenax/h](https://github.com/phenax/h) - HTML templating library written in Kotlin :star:5
 
 ### <a name="libraries-frameworks-tests"></a>Tests <sup>[Back ⇈](#libraries-frameworks-tests-subcategory)</sup>
-* [JetBrains/spek](https://github.com/jetbrains/spek) - A specification framework for Kotlin. :star:1011
+* [JetBrains/spek](https://github.com/jetbrains/spek) - A specification framework for Kotlin. :star:1014
 * [npryce/hamkrest](https://github.com/npryce/hamkrest) - A reimplementation of Hamcrest to take advantage of Kotlin language features. :star:175
-* [nhaarman/mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Using Mockito with Kotlin. :star:848
+* [nhaarman/mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Using Mockito with Kotlin. :star:850
 * [robstoll/atrium](https://github.com/robstoll/atrium) - Fluent assertion library for Kotlin supporting i18n. :star:12
-* [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent) - Fluent Assertion-Library for Kotlin. :star:296
+* [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent) - Fluent Assertion-Library for Kotlin. :star:299
 * [winterbe/expekt](https://github.com/winterbe/expekt) - BDD assertion library for Kotlin. :star:102
-* [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) - KotlinTest is a flexible and comprehensive testing tool for the Kotlin ecosystem based on and heavily inspired by the superb Scalatest. :star:619
+* [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) - KotlinTest is a flexible and comprehensive testing tool for the Kotlin ecosystem based on and heavily inspired by the superb Scalatest. :star:620
 * [dmcg/konsent](https://github.com/dmcg/konsent) - An acceptance test library for Kotlin. :star:9
 * [raniejade/kspec](https://github.com/raniejade/kspec) - Kotlin Specification Framework. :star:16
 * [EPadronU/balin](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb. :star:26
 * [dmcg/k-sera](https://github.com/dmcg/k-sera) - A JMock wrapper for Kotlin. :star:6
 * [dam5s/aspen](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin. :star:27
 * [qwertukg/SeleniumBuilder](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style. :star:25
-* [oleksiyp/mockk](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library. :star:292
+* [oleksiyp/mockk](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library. :star:295
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
-* [SalomonBrys/Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection . :star:834
+* [SalomonBrys/Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection . :star:836
 * [kohesive/injekt](https://github.com/kohesive/injekt) - (Deprecated, @see Kodein) Dependency Injection / Object Factory for Kotlin. :star:203
 * [kailan/kodeinject](https://github.com/kailan/kodeinject) - Constructor dependency injection for Kodein. :star:12
 * [traversals/kapsule](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin. :star:110
 * [JLLeitschuh/kotlin-guiced](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library. :star:6
-* [Ekito/koin](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM. :star:690
+* [Ekito/koin](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM. :star:696
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
-* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin. :star:578
-* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines. :star:1458
+* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin. :star:580
+* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines. :star:1464
 * [soywiz/korio](https://github.com/soywiz/korio) - Korio: Kotlin cORoutines I/O: Streams + Async TCP Client/Server + Virtual File System for JVM, Node.JS and Browser. :star:85
 * [soywiz/korim](https://github.com/soywiz/korim) - Korim: Kotlin cORoutines IMaging utilities depending on Korio. :star:12
 * [soywiz/korui](https://github.com/soywiz/korui) - Korui: Kotlin cORoutines User Interfaces: korio + kimage + korui :star:11
@@ -248,21 +248,21 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-functional-programming"></a>Functional Programming <sup>[Back ⇈](#libraries-frameworks-functional-programming-subcategory)</sup>
 * [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin. :star:656
-* [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin. :star:3517
+* [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin. :star:3520
 * [kittinunf/Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin. :star:242
 * [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux. :star:375
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin. :star:182
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - A "batteries included" port of Reduxjs for Kotlin+Android :star:96
-* [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell. :star:14
+* [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell. :star:15
 * [pakoito/Komprehensions](https://github.com/pakoito/Komprehensions) - Do comprehensions for Kotlin and 3rd party libraries. :star:51
 * [h0tk3y/kotlin-monads](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin :star:61
-* [Kategory/Kategory](https://github.com/Kategory/Kategory) - Functional datatypes & abstractions for Kotlin. :star:737
+* [Kategory/Kategory](https://github.com/Kategory/Kategory) - Functional datatypes & abstractions for Kotlin. :star:748
 * [poetix/klenses](https://github.com/poetix/klenses) - Lenses for Kotlin. :star:20
 * [reactor/reactor-kotlin-extensions](https://github.com/reactor/reactor-kotlin-extensions/) - Kotlin extensions for Reactor.
 * [UrbanCompass/Snail-Kotlin](https://github.com/UrbanCompass/Snail-Kotlin) - An observables framework for Kotlin. :star:26
 
 ### <a name="libraries-frameworks-json"></a>JSON <sup>[Back ⇈](#libraries-frameworks-json-subcategory)</sup>
-* [cbeust/klaxon](https://github.com/cbeust/klaxon) - Lightweight library to parse JSON in Kotlin. :star:497
+* [cbeust/klaxon](https://github.com/cbeust/klaxon) - Lightweight library to parse JSON in Kotlin. :star:499
 * [SalomonBrys/Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax. :star:444
 * [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Jackson module that adds support for serialization/deserialization of Kotlin classes and data classes. :star:362
 * [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) - Type Extensions (Long, Int, Enum, Date) for Klaxon. :star:4
@@ -270,43 +270,43 @@ Here awesome badge for your project:
 * [fluidsonic/fluid-json](https://github.com/fluidsonic/fluid-json) - A JSON library written in pure Kotlin. :star:3
 
 ### <a name="libraries-frameworks-database"></a>Database <sup>[Back ⇈](#libraries-frameworks-database-subcategory)</sup>
-* [JetBrains/Exposed](https://github.com/jetbrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. :star:1077
+* [JetBrains/Exposed](https://github.com/jetbrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. :star:1079
 * [cheptsov/kotlin-nosql](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin. :star:173
 * [jankotek/mapdb](https://github.com/jankotek/mapdb) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine. :star:2946
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin. :star:52
 * [andrewoma/kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin. :star:159
 * [square/sqldelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements. :star:1619
 * [x2bool/kuery](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin. :star:74
-* [Litote/kmongo](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo :star:61
+* [Litote/kmongo](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo :star:62
 * [requery/requery](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android. :star:2332
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications. :star:89
 * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin on top of sqlite jdbc driver. :star:81
 * [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java. :star:6
-* [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you. :star:3943
+* [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you. :star:3944
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - Kotlin/Gradle port of mauricio's async driver for postgres/mysql. :star:20
 * [shyiko/levelkt](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+. :star:3
 * [SubiyaCryolite/jds](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining. :star:3
 
 ### <a name="libraries-frameworks-tools"></a>Tools <sup>[Back ⇈](#libraries-frameworks-tools-subcategory)</sup>
-* [Kotlin/dokka](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin. :star:461
+* [Kotlin/dokka](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin. :star:463
 * [Levelmoney/kbuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
-* [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin. :star:312
+* [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin. :star:313
 * [kohesive/keplin](https://github.com/kohesive/keplin) - Secure Kotlin scripting and binary lambda-scripts. :star:17
 * [shyiko/ktlint](https://github.com/shyiko/ktlint) - Kotlin linter. :star:675
 * [jtransc/jtransc](https://github.com/jtransc/jtransc) - JVM AOT compiler created in Kotlin. :star:237
-* [arturbosch/detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin. :star:826
+* [arturbosch/detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin. :star:827
 * [cypressious/KotlinW](https://github.com/cypressious/KotlinW) - A small wrapper for the Kotlin compiler that can be used to execute .kts scripts. :star:11
 
 ### <a name="libraries-frameworks-desktop"></a>Desktop <sup>[Back ⇈](#libraries-frameworks-desktop-subcategory)</sup>
-* [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin/ :star:1265
+* [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin/ :star:1267
 
 ### <a name="libraries-frameworks-http-clients"></a>Http Clients <sup>[Back ⇈](#libraries-frameworks-http-clients-subcategory)</sup>
-* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android. :star:1369
-* [jkcclemens/khttp](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library. :star:160
+* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android. :star:1371
+* [jkcclemens/khttp](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library. :star:161
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) - Multiplatform coroutine-based HTTP client. :star:3
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
-* [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition :star:5371
+* [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition :star:5376
 * [alexmt/atom-kotlin-language](https://github.com/alexmt/atom-kotlin-language) - Adds syntax highlighting to Kotlin files in Atom :star:17
 * [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin. :star:50
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin Syntax Highlighter for Vim. :star:167
@@ -318,16 +318,16 @@ Here awesome badge for your project:
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
 * [jneen/rouge](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
 * [isagalaev/highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
-* [github/linguist](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package :star:5392
+* [github/linguist](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package :star:5398
 * [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
-* [cansik/kotlin-latex-listing](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings. :star:16
+* [cansik/kotlin-latex-listing](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings. :star:17
 
 ### <a name="libraries-frameworks-game-development"></a>Game Development <sup>[Back ⇈](#libraries-frameworks-game-development-subcategory)</sup>
 * [libktx/ktx](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications. :star:232
 * [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin :star:486
 * [icela/FriceEngine](https://github.com/icela/FriceEngine) - Make game developing easy again! :star:192
 * [vassilibykov/AdventKT](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example. :star:3
-* [Hexworks/zircon](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin. :star:138
+* [Hexworks/zircon](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin. :star:139
 
 ### <a name="libraries-frameworks-misc"></a>Misc <sup>[Back ⇈](#libraries-frameworks-misc-subcategory)</sup>
 * [Kotlin/kotlinx.reflect.lite](https://github.com/Kotlin/kotlinx.reflect.lite) - Lightweight library allowing to introspect basic stuff about Kotlin symbols. :star:43
@@ -336,16 +336,16 @@ Here awesome badge for your project:
 * [mplatvoet/kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android :star:468
 * [kohesive/klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository. :star:94
 * [kohesive/solr-undertow](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server. :star:84
-* [leprosus/kotlin-hashids](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers. :star:33
+* [leprosus/kotlin-hashids](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers. :star:34
 * [mplatvoet/progress](https://github.com/mplatvoet/progress) - Progress for Kotlin. :star:12
 * [sargunster/CakeParse](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin. :star:9
 * [sargunster/KtUnits](https://github.com/sargunster/KtUnits) - Tiny unit conversion library for Kotlin. :star:11
 * [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin. :star:185
 * [yole/kxdate](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API :star:53
-* [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode. :star:486
+* [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode. :star:487
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing :star:72
 * [debop/koda-time](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (From Java 8 use java.time instead)
-* [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions. :star:357
+* [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions. :star:358
 * [cesarferreira/kotlin-pluralizer](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings. :star:26
 * [JoelW-S/groothy](https://github.com/JoelW-S/groothy) - Kotlin implementation of Groovy Truth. :star:3
 * [Jire/Strukt](https://github.com/Jire/Strukt) - Value types on the JVM, today! :star:30
@@ -371,7 +371,7 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-configuration"></a>Configuration <sup>[Back ⇈](#libraries-frameworks-configuration-subcategory)</sup>
 * [npryce/konfig](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin :star:99
-* [mariomac/kaconf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin :star:24
+* [mariomac/kaconf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin :star:23
 * [config4k/config4k](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config :star:20
 * [jdiazcano/cfg4k](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin. :star:25
 * [daviddenton/configur8](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types. :star:6
@@ -420,24 +420,24 @@ Here awesome badge for your project:
 * [mariomac/codebuilder](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications. :star:4
 * [rocketraman/kotlin-web-hello-world](https://github.com/rocketraman/kotlin-web-hello-world) - This project shows how to do a web-based "Hello World!" with Kotlin in combination with various JVM - based web frameworks. :star:4
 * [ivanpopelyshev/vertx-facebook-messenger](https://github.com/ivanpopelyshev/vertx-facebook-messenger) - Seed project for facebook messenger bots. Vertx, Kotlin. :star:6
-* [corda/corda](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.  :star:1350
+* [corda/corda](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.  :star:1355
 * [spolnik/JAlgoArena](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java. :star:10
-* [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website :star:303
+* [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website :star:305
 * [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda. :star:27
 * [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin. :star:29
 
 ### <a name="projects-build-tools"></a>Build tools <sup>[Back ⇈](#projects-build-tools-subcategory)</sup>
 * [cbeust/kobalt](https://github.com/cbeust/kobalt) - Build system inspired by Gradle. :star:323
-* [gradle/gradle-script-kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts. :star:1205
+* [gradle/gradle-script-kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts. :star:1207
 * [nebula-plugins/nebula-kotlin-plugin](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted. :star:42
 * [pubref/rules_kotlin](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin. :star:147
 
 ### <a name="projects-misc"></a>Misc <sup>[Back ⇈](#projects-misc-subcategory)</sup>
 * [brikk/brikk](https://github.com/brikk/brikk) - Brikk dependency manager (Kotlin, KotlinJS, Java, ...). :star:15
-* [lice-lang/lice](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin :star:69
+* [lice-lang/lice](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin :star:70
 * [sureshg/InstallCerts](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates. :star:2
 * [vicboma1/GameBoyEmulatorEnvironment](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines). :star:9
-* [borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format. :star:146
+* [borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format. :star:147
 * [jenkinsci/doktor-plugin](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence. :star:4
 * [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries. :star:13
 * [kpspemu/kpspemu](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin. :star:16
@@ -447,13 +447,13 @@ Here awesome badge for your project:
 
 ### <a name="projects-examples"></a>Examples <sup>[Back ⇈](#projects-examples-subcategory)</sup>
 * [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax. :star:1626
-* [JetBrains/kotlin-examples](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin. :star:1458
+* [JetBrains/kotlin-examples](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin. :star:1459
 * [JetBrains/swot](https://github.com/jetbrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts. :star:360
 * [robfletcher/midcentury-ipsum](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page. :star:2
 * [robfletcher/lazybones-kotlin](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise. :star:1
 * [wangjiegulu/KotlinAndroidSample](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin. :star:21
 * [dodyg/Kotlin101](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language. :star:129
-* [dkandalov/kotlin-99](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin! :star:304
+* [dkandalov/kotlin-99](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin! :star:307
 * [dkandalov/rosettacode-kotlin](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from [RosettaCode](http://rosettacode.org/)
 * [vicboma1/Kotlin-Koans](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project. :star:76
 * [vicboma1/GettingStartedKotlin](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin. :star:22
@@ -464,19 +464,19 @@ Here awesome badge for your project:
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 * [Vektah/CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime. :star:750
-* [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform. :star:1598
+* [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform. :star:1599
 * [dkandalov/activity-tracker](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity. :star:36
 
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
-* [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development. :star:9533
-* [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - View injection library for Android. :star:1833
+* [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development. :star:9550
+* [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - View injection library for Android. :star:1836
 * [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android. :star:261
 * [MarcinMoskala/KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun. :star:27
-* [MarcinMoskala/PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences. :star:78
+* [MarcinMoskala/PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences. :star:79
 * [nsk-mironov/kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android. :star:146
-* [pawegio/KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code. :star:683
+* [pawegio/KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code. :star:684
 * [chibatching/Kotpref](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin. :star:214
 * [TouK/bubble](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest. :star:68
 * [ragunathjawahar/kaffeine](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development. :star:132
@@ -487,33 +487,33 @@ Here awesome badge for your project:
 * [andre-artus/AnvilKotlin](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React. :star:6
 * [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties. :star:17
 * [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!. :star:538
-* [denisidoro/krouter](https://github.com/denisidoro/krouter) - A lightweight Android activity router. :star:71
+* [denisidoro/krouter](https://github.com/denisidoro/krouter) - A lightweight Android activity router. :star:72
 * [metalabdesign/AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1. :star:342
 * [jupf/staticlog](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android. :star:21
 * [zserge/anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React. :star:1154
-* [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin. :star:285
+* [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin. :star:286
 * [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple. :star:3
 * [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML. :star:104
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML. :star:188
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity. :star:22
-* [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti :star:825
+* [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti :star:829
 * [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list. :star:42
 * [calintat/alps](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences. :star:1
-* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming. :star:27
+* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming. :star:28
 * [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava :star:15
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application. :star:5
 * [line/clay](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio. :star:64
-* [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin. :star:38
-* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox. :star:646
+* [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin. :star:39
+* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox. :star:647
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
-* [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture. :star:1323
-* [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson. :star:25
+* [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture. :star:1325
+* [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson. :star:26
 * [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (iPhone/iPad), Android, Windows & more using Kotlin & Java :star:678
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
-* [antoniolg/Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language. :star:1330
-* [antoniolg/Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers". :star:1401
+* [antoniolg/Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language. :star:1332
+* [antoniolg/Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers". :star:1403
 * [damianpetla/kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2. :star:464
 * [dodyg/AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android. :star:294
 * [MakinGiants/banjen](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo. :star:5
@@ -521,14 +521,14 @@ Here awesome badge for your project:
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history. :star:13
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly. :star:18
 * [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development. :star:189
-* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android. :star:1126
+* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android. :star:1132
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin :star:53
-* [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+ :star:1542
-* [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads. :star:866
+* [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+ :star:1544
+* [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads. :star:868
 * [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads. :star:150
 * [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors. :star:68
 * [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories. :star:152
-* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads. :star:351
+* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads. :star:352
 * [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads. :star:86
 * [ahong222/happy21](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin :star:3
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils :star:46
@@ -546,10 +546,10 @@ Here awesome badge for your project:
 * [ajalt/timberkt](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber. :star:94
 
 ### <a name="android-tools"></a>Tools <sup>[Back ⇈](#android-tools-subcategory)</sup>
-* [kiruto/debug-bottle](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language. :star:769
+* [kiruto/debug-bottle](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language. :star:770
 
 ### <a name="android-tests"></a>Tests <sup>[Back ⇈](#android-tests-subcategory)</sup>
-* [agoda-com/Kakao](https://github.com/agoda-com/Kakao) -  Nice and simple DSL for Espresso in Kotlin. :star:325
+* [agoda-com/Kakao](https://github.com/agoda-com/Kakao) -  Nice and simple DSL for Espresso in Kotlin. :star:326
 
 
 ## <a name="kotlin-javascript"></a>Kotlin JavaScript <sup>[Back ⇈](#kotlin-javascript-category)</sup>
@@ -570,7 +570,7 @@ Here awesome badge for your project:
 * [perses-games/kudens](https://github.com/perses-games/kudens) - Develop browser games in Kotlin :star:15
 
 ### <a name="kotlin-javascript-build-tools"></a>Build Tools <sup>[Back ⇈](#kotlin-javascript-build-tools-subcategory)</sup>
-* [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development. :star:197
+* [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development. :star:198
 * [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader. :star:27
 
 ### <a name="kotlin-javascript-integration"></a>Integration <sup>[Back ⇈](#kotlin-javascript-integration-subcategory)</sup>
@@ -579,9 +579,9 @@ Here awesome badge for your project:
 
 ## <a name="kotlin-native"></a>Kotlin Native <sup>[Back ⇈](#kotlin-native-category)</sup>
 ### <a name="kotlin-native-projects"></a>Projects <sup>[Back ⇈](#kotlin-native-projects-subcategory)</sup>
-* [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain. :star:3067
+* [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain. :star:3074
 * [perses-games/konan-sfml](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example :star:11
-* [JetBrains/kotlinconf-spinner](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack. :star:315
+* [JetBrains/kotlinconf-spinner](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack. :star:317
 
 
 ## <a name="kotlin-user-groups"></a>Kotlin User Groups <sup>[Back ⇈](#kotlin-user-groups-category)</sup>

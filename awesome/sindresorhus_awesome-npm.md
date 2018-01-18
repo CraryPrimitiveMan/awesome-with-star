@@ -75,7 +75,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2781
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2784
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:712
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:98
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:62
@@ -93,16 +93,16 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages. :star:25
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry. :star:44
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:14
-- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:909
+- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:911
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:289
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2001
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2008
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:130
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package. :star:91
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:788
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3856
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3858
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively. :star:101
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool. :star:783
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1341
@@ -118,7 +118,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search. :star:3
 - [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once. :star:46
 - [john](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort. :star:43
-- [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks. :star:400
+- [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks. :star:401
 - [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line. :star:8
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline. :star:759
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:57
@@ -128,9 +128,9 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29730
-- [npm](https://github.com/npm/npm) - The official client. :star:15124
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3068
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29737
+- [npm](https://github.com/npm/npm) - The official client. :star:15129
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3070
 
 
 ## Tips

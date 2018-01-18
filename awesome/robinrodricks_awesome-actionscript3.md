@@ -201,7 +201,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts. :star:3
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:300
+* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:301
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization. :star:64
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
@@ -425,7 +425,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Networking
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:379
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:380
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) - Bulk asset loading library for Actionscript. :star:282
 * [AssetLoader](https://github.com/Matan/AssetLoader) - Multi-file/asset loader for AS3 built on AS3Signals. :star:125
 
@@ -436,7 +436,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR. :star:33
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples)). :star:116
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:13
-* [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:44
+* [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:45
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:143
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
 

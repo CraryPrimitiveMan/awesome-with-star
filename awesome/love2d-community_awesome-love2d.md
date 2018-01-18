@@ -40,7 +40,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text) :star:10
 * [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary) :star:18
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE :star:139
-* [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels :star:25
+* [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels :star:26
 
 
 ## AI
@@ -53,9 +53,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend :star:6
 * [anim8](https://github.com/kikito/anim8) - Animation library :star:285
-* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:10
+* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:11
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:12
-* [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library :star:26
+* [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library :star:27
 * [Walt](https://github.com/davisdude/Walt) - Animation library :star:27
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime :star:13
 
@@ -159,7 +159,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:914
+* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:915
 
 ## Performance
 *Performance measurement tools*
@@ -188,7 +188,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2416
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2420
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -207,7 +207,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes :star:31
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:202
+* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:203
 
 ## Testing
 *Libraries and Tools for Unit Testing*
@@ -247,7 +247,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Non-Game specific Library bundles, that provide reuseable functions*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
-* [cargo](https://github.com/bjornbytes/cargo) - Asset manager :star:68
+* [cargo](https://github.com/bjornbytes/cargo) - Asset manager :star:69
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE :star:28
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game :star:8
@@ -310,7 +310,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1572
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:36
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:728
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:730
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

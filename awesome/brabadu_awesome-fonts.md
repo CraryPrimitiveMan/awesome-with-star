@@ -40,7 +40,7 @@ A curated list of fonts and typography resources.
 
 #### Fonts
 * [AtF Spark](http://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
-* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces. :star:4085
+* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces. :star:4088
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum :star:4586
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) :star:221
@@ -56,7 +56,7 @@ A curated list of fonts and typography resources.
 * [emoji-rspec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec :star:170
 * [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji :star:779
 * [emoji](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc :star:237
-* [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind :star:1649
+* [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind :star:1650
 * [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone. :star:419
 * [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets :star:3
 * [emojify.js](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images :star:1729
@@ -69,7 +69,7 @@ A curated list of fonts and typography resources.
 * [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility. :star:113
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names :star:2985
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right :star:139
-* [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js :star:406
+* [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js :star:405
 * [megamoji](https://github.com/muan/megamoji) - Making megamojis like a pro :star:150
 * [mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app :star:1778
 * [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis :star:40
@@ -79,11 +79,11 @@ A curated list of fonts and typography resources.
 
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile :star:17
-* [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS :star:4275
+* [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS :star:4280
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator :star:3141
 * [Font-Awesome](http://fontawesome.io) - The iconic font and CSS toolkit
-* [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks :star:446
+* [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks :star:447
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons. :star:2624
 * [fontello](http://fontello.com) - Iconic fonts scissors
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
@@ -93,8 +93,8 @@ A curated list of fonts and typography resources.
 * [Iconic](https://github.com/somerandomdude/Iconic) - Icon set in raster, vector and font formats :star:2451
 * [icono](https://saeedalipoor.github.io/icono/) - One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) - The premium icon font for Ionic
-* [Map Icons](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels :star:885
-* [Material design icons](https://github.com/google/material-design-icons) - Official icon set from Google :star:33159
+* [Map Icons](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels :star:888
+* [Material design icons](https://github.com/google/material-design-icons) - Official icon set from Google :star:33167
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
 * [Micon](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit :star:125
 * [octicons](https://octicons.github.com/) - GitHub's icon font
@@ -113,7 +113,7 @@ A curated list of fonts and typography resources.
 * [Adobe Fonts](https://github.com/adobe-fonts)
   * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
   * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) :star:2806
-  * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) :star:2135
+  * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) :star:2138
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) :star:1245
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers :star:4356
@@ -124,30 +124,30 @@ A curated list of fonts and typography resources.
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font :star:1824
 * [Mononoki](http://madmalik.github.io/mononoki/)
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons :star:6610
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons :star:6612
 
 #### Programming fonts with ligatures
-* [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures :star:19902
+* [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures :star:19912
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys) :star:232
-* [Hasklig](https://github.com/i-tu/Hasklig) :star:2938
-* [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code. :star:5323
-* [Monoid](https://github.com/larsenwork/monoid) :star:4902
+* [Hasklig](https://github.com/i-tu/Hasklig) :star:2939
+* [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code. :star:5327
+* [Monoid](https://github.com/larsenwork/monoid) :star:4905
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
-* [fontmin](https://github.com/ecomfe/fontmin) - Font minifier :star:2463
-* [Lettering.js](https://github.com/davatron5000/Lettering.js) :star:4965
+* [fontmin](https://github.com/ecomfe/fontmin) - Font minifier :star:2464
+* [Lettering.js](https://github.com/davatron5000/Lettering.js) :star:4967
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage :star:855
-* [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts :star:1855
-* [Typefont](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo :star:1294
+* [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts :star:1856
+* [Typefont](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo :star:1296
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography :star:2209
 * [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
 #### Event listeners for fonts loading on a web page
-* [Font Face Observer](https://github.com/bramstein/fontfaceobserver) :star:2519
-* [Web Font Loader](https://github.com/typekit/webfontloader) :star:6348
+* [Font Face Observer](https://github.com/bramstein/fontfaceobserver) :star:2521
+* [Web Font Loader](https://github.com/typekit/webfontloader) :star:6351
 
 ## GitHub Showcases
 * [Fonts](https://github.com/showcases/fonts)
@@ -157,8 +157,8 @@ A curated list of fonts and typography resources.
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font) :star:18
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-* [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor :star:1772
-* [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users :star:10501
+* [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor :star:1774
+* [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users :star:10507
 
 ## License
 

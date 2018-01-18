@@ -82,7 +82,7 @@
 ## Modules
 * [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes. :star:59
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar. :star:92
-* [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations. :star:56
+* [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations. :star:57
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification. :star:22
 * [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process. :star:22
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier. :star:421
@@ -148,7 +148,7 @@
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients. :star:16
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku. :star:13
 * [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes. :star:13
-* [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:13
+* [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:14
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:36
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:44

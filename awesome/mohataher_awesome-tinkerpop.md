@@ -39,8 +39,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan. :star:30
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:118
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
-* [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:95
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org . :star:1117
+* [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:96
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org . :star:1122
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:58
 
 
