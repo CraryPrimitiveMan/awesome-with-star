@@ -1,4 +1,4 @@
-# Info come from [JorgeBucaran/awesome-fish](https://github.com/JorgeBucaran/awesome-fish)
+# Information comes from [JorgeBucaran/awesome-fish](https://github.com/JorgeBucaran/awesome-fish)
 # Awesome fish
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
@@ -18,22 +18,22 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:350
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:351
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2679
-* [Fundle](https://github.com/tuvistavie/fundle) :star:161
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2682
+* [Fundle](https://github.com/tuvistavie/fundle) :star:162
 * [Fresco](https://github.com/masa0x80/fresco) :star:4
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2990
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:2994
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:674
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:676
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:209
-* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:229
+* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:230
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:101
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:25
@@ -44,7 +44,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Simple Prompts
 
-* [Mono](https://github.com/fisherman/mono) :star:26
+* [Mono](https://github.com/fisherman/mono) :star:27
 * [Simple](https://github.com/fisherman/simple) :star:59
 * [Sol](https://github.com/fisherman/sol) :star:25
 

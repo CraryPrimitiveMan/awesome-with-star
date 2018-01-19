@@ -1,4 +1,4 @@
-# Info come from [rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase)
+# Information comes from [rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase)
 # Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/c197f415/hbase_logo_with_orca-2.png" align="right" width="150">](http://hbase.apache.org/)
@@ -38,7 +38,7 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:475
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:196
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:197
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:369
 
 
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:769
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:770
 
 #### Geospatial
 
@@ -73,7 +73,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:94
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:96
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:97
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 

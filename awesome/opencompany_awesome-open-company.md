@@ -1,4 +1,4 @@
-# Info come from [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
+# Information comes from [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
 # Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.

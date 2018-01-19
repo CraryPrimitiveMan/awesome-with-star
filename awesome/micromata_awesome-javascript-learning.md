@@ -1,4 +1,4 @@
-# Info come from [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)
+# Information comes from [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)
 # Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
@@ -86,7 +86,7 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:1941
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:1942
 
 ## DOM related
 

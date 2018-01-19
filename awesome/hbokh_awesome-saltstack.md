@@ -1,4 +1,4 @@
-# Info come from [hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack)
+# Information comes from [hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack)
 # Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://SaltStack.com)
@@ -30,7 +30,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8466
+* [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8470
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:

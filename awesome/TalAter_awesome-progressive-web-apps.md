@@ -1,4 +1,4 @@
-# Info come from [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps)
+# Information comes from [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps)
 # Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated collection of Progressive Web Apps resources.

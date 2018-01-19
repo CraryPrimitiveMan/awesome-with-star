@@ -1,4 +1,4 @@
-# Info come from [ligurio/awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
+# Information comes from [ligurio/awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
@@ -358,17 +358,17 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1479
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1480
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:906
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2287
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:907
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2297
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:388
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:128
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:47
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:294
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:295
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:89
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:90
 
 ### License
 

@@ -1,4 +1,4 @@
-# Info come from [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+# Information comes from [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 ---
 title: Awesome Geek Podcasts
 permalink: /

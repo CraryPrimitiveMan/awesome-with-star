@@ -1,4 +1,4 @@
-# Info come from [armaldio/awesome-construct](https://github.com/armaldio/awesome-construct)
+# Information comes from [armaldio/awesome-construct](https://github.com/armaldio/awesome-construct)
 # Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.scirra.com/)

@@ -1,4 +1,4 @@
-# Info come from [avajs/awesome-ava](https://github.com/avajs/awesome-ava)
+# Information comes from [avajs/awesome-ava](https://github.com/avajs/awesome-ava)
 # Awesome AVA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
 
 > [AVA](https://ava.li) is a minimal & futuristic JavaScript test runner
@@ -43,7 +43,7 @@
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:180
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:428
-- [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:53
+- [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
 - [start-ava](https://github.com/start-runner/ava) - Run tests with Start. :star:6

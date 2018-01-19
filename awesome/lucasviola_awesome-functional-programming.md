@@ -1,4 +1,4 @@
-# Info come from [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)
+# Information comes from [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Based on the [Awesome](https://github.com/sindresorhus/awesome/) project
@@ -96,7 +96,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell. :star:773
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript. :star:220
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier. :star:11452
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier. :star:11455
 
 ### People
 

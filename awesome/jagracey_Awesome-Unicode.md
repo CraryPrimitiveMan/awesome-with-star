@@ -1,4 +1,4 @@
-# Info come from [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
+# Information comes from [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
@@ -488,8 +488,8 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 # Awesome Packages & Libraries
 - [PhantomScript](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering :star:26
 - [ESReverser](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript. :star:528
-- [mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy :star:3339
-- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken. :star:2129
+- [mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy :star:3340
+- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken. :star:2132
 - [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code. :star:144
 
 

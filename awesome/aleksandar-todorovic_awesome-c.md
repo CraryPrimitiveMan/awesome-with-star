@@ -1,4 +1,4 @@
-# Info come from [aleksandar-todorovic/awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
+# Information comes from [aleksandar-todorovic/awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
 # awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.

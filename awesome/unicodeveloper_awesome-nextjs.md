@@ -1,4 +1,4 @@
-# Info come from [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+# Information comes from [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 # Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250">](https://github.com/zeit/next.js)
@@ -20,7 +20,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:21312
+* [GitHub](https://github.com/zeit/next.js) :star:21360
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -43,9 +43,9 @@
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:3
-* [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:263
-* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:397
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1210
+* [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:265
+* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:399
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1211
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:288
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:3
@@ -55,12 +55,12 @@
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:531
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:574
+* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:575
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:15
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:22
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:249
 * [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:405
-* [Password](https://github.com/dotcypress/password) - One password, right way. :star:71
+* [Password](https://github.com/dotcypress/password) - One password, right way. :star:72
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js. :star:92
 * [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js. :star:34
 * [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo. :star:1
@@ -69,13 +69,13 @@
 * [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:22
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:40
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:32
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:329
-* [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:78
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:330
+* [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:82
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information. :star:3
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation. :star:26
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
-* [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd :star:42
+* [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd :star:43
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql) :star:7
 * [DS](https://github.com/divyenduz/ds) - Personal site manager. :star:2
 

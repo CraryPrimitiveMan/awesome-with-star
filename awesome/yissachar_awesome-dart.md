@@ -1,4 +1,4 @@
-# Info come from [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart)
+# Information comes from [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart)
 Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
@@ -101,7 +101,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Parsers
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
-* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:69
+* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:70
 * [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:84
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.

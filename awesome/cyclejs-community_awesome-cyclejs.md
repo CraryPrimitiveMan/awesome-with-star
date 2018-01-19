@@ -1,4 +1,4 @@
-# Info come from [cyclejs-community/awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs)
+# Information comes from [cyclejs-community/awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs)
 ## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
@@ -76,7 +76,7 @@ http://oleg.fi/graafi/
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
 * [edge/electron-cycle-media ★27](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron. :star:29
 * [kibin/cycle-example-who-to-follow ★16](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api. :star:16
-* [SkaterDad/cycle-snabbdom-examples ★12](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations. :star:12
+* [SkaterDad/cycle-snabbdom-examples ★12](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations. :star:13
 * [bahmutov/draw-cycle ★112](https://github.com/bahmutov/draw-cycle) - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
 * [andreloureiro/pomocycle ★21](https://github.com/andreloureiro/pomocycle) - A simple Pomodoro timer. :star:23
 * [laszlokorte/tams-tools ★24](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js. :star:24
@@ -96,7 +96,7 @@ http://oleg.fi/graafi/
 
 ### CLI
 
-* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:181
+* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:182
 
 ## Libraries
 
@@ -146,7 +146,7 @@ http://oleg.fi/graafi/
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies :star:10
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:20
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js :star:2
-* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:416
+* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:417
 * [**pH200/cycle-react ★342**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API :star:353
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js. :star:2
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4

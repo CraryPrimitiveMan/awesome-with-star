@@ -1,4 +1,4 @@
-# Info come from [weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
+# Information comes from [weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
 # Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
@@ -36,7 +36,7 @@
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan](https://github.com/lelylan/lelylan) :star:1149
+- [Lelylan](https://github.com/lelylan/lelylan) :star:1150
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -45,8 +45,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:33105
-- [Electron](https://github.com/atom/electron) :star:55369
+- [nw.js](https://github.com/nwjs/nw.js) :star:33110
+- [Electron](https://github.com/atom/electron) :star:55417
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)

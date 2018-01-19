@@ -1,4 +1,4 @@
-# Info come from [hubtee/awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents)
+# Information comes from [hubtee/awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents)
 # Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, redistribute and even rewrite under their license.

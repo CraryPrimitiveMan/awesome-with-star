@@ -1,4 +1,4 @@
-# Info come from [vorpaljs/awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal)
+# Information comes from [vorpaljs/awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal)
 # Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based projects and extensions.
@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7409
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7410
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:99

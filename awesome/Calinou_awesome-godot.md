@@ -1,4 +1,4 @@
-# Info come from [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
+# Information comes from [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
 # Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
@@ -59,7 +59,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:214
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:216
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:14
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:63
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:5

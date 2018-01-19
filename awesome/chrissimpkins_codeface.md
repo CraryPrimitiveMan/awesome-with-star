@@ -1,4 +1,4 @@
-# Info come from [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface)
+# Information comes from [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface)
 <img src="images/non-gallery/codeface-HR-new.png" alt="Codeface | Typefaces for source code beautification" width="790">
 
 

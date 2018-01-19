@@ -1,4 +1,4 @@
-# Info come from [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
+# Information comes from [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 # ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
@@ -275,7 +275,7 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:457
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:459
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact

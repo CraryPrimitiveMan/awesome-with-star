@@ -1,4 +1,4 @@
-# Info come from [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
+# Information comes from [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      align="right"/>
 
@@ -79,7 +79,7 @@
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:342
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:345
 
 
 ### Document Object Model

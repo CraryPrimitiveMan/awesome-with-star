@@ -1,4 +1,4 @@
-# Info come from [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops)
+# Information comes from [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops)
 # Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things about [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).

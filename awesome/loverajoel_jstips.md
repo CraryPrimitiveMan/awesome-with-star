@@ -1,4 +1,4 @@
-# Info come from [loverajoel/jstips](https://github.com/loverajoel/jstips)
+# Information comes from [loverajoel/jstips](https://github.com/loverajoel/jstips)
 ![header](https://github.com/loverajoel/jstips/blob/gh-pages/assets/images/jstips-animation.gif)
 
 # JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

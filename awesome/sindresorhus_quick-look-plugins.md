@@ -1,4 +1,4 @@
-# Info come from [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+# Information comes from [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 # Quick Look plugins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers

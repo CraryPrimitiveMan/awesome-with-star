@@ -1,4 +1,4 @@
-# Info come from [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce)
+# Information comes from [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/spring17.jpg" align="center" width="1200">
 

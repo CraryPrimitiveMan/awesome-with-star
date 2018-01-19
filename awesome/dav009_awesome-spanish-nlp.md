@@ -1,4 +1,4 @@
-# Info come from [dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
+# Information comes from [dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 # Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 

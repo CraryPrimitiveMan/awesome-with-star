@@ -1,4 +1,4 @@
-# Info come from [vredniy/awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
+# Information comes from [vredniy/awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
 # Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.

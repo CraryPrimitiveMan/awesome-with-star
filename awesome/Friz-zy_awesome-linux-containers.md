@@ -1,4 +1,4 @@
-# Info come from [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
+# Information comes from [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 # Awesome Linux Containers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

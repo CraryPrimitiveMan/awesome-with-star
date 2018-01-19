@@ -1,4 +1,4 @@
-# Info come from [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus)
+# Information comes from [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus)
 # Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
@@ -22,7 +22,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:14084
+* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:14104
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
@@ -87,11 +87,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Exporters
 
-* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:385
+* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:386
 * [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:143
 * [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:18
-* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:226
-* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1175
+* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:227
+* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1180
 
 ## Proxies
 

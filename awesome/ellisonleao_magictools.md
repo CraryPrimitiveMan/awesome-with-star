@@ -1,4 +1,4 @@
-# Info come from [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
+# Information comes from [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
 <h1 align="center">
     <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>
@@ -461,7 +461,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:501
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:502
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

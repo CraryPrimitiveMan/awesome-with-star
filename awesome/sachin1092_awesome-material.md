@@ -1,4 +1,4 @@
-# Info come from [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material)
+# Information comes from [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material)
 # Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of Google's [material design](http://www.google.com/design/spec) based libraries, resources and awesome things.

@@ -1,4 +1,4 @@
-# Info come from [quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb)
+# Information comes from [quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb)
 <p>
   <br>
   <img width="300" src="https://rawgit.com/quangv/awesome-couchdb/master/logo--couch.png" alt="awesome couchdb logo">

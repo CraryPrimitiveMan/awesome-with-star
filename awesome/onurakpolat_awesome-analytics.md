@@ -1,4 +1,4 @@
-# Info come from [onurakpolat/awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
+# Information comes from [onurakpolat/awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
 # Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
@@ -118,7 +118,7 @@ Often there is no clear differentiation between social media management and anal
 
 ## Analytics dashboards
 
-* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:4896
+* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:4898
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
 

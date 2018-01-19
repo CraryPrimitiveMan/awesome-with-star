@@ -1,4 +1,4 @@
-# Info come from [matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+# Information comes from [matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking)
 awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================
 
@@ -33,7 +33,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:75888
+* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:75993
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot** :star:121
 * [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:442
 
@@ -48,7 +48,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Websites
 * [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world.
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2028
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2029
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 

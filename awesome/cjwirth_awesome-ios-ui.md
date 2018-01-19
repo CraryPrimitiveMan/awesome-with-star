@@ -1,4 +1,4 @@
-# Info come from [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+# Information comes from [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 

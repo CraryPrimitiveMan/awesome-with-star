@@ -1,4 +1,4 @@
-# Info come from [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)
+# Information comes from [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)
 # Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)

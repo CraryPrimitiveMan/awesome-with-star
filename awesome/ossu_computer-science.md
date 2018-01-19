@@ -1,4 +1,4 @@
-# Info come from [ossu/computer-science](https://github.com/ossu/computer-science)
+# Information comes from [ossu/computer-science](https://github.com/ossu/computer-science)
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>

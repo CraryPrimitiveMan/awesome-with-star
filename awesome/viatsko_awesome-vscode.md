@@ -1,4 +1,4 @@
-# Info come from [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+# Information comes from [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">

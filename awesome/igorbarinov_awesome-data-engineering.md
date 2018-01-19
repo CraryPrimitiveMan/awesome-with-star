@@ -1,4 +1,4 @@
-# Info come from [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+# Information comes from [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 Awesome Data Engineering
 ==========================
 

@@ -1,4 +1,4 @@
-# Info come from [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun)
+# Information comes from [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun)
 # Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
@@ -30,7 +30,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Elixir
-- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:130
+- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:131
 
 
 ## Haskell
@@ -40,7 +40,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1162
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4433
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4434
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3750
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2690
@@ -51,13 +51,13 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:990
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:644
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2668
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2669
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1615
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1614
 
 
 ## Python
@@ -74,15 +74,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5169
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5690
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5171
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5692
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1731
-- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:106
+- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:105
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1766
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1768
 - [Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.
 - [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
 
@@ -102,10 +102,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2550
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1345
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3932
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:969
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:971
 
 
 ## Miscellaneous
-- [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile). :star:65
+- [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile). :star:64
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 

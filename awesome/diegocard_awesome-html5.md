@@ -1,4 +1,4 @@
-# Info come from [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5)
+# Information comes from [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5)
 Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
@@ -319,13 +319,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
-  - [Pixi.js](https://github.com/pixijs/pixi.js) :star:17262
-  - [phaser](https://github.com/photonstorm/phaser) :star:17182
-  - [MelonJS](https://github.com/melonjs/melonJS) :star:2105
-  - [kiwi.js](https://github.com/gamelab/kiwi.js) :star:942
-  - [Crafty](https://github.com/craftyjs/Crafty) :star:2515
-  - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) :star:3116
-  - [Stage.js](https://github.com/shakiba/stage.js) :star:1192
+  - [Pixi.js](https://github.com/pixijs/pixi.js) :star:17275
+  - [phaser](https://github.com/photonstorm/phaser) :star:17191
+  - [MelonJS](https://github.com/melonjs/melonJS) :star:2109
+  - [kiwi.js](https://github.com/gamelab/kiwi.js) :star:943
+  - [Crafty](https://github.com/craftyjs/Crafty) :star:2520
+  - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) :star:3117
+  - [Stage.js](https://github.com/shakiba/stage.js) :star:1193
   - [cocos2d](https://github.com/cocos2d/cocos2d-html5) :star:2328
 
 ## Videos and Keynotes
@@ -366,8 +366,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Other awesome lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20507
-* [lists](https://github.com/jnv/lists) :star:4709
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20516
+* [lists](https://github.com/jnv/lists) :star:4712
 
 ## Contributing
 

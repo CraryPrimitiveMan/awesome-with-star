@@ -1,4 +1,4 @@
-# Info come from [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap)
+# Information comes from [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap)
 # Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
@@ -26,7 +26,7 @@
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:24
 - [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:227
-- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:112
+- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:113
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:40
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:68
@@ -41,7 +41,7 @@
 - [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:50
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output. :star:18
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output. :star:28
-- [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity. :star:6
+- [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity. :star:7
 
 
 ## Producers
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:12490
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:12502
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1157
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4359
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4363
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4390
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4393
 
 [More...](https://testanything.org/producers.html)
 
@@ -89,7 +89,7 @@ Things that consume TAP output.
 ### JavaScript
 
 - [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console. :star:26
-- [tap-merge](https://github.com/anko/tap-merge) - Merge multiple TAP streams. :star:4
+- [tap-merge](https://github.com/anko/tap-merge) - Merge multiple TAP streams. :star:5
 - [smokestack](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`. :star:222
 - [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) alternative. :star:4
 

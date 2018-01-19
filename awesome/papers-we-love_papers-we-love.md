@@ -1,4 +1,4 @@
-# Info come from [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+# Information comes from [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
@@ -87,7 +87,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
 * [netlib](http://www.netlib.org/)
-* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2459
+* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2460
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)

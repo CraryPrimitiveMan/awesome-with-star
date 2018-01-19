@@ -1,4 +1,4 @@
-# Info come from [planetruby/calendar](https://github.com/planetruby/calendar)
+# Information comes from [planetruby/calendar](https://github.com/planetruby/calendar)
 # Calendar @ Planet Ruby
 
 _2018_

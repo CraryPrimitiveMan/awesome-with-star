@@ -1,4 +1,4 @@
-# Info come from [J2TeaM/awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
+# Information comes from [J2TeaM/awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 # Awesome AutoIt
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -302,7 +302,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 - [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 - [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-- [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API. :star:6
+- [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API. :star:7
 - [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 - [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 - [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.

@@ -1,4 +1,4 @@
-# Info come from [gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs)
+# Information comes from [gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs)
 
 # Electric Guitar Specifications
 

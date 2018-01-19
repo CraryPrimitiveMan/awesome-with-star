@@ -1,4 +1,4 @@
-# Info come from [NARKOZ/guides](https://github.com/NARKOZ/guides)
+# Information comes from [NARKOZ/guides](https://github.com/NARKOZ/guides)
 # Guides
 
 Guides for programmers who want to be awesome.  

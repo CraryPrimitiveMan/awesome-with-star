@@ -1,4 +1,4 @@
-# Info come from [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
+# Information comes from [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
 <div align='center'>
   <br /><br /><br />
   <img src='https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/logo-vim-galore.png' alt='vim-galore logo' />
@@ -2461,9 +2461,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7476
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5064
-- [spf13](https://github.com/spf13/spf13-vim) :star:11638
+- [janus](https://github.com/carlhuda/janus.git) :star:7479
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5082
+- [spf13](https://github.com/spf13/spf13-vim) :star:11643
 
 ## Standard plugins
 

@@ -1,4 +1,4 @@
-# Info come from [theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
+# Information comes from [theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -20,7 +20,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe. :star:19
-* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:7268
+* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:7270
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 

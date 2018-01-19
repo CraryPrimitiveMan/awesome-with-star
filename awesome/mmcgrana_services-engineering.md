@@ -1,4 +1,4 @@
-# Info come from [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering)
+# Information comes from [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering)
 ## Services Engineering Reading List
 
 A reading list for services engineering, with a focus on cloud

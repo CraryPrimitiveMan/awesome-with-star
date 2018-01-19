@@ -1,4 +1,4 @@
-# Info come from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+# Information comes from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 # List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [View the English list](/free-programming-books.md)

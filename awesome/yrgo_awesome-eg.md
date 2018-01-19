@@ -1,4 +1,4 @@
-# Info come from [yrgo/awesome-eg](https://github.com/yrgo/awesome-eg)
+# Information comes from [yrgo/awesome-eg](https://github.com/yrgo/awesome-eg)
 # Awesome Educational Games [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Educational Games" width="150">](https://en.m.wikipedia.org/wiki/Educational_game)
@@ -85,7 +85,7 @@
 - [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
-- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:4100
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:4101
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 

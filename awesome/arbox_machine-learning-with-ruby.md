@@ -1,4 +1,4 @@
-# Info come from [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby)
+# Information comes from [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby)
 <img src="header.png" align="center">
 
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
@@ -106,7 +106,7 @@ programming languages with appropriate bindings for Ruby.
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
-- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:1831
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:1835
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -

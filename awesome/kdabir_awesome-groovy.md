@@ -1,4 +1,4 @@
-# Info come from [kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy)
+# Information comes from [kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy)
 Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
@@ -40,10 +40,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:461
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:462
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:232
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1649
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1648
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:42
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 
@@ -61,13 +61,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:245
-* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:104
+* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:244
+* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:105
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:358
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1789
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1792
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:829
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:7
@@ -107,7 +107,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:266
+ * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:267
 
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing :star:28
@@ -117,7 +117,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2421
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2423
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

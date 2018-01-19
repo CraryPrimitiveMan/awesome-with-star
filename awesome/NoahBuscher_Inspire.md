@@ -1,4 +1,4 @@
-# Info come from [NoahBuscher/Inspire](https://github.com/NoahBuscher/Inspire)
+# Information comes from [NoahBuscher/Inspire](https://github.com/NoahBuscher/Inspire)
 Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
@@ -55,7 +55,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
     * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy. :star:261
-    * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme. :star:1815
+    * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme. :star:1816
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface

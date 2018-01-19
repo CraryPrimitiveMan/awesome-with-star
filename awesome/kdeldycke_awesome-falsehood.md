@@ -1,4 +1,4 @@
-# Info come from [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
+# Information comes from [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
 # Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
@@ -217,7 +217,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6355
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6361
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -238,7 +238,7 @@ falsehood about postal addresses: you do not need one.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:299
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:534
+- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:535
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:69
 module to parse, normalize and render postal addresses.

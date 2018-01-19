@@ -1,4 +1,4 @@
-# Info come from [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket)
+# Information comes from [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket)
 # Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
@@ -134,7 +134,7 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 ## IDE Plugins and Tools
 
 - [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
-- [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket. :star:20
+- [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket. :star:21
 
 # License
 

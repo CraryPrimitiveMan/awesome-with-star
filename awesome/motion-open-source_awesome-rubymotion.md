@@ -1,4 +1,4 @@
-# Info come from [motion-open-source/awesome-rubymotion](https://github.com/motion-open-source/awesome-rubymotion)
+# Information comes from [motion-open-source/awesome-rubymotion](https://github.com/motion-open-source/awesome-rubymotion)
 <h1 align="center">
 	<img width="1024" src="https://github.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
 	<br>

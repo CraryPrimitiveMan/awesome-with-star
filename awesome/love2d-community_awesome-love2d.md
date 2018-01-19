@@ -1,4 +1,4 @@
-# Info come from [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d)
+# Information comes from [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d)
 # ![Awesome Löve](logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
@@ -66,7 +66,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid :star:23
 * [gamera](https://github.com/kikito/gamera) - Camera system :star:114
 * [hump.camera](http://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
-* [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE :star:24
+* [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE :star:25
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -103,7 +103,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Game specific Library bundles, that provide reuseable functions*
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games :star:50
-* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras) :star:459
+* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras) :star:461
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:128
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows. :star:3
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine :star:5
@@ -126,8 +126,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
-* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:48
+* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:49
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model :star:163
+* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation :star:1
 
 ## Math
 *Math specific Libraries*
@@ -171,7 +172,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:388
+* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:389
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:76
 
@@ -188,7 +189,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2420
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2424
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -207,7 +208,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes :star:31
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:203
+* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:205
 
 ## Testing
 *Libraries and Tools for Unit Testing*
@@ -253,7 +254,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game :star:8
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output :star:100
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading :star:81
-* [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader :star:25
+* [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader :star:26
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader :star:26
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming :star:41
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library :star:11
@@ -308,7 +309,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1572
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1574
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:36
 * [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:730
 

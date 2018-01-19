@@ -1,4 +1,4 @@
-# Info come from [SrinivasanTarget/awesome-appium](https://github.com/SrinivasanTarget/awesome-appium)
+# Information comes from [SrinivasanTarget/awesome-appium](https://github.com/SrinivasanTarget/awesome-appium)
 # Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
@@ -28,13 +28,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib) :star:135
-- [Python](https://github.com/appium/python-client) :star:438
-- [Java](https://github.com/appium/java-client) :star:457
+- [Python](https://github.com/appium/python-client) :star:439
+- [Java](https://github.com/appium/java-client) :star:459
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:57
 - [PHP](https://github.com/appium/php-client) :star:32
 - [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:93
-- [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:153
+- [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:155
 
 ## Inspectors
 - [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:608
@@ -78,7 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison. :star:10
 
 ## Cloud Solutions & DevOps
-- [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:45
+- [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:46
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm. :star:51
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:90
 - [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:193

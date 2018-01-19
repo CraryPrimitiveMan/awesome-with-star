@@ -1,4 +1,4 @@
-# Info come from [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris)
+# Information comes from [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris)
 
 
 
@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2252
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2250
 
 ### Articles
 

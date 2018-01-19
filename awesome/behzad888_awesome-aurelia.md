@@ -1,4 +1,4 @@
-# Info come from [behzad888/awesome-aurelia](https://github.com/behzad888/awesome-aurelia)
+# Information comes from [behzad888/awesome-aurelia](https://github.com/behzad888/awesome-aurelia)
 <p align="center">
   <a href="https://github.com/behzad888/awesome" target="_blank">
     <img src="/media/aurelia-awesome.png" alt="Awesome Aurelia" />

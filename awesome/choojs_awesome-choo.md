@@ -1,4 +1,4 @@
-# Info come from [choojs/awesome-choo](https://github.com/choojs/awesome-choo)
+# Information comes from [choojs/awesome-choo](https://github.com/choojs/awesome-choo)
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
 > [choo](https://choo.io/) is a `4kb` framework for creating
@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:209
-- [Repo](https://github.com/yoshuawuyts/choo) :star:4976
+- [Repo](https://github.com/yoshuawuyts/choo) :star:4985
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,7 +30,7 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:403
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:827
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:828
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:342
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
@@ -114,7 +114,7 @@ Other CLI templates
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:28
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:5
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages. :star:30
-- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:358
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:359
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:2
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:411

@@ -1,4 +1,4 @@
-# Info come from [bfred-it/Awesome-WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions)
+# Information comes from [bfred-it/Awesome-WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions)
 # Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
@@ -40,10 +40,10 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
-- [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options. :star:17
+- [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options. :star:19
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox. :star:1
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension :star:76
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:247
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:248
 
 ## Tools
 
@@ -67,7 +67,7 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator. :star:6
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:5
-- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:874
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:878
 
 ## Sample Extensions
 
@@ -75,8 +75,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:302
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:181
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3161
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1007
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3178
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1009
 
 ## License
 

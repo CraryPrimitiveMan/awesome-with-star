@@ -1,4 +1,4 @@
-# Info come from [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks)
+# Information comes from [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks)
 # Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
@@ -111,7 +111,7 @@ Plugins:
 ### Client Side Profile
 
 - [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
-- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1672
+- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1670
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 - [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
@@ -184,7 +184,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12059
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12066
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)

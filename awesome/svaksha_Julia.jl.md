@@ -1,4 +1,4 @@
-# Info come from [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl)
+# Information comes from [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl)
 # Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for the [Julia language](https://github.com/JuliaLang).

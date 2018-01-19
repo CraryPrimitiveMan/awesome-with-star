@@ -1,4 +1,4 @@
-# Info come from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)
+# Information comes from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" width="200" alt="TV icon">
 </p>

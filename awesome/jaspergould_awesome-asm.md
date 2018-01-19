@@ -1,4 +1,4 @@
-# Info come from [jaspergould/awesome-asm](https://github.com/jaspergould/awesome-asm)
+# Information comes from [jaspergould/awesome-asm](https://github.com/jaspergould/awesome-asm)
 Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
 

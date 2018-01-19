@@ -1,4 +1,4 @@
-# Info come from [nmec/awesome-ember](https://github.com/nmec/awesome-ember)
+# Information comes from [nmec/awesome-ember](https://github.com/nmec/awesome-ember)
 # Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Ember.js things.
@@ -26,7 +26,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 ## Tools
 
 - [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
-- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained. :star:846
+- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained. :star:847
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember. :star:12
 - [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets. :star:90
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API. :star:39

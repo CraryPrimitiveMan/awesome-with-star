@@ -1,4 +1,4 @@
-# Info come from [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
+# Information comes from [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
 # Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)

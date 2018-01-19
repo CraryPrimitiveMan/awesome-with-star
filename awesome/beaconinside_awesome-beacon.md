@@ -1,4 +1,4 @@
-# Info come from [beaconinside/awesome-beacon](https://github.com/beaconinside/awesome-beacon)
+# Information comes from [beaconinside/awesome-beacon](https://github.com/beaconinside/awesome-beacon)
 # Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
@@ -9,7 +9,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2584
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2583
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -165,7 +165,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:642
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
-* [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) :star:144
+* [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) :star:143
 
 
 
@@ -185,7 +185,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1944
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1947
 * [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1250
 
 
@@ -207,7 +207,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:245
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:246
 
 # Beacon Developer Kits & BLE Chips
 

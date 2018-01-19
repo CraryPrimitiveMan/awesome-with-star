@@ -1,4 +1,4 @@
-# Info come from [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+# Information comes from [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
 # Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A list of resources for backbone.js
@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:26933
+- [Github repository](https://github.com/jashkenas/backbone) :star:26936
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -122,8 +122,8 @@
 
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2401
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2234
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2049
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1972
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2050
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1971
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1701
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1467
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1382

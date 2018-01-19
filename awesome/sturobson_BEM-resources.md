@@ -1,4 +1,4 @@
-# Info come from [sturobson/BEM-resources](https://github.com/sturobson/BEM-resources)
+# Information comes from [sturobson/BEM-resources](https://github.com/sturobson/BEM-resources)
 # BEM Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Everyone loves a bit of BEM in their development. Here's just the starts of hopefully a large list of resources.
@@ -73,7 +73,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ## Repos, CodePens and Things
 
 ### Repos
-- [BEM Constructor](https://github.com/danielguillan/bem-constructor) :star:438
+- [BEM Constructor](https://github.com/danielguillan/bem-constructor) :star:439
 - [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu) :star:103
 - [BEM Grid](https://github.com/bem-incubator/bem-grid) :star:133
 - [Flexible Grid System with BEM](https://github.com/flexiblegs/flexiblegs-bem) :star:13
@@ -91,5 +91,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 
 ### Other Awesome Lists
-- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:75877
+- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:75987
 

@@ -1,4 +1,4 @@
-# Info come from [vinkla/awesome-fuse](https://github.com/vinkla/awesome-fuse)
+# Information comes from [vinkla/awesome-fuse](https://github.com/vinkla/awesome-fuse)
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
@@ -118,7 +118,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse. :star:21
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code. :star:42
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
-- [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel. :star:1
+- [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel. :star:2
 
 ## License
 

@@ -1,4 +1,4 @@
-# Info come from [johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada)
+# Information comes from [johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada)
 # Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)

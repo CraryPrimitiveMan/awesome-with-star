@@ -1,4 +1,4 @@
-# Info come from [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
+# Information comes from [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 # Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > :ticket: A list of awesome conferences
@@ -347,7 +347,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### Help with Speaking
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:599
-* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:3945
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:3948
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -368,7 +368,7 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1108
+* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1111
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.

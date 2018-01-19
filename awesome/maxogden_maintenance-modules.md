@@ -1,4 +1,4 @@
-# Info come from [maxogden/maintenance-modules](https://github.com/maxogden/maintenance-modules)
+# Information comes from [maxogden/maintenance-modules](https://github.com/maxogden/maintenance-modules)
 # maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)

@@ -1,4 +1,4 @@
-# Info come from [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3)
+# Information comes from [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3)
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
 # Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -211,7 +211,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Camera
 
-* [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection. :star:33
+* [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection. :star:34
 * [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications. :star:11
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams. :star:22
 * [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX. :star:14
@@ -225,7 +225,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:10
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:173
-* [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:55
+* [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:56
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3. :star:78
 * [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation. :star:12
 
@@ -261,7 +261,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sound
 
-* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:143
+* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:145
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:58
@@ -400,7 +400,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SWF
 
-* [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:527
+* [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:528
 * [AS3abc](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files. :star:2
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools. :star:231
 * [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run. :star:14
@@ -589,7 +589,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices. :star:59
 
 #### Multimedia ANE
-* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:91
+* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:92
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:51
 * [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:49
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
@@ -623,7 +623,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
 
 #### System ANE
-* [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:5
+* [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:6
 * [DesktopToast](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX. :star:23
 * [AlarmManager](https://github.com/myflashlab/alarmManager-ANE) - Run a scheduled task even if your AIR app is closed. :star:5
 * [InAppPayments](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS. :star:11
@@ -640,7 +640,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android. :star:9
 
 #### Analytics ANE
-* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:3
+* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:4
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS. :star:3
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising. :star:27
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:10

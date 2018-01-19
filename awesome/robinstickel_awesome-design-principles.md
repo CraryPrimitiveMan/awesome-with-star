@@ -1,4 +1,4 @@
-# Info come from [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
+# Information comes from [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
 # Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of good design and experience principles.

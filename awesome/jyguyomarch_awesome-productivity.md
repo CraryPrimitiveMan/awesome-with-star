@@ -1,4 +1,4 @@
-# Info come from [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+# Information comes from [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 # Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of delightful productivity resources.
 
@@ -75,7 +75,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1575
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1578
 
 ### Task Automation
 

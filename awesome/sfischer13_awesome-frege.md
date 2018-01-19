@@ -1,4 +1,4 @@
-# Info come from [sfischer13/awesome-frege](https://github.com/sfischer13/awesome-frege)
+# Information comes from [sfischer13/awesome-frege](https://github.com/sfischer13/awesome-frege)
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege">](https://github.com/Frege/frege)

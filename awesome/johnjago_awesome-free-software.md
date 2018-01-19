@@ -1,4 +1,4 @@
-# Info come from [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+# Information comes from [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
@@ -271,8 +271,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other Lists
 
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:20206
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6136
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:20217
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6137
 
 ### Talks
 

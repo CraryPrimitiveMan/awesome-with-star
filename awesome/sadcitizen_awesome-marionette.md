@@ -1,4 +1,4 @@
-# Info come from [sadcitizen/awesome-marionette](https://github.com/sadcitizen/awesome-marionette)
+# Information comes from [sadcitizen/awesome-marionette](https://github.com/sadcitizen/awesome-marionette)
 # Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A list of resources for marionette.js
@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7179
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7181
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions

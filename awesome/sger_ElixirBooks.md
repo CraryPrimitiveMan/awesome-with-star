@@ -1,4 +1,4 @@
-# Info come from [sger/ElixirBooks](https://github.com/sger/ElixirBooks)
+# Information comes from [sger/ElixirBooks](https://github.com/sger/ElixirBooks)
 # Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Contents
 ====
@@ -178,7 +178,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7556
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7559
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

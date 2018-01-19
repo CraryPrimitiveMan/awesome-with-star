@@ -1,4 +1,4 @@
-# Info come from [ianstormtaylor/awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku)
+# Information comes from [ianstormtaylor/awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku)
 
 ![](images/banner.png)
 

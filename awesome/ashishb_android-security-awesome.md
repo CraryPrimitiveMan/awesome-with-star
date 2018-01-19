@@ -1,4 +1,4 @@
-# Info come from [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
+# Information comes from [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 android-security-awesome [![Backers on Open Collective](https://opencollective.com/android-security-awesome/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/android-security-awesome/sponsors/badge.svg)](#sponsors) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ========================
 

@@ -1,4 +1,4 @@
-# Info come from [sindresorhus/awesome-observables](https://github.com/sindresorhus/awesome-observables)
+# Information comes from [sindresorhus/awesome-observables](https://github.com/sindresorhus/awesome-observables)
 # Awesome Observables [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
@@ -19,14 +19,14 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable) :star:1621
+- [Overview](https://github.com/zenparsing/es-observable) :star:1623
 - [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
 
 - [zen-observable](https://github.com/zenparsing/zen-observable) :star:322
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:10289
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:10313
 
 
 ## Packages
@@ -37,7 +37,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable. :star:53
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:70
 - [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function. :star:34
-- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:28
+- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:29
 
 
 ## Libraries

@@ -1,4 +1,4 @@
-# Info come from [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm)
+# Information comes from [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm)
 # awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
@@ -75,11 +75,11 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2784
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2786
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:712
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:98
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:62
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3537
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3543
 
 ### Registry
 
@@ -93,26 +93,26 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages. :star:25
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry. :star:44
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:14
-- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:911
+- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:912
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:289
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2008
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2021
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:130
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package. :star:91
-- [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:788
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3858
+- [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:791
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3860
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively. :star:101
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool. :star:783
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1341
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1342
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:509
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file. :star:40
 - [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:59
-- [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata. :star:82
+- [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata. :star:83
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json. :star:66
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones. :star:43
-- [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/). :star:743
+- [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/). :star:744
 - [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json. :star:39
 - [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease. :star:20
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search. :star:3
@@ -123,13 +123,13 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline. :star:759
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:57
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package. :star:118
-- [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa. :star:102
+- [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa. :star:103
 
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29737
-- [npm](https://github.com/npm/npm) - The official client. :star:15129
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29755
+- [npm](https://github.com/npm/npm) - The official client. :star:15139
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3070
 
 

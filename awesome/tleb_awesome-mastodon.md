@@ -1,4 +1,4 @@
-# Info come from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon)
+# Information comes from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon)
 # Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:11897
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:11909
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -42,7 +42,7 @@
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:87
 * [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:82
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:84
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:61
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:89
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:5
@@ -154,5 +154,5 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Librairies
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:189
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:191
 

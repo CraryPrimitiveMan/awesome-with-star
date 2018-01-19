@@ -1,4 +1,4 @@
-# Info come from [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)
+# Information comes from [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)
 # Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)

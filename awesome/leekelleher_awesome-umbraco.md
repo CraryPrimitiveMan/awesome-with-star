@@ -1,4 +1,4 @@
-# Info come from [leekelleher/awesome-umbraco](https://github.com/leekelleher/awesome-umbraco)
+# Information comes from [leekelleher/awesome-umbraco](https://github.com/leekelleher/awesome-umbraco)
 # Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.

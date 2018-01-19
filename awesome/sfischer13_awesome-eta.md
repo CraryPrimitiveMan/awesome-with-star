@@ -1,4 +1,4 @@
-# Info come from [sfischer13/awesome-eta](https://github.com/sfischer13/awesome-eta)
+# Information comes from [sfischer13/awesome-eta](https://github.com/sfischer13/awesome-eta)
 # Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta">](https://github.com/typelead/eta)
@@ -41,7 +41,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1668
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1669
 
 ### First Steps
 

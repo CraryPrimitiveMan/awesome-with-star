@@ -1,4 +1,4 @@
-# Info come from [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv)
+# Information comes from [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv)
 # Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -57,12 +57,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools to benchmark your code or services*
 
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)
-* [boom](https://github.com/rakyll/boom) :star:4783
+* [boom](https://github.com/rakyll/boom) :star:4784
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
-* [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool :star:2050
+* [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool :star:2051
 * [siege](http://www.joedog.org/siege-home/)
-* [Vegeta](https://github.com/tsenart/vegeta) :star:6936
-* [wrk](https://github.com/wg/wrk) :star:14543
+* [Vegeta](https://github.com/tsenart/vegeta) :star:6939
+* [wrk](https://github.com/wg/wrk) :star:14554
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
 
@@ -75,9 +75,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Diagnostics
 *Tools for checking diagnosing your system while you work*
 
-* [glances](https://github.com/nicolargo/glances) :star:9106
+* [glances](https://github.com/nicolargo/glances) :star:9117
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
-* [gtop](https://github.com/aksakalli/gtop) :star:6521
+* [gtop](https://github.com/aksakalli/gtop) :star:6525
 
 
 ## Desktop
@@ -93,9 +93,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Dotfiles
 
 * [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
-* [Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more :star:4814
-* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X :star:18200
-* [Thoughtbot's](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files :star:4669
+* [Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more :star:4815
+* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X :star:18207
+* [Thoughtbot's](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files :star:4670
 * [Paul Miller's](https://github.com/paulmillr/dotfiles) - Colourful & robust OS X configuration files and utilities :star:728
 
 
@@ -105,34 +105,34 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ### Atom
 
 * [atom-beautify](https://github.com/Glavin001/atom-beautify) - Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom. :star:1167
-* [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping. :star:798
+* [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping. :star:800
 * [highlight-selected](https://github.com/richrace/highlight-selected) - Double click on a word to highlight it throughout the open file. :star:192
-* [minimap](https://github.com/atom-minimap/minimap) - A graphical map (preview) of the full source code. :star:569
+* [minimap](https://github.com/atom-minimap/minimap) - A graphical map (preview) of the full source code. :star:570
 * [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) - A minimap binding for the Atom git-diff package. :star:17
 * [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package. :star:37
 * [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - Get easy access to all your projects and manage them with project specific settings and options. :star:479
 * [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) - Show the Git repository status in the Atom tree-view. :star:18
-* [atom-pigments](https://github.com/abe33/atom-pigments) - An Atom package to display colors in project and files. :star:478
+* [atom-pigments](https://github.com/abe33/atom-pigments) - An Atom package to display colors in project and files. :star:477
 
 ### Vim
 
-* [Completor](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion. :star:641
-* [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers. :star:8503
-* [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets. :star:1627
+* [Completor](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion. :star:642
+* [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers. :star:8509
+* [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets. :star:1628
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
 
 ### Sublime Text 3
 
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin. :star:731
-* [Emmet](https://github.com/sergeche/emmet-sublime) :star:5089
-* [Git Gutter](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window. :star:3651
+* [Emmet](https://github.com/sergeche/emmet-sublime) :star:5091
+* [Git Gutter](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window. :star:3652
 * [jsFormat](https://github.com/jdc0589/JsFormat) - Javascript formatting. :star:1310
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes. :star:2249
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes. :star:2250
 * [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests. :star:747
 * [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders. :star:115
-* [Sublime Git](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime. :star:2744
+* [Sublime Git](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime. :star:2745
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter3/) - Interactive code linting. :star:1430
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash. :star:819
 
@@ -144,10 +144,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Git
 *Tools and addons for making an awesome Git experience*
 
-* [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources. :star:187
+* [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources. :star:188
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts :star:231
-* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more :star:10982
+* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more :star:10992
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch :star:48
 * [git-secret](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository. :star:724
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier. :star:130
@@ -177,9 +177,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework :star:4312
-* [hacker-slides](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool :star:47
-* [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions :star:32952
-* [remark](https://github.com/gnab/remark) - markdown based presentation on your browser :star:7196
+* [hacker-slides](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool :star:48
+* [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions :star:32958
+* [remark](https://github.com/gnab/remark) - markdown based presentation on your browser :star:7203
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
 * [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser :star:5242
 * [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim :star:1114
@@ -188,28 +188,28 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Shell
 *Tools for having an awesome shell environment*
 
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks :star:3665
-* [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell :star:8937
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh. :star:2990
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks :star:3671
+* [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell :star:8942
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh. :star:2994
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 * [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins :star:845
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
-* [shellcheck](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts :star:9830
+* [shellcheck](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts :star:9837
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen :star:133
 
 ## Text
 *Tools for working with text files - search, replace, processing*
 
-* [ack](https://github.com/petdance/ack2) - the Perl based :star:1300
+* [ack](https://github.com/petdance/ack2) - the Perl based :star:1303
   better-than-grep tool.
-* [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster :star:14224
-* [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep :star:4323
+* [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster :star:14237
+* [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep :star:4326
 
 
 ## Terminal
 *Tools and addons for terminal and terminal work*
 
-* [autojump](https://github.com/joelthelion/autojump) - remembers your :star:6336
+* [autojump](https://github.com/joelthelion/autojump) - remembers your :star:6340
   folders and jump to them based on partial recall (e.g. `j proj` will jump
 to `/home/Users/yourself/projects`.
 * [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
@@ -217,7 +217,7 @@ to `/home/Users/yourself/projects`.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the :star:64620
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the :star:64674
   incredible ZSH addon.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 * [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
@@ -226,13 +226,13 @@ to `/home/Users/yourself/projects`.
 ## Workflow
 *Tools and addons which improve your daily workflow with code*
 
-* [fswatch](https://github.com/alandipert/fswatch) - a watch tool which :star:1975
+* [fswatch](https://github.com/alandipert/fswatch) - a watch tool which :star:1979
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
 * [guard](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins :star:5497
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions :star:1945
-* [watchman](https://github.com/facebook/watchman) - Facebook's better :star:6212
+* [watchman](https://github.com/facebook/watchman) - Facebook's better :star:6216
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks. :star:330
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy. :star:130

@@ -1,4 +1,4 @@
-# Info come from [git-tips/tips](https://github.com/git-tips/tips)
+# Information comes from [git-tips/tips](https://github.com/git-tips/tips)
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 

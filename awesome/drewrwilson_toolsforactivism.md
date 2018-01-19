@@ -1,4 +1,4 @@
-# Info come from [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism)
+# Information comes from [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism)
 # Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
@@ -47,7 +47,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  
  ## Browsers:
 
- * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:725
+ * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:726
 
 ## Projects to keep an eye on (ie projects in development)
 

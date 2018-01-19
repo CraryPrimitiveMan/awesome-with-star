@@ -1,4 +1,4 @@
-# Info come from [filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack)
+# Information comes from [filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack)
 ![Awesome Slack](images/logo.jpg)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -66,7 +66,7 @@ A list of communities about web development and design that are powered by [Slac
 - [DevOps](https://devopschat.co/)
 
 ## Looking for more lists like that?
-- [Awesome](https://github.com/sindresorhus/awesome) :star:75890
+- [Awesome](https://github.com/sindresorhus/awesome) :star:75995
 - [Awesome Community](https://github.com/peterkokot/awesome-community) :star:121
 
 ## Contribute

@@ -1,4 +1,4 @@
-# Info come from [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace)
+# Information comes from [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace)
 # Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5322
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5331
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:325
 
 ## Tools

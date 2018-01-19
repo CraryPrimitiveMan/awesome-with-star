@@ -1,4 +1,4 @@
-# Info come from [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
+# Information comes from [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 # Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
@@ -76,16 +76,16 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:575
+* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:576
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:330
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:250
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts. :star:9
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it. :star:21
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources. :star:23
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:984
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:985
 * [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv. :star:222
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:158
-* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:42
+* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:44
 
 
 ## Talks
@@ -105,8 +105,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Editor Plugins
 
-* [Vim-Terraform](https://github.com/hashivim/vim-terraform) :star:197
-* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:63
+* [Vim-Terraform](https://github.com/hashivim/vim-terraform) :star:199
+* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:67
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode) :star:59
 

@@ -1,4 +1,4 @@
-# Info come from [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring)
+# Information comes from [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring)
 # Awesome Book Authoring
 A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for technical book authors.
 

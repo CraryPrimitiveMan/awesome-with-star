@@ -1,4 +1,4 @@
-# Info come from [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
+# Information comes from [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
 # Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
 
 A curated list of resources that provide media licensed under [Creative Commons licenses](https://creativecommons.org/licenses/).
@@ -83,7 +83,7 @@ Contributions are very welcome!
 
 ## Other awesome lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20508
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20518
 
 ## License
 

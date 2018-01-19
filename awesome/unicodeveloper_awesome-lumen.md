@@ -1,4 +1,4 @@
-# Info come from [unicodeveloper/awesome-lumen](https://github.com/unicodeveloper/awesome-lumen)
+# Information comes from [unicodeveloper/awesome-lumen](https://github.com/unicodeveloper/awesome-lumen)
 # Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5275
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5278
 
 
 ## Tutorials
@@ -58,7 +58,7 @@
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:134
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:598
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:186
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:6976
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:6988
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:81
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:113
@@ -66,7 +66,7 @@
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework. :star:35
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2. :star:32
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers. :star:64
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:272
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:273
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:221
 
 

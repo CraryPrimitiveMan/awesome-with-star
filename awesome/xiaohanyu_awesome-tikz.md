@@ -1,4 +1,4 @@
-# Info come from [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
+# Information comes from [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
 Awesome TikZ
 ============
 

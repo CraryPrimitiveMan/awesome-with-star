@@ -1,4 +1,4 @@
-# Info come from [sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger)
+# Information comes from [sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger)
 # Awesome Ledger [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
@@ -68,7 +68,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2252
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2253
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

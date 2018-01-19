@@ -1,4 +1,4 @@
-# Info come from [lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
+# Information comes from [lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
 ## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 * A curated list of tech videos from youtube, vimeo, etc, just because

@@ -1,4 +1,4 @@
-# Info come from [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
+# Information comes from [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 </p>

@@ -1,4 +1,4 @@
-# Info come from [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+# Information comes from [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 # Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
@@ -168,7 +168,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
-  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
@@ -320,6 +319,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
+  1. [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
   1. [MarsBased](https://marsbased.com) - Design & development consultancy from Barcelona, providing hieh-end Ruby on Rails & Javascript mobile and web applications.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.

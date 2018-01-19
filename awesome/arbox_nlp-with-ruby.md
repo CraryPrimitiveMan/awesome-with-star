@@ -1,4 +1,4 @@
-# Info come from [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby)
+# Information comes from [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby)
 <img src="header.png" align="center">
 
 [[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
@@ -198,7 +198,7 @@ are often collected in dictionaries.
 
 #### Filtering Stop Words
 
-- [stopwords-filter](https://github.com/brenes/stopwords-filter) - Filter and :star:50
+- [stopwords-filter](https://github.com/brenes/stopwords-filter) - Filter and :star:51
   Stop Word Lexicon based on the SnowBall lemmatizer.
 
 ### Phrasal Level Processing

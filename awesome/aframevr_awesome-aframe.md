@@ -1,4 +1,4 @@
-# Info come from [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe)
+# Information comes from [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe)
 # awesome-aframe
 
 ## Discontinued

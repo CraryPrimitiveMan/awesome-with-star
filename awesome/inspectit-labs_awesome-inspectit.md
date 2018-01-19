@@ -1,4 +1,4 @@
-# Info come from [inspectit-labs/awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit)
+# Information comes from [inspectit-labs/awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit)
 # Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome inspectIT documentations and resources.

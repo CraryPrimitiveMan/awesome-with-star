@@ -1,4 +1,4 @@
-# Info come from [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+# Information comes from [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 # Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of boilerplates and templates to enhance productivity.
@@ -59,7 +59,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
-    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:856
+    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:858
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5926
