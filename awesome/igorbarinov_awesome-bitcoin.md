@@ -36,7 +36,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:87
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:86
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -61,8 +61,8 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:21
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:294
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2274
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:301
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2281
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:101
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:31
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -75,7 +75,7 @@ List of content
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:738
 
 # Python Libraries
-* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:12
+* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:13
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
 * [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
@@ -114,7 +114,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:6941
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:6992
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

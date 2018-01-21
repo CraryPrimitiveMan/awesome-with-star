@@ -148,7 +148,7 @@ Development state:
 * [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
 * [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
 * [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
-* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:5
+* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:6
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
@@ -161,7 +161,7 @@ Development state:
 
 ### Text manipulation
 * [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
-* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576). :star:43
+* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576). :star:44
 
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
@@ -223,7 +223,7 @@ Development state:
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
 * [Print Array](https://autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
-* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey. :star:14
+* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey. :star:15
 
 ### Decompilers
 * [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).

@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1101
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1100
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:33
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:1
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:7
@@ -140,7 +140,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## User Interface
 #### UI Components
 
-* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:638
+* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:637
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more. :star:9
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR. :star:41
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework. :star:7
@@ -174,7 +174,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices. :star:16
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
-* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:363
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier. :star:14
 
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:145
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
-* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:58
+* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:59
 * [SeiON](https://github.com/cardin/SeiON) - Sound Management Library. :star:10
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)- Upgraded version of the Sound Manager Class from Matt Przybylski.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10. :star:54
@@ -464,7 +464,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [P2Plocal](https://github.com/palkan/as3_p2plocal) - Local RTMFP connections. :star:24
 * [Android-Flash-P2P](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR. :star:15
 * [GogduNet](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P.
-* [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus. :star:25
+* [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus. :star:26
 * [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1. :star:99
 * [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup. :star:2
 * [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:68
@@ -564,7 +564,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:413
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:414
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:58
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4

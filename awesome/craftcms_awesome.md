@@ -106,8 +106,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:358
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:82
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:359
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:83
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:161
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -123,13 +123,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:22
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:31
-- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:117
+- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:118
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:155
 - [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:283
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:88
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:242
-- [Simple Map](https://github.com/ethercreative/simplemap) - Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance. :star:85
+- [Simple Map](https://github.com/ethercreative/simplemap) - Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance. :star:87
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
@@ -328,7 +328,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:132
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:80
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:187
-- [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:107
+- [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:108
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:59
 - [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:163
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.

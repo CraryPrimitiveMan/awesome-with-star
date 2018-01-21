@@ -173,7 +173,7 @@ ComplexNetworks
         
 * |OK_ICON| `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
         
-* |FIXME_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
+* |OK_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
         
 * |OK_ICON| `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
         
@@ -305,7 +305,7 @@ Economics
         
 * |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
         
-* |FIXME_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
+* |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
 * |OK_ICON| `Our World in Data <http://ourworldindata.org/>`_
         
@@ -421,7 +421,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -486,7 +486,7 @@ Government
         
 * |OK_ICON| `EveryPolitician - Ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`_
         
-* |OK_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
+* |FIXME_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
         
 * |OK_ICON| `Finland <https://www.opendata.fi/en>`_
         
@@ -618,7 +618,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
@@ -829,7 +829,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
@@ -941,7 +941,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1056,7 +1056,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
@@ -1103,6 +1103,8 @@ SocialSciences
 * |OK_ICON| `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_
         
 * |OK_ICON| `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
+        
+* |OK_ICON| `OpenSanctions - A global database of persons and companies of political, criminal, or economic interest. <http://www.opensanctions.org/#downloads>`_
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
         

@@ -380,7 +380,7 @@ App project templates
 * [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:38
 * [Guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest). :star:47
 * [Motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform. :star:3
-* [Motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications. :star:51
+* [Motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications. :star:52
 * [Test Sweet](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way. :star:4
 
 

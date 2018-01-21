@@ -40,9 +40,9 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Boilerplates
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application. :star:27
-* [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools. :star:29
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX. :star:56
-* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:38
+* [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools. :star:30
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX. :star:57
+* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:39
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker. :star:8
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:22
 
@@ -50,10 +50,10 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:36
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:20
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:103
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:104
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:21
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:8
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:38
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:39
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:5
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:3
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.

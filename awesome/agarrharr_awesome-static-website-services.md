@@ -185,7 +185,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:47
+- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:49
 
 ----
 

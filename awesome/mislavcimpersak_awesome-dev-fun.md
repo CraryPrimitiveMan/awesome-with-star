@@ -41,16 +41,16 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1162
 - [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4434
-- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3750
+- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3751
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2690
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2691
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
-- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:173
+- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:172
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:43
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers. :star:7
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:990
-- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:644
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:992
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:645
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2669
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
@@ -74,9 +74,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5171
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5692
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1731
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5172
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5693
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1730
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:105
 
 
@@ -89,7 +89,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Browser extensions
 
-- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1225
+- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1227
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts. :star:3
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
@@ -99,10 +99,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:68
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:5
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2550
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1345
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3932
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:971
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2554
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1346
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3933
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:974
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:1659
 
 
 ## Miscellaneous

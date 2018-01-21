@@ -76,6 +76,7 @@
 - [Running external programs and using filters](#running-external-programs-and-using-filters)
 - [Cscope](#cscope)
 - [MatchIt](#matchit)
+- [True colors](#true-colors)
 
 ### [Tips](#tips-1)
 
@@ -1939,6 +1940,49 @@ Help:
 :h b:match_words
 ```
 
+## True colors
+
+Using true colors in a terminal emulator means being able to use 24 bits for RGB
+colors. That makes 16777216 (2^24) colors instead of the usual 256.
+
+As explained [here](#colorschemes), colorschemes can actually be _two_
+colorschemes by having definitions for terminals (xterm) and for GUIs (gvim).
+This made sense before terminal emulators learned about true colors.
+
+After `:set termguicolors`, Vim starts emitting escape sequences only understood
+by a terminal emulator that supports true colors. When your colors look weird,
+chances are your terminal emulator doesn't support true colors or your
+colorcheme has no GUI colors defined.
+
+Many people use the terminal multiplexer
+[tmux](https://github.com/tmux/tmux/wiki) which basically sits in between the
+terminal emulator and Vim. To make tmux _forward_ the true color escape
+sequences emitted by Vim, you have to put the following in the user's
+`.tmux.conf`:
+
+```
+set-option -g  default-terminal 'tmux-256color'
+set-option -ga terminal-overrides ',xterm-256color:Tc'
+```
+
+- The first line should be the same for most people and denotes the `$TERM` to
+  be used _within_ tmux.
+- The second line adds the tmux-specific `Tc` (true color) capability to the
+  other terminfo entries of `xterm-256color`. Obviously this assumes that the
+  user is using `TERM=xterm-256color` _outside_ of tmux.
+
+So, here is the checklist for enabling true colors:
+
+- Read `:h 'termguicolors'`.
+- Put `set termguicolors` in your vimrc.
+- Make sure your colorscheme has color definitions for GUIs. (It should contain
+  lines with `guifg` and `guibg`.)
+- Make sure your terminal emulator of choice supports true colors.
+- Using tmux? Configure it to add the `Tc` capability.
+
+A popular reference for colors in the terminal:
+https://gist.github.com/XVilka/8346728
+
 # Tips
 
 ## Saner behavior of n and N
@@ -2462,8 +2506,8 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git) :star:7479
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5082
-- [spf13](https://github.com/spf13/spf13-vim) :star:11643
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5109
+- [spf13](https://github.com/spf13/spf13-vim) :star:11647
 
 ## Standard plugins
 

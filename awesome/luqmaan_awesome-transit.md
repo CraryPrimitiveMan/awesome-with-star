@@ -29,7 +29,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [GTFS Realtime](#gtfs-realtime)
   - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
-  - [GTFS Realtime Archival Tools](#gtfs-realtime-archival-tools)
+  - [GTFS Realtime (and Other Real-time API) Archival Tools](#gtfs-realtime-and-other-real-time-api-archival-tools)
   - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
   - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
 - [SIRI](#siri)
@@ -65,7 +65,6 @@ Places to ask questions and find other community resources.
 - [TransitFeeds](http://transitfeeds.com/) - List of GTFS and GTFS-RT feeds. [Archives and validates](http://transitfeeds.com/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](http://transitfeeds.com/p/capital-metro/24/20151015) and [GTFS-RT](http://transitfeeds.com/p/capital-metro/495) through the browser. 
 - [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
 - [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Used to be the definitive list of GTFS links. Shutdown in 2016. But 93G of data from 2008 to 2016 is available upon request.
-- [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -  Transit ITS Data Exchange Specification (TIDES) is an effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 
 ### APIs
 
@@ -74,7 +73,7 @@ Software that provides an API to transit data.
 - [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [TransiTime](http://www.transitime.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.
-- [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)   :star:291
+- [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)   :star:292
 - [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
 - [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
 
@@ -109,7 +108,7 @@ Apps people use when taking transit.
 - [Transitive.js](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3. :star:558
 - [Brand New Subway](http://jpwright.net/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
 - [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
-- [Google I/O Transport Tracker](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/). :star:184
+- [Google I/O Transport Tracker](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/). :star:186
 - [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA. 
  
 #### Native Apps (open source)
@@ -165,8 +164,8 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [GTFS to SQL](https://github.com/TransitFeeds/GtfsToSql) - Parses a GTFS feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
 - [SQL to GTFS](https://github.com/TransitFeeds/SqlToGtfs) - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file. :star:4
 - [Go GTFS Parser](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go :star:23
-- [GTFS Feed Parser](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser :star:30
-- [Node-GTFS](https://github.com/brendannee/node-gtfs) - Loads transit data from [GTFS Data Exchange](http://www.gtfs-data-exchange.com/), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times. :star:228
+- [GTFS Feed Parser](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser :star:31
+- [Node-GTFS](https://github.com/brendannee/node-gtfs) - Loads transit data from [GTFS Data Exchange](http://www.gtfs-data-exchange.com/), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times. :star:229
 - [GTFS-viz](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map](https://github.com/vasile/transit-map) web application)
 - [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/). :star:11
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks. :star:25
@@ -223,10 +222,11 @@ Converters from various static schedule formats to and from GTFS.
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) tool. :star:23
 - [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - A hosted version of the [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
-#### GTFS Realtime Archival Tools
+#### GTFS Realtime (and Other Real-time API) Archival Tools
 
 - [GTFS-realtime to SQL](https://github.com/TransitFeeds/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
 - [gtfsrdb](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database :star:8
+- [retro-gtfs](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS). :star:13
 
 #### GTFS Realtime Convertors
 
@@ -263,13 +263,14 @@ Converters from various static schedule formats to and from GTFS.
 ### Other multimodal data formats
 
 - [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
-- [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/). :star:149
+- [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/). :star:150
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University. :star:14
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/). :star:5
 - [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority. :star:10
 - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - A GTFS-based travel demand data format focusing on individual passenger *demand* suitable for dynamic network modeling developed by San Francisco County Transportation Authority, LMZ LLC, and UrbanLabs LLC. :star:1
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*. :star:1
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
+- [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 - [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 
 ## License

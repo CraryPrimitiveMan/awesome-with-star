@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:480
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:481
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -66,11 +66,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Web development frameworks.*
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1696
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4697
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1697
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4705
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1579
-* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1071
+* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1072
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:542
 
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:285
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:387
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:780
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:783
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:468
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:117
@@ -156,7 +156,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1007
+* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1008
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -183,7 +183,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Authentication
 *Libraries for implementing authentications schemes.*
 
-* [oauth2](https://github.com/kivra/oauth2) - Erlang Oauth2 implementation. :star:193
+* [oauth2](https://github.com/kivra/oauth2) - Erlang Oauth2 implementation. :star:194
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
@@ -214,11 +214,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for using network related stuff.*
 
 * [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang. :star:84
-* [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:139
+* [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:140
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:9
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:36
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
-* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:749
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:750
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*

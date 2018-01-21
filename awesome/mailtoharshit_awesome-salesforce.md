@@ -20,7 +20,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:27
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:28
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
@@ -73,7 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:134
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:135
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 
@@ -92,38 +92,38 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:223
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
+* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) - Samples application illustrating the Apex Enterprise Patterns library :star:55
     Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API <br/>
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:310
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.<br/>
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core) - Apex HTTP Callout Framework.<br/> :star:21
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-This library has been extended by five libraries <br/>
-* [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint) :star:5
-* [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive) :star:8
-* [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror) :star:1
-* [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) :star:6
-* [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox) :star:4
+  This library has been extended by five libraries <br/>
+  * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint) :star:5
+  * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive) :star:8
+  * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror) :star:1
+  * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) :star:6
+  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox) :star:4
 
 
- <b>Key Features of this library</b>
-  + Framework for HTTP callouts.
-  + JSON serialization and deserialization base classes.
-  + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
+  <b>Key Features of this library</b>
+    + Framework for HTTP callouts.
+    + JSON serialization and deserialization base classes.
+    + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
 
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/> :star:28
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)

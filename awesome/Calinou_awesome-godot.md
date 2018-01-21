@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:18
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:40
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:426
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:428
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
 
 ### 3D
@@ -59,7 +59,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:216
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:217
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:14
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:63
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:5
@@ -84,8 +84,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:6
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations :star:20
-- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:19
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:70
+- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:20
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:71
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
@@ -130,7 +130,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [`gd-com` npm package](https://www.npmjs.com/package/gd-com) - Communicate with Godot clients using Node.js.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot. :star:6
-- [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms. :star:10
+- [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms. :star:11
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 

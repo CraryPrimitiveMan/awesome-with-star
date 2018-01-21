@@ -101,7 +101,7 @@
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes. :star:262
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload. :star:29
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers. :star:93
-* [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs. :star:302
+* [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs. :star:303
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer. :star:93
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events. :star:100
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions. :star:8
@@ -112,7 +112,7 @@
 * [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer. :star:2
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer. :star:19
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer. :star:6
-* [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:9
+* [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:10
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:16
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code. :star:223
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:34
@@ -127,7 +127,7 @@
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:139
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:268
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:545
-* [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:205
+* [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:206
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:422
 * [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS. :star:46
@@ -142,7 +142,7 @@
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects. :star:14
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:21
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:46
-* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:11
+* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:12
 * [bodymovin for Framer](https://github.com/72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects. :star:122
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype. :star:31
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients. :star:16
@@ -151,7 +151,7 @@
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:14
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:36
-* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:44
+* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:45
 
 
 ## Sites
@@ -159,7 +159,7 @@
 * [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
 
 ## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:212
+* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:213
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:468
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:147
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:27

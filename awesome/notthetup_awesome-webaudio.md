@@ -27,13 +27,13 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:3974
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:3991
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques. :star:250
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. :star:321
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects. :star:32
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
-- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:507
+- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:509
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses. :star:22
@@ -42,22 +42,22 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects. :star:114
 - [smoothfade](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes. :star:19
 - [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI. :star:58
-- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API. :star:112
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API. :star:113
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis. :star:200
 - [XSound.js](https://github.com/Korilakkuma/XSound) - Full stack library. :star:6
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance. :star:12
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features. :star:389
-- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:523
+- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:524
 - [Mooog](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables. :star:20
-- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2636
+- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2640
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio. :star:24
-- [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily. :star:89
+- [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily. :star:90
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator. :star:13
-- [Tuna](https://github.com/Theodeus/tuna) - An audio effects library. :star:903
-- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:226
+- [Tuna](https://github.com/Theodeus/tuna) - An audio effects library. :star:904
+- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:227
 - [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser. :star:863
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales. :star:1
-- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes. :star:2528
+- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes. :star:2530
 - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
 ### Utilities

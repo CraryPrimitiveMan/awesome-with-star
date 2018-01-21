@@ -401,6 +401,18 @@ echo ""
 log stream --style syslog --info --predicate "$filter"
 ```
 
+#### Toggle Backup While on Battery
+```bash
+# Status
+sudo defaults read /Library/Preferences/com.apple.TimeMachine RequiresACPower
+
+# Enable (Default)
+sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool true
+
+# Disable
+sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool false
+```
+
 #### Verify Backup
 Beginning in OS X 10.11, Time Machine records checksums of files copied into snapshots. Checksums are not retroactively computed for files that were copied by earlier releases of OS X.
 ```bash
@@ -1806,7 +1818,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7333
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7342
 
 #### fish
 Install the latest version and set as current user's default shell:
@@ -1819,8 +1831,8 @@ chsh -s $(brew --prefix)/bin/fish
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](https://fisherman.github.io/) - A blazing fast, modern plugin manager for Fish.
-- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:2990
-- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:142
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:3002
+- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:145
 
 #### Zsh
 Install the latest version and set as current user's default shell:
@@ -1832,20 +1844,20 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8471
-- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:844
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8472
+- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:846
 
 ### Terminal Fonts
 
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
-- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:4356
+- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:4363
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1824
+- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1825
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10516
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10542
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 

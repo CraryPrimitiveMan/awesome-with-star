@@ -35,7 +35,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Web honeypots
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot. :star:314
     - Snare/Tanner - successors to Glastopf
-      - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot :star:71
+      - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot :star:72
       - [Tanner](https://github.com/mushorg/tanner) - Evaluating SNARE events :star:41
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot. :star:37
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
@@ -45,7 +45,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot. :star:11
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit.
-    - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications. :star:300
+    - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications. :star:301
     - [stack-honeypot](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses. :star:17
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms. :star:22
     - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts. :star:41
@@ -54,7 +54,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - WordPress honeypots
         - [HonnyPotter](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts. :star:19
         - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container. :star:52
-        - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot. :star:16
+        - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot. :star:17
         - [wordpot](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot. :star:111
 
 - Service Honeypots
@@ -63,7 +63,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:268
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:721
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:722
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:8
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:9
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:19
@@ -77,7 +77,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:393
+    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:394
     - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets . :star:28
     - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
@@ -108,7 +108,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1333
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1336
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -144,7 +144,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - VM monitoring and tools
     - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:222
+    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:223
     - [VMCloak](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox. :star:214
 
 - Binary debugger
@@ -153,7 +153,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Mobile Analysis Tool
     - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
-    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1828
+    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1831
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
@@ -242,7 +242,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
 - PDF document inspector
-    - [peepdf](https://github.com/jesparza/peepdf) :star:289
+    - [peepdf](https://github.com/jesparza/peepdf) :star:288
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
@@ -399,7 +399,7 @@ the honeyd daemon and generate configuration files
 ## <a name="visualizers"></a> Data Tools
 
 - Front Ends
-    - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk. :star:200
+    - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk. :star:199
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot. :star:10
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot.
     - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 

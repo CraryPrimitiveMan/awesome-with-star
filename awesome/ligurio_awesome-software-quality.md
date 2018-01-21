@@ -62,7 +62,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:46
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:47
 * [Common System and Software Testing Pitfalls](https://www.infoq.com/resource/articles/common-testing-pitfalls/en/resources/Common-System-and-Software-Testing-Pitfalls-excerpt.pdf) - Donald G. Firesmith
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
@@ -358,17 +358,17 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1480
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1482
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:907
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2297
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:388
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:128
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:47
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:908
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2313
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:389
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:131
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:48
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:295
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:90
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:92
 
 ### License
 

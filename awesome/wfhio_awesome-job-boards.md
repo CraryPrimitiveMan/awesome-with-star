@@ -32,7 +32,7 @@ A curated list of awesome niche job boards.
 
 ## Design
 
-* [AIGA](http://designjobs.aiga.org/)
+* [AIGA](https://designjobs.aiga.org/)
 * [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](http://www.coroflot.com/design-jobs)
@@ -78,10 +78,9 @@ A curated list of awesome niche job boards.
 
 ### Go
 
-* [Golang / Go Jobs & Developers](https://www.golangprojects.com/)
+* [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
-* [Golang Projects](https://www.golangprojects.com)
 
 ### JavaScript
 

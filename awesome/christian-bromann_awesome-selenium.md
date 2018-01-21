@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Javascript
 
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
-- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1260
+- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1259
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -47,9 +47,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
 #### PHP
-- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2052
+- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2060
 - [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server. :star:24
-- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:133
+- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:135
 
 #### Python
 
@@ -64,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium with Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bindings
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
 - [darcy](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation. :star:15
-- [Selenide](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts. :star:650
+- [Selenide](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts. :star:651
 - [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
@@ -79,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS Regression Testing
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS. :star:4645
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS. :star:4647
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being). :star:553
 
 ### Containers
@@ -88,8 +88,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. :star:853
 - [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:78
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2036
-- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:397
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2040
+- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:398
 - [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:677
 
 ### Driver
@@ -124,7 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Web Scraping / Mining
 
 - [Scrapy](http://scrapy.org) - **Python**, mainly a scraper/miner - fast, well documented and, can be linked with [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) for nice mining deployments, or [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) for PaaS (server-less) deployment, works in terminal or an server stand-alone proces, can be used with **Celery**, built on top of **Twisted**.
-- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery. :star:3377
+- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery. :star:3379
 
 ### Specifications
 
