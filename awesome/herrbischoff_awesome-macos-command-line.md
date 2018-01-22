@@ -1818,7 +1818,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7342
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7346
 
 #### fish
 Install the latest version and set as current user's default shell:
@@ -1831,7 +1831,7 @@ chsh -s $(brew --prefix)/bin/fish
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](https://fisherman.github.io/) - A blazing fast, modern plugin manager for Fish.
-- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:3002
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:3005
 - [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:145
 
 #### Zsh
@@ -1844,8 +1844,8 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8472
-- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:846
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8475
+- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:847
 
 ### Terminal Fonts
 
@@ -1855,9 +1855,9 @@ chsh -s $(brew --prefix)/bin/zsh
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1825
+- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1826
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10542
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10549
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 

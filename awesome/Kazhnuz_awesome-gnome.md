@@ -73,7 +73,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:45
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2226
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2227
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:280
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:178
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:21
@@ -89,7 +89,7 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:338
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:80
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:81
 
 ### Graphics
 
@@ -110,9 +110,9 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2130
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2129
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:235
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2080
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2092
 
 ### System
 
@@ -132,7 +132,7 @@
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:162
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:164
 
 ### Applets
 
@@ -171,7 +171,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:413
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:415
 
 ### Adwaita-based
 
@@ -203,18 +203,18 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1255
-- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:87
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1260
+- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:88
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:728
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:730
 
 ### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:282
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:284
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme. :star:75
 
 ### Skeumorphic

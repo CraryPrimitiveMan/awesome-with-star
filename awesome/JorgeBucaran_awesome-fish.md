@@ -23,10 +23,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2682
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2685
 * [Fundle](https://github.com/tuvistavie/fundle) :star:162
 * [Fresco](https://github.com/masa0x80/fresco) :star:4
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3003
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3007
 
 ## Plugins
 

@@ -67,17 +67,17 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1697
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4705
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4709
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1579
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1072
-* [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:542
+* [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:840
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:543
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
 
-* [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss. :star:74
+* [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss. :star:73
 * [cb_websocket_controller](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss. :star:7
 * [giallo_session](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework. :star:10
 * [simple_bridge](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws). :star:92
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:285
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:387
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:783
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:784
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:468
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:117
@@ -111,10 +111,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
 
-* [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:238
+* [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:239
 * [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:410
-* [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:427
-* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:551
+* [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:426
+* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:550
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:81
 * [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:171
 
@@ -229,7 +229,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang. :star:2
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:236
-* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:235
+* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:234
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*

@@ -99,11 +99,11 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:799
+* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:800
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1003
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1004
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -130,7 +130,7 @@ Processing Unit (GPU).
 
 * [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser. :star:437
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
-* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities. :star:708
+* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities. :star:707
 
 #### Firefox Specific Tools/Debugger
 
@@ -251,7 +251,7 @@ Processing Unit (GPU).
 ### 2D
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
-* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2809
+* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2812
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1195
 
 ### Maps and Visualizations
@@ -292,11 +292,11 @@ Processing Unit (GPU).
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
-* [QTEK](https://github.com/pissang/qtek) - Library with many features. :star:669
+* [QTEK](https://github.com/pissang/qtek) - Library with many features. :star:671
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2811
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2812
 * [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
@@ -316,11 +316,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:76173
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:4620
-* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:705
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:76270
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:4640
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:704
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:697
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4564
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4568
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1090
 
 ## Contributing

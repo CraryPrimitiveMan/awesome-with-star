@@ -60,8 +60,8 @@ Official projects and resources of Ant Design,
 
 These are tools and utilities to help build apps using Ant Design,
 
-- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli). :star:648
-- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva), a :star:694
+- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli). :star:649
+- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva), a :star:695
 lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
@@ -82,16 +82,16 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:2211
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:2212
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js :star:12359
+- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js :star:12372
 - [atui]( https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
-- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:1244
+- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:1247
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js. :star:29
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design. :star:8
 
@@ -99,7 +99,7 @@ Projects that are built with Vue.js and Ant Design.
 
 A list of UI components built with Ant Design.
 
-- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:415
+- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:416
 - [React Grid](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components. :star:24
 - [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:33
@@ -108,8 +108,8 @@ A list of UI components built with Ant Design.
 
 A list of mature apps built with Ant Design.
 
-- [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API. :star:113
-- [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules. :star:127
+- [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API. :star:114
+- [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules. :star:128
 
 ## Frameworks
 
@@ -122,7 +122,7 @@ A list of frameworks using Ant Design.
 A list of starter projects and boilerplates built with Ant Design.
 
 - [Meteor Antd Boilerplate](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
-- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:3097
+- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:3102
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery. :star:472
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456). :star:464
 - [React Redux](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design. :star:297
@@ -143,7 +143,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages. :star:16
 
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject). :star:37
-- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:823
+- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:824
 
 ## Non-JavaScript Libraries
 

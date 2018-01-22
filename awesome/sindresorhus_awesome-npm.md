@@ -79,7 +79,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:712
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:98
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:62
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3551
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3562
 
 ### Registry
 
@@ -93,9 +93,9 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages. :star:25
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry. :star:44
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:15
-- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:913
+- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:915
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:290
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2040
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2041
 
 ### Other
 
@@ -128,8 +128,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29795
-- [npm](https://github.com/npm/npm) - The official client. :star:15160
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29806
+- [npm](https://github.com/npm/npm) - The official client. :star:15168
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3075
 
 
@@ -359,7 +359,7 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 - [package.json](https://docs.npmjs.com/files/package.json)
 - [npm run script](https://docs.npmjs.com/cli/run-script)
-- [Stats API](https://github.com/npm/download-counts) :star:212
+- [Stats API](https://github.com/npm/download-counts) :star:213
 
 
 ## Support

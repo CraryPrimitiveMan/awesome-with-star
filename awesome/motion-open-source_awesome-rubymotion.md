@@ -166,7 +166,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
 * [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:11
 * [Motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. :star:36
-* [Motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app. :star:116
+* [Motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app.
 * [Motion-Social](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework. :star:12
 
 
@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1269
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1270
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19

@@ -69,10 +69,10 @@ Development state:
 
 ### Console
 * [AHKonsole](https://github.com/G33kDude/Console) - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955). :star:11
-* [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=17). :star:28
+* [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=17). :star:29
 
 ### <a name="libraries-data-format"></a>Data format
-* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627). :star:55
+* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627). :star:56
 * [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
 * [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212). :star:2
 * [XA](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849). :star:2
@@ -148,7 +148,7 @@ Development state:
 * [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
 * [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
 * [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
-* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:6
+* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK :star:7
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
@@ -166,9 +166,9 @@ Development state:
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:84
+* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:85
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:31
-* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:16
+* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:17
 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
@@ -268,7 +268,7 @@ Development state:
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
-* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk). :star:43
+* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk). :star:44
 * [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 * [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - Tutorial [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
 * [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - Forum thread: [link](https://autohotkey.com/board/topic/11249-embedding-perl/).

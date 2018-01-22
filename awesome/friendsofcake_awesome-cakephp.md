@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17727
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20537
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17734
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20546
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -99,17 +99,17 @@ Additional lists you might find useful:
 
 - [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP. :star:76
-- [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens. :star:104
+- [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens. :star:105
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies. :star:17
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization. :star:6
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client). :star:22
 - [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens. :star:5
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications. :star:27
-- [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach. :star:73
+- [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach. :star:74
 - [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing. :star:284
 - [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) library. :star:21
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -  Allow groups of users or single users to view a specific page. :star:14
-- [Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more. :star:419
+- [Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more. :star:420
 
 ## Caching
 *Plugins for caching data.*
@@ -128,9 +128,9 @@ Additional lists you might find useful:
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging. :star:859
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team. :star:8
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks. :star:11
-- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops](https://github.com/filp/whoops). :star:24
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer. :star:2
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools. :star:27
+- [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops). :star:4
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
@@ -164,7 +164,7 @@ Additional lists you might find useful:
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin. :star:177
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem. :star:28
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:518
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:519
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior. :star:19
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:102
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file. :star:26
@@ -288,7 +288,7 @@ Additional lists you might find useful:
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:302
+- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:303
 
 ## Queue
 *Plugins for working with event and task queues.*
@@ -315,10 +315,10 @@ Additional lists you might find useful:
 *Plugins and software for indexing and performing search queries on data.*
 
 - [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend. :star:60
-- [Muffin/Tags plugin](https://github.com/usemuffin/tags) - For tagging and finding tagged records. :star:14
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern. :star:18
 - [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications. :star:91
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes. :star:3
+- [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*

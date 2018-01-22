@@ -15,7 +15,8 @@ Needless to say, most of websites on-line are suffered from various type of bugs
 
 ---
 
-Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitter](https://twitter.com/qazbnm456).
+If you like this and would like to support it. Check out my [patreon page](https://www.patreon.com/boik) :)
+And don't forget to check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitter](https://twitter.com/qazbnm456) as well!
 
 ## Contents
 
@@ -116,7 +117,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 ### XSS - Cross-Site Scripting
 
 * [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) - Introduction to XSS by [Google](https://www.google.com/).
-* [H5SC](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53). :star:1767
+* [H5SC](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53). :star:1768
 * [XSS.png](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
 * [C.XSS Guide](https://excess-xss.com/) - Comprehensive tutorial on cross-site scripting by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 * [A talk about XSS thousand knocks](https://speakerdeck.com/yagihashoo/a-talk-about-xss-thousand-knocks-shibuya-dot-xss-techtalk-number-10) - Shibuya.XSS techtalk#10 by [Yu Yagihashi](https://speakerdeck.com/yagihashoo).
@@ -379,9 +380,9 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="pocs-javascript"></a>
 ### JavaScript
 
-* [js-vuln-db](https://github.com/tunz/js-vuln-db) - Collection of JavaScript engine CVEs with PoCs by [@tunz](https://github.com/tunz). :star:1087
-* [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - Curated list of CVE PoCs by [@qazbnm456](https://github.com/qazbnm456). :star:792
-* [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb). :star:534
+* [js-vuln-db](https://github.com/tunz/js-vuln-db) - Collection of JavaScript engine CVEs with PoCs by [@tunz](https://github.com/tunz). :star:1088
+* [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - Curated list of CVE PoCs by [@qazbnm456](https://github.com/qazbnm456). :star:793
+* [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb). :star:537
 
 ## Tools
 
@@ -405,18 +406,18 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [傻蛋联网设备搜索](https://www.oshadan.com/) - 监测互联网基础设施安全威胁 by [@傻蛋搜索](http://weibo.com/shadansou).
 * [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans by [ElevenPaths](https://www.elevenpaths.com/index.html). :star:206
 * [SpiderFoot](http://www.spiderfoot.net/) - Open source footprinting and intelligence-gathering tool by [@binarypool](https://twitter.com/binarypool).
-* [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks by [@evilsocket](https://github.com/evilsocket). :star:947
+* [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks by [@evilsocket](https://github.com/evilsocket). :star:946
 * [gitrob](https://github.com/michenriksen/Gitrob) - Reconnaissance tool for GitHub organizations by [@michenriksen](https://github.com/michenriksen). :star:2022
-* [GSIL](https://github.com/FeeiCN/GSIL) - Github Sensitive Information Leakage（Github敏感信息泄露）by [@FeeiCN](https://github.com/FeeiCN). :star:429
+* [GSIL](https://github.com/FeeiCN/GSIL) - Github Sensitive Information Leakage（Github敏感信息泄露）by [@FeeiCN](https://github.com/FeeiCN). :star:434
 * [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin by [@0x09AL](https://github.com/0x09AL). :star:396
-* [ReconDog](https://github.com/UltimateHackers/ReconDog) - Recon Dog is an all in one tool for all your basic information gathering needs by [@UltimateHackers](https://github.com/UltimateHackers). :star:179
+* [ReconDog](https://github.com/UltimateHackers/ReconDog) - Recon Dog is an all in one tool for all your basic information gathering needs by [@UltimateHackers](https://github.com/UltimateHackers). :star:180
 
 <a name="tools-sub-domain-enumeration"></a>
 #### Sub Domain Enumeration
 
-* [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters by [@lijiejie](https://github.com/lijiejie). :star:779
+* [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters by [@lijiejie](https://github.com/lijiejie). :star:785
 * [AQUATONE](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen). :star:832
-* [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco). :star:1202
+* [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco). :star:1204
 * [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) - Searching for domain information by [VirusTotal](https://www.virustotal.com/).
 * [Certificate Transparency](https://github.com/google/certificate-transparency) - Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system by [@google](https://github.com/google). :star:490
 * [Certificate Search](https://crt.sh/) - Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID to search certificate(s) by [@crtsh](https://github.com/crtsh).
@@ -429,19 +430,19 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="tools-fuzzing"></a>
 ### Fuzzing
 
-* [wfuzz](https://github.com/xmendez/wfuzz) - Web application bruteforcer by [@xmendez](https://github.com/xmendez). :star:984
+* [wfuzz](https://github.com/xmendez/wfuzz) - Web application bruteforcer by [@xmendez](https://github.com/xmendez). :star:985
 * [charsetinspect](https://github.com/hack-all-the-things/charsetinspect) - Script that inspects multi-byte character sets looking for characters with specific user-defined properties by [@hack-all-the-things](https://github.com/hack-all-the-things). :star:20
 * [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator) - Simple too to convert the IP to a DWORD IP by [@OsandaMalith](https://github.com/OsandaMalith). :star:71
-* [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam). :star:3013
+* [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam). :star:3016
 * [JoomlaScan](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85). :star:80
-* [XSStrike](https://github.com/UltimateHackers/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@UltimateHackers](https://github.com/UltimateHackers). :star:533
+* [XSStrike](https://github.com/UltimateHackers/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@UltimateHackers](https://github.com/UltimateHackers). :star:548
 * [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript by [@evilcos](https://github.com/evilcos). :star:1157
 
 <a name="tools-penetrating"></a>
 ### Penetrating
 
 * [Burp Suite](https://portswigger.net/burp/) - Burp Suite is an integrated platform for performing security testing of web applications by [portswigger](https://portswigger.net/).
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy). :star:9267
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy). :star:9281
 
 <a name="tools-offensive"></a>
 ### Offensive
@@ -449,7 +450,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="tools-template-injection"></a>
 #### Template Injection
 
-* [tqlmap](https://github.com/epinna/tplmap) - Code and Server-Side Template Injection Detection and Exploitation Tool by [@epinna](https://github.com/epinna). :star:629
+* [tqlmap](https://github.com/epinna/tplmap) - Code and Server-Side Template Injection Detection and Exploitation Tool by [@epinna](https://github.com/epinna). :star:631
 
 <a name="tools-leaking"></a>
 ### Leaking
@@ -464,19 +465,19 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 * [sqlchop](https://github.com/chaitin/sqlchop) - [DEPRECATED] Novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis by [chaitin](http://chaitin.com). :star:216
 * [retire.js](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS). :star:1484
-* [malware-jail](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak). :star:218
+* [malware-jail](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak). :star:219
 * [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :star:107
 * [bXSS](https://github.com/LewisArdern/bXSS) - bXSS is a simple Blind XSS application adapted from [cure53.de/m](https://cure53.de/m) by [@LewisArdern](https://github.com/LewisArdern). :star:28
 
 <a name="tools-preventing"></a>
 ### Preventing
 
-* [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin). :star:1819
+* [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin). :star:1820
 
 <a name="tools-webshell"></a>
 ### Webshell
 
-* [webshell](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc). :star:2713
+* [webshell](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc). :star:2720
 * [Weevely](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna). :star:1094
 * [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang). :star:150
 * [Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang). :star:91
@@ -485,15 +486,15 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="tools-disassembler"></a>
 ### Disassembler
 
-* [plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS by [@plasma-disassembler](https://github.com/plasma-disassembler). :star:2568
-* [radare2](https://github.com/radare/radare2) - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare). :star:6464
+* [plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS by [@plasma-disassembler](https://github.com/plasma-disassembler). :star:2569
+* [radare2](https://github.com/radare/radare2) - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare). :star:6473
 * [Iaitō](https://github.com/hteso/iaito) - Qt and C++ GUI for radare2 reverse engineering framework by [@hteso](https://github.com/hteso). :star:1612
 
 <a name="tools-others"></a>
 ### Others
 
 * [Dnslogger](https://wiki.skullsecurity.org/index.php?title=Dnslogger) - DNS Logger by [@iagox86](https://github.com/iagox86).
-* [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by [@GCHQ](https://github.com/gchq). :star:3150
+* [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by [@GCHQ](https://github.com/gchq). :star:3149
 
 ## Social Engineering Database
 
@@ -563,16 +564,16 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Miscellaneous
 
-* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin). :star:626
-* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc). :star:550
+* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin). :star:629
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc). :star:553
 * [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) - Written by [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
 * [如何正確的取得使用者 IP ？](http://devco.re/blog/2014/06/19/client-ip-detection/) - Written by [Allen Own](http://devco.re/blog/author/allenown).
-* [1000php](https://github.com/Xyntax/1000php) - 1000个PHP代码审计案例(2016.7以前乌云公开漏洞) by [@Xyntax](https://github.com/Xyntax). :star:348
+* [1000php](https://github.com/Xyntax/1000php) - 1000个PHP代码审计案例(2016.7以前乌云公开漏洞) by [@Xyntax](https://github.com/Xyntax). :star:349
 * [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](http://pwndizzle.blogspot.jp/).
 * [GITLEAKS](https://gitleaks.com/) - Search engine for exposed secrets on lots of places.
 * [Pentest + Exploit dev Cheatsheet wallpaper](http://i.imgur.com/Mr9pvq9.jpg) - Penetration Testing and Exploit Dev CheatSheet.
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/) - Written by JASON TROS.
-* [EQGRP](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz). :star:3353
+* [EQGRP](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz). :star:3351
 * [Browser Extension and Login-Leak Experiment](https://extensions.inrialpes.fr/) - Browser Extension and Login-Leak Experiment.
 * [notes](https://github.com/ChALkeR/notes) - Some public notes by [@ChALkeR](https://github.com/ChALkeR). :star:1126
 * [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).

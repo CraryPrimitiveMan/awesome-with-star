@@ -98,7 +98,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### 3D Frameworks
 
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
-* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:672
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:671
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl)). :star:169
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:117
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:367
@@ -141,7 +141,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### UI Components
 
 * [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:637
-* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more. :star:9
+* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR. :star:41
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework. :star:7
 * [GPUI](https://github.com/inspirit/GPUI) - Tiny GUI Library based on Stage3D (GPU). :star:63
@@ -172,7 +172,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Multi Touch
 
-* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices. :star:16
+* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
 * [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
@@ -261,7 +261,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sound
 
-* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:145
+* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:146
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:59
@@ -425,7 +425,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Networking
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:380
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:379
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) - Bulk asset loading library for Actionscript. :star:282
 * [AssetLoader](https://github.com/Matan/AssetLoader) - Multi-file/asset loader for AS3 built on AS3Signals. :star:125
 
@@ -564,7 +564,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:414
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:415
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:58
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4

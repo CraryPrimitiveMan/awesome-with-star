@@ -36,7 +36,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:86
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:88
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -60,9 +60,9 @@ List of content
 * [Smartbit](https://www.smartbit.com.au)
 
 # JavaScript Libraries
-* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:21
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:301
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2281
+* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:22
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:302
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2287
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:101
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:31
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -114,7 +114,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:6992
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:7020
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

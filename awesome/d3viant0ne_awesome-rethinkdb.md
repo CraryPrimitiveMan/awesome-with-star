@@ -52,12 +52,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
-- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:794
+- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:795
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 
 ##### ORM
 
-- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1061
+- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1062
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM. :star:29
  - Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -171,7 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:32
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.  :star:13
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver. :star:21
-- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:306
+- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:307
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:100
 
 **[Back to top](#table-of-contents)**

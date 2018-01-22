@@ -66,7 +66,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Etcher](https://www.etcher.io/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server. :star:572
-- [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc. :star:416
+- [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc. :star:417
 - [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0). :star:8
@@ -103,7 +103,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection. :star:313
-- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2647
+- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2651
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
@@ -122,8 +122,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang. :star:6
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B reciever which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi. :star:408
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
-- [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data. :star:105
-- [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.  :star:222
+- [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data. :star:106
+- [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.  :star:223
 
 ## Resources
 ### Articles

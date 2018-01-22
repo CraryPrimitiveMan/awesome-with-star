@@ -70,10 +70,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4132
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:968
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5317
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:970
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5320
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1092
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1091
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
 - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1746
 
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2837
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2838
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

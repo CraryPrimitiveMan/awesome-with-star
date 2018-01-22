@@ -134,17 +134,17 @@
 * [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders. :star:20
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components. :star:93
 * [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other. :star:21
-* [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes. :star:27
+* [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes. :star:28
 * [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease. :star:81
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them. :star:59
 * [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype. :star:38
 * [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer. :star:25
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects. :star:14
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:21
-* [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:46
+* [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:47
 * [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:12
 * [bodymovin for Framer](https://github.com/72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects. :star:122
-* [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype. :star:31
+* [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype. :star:32
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients. :star:16
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku. :star:13
 * [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes. :star:13

@@ -64,10 +64,10 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 * [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, Python interface.
 * [audiolazy](https://github.com/danilobellini/audiolazy) [:octocat:](https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) - Realtime Audio Processing lib, general purpose.
-* [essentia](http://essentia.upf.edu)² [:octocat:](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings. :star:732
+* [essentia](http://essentia.upf.edu)² [:octocat:](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings. :star:734
 * [muda](https://muda.readthedocs.io/en/latest/) [:octocat:](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat:](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
-* [pyYAAFE](http://yaafe.sourceforge.net) [:octocat:](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE. :star:122
+* [pyYAAFE](http://yaafe.sourceforge.net) [:octocat:](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE. :star:123
 * [speechpy](https://github.com/astorfi/speechpy) [:octocat:](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 #### Speech Processing
@@ -76,7 +76,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat:](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) [:octocat:](https://github.com/wiseman/py-webrtcvad) [:package:](https://pypi.python.org/pypi/webrtcvad/) -  Interface to the WebRTC Voice Activity Detector.
 * [PyWorldVocoder](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat:](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder. :star:73
-* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained). :star:49
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained). :star:50
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) [:octocat:](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -  Wrapper for several ASR engines and APIs, online and offline.
 
@@ -145,7 +145,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Books
 
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks. :star:8271
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks. :star:8278
 * [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) - Meinard Müller, comes with Python exercises.
 
 ## Scientific Papers

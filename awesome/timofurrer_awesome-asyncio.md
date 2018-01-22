@@ -28,11 +28,11 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to build web applications.*
 
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156). :star:4460
-* [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast. :star:8291
+* [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast. :star:8301
 * [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 * [Kyoukai](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio. :star:330
 * [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp. :star:15
-* [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers. :star:1661
+* [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers. :star:1664
 * [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
 ## Message Queues
@@ -48,11 +48,11 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to connect to databases.*
 
 * [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio. :star:2316
-* [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support. :star:162
+* [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support. :star:161
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
-* [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database :star:427
+* [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database :star:428
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases. :star:76
-* [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB. :star:904
+* [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB. :star:903
 * [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156). :star:490
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156). :star:396
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio). :star:40
@@ -77,8 +77,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Alternative asyncio loop implementations.*
 
-* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv. :star:4304
-* [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library. :star:2282
+* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv. :star:4303
+* [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library. :star:2284
 
 ## Misc
 

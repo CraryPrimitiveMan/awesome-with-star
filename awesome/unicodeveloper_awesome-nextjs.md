@@ -20,7 +20,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:21448
+* [GitHub](https://github.com/zeit/next.js) :star:21473
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -45,21 +45,21 @@
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:3
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:265
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:403
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1215
-* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:289
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1221
+* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:288
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:3
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint. :star:10
-* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree. :star:9
+* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree. :star:10
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:538
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:539
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:576
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:15
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:22
-* [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:250
+* [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:251
 * [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:405
 * [Password](https://github.com/dotcypress/password) - One password, right way. :star:72
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js. :star:92
@@ -70,12 +70,12 @@
 * [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:22
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:40
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:32
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:332
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:336
 * [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:83
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information. :star:4
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation. :star:26
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
-* [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
+* [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render. :star:1
 * [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd :star:43
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql) :star:7
 * [DS](https://github.com/divyenduz/ds) - Personal site manager. :star:2
@@ -95,6 +95,7 @@
 * [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
 * [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
+* [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!

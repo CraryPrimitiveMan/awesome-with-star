@@ -277,7 +277,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:223
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:224
 
 ##### Spin/PVS
 
@@ -358,11 +358,11 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1482
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1483
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:908
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2313
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:389
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:909
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2317
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:390
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:131
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:48
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139

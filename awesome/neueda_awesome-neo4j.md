@@ -107,7 +107,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### Other
 
-- [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:933
+- [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:934
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:226
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:317
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:163
@@ -184,7 +184,7 @@ Neo4j graph database.
 # Shell
 
 - [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:205
-- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:228
+- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:229
 
 # Visualization
 

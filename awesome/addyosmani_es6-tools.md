@@ -3,9 +3,9 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:25398
-* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7533
-* [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform :star:604
+* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:25415
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7536
+* [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform :star:605
 * [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform :star:1487
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread :star:221
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
@@ -100,7 +100,7 @@
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype :star:55
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
-* [Babel Module Loader](https://github.com/babel/babel-loader) :star:2451
+* [Babel Module Loader](https://github.com/babel/babel-loader) :star:2452
 * [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments :star:5
 
 ## Boilerplates
@@ -118,8 +118,8 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:5426
-* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2445
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:5432
+* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2447
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) :star:94
@@ -138,7 +138,7 @@
 * [`Math.sign`](https://github.com/sindresorhus/math-sign) :star:6
 * [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match) :star:8
 * [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search) :star:5
-* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:5350
+* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:5354
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible. :star:21
 * [`Function.create`](https://github.com/walling/Function.create.js) :star:8
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
@@ -158,13 +158,13 @@
 ## Parsers
 
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) :star:1425
-* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:3047
+* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:3052
 * [esparse](https://github.com/zenparsing/esparse) - ES6 parser written in ES6. :star:99
 * [Traceur compiler](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
 ## Other
 
-* [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features :star:313
+* [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features :star:312
 * [looper](https://github.com/wycats/looper) - static analysis tools for ES6 :star:18
 * [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc. :star:3

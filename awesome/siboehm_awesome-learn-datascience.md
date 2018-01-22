@@ -81,9 +81,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7056
-- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:2897
-- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:6279
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7068
+- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:2900
+- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:6296
 
 ## Contribute
 

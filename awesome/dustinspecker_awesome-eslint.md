@@ -23,14 +23,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Configs
 
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript) :star:64906
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript) :star:64954
 - [Canonical](https://github.com/gajus/eslint-config-canonical) – Shareable config for [Canonical style guide](https://github.com/gajus/canonical) :star:12
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Shareable config for ESLint's default settings
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code :star:7
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 - [Google](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml)
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript) :star:139
-- [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard) :star:15922
+- [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard) :star:15939
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style :star:2
 - [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO](https://github.com/sindresorhus/xo) :star:3210
 
@@ -42,7 +42,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Frameworks and Libraries
 
-- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide) :star:23580
+- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide) :star:23577
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA :star:145
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone :star:92
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai :star:7
@@ -57,10 +57,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha :star:159
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules :star:12
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules :star:46
-- [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX :star:3551
+- [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX :star:3552
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules :star:291
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS :star:22
-- [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS :star:897
+- [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS :star:898
 
 ### Misc
 
@@ -69,10 +69,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used :star:17
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments :star:16
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage)
-- [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules :star:696
+- [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules :star:697
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin :star:350
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema :star:423
-- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags :star:188
+- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags :star:189
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names :star:1050
 - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files :star:32
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown :star:128
@@ -90,13 +90,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions. :star:1
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:374
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript :star:713
-- [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements :star:762
+- [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements :star:765
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new` :star:15
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals. :star:26
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2017 and you still use loops? :star:33
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects :star:24
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises :star:225
-- [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security :star:607
+- [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security :star:608
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this` :star:3
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production :star:11
 
@@ -107,8 +107,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Preconfigured Tools with ESLint Set up
 
 - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config. :star:3
-- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed :star:286
-- [Standard](https://github.com/feross/standard) - JavaScript Standard Style :star:15922
+- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed :star:288
+- [Standard](https://github.com/feross/standard) - JavaScript Standard Style :star:15939
 - [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️ :star:3210
 

@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5282
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5283
 
 
 ## Tutorials
@@ -66,8 +66,8 @@
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework. :star:35
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2. :star:32
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers. :star:64
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:274
-* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:222
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:275
+* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:223
 
 
 ## Made With Lumen

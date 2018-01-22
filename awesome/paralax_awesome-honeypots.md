@@ -49,11 +49,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [stack-honeypot](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses. :star:17
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms. :star:22
     - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts. :star:41
-    - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access.  :star:414
-    - [WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites. :star:3
+    - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access.  :star:415
+    - [WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites. :star:14
     - WordPress honeypots
         - [HonnyPotter](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts. :star:19
-        - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container. :star:52
+        - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container. :star:51
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot. :star:17
         - [wordpot](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot. :star:111
 
@@ -63,7 +63,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:268
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:722
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:721
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:8
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:9
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:19
@@ -178,7 +178,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot. :star:4
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot. :star:80
     - [MTPot](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware. :star:82
-    - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot. :star:137
+    - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot. :star:141
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot. :star:8
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment. :star:4
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet. :star:170
@@ -263,7 +263,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot :star:114
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled. :star:3
     - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts :star:18
-    - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords. :star:134
+    - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords. :star:135
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen. :star:10
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C. :star:4
     - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:821
@@ -348,7 +348,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot :star:53
 
 - Honeytokens
-    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:348
+    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:347
     - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots. :star:89
     - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens. :star:382

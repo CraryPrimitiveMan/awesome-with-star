@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib) :star:135
-- [Python](https://github.com/appium/python-client) :star:438
+- [Python](https://github.com/appium/python-client) :star:439
 - [Java](https://github.com/appium/java-client) :star:460
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:56

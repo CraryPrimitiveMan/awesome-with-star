@@ -59,7 +59,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:210
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4010
+- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4013
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF :star:894
 - [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:526
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
@@ -93,7 +93,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### C++
 
-- [Node-gif](https://github.com/pkrumins/node-gif) - C++ library to make GIF :star:164
+- [Node-gif](https://github.com/pkrumins/node-gif) - C++ library to make GIF :star:165
 - [Gif-h](https://github.com/ginsweater/gif-h) - C++ one-header library for the creation of animated GIFs :star:162
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - C++ openframeworks addon to export animated GIFs :star:90
 
@@ -109,7 +109,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Java
 
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5654
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5657
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable :star:220
 - [GifView](https://github.com/RoiSoleil/GifView) - android library to deal with GIF :star:78
 - [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations :star:451
@@ -142,7 +142,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Objective-C
 
-- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data :star:1038
+- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data :star:1039
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs :star:824
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control :star:300
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF :star:422

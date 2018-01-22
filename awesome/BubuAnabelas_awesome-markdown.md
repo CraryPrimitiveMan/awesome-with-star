@@ -76,16 +76,16 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Java
 
 - [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:651
-- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:430
+- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:432
 - [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions. :star:1192
 
 ### JavaScript
 
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:4675
-- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6443
-- [marked](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:15138
-- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6059
-- [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:684
+- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6445
+- [marked](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:15144
+- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6064
+- [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:689
 
 ### Perl
 
@@ -93,19 +93,19 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### PHP
 
-- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:5427
-- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:2608
+- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:5440
+- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:2607
 
 ### Python
 
-- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1472
-- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1110
-- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1237
+- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1473
+- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1112
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1238
 
 ### Ruby
 
-- [kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. :star:1168
-- [Redcarpet](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn. :star:4131
+- [kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. :star:1170
+- [Redcarpet](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn. :star:4132
 
 ## Tools
 
@@ -113,7 +113,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 > Convert Markdown to other formats and vice versa.
 
-- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:399
+- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:400
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:693
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1192
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
@@ -153,7 +153,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
-- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:7
+- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:12
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](http://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
