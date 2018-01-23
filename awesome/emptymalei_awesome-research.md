@@ -363,7 +363,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:1985
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:1986
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -441,7 +441,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1470
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:599
-* [hovercraft](https://github.com/regebro/hovercraft) :star:961
+* [hovercraft](https://github.com/regebro/hovercraft) :star:960
 
 
 
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38522
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38537
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4311
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1490
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5242
-* [Shower](https://github.com/shower/shower) :star:3847
+* [Shower](https://github.com/shower/shower) :star:3848
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1208
 * [Slides](https://github.com/briancavalier/slides) :star:453
@@ -669,7 +669,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:783
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:784
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -728,7 +728,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:782
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:783
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

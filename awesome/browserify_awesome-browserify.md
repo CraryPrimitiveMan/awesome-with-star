@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11700
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11703
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4193
-- [Repo](https://github.com/substack/node-browserify) :star:11700
+- [Repo](https://github.com/substack/node-browserify) :star:11703
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -106,13 +106,13 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:279
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:50
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:491
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:493
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:836
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:837
 
 ## Contributing
 

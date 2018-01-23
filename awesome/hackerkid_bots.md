@@ -47,7 +47,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5097
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5129
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
@@ -67,56 +67,56 @@ Table of Contents
 
 ### General
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js. :star:136
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:7642
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1321
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:7643
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1322
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
-* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:1955
+* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:1958
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go](https://github.com/paked/messenger) :star:230
 
 ### Slack
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1528
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1529
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
-* [Python (Official)](https://github.com/slackhq/python-slackclient) :star:1212
+* [Python (Official)](https://github.com/slackhq/python-slackclient) :star:1215
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) :star:158
 
 ### Telegram
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2311
-* [Node.js](https://github.com/telegraf/telegraf) :star:813
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2317
+* [Node.js](https://github.com/telegraf/telegraf) :star:815
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:973
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:3918
-* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:645
-* [Go](https://github.com/tucnak/telebot) :star:524
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:3924
+* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:646
+* [Go](https://github.com/tucnak/telebot) :star:526
 
 ### Discord
 ###### Node.js
 * [Eris](https://github.com/abalabahaha/eris) :star:326
-* [Discord.js](https://github.com/hydrabolt/discord.js) :star:1975
+* [Discord.js](https://github.com/hydrabolt/discord.js) :star:1981
 * [Discordie](https://github.com/qeled/discordie) :star:175
 * [Discord.io](https://github.com/izy521/discord.io) :star:400
 
 ###### C#
-* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:619
-* [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:178
+* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:620
+* [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:179
 
 ###### Python
-* [discord.py](https://github.com/Rapptz/discord.py) :star:1773
+* [discord.py](https://github.com/Rapptz/discord.py) :star:1774
 
 ###### Java
 * [JDA](https://github.com/DV8FromTheWorld/JDA/)
 
 ###### Rust
-* [Serenity](https://github.com/zeyla/serenity) :star:183
+* [Serenity](https://github.com/zeyla/serenity) :star:186
 
 ###### Lua
 * [Discordia](https://github.com/SinisterRectus/Discordia) :star:140
 
 ###### Go
-* [Discordgo](https://github.com/bwmarrin/discordgo) :star:496
+* [Discordgo](https://github.com/bwmarrin/discordgo) :star:497
 
 ### Kik
 * [Python](https://github.com/kikinteractive/kik-python) :star:39

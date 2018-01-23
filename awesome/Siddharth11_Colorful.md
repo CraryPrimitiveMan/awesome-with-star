@@ -18,11 +18,11 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops. :star:93
+- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops. :star:94
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility. :star:338
-- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6249
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6251
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor. :star:746
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:580
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors. :star:258

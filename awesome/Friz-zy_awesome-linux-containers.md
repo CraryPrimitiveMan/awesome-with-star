@@ -106,6 +106,8 @@ An open platform for distributed applications for developers and sysadmins. **St
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
+* [MultiDocker](https://github.com/marty90/multidocker) :star:1
+Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## Containers
 

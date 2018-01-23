@@ -18,15 +18,15 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:353
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:355
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2685
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2689
 * [Fundle](https://github.com/tuvistavie/fundle) :star:162
-* [Fresco](https://github.com/masa0x80/fresco) :star:4
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3007
+* [Fresco](https://github.com/masa0x80/fresco) :star:5
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3012
 
 ## Plugins
 
@@ -36,7 +36,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:231
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:101
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
-* [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:25
+* [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57
 * [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:148
 * [Spin](https://github.com/fisherman/spin) - Background job spinner. :star:82
@@ -50,7 +50,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:405
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:408
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:42
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:197

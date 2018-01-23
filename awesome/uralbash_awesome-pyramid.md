@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2198
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2199
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -227,7 +227,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   rest_toolkit.
 * [pyramid_royal](https://github.com/hadrien/pyramid_royal) - Royal is a :star:22
   pyramid extension which eases writing RESTful web applications.
-* [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:70
+* [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:547
@@ -344,7 +344,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:374
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:375
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1378
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1381
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12
