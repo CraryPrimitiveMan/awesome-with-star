@@ -258,7 +258,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37
 * [Motion-imager](https://github.com/OTGApps/motion-imager) - Interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera. :star:26
-* [Motion Swipe](https://github.com/dam13n/motion-swipe) - Tinder-like swipe gem. :star:11
+* [Motion Swipe](https://github.com/dam13n/motion-swipe) - Tinder-like swipe gem. :star:12
 * [Motion-dynamic-type](https://github.com/FluffyJack/motion-dynamic-type) - Simplifying even further iOS 7's Dynamic Type. :star:6
 * [Indoctrinator](https://github.com/ryanlntn/indoctrinator) - Indoctrinator is a RubyMotion gem that provides a Path style tutorial view for iOS applications. :star:27
 * [Motion-egg](https://github.com/GantMan/motion-egg) - Add an Easter egg to your app. :star:25
