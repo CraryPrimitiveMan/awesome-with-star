@@ -34,7 +34,7 @@
 
 ## Packages
 
-- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:147
+- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:148
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:70
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:92
