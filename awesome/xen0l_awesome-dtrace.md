@@ -145,7 +145,7 @@ List of software with DTrace support.
 
 #### Perl
 
-- [perl-Devel-DTrace-Provider](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+- [perl-Devel-DTrace-Provider](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt. :star:2
 
 #### PHP
 
@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5360
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5366
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:325
 
 ## Tools

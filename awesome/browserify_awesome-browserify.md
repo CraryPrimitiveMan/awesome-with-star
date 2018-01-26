@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11709
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4192
-- [Repo](https://github.com/substack/node-browserify) :star:11709
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11712
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4190
+- [Repo](https://github.com/substack/node-browserify) :star:11712
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -98,21 +98,21 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1487
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1488
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:190
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:513
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:280
-- [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:51
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:495
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:282
+- [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:52
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:496
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:838
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:839
 
 ## Contributing
 

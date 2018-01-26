@@ -125,7 +125,7 @@ http://oleg.fi/graafi/
 * [whitecolor/cycle-async-driver ★25](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers :star:25
 * [raquelxmoss/cycle-keys ★35](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events :star:34
 * [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
-* [goodmind/cycle-telegram ★15](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API :star:16
+* [goodmind/cycle-telegram ★15](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API :star:17
 * [apoco/cycle-electron-driver ★22](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application :star:22
 * [rkrupinski/cyclejs-animated-localstorage ★12](https://github.com/rkrupinski/cyclejs-animated-localstorage) - A Cycle.js driver for animating (srsly) localStorage. :star:12
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
@@ -146,7 +146,7 @@ http://oleg.fi/graafi/
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies :star:10
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:20
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js :star:2
-* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:419
+* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:420
 * [**pH200/cycle-react ★342**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API :star:354
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js. :star:2
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4

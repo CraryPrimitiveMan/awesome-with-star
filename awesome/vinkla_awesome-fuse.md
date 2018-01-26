@@ -103,4 +103,26 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools. :star:29
 - [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial). :star:42
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
-- [Motion](http
+- [Motion](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse. :star:12
+- [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
+- [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
+- [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse. :star:5
+- [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse. :star:7
+
+## Plugins
+
+- [Alfred Workflow](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred. :star:1
+- [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse. :star:28
+- [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO. :star:3
+- [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:4
+- [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse. :star:21
+- [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code. :star:42
+- [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
+- [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel. :star:2
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
+

@@ -18,23 +18,23 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:359
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:360
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2690
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2696
 * [Fundle](https://github.com/tuvistavie/fundle) :star:163
 * [Fresco](https://github.com/masa0x80/fresco) :star:6
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3027
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3032
 
 ## Plugins
 
 * [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:680
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
-* [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:209
-* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:232
-* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:101
+* [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
+* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:233
+* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:102
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57

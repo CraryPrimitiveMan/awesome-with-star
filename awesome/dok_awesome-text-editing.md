@@ -4,7 +4,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8326
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8331
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3761
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
