@@ -103,10 +103,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2722
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2721
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:838
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:839
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -198,7 +198,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:313
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:754
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:755
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
@@ -232,7 +232,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:550
   HTTP request arguments, with built-in support for popular web frameworks.
-* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:282
+* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:283
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:53
   API framework sitting on top of Pyramid and ElasticSearch
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1389
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1392
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

@@ -23,17 +23,17 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2696
-* [Fundle](https://github.com/tuvistavie/fundle) :star:163
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2700
+* [Fundle](https://github.com/tuvistavie/fundle) :star:164
 * [Fresco](https://github.com/masa0x80/fresco) :star:6
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3032
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3038
 
 ## Plugins
 
 * [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:680
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
-* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:233
+* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:234
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:102
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
@@ -50,7 +50,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:409
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:410
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:42
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:198

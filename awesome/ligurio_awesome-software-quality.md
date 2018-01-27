@@ -99,7 +99,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:171
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:172
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -358,17 +358,17 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1489
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1490
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:921
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2348
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:922
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2360
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:391
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:133
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:48
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:298
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:100
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:102
 
 ### License
 

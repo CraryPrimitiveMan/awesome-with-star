@@ -403,8 +403,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. :star:143
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
- * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) :star:3390
- * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS :star:216
+ * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) :star:3391
+ * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS :star:219
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework :star:322
  * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) :star:876
@@ -416,7 +416,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
-* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  :star:151
+* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  :star:154
 
 Quick Start
 
@@ -504,14 +504,14 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:4732
+ - [lists](https://github.com/jnv/lists) :star:4734
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1487
- - [awesome-python](https://github.com/vinta/awesome-python) :star:44428
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11466
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:44483
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11481
  - [awesome-r](https://github.com/qinwf/awesome-R) :star:2679
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:375
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:17904
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:17910
 
 
