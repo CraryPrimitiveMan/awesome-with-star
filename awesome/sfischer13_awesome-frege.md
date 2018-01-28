@@ -57,7 +57,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:2953
+- [Frege](https://github.com/Frege/frege) - Official website. :star:2954
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps

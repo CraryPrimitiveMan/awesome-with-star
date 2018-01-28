@@ -160,7 +160,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
 - [Sprout Import](https://sprout.barrelstrengthdesign.com/craft-plugins/import) - Import, migrate, seed, and weed content and settings into Craft CMS, Craft Commerce, the Sprout Plugin Suite, and add your own custom integrations.
 - [Sprout Reports](https://sprout.barrelstrengthdesign.com/craft-plugins/reports) - Customize, save, and run the reports you need to manage your business. Export all of your website data and custom reports in CSV format.
-- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:170
+- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:171
 
 
 ### Forms
@@ -278,7 +278,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:72
-- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:101
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:102
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:53
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:92

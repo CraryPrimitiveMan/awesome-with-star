@@ -58,7 +58,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ### Utilities
 
-- [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:210
+- [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:212
 - [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4019
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF :star:895
 - [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:528
@@ -109,10 +109,10 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Java
 
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5695
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5698
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable :star:220
 - [GifView](https://github.com/RoiSoleil/GifView) - android library to deal with GIF :star:78
-- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations :star:451
+- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations :star:452
 - [GifImageView](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images :star:945
 - [Gif-animation](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF :star:109
 - [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android :star:214
@@ -121,7 +121,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### JavaScript
 
-- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM :star:2421
+- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM :star:2422
 - [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder :star:387
 - [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs :star:158
 - [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
@@ -146,7 +146,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs :star:823
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control :star:300
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF :star:422
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard :star:6379
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard :star:6380
 - [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS :star:133
 - [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView :star:1412
 - [SvGifView](https://github.com/smileEvday/SvGifView) - iOS load and display GIF :star:84
@@ -157,8 +157,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Swift
 
-- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift :star:1920
-- [SwiftGif](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support :star:773
+- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift :star:1921
+- [SwiftGif](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support :star:774
 
 ### GUI
 

@@ -32,7 +32,7 @@ Pull requests very welcome.
 * [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:178
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:356
+* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:357
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing

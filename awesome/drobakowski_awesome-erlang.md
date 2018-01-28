@@ -67,12 +67,12 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1700
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4716
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4717
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1578
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1071
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:544
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:545
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:285
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:387
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:784
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:785
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:469
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:122
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:117
@@ -145,7 +145,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [erl-rstar](https://github.com/armon/erl-rstar) - An Erlang implementation of the R*-tree spacial data structure. :star:39
-* [GeoCouch](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB. :star:472
+* [GeoCouch](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB. :star:473
 * [Teles](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data. :star:12
 
 ## Debugging
@@ -218,7 +218,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:9
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:36
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
-* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:751
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:753
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*

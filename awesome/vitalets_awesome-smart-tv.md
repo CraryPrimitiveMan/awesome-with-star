@@ -34,7 +34,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 * [samsungctl](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python). :star:136
-* [samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript). :star:6
+* [samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript). :star:5
 * [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) - Plugin for [Homebridge](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript). :star:45
 
 #### Other

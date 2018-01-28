@@ -33,7 +33,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [barely-functional](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
 * [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises. :star:44
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
-* [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. :star:59
+* [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. :star:60
 * [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
@@ -117,7 +117,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ## Programming Tools
 
-* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:382
+* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:384
 * [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1086
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.

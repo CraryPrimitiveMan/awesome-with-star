@@ -3,8 +3,8 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8717
-- [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1081
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8720
+- [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1080
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:99
 
@@ -22,7 +22,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality :star:521
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:284
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates :star:238
-- [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components :star:351
+- [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components :star:352
 - [Deferred Updates](https://github.com/mbest/knockout-deferred-updates) - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates :star:142
 - [Delegated Events](https://github.com/rniemeyer/knockout-delegatedEvents) - Simple and flexible plugin to do declarative event delegation :star:142
 - [Projections](https://github.com/profiscience/ko-projections) - Adds lodash FP chainability to observable arrays :star:4
@@ -35,7 +35,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps :star:67
 
 ## Custom Bindings
-- [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes :star:250
+- [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes :star:251
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings :star:170
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler :star:133
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout :star:90

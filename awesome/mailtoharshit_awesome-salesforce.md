@@ -117,7 +117,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive) :star:8
   * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror) :star:1
   * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) :star:6
-  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox) :star:4
+  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox) :star:5
 
 
   <b>Key Features of this library</b>

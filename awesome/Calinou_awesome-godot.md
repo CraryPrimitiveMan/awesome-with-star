@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:17
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:41
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:427
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:428
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
 
 ### 3D
@@ -59,7 +59,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:217
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:218
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:15
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:64
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:6
@@ -79,7 +79,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images :star:47
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays. :star:40
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing :star:4
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:141
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:142
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:7
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
@@ -105,8 +105,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Atom](https://atom.io/packages/lang-gdscript)
 - [Geany](https://github.com/haimat/GDScript-Geany) :star:7
 - [Gedit](https://github.com/haimat/GDScript-gedit) :star:12
-- [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:28
-- [Vim](https://github.com/quabug/vim-gdscript) :star:33
+- [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:27
+- [Vim](https://github.com/quabug/vim-gdscript) :star:34
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes

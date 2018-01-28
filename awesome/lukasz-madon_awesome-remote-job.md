@@ -150,6 +150,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
+  1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
@@ -208,6 +209,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
 
 ## Newsletters
+  1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly
   1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
@@ -382,6 +384,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Thermeon](http://thermeon.com/jobs.html) - Car rental software - 100% remote technical team
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
   1. [TimeSpot](https://timespothq.com/careers/) - Time tracking and scheduling for employees. Built with React.js, Django, Postgres. 100% remote.
+  1. [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
   1. [Toggl](https://jobs.toggl.com/)
   1. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
@@ -466,6 +469,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+  1. [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)

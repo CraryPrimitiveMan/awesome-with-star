@@ -26,7 +26,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
-- [MailTo](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups. :star:34
+- [MailTo](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups. :star:35
 - [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack. :star:221
 
 ## Developer
@@ -35,9 +35,9 @@ A curated list of Awesome Alfred Workflows.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:207
-- [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:40
+- [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:41
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:519
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1263
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1264
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:86
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:133
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -58,7 +58,7 @@ A curated list of Awesome Alfred Workflows.
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols. :star:108
 
 ## Scientific
-- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies. :star:191
+- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies. :star:192
 - [DOITools](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 - [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex. :star:47
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
@@ -71,7 +71,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
-- [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text. :star:163
+- [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text. :star:164
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text. :star:8
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 

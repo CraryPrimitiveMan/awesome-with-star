@@ -20,7 +20,7 @@ An "awesome" list of the Ionic resources
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:33065
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:33071
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -119,7 +119,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) :star:32
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud) :star:25
 * [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app) :star:7
-* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket) :star:14
+* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket) :star:15
 * [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) :star:17
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player) :star:27
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app) :star:24

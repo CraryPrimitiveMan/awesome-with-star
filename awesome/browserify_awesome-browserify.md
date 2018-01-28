@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11710
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4191
-- [Repo](https://github.com/substack/node-browserify) :star:11710
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11713
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4192
+- [Repo](https://github.com/substack/node-browserify) :star:11713
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -92,9 +92,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### CSS bundlers
 
-- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:379
+- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:381
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:251
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:388
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:389
 
 ### Transforms
 
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:840
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:842
 
 ## Contributing
 

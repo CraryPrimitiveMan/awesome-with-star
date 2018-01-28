@@ -78,7 +78,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [50 android interview questions & answers](http://career.guru99.com/50-android-interview-questions-answers/).
 * [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
-* [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions) :star:607
+* [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions) :star:608
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
 ### AngularJS
@@ -229,11 +229,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 * [Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/)
-* [123 Essential JavaScript Interview Question](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question) :star:470
+* [123 Essential JavaScript Interview Question](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question) :star:471
 * [JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
 * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
-* [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises) :star:3521
+* [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises) :star:3522
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises) :star:28
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
@@ -325,7 +325,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [11 Essential Ruby Interview Questions from top 3% developers company](http://www.toptal.com/ruby/interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
-* [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/undr/ruby-trivia) :star:19
+* [A list of questions about Ruby programming you can use to quiz yourself](https://github.com/undr/ruby-trivia) :star:20
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 * [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
@@ -431,7 +431,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Some basic Linux questions from ComputerNetworkingNotes.com](http://computernetworkingnotes.com/rhce-interview-questions/linux-interview-questions-answers.html)
 * [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
-* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:2858
+* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:2860
 
 ### Windows
 
@@ -452,12 +452,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Coding exercises
 
 * [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview) :star:363
-* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:11791
+* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:11799
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions) :star:72
 
 ## Comprehensive lists
 
-* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:31909
+* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:31924
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions) :star:64
@@ -467,8 +467,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
-* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:19281
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:28935
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:19298
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:28964
 
 ## Data structures
 

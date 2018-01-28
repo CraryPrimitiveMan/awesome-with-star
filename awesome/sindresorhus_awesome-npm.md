@@ -75,11 +75,11 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2804
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2807
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:712
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:98
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:63
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3602
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3609
 
 ### Registry
 
@@ -95,20 +95,20 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:15
 - [nrm](https://github.com/Pana/nrm) - Registry manager. :star:918
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:291
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2088
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2093
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:130
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package. :star:91
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:792
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3873
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3877
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively. :star:101
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool. :star:783
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1346
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:509
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:510
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file. :star:41
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:63
+- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:64
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata. :star:83
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json. :star:67
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones. :star:45
@@ -118,7 +118,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search. :star:3
 - [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once. :star:46
 - [john](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort. :star:43
-- [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks. :star:404
+- [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks. :star:405
 - [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line. :star:8
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline. :star:761
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:57
@@ -128,9 +128,9 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29886
-- [npm](https://github.com/npm/npm) - The official client. :star:15227
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3096
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:29901
+- [npm](https://github.com/npm/npm) - The official client. :star:15230
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3102
 
 
 ## Tips

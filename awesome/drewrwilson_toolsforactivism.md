@@ -47,13 +47,13 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  
  ## Browsers:
 
- * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:737
+ * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:738
 
 ## Projects to keep an eye on (ie projects in development)
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
- * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches :star:27
+ * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches :star:28
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign :star:8
 
