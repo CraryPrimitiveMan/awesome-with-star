@@ -112,9 +112,9 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2140
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2141
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:235
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2129
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2141
 
 ### System
 
@@ -127,7 +127,7 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:416
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:417
 
 ## Extensions
 
@@ -174,7 +174,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:422
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:424
 
 ### Adwaita-based
 
@@ -185,7 +185,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:433
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:435
 
 ### Flat
 
@@ -207,18 +207,18 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1277
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1279
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:88
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:739
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:740
 
 ### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:286
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:287
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme. :star:75
 
 ### Skeumorphic

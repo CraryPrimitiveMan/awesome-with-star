@@ -77,7 +77,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Auto Tile Layer](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format :star:14
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images :star:47
-- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays. :star:40
+- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays. :star:41
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing :star:4
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:142
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4

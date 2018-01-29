@@ -24,38 +24,38 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:17439
+- [Github](https://github.com/developit/preact) :star:17454
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2793
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:2917
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2796
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:2922
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:7
 
 ### Boilerplates
-- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:715
+- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:716
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2. :star:55
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact. :star:342
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript. :star:17
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example. :star:22
-- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup. :star:459
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup. :star:460
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel.
 
 ### Routing
-- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:375
+- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:376
 
 ### Components
-- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:318
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:319
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact. :star:28
-- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact. :star:36
+- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact. :star:37
 - [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - Universal rendering.
 - [Preact Markup](https://git.io/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - Simple HTML editor component.
 - [Preact Token Input](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags. :star:26
-- [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)). :star:119
+- [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)). :star:120
 - [Preact Cycle](https://git.io/preact-cycle) - Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates). :star:14
@@ -80,12 +80,12 @@
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact. :star:5
 
 ### Libraries
-- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1456
+- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1460
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm. :star:34
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
-- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:119
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:120
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact. :star:6
 
 ### Articles
@@ -105,9 +105,9 @@
 - [Hueify](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights. :star:64
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:86975
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12113
-- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:3932
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:87080
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12122
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:3940
 
 ### Tips
 Contribute some ;)

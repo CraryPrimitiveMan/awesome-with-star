@@ -26,13 +26,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 * [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
 * [JavaScript with Promises](http://shop.oreilly.com/product/0636920032151.do) - from O'Reilly. Short and to-the-point. Uses native and bluebird.
-* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) - An interactive [nodeschool](https://nodeschool.io/) workshop :star:526
+* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) - An interactive [nodeschool](https://nodeschool.io/) workshop :star:527
 * [ES6 Kata Promises](http://es6katas.org/) - Promises Katas : [Basics](http://tddbin.com/#?kata=es6/language/promise/basics)
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 * [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - An FAQ styled tutorial for beginners.
 
 ### Deep Dive
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1323
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1324
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - Common misuses and how to avoid them.
@@ -55,18 +55,18 @@ These implement no more or less than the es6 spec. They make great polyfills and
 
 * [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation. :star:118
 * [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:592
-* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5381
+* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5389
 * [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:605
 
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16184
-* [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec. :star:208
+* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16191
+* [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec. :star:216
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) - Lightweight with a few extras. Compatible down to IE6!
-* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:13969
-* [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1756
-* [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3305
+* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:13972
+* [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1758
+* [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3306
 
 
 ### Fallbacks
@@ -99,7 +99,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-settle](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason :star:23
 * [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions :star:29
 * [p-whilst](https://github.com/sindresorhus/p-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise :star:30
-* [p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions :star:39
+* [p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions :star:40
 * [p-debounce](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions :star:32
 * [p-retry](https://github.com/sindresorhus/p-retry) - Retry a promise-returning or async function :star:79
 * [p-wait-for](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true :star:30
@@ -119,8 +119,8 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [promise-method](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one. :star:2
 * [is-promise](https://github.com/then/is-promise) - Determine if something looks like a Promise. :star:55
 * [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
-* [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`. :star:1624
-* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9242
+* [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`. :star:1625
+* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9249
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise. :star:2

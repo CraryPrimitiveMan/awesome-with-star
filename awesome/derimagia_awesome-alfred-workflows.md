@@ -34,12 +34,12 @@ A curated list of Awesome Alfred Workflows.
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on. :star:62
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:208
+- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:210
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:41
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:519
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1266
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1268
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:86
-- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:133
+- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:134
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons). :star:14
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io). :star:204
@@ -94,7 +94,7 @@ A curated list of Awesome Alfred Workflows.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search :star:36
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
-- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:55
+- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:56
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa. :star:500
 
@@ -106,8 +106,8 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1015
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:790
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1016
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:791
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:58
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter. :star:14
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.

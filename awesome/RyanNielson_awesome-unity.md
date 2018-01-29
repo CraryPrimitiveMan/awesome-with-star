@@ -40,7 +40,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
-* [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games. :star:254
+* [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games. :star:255
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps. :star:53
@@ -77,7 +77,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:570
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:41
-* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:519
+* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:520
 * [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:934
 
 ## Modeling
@@ -122,12 +122,12 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:134
+* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:135
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2157
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2158
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1000
 
 ## Visual Scripting

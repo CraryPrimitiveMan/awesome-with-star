@@ -440,7 +440,7 @@ See [Cliki](http://www.cliki.net/Web) for more.
 
 HTTP clients
 ------------
-* [Dexador](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200]. :star:90
+* [Dexador](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200]. :star:91
 
 HTTP Servers
 ------------
@@ -626,7 +626,7 @@ Scripting
 * [cl-ansi-term](https://github.com/mrkkrp/cl-ansi-term) - print :star:7
   colorized text, horizontal lines, progress bars, (un)ordered lists
   and tables on ANSI-compliant terminals. [GPL3][2].
-* [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - an :star:52
+* [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - an :star:53
   interface to `libcurses` in Common Lisp. It provides both a raw,
   low-level interface to libcurses via CFFI, and a more higher-level
   lispier interface. [MIT][200].
@@ -847,7 +847,7 @@ This contains anything which doesn't fit into another category.
 * [iolib](https://github.com/sionescu/iolib) - I/O library. [Expat][14]. :star:107
 * [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified. :star:22
 * [named-readtables](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15]. :star:15
-* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1170
+* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1171
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39]. :star:4
 * [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].

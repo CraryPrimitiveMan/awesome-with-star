@@ -55,11 +55,11 @@ Apps that help you manage your extensions.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it. :star:17
 - [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files. :star:11
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper. :star:10
-- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store. :star:226
+- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store. :star:229
 
 ## Testing
 
-- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:223
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:224
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines. :star:87
 
 ## Boilerplates
@@ -75,8 +75,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:302
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:182
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3272
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1027
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3274
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1028
 
 ## License
 

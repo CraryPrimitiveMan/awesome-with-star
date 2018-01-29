@@ -384,16 +384,16 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:111
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1263
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1264
 
 
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:562
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:563
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1263
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1264
 
 
 ### Concept Map and Diagrams
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38623
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4308
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38654
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4310
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1490
-* [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
+* [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:695
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5242
-* [Shower](https://github.com/shower/shower) :star:3858
+* [Shower](https://github.com/shower/shower) :star:3874
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1207
 * [Slides](https://github.com/briancavalier/slides) :star:453

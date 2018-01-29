@@ -157,9 +157,9 @@
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1738
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:657
-* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:339
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1739
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:659
+* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:340
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:151
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
@@ -187,7 +187,7 @@
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:252
 * [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:172
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:220
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:221
 
  
 ## Lexers, Parsers, Parser Generators
@@ -202,7 +202,7 @@
 
 ## Preprocesors
 
-* [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright. :star:445
+* [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright. :star:446
 
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D. :star:778
@@ -229,7 +229,7 @@
 * [diamond](https://github.com/DiamondMVC/Diamond/) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
 *RPC library*
-* [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework. :star:23
+* [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework. :star:24
 * [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now. :star:22
 
 ## Data serialization
@@ -271,7 +271,7 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2140
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2141
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:66
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:8
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
@@ -290,7 +290,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:86
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:27
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4837
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4841
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -298,8 +298,8 @@
 
 *Operating Systems written in D*
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:363
-* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:68
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:364
+* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:69
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D :star:304
 
 ## Game Bindings
@@ -355,7 +355,7 @@
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:897
+* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:899
 
 ## Parallel computing
 
@@ -367,9 +367,9 @@
 *Scientific programming*
 
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language :star:76
-* [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D.  :star:15
-* [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others. :star:159
-* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library. :star:159
+* [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D.  :star:16
+* [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others. :star:161
+* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library. :star:161
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators. :star:18
 * [decimals](https://github.com/rumbu13/decimal) - Decimal library for D. :star:8
 
@@ -398,7 +398,7 @@
 ## Testing
 
 - [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit :star:55
-- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework :star:77
+- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework :star:78
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.

@@ -19,8 +19,8 @@
 ### Official resources
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
-- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:210
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5026
+- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:211
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5028
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,9 +28,9 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:406
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:407
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:831
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:832
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:345
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
@@ -39,7 +39,7 @@ under the hood:
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:22
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:25
-- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:19
+- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:20
 
 ### Demos
 
@@ -114,10 +114,10 @@ Other CLI templates
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:28
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:6
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages. :star:30
-- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:360
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:361
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:2
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:412
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:413
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:4
 
 

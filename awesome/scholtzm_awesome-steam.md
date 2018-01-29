@@ -35,7 +35,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:859
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:860
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:27
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:199
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:95
@@ -56,7 +56,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types. :star:5
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator. :star:24
-- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:220
+- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:221
 - [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:357
 
 #### Community & Store Automation
@@ -178,7 +178,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:705
+- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:706
 
 ### Discussion Boards
 

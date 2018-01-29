@@ -34,8 +34,8 @@
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes. :star:214
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:498
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1025
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1957
-* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:394
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1962
+* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:395
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:164
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.  :star:40
 
@@ -97,7 +97,7 @@
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators. :star:16
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS. :star:101
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content. :star:93
-* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML. :star:198
+* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML. :star:197
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content. :star:40
 * [Draft.js Exporter (Go)](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML. :star:14
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model. :star:175

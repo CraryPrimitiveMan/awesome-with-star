@@ -5,7 +5,7 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:844
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:846
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:33
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
@@ -130,7 +130,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer. :star:2
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:184
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:185
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4

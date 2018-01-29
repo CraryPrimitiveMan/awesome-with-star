@@ -157,7 +157,7 @@ record, convert and stream audio and video.*
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:116
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:245
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:246
 
 ## Scripts
 

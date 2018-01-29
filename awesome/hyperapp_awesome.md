@@ -36,6 +36,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (Japanese)
 * [Pure programming with Hyperapp - Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app)
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
+* [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
 
 ## Boilerplates
 
@@ -48,18 +49,18 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Utilities
 
-* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:38
-* [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:21
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:105
+* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:39
+* [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:22
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:108
 * [frenzzy/hyperapp-render](https://github.com/frenzzy/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:8
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:24
-* [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:13
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:38
+* [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:14
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:39
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:6
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:5
 * [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:10
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:151
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:152
 
 ## Testing
 

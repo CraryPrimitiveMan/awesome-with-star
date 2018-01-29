@@ -43,16 +43,16 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### APIs
 - [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (http://pokeapi.co/).
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python. :star:17
-- [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo. :star:1446
-- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library. :star:917
+- [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo. :star:1445
+- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library. :star:918
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#. :star:415
-- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1068
-- [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON. :star:198
+- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1066
+- [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON. :star:199
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON. :star:46
 
 #### Apps
-- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1358
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2102
+- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1361
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2103
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service. :star:419
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator. :star:231
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle. :star:77
@@ -61,13 +61,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon. :star:1
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack. :star:326
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon. :star:42
-- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon. :star:85
+- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon. :star:86
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community. :star:3649
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python. :star:146
 - [PokeBot](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine. :star:16
-- [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO. :star:600
+- [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO. :star:599
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot. :star:17
-- [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot. :star:472
+- [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot. :star:471
 
 #### Miscellaneous
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon. :star:20
@@ -75,7 +75,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area. :star:2462
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal. :star:929
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon. :star:90
-- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1418
+- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1420
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal. :star:152
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy. :star:472
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor. :star:617
@@ -86,7 +86,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats. :star:91
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device. :star:16
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions. :star:37
-- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2687
+- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2688
 
 ## Resources & Others
 #### Communities
@@ -106,8 +106,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8118
-- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1896
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8113
+- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1894
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map. :star:149
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you. :star:1134
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.

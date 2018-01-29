@@ -56,9 +56,9 @@
 * [Badge Poser](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator :star:5
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen :star:45
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:134
-* [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:599
+* [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:600
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:189
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7029
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7032
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:81
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:114

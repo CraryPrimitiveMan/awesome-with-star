@@ -165,7 +165,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:24
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:8
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
-* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:58
+* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:59
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library. :star:3
 * [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects. :star:34
 * [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager. :star:15
@@ -201,7 +201,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts. :star:3
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:301
+* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:302
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization. :star:64
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
@@ -262,7 +262,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Sound
 
 * [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:146
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:163
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:59
 * [SeiON](https://github.com/cardin/SeiON) - Sound Management Library. :star:10
@@ -277,7 +277,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:270
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:271
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
@@ -425,7 +425,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Networking
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:377
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime. :star:379
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) - Bulk asset loading library for Actionscript. :star:282
 * [AssetLoader](https://github.com/Matan/AssetLoader) - Multi-file/asset loader for AS3 built on AS3Signals. :star:125
 
@@ -438,7 +438,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:13
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:45
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:143
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:321
 
 #### Servers
 
@@ -564,7 +564,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:414
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:415
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:58
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4
@@ -620,7 +620,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller. :star:22
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK. :star:39
 * [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse. :star:39
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:321
 
 #### System ANE
 * [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:6

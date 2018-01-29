@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17791
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20608
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17803
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20615
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -109,7 +109,7 @@ Additional lists you might find useful:
 - [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing. :star:284
 - [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) library. :star:21
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -  Allow groups of users or single users to view a specific page. :star:14
-- [Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more. :star:421
+- [Users plugin](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Facebook/Twitter login, RBAC, API and more. :star:423
 
 ## Caching
 *Plugins for caching data.*
@@ -166,7 +166,7 @@ Additional lists you might find useful:
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem. :star:28
 - [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:520
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior. :star:19
-- [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:102
+- [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:103
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file. :star:26
 
 ## Filtering and Validation
@@ -204,12 +204,12 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:73
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:449
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:771
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:450
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:772
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:53
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2558
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2559
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -242,7 +242,7 @@ Additional lists you might find useful:
 - [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application. :star:5
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - Allows to use hashids to not expose the database ids to the user. :star:31
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
-- [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration. :star:5
+- [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration. :star:6
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application. :star:30
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more. :star:284
@@ -279,8 +279,8 @@ Additional lists you might find useful:
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables. :star:16
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP. :star:53
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models. :star:10
-- [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel. :star:7
-- [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin. :star:2
+- [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel. :star:8
+- [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin. :star:3
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables. :star:21
 - [Serializeable Data Types plugin](https://github.com/burzum/cakephp-serialize-data-types) - Serialize DB content as JSON or using phps serializing functions. :star:2
 - [Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices. :star:59
@@ -405,7 +405,7 @@ Additional lists you might find useful:
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:15
 - [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:37
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+. :star:39
-- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:109
+- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:110
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE. :star:3
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.

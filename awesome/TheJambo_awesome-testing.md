@@ -24,7 +24,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
-- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues. :star:3456
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues. :star:3460
 - [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - View and Edit Cookies easily using the developer tools pane.
 
 ### Make your life easier
@@ -62,17 +62,17 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:6711
-- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration. :star:22598
+- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:6715
+- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration. :star:22603
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause. :star:416
 
 ### Useful References
-- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:76979
+- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:77068
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation :star:405
-- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:2951
-- [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want. :star:297
-- [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful. :star:2469
-- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:991
+- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:2953
+- [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want. :star:298
+- [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful. :star:2472
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:994
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.

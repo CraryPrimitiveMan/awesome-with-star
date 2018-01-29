@@ -113,7 +113,7 @@
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer. :star:19
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer. :star:6
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:10
-* [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:16
+* [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:17
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code. :star:223
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:34
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype. :star:26
@@ -133,7 +133,7 @@
 * [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS. :star:47
 * [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders. :star:20
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components. :star:93
-* [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other. :star:21
+* [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other. :star:22
 * [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes. :star:28
 * [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease. :star:82
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them. :star:59

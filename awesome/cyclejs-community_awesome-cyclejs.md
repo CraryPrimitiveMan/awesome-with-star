@@ -70,7 +70,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:20
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2776
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2777
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
@@ -131,7 +131,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js :star:3
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js :star:5
-* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:636
+* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:638
 * [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync :star:20
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server :star:1
@@ -146,13 +146,13 @@ http://oleg.fi/graafi/
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies :star:10
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:20
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js :star:2
-* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:420
+* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:421
 * [**pH200/cycle-react ★342**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API :star:354
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js. :star:2
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4
 * [SuperManitu/cyclejs-sortable ★15](https://github.com/cyclejs-community/cyclejs-sortable) - Make everything sortable via drag and drop in only one line of code! :star:16
 * [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
-* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:257
+* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:258
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage :star:5
 
 ### Boilerplates
