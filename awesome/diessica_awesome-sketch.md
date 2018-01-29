@@ -71,11 +71,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4133
 - [RenameIt](https://github.com/rodi01/RenameIt) :star:975
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5334
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5336
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1091
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
-- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1745
+- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1746
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)

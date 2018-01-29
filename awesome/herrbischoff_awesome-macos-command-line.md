@@ -1,11 +1,11 @@
 # Information comes from [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
-<h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
+<h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-macos-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
 
 > A curated list of shell commands and tools specific to OS X.
 >
 > _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-osx-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-osx-command-line)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-macos-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-macos-command-line)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
@@ -37,6 +37,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
 - [Dock](#dock)
 - [Documents](#documents)
 - [Files, Disks and Volumes](#files-disks-and-volumes)
+    - [APFS](#apfs)
     - [Disk Images](#disk-images)
 - [Finder](#finder)
     - [Files and Folders](#files-and-folders)
@@ -605,6 +606,41 @@ diskutil list
 A continuous stream of file system access info.
 ```bash
 sudo fs_usage
+```
+### APFS
+
+Available since High Sierra. There is no central utility and usage is inconsistent as most functionality is rolled into `tmutil`.
+
+#### Convert Volume from HFS+ to APFS
+```bash
+/System/Library/Filesystems/apfs.fs/Contents/Resources/hfs_convert /path/to/file/system
+```
+
+#### Create New APFS Filesystem
+```bash
+/System/Library/Filesystems/apfs.fs/Contents/Resources/newfs_apfs /path/to/device
+```
+
+#### Create Snapshot
+```bash
+tmutil localsnapshot
+```
+
+#### Delete Snapshot
+```bash
+tmutil deletelocalsnapshots com.apple.TimeMachine.2018-01-26-044042
+````
+
+#### List Snapshots
+```bash
+tmutil listlocalsnapshots /
+```
+
+#### Mount Snapshot
+Snapshots are read-only.
+```bash
+mkdir ~/mnt
+/System/Library/Filesystems/apfs.fs/Contents/Resources/mount_apfs -s com.apple.TimeMachine.2018-01-26-044042 / ~/mnt
 ```
 
 ### Disk Images
@@ -1823,7 +1859,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7383
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:7389
 
 #### fish
 Install the latest version and set as current user's default shell:
@@ -1836,7 +1872,7 @@ chsh -s $(brew --prefix)/bin/fish
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](https://fisherman.github.io/) - A blazing fast, modern plugin manager for Fish.
-- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:3042
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:3048
 - [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:152
 
 #### Zsh
@@ -1849,7 +1885,7 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8501
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:8502
 - [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:850
 
 ### Terminal Fonts
@@ -1862,7 +1898,7 @@ chsh -s $(brew --prefix)/bin/zsh
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
 - [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:1826
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10629
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:10639
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 

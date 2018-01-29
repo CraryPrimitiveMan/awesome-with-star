@@ -23,7 +23,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:28
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:1
 
 
 ## Table of Contents  
@@ -73,7 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:134
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:135
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 

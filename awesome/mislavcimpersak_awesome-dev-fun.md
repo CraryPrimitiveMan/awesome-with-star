@@ -34,7 +34,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Haskell
-- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:10
+- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:11
 
 
 ## JavaScript
@@ -43,7 +43,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4441
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3750
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2693
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2692
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:173
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:43
@@ -62,7 +62,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Python
 
-- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools. :star:108
+- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools. :star:107
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
 
 
@@ -100,11 +100,12 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:5
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2560
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1349
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3937
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1350
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3938
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:981
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2321
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2352
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3520
 
 
 ## Miscellaneous

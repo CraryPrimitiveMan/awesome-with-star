@@ -38,7 +38,7 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:477
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:197
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:196
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:372
 
 
@@ -112,15 +112,17 @@ A curated list of awesome HBase projects and resources.
 * [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
 * [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading. :star:9
 * [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around Cascading.HBase for use in Cascalog. :star:20
+* [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch.
 * [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
 * [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase. :star:25
 * [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector.
+* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase.
 * [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase.
 * [HAWQ](http://pivotalhd-210.docs.pivotal.io/tutorial/getting-started/hawq/pxf-hbase-external-tables.html) - HAWQ PXF external tables on HBase.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
-* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:193
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:194
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 

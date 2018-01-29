@@ -173,7 +173,7 @@ Neo4j graph database.
 - [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - A Java DSL for the Cypher Query Language and an optional Query DSL mode. :star:54
 - [Liquigraph](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works. :star:73
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases. :star:1264
-- [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j. :star:486
+- [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j. :star:487
 - [Reco4PHP](https://github.com/graphaware/reco4php) - Neo4j based Recommendation Engine Framework for PHP. :star:84
 
 # Editors
@@ -184,7 +184,7 @@ Neo4j graph database.
 # Shell
 
 - [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:205
-- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:229
+- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:230
 
 # Visualization
 

@@ -53,7 +53,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows. :star:278
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
-* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve. :star:1321
+* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve. :star:1322
 
 
 ## GLSL Editors
@@ -74,9 +74,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
-* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:156
+* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:157
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1605
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1606
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
@@ -90,7 +90,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Profile loaders for OpenGL*
 
-* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:331
+* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:332
 * [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs. :star:603
 * [glbindify](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX. :star:3
 * [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety. :star:478
@@ -148,12 +148,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:76917
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:4758
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:76978
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:4774
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:198
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:704
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4594
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1091
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:705
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4595
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1094
 
 
 ## License

@@ -99,7 +99,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:174
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:175
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -358,10 +358,10 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1497
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1500
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:14
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:922
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2367
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:925
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2370
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:391
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:135
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:48

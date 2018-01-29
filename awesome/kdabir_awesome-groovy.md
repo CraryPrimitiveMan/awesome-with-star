@@ -43,14 +43,14 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:460
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1652
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1651
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:43
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:182
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:65
-* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:136
+* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:137
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:72
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework :star:5
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:37

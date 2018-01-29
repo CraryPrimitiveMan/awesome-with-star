@@ -54,7 +54,7 @@
 ### Audio
 
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon] :star:3686
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon] :star:3687
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 
@@ -89,7 +89,7 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] :star:2052
-- [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon] :star:269
+- [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon] :star:270
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 - [GitX-dev](https://rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
@@ -127,9 +127,9 @@
 
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
-- [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon] :star:3866
+- [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon] :star:3867
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-- [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) :star:11533
+- [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) :star:11534
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
 
 
@@ -143,7 +143,7 @@
 
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
-- [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder. :star:10366
+- [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder. :star:10371
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
@@ -169,7 +169,7 @@
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
-- [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) :star:2193
+- [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) :star:2192
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
 
 
@@ -248,14 +248,14 @@
 - [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ![Freeware][Freeware Icon] :star:358
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake) ![Freeware][Freeware Icon] :star:2283
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake) ![Freeware][Freeware Icon] :star:2284
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/files/) ![Freeware][Freeware Icon]
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. ![Freeware][Freeware Icon]
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services. ![Freeware][Freeware Icon]
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon] :star:6744
+- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon] :star:6747
 - [MacPass](http://mstarke.github.io/MacPass/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon] :star:63
@@ -272,7 +272,7 @@
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
 - [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] :star:4029
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] :star:4031
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon] :star:189
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
@@ -288,8 +288,8 @@
 
 ### Video
 
-- [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) :star:2714
-- [mpv](https://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) :star:7211
+- [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) :star:2717
+- [mpv](https://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) :star:7220
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 - [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
@@ -301,13 +301,13 @@
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm) ![Freeware][Freeware Icon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
-- [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] :star:1250
+- [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] :star:1252
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
 
 ### Others
 
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial) ![Freeware][Freeware Icon] :star:10508
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial) ![Freeware][Freeware Icon] :star:10506
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/) ![Freeware][Freeware Icon]
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ![Freeware][Freeware Icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox) ![Freeware][Freeware Icon] :star:620
@@ -323,11 +323,11 @@
 
 ## Command Line Utilities
 
-- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things. :star:18559
-- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS. :star:6470
-- [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers. :star:7018
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things. :star:18562
+- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS. :star:6473
+- [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers. :star:7022
 - [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
-- [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon] :star:4002
+- [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon] :star:4004
 
 ## macOS Utilities
 
@@ -335,7 +335,7 @@
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
 - [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon] :star:312
-- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon] :star:9191
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon] :star:9203
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
@@ -377,11 +377,11 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
-* [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger) :star:39
+* [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger) :star:38
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS) :star:833
-* [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) :star:12687
+* [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) :star:12692
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon] :star:1444
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon] :star:1912
+* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon] :star:1913
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
 - [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]

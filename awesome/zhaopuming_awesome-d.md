@@ -209,7 +209,7 @@
 
 
 ## Containers
-* [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC  :star:87
+* [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC  :star:89
 - [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects :star:34
 - [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct :star:7
@@ -258,7 +258,7 @@
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
-* [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite. :star:17
+* [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite. :star:18
 * [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements. :star:2
 * [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite. :star:13
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:900
@@ -290,7 +290,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:86
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:27
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4835
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4837
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -368,8 +368,8 @@
 
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language :star:76
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D.  :star:15
-* [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others. :star:158
-* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library. :star:158
+* [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others. :star:159
+* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library. :star:159
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators. :star:18
 * [decimals](https://github.com/rumbu13/decimal) - Decimal library for D. :star:8
 

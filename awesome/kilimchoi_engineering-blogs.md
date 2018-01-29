@@ -45,7 +45,6 @@
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
-* Asos http://techblog.asos.com/
 * Atlassian https://developer.atlassian.com/blog/
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
@@ -160,6 +159,7 @@
 * GameChanger http://tech.gc.com/
 * Geoblink https://tech.geoblink.com
 * Gilt http://tech.gilt.com
+* GIPHY https://engineering.giphy.com/
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
@@ -172,6 +172,7 @@
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
 * Grammarly https://tech.grammarly.com/blog/index.html
+* Graphcool https://blog.graph.cool/
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
@@ -211,6 +212,7 @@
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
+* Intuit https://quickbooks-engineering.intuit.com/
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
@@ -393,6 +395,7 @@
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
 * Upday https://upday.github.io/
+* UpGrad https://engineering.upgrad.com
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
@@ -752,6 +755,7 @@
 
 #### K technologies
 * Klipse http://blog.klipse.tech/
+* Kotlin https://blog.jetbrains.com/kotlin/
 
 #### L technologies
 * Laravel https://laravel-news.com/blog/
@@ -765,6 +769,7 @@
 #### R technologies
 * React https://facebook.github.io/react/blog/
 * React Native http://facebook.github.io/react-native/blog/
+* Red Programming Language http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
 * Rust https://blog.rust-lang.org/
 

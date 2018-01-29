@@ -97,7 +97,7 @@
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1104
-- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:105
+- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:66
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.

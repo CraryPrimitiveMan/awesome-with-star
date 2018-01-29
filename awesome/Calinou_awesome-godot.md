@@ -15,7 +15,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them. :star:12
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM :star:10
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:34
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam :star:104
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam :star:103
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:80
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:15
@@ -60,7 +60,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Stuff integrated into Godot core (C++).*
 
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:218
-- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:15
+- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:16
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:64
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:6
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:8
@@ -72,7 +72,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:59
+- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:60
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets)
 - [Auto Tile Layer](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format :star:14
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.

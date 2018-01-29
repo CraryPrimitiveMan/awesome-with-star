@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11713
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11711
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4192
-- [Repo](https://github.com/substack/node-browserify) :star:11713
+- [Repo](https://github.com/substack/node-browserify) :star:11711
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -83,7 +83,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Plugins
 
-- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify. :star:364
+- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify. :star:363
 
 ### Watchers
 
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:842
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:843
 
 ## Contributing
 

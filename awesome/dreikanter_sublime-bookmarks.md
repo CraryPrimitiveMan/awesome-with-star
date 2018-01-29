@@ -174,7 +174,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:547
+- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:546
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon) :star:5
 - [By Tomas Sykora](https://github.com/syky27/Sublime-Text-Icon) :star:11
@@ -184,7 +184,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12118
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12123
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
