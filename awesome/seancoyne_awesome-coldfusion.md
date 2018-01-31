@@ -56,7 +56,7 @@ Pull requests very welcome.
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
 * [Mura](https://github.com/blueriver/MuraCMS) :star:237
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:37
-* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:118
+* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:119
 
 ## NoSQL
 
@@ -74,7 +74,7 @@ Pull requests very welcome.
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
-* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:77
+* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:78
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:140
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11

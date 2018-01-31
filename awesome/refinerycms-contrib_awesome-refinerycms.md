@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:54
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1352
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1353
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:7
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -48,7 +48,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ### Backoffice extensions
 * [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:111
-* [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:24
+* [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:25
 
 ### Developer tools
 * [Forms](https://github.com/refinery/refinerycms-forms) :star:1

@@ -29,10 +29,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere. :star:1842
-* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9323
+* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9330
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
-* [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1656
-* [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps. :star:2410
+* [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1657
+* [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps. :star:2411
 * [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library. :star:2
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
@@ -41,7 +41,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
-* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8705
+* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8710
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](http://home.gna.org/lltag/) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
@@ -80,8 +80,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager. :star:2
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond. :star:10
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users. :star:45
-* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2216
-* [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX. :star:30
+* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2225
+* [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX. :star:31
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
@@ -102,7 +102,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Faust](http://faust.grame.fr/about/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. :star:155
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
-* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone. :star:330
+* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone. :star:329
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.

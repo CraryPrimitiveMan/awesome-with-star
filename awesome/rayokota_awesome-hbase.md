@@ -37,9 +37,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:477
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:479
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:197
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:372
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:371
 
 
 ### Cloud
@@ -101,7 +101,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Transactions
 
-* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:142
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:141
 * [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:289
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
 * [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:173

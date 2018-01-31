@@ -604,7 +604,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:86
+  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:88
 
 ## Vagrant Related
 

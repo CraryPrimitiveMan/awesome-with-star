@@ -23,10 +23,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2705
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2708
 * [Fundle](https://github.com/tuvistavie/fundle) :star:165
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3054
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3060
 
 ## Plugins
 
@@ -34,8 +34,8 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:234
-* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:102
-* [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:18
+* [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:103
+* [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:19
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57
 * [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:148
@@ -52,7 +52,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 * [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:415
 * [Joker](https://github.com/fisherman/joker) :star:39
-* [Metro](https://github.com/fisherman/metro) :star:42
+* [Metro](https://github.com/fisherman/metro) :star:43
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:198
 * [Sektor](https://github.com/fisherman/sektor) :star:52
 * [Shellder](https://github.com/simnalamburt/shellder) :star:150
