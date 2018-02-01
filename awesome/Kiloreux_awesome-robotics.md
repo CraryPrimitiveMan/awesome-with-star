@@ -43,6 +43,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
+* [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084) [[pdf](https://arxiv.org/pdf/1709.00084)]
 
 
 ### Software and Libraries ###
@@ -99,6 +100,10 @@ Open-source software for robot simulation, integrated with OpenAI Gym.
 
 [**ViSP**](http://visp.inria.fr/)
 Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+
+[**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
+Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
+
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
@@ -179,10 +184,10 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3393
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:4823
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:29864
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7486
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5930
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:4838
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:29915
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7510
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5935
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:57
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:157

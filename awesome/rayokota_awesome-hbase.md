@@ -38,8 +38,8 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:479
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:197
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:371
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:198
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:372
 
 
 ### Cloud

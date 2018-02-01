@@ -77,6 +77,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
+* [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
 
 #### Standards In software Testing
 
@@ -99,7 +100,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:177
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:178
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -322,7 +323,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Learn TLA](https://learntla.com/introduction/)
 - [test-anything](https://github.com/finnp/test-anything) :star:118
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:498
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:499
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -358,15 +359,15 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1502
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1503
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:15
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:935
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2377
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2386
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:391
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:135
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:50
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:138
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:3
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:303
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:108
