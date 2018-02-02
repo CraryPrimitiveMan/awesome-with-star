@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11726
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11732
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4194
-- [Repo](https://github.com/substack/node-browserify) :star:11726
+- [Repo](https://github.com/substack/node-browserify) :star:11732
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1658
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1661
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:777
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:236
 
@@ -94,7 +94,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:380
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:251
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:388
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:389
 
 ### Transforms
 

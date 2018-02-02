@@ -384,7 +384,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:111
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1264
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1267
 
 
 **MINDMAP HTML**
@@ -393,7 +393,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:564
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1264
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1267
 
 
 ### Concept Map and Diagrams
@@ -439,8 +439,8 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut](https://github.com/tantaman/Strut) :star:1472
-* [Impressionist](https://github.com/harish-io/Impressionist) :star:599
+* [Strut](https://github.com/tantaman/Strut) :star:1471
+* [Impressionist](https://github.com/harish-io/Impressionist)
 * [hovercraft](https://github.com/regebro/hovercraft) :star:964
 
 
@@ -455,14 +455,14 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38692
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4313
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38715
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4314
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1488
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5241
-* [Shower](https://github.com/shower/shower) :star:3890
+* [Shower](https://github.com/shower/shower) :star:3898
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
-* [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1208
+* [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1207
 * [Slides](https://github.com/briancavalier/slides) :star:454
 
 
@@ -668,7 +668,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:786
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:787
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
