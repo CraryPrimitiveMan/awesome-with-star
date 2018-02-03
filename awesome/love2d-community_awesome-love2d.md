@@ -52,7 +52,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Animation & Frame-Managing Libraries*
 
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend :star:6
-* [anim8](https://github.com/kikito/anim8) - Animation library :star:288
+* [anim8](https://github.com/kikito/anim8) - Animation library :star:287
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:11
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:12
 * [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library :star:27
@@ -64,7 +64,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Brady](https://github.com/davisdude/Brady) - Camera library with parallax scrolling :star:32
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid :star:23
-* [gamera](https://github.com/kikito/gamera) - Camera system :star:116
+* [gamera](https://github.com/kikito/gamera) - Camera system :star:117
 * [hump.camera](http://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
 * [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE :star:40
 
@@ -72,7 +72,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Development assisting Libraries, that enrich your development experience*
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility :star:12
-* [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph :star:17
+* [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph :star:18
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console :star:157
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time :star:16
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility :star:62
@@ -126,9 +126,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
-* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:52
+* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:53
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model :star:163
-* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation :star:7
+* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation :star:8
 
 ## Math
 *Math specific Libraries*
@@ -150,7 +150,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Networking & Online-Play Libraries*
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
-* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging :star:174
+* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging :star:175
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games :star:61
 
 ## <a name="object"></a>Object Orientation
@@ -189,7 +189,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2529
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2533
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -234,7 +234,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *User Interface Libraries*
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE :star:19
-* [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:89
+* [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:90
 * [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE :star:18
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:124
@@ -264,7 +264,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:648
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:649
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)

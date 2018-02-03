@@ -18,7 +18,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [Penthouse](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS :star:1708
 * [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) and inline-styles)
-* [CriticalCSS](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS :star:1028
+* [CriticalCSS](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS :star:1027
 
 
 ## Server-side modules
@@ -44,14 +44,14 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs :star:23
 * [gulp-inline-source](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content :star:181
-* [inline-critical](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS` :star:70
+* [inline-critical](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS` :star:69
 * [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) as an example.
 
 ## Async load CSS
 
 Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.
 
-* [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available. :star:5049
+* [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available. :star:5051
 * [async & conditional loading](https://gist.github.com/matt-bailey/602b40c77a5d3381ff26) - POC script for loading CSS files asynchronously and conditionally based on body tag classes
 * [asyncLoader](https://github.com/n0mad01/asyncLoader) - async script/stylesheet loader
 * [basket.js](http://addyosmani.github.io/basket.js/) - async script/resource loader with support for localStorage caching. Can be [extended](https://github.com/andrewwakeling/basket-css-example) to load stylesheets.

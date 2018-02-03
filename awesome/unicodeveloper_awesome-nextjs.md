@@ -20,7 +20,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:21989
+* [GitHub](https://github.com/zeit/next.js) :star:22022
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -52,11 +52,11 @@
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:3
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint. :star:13
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree. :star:17
-* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS. :star:2
-* [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:95
+* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS. :star:3
+* [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:96
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:565
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:567
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:586
@@ -73,7 +73,7 @@
 * [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:22
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:41
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:31
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:341
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:342
 * [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:91
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information. :star:4
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation. :star:31

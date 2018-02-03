@@ -46,7 +46,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:549
 * [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:713
-* [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:476
+* [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:477
 * [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:283
 
 ### Notebooks and IDEs
@@ -74,7 +74,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Bioinformatics
 
 * [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data. :star:700
-* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:286
+* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:287
 
 ### GIS
 
@@ -84,7 +84,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Time Series Analytics
 
 * [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark. :star:883
-* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:310
+* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:311
 
 ### Graph Processing
 
@@ -104,12 +104,12 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:346
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:599
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2258
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2262
 
 ### Middleware
 
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing. :star:716
-* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:1920
+* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:1921
 * [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services. :star:145
 * [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications. :star:429
 
@@ -130,11 +130,11 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
-* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2272
+* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2274
 
 ### Testing
 
-* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:653
+* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:654
 * [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework. :star:20
 
 ### Workflow Management
@@ -167,8 +167,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1358
-* [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model. :star:520
+* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1357
+* [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model. :star:521
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment. :star:157
 

@@ -363,7 +363,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:1993
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:1994
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -384,16 +384,16 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:111
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1267
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1268
 
 
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:565
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:566
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1267
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1268
 
 
 ### Concept Map and Diagrams
@@ -455,15 +455,15 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38743
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4315
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38754
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4318
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1488
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5242
-* [Shower](https://github.com/shower/shower) :star:3902
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5243
+* [Shower](https://github.com/shower/shower) :star:3903
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1207
-* [Slides](https://github.com/briancavalier/slides) :star:454
+* [Slides](https://github.com/briancavalier/slides) :star:455
 
 
 ### IPython Notebook
@@ -668,7 +668,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:787
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:788
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.

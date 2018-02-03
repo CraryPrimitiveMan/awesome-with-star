@@ -47,7 +47,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5215
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5218
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
@@ -67,44 +67,44 @@ Table of Contents
 
 ### General
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js. :star:138
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:7694
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:7696
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1330
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
-* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2000
+* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2002
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go](https://github.com/paked/messenger) :star:231
 
 ### Slack
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1547
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1548
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
 * [Python (Official)](https://github.com/slackhq/python-slackclient) :star:1238
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) :star:158
 
 ### Telegram
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2364
-* [Node.js](https://github.com/telegraf/telegraf) :star:860
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2368
+* [Node.js](https://github.com/telegraf/telegraf) :star:868
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:990
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4049
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4059
 * [C#](https://github.com/MrRoundRobin/telegram.bot) :star:656
 * [Go](https://github.com/tucnak/telebot) :star:544
 
 ### Discord
 ###### Node.js
-* [Eris](https://github.com/abalabahaha/eris) :star:331
-* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2035
+* [Eris](https://github.com/abalabahaha/eris) :star:333
+* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2042
 * [Discordie](https://github.com/qeled/discordie) :star:176
 * [Discord.io](https://github.com/izy521/discord.io) :star:406
 
 ###### C#
-* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:632
+* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:636
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:178
 
 ###### Python
-* [discord.py](https://github.com/Rapptz/discord.py) :star:1821
+* [discord.py](https://github.com/Rapptz/discord.py) :star:1824
 
 ###### Java
 * [JDA](https://github.com/DV8FromTheWorld/JDA/)

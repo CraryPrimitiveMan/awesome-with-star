@@ -82,9 +82,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :star:432
-- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.  :star:1761
+- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.  :star:1763
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface :star:657
-- [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. :star:8789
+- [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. :star:8796
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
@@ -97,7 +97,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 
 
 ### For other purposes, but still use canvas
-- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components. :star:10901
+- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components. :star:10904
 
 
 ## Resources
@@ -124,7 +124,7 @@ Where to discover more about Canvas.
 ### Twitter
 
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) :star:1761
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) :star:39022
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) :star:39047
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)

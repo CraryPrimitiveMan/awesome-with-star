@@ -60,7 +60,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - Splash Screens
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
-      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:353
+      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:354
       - [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
     - Plugin
       - [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13

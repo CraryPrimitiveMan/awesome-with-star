@@ -30,7 +30,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8527
+* [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8529
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -140,7 +140,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Cheat sheets
 
-* [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz. :star:10
+* [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz. :star:11
 * [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 * [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.

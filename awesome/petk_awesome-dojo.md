@@ -199,10 +199,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13251
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13253
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:83
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:77406
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:77462
     * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1032
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists](https://github.com/jnv/lists) - awesome lists :star:4747

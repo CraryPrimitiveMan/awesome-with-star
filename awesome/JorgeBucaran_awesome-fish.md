@@ -23,10 +23,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2721
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2724
 * [Fundle](https://github.com/tuvistavie/fundle) :star:165
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3075
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3078
 
 ## Plugins
 
@@ -44,8 +44,8 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Simple Prompts
 
-* [Mono](https://github.com/fisherman/mono) :star:28
-* [Simple](https://github.com/fisherman/simple) :star:61
+* [Mono](https://github.com/fisherman/mono) :star:27
+* [Simple](https://github.com/fisherman/simple) :star:62
 * [Sol](https://github.com/fisherman/sol) :star:26
 
 ## Powerline Themes

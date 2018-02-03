@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere. :star:1843
-* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9355
+* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9365
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 * [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1663
 * [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps. :star:2413
@@ -80,7 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager. :star:2
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond. :star:10
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users. :star:45
-* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2241
+* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2244
 * [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX. :star:31
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
@@ -89,13 +89,13 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians. :star:20
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG. :star:143
-* [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature. :star:1983
+* [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature. :star:1984
 
 ## Music Programming
 
-* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians. :star:2827
+* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians. :star:2826
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
-* [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language. :star:244
+* [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language. :star:243
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider." :star:190
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
@@ -132,7 +132,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music. :star:4
 * [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music. :star:52
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources. :star:180
-* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources. :star:353
+* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources. :star:355
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 

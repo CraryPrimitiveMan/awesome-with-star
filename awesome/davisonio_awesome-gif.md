@@ -59,13 +59,13 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:214
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4030
+- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4033
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF :star:896
 - [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:532
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport :star:1602
-- [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback :star:1910
+- [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback :star:1911
 - [gifme](https://github.com/holman/gifme) - generate animated GIFs :star:328
 - [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder :star:708
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos :star:54
@@ -81,7 +81,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Tty2gif](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats :star:142
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox :star:36
 - [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video :star:97
-- [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas :star:1068
+- [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas :star:1069
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 - [Gifit (the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`. :star:10
 
@@ -109,12 +109,12 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Java
 
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5729
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5731
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable :star:220
 - [GifView](https://github.com/RoiSoleil/GifView) - android library to deal with GIF :star:78
 - [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations :star:451
 - [GifImageView](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images :star:948
-- [Gif-animation](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
+- [Gif-animation](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF :star:109
 - [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android :star:214
 - [GIFDroid](https://github.com/quackware/GIFDroid) - Android video to GIF converter :star:91
 - [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - create and share animated GIFs :star:38
@@ -122,13 +122,13 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 #### JavaScript
 
 - [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM :star:2426
-- [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder :star:388
+- [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder :star:389
 - [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs :star:159
 - [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs :star:363
 - [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player :star:400
 - [node-gify](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle :star:223
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js :star:225
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js :star:226
 - [Gif-video](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video :star:57
 - [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript :star:61
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors :star:6

@@ -67,8 +67,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:361
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1807
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:837
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1808
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:838
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:8
 
@@ -86,7 +86,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Static Web
 * [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:132
-* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:125
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:126
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:61
@@ -100,7 +100,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2 :star:56
-* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:9
 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:82
@@ -109,7 +109,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:270
+ * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:272
 
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing :star:28
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2444
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2445
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
