@@ -391,7 +391,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:564
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:565
 * [jsmind](http://sourceforge.net/projects/jsmind/)
 * [mindmaps](https://github.com/drichard/mindmaps) :star:1267
 
@@ -440,8 +440,8 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1471
-* [Impressionist](https://github.com/harish-io/Impressionist)
-* [hovercraft](https://github.com/regebro/hovercraft) :star:964
+* [Impressionist](https://github.com/harish-io/Impressionist) :star:599
+* [hovercraft](https://github.com/regebro/hovercraft) :star:966
 
 
 
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38715
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4314
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:38743
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4315
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1488
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5241
-* [Shower](https://github.com/shower/shower) :star:3898
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5242
+* [Shower](https://github.com/shower/shower) :star:3902
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1207
 * [Slides](https://github.com/briancavalier/slides) :star:454

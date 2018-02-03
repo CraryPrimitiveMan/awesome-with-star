@@ -70,10 +70,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4135
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:981
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:983
 - [Sketch Measure](https://github.com/utom/sketch-measure) :star:5350
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1091
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1092
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
 - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1747
 

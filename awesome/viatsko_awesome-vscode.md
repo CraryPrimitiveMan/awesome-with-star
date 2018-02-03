@@ -88,6 +88,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Dash](#dash)
   - [Debugger for Chrome](#debugger-for-chrome)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
@@ -144,6 +145,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 ## Editor Keymaps
 
@@ -243,8 +245,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:50
-- [Pragmatic Essence](https://github.com/orta/Essence) :star:51
+- [Essence](https://github.com/flagello/Essence) :star:49
+- [Pragmatic Essence](https://github.com/orta/Essence) :star:50
 
 ### Syntax
 
@@ -530,6 +532,12 @@ Features full workbench theming
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
+
+### [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
+
+> Levarage your favourite shell commands to edit text
+
+![Edit with Shell Command](https://raw.githubusercontent.com/ryu1kn/vscode-edit-with-shell/master/images/animations/public.gif)
 
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 

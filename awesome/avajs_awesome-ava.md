@@ -37,7 +37,7 @@
 - [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:149
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:70
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
-- [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:92
+- [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:93
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:20
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149

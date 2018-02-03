@@ -134,8 +134,8 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Related Awesome Lists
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1586
-- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:868
-- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:204
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:869
+- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:205
 
 
 ## License and Contributing

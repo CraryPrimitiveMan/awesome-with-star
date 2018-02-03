@@ -82,12 +82,12 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 #### Preprocessors in action
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
-* [Sass flex mixin](https://github.com/mastastealth/sass-flex-mixin) :star:1134
+* [Sass flex mixin](https://github.com/mastastealth/sass-flex-mixin) :star:1135
 * [Stylus flex mixin](https://github.com/differui/stylus-flex-mixin) :star:11
 
 #### Polyfills
 * [Flexibility](https://github.com/10up/flexibility):metal:
-* [Flexie](https://github.com/doctyper/flexie) :star:1118
+* [Flexie](https://github.com/doctyper/flexie) :star:1119
 * [Reflexie](https://github.com/doctyper/reflexie) :star:259
 
 ## Other Interesting Articles
@@ -174,14 +174,14 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Awesome projects about flexbox.*
 * [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
 * [flex-box](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use. :star:2
-* [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them. :star:8736
+* [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them. :star:8737
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
-* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. :star:10584
-* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax. :star:214
-* [grid-styled](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components :star:1013
+* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. :star:10601
+* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax. :star:215
+* [grid-styled](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components :star:1015
 * [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox) :star:28
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles. :star:157

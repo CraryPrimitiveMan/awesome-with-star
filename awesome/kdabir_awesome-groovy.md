@@ -40,7 +40,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:460
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:459
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1655
@@ -100,7 +100,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2 :star:56
-* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:9
+* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:82
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2442
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2444
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
