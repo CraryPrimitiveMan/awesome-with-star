@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17850
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20652
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17861
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20659
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -102,7 +102,7 @@ Additional lists you might find useful:
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens. :star:107
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies. :star:17
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization. :star:6
-- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client). :star:22
+- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client). :star:23
 - [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens. :star:6
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications. :star:28
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach. :star:76
@@ -164,7 +164,7 @@ Additional lists you might find useful:
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin. :star:177
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem. :star:28
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:519
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:518
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior. :star:19
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:104
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file. :star:26
@@ -207,9 +207,9 @@ Additional lists you might find useful:
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:456
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:774
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-- [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:53
+- [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:52
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2560
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2561
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -343,7 +343,7 @@ Additional lists you might find useful:
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:189
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer. :star:13
-- [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:294
+- [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:295
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin. :star:8
 
 ## Social

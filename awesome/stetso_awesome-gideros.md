@@ -133,8 +133,8 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua. :star:3
 
 ## Related Awesome Lists
-- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1586
-- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:869
+- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1587
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:870
 - [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:205
 
 

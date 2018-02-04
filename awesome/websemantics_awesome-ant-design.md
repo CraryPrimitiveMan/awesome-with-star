@@ -82,13 +82,13 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:2278
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:2280
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js :star:12710
+- [iView](https://github.com/iview/iview) - High quality UI Components Library with Vue.js :star:12718
 - [atui]( https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:1283
@@ -99,7 +99,7 @@ Projects that are built with Vue.js and Ant Design.
 
 A list of UI components built with Ant Design.
 
-- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:431
+- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:432
 - [React Grid](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components. :star:24
 - [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:34
@@ -122,7 +122,7 @@ A list of frameworks using Ant Design.
 A list of starter projects and boilerplates built with Ant Design.
 
 - [Meteor Antd Boilerplate](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
-- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:3197
+- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:3203
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery. :star:475
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456). :star:468
 - [React Redux](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design. :star:302
@@ -143,7 +143,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages. :star:17
 
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject). :star:38
-- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:922
+- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:923
 
 ## Non-JavaScript Libraries
 

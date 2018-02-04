@@ -19,12 +19,12 @@
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values. :star:548
 
 #### Network Inspection
-- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel :star:3658
+- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel :star:3659
 
 #### CPU profile
 - [JSCLegacyProfiler/json2trace](https://github.com/facebook/react-native/blob/master/JSCLegacyProfiler/json2trace) - Converts Safari's JavaScriptCore profiler output into `.cpuprofile`
 - [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts. :star:11
-- [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format. :star:120
+- [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format. :star:121
 - [Wishbone python framework](http://wishbone.readthedocs.org/en/develop/miscellaneous.html#profiling) - Profiling data can export as `.cpuprofile`.
 
 #### Multimedia
@@ -77,17 +77,17 @@
 #### Browser Adapters
 - [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP :star:109
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP. :star:3362
-- [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP :star:511
+- [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP :star:512
 - [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 10/11 to CDP. :star:541
 - [Edge Diagnostics Adaptor](https://github.com/Microsoft/edge-diagnostics-adaptor) - Protocol adaptor that enables tools to debug Edge using the CDP. :star:98
 
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9198
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9199
 
 ##### ClosureScript
-- [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript :star:525
+- [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript :star:527
 
 ##### Lua
 - [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools :star:212
@@ -100,7 +100,7 @@
 
 ##### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+
-- [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron). :star:3767
+- [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron). :star:3768
 - [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node. :star:154
 
 
@@ -117,7 +117,7 @@
 - [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
 - [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
-- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:6764
+- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:6774
 - [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Inspect an Angular application's scope and profile its data.
 - [Augury](https://augury.angular.io)  - Debugging and Profiling for Angular 2 applications.
 - [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.

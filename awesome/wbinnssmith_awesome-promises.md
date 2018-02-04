@@ -54,17 +54,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
 * [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation. :star:118
-* [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:592
-* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5407
-* [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:606
+* [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:593
+* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5410
+* [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:608
 
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16230
 * [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec. :star:217
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) - Lightweight with a few extras. Compatible down to IE6!
-* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:13981
+* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:13980
 * [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1762
 * [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3308
 
@@ -78,8 +78,8 @@ All of these provide more features than the language yet remain compatible. Node
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun))
-* [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:178
-* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:776
+* [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:179
+* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:777
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail. :star:198
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail :star:55
 * [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control :star:183
@@ -120,7 +120,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [is-promise](https://github.com/then/is-promise) - Determine if something looks like a Promise. :star:57
 * [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`. :star:1624
-* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9266
+* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9268
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise. :star:2

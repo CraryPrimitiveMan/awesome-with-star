@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12064
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12075
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation

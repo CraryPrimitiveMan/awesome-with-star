@@ -62,14 +62,14 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:6737
+- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:6739
 - [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration. :star:22625
-- [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause. :star:415
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause. :star:416
 
 ### Useful References
-- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:77469
+- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:77528
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation :star:407
-- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:2959
+- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:2963
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want. :star:299
 - [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful. :star:2492
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:998

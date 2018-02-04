@@ -107,6 +107,7 @@ Plugins:
 - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 - [TernJS](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 - [Bump](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
+- [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
 
 ### Client Side Profile
 
@@ -166,7 +167,7 @@ Some of the most popular schemes:
 
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
-- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/). :star:21
+- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/). :star:22
 
 ### Alternative Icons
 
@@ -184,7 +185,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12159
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12158
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)

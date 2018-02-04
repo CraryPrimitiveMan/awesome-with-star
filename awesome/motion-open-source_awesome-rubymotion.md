@@ -356,8 +356,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### Software Design Patterns
 
 * [Motion-pool](https://github.com/wooandoo/motion-pool) - Pool for RubyMotion. :star:1
-* [Motion-state-machine](https://github.com/opyh/motion-state-machine) - Grand Central-aware, simple syntax for state machines. :star:73
-* [Motion-objection](https://github.com/atomicobject/motion-objection) - RubyMotion wrapper for Objection. :star:25
+* [Motion-state-machine](https://github.com/opyh/motion-state-machine) - Grand Central-aware, simple syntax for state machines. :star:74
+* [Motion-objection](https://github.com/atomicobject/motion-objection) - RubyMotion wrapper for Objection. :star:26
 * [Weak_attr_accessor](https://github.com/hboon/weak_attr_accessor) - Adds weak_attr_accessor that wraps objects with WeakRef, for RubyMotion. :star:6
 
 

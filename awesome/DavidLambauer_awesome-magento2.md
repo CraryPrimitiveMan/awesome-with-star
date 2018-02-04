@@ -32,7 +32,7 @@
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows. :star:5
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm. :star:313
+- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm. :star:314
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 - [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:114
 - [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on Mac and Linux.
@@ -128,7 +128,7 @@
 - [Excel Spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli). :star:5
 - [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign). :star:23
 - [Mobile Detection](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign). :star:11
-- [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:72
+- [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:73
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect. :star:15
 - [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed. :star:15
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/). :star:18
@@ -218,7 +218,7 @@
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 - [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5181
+- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5187
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2. :star:134
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
 - [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:121
@@ -283,7 +283,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 ### Other Magento 2 related Awesome Lists
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:316
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:17851
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:17862
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel). :star:38
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 

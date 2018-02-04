@@ -6,13 +6,13 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:26977
+- [Github repository](https://github.com/jashkenas/backbone) :star:26984
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:662
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:661
 
 ## Tutorials and articles
 

@@ -74,7 +74,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:45
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2244
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2245
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:286
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:187
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:24
@@ -112,7 +112,7 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2156
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2157
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:235
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2176
 
@@ -174,7 +174,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:425
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:426
 
 ### Adwaita-based
 
@@ -185,7 +185,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:442
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:441
 
 ### Flat
 
@@ -207,12 +207,12 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1304
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1305
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:88
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:746
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:747
 
 ### Homogeneous Icons
 
@@ -228,7 +228,7 @@
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:15
- - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:204
+ - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:203
 
 ## Community
 

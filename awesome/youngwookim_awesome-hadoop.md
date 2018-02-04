@@ -41,7 +41,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system.  :star:175
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard :star:187
-* [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them. :star:847
+* [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them. :star:848
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
 * [Crunch](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop :star:162
 * [Apache Ignite](http://ignite.apache.org/) - Distributed in-memory platform
@@ -50,7 +50,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Slider](http://slider.incubator.apache.org/) - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.
 * [Apache Twill](http://twill.incubator.apache.org/) - Apache Twill is an abstraction over Apache Hadoop® YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their application logic.
-* [mpich2-yarn](https://github.com/alibaba/mpich2-yarn) - Running MPICH2 on Yarn :star:90
+* [mpich2-yarn](https://github.com/alibaba/mpich2-yarn) - Running MPICH2 on Yarn :star:91
 
 ## NoSQL
 *Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7105
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7109
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -188,7 +188,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench) :star:74
 * [hive-benchmarks](https://github.com/yhuai/hive-benchmarks) :star:3
 * [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale. :star:48
-* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:1883
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:1884
 
 ## Machine learning and Big Data analytics
 
@@ -254,7 +254,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
  * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq) :star:55
  * [Flume UDP Source](https://github.com/whitepages/flume-udp-source) :star:8
- * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC :star:139
+ * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC :star:138
  * [Flume Custom Serializers](https://github.com/relistan/flume-serializers) :star:5
  * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics) :star:44
  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients) :star:16

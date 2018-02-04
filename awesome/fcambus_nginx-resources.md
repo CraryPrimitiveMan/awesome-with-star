@@ -114,7 +114,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
-- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:3846
+- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:3847
 
 - [OpenResty Con 2015](http://www.iresty.com)
 

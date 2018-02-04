@@ -67,7 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1700
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4731
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4732
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1581
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1073
@@ -106,13 +106,13 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:822
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:821
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
 
 * [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:243
-* [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:413
+* [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:414
 * [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:428
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:552
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:81
@@ -131,13 +131,13 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
-* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:135
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:136
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:251
 
 ## Build Tools
 *Project build and automation tools.*
 
-* [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. :star:924
+* [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. :star:923
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang. :star:623
 
@@ -218,7 +218,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:9
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:36
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
-* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:758
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:759
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*

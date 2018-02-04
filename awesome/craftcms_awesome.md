@@ -120,13 +120,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Field Types
 - [Button Box](https://github.com/supercool/buttonbox) - Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers). :star:78
-- [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:22
+- [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:23
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:31
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:119
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:156
 - [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:286
-- [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:90
+- [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:241
 - [Simple Map](https://github.com/ethercreative/simplemap) - Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance. :star:90
@@ -178,7 +178,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Ansel](https://buzzingpixel.com/software/ansel-craft) - Define image fields with minimum and/or maximum requirements, aspect ratios, minimum/maximum number of images, and more.
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) - Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image. :star:41
 - [Focal Point Field](https://github.com/aelvan/FocalPointField-Craft) - Choose focal point for your assets. :star:69
-- [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:105
+- [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:104
 - [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:114
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
 - [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:260
@@ -240,7 +240,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Cache
 - [Cache Buster](https://github.com/focuslabllc/craftcms-cachebuster) - Keep your front-end assets free of cache issues after they've changed. :star:33
 - [Cache Warmer](https://superbig.co/plugins/cache-warmer) - Warm up your cache with a single request.
-- [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) - Provides an alternative way to have your caches clear automatically when your content changes. :star:38
+- [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) - Provides an alternative way to have your caches clear automatically when your content changes. :star:39
 - [CacheMonster](https://github.com/supercool/Cache-Monster) - Keeps your cache permanently warm and optionally integrates with Varnish. :star:30
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore. :star:121
@@ -279,7 +279,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:73
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:105
-- [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:53
+- [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:93
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
@@ -330,7 +330,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:190
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:111
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:169
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:168
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 

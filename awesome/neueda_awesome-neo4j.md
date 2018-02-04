@@ -69,13 +69,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol. :star:115
 - [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol. :star:168
-- [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol. :star:319
+- [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol. :star:320
 - [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt). :star:58
 - [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol. :star:24
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results. :star:47
 - [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:101
 - [neo4j-elixir-driver](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol :star:20
-- [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:77
+- [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:78
 
 ## REST API
 
@@ -100,7 +100,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### PHP
 
 - [Neo4j-PHP-OGM](https://github.com/graphaware/neo4j-php-ogm) - Doctrine style Object Graph Mapper for Neo4j :star:112
-- [neo4jphp](https://github.com/jadell/neo4jphp) - PHP wrapper of the Neo4j REST interface. :star:543
+- [neo4jphp](https://github.com/jadell/neo4jphp) - PHP wrapper of the Neo4j REST interface. :star:542
 - [NeoEloquent](https://github.com/Vinelab/NeoEloquent) - A Neo4j ORM - Based on Eloquent. :star:359
 - [neo4j-php-client](https://github.com/graphaware/neo4j-php-client/tree/4.0) - PHP Client for Neo4j leveraging the Http and Bolt protocols.
 - [Spider](https://github.com/spider/spider) - A simple, flexible, and beautiful graph-data abstraction for php. :star:22

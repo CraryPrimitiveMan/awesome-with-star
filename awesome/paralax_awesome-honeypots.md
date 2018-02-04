@@ -62,9 +62,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot. :star:36
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot. :star:32
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
-    - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:270
+    - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:271
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:747
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:748
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:8
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:10
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:19
@@ -93,7 +93,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers. :star:2
 
 - Botnet C2 tools
-    - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor. :star:88
+    - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor. :star:89
     - [dnsMole](https://code.google.com/archive/p/dns-mole/) -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts.
 
 - IPv6 attack detection tool
@@ -110,7 +110,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1346
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1347
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -244,7 +244,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
 - PDF document inspector
-    - [peepdf](https://github.com/jesparza/peepdf) :star:289
+    - [peepdf](https://github.com/jesparza/peepdf) :star:290
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
@@ -258,7 +258,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret :star:30
-    - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot :star:1004
+    - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot :star:1005
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.     :star:5
@@ -269,7 +269,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen. :star:10
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C. :star:4
     - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:824
-    - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org :star:17
+    - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org :star:23
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -350,7 +350,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot :star:53
 
 - Honeytokens
-    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:353
+    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:354
     - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots. :star:90
     - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens. :star:382

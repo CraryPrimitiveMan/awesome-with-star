@@ -51,7 +51,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:996
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:645
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2668
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2667
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 - [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:2
 
@@ -76,7 +76,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Esoteric languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5179
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5697
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5698
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1739
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:105
 
@@ -104,9 +104,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1356
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3942
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:986
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2416
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2419
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3530
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3532
 
 
 ## Miscellaneous

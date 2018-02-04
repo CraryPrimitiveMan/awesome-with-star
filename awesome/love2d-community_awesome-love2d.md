@@ -104,7 +104,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games :star:50
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras) :star:466
-* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:129
+* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:130
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows. :star:2
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine :star:5
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game :star:27
@@ -143,7 +143,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Music related libraries*
 
 * [ripple](https://github.com/tesselode/ripple) - An audio library for sound effects and music :star:15
-* [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities :star:51
+* [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities :star:52
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library :star:33
 
 ## Networking
@@ -189,7 +189,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2533
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2535
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -237,7 +237,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:90
 * [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE :star:18
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
-* [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:124
+* [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:125
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games :star:113
 * [Patchy](https://github.com/excessive/patchy) - 9patch library :star:18
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
@@ -264,7 +264,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:649
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:650
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
@@ -298,10 +298,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++ :star:6
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
+	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode
 
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date. 
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
+	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
 # Contributing
 
@@ -309,7 +311,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1586
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1587
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:37
 * [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:746
 

@@ -32,16 +32,16 @@
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - A Rich text editor inspired by Medium & Facebook Notes.
 * [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes. :star:214
-* [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:502
+* [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:503
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1030
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1979
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:1981
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:400
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:166
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.  :star:40
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2561
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2562
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation. :star:50
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type. :star:32
@@ -89,7 +89,7 @@
 * [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - Export ContentState to HTML.
 * [Draft.js: Export ContentState to PDFMake](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake. :star:2
 * [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React :star:107
-* [Draft.js exporter (Ruby)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML. :star:8
+* [Draft.js exporter (Ruby)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML. :star:9
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML :star:20
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST). :star:24
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.

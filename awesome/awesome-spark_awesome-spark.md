@@ -45,14 +45,14 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:549
-* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:713
-* [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:477
-* [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:283
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:714
+* [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:478
+* [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:284
 
 ### Notebooks and IDEs
 
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
-* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2281
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2282
 * [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks. :star:316
 
 ### General Purpose Libraries
@@ -101,10 +101,10 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training. :star:615
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML. :star:45
-* [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:346
+* [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:347
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:599
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2262
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2267
 
 ### Middleware
 
@@ -134,7 +134,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Testing
 
-* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:654
+* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:653
 * [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework. :star:20
 
 ### Workflow Management
@@ -179,7 +179,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Docker Images
 
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
-- [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/). :star:694
+- [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/). :star:695
 
 ### Miscellaneous
 

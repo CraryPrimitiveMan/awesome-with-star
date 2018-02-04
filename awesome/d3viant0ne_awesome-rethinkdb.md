@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
-- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:800
+- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:802
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 
 ##### ORM
@@ -160,13 +160,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Community Supported Drivers
 
-- [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage. :star:240
+- [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage. :star:241
 - [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++. :star:70
 - [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:175
 - [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3. :star:21
 - [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:470
 - [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1283
-- [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:91
+- [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:92
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp. :star:42
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:32
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.  :star:13
@@ -222,7 +222,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application. :star:63
 - [Meguca](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB. :star:127
 - [VueJS RethinkDB](https://github.com/alexcheninfo/vuejs-rethinkdb-example) - Vuejs + Express + RethinkDB example. :star:59
-- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:852
+- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:853
 - [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) - A Meteor and RethinkDB Example Using GraphQL. :star:46
 
 **[Back to top](#table-of-contents)**

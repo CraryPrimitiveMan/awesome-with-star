@@ -99,7 +99,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:811
+* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:812
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
@@ -251,7 +251,7 @@ Processing Unit (GPU).
 ### 2D
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
-* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2850
+* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2851
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1204
 
 ### Maps and Visualizations
@@ -266,7 +266,7 @@ Processing Unit (GPU).
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### Rendering
-* [GLBoost](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks. :star:54
+* [GLBoost](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks. :star:55
 * [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 * [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games. :star:61
 
@@ -275,7 +275,7 @@ Processing Unit (GPU).
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) :star:1253
+  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) :star:1254
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
@@ -287,12 +287,12 @@ Processing Unit (GPU).
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
-* [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype. :star:890
+* [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype. :star:891
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
-* [QTEK](https://github.com/pissang/qtek) - Library with many features. :star:726
+* [QTEK](https://github.com/pissang/qtek) - Library with many features. :star:727
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
@@ -316,11 +316,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:77463
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:4891
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:77519
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:4903
 * [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:711
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:714
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4606
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:713
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4607
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1096
 
 ## Contributing

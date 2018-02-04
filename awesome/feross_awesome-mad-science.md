@@ -38,7 +38,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2218
+- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2219
 - [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web :star:234
 
 ## streams
@@ -60,10 +60,10 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
 - [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3390
-- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7425
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7424
 
 ## virtual machines
-- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:901
+- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:902
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
 - [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1715

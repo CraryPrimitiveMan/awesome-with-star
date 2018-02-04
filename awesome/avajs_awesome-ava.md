@@ -52,8 +52,8 @@
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint](https://github.com/eslint/eslint) plugins with AVA. :star:13
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
-- [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:2
-- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:96
+- [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:3
+- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:97
 
 
 ## Works with AVA

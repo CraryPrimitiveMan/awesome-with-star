@@ -184,11 +184,12 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator. :star:34
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:36
-- [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:245
+- [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:246
 - [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1001
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:11
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:18
+- [SmartGear](https://github.com/bitbank2/sg_free) - C++, SDL2. Focus on optimized performance for resource-limited devices. GTK or direct framebuffer build. :star:6
  
 ## Software Development
 
@@ -385,7 +386,7 @@ Pokémon Red remade with full GBC support.
 - [mGB](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module. :star:51
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels. :star:14
 - [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music. :star:42
-- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer. :star:52
+- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer. :star:53
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter. :star:6
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware. :star:5
 - [gbcpu](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality. :star:2

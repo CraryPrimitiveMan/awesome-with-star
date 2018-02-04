@@ -58,7 +58,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1473
+* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1474
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform. :star:57
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2. :star:81
 * [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables. :star:29
@@ -77,7 +77,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:595
+* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:597
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:340
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:253
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts. :star:9

@@ -37,7 +37,7 @@ A curated list of Awesome Alfred Workflows.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:210
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:41
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:521
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1277
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1278
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:88
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:135
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -72,7 +72,7 @@ A curated list of Awesome Alfred Workflows.
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text. :star:164
-- [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text. :star:8
+- [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text. :star:9
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Multimedia
@@ -82,7 +82,7 @@ A curated list of Awesome Alfred Workflows.
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault. :star:94
 - [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator. :star:61
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
-- [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections. :star:38
+- [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections. :star:39
 
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
@@ -101,7 +101,7 @@ A curated list of Awesome Alfred Workflows.
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
-- [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:51
+- [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:53
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:29
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
@@ -116,7 +116,7 @@ A curated list of Awesome Alfred Workflows.
 Here are a list of other collections of alfred collections which are useful.
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
-- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:369
+- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:370
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 

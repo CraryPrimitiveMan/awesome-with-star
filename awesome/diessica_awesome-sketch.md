@@ -69,7 +69,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4136
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4137
 - [RenameIt](https://github.com/rodi01/RenameIt) :star:984
 - [Sketch Measure](https://github.com/utom/sketch-measure) :star:5351
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
