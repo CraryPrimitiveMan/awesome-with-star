@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7425
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7427
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:99
@@ -47,9 +47,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes. :star:62
 - [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3391
-- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:22
+- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:23
 - [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV. :star:17
-- [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more :star:28
+- [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more :star:27
 - [lifxsh](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights. :star:4
 
 ## Extensions

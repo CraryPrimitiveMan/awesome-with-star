@@ -65,12 +65,12 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [cgeorg/todomvp ★21](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js :star:22
 * [erykpiast/cyclejs-examples ★9](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js. :star:9
 * [grozen/trends-cycle ★3](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js :star:3
-* [ivan-kleshnin/cyclejs-examples ★120](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6. :star:119
+* [ivan-kleshnin/cyclejs-examples ★120](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6. :star:120
 * [ivan-kleshnin/tetris-cyclejs ★12](https://github.com/ivan-kleshnin/tetris-game) - Tetris game implemented in CycleJS, ES6 :star:12
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:20
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2794
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2797
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467

@@ -56,13 +56,13 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Narkoz](https://github.com/narkoz/guides) :star:1405
 * [paulmillr](https://github.com/paulmillr/code-style-guides) :star:160
 * [SalGnt](https://github.com/SalGnt/cscs) :star:1466
-* [Styleguides.io](https://github.com/maban/styleguides) :star:614
+* [Styleguides.io](https://github.com/maban/styleguides) :star:615
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
 # Styleguides
 
 ## Generic
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) :star:6977
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) :star:6979
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -70,7 +70,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) :star:5414
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) :star:5416
 * [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
@@ -100,31 +100,31 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
-* [AirBnB](https://github.com/airbnb/javascript) :star:65867
+* [AirBnB](https://github.com/airbnb/javascript) :star:65960
 * [bevacqua's JS sg](https://github.com/bevacqua/js) :star:2453
-* [feross/standard](https://github.com/feross/standard) :star:16304
+* [feross/standard](https://github.com/feross/standard) :star:16332
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [jscs](https://github.com/jscs-dev/node-jscs) :star:5164
+* [jscs](https://github.com/jscs-dev/node-jscs) :star:5163
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
-* [gocardless](https://github.com/gocardless/angularjs-style-guide) :star:1518
+* [gocardless](https://github.com/gocardless/angularjs-style-guide) :star:1517
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) :star:23613
-* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) :star:5027
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) :star:23619
+* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) :star:5028
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide) :star:280
-* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) :star:5955
+* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) :star:5958
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide) :star:237
 
 ### CoffeeScript
-* [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide) :star:1648
+* [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide) :star:1649
 
 ### HTTP Design
-* [http-api-design](https://github.com/interagent/http-api-design) :star:12656
+* [http-api-design](https://github.com/interagent/http-api-design) :star:12657
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) _Chinese_
 
 ### JSON
@@ -134,7 +134,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery) :star:122
 
 ### Modules
-* [mattdesl](https://github.com/mattdesl/module-best-practices) :star:1029
+* [mattdesl](https://github.com/mattdesl/module-best-practices) :star:1031
 
 ### npm
 * [npm Style Guide](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
@@ -172,19 +172,19 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
-* [AirBnB](https://github.com/airbnb/ruby) :star:2109
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) :star:13524
+* [AirBnB](https://github.com/airbnb/ruby) :star:2111
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) :star:13531
 * [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) :star:5384
+* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) :star:5388
 
 ## Rust
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub](https://github.com/github/swift-style-guide) :star:4450
-* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) :star:8253
+* [GitHub](https://github.com/github/swift-style-guide) :star:4451
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) :star:8256
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) :star:93
 
 # Non-Code

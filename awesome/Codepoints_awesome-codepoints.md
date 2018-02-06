@@ -66,7 +66,7 @@ maybe not widely known) features or are awesome in some other way.
     to the characters before. Those are called Combining Marks. Unicode
     provides a [handy FAQ](http://unicode.org/faq/char_combmark.html) on the
     details, but in a nutshell: If you add one after a character, it is placed
-    on top of that previous one. So, `a + ̊˚ = å`. This _may_ lead to all kinds
+    on top of that previous one. So, `a + ̊ = å`. This _may_ lead to all kinds
     of funny problems, because for some combinations there are pre-composed
     characters. Our little `å` here can also be encoded as U+00E5. You might
     note, that while this has a length of one character, the combination of `a`
@@ -141,7 +141,7 @@ different types of whitespace.
     be never filled by a future Unicode standard.
 * [U+1F402](https://codepoints.net/U+1F402) OX - shortest name.
 * [U+FBF9](https://codepoints.net/U+FBF9) ARABIC LIGATURE UIGHUR KIRGHIZ YEH
-    WITH HAMZA ABOVE WITH ALEF MAKSURA ISOLATED FORM - longest name: 82
+    WITH HAMZA ABOVE WITH ALEF MAKSURA ISOLATED FORM - longest name: 83
     characters.
 * [U+FDFA](https://codepoints.net/U+FDFA) ARABIC LIGATURE SALLALLAHOU ALAYHE
     WASALLAM - longest decomposition form: 18 characters.

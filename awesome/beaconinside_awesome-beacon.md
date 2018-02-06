@@ -9,7 +9,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2593
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2592
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -107,7 +107,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Objective-C
 
 * [Generic iBeacon Management and Utilities by KinveyLabs](https://github.com/KinveyLabs/KCSIBeacon/) :star:189
-* [Replicates detecting and broadcasting iBeacons in the background](https://github.com/Instrument/Vicinity) :star:363
+* [Replicates detecting and broadcasting iBeacons in the background](https://github.com/Instrument/Vicinity) :star:362
 
 
 ## Stackoverflow Q&A
@@ -163,7 +163,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:646
+* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:647
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 * [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) :star:143
 
@@ -186,7 +186,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 * [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1973
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1269
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1270
 
 
 # Bluetooth Low Energy

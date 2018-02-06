@@ -28,8 +28,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Libraries
 
-* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere. :star:1843
-* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9370
+* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere. :star:1844
+* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9379
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 * [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1663
 * [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps. :star:2415
@@ -41,7 +41,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
-* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8723
+* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8721
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](http://home.gna.org/lltag/) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
@@ -80,7 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager. :star:2
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond. :star:10
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users. :star:45
-* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2247
+* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2250
 * [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX. :star:31
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
@@ -88,12 +88,12 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians. :star:20
-* [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG. :star:143
-* [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature. :star:1986
+* [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG. :star:145
+* [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature. :star:1987
 
 ## Music Programming
 
-* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians. :star:2826
+* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians. :star:2825
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
 * [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language. :star:242
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider." :star:190
@@ -130,7 +130,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Related lists
 
 * [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music. :star:4
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music. :star:52
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music. :star:54
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources. :star:180
 * [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources. :star:356
 

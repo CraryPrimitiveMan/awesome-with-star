@@ -162,7 +162,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic. :star:22
 * [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver. :star:43
 * [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions. :star:19
-* [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:92
+* [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:93
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
 * [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:11
 * [Motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. :star:36
@@ -180,7 +180,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Database
-* [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK. :star:44
+* [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK. :star:45
 * [Yapper](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe. :star:30
 * [Couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS. :star:17
 * [Motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion. :star:33
@@ -222,7 +222,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
-* [ProMotion-menu](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem. :star:77
+* [ProMotion-menu](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem. :star:78
 * [ProMotion-push](https://github.com/infinitered/ProMotion-push) - Push notification support for ProMotion. :star:17
 * [ProMotion-map](https://github.com/infinitered/ProMotion-map) - ProMotion::MapScreen gem. Extracted from ProMotion core. :star:13
 
@@ -237,14 +237,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 #### GUI Frameworks
 * [IB](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions. :star:266
 * [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone. :star:637
-* [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:322
+* [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:323
 * [Motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ. :star:4
 * [Purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS. :star:2
 
 
 #### Autolayout
 * [Purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
-* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:226
+* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:227
 
 
 #### Input
@@ -253,7 +253,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### iOS
-* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:96
+* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:97
 * [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:150
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37
@@ -265,7 +265,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Forms
-* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:635
+* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:636
 * [Motion-form](https://github.com/dblandin/motion-form) - RubyMotion forms made easy. :star:16
 
 
@@ -283,7 +283,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Hybrid
 * [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - Material design floating action button. :star:7
-* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:40
+* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:41
 * [Motion-hybrid](https://github.com/balvig/motion-hybrid) - RubyMotion framework for easily making hybrid webview-centric iOS apps. :star:36
 
 
@@ -302,7 +302,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Models & Core Data
-* [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:198
+* [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:199
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:107
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:69
 * [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:177
@@ -315,7 +315,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion. :star:42
 * [Motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol. :star:27
 * [Apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL. :star:33
-* [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking. :star:220
+* [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking. :star:221
 
 
 ### Project Management
@@ -349,7 +349,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Screenshots
-* [Motion-screenshots](https://github.com/clayallsopp/motion-screenshots) - Automatic screenshots for your RubyMotion apps. :star:41
+* [Motion-screenshots](https://github.com/clayallsopp/motion-screenshots) - Automatic screenshots for your RubyMotion apps. :star:42
 * [Motion-launchimages](https://github.com/brendanjcaffrey/motion-launchimages) - Automate taking your RubyMotion launch images. :star:5
 
 

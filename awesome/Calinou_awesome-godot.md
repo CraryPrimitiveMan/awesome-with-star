@@ -18,7 +18,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam :star:102
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:81
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:15
+- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:14
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone :star:8
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:17
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:41
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:437
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:438
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
 
 ### 3D
@@ -59,7 +59,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:233
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:235
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:19
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:64
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:8
@@ -85,7 +85,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations :star:20
 - [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:20
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:74
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:75
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
@@ -118,9 +118,9 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 ## Unofficial Godot builds
 
-*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
+*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
-- ~~[Calinou's builds](https://godot.hugo.pro/)~~ - *Currently unavailable.*
+- [Calinou's builds](https://godot.hugo.pro/)
 - [Digitecnology's builds](http://godot3builds.digitecnology.com/)
 
 ## Other

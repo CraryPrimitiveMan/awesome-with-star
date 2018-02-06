@@ -75,15 +75,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5179
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5178
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5698
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1739
-- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:105
+- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:106
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1776
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1777
 - [Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.
 - [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
 
@@ -100,13 +100,13 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:68
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:5
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2567
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2568
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1356
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3942
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:986
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2419
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3945
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:988
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2426
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3532
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3535
 
 
 ## Miscellaneous

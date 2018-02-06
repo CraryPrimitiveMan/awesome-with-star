@@ -18,22 +18,22 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:365
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:371
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2725
-* [Fundle](https://github.com/tuvistavie/fundle) :star:165
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2730
+* [Fundle](https://github.com/tuvistavie/fundle) :star:166
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3084
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3090
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:684
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:685
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
-* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:238
+* [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:239
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:103
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:19
 * [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
@@ -50,10 +50,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:418
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:421
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:43
-* [Pure](https://github.com/rafaelrinaldi/pure) :star:201
+* [Pure](https://github.com/rafaelrinaldi/pure) :star:202
 * [Sektor](https://github.com/fisherman/sektor) :star:52
 * [Shellder](https://github.com/simnalamburt/shellder) :star:151
 * [Stark](https://github.com/fisherman/stark) :star:52
