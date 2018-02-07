@@ -106,7 +106,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2723
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:839
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:840
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2230
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2233
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -217,7 +217,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:318
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:317
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:555
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:558
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:284
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -267,7 +267,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a :star:57
   pattern and helper methods for accessing a pluggable service layer from
   within your Pyramid apps.
-* [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers :star:49
+* [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers :star:50
     that can watch files for changes and restart the process.
 
 ## Storage
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1402
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1403
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

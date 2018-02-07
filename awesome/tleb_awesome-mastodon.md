@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12080
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12092
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -154,5 +154,5 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Librairies
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:194
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:195
 

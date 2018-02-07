@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:211
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5067
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5072
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -35,7 +35,7 @@ under the hood:
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:345
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:72
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:106
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:107
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:22
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:26
@@ -65,7 +65,7 @@ under the hood:
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing. :star:21
 - [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
 - [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:3
-- [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:12
+- [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:13
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:13
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:11
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
@@ -109,7 +109,7 @@ Other CLI templates
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo. :star:10
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review). :star:3
 - [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
-- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:20
+- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:22
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor. :star:33
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:28
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:6

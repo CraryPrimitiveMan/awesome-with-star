@@ -11,7 +11,7 @@
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:81
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:643
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:190
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:191
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:200
@@ -116,7 +116,7 @@
 - [Arjun Mayilvaganan](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
 - [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 - [Michael Novotny](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job. :star:2
-- [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist) and passionate photographer. :star:12
+- [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist) and passionate photographer. :star:13
 - [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
 - [Chris 'Freddy' Getsfred](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.

@@ -322,7 +322,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:7
-- [test-anything](https://github.com/finnp/test-anything) :star:119
+- [test-anything](https://github.com/finnp/test-anything) :star:120
 - https://math-comp.github.io/mcb/
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:504
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
@@ -362,14 +362,14 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1510
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:15
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:977
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2429
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:985
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2439
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:392
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:138
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:54
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:55
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:139
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:310
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:312
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:112
 

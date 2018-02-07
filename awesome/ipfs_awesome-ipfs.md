@@ -32,8 +32,8 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
-* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:88
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6909
+* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:89
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6912
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:147
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
@@ -45,7 +45,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs. :star:90
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support. :star:295
-* [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS. :star:109
+* [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS. :star:110
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS :star:50
 * [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events. :star:5
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink) :star:33

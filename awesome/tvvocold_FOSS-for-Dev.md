@@ -28,7 +28,7 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20336
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20337
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:46
 
 
@@ -40,7 +40,7 @@ Feel free to send a PR :)
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3929
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3930
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:2982
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8844
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
@@ -54,9 +54,9 @@ Feel free to send a PR :)
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9712
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6460
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1618
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9723
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6461
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1620
 
 
 ## Security and PKI
@@ -67,18 +67,18 @@ Feel free to send a PR :)
 
 ## Bug trackers
 
-* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software :star:180
-* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:881
+* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software :star:179
+* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:882
 
 
 ## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2689
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9274
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2690
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9283
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4035
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4037
 
 ## ADN 
   

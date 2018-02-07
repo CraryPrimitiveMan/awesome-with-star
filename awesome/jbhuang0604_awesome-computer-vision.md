@@ -227,8 +227,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Open CV](http://opencv.org/)
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
-* [Open source Python module for computer vision](https://github.com/jesolem/PCV) :star:1267
-* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv) :star:6086
+* [Open source Python module for computer vision](https://github.com/jesolem/PCV) :star:1268
+* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv) :star:6087
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
@@ -399,7 +399,7 @@ Non-uniform Deblurring
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised](https://github.com/davidstutz/seeds-revised) :star:29
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
- * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges) :star:404
+ * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges) :star:406
 
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -435,7 +435,7 @@ Non-uniform Deblurring
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing) :star:195
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
- * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo) :star:871
+ * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo) :star:872
  * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam) :star:267
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
@@ -466,7 +466,7 @@ Non-uniform Deblurring
  * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) :star:1340
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net) :star:280
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
- * [Edge Boxes](https://github.com/pdollar/edges) :star:404
+ * [Edge Boxes](https://github.com/pdollar/edges) :star:406
  * [ReInspect](https://github.com/Russell91/ReInspect) :star:371
 
 #### Nearest Neighbor Search
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5964
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:5969
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30087
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30132
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7591
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30087
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7613
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30132
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

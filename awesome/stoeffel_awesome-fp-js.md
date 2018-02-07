@@ -53,7 +53,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
-* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:45
+* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:46
 
 ### Data Structures
 
@@ -111,8 +111,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Reason](http://facebook.github.io/reason/) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
-* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS. :star:257
-* [ion](https://github.com/ion-lang/ion) - no BS JS :star:30
+* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS. :star:258
+* [ion](https://github.com/ion-lang/ion) - no BS JS :star:31
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS :star:85
 
 ## Programming Tools
@@ -121,7 +121,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1089
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
-* [ftor](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding. :star:23
+* [ftor](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding. :star:25
 
 ## Resources
 

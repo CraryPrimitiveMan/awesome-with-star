@@ -162,7 +162,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic. :star:22
 * [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver. :star:43
 * [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions. :star:19
-* [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:93
+* [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:92
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
 * [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:11
 * [Motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. :star:36
@@ -187,7 +187,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Debugging & Error Reporting
-* [Motion-reveal](https://github.com/diogoandre/motion-reveal) - Easy way to add the Reveal framework to your Rubymotion project. :star:18
+* [Motion-reveal](https://github.com/diogoandre/motion-reveal) - Easy way to add the Reveal framework to your Rubymotion project. :star:19
 * [Crittercism](https://github.com/andrewhavens/crittercism) - Easily add crash reporting to your RubyMotion app with Crittercism. :star:4
 * [Motion_print](https://github.com/OTGApps/motion_print) - RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL. :star:31
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) - Port of the awesome_print gem to RubyMotion. :star:49
@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:229
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1272
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1271
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
@@ -244,7 +244,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Autolayout
 * [Purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
-* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:227
+* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:225
 
 
 #### Input
@@ -265,7 +265,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Forms
-* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:636
+* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:635
 * [Motion-form](https://github.com/dblandin/motion-form) - RubyMotion forms made easy. :star:16
 
 
@@ -373,7 +373,7 @@ App project templates
 
 ### Testing
 * [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:6
-* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:96
+* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:95
 * [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:47
 * [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:31
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework. :star:3

@@ -181,7 +181,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:104
 - [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:114
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
-- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:260
+- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:261
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 
 
@@ -211,7 +211,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Chatra](https://superbig.co/plugins/chatra) - Integrate Chatra easily. Powerful live chat software that helps to increase revenue and collect feedback.
 - [Crisp](https://superbig.co/plugins/crisp) - Integrate Crisp.im Free and beautiful livechat to interact with your customers.
 - [Discourse SSO](https://superbig.co/plugins/discourse-sso) - Single Sign-On for Discourse.
-- [Disqus](https://github.com/nystudio107/disqus) - Integrate the Disqus commenting system including Single Sign On (SSO) and custom login/logout URLs. :star:28
+- [Disqus](https://github.com/nystudio107/disqus) - Integrate the Disqus commenting system including Single Sign On (SSO) and custom login/logout URLs. :star:29
 - [Embedder](https://github.com/A-P/Embedder) - Generate the exact, most up-to-date YouTube, Vimeo, Wistia, or Viddler embed code available. :star:70
 - [Olark](https://superbig.co/plugins/olark) - Integrate Olark. Live chat to answer customers immediately on your website.
 - [Social Login](https://dukt.net/social) - Let your visitors log in & register with web services like Facebook, Google, Twitter.
@@ -281,7 +281,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:105
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
-- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:92
+- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:94
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
  
  
@@ -304,7 +304,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Cookies](https://github.com/nystudio107/cookies) - Simple plugin for setting and getting secure cookies from within templates. :star:67
 - [Country Redirect](https://superbig.co/plugins/country-redirect) - Easily redirect visitors to a locale based on their country of origin.
 - [Craft Help](https://github.com/70kft/craft-help) - Allows developers to provide CMS documentation to their clients directly inside the control panel. :star:76
-- [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:60
+- [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:61
 - [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:23
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:32
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:47
@@ -330,7 +330,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:190
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:111
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:168
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:169
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 

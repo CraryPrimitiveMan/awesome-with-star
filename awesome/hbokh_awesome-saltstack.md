@@ -30,7 +30,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 - [SaltStack site](https://saltstack.com/) - Company website.
-- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8532
+- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8536
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -100,9 +100,9 @@ A :gem: means **really _awesome / useful_**.
 ## Tools
 
 - [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration. :star:613
-- [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack. :star:143
-- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:36
-- [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack. :star:9
+- [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack. :star:144
+- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:37
+- [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack. :star:10
 
 ## Presentations
 
@@ -146,7 +146,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Cheat sheets
 
-- [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz. :star:11
+- [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz. :star:12
 - [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 - [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 - [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
