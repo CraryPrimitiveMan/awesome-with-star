@@ -101,7 +101,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:272
+	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:274
 	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1097
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
@@ -184,7 +184,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - A collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - A truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - A short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:25
+- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:26
 
 ### Source Code
 

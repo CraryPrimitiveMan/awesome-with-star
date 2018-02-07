@@ -37,7 +37,7 @@ A curated list of Awesome Alfred Workflows.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:210
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:42
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:522
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1282
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1285
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:89
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:135
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -106,8 +106,8 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1032
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:799
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1034
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:800
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:60
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter. :star:14
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.

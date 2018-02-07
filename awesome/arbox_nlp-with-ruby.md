@@ -198,7 +198,7 @@ are often collected in dictionaries.
 
 #### Filtering Stop Words
 
-- [stopwords-filter](https://github.com/brenes/stopwords-filter) - Filter and :star:51
+- [stopwords-filter](https://github.com/brenes/stopwords-filter) - Filter and :star:52
   Stop Word Lexicon based on the SnowBall lemmatizer.
 
 ### Phrasal Level Processing

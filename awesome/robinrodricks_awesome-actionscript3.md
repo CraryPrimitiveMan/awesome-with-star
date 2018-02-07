@@ -489,7 +489,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [TeaTime](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol. :star:11
 * [XMPP](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library. :star:9
 * [XMPP](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library. :star:2
-* [AMQP](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP. :star:44
+* [AMQP](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP. :star:43
 * [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol). :star:5
 * [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol. :star:1
 * [BDD Cucumber](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript. :star:29

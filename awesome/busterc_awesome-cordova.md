@@ -45,7 +45,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
       - [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
       - [generator-cordova-www](https://github.com/busterc/generator-cordova-www) :star:1
-      - [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:691
+      - [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:692
       - [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova) :star:1
       - [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova) :star:2
       - [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:24
@@ -60,7 +60,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - Splash Screens
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
-      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:355
+      - [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:356
       - [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
     - Plugin
       - [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13

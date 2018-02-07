@@ -22,7 +22,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:114
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:115
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:43
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:43
@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Scheduled/Recurrence Jobs
 
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:55
-* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:102
+* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:103
 * [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:27
 
 ### Guice

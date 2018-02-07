@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:17
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:41
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:441
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:442
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016 :star:1
 
 ### 3D
@@ -59,7 +59,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:237
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:238
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:19
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:64
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:8
@@ -84,7 +84,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:7
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations :star:20
-- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:20
+- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:21
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:75
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.

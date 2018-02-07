@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17880
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20674
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17884
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20684
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -119,7 +119,7 @@ Additional lists you might find useful:
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
 
-- [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code. :star:75
+- [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code. :star:76
 
 ## Debugging
 *Plugins for debugging.*
@@ -130,7 +130,7 @@ Additional lists you might find useful:
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks. :star:11
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer. :star:2
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools. :star:27
-- [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops). :star:6
+- [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops). :star:7
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
@@ -186,7 +186,7 @@ Additional lists you might find useful:
 *Plugins for I18n (Internationalization) and L10n (Localization).*
 
 - [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools. :star:26
-- [Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files. :star:203
+- [Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files. :star:204
 - [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior. :star:39
 - [Transifex plugin](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API. :star:13
 - [Translate plugin](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API. :star:9
@@ -204,12 +204,12 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:74
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:457
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:775
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:458
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:776
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:52
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2562
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2563
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -260,7 +260,7 @@ Additional lists you might find useful:
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
 
-- [Monga plugin](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga). :star:12
+- [Monga plugin](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga). :star:13
 
 ## Notifications
 *Plugins for working with notification software.*
@@ -277,7 +277,7 @@ Additional lists you might find useful:
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities. :star:48
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money). :star:5
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables. :star:16
-- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP. :star:53
+- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP. :star:54
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models. :star:9
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel. :star:8
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin. :star:3

@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15355
+- [Official Repository](https://github.com/less/less.js) :star:15356
 
 **[Back to top](#contents)**
 
@@ -63,7 +63,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:346
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19006
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19008
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -125,7 +125,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Hexagon](http://db0company.github.io/css-hexagon/) - Generate CSS hexagons with custom size and color.
 - [Homeless](https://github.com/pixelass/homeless) - Helpful functions. :star:37
 - [Less Elements](http://lesselements.com/) - Set of basic mixins.
-- [Lesshat](https://github.com/madebysource/lesshat) - Smart mixins library. :star:2249
+- [Lesshat](https://github.com/madebysource/lesshat) - Smart mixins library. :star:2250
 - [Lessley](https://github.com/pixelass/lessley) - 	A jasmine like testing suite written in pure Less. :star:8
 - [Lessmore](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more. :star:2
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:8
@@ -203,7 +203,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:701
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
 - [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:545
-- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:943
+- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:944
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:62
@@ -211,7 +211,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lesshint](https://github.com/lesshint/lesshint) - Tool to aid you in writing clean and consistent Less. :star:106
 - [LiveReload](http://livereload.com/) - CSS edits and image changes apply live. CoffeeScript, SASS, Less and others just work.
 - [SimpleLess](https://wearekiss.com/simpless) - SimpleLess is a minimalistic Less compiler. Just drag, drop and compile.
-- [Sublime Less2CSS](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 Plugin to compile Less files to css on save. :star:205
+- [Sublime Less2CSS](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 Plugin to compile Less files to css on save. :star:204
 - [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile. :star:229
 - [Vim Less](https://github.com/groenewege/vim-less) - This vim bundle adds syntax highlighting, indenting and autocompletion. :star:598
 - [Visual Studio Web Essentials](http://vswebessentials.com/) - If you ever write CSS, HTML, JavaScript, TypeScript, CoffeeScript or Less, then you will find many useful features that make your life as a developer easier.

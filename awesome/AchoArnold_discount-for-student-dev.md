@@ -48,7 +48,7 @@ Table of Contents
   * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) - Free professional developer tools from JetBrains.
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
-  * [Visual Studio Community 2015](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
 
 ## Version Control
@@ -136,7 +136,7 @@ Table of Contents
  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
 
 ## Password Managers
-
+ * [RoboForm](https://www.roboform.com/promotions/college) - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
  * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Infrastructure Monitoring

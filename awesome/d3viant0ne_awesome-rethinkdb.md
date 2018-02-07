@@ -165,7 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:175
 - [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3. :star:21
 - [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:471
-- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1284
+- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1285
 - [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:92
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp. :star:42
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:32
@@ -205,7 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### RethinkDB Examples
 
-- [RethinkDB NodeJS Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat) - A node.js chat application running on rethinkdb. :star:191
+- [RethinkDB NodeJS Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat) - A node.js chat application running on rethinkdb. :star:192
 - [RethinkDB Flask Backbone ToDo](https://github.com/rethinkdb/rethinkdb-example-flask-backbone-todo) - A canonical backbone todo application running on flask and RethinkDB. :star:111
 - [RethinkDB ccoenraets/nodecellar Fork](https://github.com/rethinkdb/nodecellar-rethinkdb) - Sample app built with Backbone.js,Bootstrap, Node.js, Express, RethinkDB. :star:12
 - [RethinkDB PubNub Live Blog](https://github.com/rethinkdb/rethinkdb-pubnub-liveblog) - PubNub / Express Blog Example App. :star:21

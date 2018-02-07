@@ -129,7 +129,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:241
-- [Simple Map](https://github.com/ethercreative/simplemap) - Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance. :star:90
+- [Simple Map](https://github.com/ethercreative/simplemap) - Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance. :star:91
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
@@ -326,11 +326,11 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 ## Development Tools/Resources
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:57
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:132
-- [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:80
+- [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:81
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:190
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:111
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:169
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:170
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 

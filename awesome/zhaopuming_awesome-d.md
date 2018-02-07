@@ -183,11 +183,11 @@
 *Integrated Development Environment.*
 
 * [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support. :star:111
-* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:184
+* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:185
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:254
 * [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:180
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:223
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:224
 
  
 ## Lexers, Parsers, Parser Generators
@@ -219,12 +219,12 @@
 *Networking library*
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects :star:109
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2 :star:31
-* [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D. :star:51
+* [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D. :star:52
 
 *Full stack web frameworks.*
 * [Hunt](http://www.huntframework.com/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:310
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:311
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS. :star:16
 * [diamond](https://github.com/DiamondMVC/Diamond/) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
@@ -261,10 +261,10 @@
 * [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite. :star:19
 * [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements. :star:2
 * [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite. :star:14
-* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:903
+* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:904
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:58
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL. :star:41
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:310
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:311
 * [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction. :star:44
 * [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)). :star:70
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL. :star:19
@@ -284,13 +284,13 @@
 *Libraries for working with graphical user interface applications.*
 
 
-* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide). :star:403
+* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide). :star:404
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D. :star:197
 * [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet. :star:86
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:86
-* [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:27
+* [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:28
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4850
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:4852
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -334,7 +334,7 @@
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>. :star:374
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>. :star:86
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language :star:92
+* [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language :star:93
 
 ## Games
 
@@ -398,7 +398,7 @@
 ## Testing
 
 - [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit :star:55
-- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework :star:78
+- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework :star:79
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.

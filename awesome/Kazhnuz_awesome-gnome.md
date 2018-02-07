@@ -76,7 +76,7 @@
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:45
 - [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2247
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:287
-- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:190
+- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:189
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:24
 
 ### Multimedia
@@ -84,11 +84,11 @@
 - [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop. :star:4
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop. :star:132
-- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME. :star:175
+- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME. :star:176
 - [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:351
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:352
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:86
 
@@ -107,14 +107,14 @@
 - [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) - Official tweak tool provided by the GNOME project for tweaking your desktop.
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different backgrounds for each monitor on GNOME :star:21
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different backgrounds for each monitor on GNOME :star:22
 
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2163
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2164
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:236
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2187
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2198
 
 ### System
 
@@ -127,7 +127,7 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:421
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:422
 
 ## Extensions
 
@@ -144,12 +144,12 @@
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:38
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:102
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
-- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:26
+- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:27
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME. :star:313
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
 - [MConnect](https://github.com/andyholmes/gnome-shell-extension-mconnect) - KDE Connect/MConnect integration for Gnome Shell :star:163
-- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers :star:43
+- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers :star:44
 
 ### Status Area
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray for the status bar of GNOME.
@@ -158,7 +158,7 @@
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets. :star:29
 
 ### Windows
-- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:38
+- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:39
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell. :star:204
@@ -174,7 +174,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:427
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:426
 
 ### Adwaita-based
 
@@ -207,12 +207,12 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1307
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1315
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:88
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:747
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:750
 
 ### Homogeneous Icons
 
@@ -227,7 +227,7 @@
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
- - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:15
+ - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:16
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:204
 
 ## Community

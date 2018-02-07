@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:211
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5072
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5080
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,7 +28,7 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:412
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:413
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:837
   library backends.

@@ -169,7 +169,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:122
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:5
-- [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:289
+- [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:288
 - [AndroidGameBoyEmulator](https://github.com/pedrovgs/AndroidGameBoyEmulator)
 - [GameLad](https://github.com/Dooskington/GameLad) - C++/SDL almost fully featured emulator. :star:254
 - [Wadatsumi](https://github.com/arrow-lang/wadatsumi) - Arrow. :star:8
@@ -177,7 +177,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [jgilchrist](https://github.com/jgilchrist/emulator) - Modern C++. :star:38
 - [gameboyGO](https://github.com/gonccalo/gameboyGO) - Go. :star:14
 - [GameBoyEmulator-GBS](https://github.com/Salgat/GameBoyEmulator-GBS) - C++ 14 with a single library dependency of SFML. :star:23
-- [PyBoy](https://github.com/Baekalfen/PyBoy) - Python. Mac, Linux and Windows. :star:68
+- [PyBoy](https://github.com/Baekalfen/PyBoy) - Python. Mac, Linux and Windows. :star:69
 - [scimitar](https://github.com/tompko/scimitar) - Rust. :star:2
 - [FunGBC](https://github.com/andreasjhkarlsson/fungbc) - F#. :star:7
 - [barnacleboy](https://github.com/rep-nop/barnacleboy) - Rust. :star:24
@@ -186,7 +186,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:37
 - [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:246
-- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1003
+- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1004
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:11
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:18
@@ -215,7 +215,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### Tools
 
-- [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)). :star:95
+- [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)). :star:97
 - [DevSound](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms. :star:10
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine for Game Boy & Game Boy Color.
 - [Game Boy Tile Data Generator](http://www.chrisantonellis.com/gameboy/gbtdg/) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
@@ -235,7 +235,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 - [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in NodeJS :star:5
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) - MML to Game Boy parser and driver. :star:6
-- [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output. :star:12
+- [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output. :star:13
 - [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - An engine for creating games (expands GBDK).
 - [awake](https://github.com/devdri/awake) - Gameboy decompiler. :star:27
 
@@ -247,6 +247,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 - [rgbds_textmate](https://github.com/Bananattack/rgbds_textmate) - Some syntax highlighting rules for coding in Z80 assembly as a Textmate language plugin. Works in Sublime Text 2 and 3\. The syntax is particularly designed for RGBDS and Game Boy-specific Z80 instructions. :star:12
+- [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
 
 ## Programming Tutorials
 

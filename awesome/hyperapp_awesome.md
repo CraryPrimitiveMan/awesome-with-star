@@ -49,9 +49,9 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Utilities
 
-* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:41
+* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:42
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:22
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:160
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:161
 * [frenzzy/hyperapp-render](https://github.com/frenzzy/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:13
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:25
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:14
@@ -65,7 +65,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Testing
 
-* [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress](https://github.com/cypress-io/cypress) end-to-end test runner. :star:6
+* [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress](https://github.com/cypress-io/cypress) end-to-end test runner. :star:8
 
 ## Other
 

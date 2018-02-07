@@ -46,7 +46,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library :star:428
+* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library :star:429
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -135,7 +135,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games :star:102
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons :star:59
-* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use :star:44
+* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use :star:45
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 * [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua :star:3
 
@@ -175,7 +175,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:394
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
-* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:79
+* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:80
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -190,7 +190,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2542
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2549
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -314,7 +314,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1588
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1589
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:37
 * [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:746
 

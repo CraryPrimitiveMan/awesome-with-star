@@ -28,21 +28,21 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20337
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20342
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:46
 
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:792
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:794
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3846
 
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3930
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:2982
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8844
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3931
+ * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:2981
+ * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8847
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
@@ -54,9 +54,9 @@ Feel free to send a PR :)
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9723
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9725
  * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6461
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1620
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1624
 
 
 ## Security and PKI
@@ -68,17 +68,17 @@ Feel free to send a PR :)
 ## Bug trackers
 
 * [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software :star:179
-* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:882
+* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:883
 
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2690
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9283
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9289
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4037
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4044
 
 ## ADN 
   

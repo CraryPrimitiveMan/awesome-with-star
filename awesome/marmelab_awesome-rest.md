@@ -35,7 +35,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Architectural Styles and
 the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
-* [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design) :star:12657
+* [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design) :star:12658
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
@@ -44,7 +44,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security :star:10496
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security :star:10503
 
 ## Standards
 
@@ -63,12 +63,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### PHP Clients
 
 * [Guzzle](http://guzzle.readthedocs.org/en/latest/) - HTTP client and framework for consuming RESTful web services.
-* [Buzz](https://github.com/kriswallsmith/buzz) - Another lightweight HTTP client. :star:1411
-* [unirest for PHP](https://github.com/Mashape/unirest-php) - Simplified, lightweight HTTP client library. :star:1022
+* [Buzz](https://github.com/kriswallsmith/buzz) - Another lightweight HTTP client. :star:1413
+* [unirest for PHP](https://github.com/Mashape/unirest-php) - Simplified, lightweight HTTP client library. :star:1023
 
 ### JavaScript Clients
 
-* [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily. :star:8182
+* [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily. :star:8184
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources. :star:904
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser :star:253
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js. :star:112
@@ -76,32 +76,32 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Node.js Clients
 
  * [restler](https://github.com/danwrong/restler) - REST client library for node.js. :star:1961
- * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library. :star:766
+ * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library. :star:767
 
 ### Ruby Clients
 
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions. :star:4251
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner. :star:503
-* [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients. :star:865
+* [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients. :star:866
 * [httparty](https://github.com/jnunemaker/httparty) - Makes HTTP fun again! :star:4403
 * [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * [raml-ruby-client-generator](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file. :star:2
 
 ### Go Clients
 
-* [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs. :star:403
-* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client. :star:730
+* [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs. :star:404
+* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client. :star:731
 
 ## Servers
 
 ### Directly On Top Of A RMDB
 
-* [postgrest](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database. :star:10319
+* [postgrest](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database. :star:10326
 * [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
 ### Node.js
 
-* [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API. :star:7775
+* [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API. :star:7782
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API. :star:345
 * [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities. :star:638
@@ -113,26 +113,26 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### PHP
 
 * [Microrest](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database. :star:190
-* [Negotiation](https://github.com/willdurand/Negotiation) - Content negotiation library. :star:544
+* [Negotiation](https://github.com/willdurand/Negotiation) - Content negotiation library. :star:547
 * [Drest](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints. :star:83
 * [Restler](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API. :star:1231
 * [HAL](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library. :star:190
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2. :star:464
 * [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP. :star:315
-* [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services. :star:799
+* [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services. :star:800
 * [Fusio](https://github.com/apioo/fusio) - Open source API management platform. :star:397
 
 #### Symfony2
 
 * [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
-* [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API. :star:1672
+* [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API. :star:1673
 * [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration. :star:130
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application. :star:204
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application. :star:205
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured. :star:624
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`. :star:75
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification. :star:610
-* [API Platform](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs. :star:2381
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification. :star:612
+* [API Platform](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs. :star:2384
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations. :star:1389
 
 ### Python
@@ -148,7 +148,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
 * [Flask-Potion](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API. :star:408
-* [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.  :star:3370
+* [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.  :star:3375
 
 ### Ruby
 
@@ -158,12 +158,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Go
 
 * [gocrud](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
-* [go-json-rest](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily. :star:3031
+* [go-json-rest](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily. :star:3032
 * [sleepy](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go. :star:669
 * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test. :star:44
 * [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's. :star:147
 * [go-rest](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go. :star:106
-* [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's. :star:2528
+* [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's. :star:2532
 * [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go. :star:160
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services. :star:29
 * [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework. :star:139
@@ -182,23 +182,23 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Querying
 
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`. :star:33895
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`. :star:33911
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
-* [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh). :star:2269
-* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL. :star:10667
+* [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh). :star:2270
+* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL. :star:10678
 * [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 * [Http-console](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local* :star:1320
-* [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services. :star:2763
+* [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services. :star:2767
 
 ### Mocking
 
 * [RequestBin](http://requestb.in/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 * [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
-* [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side. :star:240
-* [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping. :star:28697
+* [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side. :star:241
+* [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping. :star:28730
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema :star:18
-* [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI. :star:28
+* [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI. :star:29
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
@@ -212,7 +212,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
 * [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
-* [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file. :star:907
+* [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file. :star:906
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## SaaS tools
@@ -228,10 +228,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Miscellaneous
 
-* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API. :star:3815
-* [admin-on-rest](https://github.com/marmelab/admin-on-rest) - Add a ReactJS admin GUI to any RESTful API. :star:3564
-* [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification). :star:6067
-* [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application. :star:1555
+* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API. :star:3818
+* [admin-on-rest](https://github.com/marmelab/admin-on-rest) - Add a ReactJS admin GUI to any RESTful API. :star:3574
+* [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification). :star:6078
+* [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application. :star:1556
 
 ## License
 

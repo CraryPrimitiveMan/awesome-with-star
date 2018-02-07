@@ -20,7 +20,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:22153
+* [GitHub](https://github.com/zeit/next.js) :star:22209
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -46,21 +46,21 @@
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:3
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:273
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:442
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1247
-* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:290
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1249
+* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:291
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:3
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint. :star:13
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree. :star:17
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS. :star:3
-* [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:97
-* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:11
+* [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:98
+* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:12
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:573
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:575
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:587
+* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:586
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:17
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:22
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:254
@@ -72,9 +72,9 @@
 * [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities. :star:11
 * [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer. :star:246
 * [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:22
-* [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:42
+* [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:43
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:31
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:342
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:343
 * [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:93
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information. :star:4
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation. :star:32

@@ -7,8 +7,8 @@
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 
 #### DevTools as an IDE
-- [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets. :star:1454
-- [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser. :star:552
+- [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets. :star:1455
+- [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser. :star:553
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets. :star:1334
 
 ---
@@ -76,15 +76,15 @@
 
 #### Browser Adapters
 - [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP :star:108
-- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP. :star:3366
-- [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP :star:514
+- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP. :star:3368
+- [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP :star:515
 - [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 10/11 to CDP. :star:541
 - [Edge Diagnostics Adaptor](https://github.com/Microsoft/edge-diagnostics-adaptor) - Protocol adaptor that enables tools to debug Edge using the CDP. :star:98
 
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9211
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9217
 
 ##### ClosureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript :star:528
@@ -93,7 +93,7 @@
 - [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools :star:213
 
 #### iOS
-- [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools :star:5534
+- [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools :star:5536
 
 ##### Go
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools) :star:30
@@ -117,7 +117,7 @@
 - [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
 - [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
-- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:6813
+- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:6835
 - [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Inspect an Angular application's scope and profile its data.
 - [Augury](https://augury.angular.io)  - Debugging and Profiling for Angular 2 applications.
 - [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.

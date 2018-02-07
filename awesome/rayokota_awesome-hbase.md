@@ -73,7 +73,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:98
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:99
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:101
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 
@@ -96,7 +96,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:470
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:473
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions

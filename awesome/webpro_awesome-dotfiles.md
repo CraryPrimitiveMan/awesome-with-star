@@ -86,36 +86,36 @@ Title | Description | Focus
 * [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management. :star:206
 * [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles. :star:1473
-* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:113
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:114
 * [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy. :star:347
 * [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles. :star:209
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-* [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1184
+* [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1185
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)). :star:1975
-* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:6787
-* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1733
+* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:6794
+* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1734
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
 * [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:1499
-* [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME. :star:1349
-* [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:575
+* [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME. :star:1348
+* [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:577
 
 ### macOS
 
 * [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:786
 * [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:532
-* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:4052
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:4055
 
 ## Miscellaneous
 
 * [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
-* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults). :star:452
+* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults). :star:453
 
 ## Related Lists
 
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11518
-* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3792
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11527
+* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3799
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1036
 
 ## Archive/abandoned projects
