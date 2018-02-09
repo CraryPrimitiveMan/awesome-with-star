@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:361
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:362
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:84
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:161
@@ -123,9 +123,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:23
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:31
-- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:119
+- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:120
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:156
-- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:286
+- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:287
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:241
@@ -160,7 +160,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
 - [Sprout Import](https://sprout.barrelstrengthdesign.com/craft-plugins/import) - Import, migrate, seed, and weed content and settings into Craft CMS, Craft Commerce, the Sprout Plugin Suite, and add your own custom integrations.
 - [Sprout Reports](https://sprout.barrelstrengthdesign.com/craft-plugins/reports) - Customize, save, and run the reports you need to manage your business. Export all of your website data and custom reports in CSV format.
-- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:172
+- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:173
 
 
 ### Forms
@@ -181,7 +181,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:104
 - [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:114
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
-- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:261
+- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:263
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 
 
@@ -196,7 +196,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Embedly](https://superbig.co/plugins/embedly) - Use Embed.ly to fetch information and embed content from 250+ services.
 - [Facebook](https://dukt.net/facebook) - Facebook Insights widget for the dashboard.
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
-- [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:109
+- [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:110
 - [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:97
 - [Pushover](https://superbig.co/plugins/pushover) - Send messages to Pushover.
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
@@ -246,7 +246,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore. :star:121
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks. :star:35
 - [Presto](https://github.com/caddis/craft-presto) - Static file extension for the native Craft cache. :star:26
-- [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver. :star:47
+- [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver. :star:50
 - [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content. :star:34
 
 
@@ -262,7 +262,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Bugsnag](https://superbig.co/plugins/bugsnag) - Log Craft errors/exceptions to Bugsnag.
 - [Inspector](https://github.com/amacneil/craft-inspector) - Adds a helpful `inspect` method to your templates - figure out what kind of variables you are dealing with, and what methods they implement. :star:73
 - [Kint](https://github.com/mildlygeeky/craft_kint) - In-app PHP debugger for use in Twig and PHP. :star:50
-- [Query Log](https://github.com/rsanchez/craft-query-log) - Show a log of database queries in your front-end templates. :star:28
+- [Query Log](https://github.com/rsanchez/craft-query-log) - Show a log of database queries in your front-end templates. :star:29
 - [Query](https://github.com/craftcms/query/tree/v1) - Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 
 ##### Fields
@@ -306,7 +306,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft Help](https://github.com/70kft/craft-help) - Allows developers to provide CMS documentation to their clients directly inside the control panel. :star:76
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:61
 - [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:23
-- [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:32
+- [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:33
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:47
 - [Large Upload](https://superbig.co/plugins/large-upload) - Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Printmaker](https://craftpl.us/plugins/printmaker) - Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.

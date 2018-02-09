@@ -127,7 +127,7 @@
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1700
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1467
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1381
-- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:920
+- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:919
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:830
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:599
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:505

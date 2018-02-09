@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-standup](#git-standup)
 - [Commitizen](#commitizen)
 - [git-fresh](#git-fresh)
+- [git-fs](#git-fs)
 
 
 ## [git-extras](https://github.com/tj/git-extras)
@@ -1289,7 +1290,7 @@ Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 $ git dsf
 ```
 
-![diff-so-fancy](https://cloud.githubusercontent.com/assets/39191/13622719/7cc7c54c-e555-11e5-86c4-7045d91af041.png)
+![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
 
 ## [git-stats](https://github.com/IonicaBizau/git-stats)
@@ -1511,6 +1512,15 @@ Line 1 will be cropped at 100 characters. All other lines will be wrapped after 
 ## [git-fresh](https://github.com/imsky/git-fresh)
 
 TBD
+
+## [git-fs](https://github.com/freddi301/git-fs)
+
+### command
+
+```
+$ git fs
+Mounting readnly filesystem on ./git/fs
+```
 
 
 ## License

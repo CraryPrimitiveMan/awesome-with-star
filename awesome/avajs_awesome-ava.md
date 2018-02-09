@@ -41,7 +41,7 @@
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:20
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149
-- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:180
+- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:181
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:433
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7

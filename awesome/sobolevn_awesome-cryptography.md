@@ -118,9 +118,9 @@ A curated list of cryptography resources and links.
 ### Standalone
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
-- [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion. :star:4021
-- [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol. :star:20948
-- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. :star:1934
+- [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion. :star:4024
+- [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol. :star:20960
+- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. :star:1937
 - [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 - [ironssh](https://ironcorelabs.com/products/ironsftp) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:269
@@ -129,7 +129,7 @@ A curated list of cryptography resources and links.
 
 #### Git
 
-- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git. :star:2751
+- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git. :star:2753
 - [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
 
 ## Frameworks and Libs
@@ -138,17 +138,17 @@ A curated list of cryptography resources and links.
 
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1. :star:502
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
-- [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library. :star:5248
-- [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit. :star:634
+- [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library. :star:5257
+- [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit. :star:635
 - [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library. :star:6335
+- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library. :star:6353
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums. :star:149
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures. :star:474
-- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C. :star:843
-- [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. :star:339
-- [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm. :star:1798
+- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C. :star:844
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. :star:340
+- [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm. :star:1799
 
 ### C++
 
@@ -170,7 +170,7 @@ A curated list of cryptography resources and links.
 
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
 - [clj-crypto](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
-- [pandect](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure. :star:185
+- [pandect](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure. :star:186
 
 ### Common Lisp
 
@@ -189,7 +189,7 @@ A curated list of cryptography resources and links.
 
 - [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries. :star:40
 - [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto. :star:189
-- [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir. :star:748
+- [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir. :star:749
 - [elixir-rsa](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir. :star:14
 - [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir. :star:1
 - [ex_crypto](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use. :star:54
@@ -205,7 +205,7 @@ A curated list of cryptography resources and links.
 ### Go
 
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting. :star:118
+- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting. :star:119
 - [dedis/crypto](https://github.com/dedis/crypto) - Advanced crypto library for the Go language. :star:120
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go. :star:104
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book. :star:91
@@ -227,26 +227,26 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
-- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind. :star:416
+- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind. :star:417
 - [bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS. :star:527
 - [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript. :star:125
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 - [cryptico](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for javascript. :star:802
-- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards. :star:3637
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards. :star:3646
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS. :star:235
-- [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps. :star:2312
+- [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps. :star:2313
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions. :star:241
 - [js-nacl](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines. :star:394
-- [jsencrypt](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation. :star:1974
+- [jsencrypt](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation. :star:1975
 - [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC). :star:385
-- [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation. :star:1391
+- [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation. :star:1393
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/NodeJS-Howto) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers. :star:317
-- [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for NodeJS. :star:3302
-- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript. :star:2881
+- [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for NodeJS. :star:3307
+- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript. :star:2882
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API. :star:263
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed. :star:233
-- [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library. :star:4814
+- [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library. :star:4815
 - [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node. :star:526
 
 ### Java
@@ -254,11 +254,11 @@ A curated list of cryptography resources and links.
 - [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 - [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-- [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning. :star:969
-- [Google Tink](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks. :star:884
+- [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning. :star:970
+- [Google Tink](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks. :star:891
 - [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets. :star:1867
-- [pac4j](https://github.com/pac4j/pac4j) - Security engine. :star:1150
+- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets. :star:1868
+- [pac4j](https://github.com/pac4j/pac4j) - Security engine. :star:1151
 - [scrypt](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version. :star:327
 
 ### Julia
@@ -271,7 +271,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Lua
 
-- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua. :star:214
+- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua. :star:215
 - [LuaCrypto](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL. :star:63
 
 ### Objective-C
@@ -279,27 +279,27 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex. :star:921
 - [ObjC Themis](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard. :star:389
-- [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac. :star:2783
+- [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac. :star:2784
 
 
 ### PHP
 
 - [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
 - [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`. :star:16
-- [PHP Encryption](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP. :star:1502
+- [PHP Encryption](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP. :star:1511
 - [PHP Themis](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library. :star:52
 
 ### Python
 
-- [bcrypt](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers. :star:376
+- [bcrypt](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers. :star:378
 - [charm](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems. :star:203
 - [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python. :star:698
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [Privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data. :star:194
-- [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives. :star:367
+- [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives. :star:368
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish. :star:99
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library. :star:439
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -317,12 +317,12 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Rust
 
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library. :star:122
-- [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust. :star:280
-- [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives. :star:760
-- [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms. :star:666
+- [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust. :star:281
+- [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives. :star:761
+- [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms. :star:667
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust. :star:339
 - [rustls](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust. :star:632
-- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium). :star:272
+- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium). :star:273
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust. :star:121
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust. :star:110
 
@@ -332,10 +332,10 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Swift
 
-- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language. :star:5061
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language. :star:5065
 - [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift. :star:363
 - [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for OS X and Linux. :star:37
-- [SweetHMAC](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms. :star:32
+- [SweetHMAC](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms. :star:33
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X. :star:212
 - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift. :star:188
 - [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).

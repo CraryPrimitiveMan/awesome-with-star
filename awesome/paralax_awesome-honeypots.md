@@ -37,7 +37,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - Snare/Tanner - successors to Glastopf
       - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot :star:76
       - [Tanner](https://github.com/mushorg/tanner) - Evaluating SNARE events :star:45
-    - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot. :star:39
+    - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot. :star:40
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
@@ -67,11 +67,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:753
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:8
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:10
-    - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:19
+    - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:20
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689. :star:6
     - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - A modern high-interaction honeypot framework.
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - A multi-purpose modular honeypot based on Twisted.
-    - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. :star:4
+    - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. :star:5
     - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) -  low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).  :star:5
 
 - Distributed Honeypots
@@ -179,7 +179,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers. :star:12
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot.
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot. :star:4
-    - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot. :star:82
+    - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot. :star:83
     - [MTPot](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware. :star:82
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot. :star:144
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot. :star:8
@@ -189,7 +189,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display. :star:3
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
-    - [glutton](https://github.com/mushorg/glutton) - All eating honeypot. :star:70
+    - [glutton](https://github.com/mushorg/glutton) - All eating honeypot. :star:71
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - Automated signature creation using honeypots.
@@ -219,7 +219,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 
 - Client
-    - [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot :star:28
+    - [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot :star:29
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG) :star:8
     - [URLQuery](https://urlquery.net/)

@@ -43,13 +43,13 @@ Code meant become part of the extension.
 - [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options. :star:21
 - [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox. :star:1
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension :star:76
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:255
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:256
 
 ## Tools
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically). :star:68
+- [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically). :star:69
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published. :star:13
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it. :star:18
@@ -75,8 +75,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:302
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:182
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3365
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1047
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3374
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1050
 
 ## License
 

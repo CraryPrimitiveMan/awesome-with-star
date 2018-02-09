@@ -49,7 +49,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. :star:62
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:1849
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:1852
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
@@ -61,7 +61,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## XML Manipulation
 *Libraries for XML data manipulating with Fortran language.*
 
-* [fox](https://github.com/andreww/fox) - Fortran XML library :star:33
+* [fox](https://github.com/andreww/fox) - Fortran XML library :star:34
 * [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files.
 
 ## Date and time manipulation
