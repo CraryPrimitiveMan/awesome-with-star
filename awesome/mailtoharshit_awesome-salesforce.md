@@ -73,7 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:139
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:140
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 
@@ -87,7 +87,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:101
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:102
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>

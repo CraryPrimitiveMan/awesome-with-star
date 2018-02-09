@@ -41,7 +41,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
 - [Magic Lantern](http://magiclantern.fm/) - *a software enhancement that offers increased functionality to Canon DSLR cameras.*
-- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:378
+- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:379
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
 - [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:179
@@ -56,7 +56,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ### GoPro
 - [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:131
 - [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:76
-- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:245
+- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:246
 - [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:47
 
 ### Sony
@@ -148,16 +148,16 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1232
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1233
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:75
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1514
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1515
 
 ### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:117
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:248
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:249
 
 ## Scripts
 

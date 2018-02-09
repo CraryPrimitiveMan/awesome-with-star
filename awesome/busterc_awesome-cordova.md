@@ -68,7 +68,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) :star:14
   - Testing
     - [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
-    - [ripple](https://github.com/ripple-emulator/ripple) :star:31
+    - [ripple](https://github.com/ripple-emulator/ripple) :star:32
   - Building
     - [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   - Logging

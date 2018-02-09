@@ -12,7 +12,7 @@
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:661
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:660
 
 ## Tutorials and articles
 
@@ -103,7 +103,7 @@
 - [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:634
 - [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:941
 - [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:476
-- [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:61
+- [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:62
 - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more :star:503
 - [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
@@ -123,10 +123,10 @@
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2400
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2233
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1972
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1973
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1700
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1467
-- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1381
+- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1382
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:919
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:830
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:599

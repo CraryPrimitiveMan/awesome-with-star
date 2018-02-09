@@ -41,7 +41,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1164
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4449
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4464
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3749
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2701
@@ -50,16 +50,16 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:43
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers. :star:7
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1007
-- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:648
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2668
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1008
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:649
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2667
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 - [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:2
 
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1619
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1618
 
 
 ## Python
@@ -71,20 +71,20 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Ruby
 
 - [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter! :star:665
-- [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted. :star:391
+- [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted. :star:392
 
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5181
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5696
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1740
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5183
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5698
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1741
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:106
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1778
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1779
 - [Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.
 - [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
 
@@ -101,17 +101,17 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:68
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2579
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2580
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1356
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3947
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:990
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2441
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1003
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2454
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3544
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:6963
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:9428
 
 
 ## Miscellaneous

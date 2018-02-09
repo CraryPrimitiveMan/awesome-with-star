@@ -201,7 +201,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts. :star:3
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:302
+* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques. :star:303
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization. :star:64
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20

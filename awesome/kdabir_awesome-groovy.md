@@ -44,7 +44,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1657
-* [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:43
+* [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 
 ## Database
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2451
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2449
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

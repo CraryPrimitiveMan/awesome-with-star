@@ -23,6 +23,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [C++](#c)
+  - [C#](#c)
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -120,7 +121,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
-- [Dart](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code)
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
@@ -185,6 +186,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command. :star:67
+
+### C#
+
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - Preview C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
 ### CSS
 
@@ -604,7 +609,7 @@ Features full workbench theming
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:130
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:131
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 - [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor. :star:28

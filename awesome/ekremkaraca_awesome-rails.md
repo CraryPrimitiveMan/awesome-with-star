@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:38565
+- [Rails Source Code](https://github.com/rails/rails) :star:38577
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -83,7 +83,7 @@
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
 - [CoRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology   :star:42
-- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5 :star:69
+- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5 :star:70
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online :star:74
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform  [Live](https://www.tilt.com/index.html)
@@ -100,7 +100,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:86
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20344
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20350
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
@@ -147,10 +147,10 @@
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets   :star:67
 - [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding  [Live](http://www.selfstarter.us)
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
-- [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:284
+- [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:285
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:180
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:181
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4755
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1009
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2356
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4757
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1010
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2357
 

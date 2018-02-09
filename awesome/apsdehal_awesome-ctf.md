@@ -58,12 +58,12 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Projects that can be used to host a CTF*
 
-- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1042
-- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5222
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1046
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5224
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform :star:25
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP :star:243
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework :star:42
-- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required :star:44
+- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required :star:45
 - [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions. :star:88
 - [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges :star:7
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
@@ -96,7 +96,7 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2653
+- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2654
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2 :star:176
 
 ## Crypto
@@ -108,18 +108,18 @@ Check solve section for steganography.
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack :star:312
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q :star:207
-- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher :star:520
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher :star:521
 
 ## Bruteforcers
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
 - [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
-- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper :star:1555
+- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper :star:1557
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly. :star:19
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
-- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design. :star:1113
+- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design. :star:1116
 
 ## Exploits
 
@@ -128,9 +128,9 @@ Check solve section for steganography.
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes :star:269
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation. :star:227
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
-- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call :star:322
+- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call :star:323
   - `gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3545
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3550
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser :star:1613
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation :star:1318
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit :star:233
@@ -158,9 +158,9 @@ Check solve section for steganography.
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
-- [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files :star:67
+- [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files :star:68
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
-- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps :star:1982
+- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps :star:1984
 
 
 *Registry Viewers*
@@ -173,7 +173,7 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Bro](https://www.bro.org/) - An open-source network security monitor.
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:7520
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:7524
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:269
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
@@ -186,32 +186,32 @@ Check solve section for steganography.
 
 *Tools used for solving Reversing challenges*
 
-- [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications :star:1849
-- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2187
+- [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications :star:1851
+- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2189
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler :star:490
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework :star:962
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
-- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3117
+- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3119
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C :star:91
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://github.com/hugsy/gef) - GDB plugin :star:1308
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
-- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:13941
+- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:13950
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler :star:812
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax. :star:2576
-- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1070
-- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:6645
+- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1075
+- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:6651
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
-- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:2767
+- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:2771
 
 *JavaScript Deobfustcators*
 
@@ -242,7 +242,7 @@ Check solve section for steganography.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool
 - [Pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
-- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images :star:1558
+- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images :star:1559
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
@@ -257,7 +257,7 @@ Check solve section for steganography.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:10598
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:10608
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework. :star:1829
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
@@ -350,7 +350,7 @@ Check solve section for steganography.
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first :star:8
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools :star:241
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
-- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team. :star:127
+- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team. :star:128
 
 
 ### LICENSE

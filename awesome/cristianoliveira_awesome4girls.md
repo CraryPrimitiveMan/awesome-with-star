@@ -546,11 +546,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Other Lists
 ([Go to top](#awesome4girls---))
 
-  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:232
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:233
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 
-  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) :star:26
+  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) :star:27
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 

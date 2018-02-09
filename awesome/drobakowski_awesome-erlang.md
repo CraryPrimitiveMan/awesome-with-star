@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:483
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:484
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -60,16 +60,16 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*
 
-* [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer. :star:294
+* [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer. :star:295
 
 ## Web Frameworks
 *Web development frameworks.*
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1701
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4744
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1700
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4745
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1584
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1585
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1078
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:549
@@ -86,7 +86,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:288
-* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:393
+* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:394
 * [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:790
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:468
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
@@ -116,7 +116,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:429
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:552
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:81
-* [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:172
+* [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:173
 
 ## Deployment
 *Libraries and tools related to deployment of Erlang/OTP applications.*
@@ -132,7 +132,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:136
-* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:252
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:253
 
 ## Build Tools
 *Project build and automation tools.*

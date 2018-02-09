@@ -125,7 +125,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:31
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:120
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:156
-- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:287
+- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:288
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:241
@@ -166,7 +166,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Forms
 - [amforms](https://github.com/am-impact/amforms) - Forms in Craft, made easy. :star:121
 - [Contact Form](https://github.com/craftcms/contact-form/tree/v1) - Add a simple contact form to your site. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) - Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them. :star:116
+- [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) - Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them. :star:117
 - [Formerly](https://github.com/xodigital/Formerly) - Create custom forms. :star:55
 - [Freeform](https://solspace.com/craft/freeform) - Gives you full control to create simple or complex multi-page forms, and has options for many different API integrations.
 - [Simple Mailer](https://github.com/tjdraper/simple-mailer-craft) - Easily create and submit forms using Craft’s native email setup. :star:15
@@ -179,15 +179,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) - Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image. :star:41
 - [Focal Point Field](https://github.com/aelvan/FocalPointField-Craft) - Choose focal point for your assets. :star:69
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:104
-- [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:114
+- [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:115
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
-- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:263
+- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:264
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 
 
 ### Navigation
 - [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:171
-- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:103
+- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:104
 
 
 ### Integrations

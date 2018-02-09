@@ -75,16 +75,16 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Java
 
-- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:667
-- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:453
+- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:669
+- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:454
 - [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions. :star:1197
 
 ### JavaScript
 
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:4753
-- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6479
-- [marked](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:15340
-- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6156
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:4760
+- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6482
+- [marked](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:15353
+- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6164
 - [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:703
 
 ### Perl
@@ -93,19 +93,19 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### PHP
 
-- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:5888
-- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:2620
+- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:5927
+- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:2622
 
 ### Python
 
-- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1485
-- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1136
+- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1487
+- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1137
 - [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1261
 
 ### Ruby
 
 - [kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. :star:1176
-- [Redcarpet](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn. :star:4148
+- [Redcarpet](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn. :star:4147
 
 ## Tools
 
@@ -115,11 +115,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:406
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:702
-- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1209
+- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1210
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:11
-- [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript. :star:2724
+- [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript. :star:2726
 - [yamp](https://github.com/angrykoala/yamp) - Wasy-to-use cli toolbox for markdown-related task. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:22
 
 ### Editors
@@ -163,7 +163,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 > Create and edit your slides presentations with Markdown.
 
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Apple][apple] ![Linux][linux] :star:2929
+- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Apple][apple] ![Linux][linux] :star:2930
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 
 ## Services

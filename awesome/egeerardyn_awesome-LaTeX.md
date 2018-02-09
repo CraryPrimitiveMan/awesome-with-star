@@ -93,7 +93,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:589
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
-	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1596
+	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1599
 
 - [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]
@@ -184,7 +184,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - A collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - A truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - A short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:26
+- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:27
 
 ### Source Code
 

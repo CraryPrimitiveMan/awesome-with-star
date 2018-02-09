@@ -32,26 +32,26 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
-* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:91
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6932
+* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:92
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6937
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:147
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
-* [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems. :star:252
+* [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems. :star:253
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
-* [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:337
+* [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:338
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs. :star:90
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support. :star:295
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS. :star:110
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS :star:50
 * [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events. :star:5
-* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink) :star:33
+* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink) :star:34
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application :star:29
-* [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics. :star:874
+* [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics. :star:875
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build. :star:94
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -90,17 +90,17 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout. :star:6
 * [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway :star:45
 * [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway :star:57
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:170
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:171
 * [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer :star:21
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon :star:36
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS :star:18
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard. :star:27
-* [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS :star:133
+* [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS :star:134
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally. :star:73
 * [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS :star:178
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC :star:17
-* [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows :star:24
+* [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows :star:25
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path :star:10
 
 ## Videos

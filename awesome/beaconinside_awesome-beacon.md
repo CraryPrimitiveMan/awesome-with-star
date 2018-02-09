@@ -163,7 +163,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:650
+* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:651
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 * [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) :star:143
 
@@ -185,7 +185,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1983
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:1984
 * [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1273
 
 
@@ -207,7 +207,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:251
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:252
 
 # Beacon Developer Kits & BLE Chips
 
