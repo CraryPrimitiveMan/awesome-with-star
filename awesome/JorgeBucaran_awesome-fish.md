@@ -18,15 +18,15 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:379
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:380
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2735
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2737
 * [Fundle](https://github.com/tuvistavie/fundle) :star:168
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3104
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3105
 
 ## Plugins
 
@@ -53,7 +53,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:426
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:44
-* [Pure](https://github.com/rafaelrinaldi/pure) :star:205
+* [Pure](https://github.com/rafaelrinaldi/pure) :star:206
 * [Sektor](https://github.com/fisherman/sektor) :star:52
 * [Shellder](https://github.com/simnalamburt/shellder) :star:152
 * [Stark](https://github.com/fisherman/stark) :star:52

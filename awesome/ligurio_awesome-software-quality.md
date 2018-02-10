@@ -237,7 +237,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [Software security](https://ru.coursera.org/learn/software-security)
 
-#### Perofrmance Testing
+#### Performance Testing
 
 * [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
@@ -360,10 +360,10 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1520
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1521
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:15
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:994
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2456
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:995
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2459
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:392
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:140
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:56

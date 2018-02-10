@@ -154,7 +154,7 @@ List of software with DTrace support.
 #### Python
 
 - [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
-- [python-usdt](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python. :star:3
+- [python-usdt](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python. :star:4
 
 #### Ruby
 
@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5445
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5447
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:327
 
 ## Tools
