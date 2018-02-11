@@ -267,7 +267,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Local Binary Patterns](https://github.com/nourani/LBP) :star:69
 
 #### High Dynamic Range Imaging
-* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:68
+* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:69
 
 #### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
@@ -449,7 +449,7 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) :star:1300
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) :star:1302
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) :star:635
 
 #### Single-view Spatial Understanding
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6003
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6010
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30299
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30337
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7704
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30299
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7719
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30337
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

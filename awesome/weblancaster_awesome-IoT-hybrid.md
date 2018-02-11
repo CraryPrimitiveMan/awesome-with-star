@@ -45,8 +45,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:33230
-- [Electron](https://github.com/atom/electron) :star:56495
+- [nw.js](https://github.com/nwjs/nw.js) :star:33231
+- [Electron](https://github.com/atom/electron) :star:56540
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)

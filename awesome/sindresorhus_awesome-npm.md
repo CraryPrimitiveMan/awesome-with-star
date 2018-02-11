@@ -75,15 +75,15 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2844
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:2845
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:712
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:98
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:65
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3689
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:3693
 
 ### Registry
 
-- [npm-name](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm. :star:105
+- [npm-name](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm. :star:106
 - [package-json](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry. :star:65
 - [latest-version](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package. :star:27
 - [npm-keyword](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword. :star:29
@@ -93,22 +93,22 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages. :star:25
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry. :star:45
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:16
-- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:929
-- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:294
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2220
+- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:930
+- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:295
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2226
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:130
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package. :star:91
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:794
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3914
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:3918
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively. :star:104
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool. :star:784
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1354
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:513
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file. :star:43
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:67
+- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:68
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata. :star:84
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json. :star:67
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones. :star:47
@@ -131,9 +131,9 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:30110
-- [npm](https://github.com/npm/npm) - The official client. :star:15327
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3137
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:30126
+- [npm](https://github.com/npm/npm) - The official client. :star:15332
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3138
 
 
 ## Tips

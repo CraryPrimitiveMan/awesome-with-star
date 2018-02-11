@@ -59,8 +59,8 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6321
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1906
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6328
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1909
 
 ## Cross-platform Utilities
 
@@ -68,14 +68,14 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 - [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2244
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:85
-- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1675
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1676
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:52
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming. :star:70
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory. :star:80
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode. :star:22
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support. :star:3
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal. :star:33
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2172
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2174
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts. :star:3
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`. :star:17
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`. :star:108
