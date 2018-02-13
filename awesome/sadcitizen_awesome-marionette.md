@@ -92,11 +92,11 @@
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:66
 - [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:358
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:337
-- [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:105
+- [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:106
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:15
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
-- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1104
+- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1105
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:66
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example

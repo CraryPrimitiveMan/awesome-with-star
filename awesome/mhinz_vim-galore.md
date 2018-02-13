@@ -964,8 +964,8 @@ quickfix window.
 ## Macros
 
 Vim allows _recording_ typed characters into a [register](#registers). It's a
-great way to automate certain tasks on the fly. (For more elaborate tasks, [Vim
-scripting](#vim-scripting) should be used instead.)
+great way to automate certain tasks on the fly. (For more elaborate tasks, Vim
+scripting should be used instead.)
 
 - Start recording by typing `q` followed by the register, e.g. `q`. (The
   command-line will signify this via "recording @q".)
@@ -2506,8 +2506,8 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git) :star:7491
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5358
-- [spf13](https://github.com/spf13/spf13-vim) :star:11778
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:5369
+- [spf13](https://github.com/spf13/spf13-vim) :star:11786
 
 ## Standard plugins
 
