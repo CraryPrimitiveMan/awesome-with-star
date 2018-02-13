@@ -96,6 +96,7 @@ Contributions are always welcome!
 * [Defining Modern Software Roles: SREs at New Relic](https://blog.newrelic.com/2017/12/15/new-relic-sre/)
 * [What Tools Do Site Reliability Engineers Use?](https://blog.newrelic.com/2018/01/23/best-sre-tools/)
 * [What is Site Reliability Engineering? (VMware)](https://blogs.vmware.com/services-education-insights/2018/02/site-reliability-engineering.html)
+* [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -175,9 +176,11 @@ Contributions are always welcome!
 * [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 * [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Know thy enemy: how to prioritize and communicate risks - CRE life lessons](https://cloudplatform.googleblog.com/2017/05/know-thy-enemy-how-to-prioritize-and-communicate-risks-CRE-life-lessons.html)
-* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:995
+* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:1001
 * [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
+* [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
+* [Are You Load Balancing Wrong?](https://queue.acm.org/detail.cfm?id=3028689)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -196,6 +199,8 @@ Contributions are always welcome!
 * [An introduction to monitoring and alerting with timeseries at scale, with Prometheus](https://www.youtube.com/watch?v=gNmWzkGViAY)
 * [Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
 * [How to Monitor the SRE Golden Signals](https://medium.com/devopslinks/how-to-monitor-the-sre-golden-signals-1391cadc7524)
+* [Monitoring in a DevOps World](https://queue.acm.org/detail.cfm?id=3178371)
+* [Monitoring Your Monitoring’s Monitoring](https://medium.com/@jerub/monitoring-your-monitorings-monitoring-51d479100f4c)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
@@ -206,7 +211,7 @@ Contributions are always welcome!
 * [SysAdvent - Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html)
 * [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 * [PagerDuty Incident Response](https://response.pagerduty.com/)
-* [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook) :star:219
+* [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook) :star:220
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
 * [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template) :star:95
@@ -215,9 +220,11 @@ Contributions are always welcome!
 * [SRE@Xero: Managing Incidents Part I](https://devblog.xero.com/sre-xero-managing-incidents-part-i-7d02d650a71c)
 * [SRE@Xero: Managing Incidents Part II](https://devblog.xero.com/sre-xero-managing-incidents-part-ii-224a6e06f426)
 * [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/)
+* [How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+* [On-call doesn’t have to suck](https://medium.com/@copyconstruct/on-call-b0bd8c5ea4e0)
 
 ## Post-Mortem
-* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3285
+* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3286
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -228,7 +235,7 @@ Contributions are always welcome!
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Writing Your First Postmortem](https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f)
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
-* [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates) :star:144
+* [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates) :star:145
 * [Embracing Feedback](https://blog.heptio.com/embracing-feedback-2fd703da714f)
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
 * [Social Issues In Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18)
@@ -254,6 +261,9 @@ Contributions are always welcome!
 * [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 * [No Grumpy Humans and Other Site Reliability Engineering Lessons from Google](https://thenewstack.io/sre-lessons-google-no-grumpy-humans/)
 * [Consequences of SLO violations — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html)
+* [Service Level Objectives in Practice](https://medium.com/@jerub/service-level-objectives-in-practice-ed1200502d5)
+* [SRE Consensus Building](https://medium.com/@jerub/sre-consensus-building-36ad5d2e470b)
+* [An example escalation policy — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/an-example-escalation-policy-CRE-life-lessons.html)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -278,8 +288,9 @@ Contributions are always welcome!
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
-* [Open AWS guide](https://github.com/open-guides/og-aws) :star:19067
+* [Open AWS guide](https://github.com/open-guides/og-aws) :star:19077
 * [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
+* [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.

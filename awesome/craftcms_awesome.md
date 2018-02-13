@@ -106,8 +106,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:362
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:84
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:363
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:85
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:161
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -123,7 +123,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:23
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:31
-- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:120
+- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:121
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:156
 - [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:288
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
@@ -133,7 +133,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:245
+- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:246
 - [Template Select](https://superbig.co/plugins/template-select) - Lets you select templates from your entry.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) - Simple address field. :star:29
 
@@ -154,7 +154,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups. :star:49
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:203
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:204
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data. :star:8
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.

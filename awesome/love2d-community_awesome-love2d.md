@@ -112,7 +112,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js :star:123
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework :star:18
 * [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation :star:27
-* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer :star:329
+* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer :star:330
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library :star:31
 
 ## Input
@@ -126,14 +126,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
-* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:55
+* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve :star:56
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model :star:164
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation :star:8
 
 ## Math
 *Math specific Libraries*
 
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games :star:102
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games :star:101
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons :star:59
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use :star:45
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
@@ -151,7 +151,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6]
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet [IPv4] :star:26
-* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6] :star:176
+* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6] :star:177
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4] :star:62
 
 ## <a name="object"></a>Object Orientation
@@ -173,10 +173,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:396
+* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:395
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies. :star:7
-* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:81
+* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:82
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -191,7 +191,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2574
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2578
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -203,7 +203,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser :star:27
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua :star:52
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua :star:11
-* [trickle](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking :star:18
+* [trickle](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking :star:19
 
 ## Shaders
 *GLSL related Libraries*
@@ -317,7 +317,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1589
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:37
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:751
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:754
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

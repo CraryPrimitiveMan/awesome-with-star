@@ -3,14 +3,14 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8737
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8742
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1078
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:99
 
 ## Integrations
 - Jquery[UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
-- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:280
+- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:279
 - [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers :star:240
 - [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC :star:205
 - [Rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails :star:107
@@ -18,7 +18,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Plugins and libraries
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS :star:543
-- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:986
+- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:988
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality :star:521
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:284
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates :star:238

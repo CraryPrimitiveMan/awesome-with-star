@@ -159,7 +159,7 @@ Creative coding is a different discipline than programming systems in which the 
 ### Web Programming • Libraries
 
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:1904
+- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:1905
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
@@ -255,7 +255,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders. :star:211
-- [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS. :star:155
+- [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS. :star:160
 - [ThreeJS post-proces example](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS. :star:15
 - [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
@@ -376,7 +376,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Math
 
-- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:5968
+- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:5976
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind. :star:31
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
@@ -415,7 +415,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
-- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:492
+- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:495
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 - [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 - [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser. :star:2812
@@ -478,17 +478,17 @@ Creative coding is a different discipline than programming systems in which the 
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:715
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:212
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:342
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1671
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:5035
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:213
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:344
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1673
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:5058
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:230
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:367
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1100
-- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4636
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4640
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:22564
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:22579
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

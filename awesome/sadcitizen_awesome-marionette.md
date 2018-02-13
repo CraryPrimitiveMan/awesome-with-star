@@ -12,7 +12,7 @@
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
 - [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) :star:168
-- [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) :star:344
+- [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) :star:343
 - [Marionette CLI](https://github.com/denar90/marionette-cli) :star:22
 - [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 

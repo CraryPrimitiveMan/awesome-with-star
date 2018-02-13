@@ -42,7 +42,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application. :star:32
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools. :star:36
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX. :star:67
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX. :star:68
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:43
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker. :star:11
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:27
@@ -54,7 +54,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Utilities
 
-* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:42
+* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:43
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:23
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:166
 * [frenzzy/hyperapp-render](https://github.com/frenzzy/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:15

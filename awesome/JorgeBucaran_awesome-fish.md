@@ -18,19 +18,19 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:381
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:380
 
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2737
-* [Fundle](https://github.com/tuvistavie/fundle) :star:169
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2741
+* [Fundle](https://github.com/tuvistavie/fundle) :star:170
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
 * [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3110
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:690
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:691
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:241
