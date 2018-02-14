@@ -435,8 +435,8 @@ Non-uniform Deblurring
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing) :star:196
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
- * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo) :star:874
- * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam) :star:269
+ * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo) :star:875
+ * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam) :star:270
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
@@ -449,7 +449,7 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) :star:1305
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) :star:1306
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) :star:637
 
 #### Single-view Spatial Understanding
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6024
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6033
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30424
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30460
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7759
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30424
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7781
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30460
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

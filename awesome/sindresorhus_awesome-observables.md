@@ -19,14 +19,14 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable) :star:1659
+- [Overview](https://github.com/zenparsing/es-observable) :star:1660
 - [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
 
 - [zen-observable](https://github.com/zenparsing/zen-observable) :star:336
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:10741
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:10761
 
 
 ## Packages
@@ -37,7 +37,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable. :star:56
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:75
 - [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function. :star:34
-- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:29
+- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:30
 
 
 ## Libraries

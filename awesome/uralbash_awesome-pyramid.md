@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:312
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:763
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:765
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2251
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2255
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,15 +230,15 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:562
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:563
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:284
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:53
   API framework sitting on top of Pyramid and ElasticSearch
-* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:55
+* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:56
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
-* [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:11
+* [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:12
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
   sqlAlchemy ORM and pyramid framework.
 
@@ -358,7 +358,7 @@ provide new storage backends.*
   collections of tree pages to your Pyramid application. This is very similar
   to django.contrib.flatpages but with a tree structure and traversal algorithm
   in URL dispath.
-* [paginate](https://github.com/Pylons/paginate) - Python pagination module. :star:29
+* [paginate](https://github.com/Pylons/paginate) - Python pagination module. :star:30
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer :star:6
   (xlsx, xls, csv) for pyramid
 * [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library :star:1

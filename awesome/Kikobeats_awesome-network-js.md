@@ -44,7 +44,7 @@
 * [magnet-uri](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
 * [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
-* [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node. :star:47
+* [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node. :star:48
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
 * [torrent-discovery](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.

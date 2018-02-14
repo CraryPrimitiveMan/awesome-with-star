@@ -41,11 +41,11 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Demos to learn GDScript, its concepts, and various game features.*
 
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing Cellular Automata Method
-- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting. :star:39
+- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting. :star:38
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server. :star:11
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:39
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics. :star:27
-- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:49
+- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:50
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain :star:32
 
 ## Themes
@@ -59,15 +59,17 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:242
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:243
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot. :star:19
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:64
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:8
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:8
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:19
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in godot game engine. :star:3
+- [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for godot game engine
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:8
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module :star:13
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash) :star:18
-
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
@@ -79,12 +81,15 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images :star:46
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays. :star:42
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing :star:4
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:145
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework :star:146
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - FontAwesome plugin for godot game engine :star:5
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for godot game engine writing in gdscript :star:6
+- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:11
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:8
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations :star:20
-- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:20
+- [gterm](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators :star:21
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:78
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
@@ -97,7 +102,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org). :star:50
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) for godot 2.1.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
-- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API :star:15
+- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (precursor to [this](https://github.com/Biarity/Godot-Adventure-Framework))
 
 ## GDScript syntax highlighting
 
@@ -106,7 +111,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Atom](https://atom.io/packages/lang-gdscript)
 - [Geany](https://github.com/haimat/GDScript-Geany) :star:7
 - [Gedit](https://github.com/haimat/GDScript-gedit) :star:12
-- [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:27
+- [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:28
 - [Vim](https://github.com/quabug/vim-gdscript) :star:34
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 

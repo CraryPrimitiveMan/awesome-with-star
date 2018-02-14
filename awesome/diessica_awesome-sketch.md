@@ -69,8 +69,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4147
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:996
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4148
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:997
 - [Sketch Measure](https://github.com/utom/sketch-measure) :star:5370
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1092
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2863
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2864
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

@@ -179,6 +179,8 @@ A flexible data model for representing human names.
 - [Apple iOS
 `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
 Localized representations of the components of a person’s name.
+- [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at the 
+intersection of names and gender and internationalisation.
 
 
 ## Internationalization
@@ -187,7 +189,7 @@ Localized representations of the components of a person’s name.
 Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
 Translating a software from English is not as straightforward as it seems to
 be.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word :star:33
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word :star:34
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 A video about things you need to keep in mind when internationalizing your
@@ -217,7 +219,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6487
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6495
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -238,7 +240,7 @@ falsehood about postal addresses: you do not need one.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:306
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:546
+- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:552
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:75
 module to parse, normalize and render postal addresses.
