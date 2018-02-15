@@ -93,7 +93,7 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 *Collections of machine learning models that could be converted to Core ML*
 
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:28289
+* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:28321
 * [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 

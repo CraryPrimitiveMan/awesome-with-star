@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7184
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7185
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
@@ -98,7 +98,7 @@
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1105
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
-- [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:66
+- [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
 

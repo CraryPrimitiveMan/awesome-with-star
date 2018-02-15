@@ -37,9 +37,9 @@ Pull requests very welcome.
 
 ## Testing
 
-* [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:73
+* [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:72
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:86
+* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:85
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:23
 
@@ -56,7 +56,7 @@ Pull requests very welcome.
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
 * [Mura](https://github.com/blueriver/MuraCMS) :star:237
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:37
-* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:119
+* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:118
 
 ## NoSQL
 

@@ -103,7 +103,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2723
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2724
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:841
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2255
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2258
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -232,7 +232,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:563
   HTTP request arguments, with built-in support for popular web frameworks.
-* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:284
+* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:283
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:53
   API framework sitting on top of Pyramid and ElasticSearch
@@ -387,7 +387,7 @@ provide new storage backends.*
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
-* [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and :star:318
+* [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and :star:319
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [KARL](https://karlproject.readthedocs.io/en/latest/) - A moderately-sized
   application (roughly 80K lines of Python code) built on top of Pyramid. It is
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1416
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1417
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

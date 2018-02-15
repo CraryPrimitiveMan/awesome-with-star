@@ -35,7 +35,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Haskell
-- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:11
+- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:12
 
 
 ## JavaScript
@@ -76,15 +76,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5186
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5701
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1741
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5188
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5703
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1742
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:106
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1781
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1782
 - [Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.
 - [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
 
@@ -101,17 +101,17 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:69
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2591
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1359
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3949
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1023
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2497
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2592
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1360
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3950
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1024
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2502
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3559
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3560
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:13266
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:13813
 
 
 ## Miscellaneous

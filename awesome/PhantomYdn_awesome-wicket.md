@@ -33,7 +33,7 @@ List of libraries and components which can be used in your application
 
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket. :star:3
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation. :star:11
-- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:277
+- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:278
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too. :star:16
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side. :star:7
 - [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket. :star:16
@@ -47,9 +47,9 @@ List of libraries and components which can be used in your application
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application. :star:7
 - [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library. :star:20
 - [wicket-source](https://github.com/42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source. :star:36
-- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:69
+- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:70
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket. :star:26
-- [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications. :star:55
+- [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications. :star:56
 
 ### WicketStuff
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
@@ -125,7 +125,7 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
 - [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:151
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1062
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1064
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:86
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

@@ -70,7 +70,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math) :star:123
+* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math) :star:124
 
 ## Questions and Answers
 

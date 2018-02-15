@@ -145,7 +145,7 @@ Graphics
 * :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 * :free: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* :tada: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
+* :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 * :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 * :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
@@ -462,7 +462,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:509
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:511
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

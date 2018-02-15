@@ -92,7 +92,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:13
 * [Dojo routing](https://github.com/dojo/routing) - Dojo2 Routing :star:12
 * [Dojo compose](https://github.com/dojo/compose) - Dojo2 Composition Library :star:9
-* [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2 :star:21
+* [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2 :star:22
 * [Dojo has](https://github.com/dojo/has) - A feature detection library :star:3
 * [Dojo shim](https://github.com/dojo/shim) - Modules that provide modular fills of ES6+ functionality :star:15
 * [Dojo parse](https://github.com/dojo/parser) - A package for declaratively instantiating widgets. :star:3
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13333
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13336
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:85
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:78225
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1040
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:78281
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1043
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4768
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4770
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:102
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:154
 

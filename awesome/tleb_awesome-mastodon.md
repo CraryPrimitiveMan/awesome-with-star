@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12139
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12147
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -42,9 +42,9 @@
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:88
 * [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:85
-* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:63
-* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:91
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:86
+* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:64
+* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:92
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:6
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 

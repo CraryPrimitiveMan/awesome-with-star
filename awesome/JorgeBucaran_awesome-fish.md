@@ -23,10 +23,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2744
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2748
 * [Fundle](https://github.com/tuvistavie/fundle) :star:170
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3116
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3120
 
 ## Plugins
 
@@ -36,7 +36,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:242
 * [Getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:104
 * [Paths](https://github.com/fisherman/paths) - Create or append to environment variables. :star:19
-* [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:26
+* [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:27
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57
 * [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:148
 * [Spin](https://github.com/fisherman/spin) - Background job spinner. :star:82
@@ -50,7 +50,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:427
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:428
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:44
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:206

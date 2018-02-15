@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:26995
+- [Github repository](https://github.com/jashkenas/backbone) :star:26993
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -132,6 +132,6 @@
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:599
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:505
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:494
-- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:502
+- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:385
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

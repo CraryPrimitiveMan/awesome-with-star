@@ -38,9 +38,9 @@
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:70
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:94
-- [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:20
+- [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:21
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
-- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:149
+- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:150
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:181
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:435
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
