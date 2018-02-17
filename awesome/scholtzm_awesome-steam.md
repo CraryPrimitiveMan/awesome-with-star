@@ -81,7 +81,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steamid](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy. :star:33
 - [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:111
 - [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot. :star:78
-- [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa. :star:16
+- [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa. :star:17
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation. :star:10
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation. :star:3
 
@@ -89,9 +89,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1135
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1134
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:120
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1002
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1003
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:40
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 

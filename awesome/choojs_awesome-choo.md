@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:215
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5103
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5107
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -35,7 +35,7 @@ under the hood:
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:347
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:72
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:107
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:108
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:22
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:26

@@ -91,7 +91,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:54
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:29
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)). :star:109
-* [YCanvas](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer. :star:121
+* [YCanvas](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer. :star:120
 * [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx](https://github.com/NoRabbit/ND2Dx)). :star:338
 * [Nexus](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D. :star:14
 
@@ -124,7 +124,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Functional
 
 * [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript. :star:11
-* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events). :star:91
+* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events). :star:92
 * [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide". :star:4
 
 #### Unit Testing
@@ -224,7 +224,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Flip-Planes-AS3](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects. :star:14
 * [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:10
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
-* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:173
+* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:172
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:55
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3. :star:78
 * [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation. :star:11
@@ -280,7 +280,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:271
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
-* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
+* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:102
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:62
 * [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:21
@@ -389,7 +389,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
-* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:130
+* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:131
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer. :star:2
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library. :star:2
 * [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch. :star:3
@@ -589,7 +589,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices. :star:59
 
 #### Multimedia ANE
-* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:94
+* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:95
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:51
 * [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:49
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
@@ -624,7 +624,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### System ANE
 * [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:6
-* [DesktopToast](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX. :star:23
+* [DesktopToast](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX. :star:24
 * [AlarmManager](https://github.com/myflashlab/alarmManager-ANE) - Run a scheduled task even if your AIR app is closed. :star:5
 * [InAppPayments](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS. :star:12
 * [PermissionCheck](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app. :star:8

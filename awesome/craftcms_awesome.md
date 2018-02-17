@@ -139,7 +139,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### Control Panel
-- [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft. :star:73
+- [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft. :star:75
 - [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft. :star:105
 - [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:121
 - [Content Stats](https://github.com/wbrowar/contentstats) - Dashboard widget to see how many entries have been created for channels and structures. :star:32
@@ -186,7 +186,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### Navigation
-- [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:171
+- [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:172
 - [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:104
 
 
@@ -212,7 +212,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Crisp](https://superbig.co/plugins/crisp) - Integrate Crisp.im Free and beautiful livechat to interact with your customers.
 - [Discourse SSO](https://superbig.co/plugins/discourse-sso) - Single Sign-On for Discourse.
 - [Disqus](https://github.com/nystudio107/disqus) - Integrate the Disqus commenting system including Single Sign On (SSO) and custom login/logout URLs. :star:29
-- [Embedder](https://github.com/A-P/Embedder) - Generate the exact, most up-to-date YouTube, Vimeo, Wistia, or Viddler embed code available. :star:70
+- [Embedder](https://github.com/A-P/Embedder) - Generate the exact, most up-to-date YouTube, Vimeo, Wistia, or Viddler embed code available. :star:71
 - [Olark](https://superbig.co/plugins/olark) - Integrate Olark. Live chat to answer customers immediately on your website.
 - [Social Login](https://dukt.net/social) - Let your visitors log in & register with web services like Facebook, Google, Twitter.
 - [Videos](https://dukt.net/videos) - Connect to YouTube & Vimeo and publish social videos on your website.
@@ -240,7 +240,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Cache
 - [Cache Buster](https://github.com/focuslabllc/craftcms-cachebuster) - Keep your front-end assets free of cache issues after they've changed. :star:33
 - [Cache Warmer](https://superbig.co/plugins/cache-warmer) - Warm up your cache with a single request.
-- [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) - Provides an alternative way to have your caches clear automatically when your content changes. :star:39
+- [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) - Provides an alternative way to have your caches clear automatically when your content changes. :star:40
 - [CacheMonster](https://github.com/supercool/Cache-Monster) - Keeps your cache permanently warm and optionally integrates with Varnish. :star:30
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore. :star:121
@@ -252,7 +252,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Development
 ##### Build Process
-- [Minify](https://github.com/nystudio107/minify) - Minify blocks of HTML,CSS,and JS inline. :star:109
+- [Minify](https://github.com/nystudio107/minify) - Minify blocks of HTML,CSS,and JS inline. :star:110
 - [Minimee](https://github.com/johndwells/craft.minimee) - Minimize,and even external ones.  :star:68
 - [Stamp](https://github.com/aelvan/Stamp-Craft) - Add timestamps to your assets in a variety of ways; as a query string,but works with files outside your template path,combine & cache your CSS and JS files. :star:21
 - [Asset Rev](https://github.com/clubstudioltd/craft-asset-rev) - Cache-bust your assets by appending query string or swapping out asset file names with their revved version. :star:69
@@ -327,7 +327,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:57
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:132
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:81
-- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:191
+- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:192
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:113
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
 - [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:172

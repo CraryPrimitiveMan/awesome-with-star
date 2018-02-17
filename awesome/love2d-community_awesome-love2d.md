@@ -53,7 +53,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend :star:6
 * [anim8](https://github.com/kikito/anim8) - Animation library :star:293
-* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:11
+* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:12
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:12
 * [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library :star:27
 * [Walt](https://github.com/davisdude/Walt) - Animation library :star:29
@@ -97,13 +97,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System :star:13
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful :star:134
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful :star:135
 
 ## <a name="helper"></a>Helper Libraries
 *Game specific Library bundles, that provide reuseable functions*
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games :star:53
-* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras) :star:469
+* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras) :star:470
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:133
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows. :star:2
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine :star:5
@@ -118,7 +118,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Input
 *Input & Binding Libraries*
 
-* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:46
+* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:47
 * [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:67
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE :star:46
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library :star:38
@@ -152,8 +152,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6]
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet [IPv4] :star:26
-* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6] :star:177
-* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4] :star:62
+* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6] :star:178
+* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4] :star:63
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
@@ -162,7 +162,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:925
+* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:927
 
 ## Performance
 *Performance measurement tools*
@@ -174,7 +174,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:397
+* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:398
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies. :star:9
 * [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:85
@@ -192,7 +192,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:15
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2584
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2587
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -268,7 +268,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:959
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:1037
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
@@ -316,9 +316,9 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1593
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1592
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:37
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:757
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:758
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

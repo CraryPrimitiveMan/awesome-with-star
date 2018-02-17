@@ -161,9 +161,9 @@ Installers
 =======================================================================
 
 
-* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally :star:7385
+* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally :star:7403
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostique - AWS - [Apache-2.0](https://github.com/kubernetes/kops/blob/master/LICENSE)
-* [Kube-deploy](https://github.com/kubernetes/kube-deploy) :star:408
+* [Kube-deploy](https://github.com/kubernetes/kube-deploy) :star:409
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes/kubeadm/blob/master/LICENSE)
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/kubespray/blob/master/LICENSE)
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/kubernetes-incubator/bootkube/blob/master/LICENSE)
@@ -261,7 +261,7 @@ Useful Articles
 * [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
 * [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 * [Microservice Monitoring in Kubernetes with Netsil](http://netsil.com/microservices-monitoring-kubernetes/) by [Matt Baldwin](https://twitter.com/baldwinmathew)
-* [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) :star:449
+* [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
@@ -391,7 +391,7 @@ Developer Libraries/ Scripts
 
   ### [Python](#python)
 
-   - [Pykube](https://github.com/kelproject/pykube) :star:284
+   - [Pykube](https://github.com/kelproject/pykube) :star:283
 
   ### [Jenkins](#jenkins)
 
@@ -413,14 +413,14 @@ Projects
 * [kmachine](https://github.com/skippbox/kmachine) :star:174
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray](https://github.com/kubespray)
-* [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) :star:628
+* [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) :star:630
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn) :star:139
 * [Archon](https://github.com/kubeup/archon) :star:152
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
-* [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition :star:105
+* [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition :star:106
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
 
 ## Package Managers
@@ -432,15 +432,15 @@ Projects
 
 *To maintain regular surveillance over kubernetes*
 
-* [Console](https://github.com/kubernetes/dashboard) :star:2110
+* [Console](https://github.com/kubernetes/dashboard) :star:2114
 * [Datadog](http://www.datadoghq.com/)
-* [Heapster](https://github.com/kubernetes/heapster) :star:1809
+* [Heapster](https://github.com/kubernetes/heapster) :star:1814
 * [Kube-ui](https://github.com/kubernetes/kube-ui) :star:150
 * [Kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes :star:29
 * [Kubedash](https://github.com/kubernetes/kubedash) :star:197
-* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters :star:372
+* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters :star:373
 * [Kubetail](https://github.com/johanhaleby/kubetail) :star:492
-* [Kubewatch](https://github.com/skippbox/kubewatch) :star:217
+* [Kubewatch](https://github.com/skippbox/kubewatch) :star:219
 * [Netsil](https://github.com/netsil/manifests) :star:59
 * [Prometheus](http://prometheus.io)
 * [Sysdig Monitoring](https://www.sysdig.com/)
@@ -454,7 +454,7 @@ Projects
 
 * [kube-monkey](https://github.com/asobti/kube-monkey) :star:569
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster :star:31
-* [Test-Infra](https://github.com/kubernetes/test-infra) :star:266
+* [Test-Infra](https://github.com/kubernetes/test-infra) :star:267
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability :star:524
 
 ## Continuous Delivery
@@ -466,49 +466,50 @@ Projects
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
-   * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) :star:661
+   * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) :star:663
 * [kb8or](https://github.com/UKHomeOffice/kb8or) :star:48
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
-* [Kontinuous](https://github.com/AcalephStorage/kontinuous) :star:89
+* [Kontinuous](https://github.com/AcalephStorage/kontinuous) :star:90
 * [Kit](http://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
+* [KubeCI](https://www.kubeci.io/)
 
 ## Serverless Implementations
 
 * [Funktion](https://github.com/fabric8io/funktion) :star:235
-* [Fission](https://github.com/platform9/fission) :star:3007
-* [Kubeless](https://github.com/skippbox/kubeless) :star:1933
+* [Fission](https://github.com/platform9/fission) :star:3012
+* [Kubeless](https://github.com/skippbox/kubeless) :star:1937
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
-* [OpenFaaS](https://github.com/alexellis/faas) :star:8717
-* [FaaS-netes](https://github.com/alexellis/faas-netes) :star:843
-* [Nuclio](https://github.com/nuclio/nuclio) :star:1745
+* [OpenFaaS](https://github.com/alexellis/faas) :star:8735
+* [FaaS-netes](https://github.com/alexellis/faas-netes) :star:846
+* [Nuclio](https://github.com/nuclio/nuclio) :star:1748
 
 ## Operators
 
-* [Prometheus](https://github.com/coreos/prometheus-operator) :star:816
-* [Kong API](https://github.com/upmc-enterprises/kong-operator) :star:55
+* [Prometheus](https://github.com/coreos/prometheus-operator) :star:819
+* [Kong API](https://github.com/upmc-enterprises/kong-operator) :star:56
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators) :star:57
 * [K8s Operator Workshop](https://github.com/lukebond/cc-au-k8s-operators-workshop) :star:10
 * [Cert Operator](https://github.com/giantswarm/cert-operator) :star:19
 * [Cert manager](https://github.com/kelseyhightower/kube-cert-manager) :star:817
 * [Operator Kit](https://github.com/rook/operator-kit) :star:113
-* [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator) :star:96
+* [Container Linux Update Operator](https://github.com/coreos/container-linux-update-operator) :star:97
 * [DB Operator](https://github.com/k8sdb/operator) :star:31
 * [etcd](https://github.com/coreos/etcd-operator) :star:552
-* [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator) :star:250
+* [Elasticsearch](https://github.com/upmc-enterprises/elasticsearch-operator) :star:251
 * [Memcached](https://github.com/kbst/memcached) :star:10
 * [MongoDB](https://github.com/kbst/mongodb) :star:10
-* [PostgreSQL](https://github.com/CrunchyData/postgres-operator) :star:232
-* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni). :star:141
-* [Kafka](https://github.com/krallistic/kafka-operator) :star:145
+* [PostgreSQL](https://github.com/CrunchyData/postgres-operator) :star:235
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni). :star:142
+* [Kafka](https://github.com/krallistic/kafka-operator) :star:146
 
 ## Custom Schedulers
 
-* [Scheduler](https://github.com/kelseyhightower/scheduler) - Cost based scheduler :star:78
+* [Scheduler](https://github.com/kelseyhightower/scheduler) - Cost based scheduler :star:79
 * [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler) :star:9
 * [ksched](https://github.com/coreos/ksched) - Experimental flow based scheduler :star:15
 * [kronjob](https://github.com/Eneco/kronjob) - Recurring jobs :star:32
@@ -524,8 +525,8 @@ Projects
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
   * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes :star:86
 * [containerd](https://github.com/containerd/containerd) :star:2270
-* [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface :star:204
-* [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o) :star:914
+* [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface :star:208
+* [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o) :star:916
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime :star:257
 * [virtlet](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads :star:142
 * [infranetes](https://github.com/apporbit/infranetes) :star:17
@@ -551,16 +552,16 @@ Projects
 * [Contiv](http://contiv.github.io/)
 * [Calico](http://www.projectcalico.org/)
 * [OpenVSwitch](http://openvswitch.org/)
-* [Kube-router](http://github.com/cloudnativelabs/kube-router) :star:510
-* [Cilium](https://github.com/cilium/cilium) :star:1460
+* [Kube-router](http://github.com/cloudnativelabs/kube-router) :star:511
+* [Cilium](https://github.com/cilium/cilium) :star:1465
 * [Linen](https://github.com/John-Lin/linen-cni) :star:25
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie) :star:108
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox) :star:4
-* [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources :star:677
+* [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources :star:680
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s) :star:137
-* [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) :star:207
-* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni  :star:128
+* [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) :star:210
+* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni  :star:129
 
 ## Service mesh
 
@@ -582,8 +583,8 @@ Projects
 * [Vault controller](https://github.com/kelseyhightower/vault-controller) :star:364
 * [kube-lego](https://github.com/jetstack/kube-lego) :star:1550
 * [k8sec](https://github.com/dtan4/k8sec) :star:90
-* [kubernetes-vault](https://github.com/Boostport/kubernetes-vault) :star:519
-* [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management :star:81
+* [kubernetes-vault](https://github.com/Boostport/kubernetes-vault) :star:523
+* [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management :star:82
 
 ## Web applications
 
@@ -595,24 +596,24 @@ Projects
 
 ## Mobile applications
 
-* [Cabin](https://github.com/bitnami/cabin) :star:271
+* [Cabin](https://github.com/bitnami/cabin) :star:272
 * [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors
 
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt. :star:509
-* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI :star:609
+* [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI :star:612
 * [Kubebot](https://github.com/harbur/kubebot) :star:79
-* [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl :star:656
-* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl :star:656
-* [StackStorm](https://github.com/StackStorm/st2) :star:2496
+* [kubectx](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl :star:657
+* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl :star:657
+* [StackStorm](https://github.com/StackStorm/st2) :star:2497
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Ksql](https://github.com/brendandburns/ksql) :star:87
 * [kubectld](https://github.com/rancher/kubectld) :star:10
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl :star:184
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim :star:68
-* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh. :star:140
+* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh. :star:143
 * [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching). :star:7
 
 ## Application deployment orchestration
@@ -625,18 +626,18 @@ Projects
 * [Nulecule](https://github.com/projectatomic/nulecule) :star:225
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube](https://github.com/commercialtribe/psykube) :star:56
-* [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript :star:858
+* [Brigade](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript :star:860
 
 ## Configuration
 
-* [Kompose](https://github.com/kubernetes/kompose) :star:2153
+* [Kompose](https://github.com/kubernetes/kompose) :star:2157
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * Spread - Acquired by [CoreOS](https://coreos.com/blog/coreos-welcomes-redspread.html)
 * [K8comp](https://github.com/cststack/k8comp) :star:14
 * [Ktmpl](https://github.com/InQuicker/ktmpl) :star:146
 * [Konfd](https://github.com/kelseyhightower/konfd) :star:429
 * [kenv](https://github.com/thisendout/kenv) :star:126
-* [kubediff](https://github.com/weaveworks/kubediff) :star:180
+* [kubediff](https://github.com/weaveworks/kubediff) :star:181
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Ansible](http://docs.ansible.com/ansible/kubernetes_module.html)
@@ -657,8 +658,8 @@ Projects
 
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Traefik](http://traefik.io/)
-* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager) :star:656
-* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx) :star:1304
+* [AppsCode Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager) :star:658
+* [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx) :star:1307
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr) :star:45
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress) :star:165
 
@@ -671,14 +672,14 @@ Projects
 
 * [TensorFlow k8s](https://github.com/tensorflow/k8s) :star:329
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes. :star:18
-* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes. :star:2574
+* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes. :star:2578
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes :star:128
 
 ## Service Discovery
 
 * [Consul](http://consul.io)
-  * [Kelsey Hightower Consul](https://github.com/kelseyhightower/consul-on-kubernetes) :star:277
-  * [Bridge between Kubernetes and Consul](https://github.com/Beldur/kube2consul) :star:45
+  * [Kelsey Hightower Consul](https://github.com/kelseyhightower/consul-on-kubernetes) :star:278
+  * [Bridge between Kubernetes and Consul](https://github.com/Beldur/kube2consul) :star:46
 
 ## Operating System
 
@@ -689,7 +690,7 @@ Projects
 ## YAML/JSON Config
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable :star:281
-* [kompose](https://github.com/kubernetes/kompose) :star:2153
+* [kompose](https://github.com/kubernetes/kompose) :star:2157
 * [kubeval](https://github.com/garethr/kubeval) :star:410
 
 ## Tuning
@@ -827,6 +828,9 @@ Meetup Groups
 * [London](https://www.meetup.com/Kubernetes-London/)
 * [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
+* [Amsterdam](https://www.meetup.com/de-DE/Amsterdam-Kubernetes-Meetup/)
+* [Munich](https://www.meetup.com/de-DE/Munchen-Kubernetes-Meetup/)
+* [Hamburg](https://www.meetup.com/de-DE/Hamburg-Kubernetes-Meetup/)
 
 
 Connecting with Kubernetes
@@ -842,7 +846,7 @@ Connecting with Kubernetes
 * [Mailing List (developer/contributor discussion)](https://groups.google.com/forum/#!forum/kubernetes-dev)
 * [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
-* [Community](https://github.com/kubernetes/community) :star:1395
+* [Community](https://github.com/kubernetes/community) :star:1400
 
 Conferences
 =======================================================================
@@ -854,6 +858,7 @@ Conferences
 * [GCP Next](http://cloudnext.withgoogle.com/)
 * [Docker Con](http://dockercon.com)
 * [Devoxx](http://devoxx.com)
+* [ContainerDays](https://containerdays.io/)
 
 
 Contributing

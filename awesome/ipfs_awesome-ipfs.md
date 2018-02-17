@@ -33,7 +33,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:93
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6994
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:6995
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:149
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
@@ -90,7 +90,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout. :star:6
 * [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway :star:45
 * [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway :star:57
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:174
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:175
 * [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer :star:22
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon :star:36
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS :star:18

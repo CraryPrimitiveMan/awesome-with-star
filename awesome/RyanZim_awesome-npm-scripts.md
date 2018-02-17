@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax. :star:16
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner. :star:1618
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner. :star:1621
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:57
 
 ## File Watchers
@@ -55,27 +55,27 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 Tools to watch your source files and run a build command whenever any of the files change.
 
 - [onchange](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`. :star:326
-- [watch](https://github.com/mikeal/watch) - `watch <command> <directory>`. :star:1022
+- [watch](https://github.com/mikeal/watch) - `watch <command> <directory>`. :star:1023
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6343
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1916
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6345
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1917
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2258
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2260
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:84
-- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1679
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1680
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:52
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming. :star:70
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory. :star:79
-- [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode. :star:22
+- [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode. :star:23
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support. :star:3
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal. :star:33
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2193
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2195
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts. :star:3
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`. :star:17
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`. :star:108

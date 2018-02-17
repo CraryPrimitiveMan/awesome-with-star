@@ -98,7 +98,7 @@ Preview | Description
 * [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses) :star:2864
+* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses) :star:2865
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
@@ -509,14 +509,14 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:4770
+ - [lists](https://github.com/jnv/lists) :star:4769
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1513
- - [awesome-python](https://github.com/vinta/awesome-python) :star:45426
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11671
- - [awesome-r](https://github.com/qinwf/awesome-R) :star:2725
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:45465
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11676
+ - [awesome-r](https://github.com/qinwf/awesome-R) :star:2726
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
- - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:382
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18075
+ - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:381
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18083
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 

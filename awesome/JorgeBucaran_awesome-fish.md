@@ -23,14 +23,14 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2748
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2749
 * [Fundle](https://github.com/tuvistavie/fundle) :star:170
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3120
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3129
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:692
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:694
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:242
@@ -50,7 +50,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:428
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:429
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:44
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:206

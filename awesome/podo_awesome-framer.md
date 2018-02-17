@@ -97,7 +97,7 @@
 * [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer. :star:67
 * [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer. :star:55
 * [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) - UISound Module for Framer.
-* [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image. :star:68
+* [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image. :star:69
 * [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer. :star:31
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes. :star:263
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload. :star:29
@@ -111,7 +111,7 @@
 * [framer-colour-transition](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer. :star:9
 * [framer-webview](https://github.com/peteschaffner/framer-webview) - Web view module for Framer. :star:20
 * [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer. :star:2
-* [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer. :star:19
+* [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer. :star:20
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer. :star:6
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:10
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:17
@@ -153,7 +153,7 @@
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:38
 * [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:35
-* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:52
+* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:53
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:7
 * [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:5
 * [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - A Framer module for Gamepad-driven UI prototypes. :star:7

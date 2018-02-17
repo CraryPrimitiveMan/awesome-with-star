@@ -41,8 +41,8 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ### Frontoffice extensions
 * [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:8
 * [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
-* [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:106
-* [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:124
+* [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:105
+* [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:123
 * [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images :star:132
 * [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed) :star:216
 

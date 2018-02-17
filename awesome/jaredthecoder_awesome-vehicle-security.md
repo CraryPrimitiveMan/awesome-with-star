@@ -186,7 +186,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 # Projects
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely. :star:150
-- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle. :star:600
+- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle. :star:601
 
 # Hardware
 
@@ -232,8 +232,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:275
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7207
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6766
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7210
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6770
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:101
@@ -292,17 +292,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:2985
-  - [Security](https://github.com/sbilly/awesome-security) :star:2532
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1839
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3146
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2875
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3454
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2075
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1740
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:2984
+  - [Security](https://github.com/sbilly/awesome-security) :star:2534
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1842
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3150
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2877
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3453
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2077
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1743
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:78287
-  - [lists](https://github.com/jnv/lists) :star:4770
+  - [awesome](https://github.com/sindresorhus/awesome) :star:78339
+  - [lists](https://github.com/jnv/lists) :star:4769
 
 # Contributing
 
