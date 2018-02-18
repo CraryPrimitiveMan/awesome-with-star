@@ -10,7 +10,7 @@
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
-* [Module best practices](https://github.com/mattdesl/module-best-practices) :star:1036
+* [Module best practices](https://github.com/mattdesl/module-best-practices) :star:1037
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
@@ -65,9 +65,9 @@
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s. :star:255
 * [hirestime](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps. :star:5
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds. :star:2
-* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1340
+* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1341
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service. :star:1
-* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3004
+* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3005
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month. :star:1
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp. :star:44
 * [twas](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
@@ -101,7 +101,7 @@
 
 * [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`. :star:33
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever. :star:273
-* [once](https://github.com/isaacs/once) - Run a function exactly one time.
+* [once](https://github.com/isaacs/once) - Run a function exactly one time. :star:143
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions. :star:7
 * [identity-function](https://github.com/substack/identity-function) - Always return the input argument.  :star:6
 * [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input. :star:325
@@ -119,13 +119,13 @@
 * [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result. :star:446
 * [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify :star:1411
 * [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2. :star:1
-* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:490
-* [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. :star:295
+* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:491
+* [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. :star:296
 * [is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream. :star:46
 
 ### Promise
 
-* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:791
+* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:793
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties. :star:7
 * [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay. :star:28
 * [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise. :star:56
@@ -136,7 +136,7 @@
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p. :star:1680
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb. :star:20
 * [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies. :star:199
-* [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js. :star:359
+* [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js. :star:360
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs). :star:175
 
 ### Browser
@@ -159,10 +159,10 @@
 ### CLI
 
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings. :star:120
-* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4306
+* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4308
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user. :star:73
 * [minimist](https://github.com/substack/minimist) - Parse argument options. :star:2761
-* [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format. :star:28
+* [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format. :star:29
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application :star:1
 
 ### Module management
@@ -176,7 +176,7 @@
 
 ### Other
 
-* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5319
+* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5322
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1100
 * [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object. :star:1
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name. :star:13
@@ -185,7 +185,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:21721
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:21732
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:2801
 
 ## Small modules rockstars to follow

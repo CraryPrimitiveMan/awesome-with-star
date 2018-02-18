@@ -55,7 +55,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## JSON Manipulation
 *Libraries for JSON data manipulating with Fortran language.*
 
-* [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser. :star:35
+* [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser. :star:36
 * [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API. :star:98
 
 ## XML Manipulation

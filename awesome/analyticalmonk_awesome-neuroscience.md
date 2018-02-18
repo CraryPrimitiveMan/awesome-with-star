@@ -31,11 +31,11 @@ Software, libraries and frameworks for development purposes.
 ### Python
 
 - [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:287
-- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:109
-- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:358
-- [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:143
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:400
-- [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:179
+- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:110
+- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:359
+- [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:144
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:401
+- [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:180
 - [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:424
 - [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5483
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. :star:167

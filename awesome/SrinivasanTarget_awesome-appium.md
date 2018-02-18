@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:49
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm. :star:54
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:91
-- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:244
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:245
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android. :star:5
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android. :star:5
 

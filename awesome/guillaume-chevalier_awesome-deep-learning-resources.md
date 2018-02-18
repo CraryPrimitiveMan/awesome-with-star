@@ -91,7 +91,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
-- [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible. :star:89618
+- [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible. :star:89696
 - [skflow](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn. :star:3140
 - [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
 - [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
@@ -114,7 +114,7 @@ Those are resources I have found that seems interesting to develop models onto.
 - [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 - [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
 - [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality.
-- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets. :star:22663
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets. :star:22666
 
 
 <a name="other-math-theory" />

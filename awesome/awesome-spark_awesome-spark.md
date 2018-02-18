@@ -44,15 +44,15 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Language Bindings
 
-* [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:547
-* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:715
+* [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:546
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:716
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:485
-* [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:287
+* [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:288
 
 ### Notebooks and IDEs
 
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
-* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2294
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2296
 * [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks. :star:318
 
 ### General Purpose Libraries
@@ -63,10 +63,10 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### SQL Data Sources
 
 * [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). :star:858
-* [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer. :star:444
+* [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer. :star:445
 * [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:160
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer. :star:293
-* [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1370
+* [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1371
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector. :star:35
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector. :star:346
 * [OrientDB-Spark](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector. :star:7
@@ -89,7 +89,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Graph Processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX. :star:339
-* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:335
+* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:336
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support. :star:104
 * [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
@@ -111,7 +111,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing. :star:722
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:1934
 * [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services. :star:149
-* [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications. :star:430
+* [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications. :star:431
 
 ### Utilities
 
@@ -130,12 +130,12 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
-* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2283
+* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2284
 
 ### Testing
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:659
-* [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework. :star:23
+* [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework. :star:24
 
 ### Workflow Management
 

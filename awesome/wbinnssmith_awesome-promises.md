@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 ## Resources, Blogs, and Books
 
 ### For beginners
-* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers". :star:1277
+* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers". :star:1278
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
 * [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 * [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - An FAQ styled tutorial for beginners.
 
 ### Deep Dive
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1347
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1349
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - Common misuses and how to avoid them.
@@ -55,18 +55,18 @@ These implement no more or less than the es6 spec. They make great polyfills and
 
 * [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation. :star:118
 * [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:595
-* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5436
+* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5439
 * [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:608
 
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16299
+* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16305
 * [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec. :star:218
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) - Lightweight with a few extras. Compatible down to IE6!
-* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:14002
+* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:14004
 * [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1767
-* [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3315
+* [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3316
 
 
 ### Fallbacks
@@ -79,7 +79,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun))
 * [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:183
-* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:791
+* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:793
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail. :star:198
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail :star:55
 * [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control :star:194

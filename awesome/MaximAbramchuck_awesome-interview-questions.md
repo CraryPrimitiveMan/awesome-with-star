@@ -106,7 +106,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
-* [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode) :star:6510
+* [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode) :star:6513
 * [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
 
 ### C
@@ -233,7 +233,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
 * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
-* [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises) :star:3540
+* [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises) :star:3541
 * [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises) :star:28
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
@@ -292,7 +292,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 * [11 Essential Python Interview Questions from top 3% developers company](http://www.toptal.com/python/interview-questions)
-* [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions) :star:58
+* [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions) :star:57
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
 * [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 * [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
@@ -430,7 +430,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Some basic Linux questions from ComputerNetworkingNotes.com](http://computernetworkingnotes.com/rhce-interview-questions/linux-interview-questions-answers.html)
 * [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
-* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:2887
+* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:2892
 
 ### Windows
 
@@ -451,12 +451,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Coding exercises
 
 * [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview) :star:380
-* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:12178
-* [Interview questions solved in python](https://github.com/roseperrone/interview-questions) :star:75
+* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:12190
+* [Interview questions solved in python](https://github.com/roseperrone/interview-questions) :star:76
 
 ## Comprehensive lists
 
-* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:32515
+* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:32543
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions) :star:67
@@ -466,8 +466,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
-* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:19687
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:29674
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:19700
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:29694
 
 ## Data structures
 

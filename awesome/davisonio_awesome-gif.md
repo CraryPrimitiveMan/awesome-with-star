@@ -59,7 +59,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:223
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4060
+- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4061
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF :star:896
 - [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:536
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
@@ -70,7 +70,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder :star:711
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos :star:54
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server :star:134
-- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts :star:1007
+- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts :star:1008
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http :star:518
 - [gifdeck](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs :star:92
 - [Gifbot](https://github.com/schuyler/gifbot) - GIF search for Slack :star:38
@@ -125,7 +125,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder :star:389
 - [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs :star:160
 - [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
-- [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs :star:371
+- [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs :star:372
 - [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player :star:399
 - [node-gify](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle :star:222
 - [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js :star:229

@@ -104,7 +104,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:315
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:314
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 

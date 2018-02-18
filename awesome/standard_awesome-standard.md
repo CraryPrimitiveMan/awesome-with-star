@@ -57,12 +57,16 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 - **[grunt-standard](https://www.npmjs.com/package/grunt-standard)** - Grunt plugin for standard
 - **[gulp-standard](https://www.npmjs.com/package/gulp-standard)** - Gulp plugin for standard
-- **[gulp-any-standard](https://www.npmjs.com/package/gulp-any-standard)** - Gulp plugin that supports standard and its forks
 - **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
-- **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
 - **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
+- **[rollup-plugin-standard](https://www.npmjs.com/package/rollup-plugin-standard)** - Lint Rollup builds with Standard
 
+## code/project generators
+
+- **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
+- **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
+- **[generate-swap-generator](https://www.npmjs.com/package/generate-swap-generator)** Generate Your Own ESNext+StandardJS+Mocha Ready NodeJS Generators In Seconds!
 # inspired by `standard`
 
 - **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files

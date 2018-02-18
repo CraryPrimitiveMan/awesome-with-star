@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:26998
+- [Github repository](https://github.com/jashkenas/backbone) :star:26999
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -120,8 +120,8 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2400
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2234
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2401
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2235
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1973
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1700

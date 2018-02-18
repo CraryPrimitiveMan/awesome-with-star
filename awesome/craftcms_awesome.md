@@ -107,7 +107,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### SEO
 - [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:364
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:85
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:86
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:163
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -124,7 +124,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:32
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:121
-- [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:157
+- [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:158
 - [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:289
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
@@ -160,7 +160,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
 - [Sprout Import](https://sprout.barrelstrengthdesign.com/craft-plugins/import) - Import, migrate, seed, and weed content and settings into Craft CMS, Craft Commerce, the Sprout Plugin Suite, and add your own custom integrations.
 - [Sprout Reports](https://sprout.barrelstrengthdesign.com/craft-plugins/reports) - Customize, save, and run the reports you need to manage your business. Export all of your website data and custom reports in CSV format.
-- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:173
+- [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) - Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data :star:174
 
 
 ### Forms
@@ -179,15 +179,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) - Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image. :star:41
 - [Focal Point Field](https://github.com/aelvan/FocalPointField-Craft) - Choose focal point for your assets. :star:71
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images. :star:104
-- [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:115
+- [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload. :star:116
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
-- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:266
+- [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild. :star:267
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 
 
 ### Navigation
-- [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:172
-- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:104
+- [a&m nav](https://github.com/am-impact/amnav) - Navigations in Craft, made easy. :star:173
+- [Navee](https://github.com/fromtheoutfit/navee) - Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation. :star:105
 
 
 ### Integrations

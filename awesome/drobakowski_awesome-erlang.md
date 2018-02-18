@@ -67,7 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1703
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4760
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4761
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1588
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1080
