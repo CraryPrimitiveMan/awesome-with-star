@@ -77,7 +77,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:573
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:42
-* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:524
+* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:525
 * [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:956
 
 ## Modeling
@@ -128,8 +128,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views. :star:6
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2203
-* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1012
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2205
+* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1013
 
 ## Visual Scripting
 

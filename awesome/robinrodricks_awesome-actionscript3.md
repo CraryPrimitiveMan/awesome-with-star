@@ -635,7 +635,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Can-Open-URL](https://github.com/StickSports/ANE-Can-Open-URL) - ANE for iOS to detect whether an app is installed to handle a specific URL scheme. :star:42
 
 #### Social ANE
-* [Facebook](https://github.com/myflashlab/facebook-ANE) - Integrate Facebook SDK into your AIR apps. :star:28
+* [Facebook](https://github.com/myflashlab/facebook-ANE) - Integrate Facebook SDK into your AIR apps. :star:29
 * [GCM](https://github.com/myflashlab/GCM-ANE) - Use Google Cloud messaging on Android and iOS. . :star:3
 * [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android. :star:9
 

@@ -22,11 +22,11 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:488
-* [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:106
-* [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:249
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:489
+* [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:107
+* [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:250
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:41
-* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:173
+* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:174
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend. :star:60
 * [Hadoop (Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
 * [Hadoop (Spark)](http://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer) - OLAP graph processor using Spark.
@@ -37,7 +37,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:121
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:101
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1215
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1219
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:325
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:58
 
@@ -47,7 +47,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 *   [Teva Gremlin](https://www.nuget.org/packages/Teva.Common.Data.Gremlin/) (.NET - C#) - A Gremlin Server driver for .NET.
 
 ##### Clojure
-* [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs. :star:97
+* [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs. :star:98
 * [scalajs-gremlin-client](https://github.com/viagraphs/scalajs-gremlin-client) (scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.
 
 ##### Go
@@ -73,7 +73,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Python
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python. :star:39
 * [python-gremlin-rest](https://github.com/windj007/python-gremlin-rest) - A REST-based client for Gremlin Server. :star:4
-* [gremlinclient](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio. :star:24
+* [gremlinclient](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio. :star:25
 * [aiogremlin](https://github.com/davebshow/aiogremlin) (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
 * [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
 * [goblin](https://github.com/ZEROFAIL/goblin) - OGM for TinkerPop3 Gremlin Server. :star:62

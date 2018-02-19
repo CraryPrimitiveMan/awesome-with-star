@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:364
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:363
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:86
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:163
@@ -300,7 +300,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Misc
 - [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) - Easily manage custom advertisements on your website.
 - [Anchors](https://github.com/craftcms/anchors) - Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [Boris](https://github.com/webdna/boris) - Make your entries invincible! Protect them from being deleted. :star:13
+- [Boris](https://github.com/webdna/boris) - Make your entries invincible! Protect them from being deleted. :star:12
 - [Cookies](https://github.com/nystudio107/cookies) - Simple plugin for setting and getting secure cookies from within templates. :star:68
 - [Country Redirect](https://superbig.co/plugins/country-redirect) - Easily redirect visitors to a locale based on their country of origin.
 - [Craft Help](https://github.com/70kft/craft-help) - Allows developers to provide CMS documentation to their clients directly inside the control panel. :star:76

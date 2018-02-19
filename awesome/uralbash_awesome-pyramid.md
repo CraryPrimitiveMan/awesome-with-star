@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1420
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1425
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

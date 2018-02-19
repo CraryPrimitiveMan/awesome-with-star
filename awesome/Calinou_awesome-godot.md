@@ -16,7 +16,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM. :star:10
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:35
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:103
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:82
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:83
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:14
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone. :star:8
@@ -64,7 +64,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:65
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:8
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:8
-- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:20
+- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:21
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:3
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:8
@@ -82,23 +82,23 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:46
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:43
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:4
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:149
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:151
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:5
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:6
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:6
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:11
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:8
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:83
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:20
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:22
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:79
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:81
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
 - [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing. :star:46
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions. :star:12
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot. :star:3
-- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games. :star:35
+- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games. :star:36
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org). :star:50
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) for Godot 2.1.

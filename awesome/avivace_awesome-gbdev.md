@@ -158,7 +158,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### Open-source emulators
 
-- [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:220
+- [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:222
 - [jsGB](https://github.com/Two9A/jsGB) - Javascript. :star:441
 - [php-terminal-Game Boy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal. :star:1241
 - [gameboy-Online](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs. :star:226
@@ -166,40 +166,40 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:523
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:63
 - [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:89
-- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:91
+- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:92
 - [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:122
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:5
-- [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:291
+- [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:292
 - [AndroidGameBoyEmulator](https://github.com/pedrovgs/AndroidGameBoyEmulator)
 - [GameLad](https://github.com/Dooskington/GameLad) - C++/SDL almost fully featured emulator. :star:256
 - [Wadatsumi](https://github.com/arrow-lang/wadatsumi) - Arrow. :star:8
 - [Binjgb](https://github.com/binji/binjgb) - 5kloc emulator in C that passes most of the tests. :star:54
-- [jgilchrist](https://github.com/jgilchrist/emulator) - Modern C++. :star:38
+- [jgilchrist](https://github.com/jgilchrist/emulator) - Modern C++. :star:39
 - [gameboyGO](https://github.com/gonccalo/gameboyGO) - Go. :star:16
 - [GameBoyEmulator-GBS](https://github.com/Salgat/GameBoyEmulator-GBS) - C++ 14 with a single library dependency of SFML. :star:23
 - [PyBoy](https://github.com/Baekalfen/PyBoy) - Python. Mac, Linux and Windows. :star:71
 - [scimitar](https://github.com/tompko/scimitar) - Rust. :star:2
 - [FunGBC](https://github.com/andreasjhkarlsson/fungbc) - F#. :star:7
 - [barnacleboy](https://github.com/rep-nop/barnacleboy) - Rust. :star:24
-- [node-gameboy](https://github.com/nakardo/node-gameboy) - Node.js. :star:9
+- [node-gameboy](https://github.com/nakardo/node-gameboy) - Node.js. :star:10
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator. :star:35
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:38
 - [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:245
-- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1010
+- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1011
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:11
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:19
 - [SmartGear](https://github.com/bitbank2/sg_free) - C++, SDL2. Focus on optimized performance for resource-limited devices. GTK or direct framebuffer build. :star:6
-- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly :star:15
+- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly :star:18
 - [gameboycore](https://github.com/nnarain/gameboycore) - C++ emulation backend. Dependency free C++11 library. :star:5
  
 ## Software Development
 
 ### Assemblers
 
-- [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:321
+- [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:322
 - [wla-dx](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package. :star:199
 - [gbasm](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code. :star:107
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
@@ -216,7 +216,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### Tools
 
-- [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)). :star:108
+- [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)). :star:109
 - [DevSound](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms. :star:10
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine for Game Boy & Game Boy Color.
 - [Game Boy Tile Data Generator](http://www.chrisantonellis.com/gameboy/gbtdg/) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
@@ -307,7 +307,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### ASM
 
-- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:110
+- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:112
 - [Tuff](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
@@ -325,7 +325,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer. :star:11
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support. :star:36
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support. :star:37
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone. :star:1
 
@@ -349,7 +349,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Bubble Factory](https://github.com/DonaldHays/bubblefactory) - *Vanilla* SDCC (no gbdk). :star:9
 - [GBC Atari Boxing](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color). :star:1
 - [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) and some other projects
-- [Tobu Tobu Girl](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer for the Game Boy. :star:119
+- [Tobu Tobu Girl](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer for the Game Boy. :star:120
 - [Burly Bear vs. The Mean Foxes](http://sebastianmihai.com/main.php?t=18&) ([GBC](http://sebastianmihai.com/main.php?t=55&n=Gameboy-Color-development-Burly-Bear-vs-The-Mean-Foxes-GBC-version) port)
 - [PostBot](https://github.com/MasterIV/PostBot)
 - [Guns & Riders](https://github.com/kanfor/gunsridersgameboy)
@@ -373,7 +373,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Pokémon Pinball](https://github.com/pret/pokepinball)
 - [Pokémon TCG](https://github.com/pret/poketcg)
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-- [pokemontools](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games. :star:153
+- [pokemontools](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games. :star:154
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Link's Awakening DX Disassembly](https://github.com/mojobojo/LADX-Disassembly)

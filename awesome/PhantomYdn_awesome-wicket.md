@@ -105,7 +105,7 @@ List of libraries and components which can be used in your application
 - [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) - Provides a Whiteboard which can be integrated in any wicket application.
 - [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 - [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
-- [WiQuery](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI. :star:2
+- [WiQuery](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI. :star:3
 - [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot. :star:11
 
 ## Web Frameworks
@@ -124,8 +124,8 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:151
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1068
+- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:152
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1070
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:86
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

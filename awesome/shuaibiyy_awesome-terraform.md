@@ -69,7 +69,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings. :star:65
 * [tf_aws_coreos_ami](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - Easy way to lookup CoreOS AMIs with terraform. :star:15
 * [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS. :star:7
-* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS. :star:31
+* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS. :star:32
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS. :star:26
 * [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS. :star:205
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS. :star:17
@@ -77,16 +77,16 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:624
-* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:348
-* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:257
+* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:629
+* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:349
+* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:258
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts. :star:9
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it. :star:23
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources. :star:24
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:1038
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:1041
 * [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv. :star:239
-* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:197
-* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:78
+* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:198
+* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:80
 
 
 ## Talks
@@ -107,7 +107,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Editor Plugins
 
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform) :star:211
-* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:88
+* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion) :star:89
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode) :star:62
 

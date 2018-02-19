@@ -237,8 +237,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 #### GUI Frameworks
 * [IB](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions. :star:266
 * [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone. :star:637
-* [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:323
-* [Motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ. :star:4
+* [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:324
+* [Motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ. :star:5
 * [Purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS. :star:2
 
 
@@ -305,7 +305,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:199
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:107
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:69
-* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:177
+* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:178
 * [Motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver. :star:34
 * [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS.
@@ -315,11 +315,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion. :star:42
 * [Motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol. :star:27
 * [Apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL. :star:33
-* [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking. :star:221
+* [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking. :star:222
 
 
 ### Project Management
-* [Motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project. :star:26
+* [Motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project. :star:27
 * [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion. :star:37
 * [Motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion.
 * [Motion-my_env](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion. :star:9

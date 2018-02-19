@@ -86,7 +86,7 @@ Table of contents:
 * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
 * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper. :star:342
 * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc. :star:28
-* [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2. :star:430
+* [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2. :star:431
 * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners. :star:62
 * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony. :star:15
 * [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar. :star:51
@@ -103,7 +103,7 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) :star:2418
+* [API Platform framework](https://github.com/api-platform/api-platform) :star:2420
 * [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition) :star:39
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) :star:73
 * [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition) :star:10
@@ -114,7 +114,7 @@ Table of contents:
 * [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro) :star:10
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) :star:625
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution) :star:51
-* [Symfony Standard Edition](https://github.com/symfony/symfony-standard) :star:1521
+* [Symfony Standard Edition](https://github.com/symfony/symfony-standard) :star:1522
 * [Victoire DCMS](https://github.com/victoire/victoire) :star:122
 
 ## Ecommerce
@@ -122,7 +122,7 @@ Table of contents:
 * [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components :star:206
 * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles :star:453
 * [WellCommerce](https://github.com/WellCommerce/WellCommerce) - An E-commerce platform for PHP 7.x :star:473
-* [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering :star:3891
+* [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering :star:3892
 
 ## Forms
 
@@ -153,7 +153,7 @@ Table of contents:
 * [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging. :star:7
 * [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication. :star:2
 * [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail. :star:53
-* [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle. :star:414
+* [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle. :star:415
 * [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
 * [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities. :star:4
 * [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2. :star:6
@@ -275,14 +275,14 @@ Table of contents:
 
 ## Storage
 
-* [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice. :star:405
+* [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice. :star:406
 * [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures. :star:79
 * [AvSpoolMailerBundle](https://github.com/AppVentus/AvSpoolMailerBundle) - Store your mails as a spool and send transactionnal direct mails or store it in DB. :star:6
 * [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - Dynamic database routing. :star:1
 * [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES. :star:69
 * [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) - Provides support of MySQL ENUM type for Doctrine2. :star:261
-* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library. :star:427
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Integrates the Doctrine2 Migrations library. :star:511
+* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library. :star:428
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Integrates the Doctrine2 Migrations library. :star:513
 * [elastica-query-bundle](https://github.com/mapado/elastica-query-bundle) - Query builder bundle for ElasticSearch. :star:11
 * [FeedBundle](https://github.com/eko/FeedBundle) - A bundle to build RSS feeds from your entities. :star:104
 * [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) - This bundle adds tagging, with the ability to associate tags with any number of different entities. :star:72
@@ -312,7 +312,7 @@ Table of contents:
 
 ## Third Party APIs
 
-* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project. :star:95
+* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project. :star:96
 * [CoopTilleulsOvhBundle](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - Send SMS using the OVH API. :star:21
 * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2. :star:10
 * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration. :star:67
@@ -340,7 +340,7 @@ Table of contents:
 * [api2symfony-bundle](https://github.com/creads/api2symfony-bundle) - Symfony 2 bundle allowing to automatically generate controllers from standard API specifications. :star:53
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library. :star:209
 * [DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries :star:122
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API. :star:623
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API. :star:624
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle. :star:679
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications. :star:1681
 * [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - Provide fast and simple way to generate REST api for your project entities without editing configs and creating any controllers. :star:2

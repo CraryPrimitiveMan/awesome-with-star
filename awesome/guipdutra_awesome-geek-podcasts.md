@@ -246,6 +246,8 @@ A curated list of podcasts we like to listen to.
 * [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
 * [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
+* [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
+* [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
 
 ## In Persian
 
@@ -266,6 +268,7 @@ A curated list of podcasts we like to listen to.
 ## In German
 
 * [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
+* [Chaosradio](https://chaosradio.ccc.de/) - Monthly live talk radio show of the Chaos Computer Club.
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.

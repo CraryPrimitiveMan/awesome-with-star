@@ -19,8 +19,8 @@
 ### Official resources
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
-- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:215
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5110
+- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:216
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5114
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,7 +30,7 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:416
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:842
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:844
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:347
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
@@ -120,6 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:415
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:4
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:4
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:3
 
 ### License
 

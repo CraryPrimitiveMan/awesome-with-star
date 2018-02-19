@@ -62,7 +62,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:901
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
-    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5925
+    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5926
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package

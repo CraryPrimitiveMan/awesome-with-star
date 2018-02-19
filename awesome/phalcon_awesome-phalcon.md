@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:3
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3480
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3481
 
 
 ## CMS & Blogs
@@ -141,7 +141,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:126
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:7
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:8
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 

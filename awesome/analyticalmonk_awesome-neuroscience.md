@@ -48,7 +48,7 @@ Software, libraries and frameworks for development purposes.
 
 ### C++
 
-- [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions. :star:85
+- [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions. :star:86
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging. :star:152

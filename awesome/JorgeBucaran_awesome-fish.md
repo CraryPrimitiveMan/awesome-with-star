@@ -23,10 +23,10 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Frameworks
 
 * [Fin](https://github.com/fisherman/fin) :star:43
-* [Fisherman](https://github.com/fisherman/fisherman) :star:2751
+* [Fisherman](https://github.com/fisherman/fisherman) :star:2753
 * [Fundle](https://github.com/tuvistavie/fundle) :star:170
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3133
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3136
 
 ## Plugins
 
@@ -40,7 +40,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57
 * [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:149
 * [Spin](https://github.com/fisherman/spin) - Background job spinner. :star:83
-* [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:172
+* [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:174
 
 ## Simple Prompts
 
@@ -50,7 +50,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 
 ## Powerline Themes
 
-* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:430
+* [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:432
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:44
 * [Pure](https://github.com/rafaelrinaldi/pure) :star:209

@@ -32,8 +32,8 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
-* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:93
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7005
+* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS. :star:94
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7009
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:149
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
@@ -41,7 +41,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems. :star:256
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
-* [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:402
+* [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:403
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs. :star:91
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support. :star:296
@@ -55,7 +55,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build. :star:94
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
-* [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS. :star:1093
+* [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS. :star:1095
 * [Partyshare](https://partysha.re) - A simple file sharing app.
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.

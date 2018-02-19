@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11759
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11761
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4201
-- [Repo](https://github.com/substack/node-browserify) :star:11759
+- [Repo](https://github.com/substack/node-browserify) :star:11761
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1674
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1675
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:776
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:237
 
@@ -98,7 +98,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1499
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1501
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:190
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:515
 

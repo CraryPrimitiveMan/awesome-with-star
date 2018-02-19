@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17956
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20747
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:17959
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20749
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -204,8 +204,8 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:74
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:486
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:835
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:485
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:836
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:52
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
@@ -237,7 +237,7 @@ Additional lists you might find useful:
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) - A fully customizable Comments plugin. :star:4
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) - A plugin to convert currency into another one. :star:5
 - [Dashboard plugin](https://github.com/gourmet/dashboard) - Build beautiful dashboards for your cakes. :star:17
-- [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups. :star:3
+- [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups. :star:4
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form. :star:2
 - [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application. :star:5
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - Allows to use hashids to not expose the database ids to the user. :star:32

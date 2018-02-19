@@ -14,7 +14,7 @@
 
 ## Preludes
 
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:57
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:58
 - [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
 - [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:27
 

@@ -53,11 +53,11 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 * [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP.
-* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266. :star:54
+* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266. :star:55
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio. :star:275
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go. :star:90
 * [HiveMQ](https://www.hivemq.com/) - Java based commercial MQTT Broker.
-* [Moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker. :star:809
+* [Moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker. :star:810
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
 * [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
@@ -89,12 +89,12 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift. :star:609
 * [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client. :star:108
-* [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift. :star:188
+* [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift. :star:189
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio. :star:275
 * [Hulaaki](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers. :star:94
 * [Machine Head](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client. :star:50
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - A MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
-* [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP. :star:238
+* [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP. :star:239
 * [mqtt-client](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js). :star:11
 * [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework. :star:965
 * [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) - Dart mqtt client. :star:11
@@ -106,9 +106,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js.
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust. :star:33
 * [Paho](http://www.eclipse.org/paho/) - Open source client implementations (C/C++, Java, Python, Javascript, Go, C#).
-* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:1516
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:1518
 * [rumqtt](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure rust MQTT client. :star:41
-* [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol. :star:314
+* [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol. :star:315
 * [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a MQTT broker. Very, very basic. :star:3
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics. :star:53
@@ -127,12 +127,12 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Makers
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) - Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker. :star:8
-* [Basecamp](https://github.com/merlinschumacher/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/ct/ausgabe/2018-2-Sechs-IoT-Projekte-flexibel-und-ohne-Cloud-3930050.html). :star:145
+* [Basecamp](https://github.com/merlinschumacher/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/ct/ausgabe/2018-2-Sechs-IoT-Projekte-flexibel-und-ohne-Cloud-3930050.html). :star:146
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266. :star:812
 * [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO. :star:60
 * [MySensors](https://www.mysensors.org/) - Arduino NRF24L01 based sensor network with support for an MQTT gateway
 * [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) - Lua script to connect ESP8266 GPIOs to MQTT. :star:2
-* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:1516
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:1518
 * [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway. :star:78
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT. :star:11
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway. :star:16
@@ -253,7 +253,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Messaging
 
 * [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot. :star:14
-* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services. :star:625
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services. :star:626
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic. :star:12
 
 
@@ -267,7 +267,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [homely](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff. :star:8
 * [kobold2mqtt](https://github.com/krambox/kobold2mqtt) - Bridge between Vorwerk Kobold Vr200 internet gateway and Mqtt.
 * [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt. :star:15
-* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker. :star:33
+* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker. :star:34
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics. :star:13
 * [mqttclpro](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app. :star:34
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface. :star:5
@@ -299,7 +299,7 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 ### Architecture, Convention
 
 * [Homie](https://github.com/marvinroger/homie) - A lightweight MQTT convention for the IoT. :star:299
-* [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal. :star:164
+* [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal. :star:165
 
 
 ## Contribute
