@@ -35,14 +35,14 @@
 ## Packages
 
 - [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:150
-- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:70
+- [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:71
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:94
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:21
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
-- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:150
-- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:181
-- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:435
+- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:151
+- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:182
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:436
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
@@ -53,7 +53,7 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:3
-- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:97
+- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:99
 
 
 ## Works with AVA

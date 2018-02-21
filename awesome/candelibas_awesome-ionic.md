@@ -20,7 +20,7 @@ An "awesome" list of the Ionic resources
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:33323
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:33342
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -114,7 +114,7 @@ An "awesome" list of the Ionic resources
 * [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2256
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2258
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) :star:274
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) :star:33
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud) :star:26
@@ -124,9 +124,9 @@ An "awesome" list of the Ionic resources
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player) :star:27
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app) :star:24
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base) :star:127
-* [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) :star:205
+* [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) :star:208
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) :star:122
-* [Ionic Advanced Components](https://github.com/yannbf/ionic2-components) :star:888
+* [Ionic Advanced Components](https://github.com/yannbf/ionic2-components) :star:891
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes) :star:11
 * [Ionic Soundboard](https://github.com/rkalis/ionic-soundboard) :star:5
 

@@ -132,6 +132,7 @@ Table of Contents
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarqube.com](https://sonarqube.com) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [golangci.com](https://golangci.com) — Automated Go (golang) code review service for GitHub pull requests.
 
 ## Code Search and Browsing
 
@@ -603,7 +604,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:89
+  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:90
 
 ## Vagrant Related
 

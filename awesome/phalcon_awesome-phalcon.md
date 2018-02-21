@@ -62,7 +62,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:183
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:182
 
 
 ## Application Skeleton
@@ -73,7 +73,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:306
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:601
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:602
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
@@ -84,7 +84,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework :star:131
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap :star:10
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower :star:14
-* [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework :star:70
+* [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework :star:71
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:86
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service :star:5
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:3
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3481
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3492
 
 
 ## CMS & Blogs
@@ -107,11 +107,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support :star:30
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework :star:20
-* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:435
+* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:434
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:340
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:341
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:73
 
 
@@ -120,7 +120,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Command line applications & tools.*
 
 * [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon PHP Framework :star:7
-* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon :star:60
+* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon :star:61
 * [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon PHP Framework :star:14
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework :star:46
 
@@ -149,7 +149,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Dependency Injection.*
 
-* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection :star:16
+* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection :star:15
 * [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework :star:19
 * [pidic](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon :star:3
 
@@ -209,7 +209,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for manipulating images & other media.*
 
 * [nova](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon PHP Framework :star:7
-* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc :star:60
+* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc :star:59
 
 
 ## Miscellaneous
@@ -218,9 +218,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:32
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:647
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:646
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework :star:7
-* [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:32
+* [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:31
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps :star:3
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL :star:4
 * [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis :star:4
@@ -253,7 +253,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Representational state transfer.*
 
-* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework :star:16
+* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework :star:15
 * [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:99
 * [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:23
 * [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework :star:58
@@ -280,7 +280,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Various scaffolding tools.*
 
 * [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications :star:40
-* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework :star:20
+* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework :star:19
 
 
 ## Searching
@@ -351,7 +351,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Web tools & libraries.*
 
 * [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - Password manager for selfuse :star:6
-* [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application :star:25
+* [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application :star:24
 
 
 # Server Applications

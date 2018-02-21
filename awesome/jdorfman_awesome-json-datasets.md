@@ -169,7 +169,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Media
-* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1765
+* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1767
   * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
   * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
   * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)

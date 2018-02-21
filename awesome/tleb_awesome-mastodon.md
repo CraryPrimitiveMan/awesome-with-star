@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12163
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12184
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -44,7 +44,7 @@
 * [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:86
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:64
-* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:93
+* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:94
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:6
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 
@@ -156,5 +156,5 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Librairies
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:195
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:194
 

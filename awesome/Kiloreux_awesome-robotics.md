@@ -44,6 +44,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
 * [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084) [[pdf](https://arxiv.org/pdf/1709.00084)]
+* [Automated Planning and Acting](http://projects.laas.fr/planning/) [[pdf](http://projects.laas.fr/planning/book.pdf)]
 
 
 ### Software and Libraries ###
@@ -154,6 +155,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [RoboMasters](http://www.robomasters.com/en/)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
+* [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
@@ -183,12 +185,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3460
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5138
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30544
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7825
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6056
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3463
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5173
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30603
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7861
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6063
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:65
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:175
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:176
 

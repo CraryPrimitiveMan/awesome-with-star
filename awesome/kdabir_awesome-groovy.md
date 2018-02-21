@@ -29,7 +29,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Build tools and Setup
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:508
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:507
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
@@ -62,7 +62,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:244
-* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:107
+* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:108
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:362
 
@@ -74,7 +74,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:170
-* [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:136
+* [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:135
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
 ## Code Analysis
@@ -95,15 +95,15 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:62
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system :star:2
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
-  * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy :star:27
-  * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy :star:25
+  * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy :star:26
+  * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy :star:24
 
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2 :star:57
 * [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:9
 
 ## File Format DSL
-* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:82
+* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:81
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy 
 

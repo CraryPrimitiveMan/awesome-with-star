@@ -166,7 +166,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
 * [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:11
 * [Motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. :star:36
-* [Motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app. :star:116
+* [Motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app. :star:115
 * [Motion-Social](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework. :star:12
 
 
@@ -191,8 +191,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Crittercism](https://github.com/andrewhavens/crittercism) - Easily add crash reporting to your RubyMotion app with Crittercism. :star:4
 * [Motion_print](https://github.com/OTGApps/motion_print) - RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL. :star:31
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) - Port of the awesome_print gem to RubyMotion. :star:49
-* [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:19
-* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:575
+* [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:18
+* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:574
 
 
 ### Dependencies Management
@@ -217,7 +217,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:229
-* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
+* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:134
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1271
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
@@ -228,7 +228,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Game Development
-* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:298
+* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:297
 
 
 ### Graphical User Interface
@@ -244,7 +244,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Autolayout
 * [Purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
-* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:225
+* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:224
 
 
 #### Input
@@ -253,7 +253,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### iOS
-* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:97
+* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:96
 * [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:150
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37
@@ -283,7 +283,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Hybrid
 * [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - Material design floating action button. :star:7
-* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:41
+* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:40
 * [Motion-hybrid](https://github.com/balvig/motion-hybrid) - RubyMotion framework for easily making hybrid webview-centric iOS apps. :star:36
 
 
@@ -313,14 +313,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Networking
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion. :star:42
-* [Motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol. :star:27
+* [Motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol. :star:26
 * [Apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL. :star:33
 * [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking. :star:222
 
 
 ### Project Management
 * [Motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project. :star:27
-* [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion. :star:37
+* [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion. :star:36
 * [Motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion.
 * [Motion-my_env](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion. :star:9
 
