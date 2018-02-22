@@ -363,7 +363,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2015
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2016
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -384,7 +384,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:111
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1275
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1277
 
 
 **MINDMAP HTML**
@@ -393,7 +393,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:574
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1275
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1277
 
 
 ### Concept Map and Diagrams
@@ -441,7 +441,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1475
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:599
-* [hovercraft](https://github.com/regebro/hovercraft) :star:967
+* [hovercraft](https://github.com/regebro/hovercraft) :star:968
 
 
 
@@ -455,9 +455,9 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39000
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39014
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4323
-* [CSSS](https://github.com/LeaVerou/CSSS) :star:1491
+* [CSSS](https://github.com/LeaVerou/CSSS) :star:1493
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:693
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5246
 * [Shower](https://github.com/shower/shower) :star:3919
@@ -727,7 +727,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:788
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:790
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

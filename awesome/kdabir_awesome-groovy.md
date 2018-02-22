@@ -43,7 +43,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:459
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1659
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1661
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 
@@ -61,7 +61,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:244
+* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:245
 * [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:108
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:362
@@ -103,13 +103,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:9
 
 ## File Format DSL
-* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:81
+* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:82
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy 
 
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:273
+ * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:274
 
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing :star:28
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2467
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2468
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

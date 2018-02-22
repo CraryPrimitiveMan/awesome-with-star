@@ -35,7 +35,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:867
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:868
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:28
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:204
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:95
@@ -49,7 +49,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Trading
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading. :star:163
-- [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js. :star:281
+- [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js. :star:282
 - [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:243
 
 #### Game Interaction
@@ -89,9 +89,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1138
-- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:121
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1001
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1140
+- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:122
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1003
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:40
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -104,7 +104,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### PHP
 
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website. :star:46
-- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:277
+- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:279
 - [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:18
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API. :star:62
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP. :star:3
@@ -113,7 +113,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Go
 
-- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:177
+- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:178
 - [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go. :star:13
 
 ### Python

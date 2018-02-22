@@ -63,7 +63,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:346
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19042
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19048
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3147
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3148
 
 **[Back to top](#contents)**
 
@@ -149,7 +149,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Java
 
 - [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java. :star:31
-- [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter. :star:229
+- [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter. :star:228
 - [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete. :star:166
 - [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:133
 - [Lesscss](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant. :star:8
@@ -180,7 +180,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Ruby
 
-- [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine. :star:116
+- [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine. :star:115
 
 **[Back to top](#contents)**
 

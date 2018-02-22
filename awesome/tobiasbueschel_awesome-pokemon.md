@@ -51,8 +51,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON. :star:47
 
 #### Apps
-- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1377
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2097
+- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1378
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2096
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service. :star:420
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator. :star:231
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle. :star:77
@@ -72,13 +72,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Miscellaneous
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon. :star:21
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal. :star:540
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area. :star:2463
-- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal. :star:936
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area. :star:2462
+- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal. :star:938
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon. :star:90
-- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1438
+- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1439
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal. :star:154
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy. :star:472
-- [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor. :star:616
+- [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor. :star:617
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy. :star:527
 - [PoGoTools](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items. :star:4
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon GO servers.
@@ -86,7 +86,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats. :star:91
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device. :star:16
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions. :star:40
-- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2708
+- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2709
 
 ## Resources & Others
 #### Communities
@@ -106,7 +106,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8088
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:8084
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1890
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map. :star:148
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you. :star:1130
@@ -121,7 +121,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Wiki
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon. :star:668
-- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org. :star:1901
+- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org. :star:1903
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)

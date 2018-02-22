@@ -20,7 +20,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe. :star:19
-* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:7400
+* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:7404
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 
@@ -29,7 +29,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists. :star:8
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists. :star:9
 
 ### Resources
 *List of interesting external resources.*

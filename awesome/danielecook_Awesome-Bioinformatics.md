@@ -88,6 +88,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 * __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
 * __[Fastqp](https://github.com/mdshw5/fastqp)__ - FASTQ and SAM quality control using Python.
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
+* __[MultiQC](http://multiqc.info/)__ - Aggregate results from bioinformatics analyses across many samples into a single report.
 * __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
 * __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - file format conversion in Biopython in a convenient way
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
@@ -147,6 +148,7 @@ __DNA Resequencing__
 
 * __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database.
 * __[pyensembl](https://github.com/hammerlab/pyensembl)__ - Pythonic Access to the Ensembl database.
+* __[bioservices](https://github.com/cokelaer/bioservices)__ - Access to Biological Web Services from Python.
 
 #### Tools
 
@@ -208,7 +210,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### RNA-Seq
 
 * [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - Includes lots of seminal papers on RNA-seq and analysis methods.
-* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation. :star:425
+* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation. :star:427
 * [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia provides an awesome overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.
 * [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - Gives awesome roadmap for RNA-seq computational analyses, including challenges/obstacles and things to look out for, but also how you might integrate RNA-seq data with other data types.
 * [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Dr. Lior Pachter shares his stories from the supplement for well-known RNA-seq analysis software CuffDiff and [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) and explains some of their methodologies.

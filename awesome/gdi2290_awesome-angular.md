@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:33266
+* [Official GitHub Repo](https://github.com/angular/angular) :star:33296
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -86,7 +86,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 
 #### Angular 2 Server-Side Rendering
-* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:2818
+* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:2820
 
 #### Angular 2 Material Design
 
@@ -152,9 +152,9 @@ Table of contents:
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3744
+* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3748
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3 :star:171
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:70
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:71
 * [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3 :star:56
 * [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3 :star:21
 
@@ -175,7 +175,7 @@ Table of contents:
 > Universal (isomorphic) javascript support for Angular 2
 
 #### Universal General Resources
-* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:2818
+* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:2820
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class

@@ -27,7 +27,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4128
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4131
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques. :star:253
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. :star:323
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects. :star:33
@@ -51,7 +51,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Mooog](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables. :star:20
 - [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2698
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio. :star:24
-- [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily. :star:98
+- [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily. :star:99
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator. :star:15
 - [Tuna](https://github.com/Theodeus/tuna) - An audio effects library. :star:914
 - [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:232

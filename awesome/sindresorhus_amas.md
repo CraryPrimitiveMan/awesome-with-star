@@ -5,16 +5,16 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:858
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:859
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:33
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:84
-- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:645
+- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:646
 - [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:193
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
-- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:205
+- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:206
 - [Anselm Hannemann](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io. :star:7
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek. :star:2
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer. :star:4
@@ -79,7 +79,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries](https://github.com/mourner/projects). Building the future of interactive maps. :star:6
 - [Claudio Procida](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
-- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/). :star:71
+- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/). :star:72
 - [Kahlil Lechelt](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 - [Vadim Demedes](https://github.com/vdemedes/ama) - Node.js addict. :star:2
 - [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
@@ -130,7 +130,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer. :star:2
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:190
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:191
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4

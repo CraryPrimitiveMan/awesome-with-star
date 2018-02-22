@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:487
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:488
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -66,7 +66,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Web development frameworks.*
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1705
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1706
 * [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4766
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1588
@@ -248,7 +248,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Websites
 *Useful web and Erlang-related websites and newsletters.*
 
-* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) - All about erlang programming language [powerd by community]. :star:1005
+* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) - All about erlang programming language [powerd by community]. :star:1007
 * [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
 * [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 * [Spawned Shelter](http://spawnedshelter.com/) - Erlang Spawned Shelter. A collection of the best articles, videos and presentations related to Erlang.

@@ -79,7 +79,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset :star:1
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra :star:2
  * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation :star:3
- * [radix](https://github.com/luislavena/radix) - Radix Tree implementation :star:37
+ * [radix](https://github.com/luislavena/radix) - Radix Tree implementation :star:38
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree :star:1
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms :star:15
 
@@ -149,7 +149,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Data Generators
- * [faker](https://github.com/askn/faker) - A library for generating fake data :star:77
+ * [faker](https://github.com/askn/faker) - A library for generating fake data :star:78
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers :star:25
 
 ## Database Drivers/Clients
@@ -244,7 +244,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game :star:9
 
 ## GUI library
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui) :star:4931
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui) :star:4936
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen :star:70
 
 ## HTML/XML Parsing
@@ -298,7 +298,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library :star:31
  * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library :star:8
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:89888
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:89954
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities :star:5
@@ -320,7 +320,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard :star:5
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections :star:132
  * [inflector.cr](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
- * [lirith](https://github.com/lirith-engine/lirith) - Graphics engine :star:17
+ * [lirith](https://github.com/lirith-engine/lirith) - Graphics engine :star:18
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming :star:2
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples :star:26
@@ -336,7 +336,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator :star:7
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses :star:14
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
- * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library :star:68
+ * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library :star:67
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files :star:11
 
 ## ORM/ODM Extensions
@@ -376,7 +376,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Routing
  * [crouter](https://github.com/jreinert/crouter) - A standalone router :star:44
  * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library :star:36
- * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server :star:110
+ * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server :star:111
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing :star:60
 
 ## Scheduling
@@ -401,7 +401,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system :star:19
 
 ## Template Engine
- * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup](https://github.com/weavejester/hiccup) :star:1708
+ * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup](https://github.com/weavejester/hiccup) :star:1707
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal :star:35
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines :star:75
@@ -439,7 +439,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client :star:4
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API :star:9
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API :star:2
- * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:15745
+ * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:15751
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library :star:9
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API :star:28
  * [tele.cr](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API :star:16
@@ -450,8 +450,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler :star:33
 
 ## Web Frameworks
- * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:861
- * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2083
+ * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:864
+ * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2085
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests :star:704
  * [prism](https://github.com/vladfaust/prism) - Light, modular web framework :star:9

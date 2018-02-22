@@ -70,7 +70,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4157
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:1002
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:1003
 - [Sketch Measure](https://github.com/utom/sketch-measure) :star:5379
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1091
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2874
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2876
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

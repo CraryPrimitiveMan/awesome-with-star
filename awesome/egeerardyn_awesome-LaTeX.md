@@ -101,7 +101,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:277
+	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:278
 	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1119
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
@@ -121,7 +121,7 @@ Online editors that allow you to edit documents collaboratively.
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. The GUI looks quite dated, though. ![foss][foss]
-- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:66
+- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:72
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![foss][foss] ![Linux][linux] ![Mac][mac]
@@ -197,7 +197,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Templates
 
 - [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-- [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews. :star:243
+- [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews. :star:244
 
 ## Symbols
 

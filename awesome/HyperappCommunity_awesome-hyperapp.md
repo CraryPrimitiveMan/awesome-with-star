@@ -54,11 +54,11 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Utilities
 
-* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:44
+* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:45
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:28
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:173
 * [frenzzy/hyperapp-render](https://github.com/frenzzy/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:16
-* [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:26
+* [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:27
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components :star:3
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:17
 * [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:44
@@ -67,7 +67,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:27
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:1
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - A template language and W3C Custom Elements for Hyperapp. :star:8
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:161
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:163
 
 ## Testing
 
@@ -77,5 +77,5 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp. :star:17
 * [Golazon.com](https://github.com/sobstel/golazon) - Football data mnmlist way. Built with Hyperapp and Hyperapp/Router. :star:14
-* [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability. :star:4
+* [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability. :star:5
 

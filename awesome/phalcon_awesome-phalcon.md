@@ -71,7 +71,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:306
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:307
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:602
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:3
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3492
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3498
 
 
 ## CMS & Blogs
@@ -111,8 +111,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:341
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:73
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:342
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:74
 
 
 ## Command Line
@@ -199,7 +199,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Mail services.*
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service :star:41
-* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework :star:29
+* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework :star:30
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
 * [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon PHP Framework and Swift :star:6
 

@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:363
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:364
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:87
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:163
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:39
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type. :star:46
 - [Sprout Notes](https://sprout.barrelstrengthdesign.com/craft-plugins/notes) - Add notes to your dashboard. Customize your note's header, body, and even use custom HTML.
-- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:112
+- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:113
 
 
 ### Data
@@ -307,7 +307,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:61
 - [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:23
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:33
-- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:47
+- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:48
 - [Large Upload](https://superbig.co/plugins/large-upload) - Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Printmaker](https://craftpl.us/plugins/printmaker) - Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
 - [Rich Variables](https://github.com/nystudio107/richvariables) - Allows you to easily use Globals as variables in Rich Text fields. :star:44
@@ -330,7 +330,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:193
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:113
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:172
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:173
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 
