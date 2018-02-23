@@ -185,9 +185,9 @@
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input. :star:100
-- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:359
+- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:360
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:201
+- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:203
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 

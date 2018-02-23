@@ -25,20 +25,20 @@
 ### JavaScript
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:24
-- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:231
+- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:232
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:116
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
-- [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:39
+- [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:38
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:70
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:484
+- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:485
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:13
 - [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:28
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests. :star:13
 - [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing. :star:30
 - [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability. :star:27
 - [tap-bail](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails. :star:19
-- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:50
+- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:51
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output. :star:18
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output. :star:29
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity. :star:7
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13018
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13026
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1179
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4443
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4444
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4486
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4494
 
 [More...](https://testanything.org/producers.html)
 
@@ -79,7 +79,7 @@ Things that consume TAP output.
 
 - [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:83
 - [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:20
-- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:19
+- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:18
 
 [More...](https://testanything.org/consumers.html)
 
@@ -105,7 +105,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:120
+- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:121
 
 
 ## Documentation

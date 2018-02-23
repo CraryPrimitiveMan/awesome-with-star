@@ -44,14 +44,14 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
-- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:158
+- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:159
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 
 ## Tools
 
-- [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs. :star:42
-- [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data. :star:99
+- [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs. :star:41
+- [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data. :star:98
 
 ## Social
 

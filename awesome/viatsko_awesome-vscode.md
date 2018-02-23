@@ -250,8 +250,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:51
-- [Pragmatic Essence](https://github.com/orta/Essence) :star:51
+- [Essence](https://github.com/flagello/Essence) :star:52
+- [Pragmatic Essence](https://github.com/orta/Essence) :star:52
 
 ### Syntax
 

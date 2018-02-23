@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7184
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7185
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
@@ -96,7 +96,7 @@
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:15
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
-- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1106
+- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1107
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example

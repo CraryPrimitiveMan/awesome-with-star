@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11765
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11768
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4201
-- [Repo](https://github.com/substack/node-browserify) :star:11765
+- [Repo](https://github.com/substack/node-browserify) :star:11768
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -47,7 +47,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ## Tutorials
 
 - [Hello World with Browserify](http://browserify.org/#middle-section)
-- [Browserify Adventure](https://github.com/workshopper/browserify-adventure) :star:142
+- [Browserify Adventure](https://github.com/workshopper/browserify-adventure) :star:143
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
 - [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
@@ -87,20 +87,20 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1674
+- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1676
 - [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:76
 
 ### CSS bundlers
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:386
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:251
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:390
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:391
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1503
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1502
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:190
-- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:515
+- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:514
 
 ### Node in the Browser
 

@@ -186,11 +186,11 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3466
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5192
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30632
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7870
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6073
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5212
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30666
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7879
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6079
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:66
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:178
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:180
 

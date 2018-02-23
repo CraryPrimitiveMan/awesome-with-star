@@ -18,7 +18,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:384
+* [The fish-shell cookbook](https://github.com/JorgeBucaran/fish-shell-cookbook) :star:385
 
 ## Frameworks
 
@@ -26,11 +26,11 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Fisherman](https://github.com/fisherman/fisherman) :star:2755
 * [Fundle](https://github.com/tuvistavie/fundle) :star:171
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3146
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3147
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:694
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:695
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:244
@@ -40,11 +40,11 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Segment](https://github.com/fisherman/segment) - Powerline prompt builder. :star:57
 * [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:149
 * [Spin](https://github.com/fisherman/spin) - Background job spinner. :star:83
-* [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:175
+* [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:174
 
 ## Simple Prompts
 
-* [Mono](https://github.com/fisherman/mono) :star:29
+* [Mono](https://github.com/fisherman/mono) :star:30
 * [Simple](https://github.com/fisherman/simple) :star:64
 * [Sol](https://github.com/fisherman/sol) :star:26
 

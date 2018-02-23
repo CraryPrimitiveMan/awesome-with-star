@@ -5,7 +5,7 @@
 
 ## Build Tooling
 
-- [pulp](https://github.com/bodil/pulp) :star:382
+- [pulp](https://github.com/bodil/pulp) :star:381
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:37
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
@@ -16,7 +16,7 @@
 
 - [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:58
 - [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
-- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:27
+- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:26
 
 ## UI Libraries
 
@@ -25,7 +25,7 @@
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS. :star:54
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:102
-- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:213
+- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:212
 
 ## Components
 
