@@ -55,7 +55,7 @@
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/tools/serverless-framework) - The Serverless Framework on the ThoughtWorks Technology Radar.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
 - [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
-- [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group. :star:464
+- [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group. :star:477
 - [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
 - [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
@@ -68,7 +68,7 @@
 - [Learn serverless](https://serverless.com/learn/) - Guides why and how to learn serverless.
 - [Google Cloud Serverless](https://cloud.google.com/serverless/) - Serverless resources for Google Cloud users.
 - [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
-- [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data. :star:61
+- [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data. :star:63
 
 ## Blogs
 
@@ -159,7 +159,7 @@
 - [Serverless computing with Azure functions](http://www.hanselman.com/blog/WhatIsServerlessComputingExploringAzureFunctions.aspx) - Introduction to serverless computing with the help of Azure functions.
 - [Autodesks sample serverless architecture](https://www.infoq.com/news/2016/08/serverless-autodesk) - A Sample Serverless Microservice Architecture from Autodesk.
 - [Understanding the serverless trend](http://www.techrepublic.com/article/aws-vs-microsoft-azure-understanding-the-serverless-application-trend) - Blog post which outlines what the serverless trend is all about.
-- [Architecture code patterns](http://blog.serverless.com/serverless-architecture-code-patterns/) - Different serverless arhcitectural code patterns explained.
+- [Architecture code patterns](http://blog.serverless.com/serverless-architecture-code-patterns/) - Different serverless architectural code patterns explained.
 - [Serverless without the framework](https://serverlesscode.com/post/serverless-without-the-framework/) - Blog post which explains why you should learn the fundamentals before using the framework.
 - [Local Serverless development](http://blog.gorillastack.com/serverless-framework-local-development-environments) - Tutorial how you can develop offline with Serverless (v0.5).
 - [Serverless and JAM](https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/) - Tutorial on how to use Serverless with the JAMstack.
@@ -181,7 +181,7 @@
 - [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail](https://github.com/microapps/MoonMail) open source project.
 - [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post which outlines the future of serverless computing and enterprises.
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, Inc.
-- [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
+- [Serverless raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
 - [Serverless, Inc. launches management framework](http://www.itbusinessedge.com/blogs/it-unmasked/serverless-inc.-launches-management-framework.html) - Post on the launch of Serverless v1 and upcoming plans.
 - [Serverless Nets $3M to radically simplify cloud infrastructure](http://www.businesswire.com/news/home/20161012005381/en/Serverless-Nets-3M-Radically-Simplify-Cloud-Infrastructure) - BusinessWire article about the Serverless v1 launch.
 - [Bustles serverless architecture](http://thenewstack.io/bustle-migrated-100-million-events-per-day-product-serverless/) - How Bustle uses a serverless architecture to manage 52 Mio. monthly visitors.
@@ -194,10 +194,10 @@
 - [Serverless with Java 8 and DynamoDB](https://medium.com/aws-activate-startup-blog/serverless-architectures-with-java-8-aws-lambda-and-amazon-dynamodb-part-1-fde79a6fb3cf#.48axcvvay) - Blog post series about a serverless setup with Java 8 and DynamoDB.
 - [Serverless basic security](https://foobar123.com/serverless-security-594942b496ec#.y8xjoi7n6) - Introduction to serverless and security.
 - [Serverless and TypeScript](https://gregshackles.com/getting-started-with-serverless-and-typescript/) - Getting started guide on how to use Serverless and TypeScript.
-- [Meet the Serverless partner Trek10](https://serverless.com/blog/introducing-serverless-partners-meet-trek10/) - Introduction of the people behind the Serverless specalized agency Trek10.
+- [Meet the Serverless partner Trek10](https://serverless.com/blog/introducing-serverless-partners-meet-trek10/) - Introduction of the people behind the Serverless specialized agency Trek10.
 - [Future of Serverless after v1.0](https://serverless.com/blog/serverless-post-1.0/) - The Serverless team shares their future improvements for the Serverless Framework.
 - [Building a serverless screenshot service](https://medium.com/serverless-stories/building-a-serverless-screenshot-service-with-lambda-bf4dd151877#.8mg0psckq) - Tutorial how one can build a Screenshot service which runs 100% serverless.
-- [Adopting serverless - People and DevOps](https://read.acloud.guru/adopting-serverless-people-and-devops-336e3ab89e96#.wjs11rf9j) - Things to be aware of when adpoting a serverless architecture in your organization.
+- [Adopting serverless - People and DevOps](https://read.acloud.guru/adopting-serverless-people-and-devops-336e3ab89e96#.wjs11rf9j) - Things to be aware of when adopting a serverless architecture in your organization.
 - [Integration test serverless architectures](https://serverless.zone/monkeyless-chaos-integration-testing-for-serverless-architectures-9d1a4208c3ca#.5xmrbdqui) - Post which explains how to integration test a serverless application based on the "ChaosMonkey" approach Netflix uses.
 - [Getting started with Serverless Tweet](https://twitter.com/slecache/status/789613648339673088) - Most minimal "Getting started with Serverless" tutorial.
 - [The Serverless Framework is not serverless](https://medium.com/@PaulDJohnston/the-serverless-framework-is-not-serverless-5008ef67f547#.oteafe4d0) - Post about the difference between the serverless architecture and the Serverless Framework.
@@ -217,7 +217,7 @@
 - [Serverless video service](https://medium.com/@federicopanini/video-content-generated-solution-with-aws-lambda-ccb5d5d4629c#.3ktcgkdrx) - How to create a ready-to-use application where users can upload video contents.
 - [My opinion on Serverless](https://cloudonaut.io/my-opinion-on-serverless/) - Opinion from the guys at [Cloudonaut](cloudonaut.io) about the serverless movement.
 - [Save a file in S3](https://foobar123.com/serverless-save-a-file-in-s3-using-aws-lamdba-d3f087880dd2#.fh7u6fjej) - Post which shows how to save a file to S3 when using a serverless architecture.
-- [Smart persons guide to serverleess computing](http://www.techrepublic.com/article/serverless-computing-the-smart-persons-guide) - Guide which covers what serverless computing is and how it could reduce the complexity and cost of your cloud infrastructure.
+- [Smart persons guide to serverless computing](http://www.techrepublic.com/article/serverless-computing-the-smart-persons-guide) - Guide which covers what serverless computing is and how it could reduce the complexity and cost of your cloud infrastructure.
 - [Prod-To-Staging Data Pipeline](https://serverlesscode.com/post/lambda-rds-prod-staging-pipeline) - How to use Serverless to migrate data from production to staging using Yesterdaytabase.
 - [Keeping the Serverless Framework up to date](https://foobar123.com/keep-your-serverless-framework-up-to-date-b6af35d4cf77#.ef32fvad6) - Tutorial which shows you what to do to use the most recent version of the Serverless Framework.
 - [Serverless Architecture](https://briantroy.com/2016/10/11/series-part-1-serverless-architecture-a-practical-implementation-iot-device-data-collection-processing-and-user-interface) - Multi part blog post series about the serverless architecture (starts with a serverless IoT setup).
@@ -234,7 +234,7 @@
 - [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab/) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
 - [State of the serverless community](https://serverless.com/blog/state-of-serverless-community/) - Results of the Serverless community survey.
 - [A concrete PHP Serverless example](http://blog.zerosharp.com/a-concrete-php-serverless-example) - Export chess games in PDF using PHP.
-- [Fantasy Movie League Analtytics](https://fmlnerd.com/2016/11/29/a-microservices-architecture-for-fantasy-movie-league-analtytics) - Fantasy Movie League observations from an obsessed nerd.
+- [Fantasy Movie League Analytics](https://fmlnerd.com/2016/11/29/a-microservices-architecture-for-fantasy-movie-league-analtytics) - Fantasy Movie League observations from an obsessed nerd.
 - [Is serverless ready for primetime?](https://developer.ibm.com/tv/is-serverless-ready-for-primetime/) - IBM on serverless architectures and their use in production environments.
 - [Environment variables with Serverless](http://www.goingserverless.com/blog/using-environment-variables-with-the-serverless-framework/) - How to use environment variables with the Serverless framework.
 - [Serverless notifications system](https://serverless.com/blog/serverless-notifications-on-aws/) - How to build a serverless notification system on AWS.
@@ -245,13 +245,13 @@
 - [Persist AWS Cognito credentials](http://serverlessarchitecture.com/2016/12/06/persist-aws-cognito-credentials-between-browser-page-loads-to-be-used-with-aws-apigateway) - How to blog post which explains how one can persist AWS Cognito credentials between browser page loads.
 - [Five predictions for IT in 2017](http://www.itproportal.com/features/goldilocks-serverless-and-devops-five-predictions-for-it-in-2017) - Goldilocks, serverless and DevOps: Five predictions for IT in 2017.
 - [3-5x speed increase for Lambda](https://serverless.zone/my-accidental-3-5x-speed-increase-of-aws-lambda-functions-6d95351197f3#.d4eogudfg) - Post which shows how memory size affects Lambda performance.
-- [Serverless Authorization](https://foobar123.com/serverless-authorization-25a556e883d6#.ipsxuf4fk) - Turorial which shows you how you can use custom authorizers to secure your Serverless application.
+- [Serverless Authorization](https://foobar123.com/serverless-authorization-25a556e883d6#.ipsxuf4fk) - Tutorial which shows you how you can use custom authorizers to secure your Serverless application.
 - [Pivotal Software Takes on Cloud Giants](http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants) - How Pivotal Software plans to take on AWS and compete in the Serverless field.
 - [Serverless deployment pipelines](https://www.awsadvent.com/2016/12/14/serverless-everything-one-button-serverless-deployment-pipeline-for-a-serverless-app) - In-depth article about using Serverless in combination with AWS deployment pipelines.
 - [AWS Lambda quickstart](https://saintcoder.wordpress.com/2016/12/16/serverless-aws-lambda-quickstart) - This article covers steps for creating your first service using the Serveless Framework.
 - [AWS invoice example](https://alestic.com/2016/12/aws-invoice-example) - How Much Does It Cost To Run A Serverless API on AWS?
 - [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
-- [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - [SC5](https://sc5.io/) on their workshop to build a Facebook Messenger Chatbot in 2 hours.
+- [Building a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - [SC5](https://sc5.io/) on their workshop to build a Facebook Messenger Chatbot in 2 hours.
 - [Retrieve Data from DynamoDB](https://saintcoder.wordpress.com/2016/12/20/serverles-aws-lambda-retrieve-data-from-aws-dynamodb) - Detailed step-by-step guide how to use DynamoDB with the Serverless Framework.
 - [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter/) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
 - [Serverless Compute Manifesto](http://blog.rowanudell.com/the-serverless-compute-manifesto/) - A manifesto about serverless architectures.
@@ -266,7 +266,7 @@
 - [State-as-a-Service](https://serverless.zone/faas-is-stateless-and-aws-step-functions-provides-state-as-a-service-2499d4a6e412#.1zgqbfvwb) - A look at AWS step functions.
 - [Windclock at the lake](https://serverless.com/blog/a-serverless-windclock-at-the-lake/) - Blog post about a weatherclock which is used to monitor a kiteboarding spot at the lake (IoT example).
 - [The many stages of serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27#.hxa5ab3jn) - Some “stages of serverless” most people go through.
-- [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates corss platform development with serverless microservices.
+- [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates cross platform development with serverless microservices.
 - [10 attributes of serverless computing](http://thenewstack.io/ten-attributes-serverless-computing-platforms) - Overview of 10 attributes for serverless computing platforms.
 - [Going serverless doesn't mean no-ops](http://thenewstack.io/going-serverless-doesnt-mean-no-ops) - Why going serverless doesn't necessarily mean no-ops.
 - [How to trigger alerts from Slack](https://medium.com/opsgenie/wondering-how-to-trigger-alerts-from-slack-messages-cf1e766c324f#.o8pgmlvti) - How you can trigger your Lambda functions via Slack messages.
@@ -284,7 +284,7 @@
 - [Architectural view on OpenWhisk](http://thenewstack.io/behind-scenes-apache-openwhisk-serverless-platform) - How OpenWhisk works behind the scenes.
 - [Security and serverless](https://medium.com/@PaulDJohnston/security-and-serverless-ec52817385c4#.omi7ouhbe) - Things regarding security one should consider for a serverless architecture.
 - [Thinking Serverless: How New Approaches Address Modern Data Processing Needs](https://read.acloud.guru/thinking-serverless-how-new-approaches-address-modern-data-processing-needs-part-1-af6a158a3af1#.6wob73stj) - Blog post series about the development of serverless applications.
-- [Gain more visiblity into your Github Projects using Scope](https://serverless.com/blog/scope-the-open-source-serverless-status-board/) - Blog post which showcases the Open Source serverless application ["Scope"](https://github.com/serverless/scope).
+- [Gain more visibility into your Github Projects using Scope](https://serverless.com/blog/scope-the-open-source-serverless-status-board/) - Blog post which showcases the Open Source serverless application ["Scope"](https://github.com/serverless/scope).
 - [How GorillaStack used Rollbar for serverless logging](https://rollbar.com/blog/how-gorillastack-used-rollbar-to-level-up) - How GorillaStack used Rollbar to level up logging with the Serverless Framework.
 - [Build a serverless app with the first serverless database](https://fauna.com/blog/serverless-cloud-database) - How to build a serverless CRUD application with the Serverless Framework and FaunaDB.
 - [How Switching to Serverless Can Change Your Company Mindset](http://www.business2community.com/business-innovation/switching-serverless-can-change-company-mindset-01776308#XEuv3UkAicMJ6qqP.97) - Why and how serverless architectures can help companies.
@@ -367,7 +367,7 @@
 - [How I built a serverless function without knowing it](https://hackernoon.com/how-i-built-a-serverless-function-without-knowing-it-58b1e65b4422) - How one guy "accidentally" built a serverless function without noticing it.
 - [Join a serverless meetup](https://www.linkedin.com/pulse/join-serverless-meetup-today-alex-casalboni) - Post on why you should join a serverless meetup.
 - [Serverless internals](https://www.infoq.com/articles/serverless-internals) - Examining the internals of a serverless platform.
-- [Introducing NoDB - a Pythonic Object Store for S3](https://blog.zappa.io/posts/introducing-nodb-pythonic-data-store-s3) - Intorduction blog post about the [NoDB](https://github.com/Miserlou/NoDB) project.
+- [Introducing NoDB - a Pythonic Object Store for S3](https://blog.zappa.io/posts/introducing-nodb-pythonic-data-store-s3) - Introduction blog post about the [NoDB](https://github.com/Miserlou/NoDB) project.
 - [The serverless cloud could swallow up hardware](http://www.communicationstoday.co.in/company-news/10450-the-serverless-cloud-could-swallow-up-hardware) - How serverless computing will reduce the total cost of ownership and how this impacts the overall cloud / server market.
 - [iRobots challenges of running serverless at scale](https://thenewstack.io/irobot-confronts-challenges-running-serverless-scale/) - What iRobot learned while looking into ways to run serverless architectures at scale.
 - [Serverless apps with Firebase Cloud Functions](https://code.tutsplus.com/tutorials/serverless-apps-with-firebase-cloud-functions--cms-28557) - Tutorial on how to build serverless apps with Firebase Cloud Functions.
@@ -498,7 +498,7 @@
 - [Build a serverless REST API](https://serverless.com/blog/build-a-serverless-rest-api/) - Video tutorial series how you can build a serverless Rest API using DynamoDB with the Serverless Framework.
 - [Let’s code a serverless chatbot for Facebook messenger](https://blog.alana.cloud/lets-code-a-serverless-chatbot-for-facebook-messenger-8551c3ee7e6) - Tutorial which shows how one can build a serverless Facebook Messenger chatbot.
 - [Environmental Sympathy](https://medium.com/@mweagle/environmental-sympathy-e6e2f4933b90) - Post about the different challenges one has to deal with when working with serverless architectures.
-- [OpenWhisk stirs up serverless IoT with Watson](https://www.linux.com/news/event/open-source-summit-na/2017/5/ibms-openwhisk-stirs-serverless-iot-watson) - How a combination with Apache OpenWhisk and IBM Watson can transforn IoT.
+- [OpenWhisk stirs up serverless IoT with Watson](https://www.linux.com/news/event/open-source-summit-na/2017/5/ibms-openwhisk-stirs-serverless-iot-watson) - How a combination with Apache OpenWhisk and IBM Watson can transform IoT.
 - [Google’s Firebase taps serverless Cloud Functions](http://www.infoworld.com/article/3197745/application-development/googles-firebase-taps-serverless-cloud-functions.html) - Overview of serverless features for Firebase.
 - [AWS Lambda and Node.js](https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/) - Tutorial on how to get started with Node.js on AWS Lambda.
 - [Mobile serverless development](https://dzone.com/articles/mobile-serverless-development) - How mobile developers are empowered to build collaborative and realtime experiences with the help of serverless technologies.
@@ -574,7 +574,7 @@
 - [How to serve serverless](http://developer.telerik.com/content-types/tutorials/serve-serverless-examples-azure/) - How to serve serverless with Azure examples.
 - [Build a serverless Twilio SMS + call forwarding bot](https://hackernoon.com/build-a-serverless-twilio-sms-call-forwarding-bot-in-7-minutes-using-node-js-stdlib-411697c3cc1b) - Tutorial on how to build a serverless Twilio SMS + call forwarding bot in 7 minutes.
 - [Web auth with AWS Lambda and API Gateway](https://www.sandersdenardi.com/aws-lambda-api-auth/) - Tutorial on how to do web authentication with AWS Lambda and API Gateway.
-- [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explaines why one should consider to go serverless.
+- [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explains why one should consider to go serverless.
 - [Event-driven processing with Serverless and DynamoDB streams](https://serverless.com/blog/event-driven-architecture-dynamodb/) - How to setup an event-driven data processing pipeline with the Serverless Framework and DynamoDB streams.
 - [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
 - [How do different factors affect Lambda cold starts?](https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76) - Post on how language, memory and package size affect AWS Lambda cold starts.
@@ -629,7 +629,7 @@
 - [Handling SMS with OpenWhisk, Watson and Twilio](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio) - How to combine OpenWhisk with Watson and Twilio to detect things on pictures.
 - [The future isn't serverless - it's generic platform abstractions](https://abe-winter.github.io/the-future/2017/06/30/serverless.html) - Post about the future of serverless computing and generic platform abstraction.
 - [Architecting serverless notifications on AWS](https://vmokshagroup.com/blog/architecting-serverless-notifications-on-aws) - How to architect a serverless notifications system on AWS.
-- [Building a serverless photot library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
+- [Building a serverless photo library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
 - [Serverless Kotlin on OpenWhisk](https://medium.com/openwhisk/serverless-kotlin-how-to-run-a-kotlin-action-on-openwhisk-3986963f2dd0) - How to run a Kotlin Action on OpenWhisk.
 - [Serverless REST API with Angular](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/) - How to develop a persistent and secure serverless REST API with Angular.
 - [JeffConf London 2017 recap](https://serverless.zone/jeffconf-london-2017-recap-interviews-news-from-the-community-e853b65527d0) - Recap, interviews & news from the community.
@@ -678,7 +678,7 @@
 - [The right ingredients](https://www.netguru.co/blog/the-right-ingredients-take-full-advantage-of-aws-lambda-and-serverless) - Brief post on how to take full advantage of AWS, Lambda and Serverless.
 - [Event driven influencers - Trek10](https://serverless.com/blog/event-driven-influencers-trek10/) - Brief post about the mission and history of Trek10.
 - [Our journey to serverless](https://www.digitalmaas.com/blog/our-journey-to-serverless) - Story of DigitalMaas transition to a serverless architecture.
-- [Azure Cotainer Instances](https://thenewstack.io/azure-container-instances-proof-microsoft-innovating-containers/) - Post about Azure Container instances and their relation to AWS Lambda.
+- [Azure Container Instances](https://thenewstack.io/azure-container-instances-proof-microsoft-innovating-containers/) - Post about Azure Container instances and their relation to AWS Lambda.
 - [Serverless v1.19.0](https://serverless.com/blog/serverless-v1.19.0/) - Announcement blog post for Serverless Framework v1.19.0.
 - [CloudFoundry Summit 2017 hackathon](https://thenewstack.io/brainstorming-new-platform-ideas-cloud-foundry-hackathon/) - Summary of the CloudFoundry Summit 2017 hackathon.
 - [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
@@ -715,7 +715,7 @@
 - [Build a Stripe store in 5 minutes](https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227) - How to build a serverless Stripe store in 5 minutes with Node.js and StdLib.
 - [Rigettis serverless quantum computing API](https://thenewstack.io/nascent-quantum-computing-development-rigettis-new-forest-api/) - Post which talks about Rigettis introduction of a serverless Quantum computing API.
 - [Why Morningstar moved to the cloud](http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html) - How Morningstar was able to reduce their costs by 97% using a serverless architecture.
-- [IOpipe launches into general availablity](https://thenewstack.io/iopipe-launches-lambda-monitoring-tool-aws-summit/) - Post about the GA launch of IOpipe.
+- [IOpipe launches into general availability](https://thenewstack.io/iopipe-launches-lambda-monitoring-tool-aws-summit/) - Post about the GA launch of IOpipe.
 - [A serverless way to serve more](https://medium.com/wolox-driving-innovation/a-serverless-way-to-serve-more-f8c47e1fd5b1) - Post about the Serverless Framework and its main features.
 - [Microsofts Event Grid for Azure](https://thenewstack.io/event-grid-microsoft-provides-missing-half-serverless-computing-azure/) - Post which talks about Microsoft Azures Event Grid.
 - [Microsoft launches fully managed event routing service](https://techcrunch.com/2017/08/16/microsoft-launches-azure-event-grid-a-fully-managed-event-routing-service/) - Post about the announcement of Microsoft Azures Event Grid.
@@ -758,7 +758,7 @@
 - [Exploring AWS Lambda deployment limits](https://hackernoon.com/exploring-the-aws-lambda-deployment-limits-9a8384b0bec3) - How to beat the AWS Lambda deployment limits.
 - [StackPointCloud partners with Bitnami for serverless computing](https://www.geekwire.com/2017/seattles-stackpointcloud-partners-bitnami-serverless-computing-top-kubernetes/) - Post about the partnership between Seattle’s StackPointCloud and Bitnami to do serverless computing on top of Kubernetes.
 - [Hot to run serverless functions at half the cost](https://serverless.com/blog/running-multi-cloud-functions-at-spot-instance-prices/) - Announcement post about the Spotinst Functions provider integration for the Serverless Framework.
-- [Unified logging for serverelss functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
+- [Unified logging for servereless functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
 - [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
 - [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
 - [Event sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - Post about the fundamentals of event sourcing.
@@ -766,7 +766,7 @@
 - [How to build Alexa skills with Kotlin](https://www.twilio.com/blog/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html) - Tutorial which shows how one can build an Alexa skill with Kotlin on AWS Lambda.
 - [10 advantages of serverless architectures](https://da-14.com/blog/ten-advantages-serverless-architecture-app-development) - Post which outlines the advantages and disadvantages of serverless computing.
 - [A zero-maintenance donations platform with Serverless and AWS](https://serverless.com/blog/scaling-the-resistance-zero-maintenance-donations-platform/) - How [movementvote.org](http://movementvote.org) built a serverless donations platform.
-- [How to use the SSM parameter store to work with sensitive data](https://hackernoon.com/you-should-use-ssm-parameter-store-over-lambda-env-variables-5197fc6ea45b) - Post which shows how to use the SSM patameter store to share and work with sensitive data.
+- [How to use the SSM parameter store to work with sensitive data](https://hackernoon.com/you-should-use-ssm-parameter-store-over-lambda-env-variables-5197fc6ea45b) - Post which shows how to use the SSM parameter store to share and work with sensitive data.
 - [30 questions to ask a serverless fanboy](http://www.iheavy.com/2017/03/13/30-questions-to-ask-a-serverless-fanboy/) - 30 "controversial" questions about serverless computing.
 - [CloudWatch logs and centralized logging with AWS Lambda](https://serverless.com/blog/serverless-ops-logs/) - How to use CloudWatch logs and do centralized logging with AWS Lambda and the Serverless Framework.
 - [Centralized logging for AWS Lambda](https://hackernoon.com/centralised-logging-for-aws-lambda-b765b7ca9152) - How to do centralized logging for AWS Lambda.
@@ -821,7 +821,7 @@
 - [What's new for Serverless plugins](https://serverless.com/blog/plugin-system-extensions/) - Post about the recent enhancements of the Serverless Frameworks plugin system.
 - [Monitoring, and the “No Ops” myth](https://read.acloud.guru/serverless-superheroes-adam-johnson-monitoring-and-the-no-ops-myth-117e468416a2) - Post about monitoring serverless applications.
 - [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
-- [Why Stackery launces at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
+- [Why Stackery launches at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
 - [JeffConf Milan 2017 recap](https://serverless.zone/jeffconf-milan-2017-good-things-comes-in-threes-at-least-663df79763ee) - Recap blog post about JeffConf Milan 2017.
 - [Deploying a serverless Express.js REST API](https://serverless.com/blog/serverless-express-rest-api/) - How to deploy a serverless Express.js REST API using the Serverless Framework.
 - [Definitive guide to ServerlessConf NY 2017](https://serverless.com/blog/definitive-guide-serverlessconf-2017-nyc/) - Guide about the ServerlessConf 2017 in New York.
@@ -961,7 +961,7 @@
 - [Operationalizing serverless - 5 key consideration](https://www.trek10.com/blog/operationalizing-serverless-considerations/) - What to take care of when going production with a serverless architecture.
 - [The hidden costs of serverless](https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b) - How much a serverless architecture really costs in production and how to calculate it.
 - [How to build a serverless URL shortener](https://medium.freecodecamp.org/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c) - How to build a Serverless URL shortener using AWS Lambda and S3.
-- [Are serverless techmnologies immune to Meltdown?](https://thenewstack.io/serverless-technologies-immune-meltdown/) - Post which discusses serverless computing and its benefits in a security context.
+- [Are serverless technologies immune to Meltdown?](https://thenewstack.io/serverless-technologies-immune-meltdown/) - Post which discusses serverless computing and its benefits in a security context.
 - [Gilt city's order processing with serverless](http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless) - How Guilt used serverless technologies to build an ordering processing service.
 - [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f) - Post which describes how AWS Lambda cold starts really ocurr.
 - [Popular Serverless Framework plugins](https://serverless.com/blog/most-popular-framework-plugins/) - Post which discusses popular Serverless Framework plugins.
@@ -975,7 +975,7 @@
 - [AWS Lambda Go vs. Node.js](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982) - AWS Lambda Go vs. Node.js performance benchmark.
 - [How Incentro built a serverless digital archive](https://cloudplatform.googleblog.com/2018/01/how-we-built-a-serverless-digital-archive-with-machine-learning-APIs-Cloud-Pub-Sub-and-Cloud-Functions.html) - How Incentro built a serverless digital archive with machine learning APIs, Cloud Pub/Sub and Cloud Functions powered by the Google Cloud.
 - [Serverless Framework with JavaScript config](https://medium.com/@pvlasov/power-up-serverless-framework-with-javascript-configurations-9cf4b9c6ee76) - How to use the Serverless Framework with a `serverless.js` file.
-- [Using DynamoDB Global Tables with the Serveress Framework](https://serverless.com/blog/build-multiregion-multimaster-application-dynamodb-global-tables/) - How to build a multi-region, multi-master application with the Serverless Framework and DynamoDB Global Tables.
+- [Using DynamoDB Global Tables with the Serverless Framework](https://serverless.com/blog/build-multiregion-multimaster-application-dynamodb-global-tables/) - How to build a multi-region, multi-master application with the Serverless Framework and DynamoDB Global Tables.
 - [Deep learning on Lambda - Part 1](https://tech.scrunch.com/blog/deep-learning-on-lambda-part-1-architecture-and-performance/) - Part 1 of a series of notes from a recently deployment of Deep Learning models on AWS Lambda.
 - [Coder-as-Accountant](https://thenewstack.io/coder-accountant-serverless-systems-design-based-costing-models/) - How serverless costs are calculated and why the coder turns into an accountant because of that.
 - [Microsoft Azure Event Grid now GA](https://thenewstack.io/microsoft-azure-event-grid-goes-live/) - Post about the GA of Microsoft Azure Event Grid.
@@ -989,7 +989,7 @@
 - [Realtime updates using Websockets via IoT](https://serverless.com/blog/realtime-updates-using-lambda-websockets-iot/) - How to implement real-time updates using AWS Lambda and Websockets via IoT.
 - [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf) - Post about the differences between containers, container-orchestration and serverless computing.
 - [When to use serverless computing](https://thenewstack.io/decide-use-serverless/) - Post on how to decide when to use serverless computing.
-- [Commuication strategies in remote teams](https://serverless.com/blog/communication-strategies-remote-teams/) - The Serverless, Inc. team on different communication strategies when working in a remote setup.
+- [Communication strategies in remote teams](https://serverless.com/blog/communication-strategies-remote-teams/) - The Serverless, Inc. team on different communication strategies when working in a remote setup.
 - [Exploring the Azure Event Grid](https://thenewstack.io/tutorial-exploring-azure-event-grid-custom-webhooks/) - Tutorial on how to build custom Webhooks with the Azure Event Grid.
 - [Getting started with serverless Go](https://yos.io/2018/02/08/getting-started-with-serverless-go/) - Tutorial on how to use Go with the Serverless Framework.
 - [8 reasons why Fn was built](https://medium.com/fnproject/8-reasons-why-we-built-the-fn-project-bcfe45c5ae63) - Post which outlines the reasons for building the [Fn project](http://github.com/fnproject/fn).
@@ -1006,6 +1006,8 @@
 - [Using serverless for Webhooks](https://medium.com/square-corner-blog/stop-using-servers-to-handle-webhooks-675d5dc926c0) - Why serverless computing is a perfect fit for Webhooks.
 - [Serverless databases](https://www.simform.com/serverless-databases/) - Post about the requirements and characteristics about serverless databases.
 - [Serverless cloud-native landscape](https://medium.com/memory-leak/serverless-cloud-native-landscape-new-from-redpoint-ventures-and-the-cloud-native-computing-181711d885f7) - Post which describes the serverless cloud-native landscape.
+- [Serverless ETL job processing](https://serverless.com/blog/etl-job-processing-with-serverless-lambda-and-redshift/) - Post about ETL job processing with the Serverless Framework, AWS Lambda and AWS Redshift.
+- [AWS CloudTrail log analytics](https://hackernoon.com/serverless-app-aws-cloudtrail-log-analytics-using-amazon-elasticsearch-service-76ed8dfa064a) - How to build a serverless AWS CloudTrail log analytics service using AWS Elasticsearch.
 
 ## Screencasts
 
@@ -1136,7 +1138,7 @@
 - [From instances to functions](https://speakerdeck.com/yosriady/from-instances-to-functions-going-serverless) - Talk about the steps to go serverless.
 - [Serverless orchestration](https://www.slideshare.net/AmazonWebServices/serverless-orchestration-with-aws-step-functions-may-2017-aws-online-tech-talks) - Slide deck about serverless orchestration with the help of AWS Step Functions - Recording can be found [here](https://www.youtube.com/watch?v=-I4yNjTZY9U).
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications) - Slide deck form the talk about serverless web applications.
-- [Serverless? Not so Faas!](https://www.youtube.com/watch?v=e59pTjaVPCs) - Talk about the histrory of FaaS and cloud native architectures built with serverless tools.
+- [Serverless? Not so Faas!](https://www.youtube.com/watch?v=e59pTjaVPCs) - Talk about the history of FaaS and cloud native architectures built with serverless tools.
 - [Decentralizing the internet with serverless](https://pusher.com/sessions/meetup/js-monthly-london/decentralizing-the-internet-with-serverless-single-page-javascript-apps) - Talk about decentralizing the internet with serverless single page JavaScript apps.
 - [The serverless revolution for everyone](http://thewebivore.com/serverless-revolution-for-everyone/) - Slide deck about the talk on the revolution of serverless architectures.
 - [Developing serverless C# applications](https://www.youtube.com/watch?v=Ymn6WGCSjE4) - How to develop C# serverless apps with AWS Lambda.
@@ -1207,11 +1209,12 @@
 - [Enterprise serverless](https://thenewstack.io/week-news-enterprise-serverless-voice-driven-management/) - Podcast about serverless adoption in the enterprise.
 - [The evolution of business logic](https://www.youtube.com/watch?v=aBcG57Gw9k0) - Adrian Cockcroft on the evolution of business logic from monoliths, to microservices, to functions.
 - [What makes distributed security "Cloud Native"](https://thenewstack.io/twistlock-cto-john-morello-on-what-makes-distributed-security-cloud-native/) - How security can be achieved in "Cloud Native" applications.
-- [Introduction to serverless applications](https://www.youtube.com/watch?v=iSDokuZnRcI) - Talk about serverless applications by Austen Collins at the Bay Area Salseforce Developer Group.
+- [Introduction to serverless applications](https://www.youtube.com/watch?v=iSDokuZnRcI) - Talk about serverless applications by Austen Collins at the Bay Area Salesforce Developer Group.
 - [State of serverless](https://www.youtube.com/watch?v=SNJipRS8qxw) - Talk about the current state of serverless computing.
 - [Serverless architecture patterns and best practices](https://www.youtube.com/watch?v=_mB1JVlhScs) - Chris Munns talks about serverless architecture patterns and best practices.
 - [Cloud vs. Edge in 2018](https://thenewstack.io/cloud-vs-edge-venture-capitalists-view-whats-store-2018/) - Podcast about the cloud- and edge-computing trends in 2018.
 - ["Think FaaS" Podcast](https://www.trek10.com/blog/category/think-faas/) - Trek10s "Think FaaS" Podcast series.
+- [3 use-cases driving the adoption of FaaS](https://thenewstack.io/3-use-cases-driving-adoption-functions-service/) - Podacst episode about the adoption of FaaS.
 
 ## Amazon AWS resources
 
@@ -1232,7 +1235,7 @@
 - [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin. :star:24
 - [Lang Adventure backend](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game. :star:1
 - [Serverless project written with ES2015](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015. :star:4
-- [Serveress Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation. :star:7
+- [Serverless Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation. :star:7
 - [Serverless pre register](https://github.com/agentmilindu/Serverless-Pre-Register) - Product Pre-registration page. :star:3
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor.
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless.
@@ -1255,8 +1258,8 @@
 - [Lambda-React-SSR](https://github.com/dherault/Lambda-React-SSR/) - Server-side rendering with React on Lambda.
 - [Authentication boilerplate](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless. :star:338
 - [Blog](https://github.com/charltones/serverless_blog) - Blog example using Serverless. :star:4
-- [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service. :star:1123
-- [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate. :star:1077
+- [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service. :star:1124
+- [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate. :star:1083
 - [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/). :star:48
 - [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories. :star:17
 - [Facebook messenger bot](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot. :star:34
@@ -1273,7 +1276,7 @@
 - [Garden Aid](https://github.com/garden-aid) - Serverless IoT project to track gardening related data.
 - [Serverless Cloud Vision](https://github.com/ramhiser/serverless-cloud-vision) - A project which uses Google Cloud Vision together with the Serverless framework. :star:24
 - [Wolfram Lambda](https://bitbucket.org/pstreule/wolfram-lambda) - HipChat Chatbot which integrates with WolframAlpha.
-- [Yith](https://github.com/craftship/yith) - Serverless private npm registry. :star:234
+- [Yith](https://github.com/craftship/yith) - Serverless private npm registry. :star:236
 - [Trevorbot](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is. :star:12
 - [Quotebot](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval. :star:26
 - [Weekly2Pocket](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app. :star:6
@@ -1281,7 +1284,7 @@
 - [Serverless Example](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1. :star:14
 - [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverless microservice architecture with decoupled Services.
 - [Serverless Zwiftalizer](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend. :star:2
-- [React boilerplate](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React. :star:156
+- [React boilerplate](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React. :star:157
 - [Serverless screenshot](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless. :star:137
 - [Serverless minimal](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
 - [Serverless authorizer](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints. :star:29
@@ -1299,8 +1302,8 @@
 - [Authorizer](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers. :star:29
 - [Thumbnails](https://github.com/eahefnawy/serverless-thumbnails) - Service that takes an image url and returns a 100x100 thumbnail. :star:26
 - [Boilerplate](https://github.com/eahefnawy/serverless-boilerplate) - Opinionated boilerplate. :star:9
-- [Serverless Sharp Image](https://github.com/adieuadieu/serverless-sharp-image) - function triggered by S3 events to resize images with the awesome Sharp library :star:105
-- [Serverles Artillery workshop](https://github.com/Nordstrom/serverless-artillery-workshop) - Step by step workshop to create a load testing service which combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io). :star:55
+- [Serverless Sharp Image](https://github.com/adieuadieu/serverless-sharp-image) - function triggered by S3 events to resize images with the awesome Sharp library :star:106
+- [Serverless Artillery workshop](https://github.com/Nordstrom/serverless-artillery-workshop) - Step by step workshop to create a load testing service which combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io). :star:55
 - [ServerlessConf workshop](https://github.com/ServerlessInc/serverlessconf-workshop) - Project code for the ServerlessConf London 2016 workshop. :star:5
 - [Messenger boilerplate](https://github.com/SC5/serverless-messenger-boilerplate) - Serverless messenger bot boilerplate. :star:30
 - [ES6 + Jest](https://github.com/americansystems/serverless-es6-jest) - Serverless framework with ES6 via Webpack + Babel + Jest. :star:45
@@ -1345,11 +1348,11 @@
 - [Alexa Skill starter template](https://github.com/rmtuckerphx/alexa-skill-serverless-starter-template) - Alexa Skill template that uses the Serverless Framework and the Alexa Skills Kit SDK for Node.js. :star:70
 - [Golang](https://github.com/yunspace/serverless-golang) - Example project which uses [AWS Lambda Go Shim](https://github.com/eawsy/aws-lambda-go-shim) to run Go in a Lambda. :star:200
 - [Web monitor](https://github.com/haw-itn/serverless-web-monitor) - Web monitor written in a serverless way. :star:5
-- [GraphQL Apollo](https://github.com/serverless/serverless-graphql-apollo) - GraphQL boilerplate using Apollo. :star:1077
+- [GraphQL Apollo](https://github.com/serverless/serverless-graphql-apollo) - GraphQL boilerplate using Apollo. :star:1083
 - [Windclock](https://github.com/douweh/windclock_serverless) - IoT example which pushes the wind-speed and wind-direction to a Particle Photon. :star:3
 - [C# HipChat](https://github.com/FLGMwt/serverless-csharp-hipchat) - Template for HipChat bot Serverless service using C#. :star:3
 - [Blog to podcast](https://github.com/SC5/serverless-blog-to-podcast) - Convert blog content to podcasts. :star:25
-- [Serverless Todos](https://github.com/nerdguru/serverlessTodos) - Enhanched todos application which uses Mocha tests and AWS CodePipeline as a CI / CD system. :star:25
+- [Serverless Todos](https://github.com/nerdguru/serverlessTodos) - Enhanced todos application which uses Mocha tests and AWS CodePipeline as a CI / CD system. :star:25
 - [Practical](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB. :star:8
 - [Faceswap](https://github.com/johncmckim/serverless-emoticon-faceswap) - A Serverless Project that overlays an Emoji on a face. :star:25
 - [3scale Authorizer](https://github.com/picsoung/awsThreeScale_Authorizer) - Custom Authorizer function for the AWS API Gateway using 3scale for API management. :star:4
@@ -1370,9 +1373,9 @@
 - [Lambda coding round evaluator](https://github.com/shekhargulati/lambda-coding-round-evaluator) - Services which help to implement a code evaluator that organizations can use to automate coding round interviews. :star:23
 - [TDD service](https://github.com/laardee/my-tdd-service) - TDD example service. :star:2
 - [HTML PDF](https://github.com/calvintychan/serverless-html-pdf) - Convert HTML to PDF thru a lambda function using PhantomJS. :star:33
-- [Codebox npm](https://github.com/craftship/codebox-npm) - Serverless private npm registry. :star:234
+- [Codebox npm](https://github.com/craftship/codebox-npm) - Serverless private npm registry. :star:236
 - [Overwatch bot](https://github.com/hectorleiva/overwatch-serverless-telegram-bot) - Overwatch stats bot for the messaging service Telegram. :star:5
-- [Shimless Golang](https://github.com/cristim/serverless-golang) - Shimless Golang AWS Lambda running on Servlerless Framework. :star:3
+- [Shimless Golang](https://github.com/cristim/serverless-golang) - Shimless Golang AWS Lambda running on Serverless Framework. :star:3
 - [Post Scheduler](https://github.com/serverless/post-scheduler) - Service which helps you to schedule posts for static site generators (Jekyll, Hugo, Phenomic etc.). :star:133
 - [Bucket events](https://github.com/manwaring/serverless-bucket-events) - Service to test bucket events. :star:1
 - [Cached RDS WS](https://github.com/mugglmenzel/serverless-examples-cached-rds-ws) - Service that uses API Gateway, ElastiCache, and RDS PostgreSQL. :star:18
@@ -1400,7 +1403,7 @@
 - [Serverless validator](https://github.com/futtetennista/ServerlessValidator) - A validator for serverless.yml files written in Haskell. :star:2
 - [Midsomerplots](https://github.com/matthewberryman/midsomerplots) - Midsomer murder plot generator bot. :star:10
 - [Proxy](https://github.com/dan-turner/serverless-proxy) - Run your existing HTTP middleware based apps in Serverless. :star:5
-- [Chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome on AWS Lambda. :star:1156
+- [Chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome on AWS Lambda. :star:1157
 - [Modern koa](https://github.com/barczaG/serverless-modern-koa) - Template which makes it easy to build koa apps what can be also run on AWS lambda or as a standalone koa server (or in Docker). :star:15
 - [Alexa skill](https://github.com/sbstjn/serverless-alexa-skill) - Serverless example for a custom Amazon Alexa skill. :star:6
 - [OpenWhisk Slack SMS bot](https://github.com/ibmets/smsbot) - SMS Bot for Slack using Twilio and OpenWhisk. :star:4
@@ -1419,7 +1422,7 @@
 - [Binary test](https://github.com/bni/binary-test) - Binary files in API Gateway / Lambda test. :star:12
 - [Serverless PHP](https://github.com/araines/serverless-php) - PHP for AWS Lambda via Serverless Framework. :star:60
 - [Video preview and analysis](https://github.com/laardee/video-preview-and-analysis-service) - Service for creating preview animation and labels from video file. :star:21
-- [AWS Lambda power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - Step Functions state machine generator for AWS Lambda power tuning. :star:232
+- [AWS Lambda power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - Step Functions state machine generator for AWS Lambda power tuning. :star:234
 - [YouTube podcasts](https://github.com/sedden/serverless-youtube-podcasts) - Access YouTube playlists in podcast format. :star:6
 - [Lambda view server](https://github.com/kiva/lambda-view-server) - A no-db web server using AWS Lambda. :star:3
 - [Thumbnail](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework. :star:22
@@ -1440,7 +1443,7 @@
 - [Whim bot](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot. :star:3
 - [AWS IAM manager](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code. :star:33
 - [SendToSlack](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel. :star:4
-- [Slack Time Tracking Bot with Google Sheets](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardised way. :star:2
+- [Slack Time Tracking Bot with Google Sheets](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardized way. :star:2
 - [Kinesis Streams fan-out](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework). :star:49
 - [X-Ray](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration. :star:2
 - [Faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services. :star:66
@@ -1455,7 +1458,7 @@
 - [Example](https://github.com/nafetswirth/serverless-example) - Another serverless example service. :star:2
 - [2514](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514). :star:2
 - [3965](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965). :star:2
-- [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda. :star:12036
+- [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda. :star:12052
 - [Slack invite](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service. :star:5
 - [Slack sign-up](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services). :star:13
 - [Image resizer](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda. :star:20
@@ -1475,14 +1478,14 @@
 - [Start with React example](https://github.com/anoora17/serverlessStartwithReactexample) - Serverless React example app. :star:2
 - ["Deploy with Serverless"](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments. :star:42
 - [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service. :star:4
-- [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures. :star:2
+- [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A playground project showing different serverless architectures. :star:2
 - [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups. :star:15
 - [Stargazer](https://github.com/alexdebrie/stargazer) - Get Slack notifications whenever someone stars your GitHub repository. :star:1
 - [Webhooks](https://github.com/jloh/serverless-webhooks) - Serverless webhooks ingester. :star:1
-- [Serverless Go](https://github.com/serverless/serverless-golang) - Serverless Framework template for Go. :star:29
+- [Serverless Go](https://github.com/serverless/serverless-golang) - Serverless Framework template for Go. :star:30
 - [Chat application](https://github.com/OmniPotent42/chat-app-serverless) - Full stack serverless chat application ([Code for the client](https://github.com/OmniPotent42/chat-app-vuejs)). :star:39
 - [Serverless multi-region](https://github.com/alexdebrie/serverless-multi-region) - A multi-region Serverless Framework project using regional endpoints & DynamoDB global tables ([Code for the client](https://github.com/alexcasalboni/serverless-multi-region-client-demo)). :star:5
-- [Serverless architecture boilerplate](https://github.com/msfidelis/serverless-architecture-boilerplate) - Organize and deploy big projects using AWS API Gateway and AWS Lambda with the Serverless Framework. :star:47
+- [Serverless architecture boilerplate](https://github.com/msfidelis/serverless-architecture-boilerplate) - Organize and deploy big projects using AWS API Gateway and AWS Lambda with the Serverless Framework. :star:48
 - [CRUD Go](https://github.com/yosriady/serverless-crud-go) - Example CRUD serverless application written in Go. :star:14
 - [RealWorld DynamoDB](https://github.com/anishkny/realworld-dynamodb-lambda) - An AWS DynamoDB + Lambda backend implementation for [RealWorld](http://realworld.io). :star:12
 - [ES6 boilerplate](https://github.com/artoliukkonen/serverless-es6-boilerplate) - Yet another Serverless Framework boilerplate with ES6 / ES7, Jest & ESLint support. :star:4
@@ -1492,7 +1495,7 @@
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework. :star:145
 - [AWS log parser](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files. :star:6
-- [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices Platform. :star:2031
+- [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices Platform. :star:2035
 - [Dromedary Serverless](https://github.com/stelligent/dromedary-serverless) - Project which deploys dromedary in AWS Lambda and also demonstrates the use of CodePipeline. :star:31
 - [Building Scikit-Learn For AWS Lambda](https://serverlesscode.com/post/scikitlearn-with-amazon-linux-container) - Using The Amazon Linux Image To Build Lambda Packages.
 - [Fission](http://fission.io) - Fast serverless functions for Kubernetes.
@@ -1503,9 +1506,9 @@
 - [Hands-On serverless guide](https://github.com/shekhargulati/hands-on-serverless-guide) - A hands-on guide for building serverless applications. :star:149
 - [Serverless Z](https://github.com/stashimi/serverless-z) - Unofficial development repository for the abandoned 0.x versions of Serverless. :star:3
 - [Dawson](https://dawson.sh) - A Serverless framework for Node.js on AWS.
-- [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes. :star:1971
+- [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes. :star:1983
 - [Funktion](https://funktion.fabric8.io/) - Open source event based Lambda programming for Kubernetes.
-- [Localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. :star:10785
+- [Localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. :star:10803
 - [Azure functions pack](https://github.com/christopheranderson/azure-functions-pack) - Easily package your Node.js Functions for Azure Functions.
 - [Azure Functions](https://github.com/Azure/Azure-Functions) - Overview repository about Azure Functions. :star:315
 - [Buildserverless](https://github.com/jchorl/buildserverless) - [Serverless build system](https://hackernoon.com/free-node-js-builds-on-google-cloud-functions-6e305623e249) which runs on Google Cloud Functions. :star:2
@@ -1516,7 +1519,7 @@
 - [Face recognition](https://github.com/excamera/serverless-face-recognition) - Perform deep neural network based face detection and recognition in the cloud. :star:77
 - [NPM doc Serverless](https://github.com/npmdoc/node-npmdoc-serverless) - API documentation for the Serverless Framework. :star:1
 - [Gcdt](https://github.com/glomex/gcdt) - Glomex cloud deployment tools to use infrastructure as code (IaC) on AWS. :star:20
-- [NoDB](https://github.com/Miserlou/NoDB) - Serverless database built atop of S3. :star:196
+- [NoDB](https://github.com/Miserlou/NoDB) - Serverless database built atop of S3. :star:197
 - [BitTorrent tracker](https://github.com/Miserlou/zappa-bittorrent-tracker) - An experimental server-less BitTorrent tracker. :star:37
 - [Back&](https://www.backand.com) - One platform to develop and run complete serverless applications.
 - [Concierge](https://github.com/ibm-cds-labs/concierge) - Source code for an IBM Watson-powered serverless chatbot. :star:9
@@ -1528,31 +1531,31 @@
 - [FDK](https://github.com/serverless/fdk) - The serverless function development kit (FDK). :star:72
 - [Funcatron](https://funcatron.org) - Cloud-provider-neutral mechanism for developing, testing, and deploying auto-scalable functions.
 - [Gestalt](http://www.galacticfog.com/product.html) - High performance, low latency, cross platform Lambda server for Kubernetes, DCOS and other platforms.
-- [Open Lambda](https://github.com/open-lambda/open-lambda) - Serverless computing project, written in Go and based on Linux containers. :star:462
+- [Open Lambda](https://github.com/open-lambda/open-lambda) - Serverless computing project, written in Go and based on Linux containers. :star:463
 - [Serverless patterns](https://github.com/yochay/serverlesspatterns) - Repo with a collection of common serverless design patterns. :star:76
 - [Serverless transceiver](https://github.com/ACloudGuru/serverless-transceiver) - Plugin to support better inter-service communication. :star:9
 - [Docker Serverless](https://github.com/tomelliff/docker-serverless) - Minimal image for deploying Serverless Framework projects. :star:3
 - [Local Lambda debug](https://github.com/OneMuppet/local-lambda-debug) - Example setup for vscode for debugging AWS Lambda functions locally. :star:7
 - [Sencha Microservices Framework](https://github.com/senecajs) - Sencha Microservices Framework project.
-- [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your Node.js application to AWS Lambda. :star:973
+- [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your Node.js application to AWS Lambda. :star:974
 - [Redsift](https://redsift.com) - A serverless, full stack, polyglot PaaS ([introduction blog post](https://medium.com/redsift-outbox/introducing-redsift-a-serverless-full-stack-polyglot-paas-7cdf3801c4b9)).
 - [Lambda TV](https://github.com/jeshan/lambdatv) - Sample code for demos on Lambda TV. :star:2
 - [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices ([GitHub project]([Squeezer](https://github.com/SqueezerIO/squeezer))).
 - [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro) services.
 - [OpenWhisk Slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Slack app built with Slack Events API and IBM Bluemix OpenWhisk. :star:20
-- [Moleculer](https://github.com/ice-services/moleculer) - Fast & powerful microservices framework for Node.js. :star:618
+- [Moleculer](https://github.com/ice-services/moleculer) - Fast & powerful microservices framework for Node.js. :star:620
 - [Serverless Architectures on AWS code](https://github.com/sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book. :star:78
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
-- [Scar](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda). :star:226
+- [Scar](https://github.com/grycap/scar) - Serverless Container-aware Architectures (e.g. Docker containers in AWS Lambda). :star:226
 - [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
-- [Lambda session auth](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js. :star:16
+- [Lambda session auth](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js. :star:17
 - [CloudBoost](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web. :star:1188
 - [Lambda test](https://github.com/berezovskyi/lambda-test) - Test (pseudo) AWS Lambda runtime startup time. :star:69
 - [StdLib](https://github.com/stdlib/lib) - The standard library for Functions as a Service ([StdLib](https://stdlib.com)). :star:3145
 - [Lambda toolkit](https://github.com/lucioveloso/lambda-toolkit) - CLI which helps creating, building, DEBUG on your own machine real events, testing and deploying your Lambda functions. :star:118
 - [Alexa skill Watson conversation](https://github.com/nheidloff/alexa-skill-watson-conversation) - Alexa skill using IBM Watson Conversation and OpenWhisk.
-- [Spring Cloud Functions](https://github.com/spring-cloud/spring-cloud-function) - A new programming model for Spring Boot applications. :star:289
+- [Spring Cloud Functions](https://github.com/spring-cloud/spring-cloud-function) - A new programming model for Spring Boot applications. :star:290
 - [Azure Functions Durable extension](https://github.com/Azure/azure-functions-durable-extension/) - Durable Task Framework extension for Azure Functions.
 - [Standup Lambda](https://github.com/olivoil/standup-lambda) - Standup status app that integrates with Slack. :star:5
 - [Face identification](https://github.com/ericsk/serverless-face-identification) - Using Azure Functions to handle learning identifying faces. :star:5
@@ -1566,22 +1569,22 @@
 - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
 - [Function Router](https://www.functionrouter.com) - Distribute, manage and execute your forward-deployed serverless functions.
 - [Ansible Docs](http://docs.ansible.com/ansible/latest/serverless_module.html) - Ansible documentation for managing a Serverless project.
-- [AWS Chalice](https://github.com/aws/chalice) - Python serverless microframework for AWS. :star:3937
+- [AWS Chalice](https://github.com/aws/chalice) - Python serverless microframework for AWS. :star:3943
 - [Lambda RESTify](https://github.com/kksharma1618/lambda-restify) - A restify / expressjs like interface for AWS Lamda with API Gateway event. :star:10
-- [AWS SAM Local](https://github.com/awslabs/aws-sam-local) - Toolset to develop AWS SAM projects locally. :star:1824
+- [AWS SAM Local](https://github.com/awslabs/aws-sam-local) - Toolset to develop AWS SAM projects locally. :star:1829
 - [AWS Lambdas bootstrap](https://github.com/Wolox/aws-lambdas-bootstrap) - Toolkit to bootstrap AWS Lambda functions. :star:2
 - [Containerless](https://containerless.cool) - Simple Docker deployments for AWS using the Serverless Framework.
 - [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
 - [Pwned passwords](https://github.com/jthomas/serverless-pwned-passwords) - Checking passwords against an enormous corpus of passwords leaked from security breaches. :star:94
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python web services. :star:6223
-- [Serverless guide](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures. :star:293
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python web services. :star:6233
+- [Serverless guide](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures. :star:295
 - [Seed](https://seed.run) - CI / CD solution for serverless applications.
 - [Slspress](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications. :star:15
 - [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
 - [AWS Lambda Launcher](https://www.backand.com/aws-lambda-launcher-test-run/) - Free tool to test and run AWS Lambda functions without AWS credentials.
 - [Lambda SES forwarder](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES. :star:520
 - [Sublime AWS Lambda](https://github.com/revmischa/sublime-awslambda) - Sublime Text 3 plugin for editing AWS Lambda function sources easily. :star:9
-- [Nuclio](https://github.com/nuclio/nuclio) - High-Performance serverless event and data processing framework. :star:1763
+- [Nuclio](https://github.com/nuclio/nuclio) - High-Performance serverless event and data processing framework. :star:1764
 - [OpenFaaS](https://www.openfaas.com) - Open source implementation to run serverless functions in containers (formerly known as FaaS).
 - [OVH Functions](https://functions.ovh) - Run event-driven, serverless functions at scale.
 - [Docker serverless](https://github.com/labradorcouk/docker-serverless) - Docker setup to work with the Serverless Framework.
@@ -1594,7 +1597,7 @@
 - [ReadMe Build](https://readme.build) - Build flexible, powerful APIs in seconds.
 - [Dashbird](https://www.dashbird.io) - Monitor, debug and optimize AWS Lambda functions.
 - [Fission Workflows](https://github.com/fission/fission-workflows) -  Fast, reliable and lightweight serverless function composition. :star:110
-- [AWS Mobile React Native starter](https://github.com/awslabs/aws-mobile-react-native-starter) - AWS Mobile React Native starter app which runs on a serverless infrastructure. :star:1837
+- [AWS Mobile React Native starter](https://github.com/awslabs/aws-mobile-react-native-starter) - AWS Mobile React Native starter app which runs on a serverless infrastructure. :star:1839
 - [Stackery](https://www.stackery.io) - Serverless operations console.
 - [Serverless chat](https://github.com/danilop/serverless-chat) - Web chat built using AWS Lambda, AWS IoT (for WebSockets) and Amazon DynamoDB. :star:60
 - [Fn Project](http://fnproject.io) - The container native serverless framework ([GitHub repository](https://github.com/fnproject/fn)).
@@ -1604,9 +1607,9 @@
 - [Composer](https://github.com/ibm-functions/composer) - Programming model for composing IBM Cloud Functions, built on Apache OpenWhisk. :star:95
 - [Thundra](https://www.thundra.io) - Full observability for AWS Lambda.
 - [Brigade](http://brigade.sh) - Event-driven scripting for Kubernetes.
-- [Graphcool Framework](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends. :star:6129
+- [Graphcool Framework](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends. :star:6156
 - [Jazz](https://github.com/tmobile/jazz) - Jazz serverless development platform. :star:72
-- [Firecamp](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services. :star:96
+- [Firecamp](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services. :star:97
 - [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
 - [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project](https://github.com/TIBCOSoftware/flogo)).
@@ -1618,14 +1621,14 @@
 - [Binaris](https://www.binaris.com) - Performance-oriented FaaS vendor.
 - [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project](https://github.com/gobinaris/faasmark)).
 - [Tyk](https://tyk.io) - Tyk Open Source API Gateway ([GitHub project](https://github.com/TykTechnologies/tyk)).
-- [ES2017 - AWS Lambda boilerplate](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing and CI/CD with Travis or AWS CodeBuild. :star:95
+- [ES2017 - AWS Lambda boilerplate](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing and CI/CD with Travis or AWS CodeBuild. :star:97
 - [SCEPTER Framework](https://github.com/source4societyorg) - An open source framework built with Serverless to help manage and deploy distributed services and their user interfaces.
 - [Serviceless](https://github.com/8bites/serviceless) - CLI tool on top of Serverless Framework. :star:18
 - [Riff](https://projectriff.io) - Function service designed to run on Kubernetes ([GitHub project](https://github.com/projectriff/riff)).
 - [HTTP Func](https://github.com/mthenw/httpfunc) - AWS Lambda function that does HTTP requests. :star:4
-- [Dispatch](https://github.com/vmware/dispatch) - A framework for deploying and managing serverless style applications. :star:257
+- [Dispatch](https://github.com/vmware/dispatch) - A framework for deploying and managing serverless style applications. :star:260
 - [LambStatus](https://lambstatus.github.io) - Serverless status page system ([GitHub Project](https://github.com/ks888/LambStatus)).
-- [AWS Lambda Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. :star:1120
+- [AWS Lambda Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. :star:1121
 - [URL Shortener](https://github.com/danielireson/serverless-url-shortener) - URL shortener for AWS Lambda and S3. :star:25
 - [Lambda transport](https://github.com/ewindisch/lambda-transport) - C library and language bindings for AWS Lambda. :star:9
 - [Step Functions local](https://github.com/airware/stepfunctions-local) - Execute AWS Step Functions locally. :star:8
@@ -1656,7 +1659,7 @@
 - [Subscription filter](https://github.com/blackevil245/serverless-subscription-filter) - Register subscription filter for Lambda logs. :star:4
 - [Snyk plugin](https://github.com/Snyk/serverless-snyk) - Plugin for securing your dependencies with Snyk. :star:25
 - [CloudWatch logging subscriptions](https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions) - Adds CloudWatch log subscriptions for each function in a Serverless service. :star:1
-- [Crypt](https://github.com/marcy-terui/serverless-crypt) - Securing Serverless secrets by AWS KMS encryption. :star:58
+- [Crypt](https://github.com/marcy-terui/serverless-crypt) - Securing Serverless secrets by AWS KMS encryption. :star:59
 - [Diff](https://github.com/nicka/serverless-plugin-diff) - Compares your local AWS CloudFormation templates against deployed ones. :star:14
 - [Rollback function](https://github.com/marcy-terui/serverless-rollback-function) - Rollback a single function. :star:4
 - [CloudFormation Authorizer](https://github.com/SC5/serverless-plugin-cfauthorizer) - Define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints. :star:16
@@ -1675,39 +1678,39 @@
 - [Dotnet](https://github.com/fruffin/serverless-dotnet) - A Serverless plugin to run 'dotnet' commands as part of the deploy process. :star:14
 - [Python requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages. :star:162
 - [Subscription filter](https://github.com/tsub/serverless-plugin-subscription-filter) - Extend subscription filter events. :star:14
-- [Step Functions](https://github.com/horike37/serverless-step-functions) - AWS Step Functions support for Serverless. :star:230
+- [Step Functions](https://github.com/horike37/serverless-step-functions) - AWS Step Functions support for Serverless. :star:236
 - [Python individually](https://github.com/cfchou/serverless-python-individually) - Install multiple lambda functions written in Python. :star:13
-- [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables Coudwatch logging for API Gateway events. :star:8
+- [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables Cloudwatch logging for API Gateway events. :star:8
 - [Containerless](https://github.com/Reckon-Limited/containerless) - Plugin for configuring ECS deployment. :star:35
 - [Swagger](https://github.com/Reckon-Limited/serverless_swagger) - Configure serverless functions from swagger definition. :star:15
 - [Plugin scripts](https://github.com/mvila/serverless-plugin-scripts) - Adds scripting capabilities to the Serverless Framework. :star:28
 - [Bind deployment id](https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id) - Bind the randomly generated deployment resource to your custom resources. :star:14
 - [CoffeeScript](https://github.com/duanefields/serverless-coffeescript) - Quick and dirty plugin to compile CoffeeScript files. :star:6
-- [GraphiQL](https://github.com/bencooling/serverless-plugin-graphiql) - Plugin to run a local HTTP server for GraphiQL and your GraphQL handler. :star:42
+- [GraphiQL](https://github.com/bencooling/serverless-plugin-graphiql) - Plugin to run a local HTTP server for GraphiQL and your GraphQL handler. :star:43
 - [Jest](https://github.com/SC5/serverless-jest-plugin) - Adds support for test-driven development using Jest. :star:45
 - [Postgraphql](https://github.com/rentrop/serverless-postgraphql) - GraphQL endpoint for PostgreSQL using postgraphql. :star:75
-- [Lambda dead letter](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter) - Configure a Lambda with a dead letter queue or topic. :star:14
+- [Lambda dead letter](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter) - Configure a Lambda with a dead letter queue or topic. :star:15
 - [Delete log groups](https://github.com/horike37/serverless-delete-loggroups) - Delete all AWS log groups. :star:11
 - [Dir config](https://github.com/economysizegeek/serverless-dir-config-plugin) - EXPERIMENTAL - Plugin to load function and resource definitions from a directory. :star:3
-- [AWS alerts](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - Easily add CloudWatch alarms to functions. :star:93
+- [AWS alerts](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - Easily add CloudWatch alarms to functions. :star:94
 - [Crypt](https://github.com/ACloudGuru/serverless-plugin-crypt) - Encrypt and decrypt environment variables. :star:7
 - [CLJS](https://github.com/nervous-systems/serverless-cljs-plugin) - Enables Clojurescript as an implementation language for Lambda handlers. :star:40
 - [Encode env var objects](https://github.com/yonomi/serverless-plugin-encode-env-var-objects) - Encode any environment variable objects.
 - [Additional stacks](https://github.com/SC5/serverless-plugin-additional-stacks) - Support for managing multiple AWS CloudFormation stacks. :star:22
-- [Prune](https://github.com/claygregory/serverless-prune-plugin) - Deletes old versions of functions from AWS, preserving recent and aliased versions. :star:41
+- [Prune](https://github.com/claygregory/serverless-prune-plugin) - Deletes old versions of functions from AWS, preserving recent and aliased versions. :star:42
 - [Offline scheduler](https://github.com/ajmath/serverless-offline-scheduler) - Runs scheduled functions offline while integrating with serverless-offline. :star:24
 - [Simulate](https://github.com/serverless-community-labs/serverless-plugin-simulate) - Simulate AWS Lambda and API Gateway locally using Docker. :star:95
-- [Alias](https://github.com/HyperBrain/serverless-aws-alias) - Alias support for Serverless 1.6+. :star:59
+- [Alias](https://github.com/HyperBrain/serverless-aws-alias) - Alias support for Serverless 1.6+. :star:60
 - [Package .env file](https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file) - Plugin to copy a .env file into the Serverless deployment package. :star:10
 - [CI / CD](https://github.com/HyperBrain/serverless-cicd) - CI / CD support for Serverless v1.x.
 - [Select](https://github.com/FidelLimited/serverless-plugin-select) - Select which functions are to be deployed based on region and stage. :star:16
 - [Webpack](https://github.com/goldwasserexchange/serverless-plugin-webpack) - Plugin to automatically bundle your functions individually with Webpack. :star:51
 - [OpenWhisk](https://github.com/serverless/serverless-openwhisk) - Add OpenWhisk support to the Serverless Framework. :star:72
-- [Warmup](https://github.com/FidelLimited/serverless-plugin-warmup) - Keep Lambdas warm so to avoid slow cold starts. :star:147
+- [Warmup](https://github.com/FidelLimited/serverless-plugin-warmup) - Keep Lambdas warm so to avoid slow cold starts. :star:148
 - [ReasonML](https://github.com/ReasonVienna/serverless-reason-plugin) - Use ReasonML with Serverless. :star:25
 - [Gulp](https://github.com/rhythminme/serverless-gulp) - A thin task wrapper around Serverless. :star:7
 - [.env](https://github.com/Jimdo/serverless-dotenv) - Plugin to fetch environment variables and write it to a .env file. :star:4
-- [Common excludes](https://github.com/dougmoscrop/serverless-plugin-common-excludes) - Exclude common things from your Serverless package. :star:6
+- [Common excludes](https://github.com/dougmoscrop/serverless-plugin-common-excludes) - Exclude common things from your Serverless package. :star:7
 - [Existing CloudWatch rule](https://github.com/AlexanderMS/serverless-plugin-existing-cloudwatch-rule) - Existing CloudWatch Rule plugin. :star:3
 - [Shared vars](https://github.com/dittto/serverless-shared-vars) - Share variables between your serverless.yml config and your codebase. :star:5
 - [Import swagger](https://github.com/AKIRA-MIYAKE/serverless-import-swagger) - Import functions from swagger spec file to serverless.yml. :star:19
@@ -1720,7 +1723,7 @@
 - [Hooks](https://github.com/uswitch/serverless-hooks-plugin) - Run arbitrary commands pre-deploy in Serverless. :star:10
 - [GS enable API logs](https://www.npmjs.com/package/serverless-gs-enable-api-logs) - Enables CoudWatch logging for API Gateway events.
 - [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables CoudWatch logs for API Gateway events. :star:8
-- [Git variables](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless. :star:18
+- [Git variables](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless. :star:19
 - [Dynalite](https://github.com/sdd/serverless-dynalite) - Run dynalite locally (no JVM, all JS) to simulate DynamoDB. :star:4
 - [TypeScript](https://github.com/graphcool/serverless-plugin-typescript) - Zero-config TypeScript support. :star:162
 - [APIG S3](https://github.com/sdd/serverless-apig-s3) - Automates the process of both configuring AWS to serve static front-end content and deploying your client-side bundle. :star:18
@@ -1742,14 +1745,14 @@
 - [SAM](https://github.com/SAPessi/serverless-sam) - Exports an AWS SAM template for a service created with the Serverless Framework. :star:43
 - [ElasticBeanstalk](https://github.com/rawphp/serverless-plugin-elastic-beanstalk) - Deploy applications to AWS ElasticBeanstalk. :star:10
 - [VPC discovery](https://github.com/amplify-education/serverless-vpc-discovery) - Serverless plugin for discovering VPC / Subnet / Security Group configuration by name. :star:11
-- [KMS secrets](https://github.com/SC5/serverless-kms-secrets) - Allows to easily encrypt and decrypt secrets using KMS from the serverless CLI. :star:56
+- [KMS secrets](https://github.com/SC5/serverless-kms-secrets) - Allows to easily encrypt and decrypt secrets using KMS from the serverless CLI. :star:57
 - [Export endpoints](https://github.com/ar90n/serverless-plugin-export-endpoints) - Export Lambda endpoints as JSON. :star:5
 - [Tracing](https://github.com/AlexanderMS/serverless-plugin-tracing) - Enables AWS X-Ray tracing. :star:42
-- [Custom domain](https://github.com/dougmoscrop/serverless-plugin-custom-domain) - Add API Gateway custom domain BasePathMappings reliably. :star:29
+- [Custom domain](https://github.com/dougmoscrop/serverless-plugin-custom-domain) - Add API Gateway custom domain BasePathMappings reliably. :star:30
 - [Kubeless](https://github.com/kubeless/serverless-plugin) - Provider plugin for deploying functions to Kubeless. :star:88
 - [Client S3](https://github.com/bbandydd/serverless-client-s3) - Deploy front-end assets to S3. :star:6
 - [API Gateway binary](https://github.com/ryanmurakami/serverless-apigwy-binary) - Configure binary responses in API Gateway. :star:16
-- [Domain manager](https://github.com/amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways. :star:116
+- [Domain manager](https://github.com/amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways. :star:118
 - [Encrypted](https://github.com/nalbion/serverless-plugin-encrypted) - Encrypts Lambda environment variables using a KMS key. :star:7
 - [Localstack](https://github.com/temyers/serverless-localstack) - Plugin for running against Atalssian Localstack. :star:62
 - [Purdyrest](https://www.npmjs.com/package/serverless-purdyrest) - Use Purdyrest with the Serverless Framework.
@@ -1774,7 +1777,7 @@
 - [S3 remover](https://github.com/sinofseven/serverless-s3-remover) - Ensures that S3 buckets are empty before Serverless remove logic runs. :star:8
 - [DynamoDB autoscaling](https://github.com/sbstjn/serverless-dynamodb-autoscaling) - Configure Amazon DynamoDB native auto-scaling for your table capacities. :star:84
 - [Bespoken](https://github.com/bespoken/serverless-plugin-bespoken) - Creates a local server and a proxy so you don't have to deploy anytime you want to test your code for your [Bespoken](http://bespoken.tools) application. :star:21
-- [S3 bucket sync](https://github.com/sbstjn/serverless-s3bucket-sync) - Sync local folders with an S3 bucket. :star:10
+- [S3 bucket sync](https://github.com/sbstjn/serverless-s3bucket-sync) - Sync local folders with an S3 bucket. :star:11
 - [S3 sync](https://github.com/k1LoW/serverless-s3-sync) - Sync local directories and S3 prefixes. :star:24
 - [Nested stacks](https://github.com/jagdish-176/serverless-nested-stack) - Plugin to workaround the CloudFormation 200 resource limit. :star:12
 - [Kubeless](https://github.com/serverless/serverless-kubeless) - Official provider plugin to deploy functions to Kubeless. :star:88
@@ -1795,7 +1798,7 @@
 - [Offline Kinesis events](https://github.com/DopplerLabs/serverless-plugin-offline-kinesis-events) - Allows offline testing of serverless functions that are triggered by Kinesis events. :star:5
 - [Develop](https://github.com/RafalWilinski/serverless-develop) - Deploy your functions to AWS Lambda as you code, in realtime. :star:8
 - [Micro](https://github.com/barstoolsports/serverless-micro) - Plugin to help manage multiple microservices under one main service. :star:15
-- [API Gateway <--> CloudFront](https://github.com/Droplr/serverless-api-cloudfront) - Adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log. :star:35
+- [API Gateway <--> CloudFront](https://github.com/Droplr/serverless-api-cloudfront) - Adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log. :star:36
 - [Localstack SNS](https://github.com/mj1618/serverless-localstack-sns) - Listens to localstack SNS and call Lambda functions with events. :star:4
 - [Offline SNS](https://github.com/mj1618/serverless-offline-sns) - Run an SNS server and call Lambdas with events notifications. :star:20
 - [Alibaba Cloud Function Compute](https://github.com/aliyun/serverless-aliyun-function-compute) - Alibaba Cloud Function Compute Plugin – Add Alibaba Cloud Function Compute support to the Serverless Framework. :star:19
@@ -1825,13 +1828,13 @@
 - [Content Encoding](https://github.com/xeno-dohai/serverless-content-encoding) - Enable content encoding for response compression. :star:4
 - [Inject Dependencies](https://github.com/loanmarket/serverless-plugin-inject-dependencies) - Painlessly deploy serverless projects with only the required dependencies. :star:2
 - [Provider Groups](https://github.com/loanmarket/serverless-plugin-provider-groups) - Plugin to allow management of grouped settings within large serverless projects. :star:1
-- [AppSync](https://github.com/sid88in/serverless-appsync-plugin) - Serverless plugin for AWS AppSync. :star:40
+- [AppSync](https://github.com/sid88in/serverless-appsync-plugin) - Serverless plugin for AWS AppSync. :star:42
 - [CloudFormation resource counter](https://github.com/drexler/serverless-cloudformation-resource-counter) - Count the resources generated in the AWS CloudFormation stack after deployment. :star:1
 - [Serverless Haskell](https://github.com/seek-oss/serverless-haskell) - Deploying Haskell applications to AWS Lambda. :star:56
 - [IAM roles per function](https://github.com/functionalone/serverless-iam-roles-per-function) - Plugin to define IAM roles per function. :star:37
 - [Functions base path](https://github.com/kevinrambaud/serverless-functions-base-path) - Easily define a base path where your serverless functions are located. :star:6
 - [Metric](https://github.com/alex20465/serverless-plugin-metric) - Automatically create `AWS::Logs::MetricFilter` resources. :star:4
-- [Node shim](https://github.com/jzimmek/serverless-plugin-node-shim) - Run your functions with Node.js version (8 LTS, 9+) on AWS Lambda. :star:7
+- [Node shim](https://github.com/jzimmek/serverless-plugin-node-shim) - Run your functions with Node.js version (8 LTS, 9+) on AWS Lambda. :star:8
 - [Static](https://github.com/iliasbhal/serverless-static) - Serve / deploy static files that works with the `serverless-offline` plugin. :star:4
 - [Remove forced login](https://github.com/pmuens/serverless-remove-forced-login) - Removes the forced login when using `serverless run` and `serverless emit`.
 
@@ -1853,7 +1856,7 @@
 - [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
 - [ServerlessLab](https://serverlesslab.com) - Effective serverless, AWS Lambda and Node.js training.
 - [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
-- [Event Gateway Workshop](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application. :star:9
+- [Event Gateway Workshop](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application. :star:10
 
 ## Professional services
 
@@ -1945,7 +1948,7 @@
 - [Package](https://github.com/HyperBrain/serverless-package-plugin) - Adds function packaging. :star:5
 - [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless. :star:51
 - [Autoprune](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas. :star:11
-- [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management. :star:101
+- [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management. :star:100
 - [Vandium](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless. :star:7
 - [Command line event args](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line. :star:13
 - [Unit test boilerplate](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless. :star:5

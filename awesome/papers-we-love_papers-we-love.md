@@ -45,6 +45,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
 * [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 * [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
+* [Porto](https://www.meetup.com/Papers-We-Love-Porto)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
@@ -88,7 +89,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
 * [netlib](http://www.netlib.org/)
-* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2483
+* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2486
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)

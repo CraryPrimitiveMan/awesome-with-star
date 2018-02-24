@@ -463,7 +463,7 @@ Non-uniform Deblurring
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
  * [VOC-DPM](https://github.com/rbgirshick/voc-dpm) :star:421
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) :star:1349
+ * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) :star:1350
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net) :star:280
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
  * [Edge Boxes](https://github.com/pdollar/edges) :star:409
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6079
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6081
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30663
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30692
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7878
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30663
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7899
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30692
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

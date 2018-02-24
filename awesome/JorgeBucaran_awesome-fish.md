@@ -26,11 +26,11 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Fisherman](https://github.com/fisherman/fisherman) :star:2755
 * [Fundle](https://github.com/tuvistavie/fundle) :star:171
 * [Fresco](https://github.com/masa0x80/fresco) :star:7
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3147
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) :star:3150
 
 ## Plugins
 
-* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:695
+* [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:697
 * [Debug](https://github.com/fisherman/debug) - Conditional debug logger. :star:35
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [Fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:244
@@ -53,7 +53,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 * [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) :star:437
 * [Joker](https://github.com/fisherman/joker) :star:39
 * [Metro](https://github.com/fisherman/metro) :star:44
-* [Pure](https://github.com/rafaelrinaldi/pure) :star:209
+* [Pure](https://github.com/rafaelrinaldi/pure) :star:211
 * [Sektor](https://github.com/fisherman/sektor) :star:52
 * [Shellder](https://github.com/simnalamburt/shellder) :star:152
 * [Stark](https://github.com/fisherman/stark) :star:52

@@ -54,7 +54,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
-    * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy. :star:260
+    * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy. :star:259
     * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme. :star:1820
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.

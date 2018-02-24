@@ -455,7 +455,6 @@ Table of Contents
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [pivotaltracker.com](http://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
-   * [atlassian.com](https://atlassian.com/opensource/overview) — Free Jira etc for Open Source
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
@@ -548,6 +547,7 @@ Table of Contents
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
+   * [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it.
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups
    * [stackhive.com](http://stackhive.com/) — Cloud-based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases

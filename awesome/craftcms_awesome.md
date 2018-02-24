@@ -120,7 +120,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Field Types
 - [Button Box](https://github.com/supercool/buttonbox) - Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers). :star:79
-- [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:24
+- [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:25
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:79
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:32
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:121
@@ -141,7 +141,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Control Panel
 - [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft. :star:76
 - [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft. :star:105
-- [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:121
+- [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:122
 - [Content Stats](https://github.com/wbrowar/contentstats) - Dashboard widget to see how many entries have been created for channels and structures. :star:32
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:39
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type. :star:46
@@ -154,7 +154,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups. :star:49
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:204
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:206
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data. :star:8
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
@@ -246,7 +246,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore. :star:122
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks. :star:35
 - [Presto](https://github.com/caddis/craft-presto) - Static file extension for the native Craft cache. :star:26
-- [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver. :star:50
+- [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver. :star:51
 - [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content. :star:34
 
 
@@ -277,7 +277,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Patrol](https://github.com/selvinortiz/craft.patrol) - Simplifies SSL and maintenance routing. :star:92
 
 ##### Etc.
-- [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:73
+- [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:74
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:106
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
@@ -289,7 +289,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CrawlerDetect](https://superbig.co/plugins/crawlerdetect) - Detect 1.000's of bots/crawlers/spiders.
 - [Digital Download](https://www.doublesecretagency.com/plugins/digital-download) - Provide secure digital download links to your files. Set the expiration date, maximum number of downloads, and/or required user access.
 - [Exclusive](https://craftpl.us/plugins/exclusive) - Allow limited and selected public registration on your website by generating and distributing unique registration tokens.
-- [Internal Assets](https://github.com/tikiatua/internal-assets-plugin) - Restrict access to assets for permitted users only. :star:22
+- [Internal Assets](https://github.com/tikiatua/internal-assets-plugin) - Restrict access to assets for permitted users only. :star:23
 - [Restrict](https://superbig.co/plugins/restrict) - Restrict access to the CP based on a IP whitelist.
 - [Sherlock](https://www.putyourlightson.net/craft-sherlock) - Security scanner and monitor to keep your site and CMS secure.
 - [Snaptcha](https://www.putyourlightson.net/craft-snaptcha) - Invisible captcha that automatically validates your forms on submission.
@@ -325,7 +325,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 
 ## Development Tools/Resources
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:57
-- [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:132
+- [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:133
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:81
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:193
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:113

@@ -32,6 +32,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
 * [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
+* [Learned lessons](#learned-lessons)
 * [Awesome lists](#awesome-lists)
 
 
@@ -96,7 +97,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:186
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:188
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -188,6 +189,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mathematical Logic](https://www.youtube.com/playlist?list=PL2EB5662A0D455A81&feature=plcp)
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
+* Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
 
 
 #### Software Testing
@@ -317,7 +319,7 @@ create a similar list with books, courses and podcasts about software quality.
 # Workshops and interactive learning tools
 
 - [Learn TLA](https://learntla.com/introduction/)
-- [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:7
+- [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:8
 - [test-anything](https://github.com/finnp/test-anything) :star:121
 - https://math-comp.github.io/mcb/
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:507
@@ -354,18 +356,24 @@ create a similar list with books, courses and podcasts about software quality.
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 * [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
 
+# Learned lessons
+
+* [NASA Public Lessons Learned System](https://llis.nasa.gov/)
+* [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
+* [Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks/)
+
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1533
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1534
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:15
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1038
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2529
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1042
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2530
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:398
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:147
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:60
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:141
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:338
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:340
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:122
 

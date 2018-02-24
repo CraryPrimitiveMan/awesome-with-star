@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7446
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7447
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:98

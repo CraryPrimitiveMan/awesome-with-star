@@ -152,7 +152,7 @@ http://oleg.fi/graafi/
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4
 * [SuperManitu/cyclejs-sortable ★15](https://github.com/cyclejs-community/cyclejs-sortable) - Make everything sortable via drag and drop in only one line of code! :star:16
 * [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
-* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:261
+* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:262
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage :star:5
 
 ### Boilerplates
