@@ -159,7 +159,7 @@ List of software with DTrace support.
 #### Ruby
 
 - [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
-- [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps. :star:23
+- [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps. :star:22
 
 ### Databases
 
@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5499
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5501
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:327
 
 ## Tools

@@ -217,8 +217,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:229
-* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:134
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1272
+* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1273
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
@@ -284,7 +284,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 #### Hybrid
 * [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - Material design floating action button. :star:7
 * [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library. :star:40
-* [Motion-hybrid](https://github.com/balvig/motion-hybrid) - RubyMotion framework for easily making hybrid webview-centric iOS apps. :star:36
+* [Motion-hybrid](https://github.com/balvig/motion-hybrid) - RubyMotion framework for easily making hybrid webview-centric iOS apps. :star:37
 
 
 #### Element Wrappers

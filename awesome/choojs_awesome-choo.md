@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:216
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5136
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5137
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,12 +30,12 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:416
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:848
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:849
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:347
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:72
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:110
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:111
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:28
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:416
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:4
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:10
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:11
 
 ### License
 

@@ -49,7 +49,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:182
-* [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:66
+* [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:67
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:138
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:72
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework :star:5
@@ -64,10 +64,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:245
 * [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:108
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
-* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:362
+* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:363
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1823
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1824
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:841
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:8
@@ -82,17 +82,17 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin :star:30
 
 ## Transpilers
-* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:188
+* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:190
 
 ## Static Web
 * [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:132
-* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:126
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:127
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:61
 * [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library :star:22
-* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:62
+* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:63
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system :star:2
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy :star:26

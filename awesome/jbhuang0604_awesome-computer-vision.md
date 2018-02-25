@@ -248,7 +248,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) :star:807
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) :star:808
 
 
 #### Feature Detection and Extraction
@@ -267,7 +267,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Local Binary Patterns](https://github.com/nourani/LBP) :star:69
 
 #### High Dynamic Range Imaging
-* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:72
+* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:73
 
 #### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
@@ -436,7 +436,7 @@ Non-uniform Deblurring
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing) :star:196
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
  * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo) :star:880
- * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam) :star:272
+ * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam) :star:273
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6081
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6085
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30692
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30725
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7899
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30692
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7914
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30725
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

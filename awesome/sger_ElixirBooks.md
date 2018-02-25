@@ -38,7 +38,7 @@ Elixir-School is an open and community driven effort inspired by Twitter’s Sca
 
 Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
 
-### [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) *Free*
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
 
 <img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120px"/>
 
@@ -68,11 +68,11 @@ The Little Elixir & OTP Guidebook gets you started programming applications with
 
 Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to achieve scalability, concurrency, fault tolerance, and high availability goals that are pursued by developers using any programming language or programming paradigm. Elixir is a modern programming language that utilizes the benefits offered by Erlang VM without really incorporating the complex syntaxes of Erlang.
 
-### [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
+### [Programming Elixir ≥ 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/5116WrBGeQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/4181m33RmQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
-You want to explore functional programming, but are put off by the academic feel (tell me about monads just one more time). You know you need concurrent applications, but also know these are almost impossible to get right. Meet Elixir, a functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. This book is the introduction to Elixir for experienced programmers.
+> This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
 
 ### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
 
@@ -190,7 +190,7 @@ Welcome to the world of functional web programming! In this book, we'll learn ho
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7705
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:7712
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

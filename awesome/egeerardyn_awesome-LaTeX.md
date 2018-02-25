@@ -121,7 +121,7 @@ Online editors that allow you to edit documents collaboratively.
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. The GUI looks quite dated, though. ![foss][foss]
-- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:72
+- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:74
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![foss][foss] ![Linux][linux] ![Mac][mac]
@@ -152,7 +152,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## LaTeX-compatible GUI tools
 
 - [TikzEdt](http://www.tikzedt.org) (also:  [GitHub repo](https://github.com/hchapman/tikzedt)) - WYSIWYG and text-based editor for TikZ pictures. ![foss][foss]
-- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss] :star:99
+- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss] :star:100
 - [IPE](http://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss][foss]
 - [GeoGebra](https://www.geogebra.org/cms/) - Cross-platform geometry tool with output to TikZ. ![foss][foss]
 - [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss][foss]
@@ -227,7 +227,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Tutorials
 
 - [The (Not So) Short Introduction to LaTeX2e](http://mirrors.ctan.org/info/lshort/english/lshort.pdf) - A very comprehensive introduction to LaTeX.
-- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2086
+- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2085
 - [Getting to Grips with LaTeX](https://www.andy-roberts.net/writing/latex) - A complete guide going through the majority of things you need to know about LaTeX.
 
 ## Books

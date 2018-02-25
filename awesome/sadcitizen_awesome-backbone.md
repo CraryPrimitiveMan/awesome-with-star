@@ -6,13 +6,13 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27007
+- [Github repository](https://github.com/jashkenas/backbone) :star:27006
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:660
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:661
 
 ## Tutorials and articles
 
@@ -129,7 +129,7 @@
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1383
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:918
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:831
-- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:599
+- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:598
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:505
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:494
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503
