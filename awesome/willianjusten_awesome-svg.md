@@ -47,9 +47,9 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) :star:78797
-* [Awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1054
-* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20790
+* [Awesome](https://github.com/sindresorhus/awesome) :star:78917
+* [Awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1055
+* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20801
 
 ## License
 

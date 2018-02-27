@@ -38,7 +38,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Gephi](https://gephi.org/) - Open graph visualization platform.
  * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
- * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards..
+ * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
+ * [vegan](http://vegan.r-forge.r-project.org/) - R package for statistical work in community ecology.
 
 ### Publishing , Collaboration and Organization
 
@@ -51,7 +52,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  * [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
- * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:529
+ * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:528
  
 ## Educational
 

@@ -34,45 +34,45 @@
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes. :star:215
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:513
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1040
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:2049
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:2054
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:409
-* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:169
+* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:170
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor. :star:40
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2595
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:2596
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation. :star:51
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type. :star:32
-  - [Buttons](https://github.com/vacenz/last-draft-js-plugins) :star:51
-  - [Color Picker](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Buttons](https://github.com/vacenz/last-draft-js-plugins) :star:52
+  - [Color Picker](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
   - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin)
   - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
-  - [Embed](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Embed](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
-  - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Focus](https://www.draft-js-plugins.com/plugin/focus)
-  - [GifPicker](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [GifPicker](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
   - [Image](https://www.draft-js-plugins.com/plugin/image)
   - [Inline Toolbar](https://www.draft-js-plugins.com/plugin/inline-toolbar)
   - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex. :star:9
-  - [Link](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Link](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax. :star:46
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
-  - [Modal](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Modal](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism. :star:9
   - [Resizeable](https://www.draft-js-plugins.com/plugin/resizeable)
   - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons. :star:35
   - [Side Toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
-  - [Sidebar](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Sidebar](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input. :star:18
   - [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
-  - [Toolbar](https://github.com/vacenz/last-draft-js-plugins) :star:51
+  - [Toolbar](https://github.com/vacenz/last-draft-js-plugins) :star:52
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
 * [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) - Compliments line number gutter. :star:11
@@ -95,7 +95,7 @@
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST). :star:24
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators. :star:22
-* [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators. :star:16
+* [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators. :star:17
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS. :star:106
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content. :star:96
 * [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML. :star:208

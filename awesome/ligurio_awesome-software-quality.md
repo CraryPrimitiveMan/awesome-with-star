@@ -95,7 +95,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:282
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:188
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
@@ -199,7 +199,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Embedded Software Testing](http://nptel.ac.in/courses/117106112/)
 * [Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x)
 * [Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
-* [QA Academy](https://github.com/TelerikAcademy/QA-Academy) :star:14
+* [QA Academy](https://github.com/TelerikAcademy/QA-Academy) :star:15
 * [QA and Automation course](https://github.com/HackBulgaria/QA-and-Automation-101) :star:17
 * [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
 * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
@@ -275,7 +275,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:234
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:236
 
 ##### Spin/PVS
 
@@ -364,16 +364,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1537
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1541
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:15
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1043
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2533
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1049
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2545
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:398
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:147
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:60
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:149
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:61
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:141
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:340
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:342
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:122
 

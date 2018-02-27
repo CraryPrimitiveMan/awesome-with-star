@@ -65,7 +65,7 @@ A curated collection of awesome web typography articles.
 - [brick.im](https://github.com/alfredxing/brick) :star:2859
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
 - [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
-- [Using Custom Fonts in Emails](https://github.com/crocodilejs/custom-fonts-in-emails) :star:39
+- [Using Custom Fonts in Emails](https://github.com/crocodilejs/custom-fonts-in-emails) :star:40
 
 ## Books
 - [On Web Typography](https://abookapart.com/products/on-web-typography)

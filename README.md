@@ -75,98 +75,98 @@
 
 ## Platforms
 
-- [Node.js](awesome/sindresorhus_awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:21835
-- [Frontend Development](awesome/dypsilon_frontend-dev-bookmarks.md) :star:23627
-- [iOS](awesome/vsouza_awesome-ios.md) - Mobile operating system for Apple phones and tablets. :star:24186
-- [Android](awesome/JStumpp_awesome-android.md) :star:5109
-- [IoT & Hybrid Apps](awesome/weblancaster_awesome-IoT-hybrid.md) :star:303
-- [Electron](awesome/sindresorhus_awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:13661
+- [Node.js](awesome/sindresorhus_awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:21865
+- [Frontend Development](awesome/dypsilon_frontend-dev-bookmarks.md) :star:23638
+- [iOS](awesome/vsouza_awesome-ios.md) - Mobile operating system for Apple phones and tablets. :star:24201
+- [Android](awesome/JStumpp_awesome-android.md) :star:5115
+- [IoT & Hybrid Apps](awesome/weblancaster_awesome-IoT-hybrid.md) :star:304
+- [Electron](awesome/sindresorhus_awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:13686
 - [Cordova](awesome/busterc_awesome-cordova.md) - JavaScript API for hybrid apps. :star:221
-- [React Native](awesome/jondot_awesome-react-native.md) :star:17450
+- [React Native](awesome/jondot_awesome-react-native.md) :star:17489
 - [Xamarin](awesome/benoitjadinon_awesome-xamarin.md) - Mobile app development IDE, testing, and distribution. :star:738
-- [Linux](awesome/aleksandar-todorovic_awesome-linux.md) :star:1132
-	- [Containers](awesome/Friz-zy_awesome-linux-containers.md) :star:487
-- [macOS](awesome/iCHAIT_awesome-macOS.md) :star:7292
-	- [Command-Line](awesome/herrbischoff_awesome-macos-command-line.md) :star:18733
-	- [Screensavers](awesome/agarrharr_awesome-macos-screensavers.md) :star:866
+- [Linux](awesome/aleksandar-todorovic_awesome-linux.md) :star:1134
+	- [Containers](awesome/Friz-zy_awesome-linux-containers.md) :star:488
+- [macOS](awesome/iCHAIT_awesome-macOS.md) :star:7295
+	- [Command-Line](awesome/herrbischoff_awesome-macos-command-line.md) :star:18741
+	- [Screensavers](awesome/agarrharr_awesome-macos-screensavers.md) :star:865
 - [watchOS](awesome/yenchenlin_awesome-watchos.md) - Operating system for the Apple Watch. :star:326
-- [JVM](awesome/deephacks_awesome-jvm.md) :star:743
-- [Salesforce](awesome/mailtoharshit_awesome-salesforce.md) :star:217
-- [Amazon Web Services](awesome/donnemartin_awesome-aws.md) :star:5290
-- [Windows](awesome/Awesome-Windows_Awesome.md) :star:3742
-- [IPFS](awesome/ipfs_awesome-ipfs.md) - P2P hypermedia protocol. :star:1026
+- [JVM](awesome/deephacks_awesome-jvm.md) :star:744
+- [Salesforce](awesome/mailtoharshit_awesome-salesforce.md) :star:219
+- [Amazon Web Services](awesome/donnemartin_awesome-aws.md) :star:5294
+- [Windows](awesome/Awesome-Windows_Awesome.md) :star:3757
+- [IPFS](awesome/ipfs_awesome-ipfs.md) - P2P hypermedia protocol. :star:1029
 - [Fuse](awesome/vinkla_awesome-fuse.md) - Mobile development tools. :star:275
 - [Heroku](awesome/ianstormtaylor_awesome-heroku.md) - Cloud platform as a service. :star:108
-- [Raspberry Pi](awesome/thibmaek_awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more. :star:3364
-- [Qt](awesome/JesseTG_awesome-qt.md) - Cross-platform GUI app framework. :star:155
-- [WebExtensions](awesome/bfred-it_Awesome-WebExtensions.md) - Cross-browser extension system. :star:214
+- [Raspberry Pi](awesome/thibmaek_awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more. :star:3380
+- [Qt](awesome/JesseTG_awesome-qt.md) - Cross-platform GUI app framework. :star:156
+- [WebExtensions](awesome/bfred-it_Awesome-WebExtensions.md) - Cross-browser extension system. :star:215
 - [RubyMotion](awesome/motion-open-source_awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby. :star:60
-- [Smart TV](awesome/vitalets_awesome-smart-tv.md) - Create apps for different TV platforms. :star:81
-- [GNOME](awesome/Kazhnuz_awesome-gnome.md) - Simple and distraction-free desktop environment for Linux. :star:162
+- [Smart TV](awesome/vitalets_awesome-smart-tv.md) - Create apps for different TV platforms. :star:82
+- [GNOME](awesome/Kazhnuz_awesome-gnome.md) - Simple and distraction-free desktop environment for Linux. :star:163
 
 
 ## Programming Languages
 
-- [JavaScript](awesome/sorrycc_awesome-javascript.md) :star:13386
-	- [Promises](awesome/wbinnssmith_awesome-promises.md) :star:1069
+- [JavaScript](awesome/sorrycc_awesome-javascript.md) :star:13412
+	- [Promises](awesome/wbinnssmith_awesome-promises.md) :star:1071
 	- [Standard Style](awesome/standard_awesome-standard.md) - Style guide and linter. :star:210
-	- [Must Watch Talks](awesome/bolshchikov_js-must-watch.md) :star:11533
-	- [Tips](awesome/loverajoel_jstips.md) :star:10689
+	- [Must Watch Talks](awesome/bolshchikov_js-must-watch.md) :star:11534
+	- [Tips](awesome/loverajoel_jstips.md) :star:10694
 	- [Network Layer](awesome/Kikobeats_awesome-network-js.md) :star:364
-	- [Micro npm Packages](awesome/parro-it_awesome-micro-npm-packages.md) :star:1420
+	- [Micro npm Packages](awesome/parro-it_awesome-micro-npm-packages.md) :star:1425
 	- [Mad Science npm Packages](awesome/feross_awesome-mad-science.md) - Impossible sounding projects that exist. :star:688
 	- [Maintenance Modules](awesome/maxogden_maintenance-modules.md) - For npm packages. :star:305
-	- [npm](awesome/sindresorhus_awesome-npm.md) - Package manager. :star:2814
+	- [npm](awesome/sindresorhus_awesome-npm.md) - Package manager. :star:2816
 	- [AVA](awesome/avajs_awesome-ava.md) - Test runner. :star:246
-	- [ESLint](awesome/dustinspecker_awesome-eslint.md) - Linter. :star:1111
-	- [Functional Programming](awesome/stoeffel_awesome-fp-js.md) :star:2574
+	- [ESLint](awesome/dustinspecker_awesome-eslint.md) - Linter. :star:1113
+	- [Functional Programming](awesome/stoeffel_awesome-fp-js.md) :star:2584
 	- [Observables](awesome/sindresorhus_awesome-observables.md) :star:218
 	- [npm scripts](awesome/RyanZim_awesome-npm-scripts.md) - Task runner. :star:352
-- [Swift](awesome/matteocrippa_awesome-swift.md) :star:13936
-	- [Education](awesome/hsavit1_Awesome-Swift-Education.md) :star:5315
-	- [Playgrounds](awesome/uraimo_Awesome-Swift-Playgrounds.md) :star:2025
-- [Python](awesome/vinta_awesome-python.md) :star:45834
-	- [Asyncio](awesome/timofurrer_awesome-asyncio.md) - Asynchronous I/O in Python 3. :star:472
-	- [Scientific Audio](awesome/faroit_awesome-python-scientific-audio.md) - Scientific research in audio/music. :star:196
-- [Rust](awesome/rust-unofficial_awesome-rust.md) :star:6318
-- [Haskell](awesome/krispo_awesome-haskell.md) :star:1374
+- [Swift](awesome/matteocrippa_awesome-swift.md) :star:13940
+	- [Education](awesome/hsavit1_Awesome-Swift-Education.md) :star:5316
+	- [Playgrounds](awesome/uraimo_Awesome-Swift-Playgrounds.md) :star:2028
+- [Python](awesome/vinta_awesome-python.md) :star:45952
+	- [Asyncio](awesome/timofurrer_awesome-asyncio.md) - Asynchronous I/O in Python 3. :star:474
+	- [Scientific Audio](awesome/faroit_awesome-python-scientific-audio.md) - Scientific research in audio/music. :star:200
+- [Rust](awesome/rust-unofficial_awesome-rust.md) :star:6333
+- [Haskell](awesome/krispo_awesome-haskell.md) :star:1379
 - [PureScript](awesome/passy_awesome-purescript.md) :star:176
-- [Go](awesome/avelino_awesome-go.md) :star:28106
-- [Scala](awesome/lauris_awesome-scala.md) :star:5693
-- [Ruby](awesome/markets_awesome-ruby.md) :star:8401
+- [Go](awesome/avelino_awesome-go.md) :star:28164
+- [Scala](awesome/lauris_awesome-scala.md) :star:5697
+- [Ruby](awesome/markets_awesome-ruby.md) :star:8412
 	- [Events](awesome/planetruby_calendar.md) :star:218
-- [Clojure](awesome/razum2um_awesome-clojure.md) :star:1246
+- [Clojure](awesome/razum2um_awesome-clojure.md) :star:1247
 - [ClojureScript](awesome/hantuzun_awesome-clojurescript.md) :star:570
-- [Elixir](awesome/h4cc_awesome-elixir.md) :star:7711
-- [Elm](awesome/isRuslan_awesome-elm.md) :star:2555
+- [Elixir](awesome/h4cc_awesome-elixir.md) :star:7720
+- [Elm](awesome/isRuslan_awesome-elm.md) :star:2560
 - [Erlang](awesome/drobakowski_awesome-erlang.md) :star:815
-- [Julia](awesome/svaksha_Julia.jl.md) :star:573
-- [Lua](awesome/LewisJEllis_awesome-lua.md) :star:1594
-- [C](awesome/aleksandar-todorovic_awesome-c.md) :star:957
-- [C/C++](awesome/fffaraz_awesome-cpp.md) :star:11942
-- [R](awesome/qinwf_awesome-R.md) :star:2742
-- [D](awesome/zhaopuming_awesome-d.md) :star:293
-- [Common Lisp](awesome/CodyReichert_awesome-cl.md) :star:630
+- [Julia](awesome/svaksha_Julia.jl.md) :star:575
+- [Lua](awesome/LewisJEllis_awesome-lua.md) :star:1595
+- [C](awesome/aleksandar-todorovic_awesome-c.md) :star:955
+- [C/C++](awesome/fffaraz_awesome-cpp.md) :star:11969
+- [R](awesome/qinwf_awesome-R.md) :star:2748
+- [D](awesome/zhaopuming_awesome-d.md) :star:294
+- [Common Lisp](awesome/CodyReichert_awesome-cl.md) :star:633
 - [Perl](awesome/hachiojipm_awesome-perl.md) :star:385
 - [Groovy](awesome/kdabir_awesome-groovy.md) :star:428
-- [Dart](awesome/yissachar_awesome-dart.md) :star:329
-- [Java](awesome/akullpp_awesome-java.md) :star:15739
-	- [RxJava](awesome/eleventigers_awesome-rxjava.md) :star:170
-- [Kotlin](awesome/KotlinBy_awesome-kotlin.md) :star:4208
+- [Dart](awesome/yissachar_awesome-dart.md) :star:331
+- [Java](awesome/akullpp_awesome-java.md) :star:15767
+	- [RxJava](awesome/eleventigers_awesome-rxjava.md) :star:171
+- [Kotlin](awesome/KotlinBy_awesome-kotlin.md) :star:4222
 - [OCaml](awesome/rizo_awesome-ocaml.md) :star:1219
 - [ColdFusion](awesome/seancoyne_awesome-coldfusion.md) :star:54
-- [Fortran](awesome/rabbiabram_awesome-fortran.md) :star:135
-- [.NET](awesome/quozd_awesome-dotnet.md) :star:6085
-	- [Core](awesome/thangchung_awesome-dotnet-core.md) :star:4117
-- [PHP](awesome/ziadoz_awesome-php.md) :star:18000
+- [Fortran](awesome/rabbiabram_awesome-fortran.md) :star:136
+- [.NET](awesome/quozd_awesome-dotnet.md) :star:6096
+	- [Core](awesome/thangchung_awesome-dotnet-core.md) :star:4137
+- [PHP](awesome/ziadoz_awesome-php.md) :star:18018
 	- [Composer](awesome/jakoch_awesome-composer.md) - Package manager. :star:287
 - [Delphi](awesome/Fr0sT-Brutal_awesome-delphi.md) :star:434
-- [Assembler](awesome/jaspergould_awesome-asm.md) :star:222
-- [AutoHotkey](awesome/ahkscript_awesome-AutoHotkey.md) :star:653
+- [Assembler](awesome/jaspergould_awesome-asm.md) :star:223
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](awesome/J2TeaM_awesome-AutoIt.md) :star:204
-- [Crystal](awesome/veelenga_awesome-crystal.md) :star:1518
+- [Crystal](awesome/veelenga_awesome-crystal.md) :star:1520
 - [Frege](awesome/sfischer13_awesome-frege.md) - Haskell for the JVM. :star:17
-- [CMake](awesome/onqtam_awesome-cmake.md) - Build, test, and package software. :star:1063
+- [CMake](awesome/onqtam_awesome-cmake.md) - Build, test, and package software. :star:1066
 - [ActionScript 3](awesome/robinrodricks_awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR. :star:68
 - [Eta](awesome/sfischer13_awesome-eta.md) - Functional programming language for the JVM. :star:33
 - [Idris](awesome/joaomilho_awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML. :star:65
@@ -174,267 +174,267 @@
 
 ## Front-End Development
 
-- [ES6 Tools](awesome/addyosmani_es6-tools.md) :star:3553
+- [ES6 Tools](awesome/addyosmani_es6-tools.md) :star:3554
 - [Web Performance Optimization](awesome/davidsonfellipe_awesome-wpo.md) :star:6147
-- [Web Tools](awesome/lvwzhen_tools.md) :star:335
+- [Web Tools](awesome/lvwzhen_tools.md) :star:334
 - [CSS](awesome/sotayamashita_awesome-css.md) :star:1417
-	- [Critical-Path Tools](awesome/addyosmani_critical-path-css-tools.md) :star:936
-	- [Scalability](awesome/davidtheclark_scalable-css-reading-list.md) :star:1238
-	- [Must-Watch Talks](awesome/AllThingsSmitty_must-watch-css.md) :star:3297
-	- [Protips](awesome/AllThingsSmitty_css-protips.md) :star:10132
-- [React](awesome/enaqx_awesome-react.md) - App framework. :star:23846
-	- [Relay](awesome/expede_awesome-relay.md) - Framework for building data-driven React apps. :star:184
+	- [Critical-Path Tools](awesome/addyosmani_critical-path-css-tools.md) :star:939
+	- [Scalability](awesome/davidtheclark_scalable-css-reading-list.md) :star:1239
+	- [Must-Watch Talks](awesome/AllThingsSmitty_must-watch-css.md) :star:3302
+	- [Protips](awesome/AllThingsSmitty_css-protips.md) :star:10137
+- [React](awesome/enaqx_awesome-react.md) - App framework. :star:23879
+	- [Relay](awesome/expede_awesome-relay.md) - Framework for building data-driven React apps. :star:185
 - [Web Components](awesome/mateusortiz_webcomponents-the-right-way.md) :star:1002
 - [Polymer](awesome/Granze_awesome-polymer.md) - JavaScript library to develop Web Components. :star:341
-- [Angular](awesome/gdi2290_awesome-angular.md) - App framework. :star:5302
+- [Angular](awesome/gdi2290_awesome-angular.md) - App framework. :star:5312
 - [Backbone](awesome/sadcitizen_awesome-backbone.md) - App framework. :star:373
 - [HTML5](awesome/diegocard_awesome-html5.md) - Markup language used for websites & web apps. :star:852
-- [SVG](awesome/willianjusten_awesome-svg.md) - XML-based vector image format. :star:3500
-- [Canvas](awesome/raphamorim_awesome-canvas.md) :star:347
+- [SVG](awesome/willianjusten_awesome-svg.md) - XML-based vector image format. :star:3501
+- [Canvas](awesome/raphamorim_awesome-canvas.md) :star:348
 - [KnockoutJS](awesome/dnbard_awesome-knockout.md) :star:71
 - [Dojo Toolkit](awesome/petk_awesome-dojo.md) :star:59
 - [Inspiration](awesome/NoahBuscher_Inspire.md) :star:608
 - [Ember](awesome/nmec_awesome-ember.md) - App framework. :star:261
-- [Android UI](awesome/wasabeef_awesome-android-ui.md) :star:28643
+- [Android UI](awesome/wasabeef_awesome-android-ui.md) :star:28674
 - [iOS UI](awesome/cjwirth_awesome-ios-ui.md) :star:10003
-- [Meteor](awesome/Urigo_awesome-meteor.md) :star:1181
+- [Meteor](awesome/Urigo_awesome-meteor.md) :star:1182
 - [BEM](awesome/sturobson_BEM-resources.md) :star:358
 - [Flexbox](awesome/afonsopacifer_awesome-flexbox.md) :star:800
 - [Web Typography](awesome/deanhume_typography.md) :star:298
-- [Web Accessibility](awesome/brunopulis_awesome-a11y.md) :star:717
+- [Web Accessibility](awesome/brunopulis_awesome-a11y.md) :star:722
 - [Material Design](awesome/sachin1092_awesome-material.md) :star:482
-- [D3](awesome/wbkd_awesome-d3.md) - Library for producing dynamic, interactive data visualizations. :star:3638
-- [Emails](awesome/jonathandion_awesome-emails.md) :star:444
+- [D3](awesome/wbkd_awesome-d3.md) - Library for producing dynamic, interactive data visualizations. :star:3640
+- [Emails](awesome/jonathandion_awesome-emails.md) :star:445
 - [jQuery](awesome/petk_awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation. :star:523
-	- [Tips](awesome/AllThingsSmitty_jquery-tips-everyone-should-know.md) :star:4037
-- [Web Audio](awesome/notthetup_awesome-webaudio.md) :star:375
-- [Offline-First](awesome/pazguille_offline-first.md) :star:2339
-- [Static Website Services](awesome/agarrharr_awesome-static-website-services.md) :star:563
+	- [Tips](awesome/AllThingsSmitty_jquery-tips-everyone-should-know.md) :star:4039
+- [Web Audio](awesome/notthetup_awesome-webaudio.md) :star:379
+- [Offline-First](awesome/pazguille_offline-first.md) :star:2340
+- [Static Website Services](awesome/agarrharr_awesome-static-website-services.md) :star:564
 - [A-Frame VR](awesome/aframevr_awesome-aframe.md) - Virtual reality for web browsers. :star:1253
-- [Cycle.js](awesome/cyclejs-community_awesome-cyclejs.md) - Functional and reactive JavaScript framework. :star:728
+- [Cycle.js](awesome/cyclejs-community_awesome-cyclejs.md) - Functional and reactive JavaScript framework. :star:729
 - [Text Editing](awesome/dok_awesome-text-editing.md) :star:84
 - [Motion UI Design](awesome/fliptheweb_motion-ui-design.md) :star:472
-- [Vue.js](awesome/vuejs_awesome-vue.md) - App framework. :star:29089
+- [Vue.js](awesome/vuejs_awesome-vue.md) - App framework. :star:29171
 - [Marionette.js](awesome/sadcitizen_awesome-marionette.md) - App framework. :star:144
-- [Aurelia](awesome/behzad888_awesome-aurelia.md) - App framework. :star:260
-- [Charting](awesome/zingchart_awesome-charting.md) :star:883
-- [Ionic Framework 2](awesome/candelibas_awesome-ionic.md) :star:656
-- [Chrome DevTools](awesome/ChromeDevTools_awesome-chrome-devtools.md) :star:2680
-- [PostCSS](awesome/jjaderg_awesome-postcss.md) - CSS tool. :star:235
-- [Draft.js](awesome/nikgraf_awesome-draft-js.md) - Rich text editor framework for React. :star:1340
-- [Service Workers](awesome/TalAter_awesome-service-workers.md) :star:1244
-- [Progressive Web Apps](awesome/TalAter_awesome-progressive-web-apps.md) :star:1068
+- [Aurelia](awesome/behzad888_awesome-aurelia.md) - App framework. :star:261
+- [Charting](awesome/zingchart_awesome-charting.md) :star:889
+- [Ionic Framework 2](awesome/candelibas_awesome-ionic.md) :star:659
+- [Chrome DevTools](awesome/ChromeDevTools_awesome-chrome-devtools.md) :star:2687
+- [PostCSS](awesome/jjaderg_awesome-postcss.md) - CSS tool. :star:236
+- [Draft.js](awesome/nikgraf_awesome-draft-js.md) - Rich text editor framework for React. :star:1344
+- [Service Workers](awesome/TalAter_awesome-service-workers.md) :star:1245
+- [Progressive Web Apps](awesome/TalAter_awesome-progressive-web-apps.md) :star:1071
 - [choo](awesome/choojs_awesome-choo.md) - App framework. :star:150
-- [Redux](awesome/brillout_awesome-redux.md) - State container for JavaScript apps. :star:200
-- [webpack](awesome/webpack-contrib_awesome-webpack.md) - Module bundler. :star:2200
+- [Redux](awesome/brillout_awesome-redux.md) - State container for JavaScript apps. :star:201
+- [webpack](awesome/webpack-contrib_awesome-webpack.md) - Module bundler. :star:2208
 - [Browserify](awesome/browserify_awesome-browserify.md) - Module bundler. :star:64
-- [Sass](awesome/Famolus_awesome-sass.md) - CSS preprocessor. :star:1094
-- [Ant Design](awesome/websemantics_awesome-ant-design.md) - Enterprise-class UI design language. :star:946
+- [Sass](awesome/Famolus_awesome-sass.md) - CSS preprocessor. :star:1098
+- [Ant Design](awesome/websemantics_awesome-ant-design.md) - Enterprise-class UI design language. :star:952
 - [Less](awesome/LucasBassetti_awesome-less.md) - CSS preprocessor. :star:18
-- [WebGL](awesome/sjfricke_awesome-webgl.md) - JavaScript API for rendering 3D graphics. :star:225
-- [Preact](awesome/ooade_awesome-preact.md) - App framework. :star:165
+- [WebGL](awesome/sjfricke_awesome-webgl.md) - JavaScript API for rendering 3D graphics. :star:226
+- [Preact](awesome/ooade_awesome-preact.md) - App framework. :star:166
 - [Progressive Enhancement](awesome/jbmoelker_progressive-enhancement-resources.md) :star:39
-- [Next.js](awesome/unicodeveloper_awesome-nextjs.md) - Framework for server-rendered React apps. :star:810
-- [Hyperapp](awesome/JorgeBucaran_awesome-hyperapp.md) - Tiny JavaScript library for building web apps. :star:192
+- [Next.js](awesome/unicodeveloper_awesome-nextjs.md) - Framework for server-rendered React apps. :star:813
+- [Hyperapp](awesome/JorgeBucaran_awesome-hyperapp.md) - Tiny JavaScript library for building web apps. :star:193
 
 
 ## Back-End Development
 
-- [Django](awesome/rosarior_awesome-django.md) :star:6976
-- [Flask](awesome/humiaozuzu_awesome-flask.md) :star:4953
-- [Docker](awesome/veggiemonk_awesome-docker.md) :star:9541
-- [Vagrant](awesome/iJackUA_awesome-vagrant.md) :star:314
+- [Django](awesome/rosarior_awesome-django.md) :star:6992
+- [Flask](awesome/humiaozuzu_awesome-flask.md) :star:4969
+- [Docker](awesome/veggiemonk_awesome-docker.md) :star:9563
+- [Vagrant](awesome/iJackUA_awesome-vagrant.md) :star:315
 - [Pyramid](awesome/uralbash_awesome-pyramid.md) :star:404
 - [Play1 Framework](awesome/PerfectCarl_awesome-play1.md) :star:36
 - [CakePHP](awesome/friendsofcake_awesome-cakephp.md) - PHP framework. :star:640
 - [Symfony](awesome/sitepoint-editors_awesome-symfony.md) :star:1154
-	- [Education](awesome/pehapkari_awesome-symfony-education.md) :star:235
-- [Laravel](awesome/chiraggude_awesome-laravel.md) - PHP framework. :star:5701
+	- [Education](awesome/pehapkari_awesome-symfony-education.md) :star:236
+- [Laravel](awesome/chiraggude_awesome-laravel.md) - PHP framework. :star:5714
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
-- [Rails](awesome/ekremkaraca_awesome-rails.md) - Web app framework for Ruby. :star:1750
-	- [Gems](awesome/hothero_awesome-rails-gem.md) - Packages. :star:2374
+- [Rails](awesome/ekremkaraca_awesome-rails.md) - Web app framework for Ruby. :star:1752
+	- [Gems](awesome/hothero_awesome-rails-gem.md) - Packages. :star:2375
 - [Phalcon](awesome/phalcon_awesome-phalcon.md) :star:426
-- [Useful `.htaccess` Snippets](awesome/phanan_htaccess.md) :star:10265
-- [nginx](awesome/fcambus_nginx-resources.md) - Web server. :star:2104
+- [Useful `.htaccess` Snippets](awesome/phanan_htaccess.md) :star:10271
+- [nginx](awesome/fcambus_nginx-resources.md) - Web server. :star:2105
 - [Dropwizard](awesome/stve_awesome-dropwizard.md) :star:46
-- [Kubernetes](awesome/ramitsurana_awesome-kubernetes.md) :star:2062
+- [Kubernetes](awesome/ramitsurana_awesome-kubernetes.md) :star:2071
 - [Lumen](awesome/unicodeveloper_awesome-lumen.md) :star:180
-- [Serverless Framework](awesome/pmuens_awesome-serverless.md) :star:1298
+- [Serverless Framework](awesome/pmuens_awesome-serverless.md) :star:1299
 - [Apache Wicket](awesome/PhantomYdn_awesome-wicket.md) - Java web app framework. :star:30
-- [Vert.x](awesome/vert-x3_vertx-awesome.md) - Toolkit for building reactive apps on the JVM. :star:721
-- [Terraform](awesome/shuaibiyy_awesome-terraform.md) - Tool for building, changing, and versioning infrastructure. :star:294
+- [Vert.x](awesome/vert-x3_vertx-awesome.md) - Toolkit for building reactive apps on the JVM. :star:726
+- [Terraform](awesome/shuaibiyy_awesome-terraform.md) - Tool for building, changing, and versioning infrastructure. :star:297
 
 
 ## Computer Science
 
-- [University Courses](awesome/prakhar1989_awesome-courses.md) :star:23032
-- [Data Science](awesome/bulutyazilim_awesome-datascience.md) :star:7353
+- [University Courses](awesome/prakhar1989_awesome-courses.md) :star:23061
+- [Data Science](awesome/bulutyazilim_awesome-datascience.md) :star:7369
 	- [Tutorials](awesome/siboehm_awesome-learn-datascience.md) :star:203
-- [Machine Learning](awesome/josephmisiti_awesome-machine-learning.md) :star:30725
-	- [Tutorials](awesome/ujjwalkarn_Machine-Learning-Tutorials.md) :star:6790
-	- [ML with Ruby](awesome/arbox_machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby. :star:920
-	- [Core ML Models](awesome/likedan_Awesome-CoreML-Models.md) - Models for Apple's machine learning framework. :star:2382
-- [Speech and Natural Language Processing](awesome/edobashira_speech-language-processing.md) :star:1660
+- [Machine Learning](awesome/josephmisiti_awesome-machine-learning.md) :star:30804
+	- [Tutorials](awesome/ujjwalkarn_Machine-Learning-Tutorials.md) :star:6821
+	- [ML with Ruby](awesome/arbox_machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby. :star:921
+	- [Core ML Models](awesome/likedan_Awesome-CoreML-Models.md) - Models for Apple's machine learning framework. :star:2394
+- [Speech and Natural Language Processing](awesome/edobashira_speech-language-processing.md) :star:1661
 	- [Spanish](awesome/dav009_awesome-spanish-nlp.md) :star:125
-	- [NLP with Ruby](awesome/arbox_nlp-with-ruby.md) :star:720
+	- [NLP with Ruby](awesome/arbox_nlp-with-ruby.md) :star:721
 - [Linguistics](awesome/theimpossibleastronaut_awesome-linguistics.md) :star:95
-- [Cryptography](awesome/sobolevn_awesome-cryptography.md) :star:947
-- [Computer Vision](awesome/jbhuang0604_awesome-computer-vision.md) :star:5242
-- [Deep Learning](awesome/ChristosChristofidis_awesome-deep-learning.md) - Neural networks. :star:7914
-	- [TensorFlow](awesome/jtoy_awesome-tensorflow.md) - Library for machine intelligence. :star:10786
-	- [Papers](awesome/terryum_awesome-deep-learning-papers.md) - The most cited deep learning papers. :star:13833
-	- [Education](awesome/guillaume-chevalier_awesome-deep-learning-resources.md) :star:766
-- [Deep Vision](awesome/kjw0612_awesome-deep-vision.md) :star:6085
-- [Open Source Society University](awesome/ossu_computer-science.md) :star:30151
-- [Functional Programming](awesome/lucasviola_awesome-functional-programming.md) :star:350
-- [Static Analysis & Code Quality](awesome/mre_awesome-static-analysis.md) :star:2533
+- [Cryptography](awesome/sobolevn_awesome-cryptography.md) :star:953
+- [Computer Vision](awesome/jbhuang0604_awesome-computer-vision.md) :star:5285
+- [Deep Learning](awesome/ChristosChristofidis_awesome-deep-learning.md) - Neural networks. :star:7949
+	- [TensorFlow](awesome/jtoy_awesome-tensorflow.md) - Library for machine intelligence. :star:10820
+	- [Papers](awesome/terryum_awesome-deep-learning-papers.md) - The most cited deep learning papers. :star:13851
+	- [Education](awesome/guillaume-chevalier_awesome-deep-learning-resources.md) :star:768
+- [Deep Vision](awesome/kjw0612_awesome-deep-vision.md) :star:6098
+- [Open Source Society University](awesome/ossu_computer-science.md) :star:30207
+- [Functional Programming](awesome/lucasviola_awesome-functional-programming.md) :star:352
+- [Static Analysis & Code Quality](awesome/mre_awesome-static-analysis.md) :star:2545
 - [Information Retrieval](awesome/harpribot_awesome-information-retrieval.md) - Learn to develop your own search engine. :star:162
 
 
 ## Big Data
 
-- [Big Data](awesome/onurakpolat_awesome-bigdata.md) :star:5791
-- [Public Datasets](awesome/awesomedata_awesome-public-datasets.md) :star:22764
-- [Hadoop](awesome/youngwookim_awesome-hadoop.md) - Framework for distributed storage and processing of very large data sets. :star:611
-- [Data Engineering](awesome/igorbarinov_awesome-data-engineering.md) :star:1330
-- [Streaming](awesome/manuzhang_awesome-streaming.md) :star:706
-- [Apache Spark](awesome/awesome-spark_awesome-spark.md) - Unified engine for large-scale data processing. :star:407
+- [Big Data](awesome/onurakpolat_awesome-bigdata.md) :star:5796
+- [Public Datasets](awesome/awesomedata_awesome-public-datasets.md) :star:22901
+- [Hadoop](awesome/youngwookim_awesome-hadoop.md) - Framework for distributed storage and processing of very large data sets. :star:613
+- [Data Engineering](awesome/igorbarinov_awesome-data-engineering.md) :star:1333
+- [Streaming](awesome/manuzhang_awesome-streaming.md) :star:709
+- [Apache Spark](awesome/awesome-spark_awesome-spark.md) - Unified engine for large-scale data processing. :star:409
 
 
 ## Theory
 
-- [Papers We Love](awesome/papers-we-love_papers-we-love.md) :star:28797
-- [Talks](awesome/JanVanRyswyck_awesome-talks.md) :star:2065
-- [Algorithms](awesome/tayllan_awesome-algorithms.md) :star:4092
-- [Algorithm Visualizations](awesome/enjalot_algovis.md) :star:813
-- [Artificial Intelligence](awesome/owainlewis_awesome-artificial-intelligence.md) :star:3475
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) :star:692
-- [Competitive Programming](awesome/lnishan_awesome-competitive-programming.md) :star:2400
-- [Math](awesome/rossant_awesome-math.md) :star:1286
+- [Papers We Love](awesome/papers-we-love_papers-we-love.md) :star:28827
+- [Talks](awesome/JanVanRyswyck_awesome-talks.md) :star:2068
+- [Algorithms](awesome/tayllan_awesome-algorithms.md) :star:4107
+- [Algorithm Visualizations](awesome/enjalot_algovis.md) :star:816
+- [Artificial Intelligence](awesome/owainlewis_awesome-artificial-intelligence.md) :star:3483
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) :star:694
+- [Competitive Programming](awesome/lnishan_awesome-competitive-programming.md) :star:2409
+- [Math](awesome/rossant_awesome-math.md) :star:1298
 - [Recursion Schemes](awesome/passy_awesome-recursion-schemes.md) - Traversing nested data structures. :star:401
 
 
 ## Books
 
-- [Free Programming Books](awesome/EbookFoundation_free-programming-books.md) :star:101707
-- [Free Software Testing Books](awesome/ligurio_awesome-software-quality.md) :star:1022
-- [Go Books](awesome/dariubs_GoBooks.md) :star:4547
+- [Free Programming Books](awesome/EbookFoundation_free-programming-books.md) :star:101819
+- [Free Software Testing Books](awesome/ligurio_awesome-software-quality.md) :star:1025
+- [Go Books](awesome/dariubs_GoBooks.md) :star:4558
 - [R Books](awesome/RomanTsegelskyi_rbooks.md) :star:89
-- [Mind Expanding Books](awesome/hackerkid_Mind-Expanding-Books.md) :star:3106
+- [Mind Expanding Books](awesome/hackerkid_Mind-Expanding-Books.md) :star:3113
 - [Book Authoring](awesome/TalAter_awesome-book-authoring.md) :star:73
-- [Elixir Books](awesome/sger_ElixirBooks.md) :star:501
+- [Elixir Books](awesome/sger_ElixirBooks.md) :star:502
 
 
 ## Editors
 
-- [Sublime Text](awesome/dreikanter_sublime-bookmarks.md) :star:595
-- [Vim](awesome/mhinz_vim-galore.md) :star:8005
-- [Emacs](https://github.com/emacs-tw/awesome-emacs) :star:3508
-- [Atom](awesome/mehcode_awesome-atom.md) - Open-source and hackable text editor. :star:1520
-- [Visual Studio Code](awesome/viatsko_awesome-vscode.md) - Cross-platform open-source text editor. :star:4631
+- [Sublime Text](awesome/dreikanter_sublime-bookmarks.md) :star:596
+- [Vim](awesome/mhinz_vim-galore.md) :star:8007
+- [Emacs](https://github.com/emacs-tw/awesome-emacs) :star:3518
+- [Atom](awesome/mehcode_awesome-atom.md) - Open-source and hackable text editor. :star:1523
+- [Visual Studio Code](awesome/viatsko_awesome-vscode.md) - Cross-platform open-source text editor. :star:4662
 
 
 ## Gaming
 
 - [Game Development](awesome/ellisonleao_magictools.md) :star:4670
 - [Game Talks](awesome/hzoo_awesome-gametalks.md) :star:511
-- [Godot](awesome/Calinou_awesome-godot.md) - Game engine. :star:635
-- [Open Source Games](awesome/leereilly_games.md) :star:10428
-- [Unity](awesome/RyanNielson_awesome-unity.md) - Game engine. :star:1817
-- [Chess](awesome/hkirat_awesome-chess.md) :star:89
-- [LÖVE](awesome/love2d-community_awesome-love2d.md) - Game engine. :star:904
-- [PICO-8](awesome/felipebueno_awesome-PICO-8.md) - Fantasy console. :star:765
-- [Game Boy Development](awesome/avivace_awesome-gbdev.md) :star:1050
+- [Godot](awesome/Calinou_awesome-godot.md) - Game engine. :star:639
+- [Open Source Games](awesome/leereilly_games.md) :star:10442
+- [Unity](awesome/RyanNielson_awesome-unity.md) - Game engine. :star:1822
+- [Chess](awesome/hkirat_awesome-chess.md) :star:90
+- [LÖVE](awesome/love2d-community_awesome-love2d.md) - Game engine. :star:907
+- [PICO-8](awesome/felipebueno_awesome-PICO-8.md) - Fantasy console. :star:769
+- [Game Boy Development](awesome/avivace_awesome-gbdev.md) :star:1053
 - [Construct 2](awesome/armaldio_awesome-construct.md) - Game engine. :star:12
 - [Gideros](awesome/stetso_awesome-gideros.md) - Game engine. :star:8
 
 
 ## Development Environment
 
-- [Quick Look Plugins](awesome/sindresorhus_quick-look-plugins.md) - For macOS. :star:10512
-- [Dev Env](awesome/jondot_awesome-devenv.md) :star:1063
-- [Dotfiles](awesome/webpro_awesome-dotfiles.md) :star:2412
-- [Shell](awesome/alebcay_awesome-shell.md) :star:11667
-- [Fish](awesome/JorgeBucaran_awesome-fish.md) - User-friendly shell. :star:623
-- [Command-Line Apps](awesome/agarrharr_awesome-cli-apps.md) :star:1827
-- [ZSH Plugins](awesome/unixorn_awesome-zsh-plugins.md) :star:3872
-- [GitHub](awesome/phillipadsmith_awesome-github.md) - Hosting service for Git repositories. :star:341
-	- [Browser Extensions](awesome/stefanbuck_awesome-browser-extensions-for-github.md) :star:1030
-	- [Cheat Sheet](awesome/tiimgreen_github-cheat-sheet.md) :star:24430
-- [Git Cheat Sheet & Git Flow](awesome/arslanbilal_git-cheat-sheet.md) :star:1809
-- [Git Tips](awesome/git-tips_tips.md) :star:12387
-- [Git Add-ons](awesome/stevemao_awesome-git-addons.md) - Enhance the `git` CLI. :star:617
+- [Quick Look Plugins](awesome/sindresorhus_quick-look-plugins.md) - For macOS. :star:10520
+- [Dev Env](awesome/jondot_awesome-devenv.md) :star:1064
+- [Dotfiles](awesome/webpro_awesome-dotfiles.md) :star:2419
+- [Shell](awesome/alebcay_awesome-shell.md) :star:11685
+- [Fish](awesome/JorgeBucaran_awesome-fish.md) - User-friendly shell. :star:622
+- [Command-Line Apps](awesome/agarrharr_awesome-cli-apps.md) :star:1839
+- [ZSH Plugins](awesome/unixorn_awesome-zsh-plugins.md) :star:3881
+- [GitHub](awesome/phillipadsmith_awesome-github.md) - Hosting service for Git repositories. :star:343
+	- [Browser Extensions](awesome/stefanbuck_awesome-browser-extensions-for-github.md) :star:1031
+	- [Cheat Sheet](awesome/tiimgreen_github-cheat-sheet.md) :star:24452
+- [Git Cheat Sheet & Git Flow](awesome/arslanbilal_git-cheat-sheet.md) :star:1815
+- [Git Tips](awesome/git-tips_tips.md) :star:12409
+- [Git Add-ons](awesome/stevemao_awesome-git-addons.md) - Enhance the `git` CLI. :star:621
 - [SSH](awesome/moul_awesome-ssh.md) :star:737
 - [FOSS for Developers](awesome/tvvocold_FOSS-for-Dev.md) :star:216
-- [Hyper](awesome/bnb_awesome-hyper.md) - Cross-platform terminal app built on web technologies. :star:5488
+- [Hyper](awesome/bnb_awesome-hyper.md) - Cross-platform terminal app built on web technologies. :star:5506
 - [PowerShell](awesome/janikvonrotz_awesome-powershell.md) - Cross-platform object-oriented shell. :star:482
-- [Alfred Workflows](awesome/derimagia_awesome-alfred-workflows.md) - Productivity app for macOS. :star:753
-- [Terminals Are Sexy](awesome/k4m4_terminals-are-sexy.md) :star:5910
+- [Alfred Workflows](awesome/derimagia_awesome-alfred-workflows.md) - Productivity app for macOS. :star:755
+- [Terminals Are Sexy](awesome/k4m4_terminals-are-sexy.md) :star:5921
 
 
 ## Entertainment
 
-- [Science Fiction](awesome/sindresorhus_awesome-scifi.md) - Scifi. :star:1610
-- [Fantasy](awesome/RichardLitt_awesome-fantasy.md) :star:299
-- [Podcasts](awesome/guipdutra_awesome-geek-podcasts.md) :star:1121
-- [Email Newsletters](awesome/vredniy_awesome-newsletters.md) :star:770
+- [Science Fiction](awesome/sindresorhus_awesome-scifi.md) - Scifi. :star:1615
+- [Fantasy](awesome/RichardLitt_awesome-fantasy.md) :star:300
+- [Podcasts](awesome/guipdutra_awesome-geek-podcasts.md) :star:1122
+- [Email Newsletters](awesome/vredniy_awesome-newsletters.md) :star:773
 - [IT Quotes](awesome/victorlaerte_awesome-it-quotes.md) :star:93
 
 
 ## Databases
 
-- [Database](awesome/numetriclabz_awesome-db.md) :star:570
+- [Database](awesome/numetriclabz_awesome-db.md) :star:571
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy](awesome/dahlia_awesome-sqlalchemy.md) :star:1576
-- [InfluxDB](awesome/mark-rushakoff_awesome-influxdb.md) :star:399
-- [Neo4j](awesome/neueda_awesome-neo4j.md) :star:197
-- [MongoDB](awesome/ramnes_awesome-mongodb.md) - NoSQL database. :star:645
+- [SQLAlchemy](awesome/dahlia_awesome-sqlalchemy.md) :star:1577
+- [InfluxDB](awesome/mark-rushakoff_awesome-influxdb.md) :star:402
+- [Neo4j](awesome/neueda_awesome-neo4j.md) :star:198
+- [MongoDB](awesome/ramnes_awesome-mongodb.md) - NoSQL database. :star:650
 - [RethinkDB](awesome/d3viant0ne_awesome-rethinkdb.md) :star:78
 - [TinkerPop](awesome/mohataher_awesome-tinkerpop.md) - Graph computing framework. :star:76
-- [PostgreSQL](awesome/dhamaniasad_awesome-postgres.md) - Object-relational database. :star:3939
+- [PostgreSQL](awesome/dhamaniasad_awesome-postgres.md) - Object-relational database. :star:3950
 - [CouchDB](awesome/quangv_awesome-couchdb.md) - Document-oriented NoSQL database. :star:48
 - [HBase](awesome/rayokota_awesome-hbase.md) - Distributed, scalable, big data store. :star:47
 
 
 ## Media
 
-- [Creative Commons Media](awesome/shime_creative-commons-media.md) :star:204
-- [Fonts](awesome/brabadu_awesome-fonts.md) :star:316
-- [Codeface](awesome/chrissimpkins_codeface.md) - Text editor fonts. :star:4423
-- [Stock Resources](awesome/neutraltone_awesome-stock-resources.md) :star:6265
-- [GIF](awesome/davisonio_awesome-gif.md) - Image format known for animated images. :star:274
-- [Music](awesome/ciconia_awesome-music.md) :star:294
+- [Creative Commons Media](awesome/shime_creative-commons-media.md) :star:206
+- [Fonts](awesome/brabadu_awesome-fonts.md) :star:318
+- [Codeface](awesome/chrissimpkins_codeface.md) - Text editor fonts. :star:4422
+- [Stock Resources](awesome/neutraltone_awesome-stock-resources.md) :star:6268
+- [GIF](awesome/davisonio_awesome-gif.md) - Image format known for animated images. :star:275
+- [Music](awesome/ciconia_awesome-music.md) :star:297
 - [Open Source Documents](awesome/hubtee_awesome-opensource-documents.md) :star:993
-- [Audio Visualization](awesome/willianjusten_awesome-audio-visualization.md) :star:1684
-- [Broadcasting](awesome/ebu_awesome-broadcasting.md) :star:279
-- [Pixel Art](awesome/Siilwyn_awesome-pixel-art.md) - Pixel-level digital art. :star:198
+- [Audio Visualization](awesome/willianjusten_awesome-audio-visualization.md) :star:1688
+- [Broadcasting](awesome/ebu_awesome-broadcasting.md) :star:289
+- [Pixel Art](awesome/Siilwyn_awesome-pixel-art.md) - Pixel-level digital art. :star:200
 
 
 ## Learn
 
 - [CLI Workshoppers](awesome/therebelrobot_awesome-workshopper.md) - Interactive tutorials. :star:339
-- [Learn to Program](awesome/karlhorky_learn-to-program.md) :star:421
+- [Learn to Program](awesome/karlhorky_learn-to-program.md) :star:425
 - [Speaking](awesome/matteofigus_awesome-speaking.md) :star:619
-- [Tech Videos](awesome/lucasviola_awesome-tech-videos.md) :star:283
-- [Dive into Machine Learning](awesome/hangtwenty_dive-into-machine-learning.md) :star:7891
-- [Computer History](awesome/watson_awesome-computer-history.md) :star:908
-- [Programming for Kids](awesome/HollyAdele_awesome-programming-for-kids.md) :star:401
-- [Educational Games](awesome/yrgo_awesome-eg.md) - Learn while playing. :star:130
-- [JavaScript Learning](awesome/micromata_awesome-javascript-learning.md) :star:818
+- [Tech Videos](awesome/lucasviola_awesome-tech-videos.md) :star:285
+- [Dive into Machine Learning](awesome/hangtwenty_dive-into-machine-learning.md) :star:7900
+- [Computer History](awesome/watson_awesome-computer-history.md) :star:909
+- [Programming for Kids](awesome/HollyAdele_awesome-programming-for-kids.md) :star:402
+- [Educational Games](awesome/yrgo_awesome-eg.md) - Learn while playing. :star:131
+- [JavaScript Learning](awesome/micromata_awesome-javascript-learning.md) :star:822
 
 
 ## Security
 
-- [Application Security](awesome/paragonie_awesome-appsec.md) :star:2998
-- [Security](awesome/sbilly_awesome-security.md) :star:2559
-- [CTF](awesome/apsdehal_awesome-ctf.md) - Capture The Flag. :star:1863
-- [Malware Analysis](awesome/rshipp_awesome-malware-analysis.md) :star:3178
-- [Android Security](awesome/ashishb_android-security-awesome.md) :star:2897
-- [Hacking](awesome/carpedm20_awesome-hacking.md) :star:3479
-- [Honeypots](awesome/paralax_awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. :star:2093
-- [Incident Response](awesome/meirwah_awesome-incident-response.md) :star:1767
-- [Vehicle Security and Car Hacking](awesome/jaredthecoder_awesome-vehicle-security.md) :star:695
-- [Web Security](awesome/qazbnm456_awesome-web-security.md) - Security of web apps & services. :star:1033
+- [Application Security](awesome/paragonie_awesome-appsec.md) :star:3002
+- [Security](awesome/sbilly_awesome-security.md) :star:2562
+- [CTF](awesome/apsdehal_awesome-ctf.md) - Capture The Flag. :star:1868
+- [Malware Analysis](awesome/rshipp_awesome-malware-analysis.md) :star:3185
+- [Android Security](awesome/ashishb_android-security-awesome.md) :star:2901
+- [Hacking](awesome/carpedm20_awesome-hacking.md) :star:3486
+- [Honeypots](awesome/paralax_awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. :star:2100
+- [Incident Response](awesome/meirwah_awesome-incident-response.md) :star:1772
+- [Vehicle Security and Car Hacking](awesome/jaredthecoder_awesome-vehicle-security.md) :star:697
+- [Web Security](awesome/qazbnm456_awesome-web-security.md) - Security of web apps & services. :star:1036
 - [Lockpicking](awesome/meitar_awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key. :star:184
 
 
@@ -444,136 +444,136 @@
 - [Refinery CMS](awesome/refinerycms-contrib_awesome-refinerycms.md) - Ruby on Rails CMS. :star:19
 - [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS. :star:37
-- [Drupal](awesome/nirgn975_awesome-drupal.md) - Extensible PHP-based CMS. :star:33
-- [Craft CMS](awesome/craftcms_awesome.md) - Content-first CMS. :star:141
+- [Drupal](awesome/nirgn975_awesome-drupal.md) - Extensible PHP-based CMS. :star:34
+- [Craft CMS](awesome/craftcms_awesome.md) - Content-first CMS. :star:142
 
 
 ## Hardware
 
-- [Robotics](awesome/Kiloreux_awesome-robotics.md) :star:757
-- [Internet of Things](awesome/HQarroum_awesome-iot.md) :star:987
-- [Electronics](awesome/monostable_awesome-electronics.md) - For electronic engineers and hobbyists. :star:2227
-- [Bluetooth Beacons](awesome/beaconinside_awesome-beacon.md) :star:473
-- [Electric Guitar Specifications](awesome/gitfrage_guitarspecs.md) - Checklist for building your own electric guitar. :star:41
+- [Robotics](awesome/Kiloreux_awesome-robotics.md) :star:760
+- [Internet of Things](awesome/HQarroum_awesome-iot.md) :star:990
+- [Electronics](awesome/monostable_awesome-electronics.md) - For electronic engineers and hobbyists. :star:2230
+- [Bluetooth Beacons](awesome/beaconinside_awesome-beacon.md) :star:475
+- [Electric Guitar Specifications](awesome/gitfrage_guitarspecs.md) - Checklist for building your own electric guitar. :star:42
 
 
 ## Business
 
 - [Open Companies](awesome/opencompany_awesome-open-company.md) :star:199
-- [Places to Post Your Startup](awesome/mmccaff_PlacesToPostYourStartup.md) :star:2570
+- [Places to Post Your Startup](awesome/mmccaff_PlacesToPostYourStartup.md) :star:2571
 - [OKR Methodology](awesome/domenicosolazzo_awesome-okr.md) - Goal setting & communication best practices. :star:347
-- [Leading and Managing](awesome/LappleApple_awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment. :star:974
-- [Indie](awesome/mezod_awesome-indie.md) - Independent developer businesses. :star:4301
+- [Leading and Managing](awesome/LappleApple_awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment. :star:983
+- [Indie](awesome/mezod_awesome-indie.md) - Independent developer businesses. :star:4305
 
 
 ## Work
 
-- [Slack](awesome/matiassingers_awesome-slack.md) - Team collaboration. :star:533
+- [Slack](awesome/matiassingers_awesome-slack.md) - Team collaboration. :star:534
 	- [Communities](awesome/filipelinhares_awesome-slack.md) :star:211
-- [Remote Jobs](awesome/lukasz-madon_awesome-remote-job.md) :star:11189
-- [Productivity](awesome/jyguyomarch_awesome-productivity.md) :star:325
+- [Remote Jobs](awesome/lukasz-madon_awesome-remote-job.md) :star:11203
+- [Productivity](awesome/jyguyomarch_awesome-productivity.md) :star:328
 - [Niche Job Boards](awesome/wfhio_awesome-job-boards.md) :star:183
-- [Programming Interviews](awesome/MaximAbramchuck_awesome-interview-questions.md) :star:18040
+- [Programming Interviews](awesome/MaximAbramchuck_awesome-interview-questions.md) :star:18070
 
 
 ## Networking
 
 - [Software-Defined Networking](awesome/sdnds-tw_awesome-sdn.md) :star:269
-- [Network Analysis](awesome/briatte_awesome-network-analysis.md) :star:875
-- [PCAPTools](awesome/caesar0301_awesome-pcaptools.md) :star:1114
+- [Network Analysis](awesome/briatte_awesome-network-analysis.md) :star:877
+- [PCAPTools](awesome/caesar0301_awesome-pcaptools.md) :star:1115
 
 ## Decentralized Systems
 
-- [Bitcoin](awesome/igorbarinov_awesome-bitcoin.md) - Bitcoin services and tools for software developers. :star:444
-- [Ripple](awesome/vhpoet_awesome-ripple.md) - Open source distributed settlement network. :star:94
-- [Non-Financial Blockchain](awesome/machinomy_awesome-non-financial-blockchain.md) - Non-financial blockchain applications. :star:281
+- [Bitcoin](awesome/igorbarinov_awesome-bitcoin.md) - Bitcoin services and tools for software developers. :star:446
+- [Ripple](awesome/vhpoet_awesome-ripple.md) - Open source distributed settlement network. :star:95
+- [Non-Financial Blockchain](awesome/machinomy_awesome-non-financial-blockchain.md) - Non-financial blockchain applications. :star:283
 - [Mastodon](awesome/tleb_awesome-mastodon.md) - Open source decentralized microblogging network. :star:57
 
 ## Miscellaneous
 
-- [JSON](awesome/burningtree_awesome-json.md) - Text based data interchange format. :star:611
-	- [GeoJSON](awesome/tmcw_awesome-geojson.md) :star:638
-	- [Datasets](awesome/jdorfman_awesome-json-datasets.md) :star:1023
-- [Discounts for Student Developers](awesome/AchoArnold_discount-for-student-dev.md) :star:960
+- [JSON](awesome/burningtree_awesome-json.md) - Text based data interchange format. :star:612
+	- [GeoJSON](awesome/tmcw_awesome-geojson.md) :star:641
+	- [Datasets](awesome/jdorfman_awesome-json-datasets.md) :star:1031
+- [Discounts for Student Developers](awesome/AchoArnold_discount-for-student-dev.md) :star:964
 - [Conferences](awesome/RichardLitt_awesome-conferences.md) :star:635
-- [Sysadmin](awesome/n1trux_awesome-sysadmin.md) :star:6268
+- [Sysadmin](awesome/n1trux_awesome-sysadmin.md) :star:6276
 - [Radio](awesome/kyleterry_awesome-radio.md) :star:99
-- [Awesome](awesome/sindresorhus_awesome.md) - Recursion illustrated. :star:78804
-- [Analytics](awesome/onurakpolat_awesome-analytics.md) :star:958
-- [REST](awesome/marmelab_awesome-rest.md) :star:1608
-- [Selenium](awesome/christian-bromann_awesome-selenium.md) :star:307
+- [Awesome](awesome/sindresorhus_awesome.md) - Recursion illustrated. :star:78930
+- [Analytics](awesome/onurakpolat_awesome-analytics.md) :star:961
+- [REST](awesome/marmelab_awesome-rest.md) :star:1613
+- [Selenium](awesome/christian-bromann_awesome-selenium.md) :star:310
 - [Appium](awesome/SrinivasanTarget_awesome-appium.md) - Test automation tool for apps. :star:116
-- [Continuous Delivery](awesome/ciandcd_awesome-ciandcd.md) :star:611
-- [Services Engineering](awesome/mmcgrana_services-engineering.md) :star:2486
-- [Free for Developers](awesome/ripienaar_free-for-dev.md) :star:18109
+- [Continuous Delivery](awesome/ciandcd_awesome-ciandcd.md) :star:615
+- [Services Engineering](awesome/mmcgrana_services-engineering.md) :star:2488
+- [Free for Developers](awesome/ripienaar_free-for-dev.md) :star:18118
 - [Answers](awesome/cyberglot_awesome-answers.md) - Stack Overflow, Quora, etc. :star:525
 - [Sketch](awesome/diessica_awesome-sketch.md) - Design app for macOS. :star:623
-- [Boilerplate Projects](awesome/melvin0008_awesome-projects-boilerplates.md) :star:560
-- [Readme](awesome/matiassingers_awesome-readme.md) :star:2142
-- [Tools](awesome/cjbarber_ToolsOfTheTrade.md) :star:7081
-- [Styleguides](awesome/RichardLitt_awesome-styleguides.md) :star:458
-- [Design and Development Guides](awesome/NARKOZ_guides.md) :star:1423
-- [Software Engineering Blogs](awesome/kilimchoi_engineering-blogs.md) :star:12660
-- [Self Hosted](awesome/Kickball_awesome-selfhosted.md) :star:20839
+- [Boilerplate Projects](awesome/melvin0008_awesome-projects-boilerplates.md) :star:561
+- [Readme](awesome/matiassingers_awesome-readme.md) :star:2162
+- [Tools](awesome/cjbarber_ToolsOfTheTrade.md) :star:7084
+- [Styleguides](awesome/RichardLitt_awesome-styleguides.md) :star:459
+- [Design and Development Guides](awesome/NARKOZ_guides.md) :star:1424
+- [Software Engineering Blogs](awesome/kilimchoi_engineering-blogs.md) :star:12671
+- [Self Hosted](awesome/Kickball_awesome-selfhosted.md) :star:20877
 - [FOSS Production Apps](awesome/jwaterfaucett_awesome-foss-apps.md) :star:117
-- [Gulp](awesome/alferov_awesome-gulp.md) - Task runner. :star:392
+- [Gulp](awesome/alferov_awesome-gulp.md) - Task runner. :star:391
 - [AMA](awesome/sindresorhus_amas.md) - Ask Me Anything. :star:914
 	- [Answers](awesome/stoeffel_awesome-ama-answers.md) :star:103
-- [Open Source Photography](awesome/ibaaj_awesome-OpenSourcePhotography.md) :star:150
-- [OpenGL](awesome/eug_awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics. :star:726
-- [GraphQL](awesome/chentsulin_awesome-graphql.md) :star:6621
-- [Transit](awesome/CUTR-at-USF_awesome-transit.md) :star:339
-- [Research Tools](awesome/emptymalei_awesome-research.md) :star:326
-- [Data Visualization](awesome/fasouto_awesome-dataviz.md) :star:1526
-- [Social Media Share Links](awesome/vinkla_shareable-links.md) :star:96
-- [Microservices](awesome/mfornos_awesome-microservices.md) :star:5566
+- [Open Source Photography](awesome/ibaaj_awesome-OpenSourcePhotography.md) :star:152
+- [OpenGL](awesome/eug_awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics. :star:729
+- [GraphQL](awesome/chentsulin_awesome-graphql.md) :star:6633
+- [Transit](awesome/CUTR-at-USF_awesome-transit.md) :star:340
+- [Research Tools](awesome/emptymalei_awesome-research.md) :star:329
+- [Data Visualization](awesome/fasouto_awesome-dataviz.md) :star:1531
+- [Social Media Share Links](awesome/vinkla_shareable-links.md) :star:97
+- [Microservices](awesome/mfornos_awesome-microservices.md) :star:5584
 - [Unicode](awesome/jagracey_Awesome-Unicode.md) - Unicode standards, quirks, packages and resources. :star:417
-	- [Code Points](awesome/Codepoints_awesome-codepoints.md) :star:173
-- [Beginner-Friendly Projects](awesome/MunGell_awesome-for-beginners.md) :star:4656
-- [Katas](awesome/gamontal_awesome-katas.md) :star:334
-- [Tools for Activism](awesome/drewrwilson_toolsforactivism.md) :star:694
-- [Citizen Science](awesome/dylanrees_citizen-science.md) - For community-based and non-institutional scientists. :star:48
+	- [Code Points](awesome/Codepoints_awesome-codepoints.md) :star:174
+- [Beginner-Friendly Projects](awesome/MunGell_awesome-for-beginners.md) :star:4684
+- [Katas](awesome/gamontal_awesome-katas.md) :star:335
+- [Tools for Activism](awesome/drewrwilson_toolsforactivism.md) :star:698
+- [Citizen Science](awesome/dylanrees_citizen-science.md) - For community-based and non-institutional scientists. :star:49
 - [TAP](awesome/sindresorhus_awesome-tap.md) - Test Anything Protocol. :star:398
-- [MQTT](awesome/hobbyquaker_awesome-mqtt.md) - "Internet of Things" connectivity protocol. :star:423
-- [Hacking Spots](awesome/diasdavid_awesome-hacking-spots.md) :star:565
+- [MQTT](awesome/hobbyquaker_awesome-mqtt.md) - "Internet of Things" connectivity protocol. :star:425
+- [Hacking Spots](awesome/diasdavid_awesome-hacking-spots.md) :star:566
 - [For Girls](awesome/cristianoliveira_awesome4girls.md) :star:225
 - [Vorpal](awesome/vorpaljs_awesome-vorpal.md) - Node.js CLI framework. :star:103
-- [Vulkan](awesome/vinjn_awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API. :star:732
-- [LaTeX](awesome/egeerardyn_awesome-LaTeX.md) - Typesetting language. :star:227
-- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit. :star:249
-- [Funny Markov Chains](awesome/sublimino_awesome-funny-markov.md) :star:103
-- [Bioinformatics](awesome/danielecook_Awesome-Bioinformatics.md) :star:383
-- [Colorful](awesome/Siddharth11_Colorful.md) - Choose your next color scheme. :star:375
-- [Steam](awesome/scholtzm_awesome-steam.md) - Digital distribution platform. :star:200
-- [Bots](awesome/hackerkid_bots.md) - Building bots. :star:623
-- [Site Reliability Engineering](awesome/dastergon_awesome-sre.md) :star:1662
-- [Empathy in Engineering](awesome/KimberlyMunoz_empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures. :star:316
+- [Vulkan](awesome/vinjn_awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API. :star:733
+- [LaTeX](awesome/egeerardyn_awesome-LaTeX.md) - Typesetting language. :star:229
+- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit. :star:251
+- [Funny Markov Chains](awesome/sublimino_awesome-funny-markov.md) :star:104
+- [Bioinformatics](awesome/danielecook_Awesome-Bioinformatics.md) :star:389
+- [Colorful](awesome/Siddharth11_Colorful.md) - Choose your next color scheme. :star:378
+- [Steam](awesome/scholtzm_awesome-steam.md) - Digital distribution platform. :star:201
+- [Bots](awesome/hackerkid_bots.md) - Building bots. :star:625
+- [Site Reliability Engineering](awesome/dastergon_awesome-sre.md) :star:1673
+- [Empathy in Engineering](awesome/KimberlyMunoz_empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures. :star:317
 - [DTrace](awesome/xen0l_awesome-dtrace.md) - Dynamic tracing framework. :star:67
-- [Userscripts](awesome/brunocvcunha_awesome-userscripts.md) - Enhance your browsing experience. :star:217
-- [Pokémon](awesome/tobiasbueschel_awesome-pokemon.md) - Pokémon and Pokémon GO. :star:323
-- [ChatOps](awesome/exAspArk_awesome-chatops.md) - Managing technical and business operations through a chat. :star:275
-- [Falsehood](awesome/kdeldycke_awesome-falsehood.md) - Falsehoods programmers believe in. :star:6829
-- [Domain-Driven Design](awesome/heynickc_awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model. :star:2498
+- [Userscripts](awesome/brunocvcunha_awesome-userscripts.md) - Enhance your browsing experience. :star:218
+- [Pokémon](awesome/tobiasbueschel_awesome-pokemon.md) - Pokémon and Pokémon GO. :star:324
+- [ChatOps](awesome/exAspArk_awesome-chatops.md) - Managing technical and business operations through a chat. :star:276
+- [Falsehood](awesome/kdeldycke_awesome-falsehood.md) - Falsehoods programmers believe in. :star:6835
+- [Domain-Driven Design](awesome/heynickc_awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model. :star:2506
 - [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology. :star:215
-- [SaltStack](awesome/hbokh_awesome-saltstack.md) - Python-based config management system. :star:91
-- [Web Design](awesome/nicolesaidy_awesome-web-design.md) - For digital designers. :star:525
-- [JMeter](awesome/aliesbelik_awesome-jmeter.md) - Load testing and performance measurement tool. :star:116
-- [Creative Coding](awesome/terkelg_awesome-creative-coding.md) - Programming something expressive instead of something functional. :star:3163
-- [No-Login Web Apps](awesome/aviaryan_awesome-no-login-web-apps.md) - Web apps that work without login. :star:503
-- [Testing](awesome/TheJambo_awesome-testing.md) - Software testing. :star:147
-- [Free Software](awesome/johnjago_awesome-free-software.md) - Free as in freedom. :star:134
-- [Framer](awesome/podo_awesome-framer.md) - Prototyping interactive UI designs. :star:366
-- [Markdown](awesome/BubuAnabelas_awesome-markdown.md) - Markup language. :star:160
-- [Dev Fun](awesome/mislavcimpersak_awesome-dev-fun.md) - Funny developer projects. :star:82
+- [SaltStack](awesome/hbokh_awesome-saltstack.md) - Python-based config management system. :star:92
+- [Web Design](awesome/nicolesaidy_awesome-web-design.md) - For digital designers. :star:528
+- [JMeter](awesome/aliesbelik_awesome-jmeter.md) - Load testing and performance measurement tool. :star:117
+- [Creative Coding](awesome/terkelg_awesome-creative-coding.md) - Programming something expressive instead of something functional. :star:3174
+- [No-Login Web Apps](awesome/aviaryan_awesome-no-login-web-apps.md) - Web apps that work without login. :star:505
+- [Testing](awesome/TheJambo_awesome-testing.md) - Software testing. :star:149
+- [Free Software](awesome/johnjago_awesome-free-software.md) - Free as in freedom. :star:135
+- [Framer](awesome/podo_awesome-framer.md) - Prototyping interactive UI designs. :star:368
+- [Markdown](awesome/BubuAnabelas_awesome-markdown.md) - Markup language. :star:162
+- [Dev Fun](awesome/mislavcimpersak_awesome-dev-fun.md) - Funny developer projects. :star:83
 - [Events in the Netherlands](awesome/awkward_awesome-netherlands-events.md) - Tech-related events in the Netherlands. :star:28
-- [Healthcare](awesome/kakoni_awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers. :star:323
-- [Magento 2](awesome/DavidLambauer_awesome-magento2.md) - Open Source eCommerce built with PHP. :star:311
-- [TikZ](awesome/xiaohanyu_awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt. :star:159
-- [Neuroscience](awesome/analyticalmonk_awesome-neuroscience.md) - Study of the nervous system and brain. :star:227
+- [Healthcare](awesome/kakoni_awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers. :star:327
+- [Magento 2](awesome/DavidLambauer_awesome-magento2.md) - Open Source eCommerce built with PHP. :star:313
+- [TikZ](awesome/xiaohanyu_awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt. :star:161
+- [Neuroscience](awesome/analyticalmonk_awesome-neuroscience.md) - Study of the nervous system and brain. :star:229
 - [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
 - [Ad-Free](awesome/johnjago_awesome-ad-free.md) - Ad-free alternatives. :star:112
-- [Esolangs](awesome/angrykoala_awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use. :star:105
-- [Prometheus](awesome/roaldnefs_awesome-prometheus.md) - Open-source monitoring system. :star:152
+- [Esolangs](awesome/angrykoala_awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use. :star:106
+- [Prometheus](awesome/roaldnefs_awesome-prometheus.md) - Open-source monitoring system. :star:153
 - [Homematic](awesome/hobbyquaker_awesome-homematic.md) - Smart home devices. :star:19
 - [Ledger](awesome/sfischer13_awesome-ledger.md) - Double-entry accounting on the command-line. :star:23
 - [Uncopyright](awesome/johnjago_awesome-uncopyright.md) - Public domain works. :star:168
@@ -581,7 +581,7 @@
 - [Diversity](awesome/folkswhocode_awesome-diversity.md) - Creating a more inclusive and diverse tech community. :star:235
 - [Open Source Supporters](awesome/zachflower_awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects. :star:263
 - [Design Principles](awesome/robinstickel_awesome-design-principles.md) - Create better and more consistent designs and experiences. :star:77
-- [Visual Regression Testing](awesome/mojoaxel_awesome-regression-testing.md) - Ensures changes did not break the functionality or style. :star:340
+- [Visual Regression Testing](awesome/mojoaxel_awesome-regression-testing.md) - Ensures changes did not break the functionality or style. :star:342
 - [Theravada](awesome/johnjago_awesome-theravada.md) - Teachings from the Theravada Buddhist tradition. :star:43
 - [inspectIT](awesome/inspectit-labs_awesome-inspectit.md) - Open source Java app performance management tool. :star:6
 
