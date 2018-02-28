@@ -74,7 +74,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:46
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2266
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2269
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:290
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:204
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:27
@@ -112,13 +112,13 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2199
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2200
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:238
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2305
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2312
 
 ### System
 
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd. :star:432
+- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd. :star:433
 
 ### Others
 
@@ -142,7 +142,7 @@
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:39
-- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:106
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:107
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
 - [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:32
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME. :star:316
@@ -174,7 +174,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:439
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:442
 
 ### Adwaita-based
 
@@ -185,7 +185,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:472
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:473
 
 ### Flat
 
@@ -200,19 +200,19 @@
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) - Theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:418
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:419
 
 ## Icons
 
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1370
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1371
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:91
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:778
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:779
 
 ### Homogeneous Icons
 
@@ -223,7 +223,7 @@
 
 ### Skeumorphic
 
-- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS. :star:123
+- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS. :star:124
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).

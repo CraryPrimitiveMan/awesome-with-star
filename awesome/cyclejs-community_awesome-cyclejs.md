@@ -70,7 +70,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:20
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2817
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2819
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:466
@@ -117,7 +117,7 @@ http://oleg.fi/graafi/
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures :star:11
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource. :star:6
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom :star:41
-* [cyclejs-community/cyclic-router ★90](https://github.com/cyclejs-community/cyclic-router) - Router Driver built for Cycle.js :star:94
+* [cyclejs-community/cyclic-router ★90](https://github.com/cyclejs-community/cyclic-router) - Router Driver built for Cycle.js :star:95
 * [Widdershin/cycle-animation-driver ★33](https://github.com/Widdershin/cycle-animation-driver) - Cycle driver for requestAnimationFrame :star:33
 * [dralletje/cycle-firebase ★21](https://github.com/dralletje/cycle-firebase) - A Cycle.js Driver for Firebase :star:21
 * [edge/cycle-blessed ★46](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications :star:47

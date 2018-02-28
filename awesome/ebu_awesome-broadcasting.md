@@ -96,13 +96,13 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. :star:7
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
-* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:6778
+* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:6781
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility. :star:4
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
-* [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports. :star:290
+* [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports. :star:291
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
@@ -129,7 +129,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer. :star:21
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK. :star:12
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
-* [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion. :star:502
+* [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion. :star:503
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc. :star:6
 
 ## Multimedia content processing
@@ -150,7 +150,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:8
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:440
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:8595
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:8606
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:60
@@ -172,7 +172,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule).
 * [Ardour](https://ardour.org/) - A digital audio workstation.
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
-* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:154
+* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:156
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)). :star:341
 * [OpenBroadcaster](https://github.com/openbroadcaster/observer) Open source broadcast automation server. [Player here](https://github.com/openbroadcaster/obplayer).

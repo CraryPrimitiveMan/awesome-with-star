@@ -33,7 +33,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C. :star:3
 
 - Web honeypots
-    - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot. :star:319
+    - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot. :star:320
     - Snare/Tanner - successors to Glastopf
       - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot :star:79
       - [Tanner](https://github.com/mushorg/tanner) - Evaluating SNARE events :star:47
@@ -64,7 +64,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:276
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:764
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:768
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:8
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:10
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:20
@@ -91,7 +91,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX. :star:6
-    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:287
+    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:288
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers. :star:2
 
 - Botnet C2 tools
@@ -112,7 +112,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1366
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1368
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -266,7 +266,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords. :star:144
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen. :star:10
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C. :star:4
-    - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:826
+    - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:827
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org :star:60
 
 - Distributed sensor project
@@ -325,7 +325,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 
 - Server (Bluetooth)
-    - [Bluepot](https://github.com/andrewmichaelsmith/bluepot) :star:84
+    - [Bluepot](https://github.com/andrewmichaelsmith/bluepot) :star:85
 
 - Dynamic analysis of Android apps
     - [Droidbox](https://code.google.com/archive/p/droidbox/)

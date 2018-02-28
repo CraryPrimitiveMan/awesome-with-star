@@ -22,7 +22,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:117
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:118
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:43
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:43
@@ -35,7 +35,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:30
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:49
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:35
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:19
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:20
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:206
@@ -78,13 +78,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Scheduled/Recurrence Jobs
 
-* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:55
-* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:103
+* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:56
+* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:104
 * [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:27
 
 ### Guice
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:246
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:245
 * [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:119
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:17
 

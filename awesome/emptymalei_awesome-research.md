@@ -455,7 +455,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39088
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39101
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4325
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1495
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:692
@@ -668,7 +668,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:809
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:810
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.

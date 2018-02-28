@@ -67,12 +67,12 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:243
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1706
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4786
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4792
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:63
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1587
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1588
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1080
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:841
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:552
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:551
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -87,8 +87,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:290
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:401
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:794
-* [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:469
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:796
+* [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:470
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:117
 
@@ -162,7 +162,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with dates and times.*
 
 * [erlang_localtime](https://github.com/dmitryme/erlang_localtime) - Erlang library for conversion from one local time to another. :star:40
-* [qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic. :star:193
+* [qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic. :star:194
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
@@ -190,7 +190,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not. :star:75
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang. :star:647
-* [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json. :star:561
+* [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json. :star:562
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps. :star:2
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang. :star:15
 * [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs. :star:31

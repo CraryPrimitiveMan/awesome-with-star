@@ -89,7 +89,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
  - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
- - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make :star:9
+ - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make :star:10
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
 

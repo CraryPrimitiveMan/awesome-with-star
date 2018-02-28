@@ -8,7 +8,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-  - [Color Clocks](#color-clocks)
 - [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
@@ -63,14 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 > Twelve hour time in words.
 
 [![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock/)
-
-### Color Clocks
-
-### What Colour Is It?
-
-> It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver.
-
-[![](screenshots/whatColourIsIt.png)](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)
 
 ## iOS (and Apple TV) Inspired
 
@@ -205,6 +196,4 @@ Free
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
-
-<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-macos-screensavers" rel="nofollow"><img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-macos-screensavers.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 

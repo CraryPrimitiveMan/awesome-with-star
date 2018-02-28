@@ -33,7 +33,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## General
 
 - [GIMP](http://www.gimp.org/) - *A swiss knife for image manipulation.*
-- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:134
+- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:135
 - [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick.*
 
@@ -148,10 +148,10 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1238
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1239
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:75
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1548
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1551
 
 ### Video Libraries
 

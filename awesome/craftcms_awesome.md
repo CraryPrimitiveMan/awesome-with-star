@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:364
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:365
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:88
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:163
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:39
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type. :star:46
 - [Sprout Notes](https://sprout.barrelstrengthdesign.com/craft-plugins/notes) - Add notes to your dashboard. Customize your note's header, body, and even use custom HTML.
-- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:113
+- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:114
 
 
 ### Data
@@ -278,7 +278,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:74
-- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:109
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:110
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:96
@@ -330,7 +330,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:193
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:113
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:174
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:175
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 

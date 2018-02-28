@@ -35,7 +35,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:868
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:867
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:28
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:206
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:95
@@ -50,7 +50,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading. :star:163
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js. :star:282
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:246
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:245
 
 #### Game Interaction
 
@@ -61,7 +61,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Community & Store Automation
 
-- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers. :star:189
+- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers. :star:188
 - [steamstore](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com. :star:32
 - [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client. :star:23
 - [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key. :star:16
@@ -70,7 +70,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library. :star:24
-- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:212
+- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:211
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts. :star:14
 
 #### Misc
@@ -89,7 +89,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1141
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1142
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:123
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1005
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:40
@@ -122,7 +122,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:151
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
-- [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
+- [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:60
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:71
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:279
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library. :star:4

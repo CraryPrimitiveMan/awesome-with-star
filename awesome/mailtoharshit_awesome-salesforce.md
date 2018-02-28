@@ -87,12 +87,12 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:104
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:105
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:227
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:228
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>

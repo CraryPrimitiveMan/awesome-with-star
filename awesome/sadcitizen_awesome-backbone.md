@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27010
+- [Github repository](https://github.com/jashkenas/backbone) :star:27016
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -112,7 +112,7 @@
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:92
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:93
 - [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
@@ -124,11 +124,11 @@
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2232
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1970
-- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1700
-- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1464
+- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1699
+- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1463
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1383
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:918
-- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:831
+- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:832
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:598
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:505
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:494

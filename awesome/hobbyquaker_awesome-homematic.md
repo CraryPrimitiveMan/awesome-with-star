@@ -75,24 +75,24 @@
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting. :star:12
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent. :star:5
-* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
+* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU. :star:23
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
-* [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
+* [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML. :star:31
 
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform.
-* [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:76
+* [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue). :star:17
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT. :star:13
-* [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface.
-* [Node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
+* [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface. :star:12
+* [Node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org). :star:9
 
 
 ## Misc Software
 
 * [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
-* [Check_homematic](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU.
+* [Check_homematic](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU. :star:1
 * [Hm-simulator](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC. :star:4
 * [Homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear). :star:59

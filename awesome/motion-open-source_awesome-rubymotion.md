@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:229
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1273
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1275
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
@@ -236,7 +236,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### GUI Frameworks
 * [IB](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions. :star:266
-* [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone. :star:637
+* [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone. :star:636
 * [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:324
 * [Motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ. :star:5
 * [Purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS. :star:2

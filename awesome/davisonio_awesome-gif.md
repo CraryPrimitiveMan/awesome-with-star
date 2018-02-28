@@ -59,9 +59,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding :star:223
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4079
+- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF :star:4080
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF :star:897
-- [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:539
+- [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor :star:540
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport :star:1605
@@ -70,7 +70,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder :star:712
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos :star:54
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server :star:134
-- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts :star:1011
+- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts :star:1012
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http :star:518
 - [gifdeck](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs :star:92
 - [Gifbot](https://github.com/schuyler/gifbot) - GIF search for Slack :star:38
@@ -109,7 +109,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Java
 
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5783
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android :star:5789
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable :star:219
 - [GifView](https://github.com/RoiSoleil/GifView) - android library to deal with GIF :star:77
 - [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations :star:450
@@ -121,14 +121,14 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### JavaScript
 
-- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM :star:2444
+- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM :star:2445
 - [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder :star:389
 - [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs :star:160
 - [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs :star:375
 - [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player :star:401
 - [node-gify](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle :star:222
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js :star:231
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js :star:232
 - [Gif-video](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video :star:58
 - [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript :star:62
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors :star:6
@@ -146,9 +146,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs :star:829
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control :star:300
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF :star:422
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard :star:6422
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard :star:6428
 - [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS :star:133
-- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView :star:1414
+- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView :star:1415
 - [SvGifView](https://github.com/smileEvday/SvGifView) - iOS load and display GIF :star:84
 - [GifHUD](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images :star:160
 - [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF :star:151
@@ -157,7 +157,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Swift
 
-- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift :star:1939
+- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift :star:1942
 - [SwiftGif](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support :star:795
 
 ### GUI

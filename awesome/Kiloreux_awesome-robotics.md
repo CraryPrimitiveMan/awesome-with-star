@@ -185,11 +185,11 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3483
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5289
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30807
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7949
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6098
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3490
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:5318
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:30832
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:7951
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6107
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:68
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:184

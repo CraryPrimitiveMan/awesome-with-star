@@ -106,7 +106,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2728
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:845
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:847
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -114,7 +114,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) -
   That will make it simpler to have a secure authentication policy with an easy
   to use backend.
-* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:42
+* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:43
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2284
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2287
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -217,7 +217,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:318
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:319
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -417,7 +417,7 @@ provide new storage backends.*
 * [cluegun](https://github.com/Pylons/cluegun) - A simple pastebin application :star:24
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
-* [shootout](https://github.com/Pylons/shootout) - An example “idea :star:100
+* [shootout](https://github.com/Pylons/shootout) - An example “idea :star:101
   competition” application by Carlos de la Guardia and Lukasz Fidosz. It
   demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
   and pyramid_simpleform.
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1445
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1452
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

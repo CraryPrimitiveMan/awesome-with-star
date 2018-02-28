@@ -71,9 +71,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:307
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:308
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:602
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:603
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
@@ -83,7 +83,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator :star:6
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework :star:131
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap :star:10
-* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower :star:14
+* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower :star:15
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework :star:71
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:86
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:4
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3514
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3519
 
 
 ## CMS & Blogs
@@ -218,7 +218,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:32
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:647
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:648
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework :star:7
 * [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:31
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps :star:3

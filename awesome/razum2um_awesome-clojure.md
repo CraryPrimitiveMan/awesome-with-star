@@ -5,11 +5,11 @@
   - [LightTable (IDE)](http://lighttable.com/)
   - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Riemann (Monitoring)](http://riemann.io/)
-  - [Puppet Server](https://github.com/puppetlabs/puppet-server) :star:173
+  - [Puppet Server](https://github.com/puppetlabs/puppet-server) :star:174
   - [PuppetDB](https://github.com/puppetlabs/puppetdb) :star:224
-  - [Metabase](https://github.com/metabase/metabase) :star:8734
+  - [Metabase](https://github.com/metabase/metabase) :star:8753
   - [Avi (vim rewrite)](https://github.com/maitria/avi) :star:198
-  - [Liquid (Text Editor)](https://github.com/mogenslund/liquid) :star:172
+  - [Liquid (Text Editor)](https://github.com/mogenslund/liquid) :star:173
   - [Clojupyter](https://github.com/clojupyter/clojupyter) :star:306
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank) :star:58
@@ -69,13 +69,13 @@
 ## Web Framework
 
 *Actually don't search rails/django here, but compose them by yourself*
-  * [Compojure](https://github.com/weavejester/compojure) :star:3346
+  * [Compojure](https://github.com/weavejester/compojure) :star:3347
   * [Web Non-Framework](https://github.com/webnf/webnf) :star:17
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo](https://github.com/slagyr/joodoweb) :star:3
   * [Coils](https://github.com/zubairq/AppShare) :star:280
   * [Duct](https://github.com/weavejester/duct) :star:639
-  * [Pedestal](https://github.com/pedestal/pedestal) :star:1855
+  * [Pedestal](https://github.com/pedestal/pedestal) :star:1856
   * [Datsys](https://github.com/metasoarous/datsys) :star:179
   * [yada](https://github.com/juxt/yada) :star:519
   * [Hoplon](http://hoplon.io/)
@@ -86,9 +86,9 @@
 
 *Managed lifecycle of stateful objects*
 
-  * [Component](https://github.com/stuartsierra/component) :star:1490
+  * [Component](https://github.com/stuartsierra/component) :star:1491
   * [System](https://github.com/danielsz/system) :star:525
-  * [mount](https://github.com/tolitius/mount) :star:725
+  * [mount](https://github.com/tolitius/mount) :star:724
 
 ## Build Automation and Package management
 
@@ -114,12 +114,12 @@
 ## GUI
 
   * [fx-clj](https://github.com/aaronc/fx-clj) :star:88
-  * [seesaw](https://github.com/daveray/seesaw) :star:1162
+  * [seesaw](https://github.com/daveray/seesaw) :star:1163
 
 ## Audio
 
   * [Overtone](http://overtone.github.io/)
-  * [Alda](https://github.com/alda-lang/alda) :star:2838
+  * [Alda](https://github.com/alda-lang/alda) :star:2840
 
 ## HTTP
 
@@ -127,7 +127,7 @@
 
   * [clj-http](https://github.com/dakrone/clj-http) :star:1176
   * [http-kit](http://www.http-kit.org/)
-  * [ring](https://github.com/ring-clojure/ring) :star:2486
+  * [ring](https://github.com/ring-clojure/ring) :star:2487
   * [kvlt](https://github.com/nervous-systems/kvlt) :star:65
 
 ## Database
@@ -192,7 +192,7 @@
 *Libraries for developing RESTful APIs.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
-  * [compojure-api](https://github.com/metosin/compojure-api) :star:765
+  * [compojure-api](https://github.com/metosin/compojure-api) :star:766
   * [Friboo](https://github.com/zalando/friboo) :star:112
   * [yada](https://github.com/juxt/yada) :star:519
   * [router](https://github.com/darkleaf/router) :star:73
@@ -206,7 +206,7 @@
 *Libraries for working with HTML.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
-  * [hiccup](https://github.com/weavejester/hiccup) :star:1709
+  * [hiccup](https://github.com/weavejester/hiccup) :star:1710
   * [clostache](https://github.com/fhd/clostache) :star:270
   * [selmer](https://github.com/yogthos/Selmer) :star:570
 
@@ -224,11 +224,11 @@
 ## Type System
 *Optional type system for Clojure*
 
-  * [core.typed](https://github.com/clojure/core.typed) :star:985
+  * [core.typed](https://github.com/clojure/core.typed) :star:984
 
 ## Pattern Matching
 
-  * [core.match](https://github.com/clojure/core.match) :star:819
+  * [core.match](https://github.com/clojure/core.match) :star:821
   * [Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon) :star:90
   * [defun](https://github.com/killme2008/defun) :star:346
   * [cats.match](https://github.com/zalando/cats.match) :star:37
@@ -239,7 +239,7 @@
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar) :star:803
   * [lamina](https://github.com/ztellman/lamina) :star:731
-  * [aleph](https://github.com/ztellman/aleph) :star:1933
+  * [aleph](https://github.com/ztellman/aleph) :star:1934
 
 ## Monads
 
@@ -254,7 +254,7 @@
 ## Testing
 
   * [Expectations](http://jayfields.com/expectations/)
-  * [Midje](https://github.com/marick/Midje) :star:1358
+  * [Midje](https://github.com/marick/Midje) :star:1359
   * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
 
 ## Webdriver automation
@@ -279,7 +279,7 @@ anylysis and visualization.*
 
   * [Incanter](https://github.com/incanter/incanter) :star:1951
   * [Cascalog](http://cascalog.org/)
-  * [Onyx](https://github.com/onyx-platform/onyx) :star:1690
+  * [Onyx](https://github.com/onyx-platform/onyx) :star:1691
   * [sparklling](https://github.com/gorillalabs/sparkling) :star:325
   * [flambo](https://github.com/yieldbot/flambo) :star:547
   * [Neanderthal](https://github.com/uncomplicate/neanderthal) :star:498
@@ -290,10 +290,10 @@ anylysis and visualization.*
 ## Machine Learning
 
   * [clj-ml](https://github.com/antoniogarrote/clj-ml) :star:138
-  * [cortex](https://github.com/thinktopic/cortex) :star:984
+  * [cortex](https://github.com/thinktopic/cortex) :star:985
   * [clj-bigml](https://github.com/bigmlcom/clj-bigml) :star:48
   * [Clatern](https://github.com/rinuboney/clatern) :star:66
-  * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) :star:8373
+  * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) :star:8376
   * [Enclog](https://github.com/jimpil/enclog) :star:136
   * [Infer](https://github.com/aria42/infer) :star:168
   * [k9](https://github.com/gigasquid/k9) :star:98
@@ -303,7 +303,7 @@ anylysis and visualization.*
 
 ## Computer Vision
 
-  * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract) :star:43
+  * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract) :star:44
   * [vision](http://nakkaya.com/vision.html)
 
 ## Natural Language Processing
@@ -314,7 +314,7 @@ anylysis and visualization.*
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse) :star:1912
-  * [duckling](https://github.com/wit-ai/duckling) :star:1285
+  * [duckling](https://github.com/wit-ai/duckling) :star:1284
   
 ## Exceptions and Error Handling
   * [Perseverance](https://github.com/grammarly/perseverance) :star:89
@@ -329,8 +329,8 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-  * [CIDER (Emacs)](https://github.com/clojure-emacs/cider) :star:2337
-  * [smartparens (Emacs)](https://github.com/Fuco1/smartparens) :star:947
+  * [CIDER (Emacs)](https://github.com/clojure-emacs/cider) :star:2336
+  * [smartparens (Emacs)](https://github.com/Fuco1/smartparens) :star:950
   * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters) :star:227
   * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode) :star:381
   * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace) :star:1324
@@ -348,8 +348,8 @@ anylysis and visualization.*
 
 ## Literate Programming
 
-  * [marginalia](https://github.com/gdeer81/marginalia) :star:660
-  * [klipse](https://github.com/viebel/klipse) :star:1527
+  * [marginalia](https://github.com/gdeer81/marginalia) :star:661
+  * [klipse](https://github.com/viebel/klipse) :star:1529
 
 ## Archives and Compression
 
@@ -368,13 +368,13 @@ anylysis and visualization.*
   * [ritz](https://github.com/pallet/ritz) :star:329
   * [redl](https://github.com/dgrnbrg/redl) :star:30
   * [limit-break](https://github.com/technomancy/limit-break) :star:16
-  * [spyscope](https://github.com/dgrnbrg/spyscope) :star:416
+  * [spyscope](https://github.com/dgrnbrg/spyscope) :star:417
   * [aprint](https://github.com/razum2um/aprint) :star:113
   * [packed-printer](https://github.com/cgrand/packed-printer) :star:32
-  * [pretty](https://github.com/AvisoNovate/pretty) :star:376
+  * [pretty](https://github.com/AvisoNovate/pretty) :star:377
   * [prone](https://github.com/magnars/prone) :star:468
-  * [figwheel](https://github.com/bhauman/lein-figwheel) :star:2401
-  * [ultra](https://github.com/venantius/ultra) :star:1023
+  * [figwheel](https://github.com/bhauman/lein-figwheel) :star:2404
+  * [ultra](https://github.com/venantius/ultra) :star:1024
 
 ## CI
 
@@ -382,9 +382,9 @@ anylysis and visualization.*
 
 ## Guides
 
-  * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) :star:2779
+  * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) :star:2780
   * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
-  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) :star:1910
+  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) :star:1912
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)

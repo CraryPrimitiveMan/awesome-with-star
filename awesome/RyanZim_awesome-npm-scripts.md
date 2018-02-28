@@ -54,39 +54,39 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-- [onchange](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`. :star:330
-- [watch](https://github.com/mikeal/watch) - `watch <command> <directory>`. :star:1025
+- [onchange](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`. :star:331
+- [watch](https://github.com/mikeal/watch) - `watch <command> <directory>`. :star:1026
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6395
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1936
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6396
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1937
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2276
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2278
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:85
-- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1687
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1688
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:52
-- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming. :star:69
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming. :star:70
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory. :star:80
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode. :star:23
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support. :star:3
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal. :star:33
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2220
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2224
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts. :star:4
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`. :star:17
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`. :star:108
 
 ### Utility Packs
 
-- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:423
+- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:424
 
 ## Other Utilities
 
-- [hashmark](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name. :star:178
+- [hashmark](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name. :star:179
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin. :star:93
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application. :star:135
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
