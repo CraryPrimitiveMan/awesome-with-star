@@ -28,7 +28,7 @@
 - [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:233
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:116
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
-- [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:38
+- [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:39
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:70
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
 - [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:485
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13074
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13084
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1180
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4455
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4459
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4518
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4523
 
 [More...](https://testanything.org/producers.html)
 
@@ -79,7 +79,7 @@ Things that consume TAP output.
 
 - [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:83
 - [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:20
-- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:18
+- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:19
 
 [More...](https://testanything.org/consumers.html)
 

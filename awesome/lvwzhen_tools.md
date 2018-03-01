@@ -95,7 +95,7 @@
 * [flatuicolors](http://flatuicolors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors](https://github.com/mrmrs/colors) :star:8130
+* [colors](https://github.com/mrmrs/colors) :star:8131
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [colourco.de](http://colourco.de)
@@ -111,7 +111,7 @@
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark](https://github.com/lvwzhen/iconpark) :star:335
+* [iconpark](https://github.com/lvwzhen/iconpark) :star:336
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 
