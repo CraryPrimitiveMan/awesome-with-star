@@ -38,7 +38,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2224
+- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2225
 - [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web :star:236
 
 ## streams
@@ -63,7 +63,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7450
 
 ## virtual machines
-- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:915
+- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:916
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
 - [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1726

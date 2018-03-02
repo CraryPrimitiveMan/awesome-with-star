@@ -4,7 +4,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8499
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8500
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3768
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
@@ -23,7 +23,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1174
+* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1175
 * [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2478
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor

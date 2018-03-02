@@ -36,12 +36,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7450
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7451
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:98
 - [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI. :star:70
-- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:390
+- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:392
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI. :star:6
 - [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy. :star:27
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.

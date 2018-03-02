@@ -97,7 +97,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:282
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:189
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:190
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -275,7 +275,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:238
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:240
 
 ##### Spin/PVS
 
@@ -364,18 +364,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1546
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1550
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:16
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1059
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2555
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1065
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2565
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:398
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:149
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:64
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:66
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:143
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:347
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:122
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:123
 
 ### License
 
