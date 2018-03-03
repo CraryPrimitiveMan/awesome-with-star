@@ -16,16 +16,16 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:390
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:392
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2765
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell Framework :star:3168
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2766
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell Framework :star:3171
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:697
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:698
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:210
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:246
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:104
@@ -37,5 +37,5 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:46
 * [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:212
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:441
+* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:443
 

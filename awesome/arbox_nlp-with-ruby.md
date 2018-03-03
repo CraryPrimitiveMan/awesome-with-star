@@ -572,7 +572,7 @@ on the code here.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:362
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:363
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -

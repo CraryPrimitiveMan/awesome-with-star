@@ -15,7 +15,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
-- [ixa-pipe-pos](https://github.com/ixa-ehu/ixa-pipe-pos) :star:12
+- [ixa-pipe-pos](https://github.com/ixa-ehu/ixa-pipe-pos) :star:13
 - [Ruby Snowball Implementation](https://github.com/MaG21/estem) :star:3
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
@@ -70,7 +70,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:449
+- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:451
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

@@ -73,7 +73,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Logging
 
 * [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers :star:47
-* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry :star:16
+* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry :star:17
 * [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder :star:13
 
 ### Scheduled/Recurrence Jobs

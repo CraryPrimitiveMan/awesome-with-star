@@ -6,13 +6,13 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27022
+- [Github repository](https://github.com/jashkenas/backbone) :star:27021
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:660
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:659
 
 ## Tutorials and articles
 
@@ -121,9 +121,9 @@
 ## Libraries
 
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2396
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2233
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2232
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1971
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1969
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1698
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1463
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1384

@@ -4,11 +4,11 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8500
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8504
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
-* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3768
+* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3769
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
-* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3576
+* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3577
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) - Made by Voog
@@ -23,8 +23,8 @@ A curated collection of text editing libraries, services, and resources for the 
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1175
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2478
+* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1176
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2477
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor

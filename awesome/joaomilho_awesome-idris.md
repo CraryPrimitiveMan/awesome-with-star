@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2312
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2316
 
 ### Articles
 
@@ -70,7 +70,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:28
 * [idris-http](https://github.com/uwap/idris-http) - HTTP library for Idris. :star:26
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:17
-* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:34
+* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:33
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:16
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:17
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:16

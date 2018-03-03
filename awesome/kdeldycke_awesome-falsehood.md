@@ -189,7 +189,7 @@ intersection of names and gender and internationalisation.
 Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
 Translating a software from English is not as straightforward as it seems to
 be.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word :star:34
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word :star:35
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 A video about things you need to keep in mind when internationalizing your
@@ -219,7 +219,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6578
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6579
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),

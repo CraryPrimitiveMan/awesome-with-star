@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:17662
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:17669
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -69,7 +69,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ###### Gulp
 
-- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:595
+- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:596
 - [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse. :star:567
 - [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets :star:1
 ](https://github.com/dp-lewis/postcss-australian-stylesheets).
@@ -107,12 +107,12 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins by [@mxstbr](https://github.com/mxstbr).
 - [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss by [@azat-io](https://github.com/azat-io). :star:56
 - [poststylus](https://github.com/seaneking/poststylus) - Postcss adapter for stylus by [@seaneking](https://github.com/seaneking). :star:251
-- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io). :star:97
+- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io). :star:98
 - [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal). :star:331
-- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:743
-- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1726
+- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:744
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1728
 - [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn). :star:76
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:409
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:408
 - [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss). :star:67
 - [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000). :star:23
 
