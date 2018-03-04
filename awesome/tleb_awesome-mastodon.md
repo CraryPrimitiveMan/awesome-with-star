@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12260
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12268
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -73,7 +73,7 @@
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python). :star:28
-* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python). :star:22
+* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python). :star:23
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python). :star:30
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.

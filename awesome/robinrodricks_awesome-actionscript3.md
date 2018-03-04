@@ -280,7 +280,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:271
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
-* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
+* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:102
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:63
 * [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:21
@@ -473,7 +473,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sockets
 
-* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:227
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:228
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
 * [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:217
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:35

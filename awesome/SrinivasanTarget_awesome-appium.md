@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Java](https://github.com/appium/java-client) :star:478
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:57
-- [PHP](https://github.com/appium/php-client) :star:31
+- [PHP](https://github.com/appium/php-client) :star:32
 - [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:94
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:159
 
@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:51
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm. :star:54
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:92
-- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:269
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:272
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android. :star:5
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android. :star:5
 

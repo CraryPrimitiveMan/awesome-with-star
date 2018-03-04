@@ -43,7 +43,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
- * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts. :star:252
+ * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts. :star:251
 
   <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="250"/>
 
@@ -99,7 +99,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
 
- * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable. :star:41
+ * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable. :star:42
 
     <space><space><img src="https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067") alt="Example App" width="500"/>
 
@@ -157,14 +157,14 @@ Other amazingly awesome lists can be found in the
  * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. :star:13980
-   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software. :star:4524
+   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. :star:13987
+   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software. :star:4525
  * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
  * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
- * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries. :star:3203
+ * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries. :star:3205
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift. :star:1129
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
- * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. :star:10015
+ * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries. :star:10013
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing

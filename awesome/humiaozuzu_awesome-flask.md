@@ -12,8 +12,8 @@ Resources
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
-    - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask) :star:2993
-    - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd) :star:1047
+    - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask) :star:2995
+    - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd) :star:1048
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
     - [Flask-SQLAlchemy Tutorials and Examples](https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
@@ -50,7 +50,7 @@ Resources
     - [overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices :star:1360
     - [pypress](https://github.com/laoqiu/pypress) - flask team blog :star:524
     - [thepast.me](https://github.com/laiwei/thepast) :star:747
-    - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io :star:361
+    - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io :star:362
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask :star:149
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine :star:90
     - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB :star:1804
@@ -58,11 +58,11 @@ Resources
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io :star:156
     - [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files :star:515
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas :star:69
-    - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework :star:152
-    - [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines. :star:7330
+    - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework :star:153
+    - [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines. :star:7336
     - [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis :star:794
     - [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system. :star:763
-    - [security_monkey](https://github.com/Netflix/security_monkey.git) - monitors policy changes and alerts on insecure configurations in an AWS account. :star:2251
+    - [security_monkey](https://github.com/Netflix/security_monkey.git) - monitors policy changes and alerts on insecure configurations in an AWS account. :star:2324
     - [securedrop](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
     - [sync_engine](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs :star:3435
     - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System :star:32
@@ -70,7 +70,7 @@ Resources
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone) :star:1475
     - [flask-base](https://github.com/notedit/flask-base) :star:107
-    - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask) :star:1704
+    - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask) :star:1705
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic) :star:27
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) :star:1103
     - [Flask-Empty](https://github.com/italomaia/flask-empty) :star:323
@@ -82,24 +82,24 @@ Plugins
 -------
 
 - Framework
-    - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support :star:1131
+    - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support :star:1132
     - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework :star:215
     - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more :star:607
     - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine :star:417
-    - [Eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions :star:4785
-    - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models :star:852
-    - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs :star:3452
-    - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful. :star:787
+    - [Eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions :star:4786
+    - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models :star:853
+    - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs :star:3454
+    - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful. :star:788
     - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy :star:408
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade :star:241
-    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs :star:655
-    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support :star:445
+    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs :star:656
+    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support :star:446
 - Admin
-    - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask :star:2733
+    - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask :star:2736
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy :star:559
 - Authentication
     - [Flask-Security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications :star:1097
-    - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management :star:1643
+    - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management :star:1644
     - [Authomatic](https://github.com/peterhudec/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
     - [flask-googlefed](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask :star:56
     - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications :star:183
@@ -110,11 +110,11 @@ Plugins
     - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way :star:66
     - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask :star:519
     - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes :star:444
-    - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask :star:593
+    - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask :star:594
 - Authorization
     - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit](https://github.com/elabs/pundit) gem that provides easy way to organize access control for your models :star:12
 - Database/ORM/ODM
-    - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support :star:508
+    - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support :star:509
     - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications :star:382
     - [Flask-MongoAlchemy](https://github.com/cobrateam/flask-mongoalchemy) - Flask support for MongoDB using MongoAlchemy :star:157
     - [Flask-MongoKit](https://github.com/jarus/flask-mongokit) - Flask-MongoKit simplifies the use of MongoKit (a powerful MongoDB ORM for Python) within Flask applications :star:68
@@ -192,7 +192,7 @@ Plugins
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier :star:32
     - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage :star:3
 - Development (Debugging/Testing/AB Testing)
-    - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask :star:367
+    - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask :star:368
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask :star:349
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar :star:44
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask :star:621
@@ -204,8 +204,8 @@ Plugins
     - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application :star:95
     - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites :star:124
     - [Flask-Bcrypt](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application :star:200
-    - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more :star:1412
-    - [Mixer](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models :star:473
+    - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more :star:1413
+    - [Mixer](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models :star:474
     - [FlaskEx](https://github.com/sungmin-park/FlaskEx) - Predefined help libraries for Flask
     - [mimerender](https://github.com/martinblech/mimerender) - Python module for RESTful HTTP Content Negotiation :star:167
     - [Flask-Classy](https://github.com/apiguy/flask-classy) - Class based views for Flask :star:485
@@ -214,9 +214,9 @@ Plugins
     - [Flask-FeatureFlags](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration :star:91
     - [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes :star:26
     - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes :star:42
-    - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications :star:2146
+    - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications :star:2147
     - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js :star:183
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask :star:139
     - [Flask-CORS](https://github.com/corydolphin/flask-cors) - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible :star:366
-    - [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application :star:41
+    - [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application :star:42
 

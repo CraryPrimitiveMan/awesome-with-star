@@ -50,7 +50,7 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13110
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13112
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1181
 - [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4463
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
@@ -62,11 +62,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:210
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:212
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4529
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4532
 
 [More...](https://testanything.org/producers.html)
 

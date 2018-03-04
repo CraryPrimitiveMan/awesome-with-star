@@ -368,7 +368,7 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1122
+* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1123
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.

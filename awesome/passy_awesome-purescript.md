@@ -36,8 +36,8 @@
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:176
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:176
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:177
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:177
 
 ## Effect Management
 

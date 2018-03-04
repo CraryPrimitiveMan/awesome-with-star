@@ -156,7 +156,7 @@
 
 ## Libraries Audio
 
-- [web-audio-analyser](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return. :star:165
+- [web-audio-analyser](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return. :star:164
 - [web-audio-player](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player. :star:160
 - [web-media-playback](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser. :star:6
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.

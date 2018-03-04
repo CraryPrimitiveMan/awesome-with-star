@@ -46,6 +46,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
 - [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
 - [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
+- [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 
 ## Gerber Viewers
 
@@ -83,7 +84,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:804
-- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1137
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1138
 
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
