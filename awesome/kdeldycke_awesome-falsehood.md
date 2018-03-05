@@ -91,7 +91,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management :star:204
+- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management :star:205
 library.
 
 
@@ -219,7 +219,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6581
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6586
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -243,7 +243,7 @@ Why regular expressions and street addresses do not mix.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:307
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:568
+- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:569
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:78
 module to parse, normalize and render postal addresses.

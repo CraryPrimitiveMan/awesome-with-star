@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:38829
+- [Rails Source Code](https://github.com/rails/rails) :star:38835
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -77,7 +77,7 @@
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:352
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [Live](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc   :star:2340
+- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc   :star:2343
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [Live](https://catarse.me/)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [Live](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
@@ -115,7 +115,7 @@
 - [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com)
 - [leihs](https://github.com/leihs/leihs) - An easy inventory handling system   :star:61
 - [listenup](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com)
-- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site   :star:1603
+- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site   :star:1602
 - [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making tool that makes it easy for anyone [Live](https://www.loomio.org)
 - [Mastodon](https://github.com/tootsuite/mastodon) - GNU Social-compatible microblogging server [Live](https://mastodon.social)
 - [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [Live](http://mumuki.io)
@@ -133,10 +133,10 @@
 - [people](https://github.com/netguru/people) - Manage people within the projects :star:54
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area :star:47
 - [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype   :star:121
-- [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails :star:1719
+- [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails :star:1720
 - [quant](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker :star:133
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [Live](http://racingonrails.rocketsurgeryllc.com)
-- [RapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations :star:289
+- [RapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations :star:290
 - [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [Live](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails :star:59
 - [reservations](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (allows student reservations) [Live](http://yalestc.github.io/reservations)
@@ -150,7 +150,7 @@
 - [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:288
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:190
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:192
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -204,7 +204,7 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1162
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1163
 
 #### Generators
 
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4812
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1012
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4813
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1011
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2377
 

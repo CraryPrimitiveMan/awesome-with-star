@@ -59,14 +59,14 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6412
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6415
 - [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:1946
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2285
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2284
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:85
 - [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1689
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:52
@@ -82,7 +82,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:431
+- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:432
 
 ## Other Utilities
 
@@ -95,7 +95,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 ## Miscellaneous
 
 - [screwy](https://github.com/samueleaton/screwy) - The npm scripts GUI. :star:88
-- [Forrest](https://github.com/stefanjudis/forrest) - npm scripts desktop client. :star:249
+- [Forrest](https://github.com/stefanjudis/forrest) - npm scripts desktop client. :star:250
 - [run-npm](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts. :star:161
 - [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name. :star:66
 - [edit-script](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping. :star:4

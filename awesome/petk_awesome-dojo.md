@@ -37,7 +37,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
-* [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines :star:153
+* [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines :star:152
 * [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition :star:4
 
 
@@ -58,7 +58,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:150
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:389
-* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:183
+* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:182
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:16
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS :star:20
 
@@ -67,7 +67,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Packages, libraries and scripts
 
-* [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets :star:36
+* [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets :star:35
 * [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure :star:73
 * [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library :star:72
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23202
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23207
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:29
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13457
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13468
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:86
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:79338
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1058
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:79410
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1062
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4812
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4813
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:102
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:156
 

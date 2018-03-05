@@ -106,7 +106,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2728
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:847
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:848
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -114,7 +114,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) -
   That will make it simpler to have a secure authentication policy with an easy
   to use backend.
-* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:43
+* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:44
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
@@ -195,7 +195,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:290
   library.
-* [colander](https://github.com/Pylons/colander) - A :star:316
+* [colander](https://github.com/Pylons/colander) - A :star:317
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:770

@@ -104,7 +104,7 @@ A curated list of awesome HBase projects and resources.
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:142
 * [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:292
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
-* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:173
+* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:174
 
 ### Integrations
 
@@ -132,7 +132,7 @@ A curated list of awesome HBase projects and resources.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
 * [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:158
-* [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:107
+* [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:108
 * [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 

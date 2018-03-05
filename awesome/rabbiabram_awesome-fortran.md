@@ -25,7 +25,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Contributing](#contributing)
 
 ## Functional Libraries
-* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:155
+* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:156
 
 
 ## Graphics Libraries
@@ -106,7 +106,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Automatic documentation
 *Libraries for building documentation.*
 
-* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:119
+* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:120
 
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*
