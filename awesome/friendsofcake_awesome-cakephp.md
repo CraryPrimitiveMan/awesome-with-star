@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18075
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20867
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18079
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20876
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -205,8 +205,8 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:74
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:506
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:866
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:507
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:867
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:52
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
@@ -224,7 +224,7 @@ Additional lists you might find useful:
 *Plugins and resources around migration and upgrading.*
 
 - [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin. :star:81
-- [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x. :star:73
+- [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x. :star:74
 - [Upgrade app (extended)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x and between 3.x. :star:10
 - [Upgrade/Migration Guide](http://book.cakephp.org/3.0/en/appendices.html) - Official migration guide.
 
@@ -291,7 +291,7 @@ Additional lists you might find useful:
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:304
+- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:303
 
 ## Queue
 *Plugins for working with event and task queues.*
@@ -318,11 +318,11 @@ Additional lists you might find useful:
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
 
-- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend. :star:60
+- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend. :star:61
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern. :star:18
-- [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications. :star:93
+- [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications. :star:94
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes. :star:3
-- [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+- [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records. :star:1
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
@@ -345,7 +345,7 @@ Additional lists you might find useful:
 ## Skeleton
 *Plugins and repositories around app skeletons.*
 
-- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:190
+- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:189
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer. :star:14
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:295
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin. :star:8
@@ -362,7 +362,7 @@ Additional lists you might find useful:
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
 - [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality. :star:53
-- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS. :star:32
+- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS. :star:31
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration. :star:246
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files. :star:21
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions. :star:6
@@ -372,7 +372,7 @@ Additional lists you might find useful:
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) - A plugin to convert HTML style blocks to inline CSS on a View template (intended for use with email templates). :star:7
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views. :star:3
-- [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy. :star:5
+- [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy. :star:6
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags. :star:17
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views. :star:64
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos. :star:3
@@ -407,10 +407,10 @@ Additional lists you might find useful:
 - [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console. :star:123
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments. :star:4
-- [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:17
+- [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:18
 - [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:37
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+. :star:39
-- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:109
+- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:108
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE. :star:4
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.

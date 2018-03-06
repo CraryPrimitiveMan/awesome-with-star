@@ -116,7 +116,7 @@
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer. :star:6
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:10
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:17
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code. :star:223
+* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code. :star:224
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:35
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype. :star:26
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
@@ -160,7 +160,7 @@
 * [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - A Framer module for Gamepad-driven UI prototypes. :star:7
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:47
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:48
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.

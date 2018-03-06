@@ -63,7 +63,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gbdev Discord Server](https://discord.gg/gpBxq85)
 - [`#gbdev` on EFnet](http://chat.efnet.org/?channels=gbdev) - IRC channel.
 - [gbdev.gg8.se Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
-- [devrs.com/gb](http://devrs.com/gb) - Jeff Frohwein’s page: old home of the scene, a lot was posted here: code examples and full sources, complete documentation, guides and tutorials, various tools.
+- [devrs.com/gb](http://devrs.com/gb) - Old home of the scene, a lot was posted here: code examples and full sources, complete documentation, guides and tutorials, various tools.
 
 
 ## Documentation
@@ -166,7 +166,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:524
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:64
 - [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:92
-- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:100
+- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:102
 - [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:121
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:5
@@ -187,27 +187,35 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:40
 - [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:247
-- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1030
+- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1032
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:12
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:19
 - [SmartGear](https://github.com/bitbank2/sg_free) - C++, SDL2. Focus on optimized performance for resource-limited devices. GTK or direct framebuffer build. :star:6
-- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly :star:35
+- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly. :star:37
 - [gameboycore](https://github.com/nnarain/gameboycore) - C++ emulation backend. Dependency free C++11 library. :star:5
- 
+- [Gambattye](https://github.com/Ben10do/Gambattye) - macOS, powered by a fork of Gambatte. :star:2
+
+
 ## Software Development
 
 ### Assemblers
 
 - [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:326
 - [wla-dx](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package. :star:199
+
+#### Experimentals/Proof of Concepts
 - [gbasm](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code. :star:107
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift. :star:94
+- [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) - LLVM port to the GBZ80 CPU (similar [project](https://github.com/euclio/llvm-gbz80), deprecated). :star:4
+ 
 
 ### Compilers
 - [The Game Boy Developer's Kit (GBDK)](http://gbdk.sourceforge.net/) - A set of tools that enable to develop programs for the Nintendo Game Boy system in **C**. Includes a set of libraries for the most common requirements and generates image files for use with a real Game Boy.
 - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) - Patched GBDK 2.96a for the latest compilers on OS X. :star:18
+- [clang-gbz80](https://github.com/Bevinsky/clang-gbz80) - Clang port to the GBZ80 CPU. :star:7
+
 
 ### Emulators
 
@@ -307,7 +315,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### ASM
 
-- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:119
+- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:120
 - [Tuff](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
@@ -399,7 +407,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter. :star:6
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware. :star:5
 - [gbcpu](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality. :star:2
-- [llvm-gbz80](https://github.com/euclio/llvm-gbz80) - LLVM with a Game Boy Z80 Assembly Backend. :star:5
+- [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
 ### Directories
 

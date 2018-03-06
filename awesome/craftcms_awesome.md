@@ -107,7 +107,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### SEO
 - [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:366
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:92
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:93
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:162
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -133,7 +133,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:249
+- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:250
 - [Template Select](https://superbig.co/plugins/template-select) - Lets you select templates from your entry.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) - Simple address field. :star:29
 
@@ -154,7 +154,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups. :star:49
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:206
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:207
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data. :star:8
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
@@ -164,7 +164,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### Forms
-- [amforms](https://github.com/am-impact/amforms) - Forms in Craft, made easy. :star:121
+- [amforms](https://github.com/am-impact/amforms) - Forms in Craft, made easy. :star:122
 - [Contact Form](https://github.com/craftcms/contact-form/tree/v1) - Add a simple contact form to your site. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 - [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) - Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them. :star:118
 - [Formerly](https://github.com/xodigital/Formerly) - Create custom forms. :star:57
@@ -197,7 +197,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Facebook](https://dukt.net/facebook) - Facebook Insights widget for the dashboard.
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
 - [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:110
-- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:98
+- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:99
 - [Pushover](https://superbig.co/plugins/pushover) - Send messages to Pushover.
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) - Allow a Craft user to be logged in to Shopify through Multipass.
@@ -278,7 +278,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:74
-- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:112
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:113
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:99
@@ -330,7 +330,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:193
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:114
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:177
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:178
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 
 

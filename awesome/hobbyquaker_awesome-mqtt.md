@@ -71,7 +71,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [imqtt](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython. :star:18
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) - A benchmarking tool for MQTT Servers. :star:117
-* [mqttcli](https://github.com/shirou/mqttcli) - MQTT Client for shell scripting. :star:54
+* [mqttcli](https://github.com/shirou/mqttcli) - MQTT Client for shell scripting. :star:55
 * [mqtt-forget](https://github.com/hobbyquaker/mqtt-forget) - Command line tool to remove retained MQTT topics by wildcard.
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) - A simple fuzzer for the MQTT protocol. :star:34
 * [MQTT.fx](http://mqttfx.jfx4ee.org/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho. Supports scripting.
@@ -87,20 +87,20 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ### Clients
 
-* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift. :star:615
+* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift. :star:617
 * [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client. :star:109
-* [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift. :star:190
+* [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift. :star:191
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio. :star:277
 * [Hulaaki](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers. :star:94
 * [Machine Head](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client. :star:50
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - A MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
 * [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP. :star:240
 * [mqtt-client](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js). :star:12
-* [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework. :star:981
+* [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework. :star:983
 * [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) - Dart mqtt client. :star:11
 * [mqtt-elements](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT. :star:21
 * [mqttex](https://github.com/alfert/mqttex) - MQTT implementation in Elixir. :star:40
-* [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS. :star:388
+* [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS. :star:389
 * [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio. :star:44
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) - MQTT Client library for the Lua language.
 * [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js.
@@ -127,7 +127,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Makers
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) - Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker. :star:9
-* [Basecamp](https://github.com/merlinschumacher/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/ct/ausgabe/2018-2-Sechs-IoT-Projekte-flexibel-und-ohne-Cloud-3930050.html). :star:158
+* [Basecamp](https://github.com/merlinschumacher/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/ct/ausgabe/2018-2-Sechs-IoT-Projekte-flexibel-und-ohne-Cloud-3930050.html). :star:159
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266. :star:818
 * [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO. :star:62
 * [MySensors](https://www.mysensors.org/) - Arduino NRF24L01 based sensor network with support for an MQTT gateway
@@ -156,7 +156,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals. :star:6
 * [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin. :star:4
 * [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker. :star:16
-* [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT. :star:19
+* [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT. :star:20
 * [WinThing](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT. :star:13
 
 
@@ -183,7 +183,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Home Hardware Interfaces
 
-* [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) - Aqara (Xiaomi) Gateway to MQTT bridge. :star:55
+* [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) - Aqara (Xiaomi) Gateway to MQTT bridge. :star:56
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT. :star:1
 * [domiqtt](https://github.com/etobi/domiqtt) - Connects to a Domiq Base (LCN) and translate from and to MQTT. :star:1
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT. :star:5
@@ -286,11 +286,11 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [HelloIoT](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application. :star:6
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization. :star:6
 * [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client. :star:28
-* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED. :star:361
+* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED. :star:362
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt) - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them. :star:8
 * [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - Plotting live numbered data from a subscribed mqtt topic using Highcharts. :star:42
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
-* [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT. :star:180
+* [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT. :star:181
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page. :star:41
 * [thingsboard](https://thingsboard.io/) - Device management, data collection, processing and visualization for your IoT projects.
 
@@ -299,7 +299,7 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 
 ### Architecture, Convention
 
-* [Homie](https://github.com/marvinroger/homie) - A lightweight MQTT convention for the IoT. :star:305
+* [Homie](https://github.com/marvinroger/homie) - A lightweight MQTT convention for the IoT. :star:306
 * [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal. :star:168
 
 

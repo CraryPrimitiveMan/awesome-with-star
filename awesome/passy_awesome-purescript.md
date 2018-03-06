@@ -5,7 +5,7 @@
 
 ## Build Tooling
 
-- [pulp](https://github.com/bodil/pulp) :star:381
+- [pulp](https://github.com/bodil/pulp) :star:382
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:37
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
@@ -20,7 +20,7 @@
 
 ## UI Libraries
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:293
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:294
 - [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:690
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS. :star:55

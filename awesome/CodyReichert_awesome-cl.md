@@ -125,7 +125,7 @@ Compilers, code generators
 C, C++
 ------
 
-* [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT][200]. :star:630
+* [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT][200]. :star:631
 * [C-mera](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3][2]. :star:169
 * [lispc](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT][200]. :star:384
 
@@ -138,7 +138,7 @@ Crypto
 ======
 
 * [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [Artistic License 2.0][51]. :star:11
-* [Ironclad](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat][14]. :star:5
+* [Ironclad](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat][14]. :star:6
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat][14]. :star:18
 
 Cryptocurrencies
@@ -161,11 +161,11 @@ Database
 * [cl-sqlite](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain. :star:33
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
 * [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
-* [crane](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14]. :star:168
+* [crane](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14]. :star:167
 * [datafly](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15]. :star:62
 * [mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8]. [mitho-auth](https://github.com/fukamachi/mito-auth), a mixin class for use authorization; [mito-attachment](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS. :star:59
 * [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
-* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1429
+* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1430
 * [sxql](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15]. :star:111
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (see also chap. 21 of "Common Lisp Recipes")
 * [elephant](https://common-lisp.net/project/elephant/) - Elephant is a persistent object database for Common Lisp with full transaction semantics. [LLGPL][8].
@@ -255,7 +255,7 @@ GUI
 
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/) - Binding for GTK+3. [GNU LGPL2.1][11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL][8]. :star:37
-* [cl-xul](https://github.com/mmontone/cl-xul) - Mozilla XUL bindings. [Expat][14]. :star:30
+* [cl-xul](https://github.com/mmontone/cl-xul) - Mozilla XUL bindings. [Expat][14]. :star:29
 * [CommonQt](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD][39]. :star:69
 * [Qtools](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [Artistic License 2.0][51]
 * [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL][8] or [GNU LGPL2.1][11].
@@ -289,7 +289,7 @@ JSON
 Language extensions
 ===================
 
-* [cl21](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14]. :star:682
+* [cl21](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14]. :star:681
 * [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 * [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
@@ -329,7 +329,7 @@ CLOS extensions
 Non-deterministic, logic programming
 ------------------------------------
 
-* [Screamer](https://github.com/nikodemus/screamer) - augment Common :star:114
+* [Screamer](https://github.com/nikodemus/screamer) - augment Common :star:115
   Lisp with practically all of the functionality of both Prolog and
   constraint logic programming
   languages. [MIT][200]. [Screamer+](https://github.com/ysz/screamer-plus) -
@@ -407,7 +407,7 @@ Advanced
 Library Manager
 ===============
 
-* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:721
+* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:720
 * [qlot](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14]. :star:127
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15]. :star:61
@@ -451,10 +451,10 @@ HTTP clients
 
 HTTP Servers
 ------------
-* [Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). :star:665
+* [Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). :star:667
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8]. :star:83
-* [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14]. :star:145
+* [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14]. :star:146
 * [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200]. :star:612
 
 ### Clack plugins
@@ -470,7 +470,7 @@ HTTP Servers
 
 Web frameworks
 --------------
-* [Caveman](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8]. :star:468
+* [Caveman](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8]. :star:467
   Example projects: [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web) - Framework for building modern web apps. [Expat][14]. :star:33
 * [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200]. :star:145
@@ -523,7 +523,7 @@ Javascript
 
 * [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5]. :star:221
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
-* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:418
+* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:417
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
 * [SmackJack](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200]. :star:9
@@ -563,7 +563,7 @@ Third-party APIs
 Others
 ------
 
-* [cl-closure-template](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL][8]. :star:66
+* [cl-closure-template](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL][8]. :star:65
 * [colleen](https://github.com/Shinmera/colleen) - IRC bot with a modular framework. [Artistic License 2.0][51]. :star:28
 * [css-lite](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14]. :star:53
 * [Postmaster](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14]. :star:3
@@ -639,7 +639,7 @@ Scripting
 * [cl-ansi-term](https://github.com/vindarel/cl-ansi-term) - print :star:8
   colorized text, horizontal lines, progress bars, (un)ordered lists
   and tables on ANSI-compliant terminals. [GPL3][2].
-* [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - an :star:56
+* [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - an :star:57
   interface to `libcurses` in Common Lisp. It provides both a raw,
   low-level interface to libcurses via CFFI, and a more higher-level
   lispier interface. [MIT][200].
@@ -686,7 +686,7 @@ This contains plugins and other goodies for various text editors.
 
 ## Notebooks ##
 
-* [cl-jupyter](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE). :star:116
+* [cl-jupyter](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE). :star:117
 * [Darkmatter](https://github.com/tamamu/darkmatter) - A :star:285
   notebook-style Common Lisp environment. [MIT][200].
 
@@ -834,7 +834,7 @@ Plotting
 * [vgplot](https://github.com/volkers/vgplot) - an interface to the :star:18
   gnuplot plotting utility with the intention to resemble some of
   the plot commands of octave or matlab. [GPL3][2].
-* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - a :star:18
+* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - a :star:19
   lispy, structure-less Gnuplot library. With its
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL][8]
 
@@ -854,7 +854,7 @@ This contains anything which doesn't fit into another category.
 * [iolib](https://github.com/sionescu/iolib) - I/O library. [Expat][14]. :star:107
 * [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified. :star:22
 * [named-readtables](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15]. :star:15
-* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1234
+* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1240
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39]. :star:4
 * [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].

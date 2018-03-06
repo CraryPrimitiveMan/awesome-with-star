@@ -62,7 +62,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### MVC Frameworks
 
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:119
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:982
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:983
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:29
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
 * [Somacore](https://github.com/soundstep/somacore_framework) - Lightweight event-based AS3 MVC framework. :star:22
@@ -607,9 +607,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
 
 #### Networking ANE
-* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:32
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:33
 * [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:2
-* [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:21
+* [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:22
 
 #### Hardware ANE
 * [Bluetooth](https://github.com/myflashlab/bluetooth-ANE) - Scan for other devices, connect to and pair with them and transfer data between them. :star:5

@@ -363,7 +363,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2025
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2029
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -384,7 +384,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:112
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1284
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1286
 
 
 **MINDMAP HTML**
@@ -393,7 +393,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:579
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1284
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1286
 
 
 ### Concept Map and Diagrams
@@ -441,7 +441,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1476
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:599
-* [hovercraft](https://github.com/regebro/hovercraft) :star:970
+* [hovercraft](https://github.com/regebro/hovercraft) :star:971
 
 
 
@@ -455,8 +455,8 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39169
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4328
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39183
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4329
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1495
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:692
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5249
@@ -553,6 +553,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 * [Meta](https://meta.science/): Find the latest papers related to your own projects.
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
+* [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
 
 ### Get Yourself A Citable Code for Anything

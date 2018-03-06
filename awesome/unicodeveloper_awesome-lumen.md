@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5399
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5402
 
 
 ## Tutorials
@@ -58,16 +58,16 @@
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:135
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:620
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:195
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7147
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7151
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:83
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:117
 * [Lumen Make](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen.  :star:15
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework. :star:36
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2. :star:34
-* [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers. :star:65
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:292
-* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:242
+* [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers. :star:66
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework. :star:291
+* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen. :star:243
 
 
 ## Made With Lumen

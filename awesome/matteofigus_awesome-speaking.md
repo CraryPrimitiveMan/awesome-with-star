@@ -27,13 +27,13 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:154
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:155
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:79418
+* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:79495
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot** :star:126
 * [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:468
 

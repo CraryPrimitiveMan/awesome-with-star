@@ -50,10 +50,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:182
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:67
-* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:138
+* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:139
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:72
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework :star:6
-* [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:37
+* [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:38
 
 ## Rich Application
 
@@ -64,11 +64,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:245
 * [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:110
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
-* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:365
+* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:364
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1838
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:844
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1839
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:845
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:8
 
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2487
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2488
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

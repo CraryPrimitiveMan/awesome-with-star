@@ -92,10 +92,10 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:48
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components :star:1
-- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:29
+- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:30
 - [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:4
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
-- [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:171
+- [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:170
 - [Fuse Taptic-Feedback](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine. :star:1
 - [fuse.QrScanner](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode. :star:2
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase. :star:14

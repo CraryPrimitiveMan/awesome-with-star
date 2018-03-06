@@ -64,7 +64,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 
 # Ecosystem
 ## Libraries & Packages
-- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`. :star:955
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`. :star:956
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay) - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases. :star:560
   - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65) - A well-articulated walk through of `react-router-relay`, and the problems that it solves.
@@ -83,28 +83,28 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc. :star:274
 
 ## Tooling
-- [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations. :star:5139
-  - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app. :star:1250
+- [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations. :star:5143
+  - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app. :star:1253
 - [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server. :star:196
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
 ## Starter Kits
 - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton. :star:122
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs! :star:1056
-- [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay :star:1365
-- [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit). :star:157
-- [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) :star:549
+- [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay :star:1370
+- [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit). :star:158
+- [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) :star:550
 Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
 - [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak! :star:40
 - [Relay Fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS. :star:898
 
 # Relay-Specific Server Support
 ## Go
-- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay. :star:238
+- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay. :star:239
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend. :star:51
 
 ## JavaScript
-- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`. :star:955
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`. :star:956
 
 ## Python
 - [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`. :star:98
