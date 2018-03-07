@@ -58,7 +58,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:150
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:389
-* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:182
+* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:181
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:16
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS :star:20
 
@@ -121,7 +121,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Websphere](http://www-03.ibm.com/software/products/en/appserv-was) - Application server has Dojo integrated
 * Node.js
     * [dojo-node](https://github.com/agebrock/dojo-node) - Lightwave Dojo wrapper for Node.js :star:8
-    * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS :star:13
+    * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS :star:12
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
 * PHP
     * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo :star:4
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23215
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23223
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:30
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13482
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13493
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:86
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:79492
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1062
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:79592
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1064
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4814
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4816
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:102
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:157
 

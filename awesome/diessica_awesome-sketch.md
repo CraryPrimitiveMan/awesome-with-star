@@ -70,8 +70,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4172
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:1007
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5410
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:1011
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5414
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1095
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
@@ -80,13 +80,13 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow](https://github.com/abynim/UserFlows) :star:1259
+- [User Flow](https://github.com/abynim/UserFlows) :star:1260
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency) :star:114
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2886
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2887
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).
