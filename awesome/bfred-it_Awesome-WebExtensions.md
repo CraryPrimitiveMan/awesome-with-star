@@ -76,7 +76,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:317
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:182
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3646
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:3668
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1093
 
 ## License

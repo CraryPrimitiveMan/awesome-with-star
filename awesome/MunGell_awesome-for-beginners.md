@@ -9,6 +9,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
+If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
+
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
@@ -91,7 +93,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
-- [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
+- [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue) _(label: good first issue)_ <br> The official React integration for Semantic UI.
 - [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
 - [Atom](https://github.com/atom/atom/labels/beginner) _(label: beginner)_ <br> The hackable text editor
@@ -165,7 +167,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 ## TypeScript
 
-- [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
+- [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>An extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 

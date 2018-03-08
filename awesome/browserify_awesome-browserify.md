@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1692
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1693
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:775
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:237
 
@@ -93,20 +93,20 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### CSS bundlers
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:389
-- [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:252
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:392
+- [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:253
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:393
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1504
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1505
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:191
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:515
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:291
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:292
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:51
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:526
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:525
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools

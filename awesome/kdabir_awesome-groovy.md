@@ -61,19 +61,19 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:245
+* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:246
 * [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:110
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:364
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1839
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:845
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1840
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:846
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:8
 
 ## Concurrency
-* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:171
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:172
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:135
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2488
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2493
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

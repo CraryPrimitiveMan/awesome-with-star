@@ -204,7 +204,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) - Allow a Craft user to be logged in to Shopify through Multipass.
 - [Slack Notifications](https://superbig.co/plugins/slack-notifications) - Send notifications to Slack when someone places an order, a entry is created, or something else happens.
-- [Splash](https://github.com/ethercreative/splash) - Quickly and easily get beautiful Unsplash images in Craft. :star:11
+- [Splash](https://github.com/ethercreative/splash) - Quickly and easily get beautiful Unsplash images in Craft. :star:12
 - [Splashing Images](https://github.com/studioespresso/craft-unsplash) - Brings amazing photos to your fingertips with Unsplash integration. :star:14
 - [Twitter](https://dukt.net/twitter) - Tweet field, search widget, and authenticated Twitter API requests.
 - [Uptime Robot](https://superbig.co/plugins/uptime-robot) - Integrates with Uptime Robot to monitor the health of your Craft site.
@@ -222,10 +222,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Twig
 - [Fetch](https://github.com/netliferesearch/craft-fetch) - Relays PHP's `file_get_contents()` to return contents in raw format. Useful for embedding external svg code inline. :star:17
-- [Filter Environment Variables](https://github.com/lindseydiloreto/craft-filterenvvar) - Replace environment variable strings in your Twig variables. :star:15
+- [Filter Environment Variables](https://github.com/lindseydiloreto/craft-filterenvvar) - Replace environment variable strings in your Twig variables. :star:16
 - [Hacksaw](https://github.com/ehousestudio/craft_hacksaw) - Simple text truncation. Strips the HTML and limits the excerpts by character count, word count, or cutoff marker. :star:93
 - [Image Color](https://github.com/familiar-studio/craft-image-color) - Grabs the most prominate colors from any image asset using a twig filter on an assets object. :star:28
-- [Inflect](https://github.com/lukeholder/craft-inflect) - Several Twig filters to transform the inflection of strings. :star:39
+- [Inflect](https://github.com/lukeholder/craft-inflect) - Several Twig filters to transform the inflection of strings. :star:40
 - [PathTools](https://github.com/nystudio107/pathtools) - Brings convenient path & url manipulation functions & filters to your Twig templates. :star:19
 - [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) - Collection of Twig filters for rewriting HTML content. :star:86
 - [Similar](https://github.com/aelvan/Similar-Craft) - Queries similar elements based on elements they are related to. :star:33
@@ -283,7 +283,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:113
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
-- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:100
+- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:101
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
  
  
@@ -303,13 +303,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) - Easily manage custom advertisements on your website.
 - [Anchors](https://github.com/craftcms/anchors) - Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 - [Boris](https://github.com/webdna/boris) - Make your entries invincible! Protect them from being deleted. :star:12
-- [Cookies](https://github.com/nystudio107/cookies) - Simple plugin for setting and getting secure cookies from within templates.
+- [Cookies](https://github.com/nystudio107/cookies) - Simple plugin for setting and getting secure cookies from within templates. :star:68
 - [Country Redirect](https://superbig.co/plugins/country-redirect) - Easily redirect visitors to a locale based on their country of origin.
 - [Craft Help](https://github.com/70kft/craft-help) - Allows developers to provide CMS documentation to their clients directly inside the control panel. :star:76
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:61
 - [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:23
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:33
-- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:49
+- [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:50
 - [Large Upload](https://superbig.co/plugins/large-upload) - Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Printmaker](https://craftpl.us/plugins/printmaker) - Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
 - [Rich Variables](https://github.com/nystudio107/richvariables) - Allows you to easily use Globals as variables in Rich Text fields. :star:44
@@ -329,10 +329,10 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:58
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:133
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:81
-- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:194
+- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:196
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:114
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:178
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:179
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
 - [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
 

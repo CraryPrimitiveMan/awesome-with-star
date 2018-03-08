@@ -86,6 +86,7 @@ Pull requests are more then welcome.
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
 
 #### Hosted Tools
 ###### Clients
@@ -106,6 +107,7 @@ Pull requests are more then welcome.
 ###### Visualizations
 - [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
 - [Ripple Live (GateHub)](https://gatehub.net/live)
+- [Rich list, ledger stats & XRP distribution](https://ledger.exposed)
 
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
@@ -126,6 +128,7 @@ Pull requests are more then welcome.
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
 - [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
+- [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
 #### Codius
 - [Codius Website](https://codius.org/)
