@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11807
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4204
-- [Repo](https://github.com/substack/node-browserify) :star:11807
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11809
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4203
+- [Repo](https://github.com/substack/node-browserify) :star:11809
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -87,18 +87,18 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1677
+- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1678
 - [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:76
 
 ### CSS bundlers
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:389
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:253
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:393
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:394
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1505
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1506
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:191
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:515
 
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:916
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:917
 
 ## Contributing
 

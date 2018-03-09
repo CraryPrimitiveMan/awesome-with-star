@@ -19,20 +19,20 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable) :star:1686
+- [Overview](https://github.com/zenparsing/es-observable) :star:1687
 - [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
 
 - [zen-observable](https://github.com/zenparsing/zen-observable) :star:344
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:11062
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:11080
 
 
 ## Packages
 
-- [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill. :star:40
-- [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable. :star:21
+- [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill. :star:41
+- [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable. :star:22
 - [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise. :star:24
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable. :star:56
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:78

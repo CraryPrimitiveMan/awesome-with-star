@@ -5,7 +5,7 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 
 Pull requests very welcome.
 
-* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion) :star:55
+* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion) :star:54
 	* [Engines](#engines)
 	* [Application Frameworks](#application-frameworks)
 	* [Testing](#testing)
@@ -29,7 +29,7 @@ Pull requests very welcome.
 
 ## Application Frameworks
 
-* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:177
+* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:178
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:358
@@ -39,7 +39,7 @@ Pull requests very welcome.
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:72
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:85
+* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:86
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:23
 
