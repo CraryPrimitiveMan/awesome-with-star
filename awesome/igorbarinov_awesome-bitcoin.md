@@ -55,21 +55,21 @@ List of content
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Blockr](https://blockr.io)
-* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer) :star:101
-* [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php) :star:166
+* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer) :star:102
+* [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php) :star:165
 * [Smartbit](https://www.smartbit.com.au)
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:29
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:361
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2457
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:363
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2462
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:104
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:36
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
 # PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:51
-* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:31
+* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:32
 
 # Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:764
@@ -114,7 +114,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8347
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8363
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

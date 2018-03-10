@@ -24,7 +24,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tools
 
-- [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests. :star:105
+- [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests. :star:106
 
 
 ## Modules

@@ -35,36 +35,36 @@ Made with Electron.
 
 ###### Featured
 
-- [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols. :star:3054
-- [Hyper](https://github.com/zeit/hyper) - Terminal. :star:21602
-- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client. :star:4718
-- [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support. :star:8273
-- [Min](https://github.com/minbrowser/min) - Minimal web browser. :star:2364
-- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL. :star:2482
-- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization. :star:755
-- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client. :star:590
-- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar. :star:1791
-- [Playback](https://github.com/mafintosh/playback) - Video player. :star:1723
-- [Upterm](https://github.com/railsware/upterm) - Terminal. :star:18174
-- [Atom](https://github.com/atom/atom) - Code editor. :star:43795
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE. :star:45518
-- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser. :star:6984
+- [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols. :star:3058
+- [Hyper](https://github.com/zeit/hyper) - Terminal. :star:21613
+- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client. :star:4724
+- [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support. :star:8286
+- [Min](https://github.com/minbrowser/min) - Minimal web browser. :star:2365
+- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL. :star:2483
+- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization. :star:756
+- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client. :star:591
+- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar. :star:1793
+- [Playback](https://github.com/mafintosh/playback) - Video player. :star:1725
+- [Upterm](https://github.com/railsware/upterm) - Terminal. :star:18183
+- [Atom](https://github.com/atom/atom) - Code editor. :star:43834
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE. :star:45612
+- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser. :star:6991
 
 ###### Other
 
-- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub. :star:1961
-- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app. :star:2945
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper. :star:1568
+- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub. :star:1964
+- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app. :star:2949
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper. :star:1570
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client. :star:193
-- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview. :star:1604
-- [Medis](https://github.com/luin/medis) - Redis database management. :star:5459
+- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview. :star:1608
+- [Medis](https://github.com/luin/medis) - Redis database management. :star:5465
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity. :star:334
-- [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror. :star:2115
+- [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror. :star:2116
 - [Koko](https://github.com/hachibasu/koko) - IRC client. :star:292
-- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app. :star:6113
-- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar. :star:2263
+- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app. :star:6116
+- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar. :star:2265
 - [Friends](https://github.com/moose-team/friends) - P2P chat. :star:2877
-- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar. :star:1005
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar. :star:1006
 - [Kitematic](https://kitematic.com) - Docker container management.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine. :star:126
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration. :star:2095
@@ -72,112 +72,112 @@ Made with Electron.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer. :star:1031
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management. :star:544
 - [Kart](https://github.com/maddox/kart) - Front-end for RetroArch. :star:370
-- [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files. :star:769
+- [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files. :star:770
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song. :star:75
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos. :star:89
-- [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad. :star:1101
+- [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad. :star:1102
 - [Snapper](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices. :star:92
 - [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images. :star:677
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg. :star:40
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar. :star:64
-- [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos. :star:332
+- [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos. :star:333
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances. :star:657
 - [Toby](https://github.com/frankhale/toby) - YouTube player. :star:101
-- [Kaku](https://github.com/EragonJ/Kaku) - Music player. :star:775
-- [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman. :star:974
+- [Kaku](https://github.com/EragonJ/Kaku) - Music player. :star:777
+- [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman. :star:975
 - [Markn](https://github.com/minodisk/markn) - Markdown viewer. :star:126
 - [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting. :star:575
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar. :star:61
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player. :star:225
 - [Monu](https://github.com/maxogden/monu) - Process monitoring. :star:1093
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
-- [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app. :star:1080
+- [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app. :star:1082
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app. :star:249
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview. :star:908
-- [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool. :star:2365
+- [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool. :star:2366
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game. :star:119
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker. :star:61
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app. :star:215
-- [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client. :star:2174
+- [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client. :star:2177
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app. :star:33
-- [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback. :star:10067
+- [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback. :star:10069
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar. :star:26
-- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app. :star:6114
+- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app. :star:6118
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app. :star:1458
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon. :star:8
 - [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview. :star:127
-- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests. :star:650
+- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests. :star:652
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client. :star:39
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app. :star:251
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player. :star:13
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar. :star:84
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app. :star:9630
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app. :star:9662
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单). :star:25
-- [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad. :star:404
+- [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad. :star:405
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator. :star:35
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player. :star:456
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier. :star:26
-- [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app. :star:125
-- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app. :star:2153
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers. :star:6763
-- [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool. :star:53
+- [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app. :star:126
+- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app. :star:2154
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers. :star:6778
+- [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool. :star:55
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app. :star:24
-- [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows. :star:2661
+- [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows. :star:2663
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify. :star:44
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar. :star:78
 - [Ansel](https://github.com/m0g/ansel) - Image organizer. :star:102
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses. :star:40
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time. :star:121
-- [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform. :star:874
+- [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform. :star:876
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client. :star:675
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player. :star:291
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app. :star:155
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer. :star:808
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client. :star:245
-- [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app. :star:3258
-- [Museeks](https://github.com/KeitIG/museeks) - Music player. :star:533
+- [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app. :star:3259
+- [Museeks](https://github.com/KeitIG/museeks) - Music player. :star:538
 - [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player. :star:152
 - [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) - Markdown editor. :star:322
-- [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE. :star:5522
+- [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE. :star:5525
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker. :star:138
 - [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar. :star:89
-- [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app. :star:630
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app. :star:2633
+- [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app. :star:631
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app. :star:2634
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad. :star:58
 - [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client. :star:1172
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast. :star:113
-- [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook. :star:3383
-- [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal. :star:390
+- [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook. :star:3389
+- [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal. :star:391
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar. :star:1003
 - [Dext](https://github.com/vutran/dext) - Launcher. :star:601
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:247
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app. :star:43
 - [ndm](https://github.com/720kb/ndm) - npm desktop manager. :star:1308
 - [GIFBar](https://github.com/dcrousso/GIFBar) - Search GIFs in your menubar. :star:46
-- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer. :star:2996
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer. :star:2997
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher. :star:1571
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown. :star:155
-- [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews. :star:4441
+- [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews. :star:4445
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display. :star:124
-- [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting. :star:1331
-- [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API. :star:76
-- [Buka](https://github.com/oguzhaninan/Buka) - E-book management. :star:367
-- [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests. :star:6480
-- [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app. :star:542
+- [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting. :star:1334
+- [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API. :star:78
+- [Buka](https://github.com/oguzhaninan/Buka) - E-book management. :star:368
+- [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests. :star:6489
+- [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app. :star:543
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app. :star:213
-- [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor. :star:181
-- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager. :star:2036
+- [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor. :star:180
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager. :star:2038
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
-- [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates. :star:3207
-- [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube. :star:484
-- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources. :star:349
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app. :star:340
+- [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates. :star:3215
+- [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube. :star:485
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources. :star:350
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app. :star:342
 
 ### Closed Source
 
@@ -219,7 +219,7 @@ Made with Electron.
 
 ### Samples
 
-- [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs. :star:2078
+- [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs. :star:2083
 - [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder. :star:142
 - [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
 - [Hash](https://electronjs.org/blog/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
@@ -232,25 +232,25 @@ Made with Electron.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate. :star:563
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
-- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack. :star:8195
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack. :star:8202
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app. :star:342
-- [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app. :star:3667
+- [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app. :star:3672
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app. :star:542
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins. :star:5079
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins. :star:5090
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js. :star:104
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC). :star:21
-- [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload. :star:994
+- [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload. :star:1001
 
 
 ## Tools
 
 ### For Electron
 
-- [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers. :star:4454
+- [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers. :star:4457
 - [devtron](https://github.com/electron/devtron) - Official DevTools extension. :star:1247
-- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app. :star:4914
-- [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features. :star:406
-- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development. :star:143
+- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app. :star:4915
+- [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features. :star:407
+- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development. :star:145
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window. :star:189
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub. :star:202
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub. :star:65
@@ -259,35 +259,35 @@ Made with Electron.
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup. :star:491
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend. :star:769
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads. :star:371
-- [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support. :star:790
+- [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support. :star:791
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version. :star:365
 - [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step. :star:872
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots. :star:133
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Persist window sizes and positions. :star:261
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging. :star:134
-- [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu. :star:89
+- [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu. :star:90
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package. :star:135
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package. :star:28
 - [electron-installer-windows](https://github.com/unindented/electron-installer-windows) - Create a Windows package. :star:181
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges. :star:233
 - [electron-json-storage](https://github.com/jviotti/electron-json-storage) - Write and read user settings. :star:637
-- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub. :star:124
-- [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC. :star:90
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub. :star:125
+- [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC. :star:91
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`. :star:52
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps. :star:243
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process. :star:51
-- [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps. :star:713
+- [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps. :star:714
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps. :star:242
-- [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver. :star:912
+- [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver. :star:913
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version. :star:34
 - [electron-is](https://github.com/delvedor/electron-is) - Utility functions. :star:103
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings. :star:137
-- [electron-store](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc. :star:788
-- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu. :star:412
+- [electron-store](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc. :star:790
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu. :star:413
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require. :star:17
-- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database. :star:7916
+- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database. :star:7919
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store. :star:323
-- [electron-log](https://github.com/megahertz/electron-log) - Simple logging. :star:221
+- [electron-log](https://github.com/megahertz/electron-log) - Simple logging. :star:224
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows. :star:270
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows. :star:245
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window. :star:145
@@ -296,40 +296,40 @@ Made with Electron.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows. :star:97
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing. :star:32
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk. :star:335
-- [got](https://github.com/sindresorhus/got) - Simplified HTTP requests. :star:2434
-- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections. :star:112
+- [got](https://github.com/sindresorhus/got) - Simplified HTTP requests. :star:2437
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections. :star:113
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager). :star:58
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes. :star:3
-- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules. :star:214
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules. :star:221
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development. :star:202
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`). :star:141
-- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger. :star:193
+- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger. :star:194
 
 ### Using Electron
 
-- [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools. :star:3771
-- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website. :star:13892
+- [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools. :star:3772
+- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website. :star:13905
 - [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper. :star:89
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
-- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line. :star:765
+- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line. :star:766
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally. :star:306
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron. :star:274
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR). :star:25
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages. :star:300
-- [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps. :star:7673
+- [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps. :star:7678
 
 
 ## Components
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React. :star:303
-- [menubar](https://github.com/maxogden/menubar) - Menubar app framework. :star:4452
-- [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`. :star:105
+- [menubar](https://github.com/maxogden/menubar) - Menubar app framework. :star:4453
+- [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`. :star:106
 - [window](https://github.com/jprichardson/electron-window) - Create and manage windows. :star:215
-- [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React. :star:7184
-- [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements. :star:71
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs. :star:747
-- [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar. :star:381
+- [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React. :star:7186
+- [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements. :star:72
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs. :star:748
+- [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar. :star:382
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch. :star:65
 - [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
 

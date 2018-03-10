@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11809
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11812
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4203
-- [Repo](https://github.com/substack/node-browserify) :star:11809
+- [Repo](https://github.com/substack/node-browserify) :star:11812
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1693
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1694
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:775
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:237
 
@@ -99,14 +99,14 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Transforms
 
 - [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1506
-- [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:191
+- [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:192
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:515
 
 ### Node in the Browser
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:292
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:51
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:525
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:526
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools

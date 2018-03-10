@@ -1,4 +1,4 @@
-# Information comes from [jorgebucaran/awesome-fish-shell](https://github.com/jorgebucaran/awesome-fish-shell)
+# Information comes from [fisherman/awesome-fish-shell](https://github.com/fisherman/awesome-fish-shell)
 # Awesome fish-shell
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
@@ -16,12 +16,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:395
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:402
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2783
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3193
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2786
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3194
 
 ## Plugins
 
@@ -29,13 +29,13 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:212
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:249
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:104
-* [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:28
+* [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:29
 * [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:149
-* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:178
+* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:179
 
 ## Simple Prompts
 
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:46
 * [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:221
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:449
+* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:451
 
