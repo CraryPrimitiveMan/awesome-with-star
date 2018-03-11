@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11812
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4203
-- [Repo](https://github.com/substack/node-browserify) :star:11812
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11814
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4204
+- [Repo](https://github.com/substack/node-browserify) :star:11814
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -83,7 +83,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Plugins
 
-- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify. :star:363
+- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify. :star:362
 
 ### Watchers
 

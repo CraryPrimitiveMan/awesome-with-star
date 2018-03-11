@@ -396,7 +396,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PSD
 
-* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - Parse Photoshop PSD files and render as BitmapData objects. :star:35
+* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - Parse Photoshop PSD files and render as BitmapData objects. :star:36
 
 #### SWF
 
@@ -643,7 +643,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:4
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS. :star:3
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising. :star:27
-* [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:10
+* [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:11
 * [Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android). :star:10
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE. :star:26
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts. :star:48

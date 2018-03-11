@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Clients](#clients)
 - [Inspectors](#inspectors)
 - [Tutorials](#tutorials)
+- [Appium Pro](#become_an_appium_pro)
 - [Blogs](#blogs)
 - [Workshops](#workshops)
 - [Cloud Solutions and Devops](#cloud-solutions-and-devops)
@@ -27,8 +28,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
-- [Ruby](https://github.com/appium/ruby_lib) :star:137
-- [Python](https://github.com/appium/python-client) :star:470
+- [Ruby](https://github.com/appium/ruby_lib) :star:138
+- [Python](https://github.com/appium/python-client) :star:469
 - [Java](https://github.com/appium/java-client) :star:480
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:58
@@ -42,6 +43,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector. :star:76
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector. :star:158
+
+## Become an Appium Pro
+- [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
+- [Seeding an Android device with test photos](https://appiumpro.com/editions/2)
+- [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
+- [Using Appium for Testing Mobile Web Apps](https://appiumpro.com/editions/4)
+- [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
+- [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
+- [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
+- [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/8)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
@@ -73,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
  - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
  - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
+ - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
 
 ## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison. :star:10

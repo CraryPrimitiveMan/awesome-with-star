@@ -23,8 +23,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Inbox Zero](http://www.43folders.com/izero) – Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
 - [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
+- [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
 - [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
+- [Zen Habits](https://zenhabits.net/) – Blog by Leo Babauta with topics such as simplifying life.
 
 ## Online Courses
 
@@ -58,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
+- [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray. :star:337
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.

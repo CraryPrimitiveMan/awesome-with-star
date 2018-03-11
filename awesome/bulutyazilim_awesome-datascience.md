@@ -483,7 +483,7 @@ Quick Start
 * [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 * [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 * [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) :star:4301
+* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) :star:4303
 * [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
@@ -510,14 +510,14 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:4826
- - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1551
- - [awesome-python](https://github.com/vinta/awesome-python) :star:46548
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11882
- - [awesome-r](https://github.com/qinwf/awesome-R) :star:2773
+ - [lists](https://github.com/jnv/lists) :star:4833
+ - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1552
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:46582
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:11891
+ - [awesome-r](https://github.com/qinwf/awesome-R) :star:2776
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:389
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18267
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18275
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 

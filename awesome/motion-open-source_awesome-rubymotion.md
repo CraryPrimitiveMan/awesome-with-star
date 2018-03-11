@@ -191,7 +191,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Crittercism](https://github.com/andrewhavens/crittercism) - Easily add crash reporting to your RubyMotion app with Crittercism. :star:4
 * [Motion_print](https://github.com/OTGApps/motion_print) - RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL. :star:31
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) - Port of the awesome_print gem to RubyMotion. :star:49
-* [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:18
+* [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:17
 * [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:574
 
 
@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:135
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1276
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1275
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
@@ -244,7 +244,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Autolayout
 * [Purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
-* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:224
+* [Motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app. :star:223
 
 
 #### Input
@@ -253,24 +253,24 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### iOS
-* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:96
-* [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:150
+* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:95
+* [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:149
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37
 * [Motion-imager](https://github.com/OTGApps/motion-imager) - Interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera. :star:26
 * [Motion Swipe](https://github.com/dam13n/motion-swipe) - Tinder-like swipe gem. :star:12
 * [Motion-dynamic-type](https://github.com/FluffyJack/motion-dynamic-type) - Simplifying even further iOS 7's Dynamic Type. :star:6
-* [Indoctrinator](https://github.com/ryanlntn/indoctrinator) - Indoctrinator is a RubyMotion gem that provides a Path style tutorial view for iOS applications. :star:27
+* [Indoctrinator](https://github.com/ryanlntn/indoctrinator) - Indoctrinator is a RubyMotion gem that provides a Path style tutorial view for iOS applications. :star:26
 * [Motion-egg](https://github.com/GantMan/motion-egg) - Add an Easter egg to your app. :star:25
 
 
 #### Forms
-* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:635
+* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:634
 * [Motion-form](https://github.com/dblandin/motion-form) - RubyMotion forms made easy. :star:16
 
 
 #### Menu's & Toolbars
-* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus. :star:45
+* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus. :star:44
 * [Better_toolbar](https://github.com/FluffyJack/better_toolbars) - Better way to work with toolbars. :star:7
 * [EverydayMenu](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your macOS apps. :star:11
 * [StatusBar](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar. :star:16
@@ -302,7 +302,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Models & Core Data
-* [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:199
+* [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:198
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:107
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:68
 * [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:178
@@ -367,17 +367,17 @@ App project templates
 
 * [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - Clean RubyMotion project for quickly templating a styled application. :star:65
 * [Promotion-template](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running. :star:11
-* [Rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion. :star:80
+* [Rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion. :star:79
 * [Motion-template-spritekit](https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (iOS/OSX/tvOS). :star:18
 
 
 ### Testing
-* [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:6
-* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:95
-* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:47
+* [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:5
+* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:94
+* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:46
 * [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:31
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework. :star:3
-* [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:38
+* [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:37
 * [Guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest). :star:47
 * [Motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform. :star:3
 * [Motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications. :star:52
