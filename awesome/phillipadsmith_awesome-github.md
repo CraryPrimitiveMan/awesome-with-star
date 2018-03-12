@@ -73,7 +73,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated.  :star:19
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub. :star:563
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications. :star:51
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:12392
+- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:12396
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs. :star:45
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line. :star:170
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:2531
@@ -92,7 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 ## Novel uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub. :star:41
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:30481
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:30497
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2559
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code. :star:658
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2565

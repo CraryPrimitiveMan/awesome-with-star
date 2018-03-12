@@ -86,16 +86,16 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:290
-* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:406
+* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:407
 * [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:799
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:469
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
-* [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:118
+* [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:119
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
-* [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang. :star:564
+* [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang. :star:565
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP :star:16
 
 ## Logging
@@ -132,7 +132,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:143
-* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:253
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:254
 
 ## Build Tools
 *Project build and automation tools.*
@@ -208,7 +208,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [restc](https://github.com/kivra/restclient) - An Erlang REST client :star:66
+* [restc](https://github.com/kivra/restclient) - An Erlang REST client :star:67
 * [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
 
 ## Networking

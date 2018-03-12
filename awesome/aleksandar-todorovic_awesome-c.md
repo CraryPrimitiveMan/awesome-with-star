@@ -83,9 +83,9 @@ These are tools to automate the building and testing of projects in C.
 * [Meson](http://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [Premake](https://github.com/premake/premake-core) - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:879
 * [SCons](http://www.scons.org/) - An easier, more reliable and faster way to build software. [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)]
-* [Ninja](https://github.com/ninja-build/ninja) - Small, simple build system with a focus on speed. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:3241
-* [Bazel](https://github.com/bazelbuild/bazel) - Build system for various operating systems and targets. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:8441
-* [Buck](https://github.com/facebook/buck) - Build system created and used by Facebook. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:5579
+* [Ninja](https://github.com/ninja-build/ninja) - Small, simple build system with a focus on speed. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:3242
+* [Bazel](https://github.com/bazelbuild/bazel) - Build system for various operating systems and targets. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:8447
+* [Buck](https://github.com/facebook/buck) - Build system created and used by Facebook. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:5581
 
 ## Compilers ##
 
@@ -100,18 +100,18 @@ These are tools to automate the building and testing of projects in C.
 
 Libraries for use in compilers, interpreters, and low-level based projects.
 
-* [yasm](https://github.com/yasm/yasm) - Yasm Modular Assembler Project. [[2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause)] :star:586
+* [yasm](https://github.com/yasm/yasm) - Yasm Modular Assembler Project. [[2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause)] :star:587
 
 ## Compression ##
 
 * [libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:70
 * [lzo](http://www.oberhumer.com/opensource/lzo/) - Very fast data compression library. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)]
-* [zlib](https://github.com/madler/zlib) - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:1304
+* [zlib](https://github.com/madler/zlib) - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:1305
 * [bzip2](http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz) - Patent free, high quality data compressor. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
-* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2666
+* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2667
 * [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C)
-* [zstd](https://github.com/facebook/zstd) - Fast real-time compression algorithm [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:6480
-* [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [[MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)] :star:5700
+* [zstd](https://github.com/facebook/zstd) - Fast real-time compression algorithm [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:6484
+* [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [[MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)] :star:5702
 * [quicklz](http://www.quicklz.com/download.html) - Fast compression library. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
 
 ## Crypto ##
@@ -119,7 +119,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [GnuTLS](https://www.gnutls.org/) - Secure communication library, implementing SSL, TLS and DTLS. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later]
 * [libgcrypt](https://www.gnu.org/software/libgcrypt/) - General-purpose cryptography library, with a range of available ciphers. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later (code)] and [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later (manual and tools)]
 * [OpenSSL](https://www.openssl.org/) - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [[Dual Licensed under the OpenSSL License and the SSLeay License](https://www.openssl.org/source/license.html)]
-* [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:5373
+* [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:5376
 * [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit. [Public domain] :star:652
 * [mbed TLS](https://tls.mbed.org/) - Another crypto implementation for C. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 
@@ -128,8 +128,8 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 This lists databases and data stores with C APIs.
 
 * [BerkeleyDB](https://www.oracle.com/database/berkeley-db/index.html) - Library for a high-performance embedded database for key-value data. [[GNU AGPLv3](https://www.gnu.org/licenses/agpl.html) only]
-* [Hiredis](https://github.com/redis/hiredis) - Minimalistic client library for Redis. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2908
-* [LMDB](https://github.com/LMDB/lmdb) - Ultra-fast, ultra-compact key-value embedded data store. [[newOpenLDAP](https://directory.fsf.org/wiki/License:OpenLDAPv2.7)] :star:847
+* [Hiredis](https://github.com/redis/hiredis) - Minimalistic client library for Redis. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2913
+* [LMDB](https://github.com/LMDB/lmdb) - Ultra-fast, ultra-compact key-value embedded data store. [[newOpenLDAP](https://directory.fsf.org/wiki/License:OpenLDAPv2.7)] :star:848
 * [MariaDB](https://mariadb.com/) - Robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - High-performance client library for [MongoDB](https://www.mongodb.com/). [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:383
 * [PostgreSQL](https://www.postgresql.org/) - Powerful object-relational database system. [[PostgreSQL licence](https://opensource.org/licenses/postgresql)]
@@ -173,7 +173,7 @@ A real-time operating system (RTOS) is intended to serve real-time applications 
 
 * [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [[MIT](https://github.com/aws/amazon-freertos/blob/master/LICENSE)] :star:418
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php) - RTOS with complete development environment (HAL, drivers, support files, and tools). [[Various](http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start)]
-* [Contiki](https://github.com/contiki-os/contiki) - Connect low-cost, low power microcontrollers to the Internet. [[3-clause BSD](https://github.com/contiki-os/contiki/blob/master/LICENSE)] :star:2660
+* [Contiki](https://github.com/contiki-os/contiki) - Connect low-cost, low power microcontrollers to the Internet. [[3-clause BSD](https://github.com/contiki-os/contiki/blob/master/LICENSE)] :star:2663
 * [Zephyr Project](https://github.com/zephyrproject-rtos/zephyr) - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:686
 
 ## Environments ##
@@ -188,7 +188,7 @@ This is a list of technologies designed to bring Windows into the 21st century w
 This section has big libraries that provide data structures and other stuff you expect of a 'modern' standard library.
 
 * [APR](http://apr.apache.org/) - Apache Portable Runtime; another library of cross-platform utility functions. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
-* [C Algorithms](https://github.com/fragglet/c-algorithms) - Collection of common algorithms and data structures for C. [[ISC](https://directory.fsf.org/wiki/License:ISC)] :star:1122
+* [C Algorithms](https://github.com/fragglet/c-algorithms) - Collection of common algorithms and data structures for C. [[ISC](https://directory.fsf.org/wiki/License:ISC)] :star:1124
 * [CPL](http://www.eso.org/sci/software/cpl/) - The Common Pipeline Library; a set of libraries designed to be a comprehensive, efficient and robust software toolkit. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
 * [EFL](https://www.enlightenment.org?p=about%252Fefl) - Large collection of useful data structures and functions. [Various free licenses]
 * [GLib](https://wiki.gnome.org/Projects/GLib) - Library of utility functions and structures, designed to be portable, efficient and powerful. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
@@ -198,7 +198,7 @@ This section has big libraries that provide data structures and other stuff you 
 * [libU](http://www.koanlogic.com/libu/) - Small library of basic utilities, including memory allocation, string manipulation and logging. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [PBL](http://www.mission-base.com/peter/source/) - Large library of utilities, featuring data structures, among other things. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later (library)] or [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later (test code)]
 * [qlibc](https://github.com/wolkykim/qlibc) - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (similar to [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD))] :star:333
-* [stb](https://github.com/nothings/stb) - Range of single-file libraries for C. [Public domain] :star:6910
+* [stb](https://github.com/nothings/stb) - Range of single-file libraries for C. [Public domain] :star:6915
 * [libsrt](https://github.com/faragon/libsrt) - Safe Real-Time library for C. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:161
 
 
@@ -208,12 +208,12 @@ This section has big libraries that provide data structures and other stuff you 
 
 These are provided as examples of C game programming code.
 
-* [Corange](https://github.com/orangeduck/Corange) - Game engine in pure C. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:750
+* [Corange](https://github.com/orangeduck/Corange) - Game engine in pure C. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:752
 * [Darkplaces](https://icculus.org/twilight/darkplaces/) - Modified version of the Quake2 engine. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
-* [ioquake3](https://github.com/ioquake/ioq3) - The Quake3 engine, freed at last. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:891
+* [ioquake3](https://github.com/ioquake/ioq3) - The Quake3 engine, freed at last. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:892
 * [Orx](https://bitbucket.org/orx/orx) - Portable, lightweight, plugin-based, data-driven, 2D-oriented game engine. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
-* [Quake](https://github.com/id-Software/Quake) - The Quake engine. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:1889
-* [Quake2](https://github.com/id-Software/Quake-2) - The Quake2 engine. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:937
+* [Quake](https://github.com/id-Software/Quake) - The Quake engine. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:1892
+* [Quake2](https://github.com/id-Software/Quake-2) - The Quake2 engine. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:938
 * [Spearmint](https://github.com/zturtleman/spearmint) - Engine designed for FPS games. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later] :star:84
 
 ### Resources ###
@@ -221,19 +221,19 @@ These are provided as examples of C game programming code.
 These are libraries of all sorts that are useful for game programming.
 
 * [Allegro](http://liballeg.org) - Cross-platform, video game development and multimedia library. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
-* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:1120
+* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:1121
 * [CSFML](https://www.sfml-dev.org/download/csfml/) - Binding for [SFML](https://www.sfml-dev.org/index.php) in C. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
-* [FreeGLUT](https://github.com/dcnieho/FreeGLUT) - Alternative to the OpenGL Utility Toolkit. Allows the creation and management of windows with OpenGL contexts. [[X11](https://directory.fsf.org/wiki/License:X11)] :star:179
+* [FreeGLUT](https://github.com/dcnieho/FreeGLUT) - Alternative to the OpenGL Utility Toolkit. Allows the creation and management of windows with OpenGL contexts. [[X11](https://directory.fsf.org/wiki/License:X11)] :star:180
 * [GLFW](http://www.glfw.org/) - Multi-platform library for creating windows with OpenGL contexts. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
 * [libao](https://github.com/timonwong/libao) - Cross-platform audio library with a wide variety of outputs. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later] :star:6
-* [RetroArch](https://github.com/libretro/RetroArch) - The reference frontend for [libretro](https://www.libretro.com/). [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only] :star:2143
+* [RetroArch](https://github.com/libretro/RetroArch) - The reference frontend for [libretro](https://www.libretro.com/). [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only] :star:2144
 * [SDL](https://www.libsdl.org/) - Cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
 * [SDL2](https://www.libsdl.org/)- Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [[zlib](https://directory.fsf.org/wiki/License:Zlib)]
 * [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to learn videogames programming. [zlib](https://directory.fsf.org/wiki/License:Zlib)
 
 ## Generic Programming ##
 
-* [klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:2015
+* [klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:2026
 
 ## Graphics ##
 
@@ -246,7 +246,7 @@ These are libraries of all sorts that are useful for game programming.
 * [libjpeg-turbo](https://libjpeg-turbo.org/) - Faster library for reading and writing JPEG files. [[Various free licenses](https://libjpeg-turbo.org/About/License)]
 * [libpng](http://www.libpng.org) - The official PNG reference library. [[libpng license](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)]
 * [libxmi](https://www.gnu.org/software/libxmi/) - Function library for rasterizing 2D vector graphics. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
-* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2923
+* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2925
 
 ### Graphic APIs ###
 
@@ -263,14 +263,14 @@ These are specifically [widget toolkits](https://en.wikipedia.org/wiki/Widget_to
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) - Another cross-platform widget toolkit. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [Tk](http://www.tcl.tk/) - Basic widget toolkit. Part of Tcl/Tk. [[Tcl/Tk License](http://www.tcl.tk/software/tcltk/license.html)]
 * [XForms Toolkit](http://xforms-toolkit.org/) - Widget toolkit designed for the XWindow system. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
-* [nuklear](https://github.com/vurtun/nuklear) - Single-header ANSI C gui library. [Public domain] :star:9696
+* [nuklear](https://github.com/vurtun/nuklear) - Single-header ANSI C gui library. [Public domain] :star:9703
 
 ## Hashing ##
 
 All hashing related libraries, cryptographic or not.
 
 * [jwHash](https://github.com/watmough/jwHash) - Fast hashtable implementation. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:201
-* [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. [[2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause)] :star:1839
+* [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. [[2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause)] :star:1841
 * [libcrc](https://github.com/PeterScott/murmur3) - Multi platform CRC library. [[MIT License]](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [murmur](https://github.com/ispc/ispc) - C implementation of MurMur Hashing [Public domain] :star:913
 
@@ -397,7 +397,7 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [GStreamer](https://gstreamer.freedesktop.org/) - Framework for audio and visual media. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
 * [lodepng](http://lodev.org/lodepng/) - Simple PNG image decoder and encoder, requiring no other dependencies. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [libsoup](https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup) - GNOME HTTP client/server library. Uses GObject. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
-* [libmpv](https://github.com/mpv-player/mpv) - Music-playing library. Compile with ``./waf configure --disable-cplayer --enable-libmpv-shared`` to not have the music player. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later] :star:7471
+* [libmpv](https://github.com/mpv-player/mpv) - Music-playing library. Compile with ``./waf configure --disable-cplayer --enable-libmpv-shared`` to not have the music player. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later] :star:7478
 * [libsoundio](https://github.com/andrewrk/libsoundio) - Library for cross-platform, real-time audio input and output. Has a range of back-ends. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:638
 
 
@@ -409,31 +409,31 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [GNU SASL](https://www.gnu.org/software/gsasl/) - Implementation of the Simple Authentication and Security Layer and a few common SASL mechanism. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [GnuTLS](https://www.gnutls.org/) - Secure communication library, implementing SSL, TLS and DTLS. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later]
 * [gumbo-parser](https://github.com/google/gumbo-parser) - HTML5 parsing library in C99. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:4230
-* [http-parser](https://github.com/nodejs/http-parser) - HTTP request/response parser. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:3810
+* [http-parser](https://github.com/nodejs/http-parser) - HTTP request/response parser. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:3812
 * [ldns](https://www.nlnetlabs.nl/projects/ldns/index.html) - Library to simplify DNS programming. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [libcurl](https://curl.haxx.se/libcurl/) - Client-side URL transfer library, supporting a wide range of formats. [[curl license](https://curl.haxx.se/docs/copyright.html)]
 * [LibEtPan](https://github.com/dinhviethoa/libetpan) - Mail library providing an efficient network for IMAP, SMTP, POP and NNTP. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:452
 * [libev](http://software.schmorp.de/pkg/libev.html) - Yet another event loop. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)]
-* [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:8604
+* [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:8609
 * [libevent](http://libevent.org/) - Event loop replacement for network servers. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)]
 * [libgss](https://www.gnu.org/software/gss/) - Generic Security Service. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [libhttpd](http://www.hughes.com.au/products/libhttpd/) - Library to add basic web server capabilities to an application or embedded device. [[GNU GPL2](http://www.gnu.org/licenses/gpl.html) only]
 * [libidn](https://www.gnu.org/software/libidn/) - Implementation of the Stringprep, Punycode and IDNA specifications. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/) - Small C library that makes it easy to run an HTTP server as part of another application. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later]
-* [libvldmail](https://github.com/dertuxmalwieder/libvldmail) - Your friendly e-mail address validation library. [[WTFPLv2](http://www.wtfpl.net/txt/copying/)] :star:10
-* [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high-performance HTTP server. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:4127
-* [mongoose](https://github.com/cesanta/mongoose) - Embedded web server for C. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:4363
-* [nanomsg](https://github.com/nanomsg/nanomsg) - C-based implementation of ZeroMQ. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:4075
+* [libvldmail](https://github.com/dertuxmalwieder/libvldmail) - Your friendly e-mail address validation library. [[WTFPLv2](http://www.wtfpl.net/txt/copying/)] :star:11
+* [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high-performance HTTP server. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:4128
+* [mongoose](https://github.com/cesanta/mongoose) - Embedded web server for C. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:4364
+* [nanomsg](https://github.com/nanomsg/nanomsg) - C-based implementation of ZeroMQ. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:4078
 * [OpenSSL](https://www.openssl.org/) - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [[Dual Licensed under the OpenSSL License and the SSLeay License](https://www.openssl.org/source/license.html)]
 * [oSip](https://www.gnu.org/software/osip/) - SIP implementation in C without additional dependencies. [[GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later]
 * [pig](https://github.com/rafael-santiago/pig) - Linux packet crafting tool. [[GPL2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)] :star:307
-* [s2n](https://github.com/awslabs/s2n) - C99 implementation of the TLS/SSL protocols, designed to be simple, fast and with security as a priority. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:3082
+* [s2n](https://github.com/awslabs/s2n) - C99 implementation of the TLS/SSL protocols, designed to be simple, fast and with security as a priority. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:3084
 * [socket99](https://github.com/silentbicycle/socket99) - C99 wrapper for the BSD sockets API. [[ISC](https://directory.fsf.org/wiki/License:ISC)] :star:90
 * [Tox](https://github.com/irungentoo/toxcore) - Communication platform, designed to be a Skype-killer. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only] :star:8342
 * [twitc](https://github.com/sinemetu1/twitc) - Mini C library for interacting with the Twitter OAuth API. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:21
 * [librg](https://github.com/librg/librg) - Library for building simple and elegant cross-platform mmo client-server solutions. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:70
 * [dyad](https://github.com/rxi/dyad) - Asynchronous networking library [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)] :star:950
-* [h2o](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2 high performance server/library [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)] :star:7251
+* [h2o](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2 high performance server/library [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)] :star:7255
 
 ### Web Frameworks ###
 
@@ -502,9 +502,9 @@ fragmentation avoidance and scalable concurrency support, commonly used in produ
 * [c-capnproto](https://github.com/jmckaskill/c-capnproto) - Implementation of the Cap'n Proto serialization protocol. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:63
 * [cmp](https://github.com/camgunz/cmp) - Implementation of the [MessagePack](https://msgpack.org/) serialization protocol. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:160
 * [libavro](http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c) - C implementation of the Avro data serialization system. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
-* [mpack](https://github.com/ludocode/mpack) - Another implementation of the [MessagePack](https://msgpack.org/) serialization protocol. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:115
+* [mpack](https://github.com/ludocode/mpack) - Another implementation of the [MessagePack](https://msgpack.org/) serialization protocol. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:116
 * [netstring-c](https://github.com/liteserver/netstring-c) - Netstring encoder and decoder. [Public Domain] :star:2
-* [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Implementation of Google Protocol Buffer in C. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:845
+* [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Implementation of Google Protocol Buffer in C. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:847
 * [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization. [Standard (no license applicable)]
 
 Check also: [JSON](#json), [XML](#xml)
@@ -514,7 +514,7 @@ Check also: [JSON](#json), [XML](#xml)
 This contains collections of small source code. If you want something big and integrated, check the Frameworks section.
 
 * [CCAN](http://ccodearchive.net/) - Modelled after Perl's CPAN, this is a big collection of C code that does stuff. The full list is [here](http://ccodearchive.net/list.html). [Various free licenses]
-* [clib](https://github.com/clibs/clib) - Something of a package manager for C. Comes with a [bunch of libraries of its own](https://github.com/clibs/clib/wiki/Packages). [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:2801
+* [clib](https://github.com/clibs/clib) - Something of a package manager for C. Comes with a [bunch of libraries of its own](https://github.com/clibs/clib/wiki/Packages). [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:2804
 * [gnulib](https://www.gnu.org/software/gnulib/) - Collection of common GNU code. [Various free licenses]
 * [libdjb](http://www.fefe.de/djb/) - Collection of libraries doing various things. [(Apparently) Public domain]
 
@@ -533,7 +533,7 @@ This contains standard C libraries.
 * [ICU](http://site.icu-project.org/) - International Components for Unicode; a library for Unicode support. [[ICU license](http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE)]
 * [libunistring](https://www.gnu.org/software/libunistring/) - Library for manipulating Unicode strings in C. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) only]
 * [libgiconv](https://www.gnu.org/software/libiconv/) - Text conversion library. [[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only (library)] or [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only (*iconv* program)]
-* [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib](https://github.com/clibs/clib). [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:2212
+* [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib](https://github.com/clibs/clib). [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:2213
 * [shoco](https://github.com/Ed-von-Schleck/shoco) - Compressor for small text strings. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:185
 * [smaz](https://github.com/antirez/smaz) - Efficient string compression library. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:633
 * [utf8.h](https://github.com/sheredom/utf8.h) - Single header utf8 string functions. [[Unlicense](http://unlicense.org/)] :star:313
@@ -547,9 +547,9 @@ This contains standard C libraries.
 * [Criterion](https://github.com/Snaipe/Criterion) - KISS, non-intrusive C test framework. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:584
 * [CUnit](http://cunit.sourceforge.net/) - Another unit testing framework for C. [[GNU LGPL2.0](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) only]
 * [Cutest](https://github.com/rafael-santiago/cutest) - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [[GPL2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)] :star:15
-* [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:190
+* [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:189
 * [munit](https://nemequ.github.io/munit/) - Small but full-featured unit testing framework for C with no dependencies. [[MIT License](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)]
-* [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple unit testing framework for C. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:750
+* [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple unit testing framework for C. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:751
 
 ## Text Editor Extensions ##
 
@@ -562,12 +562,12 @@ While practically any decent programmer's text editor supports C, there are some
 ### Emacs ###
 
 * [CEDET](http://cedet.sourceforge.net/) - Collection of Emacs Development Environment Tools; designed to provide IDE-like features to Emacs. Built-in. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
-* [Flycheck](https://github.com/flycheck/flycheck) - Modern syntax checking. For C, it can use either GCC or Clang as a back-end. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later] :star:1505
+* [Flycheck](https://github.com/flycheck/flycheck) - Modern syntax checking. For C, it can use either GCC or Clang as a back-end. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later] :star:1506
 * [Yasnippet](https://github.com/joaotavora/yasnippet) - Template system, with C templates for common code snippets. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later] :star:1653
 
 ### Vim ###
 
-* [Syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking and linting. [[Do What The Fuck You Want To license](https://github.com/vim-syntastic/syntastic/blob/master/LICENCE)] :star:8912
+* [Syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking and linting. [[Do What The Fuck You Want To license](https://github.com/vim-syntastic/syntastic/blob/master/LICENCE)] :star:8914
 * [YouCompleteMe](http://valloric.github.io/YouCompleteMe/) - Code completion engine for Vim. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only]
 
 ## Tools ##
@@ -575,7 +575,7 @@ While practically any decent programmer's text editor supports C, there are some
 This is a list of useful programs to help you write and debug C code which are *not* editors, libraries or compilers.
 
 * [Artistic Style](http://astyle.sourceforge.net/) - Fast and small automatic source code formatter that supports C. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) only]
-* [address-sanitizer](https://github.com/google/sanitizers) - Fast memory error detector. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:2181
+* [address-sanitizer](https://github.com/google/sanitizers) - Fast memory error detector. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:2183
 * [biicode](https://biicode.github.io/biicode/) - Modern dependency manager for C. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go on the command line. Also has shebang support. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:1535
 * [c99sh](https://github.com/RhysU/c99sh) - Run C files using hash-bang. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)] :star:51
@@ -591,7 +591,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [GNU Global](https://www.gnu.org/software/global/) - Source code tagging tool which works with C. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only]
 * [gprof](http://www.gnu.org/software/binutils/) - Performance analysis tool. Part of GNU binutils. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [Highlight](http://www.andre-simon.de/index.php) - Converts source code to formatted text with nice highlighting. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only]
-* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (and only works with it). [[NCSA](https://directory.fsf.org/wiki/License:IllinoisNCSA)] :star:942
+* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (and only works with it). [[NCSA](https://directory.fsf.org/wiki/License:IllinoisNCSA)] :star:943
 * [indent](https://www.gnu.org/software/indent/) - Formats C source code automatically to make it easier to read. Also converts from one style of source to another. [[GNU GPLv3](http://www.gnu.org/licenses/gpl.html) or later]
 * [rr](http://rr-project.org/) - Debugger that records non-deterministic executions to allow for deterministic debugging. [[FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD)]
 * [tup](http://gittup.org/tup/index.html) - Very fast, file-based, cross-platform build system. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
@@ -605,7 +605,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [ApeTagLibs](https://github.com/jeremyevans/ape_tag_libs/tree/master/c) - C library for working with APEv2 tags. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
 * [bfd](http://sourceware.org/binutils/docs/bfd/) - Library for manipulating binary object files. Part of GNU binutils. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [cf4ocl](https://fakenmc.github.io/cf4ocl/) - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking  [OpenCL](https://www.khronos.org/opencl/) projects. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) (library)] or [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) (project code)]
-* [CommonMark](https://github.com/commonmark/CommonMark) - C implementation of the CommonMark spec. [[Various free licenses](https://github.com/commonmark/CommonMark/blob/master/LICENSE)] :star:3626
+* [CommonMark](https://github.com/commonmark/CommonMark) - C implementation of the CommonMark spec. [[Various free licenses](https://github.com/commonmark/CommonMark/blob/master/LICENSE)] :star:3624
 * [CException](https://github.com/ThrowTheSwitch/CException) - C implementation of exceptions. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:64
 * [docopt.c](https://github.com/docopt/docopt.c) - C implementation of a command-line option parser. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:235
 * [dyncall](http://www.dyncall.org/) - Another foreign function interface library. [[Expat](https://directory.fsf.org/wiki/License:Expat)]
@@ -615,7 +615,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [GNU FreeIPMI](https://www.gnu.org/software/freeipmi/index.html) - In-band and out-of-band IPMI implementation. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) only]
 * [GNU gperf](https://www.gnu.org/software/gperf/) - Perfect hash function generator, given a list of strings. Outputs C code. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [GNU Libffcall](https://www.gnu.org/software/libffcall/) - Collection of libraries for building foreign function interfaces. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
-* [gperftools](https://github.com/gperftools/gperftools) - Collection of utilities for measuring and improving performance. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2439
+* [gperftools](https://github.com/gperftools/gperftools) - Collection of utilities for measuring and improving performance. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:2440
 * [huffandpuff](https://github.com/adamierymenko/huffandpuff) - Minimal Huffman encoder and decoder. [Public domain] :star:49
 * [kdtree](https://github.com/jtsiomb/kdtree) - Simple library for working with KD-trees. [[3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause)] :star:147
 * [Kitsune](http://kitsune-dsu.com/) - Efficient, general-purpose framework for dynamic software updating. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) or later]
@@ -625,7 +625,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libffi](https://github.com/libffi/libffi) - Portable foreign-function interface library. [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:945
 * [libgit2](https://libgit2.github.com/) - Pure C implementation of Git. [[GNU GPL2 only, with a linking exception](https://github.com/libgit2/libgit2/blob/master/COPYING)]
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Cross-platform protocol library to communicate with iThings. [[GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later (library)] or [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later (tools)] :star:1853
-* [libnfc](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) only] :star:413
+* [libnfc](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html) only] :star:414
 * [libPhenom](http://facebook.github.io/libphenom/index.html) - Eventing framework for building high-scalability and high-performance systems. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)]
 * [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [[GNU GPL3](http://www.gnu.org/licenses/gpl.html) or later]
 * [nope.c](https://github.com/riolet/WAFer) - C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers). [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:653
@@ -633,7 +633,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) - Client library for [RabbitMQ](http://www.rabbitmq.com/). [[Expat](https://directory.fsf.org/wiki/License:Expat)] :star:767
 * [Ragel](http://www.colm.net/open-source/ragel/) - DSL for state machines that compiles to C. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only]
 * [uthash](http://troydhanson.github.io/uthash/) - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD](http://troydhanson.github.io/uthash/license.html)]
-* [cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:1152
+* [cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. [[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:1154
 * [pblog](https://github.com/google/pblog) - Small, low overhead, structured logging library intended for logging formware events.[[Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)] :star:9
 * [libelf](https://github.com/WolfgangSt/libelf) - ELF object file access library in C. [[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) only] :star:5
 

@@ -275,7 +275,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:244
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:245
 
 ##### Spin/PVS
 
@@ -371,11 +371,11 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1570
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:16
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1085
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2616
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1088
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2618
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:400
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:153
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:73
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:75
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:144
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:364

@@ -16,12 +16,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:404
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:407
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2787
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3201
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2788
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3205
 
 ## Plugins
 
@@ -31,7 +31,7 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:104
 * [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:29
 * [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:149
-* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:179
+* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:180
 
 ## Simple Prompts
 

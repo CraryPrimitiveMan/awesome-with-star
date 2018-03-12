@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:217
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5184
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5185
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -38,7 +38,7 @@ under the hood:
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:113
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
-- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:28
+- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:29
 - [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:22
 
 ### Demos
@@ -64,7 +64,7 @@ under the hood:
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo. :star:45
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing. :star:21
 - [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
-- [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:3
+- [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:4
 - [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:13
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:13
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:11
@@ -114,7 +114,7 @@ Other CLI templates
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:28
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:6
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages. :star:30
-- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:363
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:364
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:417
