@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Javascript
 
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
-- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1272
+- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1273
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
 #### PHP
-- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2174
+- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2178
 - [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server. :star:25
 - [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:141
 
@@ -73,7 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### C#
 
 - [Selenium with C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bindings
-- [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver. :star:104
+- [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver. :star:105
 - [Strontium](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server :star:7
 
 #### Groovy
@@ -90,10 +90,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Docker
 
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. :star:880
-- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:105
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2186
-- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:469
-- [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:769
+- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:106
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2189
+- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:471
+- [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:770
 - [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support. :star:3
 
 ### Driver
@@ -117,7 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Desktop GUI Automation (non-browser-centric)
 
-- [WinAppDriver](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation. :star:537
+- [WinAppDriver](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation. :star:536
 - [Winium](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps. :star:156
 - [QtWebDriver](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications. :star:89
 - [AutoItDriverServer](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API. :star:22
@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Device Farms
 
-- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:6934
+- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:6939
 
 ### Web Scraping / Mining
 

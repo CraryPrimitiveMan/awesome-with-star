@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Scheduled/Recurrence Jobs
 
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:56
-* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:104
+* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:105
 * [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:27
 
 ### Guice

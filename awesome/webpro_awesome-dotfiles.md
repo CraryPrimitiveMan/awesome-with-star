@@ -85,26 +85,26 @@ Title | Description | Focus
 
 * [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
 * [Bork](https://github.com/mattly/bork) - Bash DSL for config management. :star:211
-* [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles. :star:1535
-* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:129
+* [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles. :star:1536
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:130
 * [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy. :star:352
 * [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles. :star:216
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1198
 * [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)). :star:1984
-* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:6873
-* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1764
+* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:6876
+* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:1765
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
-* [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:1537
+* [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:1539
 * [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME. :star:1358
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:608
 
 ### macOS
 
 * [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:789
-* [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:545
-* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:4201
+* [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:546
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:4205
 
 ## Miscellaneous
 
@@ -114,9 +114,9 @@ Title | Description | Focus
 
 ## Related Lists
 
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11822
-* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3934
-* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1080
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:11819
+* [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:3935
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1079
 
 ## Archive/abandoned projects
 

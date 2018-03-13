@@ -11,6 +11,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
+- [C++ Libraries](#c++-libraries)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
@@ -36,7 +37,8 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:102
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:103
+* [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -54,15 +56,17 @@ List of content
 * [Chain.so](http://chain.so)
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
-* [Blockr](https://blockr.io)
-* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer) :star:102
+* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer) :star:104
 * [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php) :star:166
 * [Smartbit](https://www.smartbit.com.au)
 
+# C++ Libraries
+* [Libbitcoin](https://libbitcoin.org/)
+
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:29
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:363
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2462
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:365
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2467
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:104
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:36
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -77,8 +81,9 @@ List of content
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:14
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
-* [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
+* [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
@@ -93,6 +98,7 @@ List of content
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](http://www.cs.princeton.edu/~tongbinw/bitcoinIDE/build/editor.html) Bitcoin Script for dummies
 * [Debug Script Execution](https://webbtc.com/script)
+* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:95
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
@@ -103,6 +109,7 @@ List of content
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+* [Blockchain2Graph](https://github.com/straumat/blockchain2graph) Graph Database Builder
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
@@ -114,7 +121,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8405
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8427
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

@@ -46,7 +46,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server. :star:11
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:40
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics. :star:27
-- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:50
+- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:51
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:32
 
 ## Themes
@@ -86,10 +86,10 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:157
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:6
-- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:9
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:10
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:11
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:10
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:83
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:82
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:21
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:23
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:92

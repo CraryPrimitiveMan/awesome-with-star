@@ -47,7 +47,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files.
 
 #### SWF Inspectors
-* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)). :star:230
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)). :star:229
 * [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector. :star:22
 
 #### SWF Decompilers
@@ -62,7 +62,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### MVC Frameworks
 
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:119
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:983
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:982
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:29
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
 * [Somacore](https://github.com/soundstep/somacore_framework) - Lightweight event-based AS3 MVC framework. :star:22
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1098
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1097
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:34
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:2
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:8
@@ -130,7 +130,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Unit Testing
 
 * [AS3unit](https://github.com/Hoten/as3unit) - Unit testing framework for ActionScript 3. :star:5
-* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively. :star:188
+* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively. :star:187
 * [expect.as](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3. :star:10
 * [AS3spec](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec. :star:22
 * [Flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects. :star:273
@@ -257,7 +257,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:84
-* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:27
+* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:26
 
 #### Sound
 
@@ -402,7 +402,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:529
 * [AS3abc](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files. :star:2
-* [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools. :star:230
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools. :star:229
 * [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run. :star:14
 
 #### SVG
@@ -523,7 +523,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders. :star:70
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched)). :star:89
 * [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1519
-* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:47
+* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:48
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more. :star:8
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions. :star:1
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3. :star:5

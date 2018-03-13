@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:488
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:489
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -67,9 +67,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:242
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1709
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4818
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4819
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1589
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1588
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1083
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:840
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:553
@@ -87,8 +87,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:290
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:407
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:799
-* [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:469
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:800
+* [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:471
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:119
 
@@ -106,7 +106,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:826
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:827
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
@@ -137,9 +137,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Build Tools
 *Project build and automation tools.*
 
-* [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. :star:922
+* [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. :star:923
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
-* [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang. :star:623
+* [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang. :star:624
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -156,7 +156,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1021
+* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1020
 
 ## Date and Time
 *Libraries for working with dates and times.*

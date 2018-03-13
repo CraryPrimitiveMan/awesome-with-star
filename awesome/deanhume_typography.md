@@ -60,7 +60,7 @@ A curated collection of awesome web typography articles.
 - [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 - [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 - [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
-- [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css) :star:787
+- [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css) :star:788
 - [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 - [brick.im](https://github.com/alfredxing/brick) :star:2860
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)

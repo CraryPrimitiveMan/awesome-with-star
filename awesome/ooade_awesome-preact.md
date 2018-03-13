@@ -24,12 +24,12 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:17977
+- [Github](https://github.com/developit/preact) :star:17995
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2942
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3109
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:2943
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3113
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:10
 
@@ -108,9 +108,9 @@
 - [Golazon](https://github.com/sobstel/golazon) - Football data mnmlist way. :star:17
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:90337
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12338
-- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:4090
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:90412
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12342
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:4097
 
 ### Tips
 Contribute some ;)

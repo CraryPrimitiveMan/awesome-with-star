@@ -93,7 +93,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:602
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
-	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1606
+	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1604
 
 - [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]
@@ -102,10 +102,10 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
 	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:286
-	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1149
+	- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1148
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:74
+	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:75
 
 ### Online editors
 
@@ -121,7 +121,7 @@ Online editors that allow you to edit documents collaboratively.
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. The GUI looks quite dated, though. ![Mac][mac] ![Windows][windows] ![Linux][linux] ![foss][foss]
-- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:82
+- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable, :star:84
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![Linux][linux] ![Mac][mac] ![foss][foss]
@@ -231,7 +231,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Tutorials
 
 - [The (Not So) Short Introduction to LaTeX2e](http://mirrors.ctan.org/info/lshort/english/lshort.pdf) - A very comprehensive introduction to LaTeX.
-- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2095
+- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - A brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2096
 - [Getting to Grips with LaTeX](https://www.andy-roberts.net/writing/latex) - A complete guide going through the majority of things you need to know about LaTeX.
 
 ## Books
@@ -243,6 +243,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Blogs
 
 - [TeXblog](http://texblog.net) - Blog about LaTeX and everything related.
+- [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 - [TeX Talk](http://tex-talk.net) - Blog for the TeX Stack Exchange site with news and interviews.
 
 ## Social media

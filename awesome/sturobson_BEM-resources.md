@@ -68,7 +68,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### PostCSS
 
-- [PostCSS BEM Linter](https://github.com/postcss/postcss-bem-linter) :star:402
+- [PostCSS BEM Linter](https://github.com/postcss/postcss-bem-linter) :star:401
 
 ## Repos, CodePens and Things
 
@@ -91,5 +91,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 
 ### Other Awesome Lists
-- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:79993
+- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:80087
 

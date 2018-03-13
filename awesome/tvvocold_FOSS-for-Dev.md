@@ -28,41 +28,41 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20453
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20454
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:47
 
 
 ## IDE 
 
  * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:819
- * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3853
+ * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3852
 
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3949
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:2995
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3950
+ * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:2996
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8865
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
 
- * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:2471
+ * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:2472
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
  * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9870
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6542
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1710
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:9878
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6545
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1713
 
 
 ## Security and PKI
 
  * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
- * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software :star:135
+ * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software :star:136
 
 
 ## Bug trackers
@@ -72,13 +72,13 @@ Feel free to send a PR :)
 
 
 ## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2728
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2731
 * [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9402
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4191
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4194
 
 ## ADN 
   

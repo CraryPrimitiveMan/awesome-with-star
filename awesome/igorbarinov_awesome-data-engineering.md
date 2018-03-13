@@ -132,6 +132,7 @@ multi-processor, multi-core machines
 
 
 # Stream Processing
+* [Apache Beam](https://beam.apache.org/) Apache Beam is a unified programming model that implements both batch and streaming data processing jobs that run on many execution engines.
 * [Spark Streaming](https://spark.apache.org/streaming/) Spark Streaming makes it easy to build scalable fault-tolerant streaming applications.
 * [Apache Flink](https://flink.apache.org/) Apache Flink is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams.
 * [Apache Storm](https://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system
@@ -140,6 +141,7 @@ multi-processor, multi-core machines
 * [VoltDB](https://voltdb.com/)
 * [PipelineDB](https://github.com/pipelinedb/pipelinedb) The Streaming SQL Database https://www.pipelinedb.com
 * [Spring Cloud Dataflow](http://cloud.spring.io/spring-cloud-dataflow/) Streaming and tasks execution between Spring Boot apps
+* [Bonobo](https://www.bonobo-project.org/) Bonobo is a data-processing toolkit for python 3.5+
 
 # Batch Processing
 * [Hadoop MapReduce](http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
@@ -176,7 +178,9 @@ multi-processor, multi-core machines
 * [PyXley](https://github.com/stitchfix/pyxley) Python helpers for building dashboards using Flask and React
 * [Plotly](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
 * [Apache Superset](https://github.com/airbnb/superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+* [Redash](https://redash.io/) Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 * [Metabase](https://github.com/metabase/metabase) Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+
 
 # Workflow
 * [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
@@ -233,6 +237,9 @@ multi-processor, multi-core machines
 
 ## Conferences
 * [DataEngConf](http://www.dataengconf.com/about) DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+
+## Podcasts
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
 
 Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
 

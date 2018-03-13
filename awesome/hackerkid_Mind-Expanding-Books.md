@@ -56,7 +56,7 @@
 | SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |  
 | The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |  
 | Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |  
-| Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) |  |  
+| Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) | 2007 |  
 | The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |  
 | Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |  
 | ReWork: Change the Way You Work Forever | David Heinemeier Hansson | [3.93](https://www.goodreads.com/book/show/6732019-rework) | 2010 |  
@@ -70,15 +70,15 @@
 | The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |  
 | Contagious: Why Things Catch On | Jonah Berger | [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
 | Who Says Elephants Can't Dance?: Leading a Great Enterprise through Dramatic Change | Louis V Gerstner, Jr | [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |  
-| Linchpin: Are You Indispensable | Seth Godin | [3.87](https://www.goodreads.com/book/show/7155145-linchpin) |  |  
+| Linchpin: Are You Indispensable | Seth Godin | [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |  
 | The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | Chris Guillebeau | [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
 | Too Big to Fail | Andrew Ross Sorkin | [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |  
 | The Paradox of Choice: Why More Is Less | Barry Shwartz | [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |  
 | The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything | Guy Kawasaki | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
-| Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business | Jeff Howe | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) |  |  
-| Cognitive Surplus: Creativity and Generosity in a Connected Age | Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) |  |  
-| Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) |  |  
-| One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) |  |  
+| Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business | Jeff Howe | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |  
+| Cognitive Surplus: Creativity and Generosity in a Connected Age | Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |  
+| Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |  
+| One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
@@ -95,8 +95,10 @@
 | The Concise 48 Laws of Power | Robert Greene | [4.25](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) | 2011 |  
 | The Hero with a Thousand Faces | Joseph Campbell | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |  
 | Zen Mind, Beginner's Mind | Shunryu Suzuki, David Chadwick | [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |  
-| The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |  
+| The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
+| Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
 | Influence: The Psychology of Persuasion | Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
+| Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
@@ -150,7 +152,6 @@
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |  
-| Gifs of Immperfection | Brene Brown | [](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
