@@ -22,14 +22,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:118
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:119
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:43
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:43
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses. :star:8
 * [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs :star:28
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard :star:14
-* [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard :star:29
+* [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard :star:30
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard :star:3
 * [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:36
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:30
@@ -38,7 +38,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:21
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
-* [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:207
+* [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:206
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service :star:18
 * [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) - Amazon SQS integration :star:10
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
@@ -46,7 +46,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Authentication
 
-* [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard :star:32
+* [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard :star:33
 * [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies :star:18
 
 ### Assets
@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Scheduled/Recurrence Jobs
 
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:56
-* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:105
+* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:106
 * [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:27
 
 ### Guice

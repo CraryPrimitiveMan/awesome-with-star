@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:217
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5189
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5194
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,13 +28,13 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:430
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:438
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:855
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:859
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:352
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:353
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
-- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:74
+- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:77
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:112
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
@@ -66,7 +66,7 @@ under the hood:
 - [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
 - [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:4
 - [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:13
-- [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:13
+- [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:14
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:11
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
 - [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:10

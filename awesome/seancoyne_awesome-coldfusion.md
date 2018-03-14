@@ -37,7 +37,7 @@ Pull requests very welcome.
 
 ## Testing
 
-* [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:72
+* [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:73
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:86
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
@@ -74,7 +74,7 @@ Pull requests very welcome.
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
-* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:78
+* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:79
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:141
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
@@ -119,7 +119,7 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
-* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:16
+* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:17
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation

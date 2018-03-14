@@ -332,7 +332,7 @@ We also recommend these lists.
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman) :star:4621
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman) :star:4622
 
 ## Profiling
 
@@ -497,10 +497,10 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20911
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1071
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:20925
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1072
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes) :star:490
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) :star:80091
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) :star:80257
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) :star:1052
 
 # How to contribute?

@@ -32,7 +32,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
-- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:6658
+- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:6665
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) :star:2231
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
@@ -98,7 +98,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 - [Writing an Nginx authentication module in Lua](https://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 - [Scaling TextRazor in the Cloud with Nginx and Lua](http://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-- [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/maiome-development/lsso) :star:29
+- [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/maiome-development/lsso) :star:30
 - [Measuring Nginx Cache Performance using Lua and Redis](http://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 
 ## OpenResty
@@ -114,7 +114,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
-- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:3907
+- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:3909
 
 - [OpenResty Con 2015](http://www.iresty.com)
 

@@ -71,9 +71,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:308
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:309
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:606
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:607
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
@@ -86,7 +86,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower :star:15
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework :star:72
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
-* [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:86
+* [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:87
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service :star:5
 
 
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:4
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3571
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3580
 
 
 ## CMS & Blogs
@@ -112,7 +112,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:342
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:73
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:74
 
 
 ## Command Line
@@ -140,7 +140,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:8
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:126
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:127
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:8
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
@@ -209,7 +209,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for manipulating images & other media.*
 
 * [nova](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon PHP Framework :star:7
-* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc :star:59
+* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc :star:60
 
 
 ## Miscellaneous
@@ -218,8 +218,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:32
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:649
-* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework :star:7
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:650
+* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework :star:8
 * [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:32
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps :star:3
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL :star:4
@@ -255,13 +255,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework :star:15
 * [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:99
-* [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:24
+* [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:25
 * [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework :star:58
 * [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server :star:35
 * [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate :star:86
-* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:16
-* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:32
-* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework :star:213
+* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:17
+* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:33
+* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework :star:214
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon :star:23
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application :star:161
 * [PhREST API](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package :star:28
@@ -363,8 +363,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt :star:53
 * [Phalcon Box](https://github.com/phalcon/box) - Phalcon Box is an official, pre-packaged Vagrant box that provides you a wonderful development environment :star:199
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services :star:28
-* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:82
-* [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application :star:16
+* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:83
+* [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application :star:15
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice :star:44
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
 * [phalcon-vagrant-dev](https://github.com/oscarmolinadev/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir :star:1
