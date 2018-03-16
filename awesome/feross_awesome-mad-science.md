@@ -59,14 +59,14 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3399
-- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7463
+- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3398
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7465
 
 ## virtual machines
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:921
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1727
+- [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1728
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.

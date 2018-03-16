@@ -96,7 +96,7 @@
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:15
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
-- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1106
+- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1107
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
@@ -110,5 +110,5 @@
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:70
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:70
-- [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework :star:26
+- [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework :star:25
 

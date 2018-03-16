@@ -106,7 +106,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2730
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:848
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:849
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2347
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2352
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -236,7 +236,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:54
   API framework sitting on top of Pyramid and ElasticSearch
-* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:56
+* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:57
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:14
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
@@ -344,7 +344,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:385
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:384
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -375,7 +375,7 @@ provide new storage backends.*
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
-* [cone.app](https://github.com/bluedynamics/cone.app) - A comprehensive web application stub on top of Pyramid. :star:6
+* [cone.app](https://github.com/bluedynamics/cone.app) - A comprehensive web application stub on top of Pyramid. :star:7
 
 ## CMS
 
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1495
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1497
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12
