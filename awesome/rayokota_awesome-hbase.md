@@ -37,7 +37,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:489
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:490
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:215
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:381
 
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:789
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:790
 
 #### Geospatial
 

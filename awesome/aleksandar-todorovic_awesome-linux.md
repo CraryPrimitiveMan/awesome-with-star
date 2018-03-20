@@ -349,7 +349,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
 * [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
-* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:249
+* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:250
 * [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:2649
 * [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version. :star:274
@@ -368,29 +368,29 @@ Distro-oriented:
 
 Distro-independent:
 
-* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:2733
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:2740
 
 ### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:34305
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:34318
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:3285
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:1997
-* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:10367
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:2917
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:3290
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2002
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:10374
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:2918
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices. :star:176
-* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:34966
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:35034
 
 ## Useful Websites
 

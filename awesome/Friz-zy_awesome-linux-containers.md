@@ -71,7 +71,7 @@ Rancher is a complete, open source platform for deploying and managing container
 Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
-* [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)  
+* [CIAO](https://ciao-project.github.io/)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
  * [Kontena](http://kontena.io)  
 Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
@@ -90,13 +90,14 @@ Ubuntu Core is the perfect system for large-scale cloud container deployments, b
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
-* [Clear Linux Project](https://clearlinux.org/documentation/gs_getting_started.html)  
+* [Clear Linux Project](https://clearlinux.org/documentation/clear-linux/get-started)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
 * [OSv](http://osv.io/)  
 OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
-* [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
+* [HypriotOS](http://blog.hypriot.com/about/)  
+Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
 
 ## Hypervisors
 
@@ -106,7 +107,7 @@ An open platform for distributed applications for developers and sysadmins. **St
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
-* [MultiDocker](https://github.com/marty90/multidocker) :star:3
+* [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## Containers
@@ -139,6 +140,8 @@ Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 * [Kata Containers](https://katacontainers.io/)  
 Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
+* [plash](https://github.com/ihucos/plash/)  
+Lightweight, rootless containers.
 
 ## Sandboxes
 

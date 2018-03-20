@@ -50,15 +50,15 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13293
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1191
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4489
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13307
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1192
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4492
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:382
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:384
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
-- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap` :star:86
+- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap` :star:85
 
 ### Fish
 
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4571
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4576
 
 [More...](https://testanything.org/producers.html)
 
