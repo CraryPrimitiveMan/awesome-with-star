@@ -66,8 +66,8 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:31
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:371
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2487
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:373
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2492
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:105
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:36
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -80,7 +80,7 @@ List of content
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:769
 
 # Python Libraries
-* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:14
+* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:15
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
@@ -122,7 +122,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8577
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8601
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

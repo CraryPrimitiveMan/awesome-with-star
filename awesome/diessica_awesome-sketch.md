@@ -70,8 +70,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4184
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:1017
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5453
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:1019
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5454
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1100
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
@@ -80,7 +80,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow](https://github.com/abynim/UserFlows) :star:1270
+- [User Flow](https://github.com/abynim/UserFlows) :star:1271
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency) :star:115
 

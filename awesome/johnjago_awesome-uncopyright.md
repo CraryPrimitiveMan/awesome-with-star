@@ -119,7 +119,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [CanvasPaint](http://sigilmaster.com/) - Clone of Microsoft Paint in HTML, CSS, and JavaScript.
 - [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 - [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
-- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. :star:120
+- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. :star:119
 - [Public Domain Software](https://public-domain.software/) - Collection of public domain source code, mostly in C and focused on hardware interaction.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.

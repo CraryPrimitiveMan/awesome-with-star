@@ -89,7 +89,7 @@
 - [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate) :star:257
 - [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js :star:22
 - [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js :star:18
-- [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:66
+- [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:65
 - [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:358
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:337
 - [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:106
@@ -97,7 +97,7 @@
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1104
-- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:106
+- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:107
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
