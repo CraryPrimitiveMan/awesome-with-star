@@ -42,7 +42,7 @@
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:153
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:183
-- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:444
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:445
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
@@ -53,7 +53,7 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:3
-- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:99
+- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:100
 
 
 ## Works with AVA

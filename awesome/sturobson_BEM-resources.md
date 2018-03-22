@@ -68,13 +68,13 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### PostCSS
 
-- [PostCSS BEM Linter](https://github.com/postcss/postcss-bem-linter) :star:399
+- [PostCSS BEM Linter](https://github.com/postcss/postcss-bem-linter) :star:400
 
 ## Repos, CodePens and Things
 
 ### Repos
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor) :star:443
-- [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu) :star:113
+- [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu) :star:114
 - [BEM Grid](https://github.com/bem-incubator/bem-grid) :star:134
 - [Flexible Grid System with BEM](https://github.com/flexiblegs/flexiblegs-bem) :star:13
 - [BEM.js](https://github.com/maykinmedia/bem.js) :star:4
@@ -91,5 +91,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 
 ### Other Awesome Lists
-- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:80822
+- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:80947
 

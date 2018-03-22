@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3804
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3809
 
 ## Blogs
 
@@ -232,8 +232,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:276
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7346
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6867
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7350
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6871
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:102
@@ -292,17 +292,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3040
-  - [Security](https://github.com/sbilly/awesome-security) :star:2617
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1940
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3270
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2937
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3560
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2155
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1822
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3041
+  - [Security](https://github.com/sbilly/awesome-security) :star:2623
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:1943
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3274
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2942
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3567
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2156
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1826
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:80831
-  - [lists](https://github.com/jnv/lists) :star:4863
+  - [awesome](https://github.com/sindresorhus/awesome) :star:80959
+  - [lists](https://github.com/jnv/lists) :star:4867
 
 # Contributing
 

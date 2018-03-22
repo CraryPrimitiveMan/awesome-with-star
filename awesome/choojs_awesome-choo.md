@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:218
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5213
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5218
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,11 +28,11 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:445
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:446
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:862
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:863
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:356
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:358
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:77
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:112

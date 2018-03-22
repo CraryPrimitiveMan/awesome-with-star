@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11849
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11851
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4211
-- [Repo](https://github.com/substack/node-browserify) :star:11849
+- [Repo](https://github.com/substack/node-browserify) :star:11851
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1700
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1701
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:777
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:238
 
@@ -92,7 +92,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### CSS bundlers
 
-- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:391
+- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:392
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:254
 - [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:394
 
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:922
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:924
 
 ## Contributing
 

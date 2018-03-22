@@ -288,7 +288,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
 * [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
 * [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
-* [Matchbox](https://www.yoctoproject.org/tools-resources/projects/matchbox) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
+* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
 * [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
 * [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.
@@ -350,7 +350,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
 * [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
 * [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:252
-* [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:2651
+* [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:2650
 * [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version. :star:275
 
@@ -368,29 +368,29 @@ Distro-oriented:
 
 Distro-independent:
 
-* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:2745
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:2751
 
 ### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:34334
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:34346
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:3303
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2003
-* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:10385
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:2918
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:3309
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2007
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:10391
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:2919
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices. :star:176
-* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:35072
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:35108
 
 ## Useful Websites
 

@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 * [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - An FAQ styled tutorial for beginners.
 
 ### Deep Dive
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1450
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems :star:1456
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - Common misuses and how to avoid them.
@@ -54,18 +54,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
 * [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation. :star:119
-* [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:600
-* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5526
-* [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:622
+* [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible. :star:601
+* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js. :star:5534
+* [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill. :star:623
 
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16478
+* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support. :star:16489
 * [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec. :star:224
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) - Lightweight with a few extras. Compatible down to IE6!
-* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:14067
-* [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1800
+* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies. :star:14071
+* [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions. :star:1801
 * [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods. :star:3321
 
 
@@ -78,9 +78,9 @@ All of these provide more features than the language yet remain compatible. Node
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun))
-* [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:191
-* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:856
-* [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail. :star:201
+* [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:192
+* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function. :star:860
+* [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail. :star:202
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail :star:55
 * [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control :star:213
 * [p-break](https://github.com/sindresorhus/p-break) - Break out of a promise chain :star:9
@@ -88,7 +88,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-defer](https://github.com/sindresorhus/p-defer) - Create a deferred promise :star:18
 * [p-if](https://github.com/sindresorhus/p-if) - Conditional promise chains :star:38
 * [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state :star:33
-* [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently :star:203
+* [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently :star:207
 * [p-all](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency :star:52
 * [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency :star:69
 * [p-times](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently :star:15
@@ -97,7 +97,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-log](https://github.com/sindresorhus/p-log) - Log the value/error of a promise :star:17
 * [p-filter](https://github.com/sindresorhus/p-filter) - Filter promises concurrently :star:20
 * [p-settle](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason :star:23
-* [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions :star:38
+* [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions :star:40
 * [p-whilst](https://github.com/sindresorhus/p-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise :star:31
 * [p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions :star:42
 * [p-debounce](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions :star:39
@@ -111,7 +111,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-some](https://github.com/sindresorhus/p-some) - Wait for a specified number of promises to be fulfilled :star:17
 * [p-pipe](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline :star:49
 * [p-each-series](https://github.com/sindresorhus/p-each-series) - Iterate over promises serially :star:22
-* [p-map-series](https://github.com/sindresorhus/p-map-series) - Map over promises serially :star:17
+* [p-map-series](https://github.com/sindresorhus/p-map-series) - Map over promises serially :star:18
 * [p-reduce](https://github.com/sindresorhus/p-reduce) - Reduce a list of values using promises into a promise for a value :star:28
 * [p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object` :star:47
 
@@ -119,8 +119,8 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [promise-method](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one. :star:2
 * [is-promise](https://github.com/then/is-promise) - Determine if something looks like a Promise. :star:61
 * [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
-* [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`. :star:1623
-* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9439
+* [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`. :star:1622
+* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too. :star:9444
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise. :star:2
