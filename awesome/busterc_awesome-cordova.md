@@ -31,7 +31,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:934
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:938
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:662
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
@@ -67,14 +67,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
   * Icons
-    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:579
+    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:580
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
   * Splash Screens
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
-    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:366
+    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:367
     * [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
   * Plugin
     * [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) :star:14
 * Testing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
-  * [ripple](https://github.com/ripple-emulator/ripple) :star:32
+  * [ripple](https://github.com/ripple-emulator/ripple) :star:33
 * Building
   * [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch) :star:1

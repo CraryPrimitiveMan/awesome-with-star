@@ -87,12 +87,12 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Open Source
 
-- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:70
+- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:72
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:25
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:51
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components :star:1
-- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:30
+- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:31
 - [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:4
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:170
@@ -100,14 +100,14 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [fuse.QrScanner](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode. :star:2
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase. :star:14
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools. :star:29
+- [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools. :star:30
 - [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial). :star:43
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
-- [Motion](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse. :star:12
+- [Motion](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse. :star:13
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse. :star:5
-- [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse. :star:7
+- [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse. :star:8
 
 ## Plugins
 
@@ -116,7 +116,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO. :star:3
 - [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:4
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse. :star:21
-- [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code. :star:42
+- [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code. :star:41
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel. :star:2
 

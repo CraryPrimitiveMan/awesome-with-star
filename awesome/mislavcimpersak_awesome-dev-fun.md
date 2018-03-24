@@ -41,17 +41,17 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1171
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4476
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4477
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3764
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2759
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2762
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:171
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:55
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers. :star:7
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1025
-- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:654
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:655
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2679
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 - [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:2
@@ -60,7 +60,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1622
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools. :star:1624
 
 
 ## Python
@@ -77,9 +77,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5227
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5728
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1760
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5234
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5730
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1761
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:110
 
 
@@ -99,22 +99,22 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## CLI
-- [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:70
+- [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:71
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2687
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1385
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3978
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1054
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2688
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1386
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3980
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1056
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2649
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3597
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3598
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:2
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:125
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:18360
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:18464
 
 
 ## Miscellaneous

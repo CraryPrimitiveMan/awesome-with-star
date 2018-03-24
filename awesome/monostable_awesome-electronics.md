@@ -83,7 +83,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:806
+- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:807
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1144
 
 ## PCB Batching Services
@@ -169,7 +169,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Other Lists
 
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
-- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers :star:73
+- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers :star:74
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources :star:74
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics :star:10
 

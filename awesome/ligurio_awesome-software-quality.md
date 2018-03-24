@@ -62,7 +62,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:48
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:49
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -95,9 +95,9 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:282
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:191
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:192
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -275,7 +275,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:254
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:255
 
 ##### Spin/PVS
 
@@ -325,7 +325,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:8
 - [test-anything](https://github.com/finnp/test-anything) :star:122
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:513
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:514
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,16 +371,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1583
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:16
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1104
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2681
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:404
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1106
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2699
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:405
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:157
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:83
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:86
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:145
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:4
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:382
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:391
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:129
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:130
 
 ### License
 

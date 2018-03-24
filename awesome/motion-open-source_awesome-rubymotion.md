@@ -172,7 +172,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Authorization
 * [Can_i](https://github.com/macfanatic/can_i) - RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem. :star:15
-
+* [motion-authorization](https://github.com/andrewhavens/motion-authorization) - Simple authorization for RubyMotion. Inspired by CanCan and Pundit. :star:8
 
 ### Data Protocols
 * [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:19
@@ -180,7 +180,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Database
-* [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK. :star:45
+* [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK. :star:46
 * [Yapper](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe. :star:29
 * [Couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS. :star:17
 * [Motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion. :star:32

@@ -77,7 +77,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 ## Async
 
-* [aiopyramid](https://github.com/housleyjk/aiopyramid) - Run pyramid using :star:67
+* [aiopyramid](https://github.com/housleyjk/aiopyramid) - Run pyramid using :star:68
   asyncio.
 * [gevent-socketio](https://github.com/abourget/gevent-socketio) -
   gevent-socketio is a Python implementation of the Socket.IO protocol,
@@ -86,7 +86,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Stargate](https://github.com/boothead/stargate) - Stargate is a package for :star:38
   adding WebSockets support to pyramid applications using the excellent
   eventlet library for long running connections.
-* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent). :star:16
+* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent). :star:17
 
 ## Authentication
 
@@ -103,10 +103,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2732
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2733
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:850
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:851
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2368
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2372
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -217,11 +217,11 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:323
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:324
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
-* [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package :star:35
+* [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package :star:36
   which provides a very convenient way to build REST servers. It is build on
   top of Pyramid, but you do not need to know much about Pyramid to use
   rest_toolkit.
@@ -295,7 +295,7 @@ provide new storage backends.*
 
 *Packages that make working with task/background queues easier.*
 
-* [pyramid_celery](https://github.com/sontek/pyramid_celery) - Pyramid :star:85
+* [pyramid_celery](https://github.com/sontek/pyramid_celery) - Pyramid :star:87
   configuration with celery integration. Allows you to use pyramid .ini files
   to configure celery and have your pyramid configuration inside celery tasks.
 * [pyramid_rq](https://github.com/wichert/pyramid_rq) - Support using the rq :star:10
@@ -436,7 +436,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1517
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1526
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

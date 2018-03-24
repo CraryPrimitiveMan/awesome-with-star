@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:218
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5218
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5222
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,7 +28,7 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:446
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:448
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:863
   library backends.
@@ -39,7 +39,7 @@ under the hood:
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:29
-- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:23
+- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:24
 
 ### Demos
 
@@ -51,7 +51,7 @@ under the hood:
 - [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 - [chat-random](https://github.com/akiva/chat-random) :star:4
-- [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo) :star:14
+- [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo) :star:15
 - [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo](https://github.com/ZhouHansen/choo-scriber))
 
 ### Community
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:418
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:5
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:19
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:21
 
 ### License
 

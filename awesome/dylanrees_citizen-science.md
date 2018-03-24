@@ -46,13 +46,13 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
  * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
- * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA. :star:208
+ * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA. :star:209
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  * [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
- * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:533
+ * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:534
  
 ## Educational
 
