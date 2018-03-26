@@ -29,7 +29,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Build tools and Setup
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:514
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:515
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
@@ -40,7 +40,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:460
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:459
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1674
@@ -85,7 +85,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:191
 
 ## Static Web
-* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:134
+* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:135
 * [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:129
 
 ## Language Utilities
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2520
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2524
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

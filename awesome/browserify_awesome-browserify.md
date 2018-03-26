@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11854
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11855
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4212
-- [Repo](https://github.com/substack/node-browserify) :star:11854
+- [Repo](https://github.com/substack/node-browserify) :star:11855
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1704
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1707
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:777
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:238
 
@@ -88,7 +88,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Watchers
 
 - [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1685
-- [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:76
+- [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:77
 
 ### CSS bundlers
 

@@ -69,13 +69,13 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4185
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4187
 - [RenameIt](https://github.com/rodi01/RenameIt) :star:1024
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5462
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5463
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1101
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
-- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1749
+- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1750
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2921
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2922
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

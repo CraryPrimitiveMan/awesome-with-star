@@ -219,7 +219,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6676
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6678
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -252,7 +252,7 @@ module to parse, normalize and render postal addresses.
 ## Science
 
 - [Falsehoods About Systems of
-Measurement](https://web.archive.org/web/20150222171255/https://stevemoser.org/blog/2013/08/07/falsehoods-programmers-believe-about-systems-of-measurement/) -
+Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) -
 On working with systems of measurement and converting between them.
 
 

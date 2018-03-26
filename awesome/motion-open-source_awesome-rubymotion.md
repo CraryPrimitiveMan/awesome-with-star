@@ -172,10 +172,10 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Authorization
 * [Can_i](https://github.com/macfanatic/can_i) - RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem. :star:15
-* [motion-authorization](https://github.com/andrewhavens/motion-authorization) - Simple authorization for RubyMotion. Inspired by CanCan and Pundit. :star:8
+* [motion-authorization](https://github.com/andrewhavens/motion-authorization) - Simple authorization for RubyMotion. Inspired by CanCan and Pundit. :star:9
 
 ### Data Protocols
-* [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:19
+* [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:20
 * [Meteor-motion](https://github.com/whitesmith/meteor-motion) - Wrapper for Meteor DDP with support for Motion Model. :star:10
 
 

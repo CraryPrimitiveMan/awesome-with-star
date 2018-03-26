@@ -35,7 +35,7 @@ under the hood:
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:358
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:77
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:112
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:113
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:29
