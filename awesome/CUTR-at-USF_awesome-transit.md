@@ -198,7 +198,7 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) A (self-hosted) web-based GTFS editing framework.
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 - [TransitWand](http://transitwand.com/) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
-- [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A workflow tool for managing large amounts of GTFS data and importing them into OpenTripPlanner. :star:24
+- [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A workflow tool for managing large amounts of GTFS data and importing them into OpenTripPlanner. :star:25
 - [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
 
  

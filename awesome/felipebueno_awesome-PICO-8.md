@@ -66,7 +66,7 @@
 - [pico2png](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl. :star:13
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files. :star:30
-- [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files. :star:127
+- [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files. :star:128
 - [p8dl - Carts Downloader - Python](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt). :star:4
 - [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata. :star:4
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive. :star:8
@@ -77,7 +77,7 @@
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8. :star:9
 - [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder. :star:42
 - [Pico-Kit](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics. :star:13
-- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).  :star:41
+- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).  :star:42
 - [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs. :star:7
 
 ## Text Editors Language Support

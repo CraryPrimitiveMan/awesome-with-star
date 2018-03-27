@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15435
+- [Official Repository](https://github.com/less/less.js) :star:15437
 
 **[Back to top](#contents)**
 
@@ -63,7 +63,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:348
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19124
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19131
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -77,7 +77,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Grid
 
 - [Bootstrap Grid Only](https://github.com/zirafa/bootstrap-grid-only) - Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste. :star:444
-- [Framework](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid. :star:729
+- [Framework](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid. :star:728
 - [Flexible Grid System](http://flexible.gs/) - This framework will let you create your web applications in a flexible way that you've never experienced before.
 - [Fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system. It is standalone, lightweight & built using Less.
 - [Grid System](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system. :star:7
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3177
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3178
 
 **[Back to top](#contents)**
 
@@ -203,7 +203,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:702
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
 - [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:550
-- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:944
+- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:945
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:62

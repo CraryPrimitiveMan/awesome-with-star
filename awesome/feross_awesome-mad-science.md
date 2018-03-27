@@ -14,7 +14,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
-- [glslify](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders :star:894
+- [glslify](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders :star:898
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## files
@@ -38,7 +38,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2229
+- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2230
 - [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web :star:237
 
 ## streams

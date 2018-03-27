@@ -114,7 +114,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Alfred Workflow](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred. :star:1
 - [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse. :star:28
 - [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO. :star:3
-- [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:4
+- [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:5
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse. :star:21
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code. :star:41
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.

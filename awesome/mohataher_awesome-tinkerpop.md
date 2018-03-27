@@ -51,8 +51,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [scalajs-gremlin-client](https://github.com/viagraphs/scalajs-gremlin-client) (scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.
 
 ##### Go
-* [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server. :star:45
-* [Gremgo](https://github.com/qasaur/gremgo) - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack. :star:40
+* [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server. :star:46
+* [Gremgo](https://github.com/qasaur/gremgo) - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack. :star:41
 
 ##### Haskell
 * [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server. :star:6
@@ -100,7 +100,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:74
 * [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework. :star:136
 * [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack). :star:35
-* [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo. :star:27
+* [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo. :star:28
 * [Frontenac](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack. :star:26
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python. :star:38
 * [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) - Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API. :star:47

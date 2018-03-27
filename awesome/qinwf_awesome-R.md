@@ -50,7 +50,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 ## 2017
 
-* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. :star:5126
+* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. :star:5135
 * [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse :star:494
 * [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R :star:607
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components :star:347
@@ -58,10 +58,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown :star:673
 * [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals. :star:245
 * [covr](https://github.com/jimhester/covr) - Test coverage reports for R :star:189
-* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R :star:427
+* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R :star:428
 * [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow. :star:310
-* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python :star:424
-* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R :star:987
+* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python :star:427
+* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R :star:988
 * [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling. :star:68
 
 ## Integrated Development Environments
@@ -78,7 +78,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](https://radiant-rstats.github.io/docs) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. :star:115
-* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R. :star:303
+* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R. :star:305
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
@@ -87,7 +87,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Syntax
 *Packages change the way you use R.*
 
-* [magrittr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/smbache/magrittr) - Let's pipe it. :star:601
+* [magrittr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/smbache/magrittr) - Let's pipe it. :star:602
 * [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation. :star:125
 * [lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R. :star:116
 * [purrr](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js. :star:607
@@ -95,15 +95,15 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Data Manipulation
 *Packages for cooking data.*
 
-* [dplyr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query. :star:2294
-* [data.table <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax. :star:1368
+* [dplyr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query. :star:2296
+* [data.table <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax. :star:1369
 * [reshape2  <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data. :star:170
-* [readr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R. :star:593
-* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R. :star:240
-* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions. :star:581
-* [broom <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames. :star:666
-* [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists. :star:114
-* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R. :star:169
+* [readr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R. :star:594
+* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R. :star:242
+* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions. :star:582
+* [broom <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames. :star:667
+* [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists. :star:115
+* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R. :star:170
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.gagolewski.com/software/stringi/) - ICU based string processing package.
@@ -115,21 +115,21 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Graphic Displays
 *Packages for showing data.*
 
-* [ggplot2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics. :star:3006
+* [ggplot2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics. :star:3010
 * [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code. :star:342
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other. :star:468
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2. :star:318
-* [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree. :star:218
+* [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree. :star:219
 * [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales :star:178
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
-* [corrplot](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering. :star:124
+* [corrplot](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering. :star:125
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics. :star:143
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts. :star:176
 * [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-* [gganimate](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2. :star:553
+* [gganimate](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2. :star:554
 * [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
@@ -179,10 +179,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages to surf the web.*
 
 * [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together. :star:140
-* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny) :star:2776
+* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny) :star:2780
 * [shinyjs](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds. :star:329
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-* [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper. :star:686
+* [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper. :star:687
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library. :star:107
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 * [rvest <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax. :star:901
@@ -235,7 +235,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
 * [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems. :star:127
 * [elastic](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API :star:179
-* [mongolite](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R :star:160
+* [mongolite](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R :star:161
 * [RMariaDB](https://github.com/rstats-db/RMariaDB) - An R interface to MariaDB (a replacement for the old RMySQL package) :star:39
 * [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 * [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
@@ -252,7 +252,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Machine Learning
 *Packages for making R cleverer.*
 
-* [AnomalyDetection <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter. :star:2436
+* [AnomalyDetection <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter. :star:2439
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
@@ -282,7 +282,7 @@ Friedman
 * [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - Evolutionary Learning of Globally Optimal Trees
 * [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - Timeseries forecasting using ARIMA, ETS, STLM, TBATS, and neural network models
 * [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - Automatic ensemble and cross validation of ARIMA, ETS, STLM, TBATS, and neural network models from the "forecast" package
-* [prophet <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. :star:5126
+* [prophet <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. :star:5135
 * [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches.
 * [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
 * [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - Generalized linear and additive models by likelihood based
@@ -423,7 +423,7 @@ Angle Regression
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
 
-* [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources. :star:935
+* [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources. :star:937
 * [igraph <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
 * [network](https://cran.r-project.org/web/packages/network/index.html) - Basic tools to manipulate relational data in R.
 * [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic network measures and visualization tools.
@@ -459,21 +459,21 @@ Angle Regression
 *Packages for packages.*
 
 * [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development. :star:33
-* [devtools <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) - Tools to make an R developer's life easier. :star:1626
+* [devtools <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) - Tools to make an R developer's life easier. :star:1627
 * [testthat <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/testthat) - An R package to make testing fun. :star:494
 * [R6 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes. :star:209
 * [pryr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R. :star:140
 * [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions. :star:267
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R. :star:93
-* [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible. :star:242
+* [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible. :star:243
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
 * [modules](https://github.com/klmr/modules) - An alternative (Python style) module system for R. :star:133
 * [Rocker <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
-* [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins. :star:361
+* [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins. :star:362
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos. :star:81
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/). :star:189
-* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style. :star:427
+* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style. :star:428
 * [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package. :star:303
 
 ## Logging
@@ -510,7 +510,7 @@ Angle Regression
 *Packages for Learning R.*
 
 * [swirl <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
-* [DataScienceR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning. :star:1024
+* [DataScienceR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning. :star:1025
 
 # Resources
 
@@ -587,16 +587,16 @@ Where to discover new R-esources.
 *Great resources for learning domain knowledge.*
 
 * [Books](https://github.com/RomanTsegelskyi/rbooks) - List of R Books. :star:91
-* [DataScienceR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning. :star:1024
+* [DataScienceR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning. :star:1025
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
-* [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources. :star:935
+* [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources. :star:937
 * [Open Data](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data. :star:129
 * [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
 * [Package Development](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development. :star:33
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow. :star:414
-* [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins. :star:361
+* [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins. :star:362
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources. :star:141
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together. :star:140
 

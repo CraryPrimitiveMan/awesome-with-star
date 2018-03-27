@@ -80,7 +80,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task :star:35
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task :star:4
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit. :star:1
-* [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:151
+* [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:152
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:259
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23342
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23355
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:31
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13677
-* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:87
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13684
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:88
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:81240
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1085
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:81425
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1086
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4874
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4878
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:103
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:163
 

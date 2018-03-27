@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app)
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:1
 
 ## Plugins
 
@@ -31,7 +31,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:939
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:941
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:663
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)

@@ -68,16 +68,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. :star:2612
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. :star:2614
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader. :star:1197
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only. :star:309
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line. :star:92
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI. :star:22
-- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal. :star:40
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal. :star:41
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. :star:30
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way :star:35
-- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal. :star:146
+- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal. :star:147
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection. :star:219
 - [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com)
 
@@ -85,7 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface :star:196
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)). :star:217
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python. :star:2624
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python. :star:2625
 
 ### Video
 
@@ -95,50 +95,50 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations. :star:90
-- [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates. :star:655
+- [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates. :star:656
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
-- [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers. :star:446
+- [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers. :star:449
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more. :star:1557
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files. :star:456
 
 ### Web Development
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower. :star:13
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature. :star:1263
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature. :star:1264
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects. :star:139
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down. :star:101
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm. :star:109
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user. :star:14
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots. :star:826
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots. :star:829
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS. :star:20
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports. :star:26
 - [surge](https://surge.sh) - deploy directory to the web.
 - [acmetool](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers. :star:1486
-- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends. :star:1133
-- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser. :star:3590
+- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends. :star:1134
+- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser. :star:3591
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML. :star:116
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory. :star:133
-- [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client. :star:34590
-- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression. :star:2222
+- [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client. :star:34617
+- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression. :star:2230
 
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator. :star:43
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator. :star:23
-- [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots. :star:330
+- [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots. :star:333
 
 ## Devops
 
-- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services. :star:6194
-- [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure. :star:695
-- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI. :star:3557
-- [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client. :star:2602
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services. :star:6196
+- [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure. :star:698
+- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI. :star:3559
+- [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client. :star:2605
 
 ## Database
 
 - [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting. :star:218
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. :star:5463
-- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting. :star:6597
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. :star:5468
+- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting. :star:6599
 
 ## Productivity
 
@@ -158,8 +158,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker :star:2
 - [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld! :star:200
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips. :star:1020
-- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command :star:180
-- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager :star:1793
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command :star:181
+- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager :star:1794
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal :star:2308
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line! :star:17
@@ -169,24 +169,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array. :star:3
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level. :star:148
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness). :star:116
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness). :star:117
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver. :star:20
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper. :star:67
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard. :star:656
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme. :star:56
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers. :star:1520
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine. :star:56
-- [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. :star:8905
+- [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. :star:8920
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly. :star:82
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network. :star:61
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world. :star:47
 - [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli :star:88
-- [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console. :star:5200
-- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console! :star:2803
+- [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console. :star:5201
+- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console! :star:2806
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window. :star:10
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal. :star:17
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path. :star:43
-- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations. :star:936
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations. :star:938
 
 ### macOS
 
@@ -201,28 +201,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
 - [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
-- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line. :star:6213
-- [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi). :star:4652
+- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line. :star:6215
+- [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi). :star:4657
 - [shortcutfoo](https://www.shortcutfoo.com/) - Learn shortcuts for VIM, Emacs, git, bash and more.
-- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. :star:34400
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages. :star:16687
+- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. :star:34419
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages. :star:16695
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs. :star:392
 
 
 ## Data Manipulation
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/). :star:11013
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript. :star:1513
-- [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines. :star:358
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/). :star:11022
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript. :star:1514
+- [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines. :star:359
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files. :star:31
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement). :star:12
-- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool :star:214
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool :star:215
 
 ## Files and Directories
 
 ### File managers
-- [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings. :star:3327
-- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager :star:722
+- [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings. :star:3334
+- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager :star:723
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant. :star:137
 
 ### Deleting, Copying, and Renaming
@@ -239,29 +239,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes. :star:389
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin. :star:31
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files! :star:21
-- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. :star:1803
+- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. :star:1805
 
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors! :star:125
-- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust. :star:4147
+- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust. :star:4146
 
 ### Directory Navigation
 
-- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki). :star:6533
-- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. :star:3582
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki). :star:6537
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. :star:3586
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell. :star:71
-- [z](https://github.com/rupa/z) - z is the new j, yo. :star:7914
+- [z](https://github.com/rupa/z) - z is the new j, yo. :star:7922
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line. :star:282
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories. :star:13
-- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z :star:150
+- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z :star:151
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration :star:1050
 
 ## Terminal Utilities
 
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application. :star:9998
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing. :star:6476
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application. :star:10004
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing. :star:6485
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
 - [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
@@ -276,19 +276,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Git
 
-- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line. :star:302
+- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line. :star:304
 - [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it. :star:405
 - [git commander](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface. :star:1011
-- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits. :star:4577
-- [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub. :star:12510
+- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits. :star:4576
+- [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub. :star:12519
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user. :star:149
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line. :star:297
-- [tig](https://github.com/jonas/tig) - Text-mode interface for Git. :star:5814
-- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. :star:4927
+- [tig](https://github.com/jonas/tig) - Text-mode interface for Git. :star:5828
+- [grv](https://github.com/rgburke/grv) - Text-mode interface for Git with customisable vi bindings. :star:2901
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. :star:4931
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub. :star:106
-- [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository. :star:823
-- [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line. :star:71
-- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more. :star:11228
+- [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository. :star:824
+- [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line. :star:72
+- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more. :star:11232
 
 ### Changelogs
 
@@ -299,11 +300,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Gif Creation
 
 - [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding. :star:228
-- [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations. :star:1334
-- [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs. :star:2568
+- [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations. :star:1333
+- [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs. :star:2570
 - [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif. :star:205
-- [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches. :star:2925
-- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org. :star:4690
+- [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches. :star:2926
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org. :star:4730
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line. :star:187
 
 ### Image Conversion
@@ -312,7 +313,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## SVG
 
-- [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. :star:9260
+- [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. :star:9266
 
 
 ## Text Manipulation
@@ -322,7 +323,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Screensavers
 
 - [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)). :star:317
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen. :star:630
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen. :star:631
 
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal. :star:24
@@ -342,7 +343,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line :star:7
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user. :star:10
-- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port. :star:48
+- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port. :star:49
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin. :star:93
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin. :star:41
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not. :star:6
@@ -353,29 +354,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories. :star:522
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser. :star:6
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package. :star:8
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI. :star:261
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI. :star:263
 -- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speeedtest-net with different UI.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file. :star:6
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike. :star:26
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns. :star:9
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns. :star:15
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman. :star:144
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python. :star:4417
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python. :star:4423
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal. :star:14
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal. :star:254
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. :star:631
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router. :star:2
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker. :star:31
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line. :star:96
-- [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences. :star:2212
+- [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences. :star:2211
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace. :star:23
-- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors. :star:2692
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors. :star:2698
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN. :star:797
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal. :star:11
 
 ## Other Awesome Lists
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli. :star:640
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli. :star:641
 
 ## License
 

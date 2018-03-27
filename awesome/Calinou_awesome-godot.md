@@ -16,8 +16,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0. :star:32
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM. :star:11
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:37
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:109
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:87
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:110
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:88
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:14
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone. :star:8
@@ -28,7 +28,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:19
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:46
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:458
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:460
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016. :star:1
 
 ### 3D
@@ -69,7 +69,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:6
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:8
-- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:24
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:25
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash) :star:19
 
 ## Plugins and scripts
@@ -80,10 +80,10 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format. :star:17
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
-- [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:48
+- [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:49
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:49
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:6
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:168
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:169
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:6
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:11
@@ -96,7 +96,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
-- [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing. :star:48
+- [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing. :star:49
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions. :star:13
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot. :star:3
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games. :star:39

@@ -206,7 +206,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs. :star:2
-* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:361
+* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:362
 * [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media. :star:23
 
 #### Camera
@@ -438,7 +438,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:12
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:45
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:145
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:319
 
 #### Servers
 
@@ -620,7 +620,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller. :star:22
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK. :star:39
 * [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse. :star:41
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:320
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:319
 
 #### System ANE
 * [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 . :star:6

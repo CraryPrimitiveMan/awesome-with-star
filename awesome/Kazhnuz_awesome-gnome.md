@@ -74,9 +74,9 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:47
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2295
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:298
-- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:222
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2296
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:297
+- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:223
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:30
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs :star:18
 
@@ -84,7 +84,7 @@
 
 - [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop. :star:5
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
-- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop. :star:141
+- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop. :star:142
 - [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME. :star:187
 - [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
@@ -113,9 +113,9 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2263
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2269
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:243
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2427
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2441
 
 ### System
 
@@ -124,7 +124,7 @@
 ### Others
 
 - [Luminance](http://craigcabrey.com/luminance/) - Philips Hue client.
-- [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals. :star:76
+- [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals. :star:77
 
 ## GTK Modules and Systems
 
@@ -135,7 +135,7 @@
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:181
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:180
 
 ### Applets
 
@@ -175,7 +175,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:477
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:478
 
 ### Adwaita-based
 
@@ -201,7 +201,7 @@
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) - Theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:425
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:424
 
 ## Icons
 
@@ -213,13 +213,13 @@
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:806
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:807
 
 ### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:313
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:314
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme. :star:82
 
 ### Skeumorphic

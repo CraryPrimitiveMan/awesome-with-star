@@ -280,7 +280,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:74
-- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:120
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:121
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:111
@@ -307,7 +307,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Country Redirect](https://superbig.co/plugins/country-redirect) - Easily redirect visitors to a locale based on their country of origin.
 - [Craft Help](https://github.com/70kft/craft-help) - Allows developers to provide CMS documentation to their clients directly inside the control panel. :star:76
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) - Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel. :star:62
-- [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:23
+- [Eager Beaver](https://github.com/nystudio107/eagerbeaver) - Eager load elements from auto-injected Entry elements on demand :star:24
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) - Simple plugin for setting and retrieving cookies from within templates. :star:33
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink) - Easily switch between languages on any page of your website. :star:52
 - [Large Upload](https://superbig.co/plugins/large-upload) - Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
