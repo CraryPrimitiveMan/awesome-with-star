@@ -289,7 +289,7 @@ These programs are running on the server and can be [hosted using these services
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
 * [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
 * [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-  * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle) :star:146
+  * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle) :star:147
 * [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
 * [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
@@ -363,7 +363,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2057
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2058
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -384,7 +384,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:112
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1302
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1301
 
 
 **MINDMAP HTML**
@@ -393,7 +393,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:597
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1302
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1301
 
 
 ### Concept Map and Diagrams
@@ -439,7 +439,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut](https://github.com/tantaman/Strut) :star:1477
+* [Strut](https://github.com/tantaman/Strut) :star:1478
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:599
 * [hovercraft](https://github.com/regebro/hovercraft) :star:977
 
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39547
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:39569
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4337
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1497
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:692
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5258
-* [Shower](https://github.com/shower/shower) :star:3941
+* [Shower](https://github.com/shower/shower) :star:3944
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1211
 * [Slides](https://github.com/briancavalier/slides) :star:455
@@ -670,7 +670,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:850
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:853
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -729,7 +729,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:805
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:808
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

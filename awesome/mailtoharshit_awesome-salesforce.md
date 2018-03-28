@@ -73,7 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:142
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:143
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 
@@ -300,7 +300,6 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 
 ### Learning Salesforce Platform
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
-* [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
 * [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
 

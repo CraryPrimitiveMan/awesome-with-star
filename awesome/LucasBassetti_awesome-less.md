@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15437
+- [Official Repository](https://github.com/less/less.js) :star:15443
 
 **[Back to top](#contents)**
 
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3178
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3180
 
 **[Back to top](#contents)**
 
@@ -130,8 +130,8 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lessmore](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more. :star:2
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:9
 - [Oban](http://oban.io/) - 	Collection of mixins.
-- [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1740
-- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4323
+- [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1741
+- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4324
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes. :star:35
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions. :star:2
 
@@ -148,7 +148,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Java
 
-- [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java. :star:31
+- [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java. :star:32
 - [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter. :star:228
 - [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete. :star:166
 - [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:133
@@ -203,7 +203,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:702
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
 - [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:550
-- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:945
+- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:946
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:62

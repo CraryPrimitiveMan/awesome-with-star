@@ -101,7 +101,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:739
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:742
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. :star:136
 
 ## Objective-C
@@ -125,7 +125,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Android BLE advertising library](https://github.com/uriio/beacons-android) :star:60
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
-* [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon) :star:107
+* [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon) :star:108
 * [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
 
@@ -180,13 +180,13 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Linux
 
 * [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon) :star:38
-* [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon) :star:3
+* [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon)
 
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2042
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1294
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2044
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1296
 
 
 # Bluetooth Low Energy

@@ -38,7 +38,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:107
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:108
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
@@ -66,14 +66,14 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:31
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:378
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2514
-* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:106
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:379
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2522
+* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:107
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:36
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
 # PHP Libraries
-* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:52
+* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:53
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:34
 
 # Ruby Libraries
@@ -122,7 +122,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8708
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:8718
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

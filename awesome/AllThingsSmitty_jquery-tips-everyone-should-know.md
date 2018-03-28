@@ -464,8 +464,8 @@ There you go!
 If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
-$(document).ready(function() {
-  $(document).bind('contextmenu', function(e) {
+$(document).ready(function () {
+  $(document).bind('contextmenu', function (e) {
     return false;
   })
 })
@@ -474,8 +474,8 @@ $(document).ready(function() {
 ...but you can also do the same for a specific element:
 
 ```javascript
-$(document).ready(function() {
-  $('#submit').bind('contextmenu', function(e) {
+$(document).ready(function () {
+  $('#submit').bind('contextmenu', function (e) {
     return false;
   })
 })
