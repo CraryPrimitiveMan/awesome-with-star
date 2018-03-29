@@ -53,7 +53,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # Other Styleguide Lists
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
-* [Narkoz](https://github.com/narkoz/guides) :star:1446
+* [Narkoz](https://github.com/narkoz/guides) :star:1449
 * [paulmillr](https://github.com/paulmillr/code-style-guides) :star:159
 * [SalGnt](https://github.com/SalGnt/cscs) :star:1475
 * [Styleguides.io](https://github.com/maban/styleguides) :star:643
@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # Styleguides
 
 ## Generic
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) :star:7046
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) :star:7048
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -70,7 +70,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) :star:5458
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) :star:5459
 * [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
@@ -100,13 +100,13 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
-* [AirBnB](https://github.com/airbnb/javascript) :star:68349
+* [AirBnB](https://github.com/airbnb/javascript) :star:68413
 * [bevacqua's JS sg](https://github.com/bevacqua/js) :star:2467
-* [feross/standard](https://github.com/feross/standard) :star:17227
+* [feross/standard](https://github.com/feross/standard) :star:17241
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [jscs](https://github.com/jscs-dev/node-jscs) :star:5163
+* [jscs](https://github.com/jscs-dev/node-jscs) :star:5164
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
@@ -114,10 +114,10 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide) :star:1513
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) :star:23748
-* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) :star:5040
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) :star:23754
+* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) :star:5041
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide) :star:278
-* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) :star:6005
+* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) :star:6006
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide) :star:238
 
 ### CoffeeScript
@@ -147,7 +147,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [RiotJS Style Guide](https://github.com/voorhoede/riotjs-style-guide#readme) Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ## Lisp
-* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) :star:514
+* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) :star:515
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
@@ -173,18 +173,18 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 * [AirBnB](https://github.com/airbnb/ruby) :star:2225
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) :star:13761
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) :star:13767
 * [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) :star:5446
+* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) :star:5444
 
 ## Rust
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub](https://github.com/github/swift-style-guide) :star:4478
-* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) :star:8451
+* [GitHub](https://github.com/github/swift-style-guide) :star:4479
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) :star:8455
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) :star:93
 
 # Non-Code

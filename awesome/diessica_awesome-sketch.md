@@ -69,24 +69,24 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4188
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4190
 - [RenameIt](https://github.com/rodi01/RenameIt) :star:1027
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5473
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5480
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1101
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1102
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
 - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1751
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow](https://github.com/abynim/UserFlows) :star:1272
+- [User Flow](https://github.com/abynim/UserFlows) :star:1274
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency) :star:115
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2928
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:2930
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

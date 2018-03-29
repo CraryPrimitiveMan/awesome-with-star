@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:218
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5225
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5227
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -32,7 +32,7 @@ under the hood:
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:864
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:358
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:359
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:77
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:113
@@ -63,7 +63,7 @@ under the hood:
 - [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron. :star:11
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo. :star:46
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing. :star:21
-- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
+- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
 - [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:4
 - [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:13
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:14
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:418
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:5
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:21
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:23
 
 ### License
 
