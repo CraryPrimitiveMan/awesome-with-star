@@ -28,8 +28,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
-- [Ruby](https://github.com/appium/ruby_lib) :star:137
-- [Python](https://github.com/appium/python-client) :star:482
+- [Ruby](https://github.com/appium/ruby_lib) :star:138
+- [Python](https://github.com/appium/python-client) :star:483
 - [Java](https://github.com/appium/java-client) :star:489
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:58
@@ -38,11 +38,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:160
 
 ## Inspectors
-- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:708
+- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:710
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector. :star:79
-- [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector. :star:162
+- [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector. :star:163
 
 ## Become an Appium Pro
 - [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
@@ -94,7 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:51
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm. :star:56
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:92
-- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:305
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:306
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android. :star:5
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android. :star:5
 

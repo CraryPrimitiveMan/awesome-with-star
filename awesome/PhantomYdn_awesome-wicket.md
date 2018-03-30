@@ -124,8 +124,8 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:156
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1118
+- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:157
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1119
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:86
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

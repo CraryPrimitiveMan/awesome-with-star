@@ -67,12 +67,12 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:242
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1711
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4847
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4848
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1593
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1594
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1088
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:556
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:558
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -131,7 +131,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
-* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:148
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:149
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:256
 
 ## Build Tools
@@ -219,7 +219,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:8
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:35
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
-* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:780
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:781
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
@@ -230,7 +230,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang :star:54
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang. :star:2
-* [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:234
+* [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:235
 * [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:232
 
 ## Translations and Internationalizations

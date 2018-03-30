@@ -59,15 +59,15 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:46
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:32
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:189
-* [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:30
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:190
+* [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:32
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:32
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components :star:6
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:23
 * [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:49
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:6
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:9
-* [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:49
+* [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:52
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:1
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:1
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:11
@@ -79,6 +79,6 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Other
 
-* [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp. :star:18
+* [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp. :star:19
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability. :star:6
 

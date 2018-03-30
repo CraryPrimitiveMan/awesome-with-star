@@ -82,7 +82,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Java
 
 - [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) - Object-Graph Mapping Library for Neo4j. :star:168
-- [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. :star:480
+- [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. :star:481
 - [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) - Neo4j JDBC driver. :star:50
 - [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) - Java access to Neo4J graph databases at multiple levels of abstraction. :star:52
 
@@ -109,7 +109,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:935
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:240
-- [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:324
+- [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:326
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:168
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R. :star:214
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework. :star:126
@@ -183,7 +183,7 @@ Neo4j graph database.
 
 # Shell
 
-- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:218
+- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:219
 - [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:237
 
 # Visualization

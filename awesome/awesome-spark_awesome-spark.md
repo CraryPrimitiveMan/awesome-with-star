@@ -45,14 +45,14 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:551
-* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:730
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:731
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:512
 * [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:315
 
 ### Notebooks and IDEs
 
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
-* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2355
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2358
 * [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks. :star:336
 
 ### General Purpose Libraries
@@ -64,32 +64,32 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). :star:871
 * [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer. :star:458
-* [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:165
+* [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:166
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer. :star:294
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1399
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector. :star:35
-* [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector. :star:360
+* [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector. :star:361
 * [OrientDB-Spark](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector. :star:7
 
 ### Bioinformatics
 
-* [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data. :star:707
-* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:307
+* [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data. :star:708
+* [Hail](https://github.com/hail-is/hail) - Genetic analysis framework. :star:310
 
 ### GIS
 
 * [Magellan](https://github.com/harsha2010/magellan) - Geospatial analytics using Spark. :star:364
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) - Cluster computing system for processing large-scale spatial data. :star:267
+* [GeoSpark](https://github.com/Sarwat/GeoSpark) - Cluster computing system for processing large-scale spatial data. :star:268
 
 ### Time Series Analytics
 
 * [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark. :star:899
-* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:330
+* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:331
 
 ### Graph Processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX. :star:343
-* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:351
+* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:352
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support. :star:108
 * [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
@@ -130,11 +130,11 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
-* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2321
+* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2322
 
 ### Testing
 
-* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:693
+* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes. :star:695
 * [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework. :star:25
 
 ### Workflow Management
@@ -179,7 +179,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Docker Images
 
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
-- [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/). :star:710
+- [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/). :star:711
 
 ### Miscellaneous
 

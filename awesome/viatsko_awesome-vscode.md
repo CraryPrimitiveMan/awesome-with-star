@@ -98,6 +98,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material-theme](#material-theme)
   - [Nord](#nord)
   - [Plastic](#plastic)
+  - [Shades of Purple](#shades-of-purple)
   - [Seti](#seti)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -184,7 +185,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command. :star:72
+- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command. :star:73
 
 ## C#
 
@@ -584,7 +585,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:52
+- [Essence](https://github.com/flagello/Essence) :star:53
 - [Pragmatic Essence](https://github.com/orta/Essence) :star:54
 
 ## Syntax
@@ -645,6 +646,12 @@ Features full workbench theming
 
 ![](https://will-stone.github.io/plastic/screenshot-min.png)
 
+### [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
+A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+
+![](https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif)
+
 ### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
@@ -664,7 +671,7 @@ Features full workbench theming
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:151
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:152
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 - [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor. :star:29

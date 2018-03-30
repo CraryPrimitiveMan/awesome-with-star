@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:218
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5227
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5230
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,12 +30,12 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:447
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:864
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:865
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:359
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:361
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
-- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:77
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:113
+- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:78
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:114
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:23
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:29

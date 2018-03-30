@@ -20,11 +20,11 @@
 
 ## UI Libraries
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:298
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:704
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:297
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:705
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS. :star:57
-- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:102
+- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:103
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:216
 
 ## Components
@@ -57,6 +57,7 @@
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
+- [Course (egghead.io) - Functional Programming Concepts in Purescript](https://egghead.io/courses/functional-programming-concepts-in-purescript)
 
 ## Discovery
 

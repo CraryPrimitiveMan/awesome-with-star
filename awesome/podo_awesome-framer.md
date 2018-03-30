@@ -103,7 +103,7 @@
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes. :star:262
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload. :star:29
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers. :star:96
-* [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs. :star:319
+* [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs. :star:320
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer. :star:96
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events. :star:104
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions. :star:8
@@ -144,7 +144,7 @@
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects. :star:14
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:23
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:49
-* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:12
+* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style. :star:13
 * [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files). :star:140
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype. :star:32
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients. :star:16
@@ -161,14 +161,14 @@
 * [Framer-Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages. :star:18
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:59
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:60
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
 * [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
 
 ## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:285
+* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:287
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:482
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:149
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29

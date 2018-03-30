@@ -71,7 +71,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:311
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:312
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:610
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
@@ -95,9 +95,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries for implementing authentications schemes.*
 
-* [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:4
+* [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:5
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3631
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3638
 
 
 ## CMS & Blogs
@@ -112,7 +112,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:345
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:75
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:76
 
 
 ## Command Line
@@ -225,7 +225,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL :star:4
 * [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis :star:4
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework :star:19
-* [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools :star:11
+* [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools :star:12
 
 
 ## Networking
@@ -254,7 +254,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Representational state transfer.*
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework :star:15
-* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:100
+* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:101
 * [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:25
 * [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework :star:58
 * [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server :star:36

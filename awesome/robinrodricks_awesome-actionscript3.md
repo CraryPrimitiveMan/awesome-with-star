@@ -84,7 +84,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Game Frameworks
 
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
-* [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:153
+* [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:154
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:376
 * [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1152
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:31
@@ -627,7 +627,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [DesktopToast](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX. :star:25
 * [AlarmManager](https://github.com/myflashlab/alarmManager-ANE) - Run a scheduled task even if your AIR app is closed. :star:5
 * [InAppPayments](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS. :star:12
-* [PermissionCheck](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app. :star:8
+* [PermissionCheck](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app. :star:9
 * [RateMe](https://github.com/myflashlab/RateMe-ANE) - Ask your users to rate your app in the most efficient way. :star:1
 * [Statusbar](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime. :star:1
 * [Badge](https://github.com/myflashlab/Badge-ANE) - Control the iOS badge value.

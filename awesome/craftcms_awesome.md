@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell
 - [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) by Matt Shearing/A Digital
+- [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias
 #### Articles by Andrew Welch @ [nystudio107](https://nystudio107.com/blog)
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms)
 - [Creating Optimized Images in Craft CMS](https://nystudio107.com/blog/creating-optimized-images-in-craft-cms)
@@ -108,7 +109,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:369
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:370
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:102
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:163
@@ -126,7 +127,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:80
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:35
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:122
-- [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:159
+- [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:160
 - [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:291
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
@@ -247,7 +248,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore. :star:126
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks. :star:35
-- [Presto](https://github.com/caddis/craft-presto) - Static file extension for the native Craft cache. :star:26
+- [Presto](https://github.com/lewiscommunications/craft-presto) - Static file extension for the native Craft cache. :star:12
 - [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver. :star:54
 - [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content. :star:35
 
@@ -258,7 +259,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Minimee](https://github.com/johndwells/craft.minimee) - Minimize,and even external ones.  :star:69
 - [Stamp](https://github.com/aelvan/Stamp-Craft) - Add timestamps to your assets in a variety of ways; as a query string,but works with files outside your template path,combine & cache your CSS and JS files. :star:22
 - [Asset Rev](https://github.com/clubstudioltd/craft-asset-rev) - Cache-bust your assets by appending query string or swapping out asset file names with their revved version. :star:71
-- [Inlin](https://github.com/aelvan/Inlin-Craft) - Inline files in your Twig templates. Similar to Twig's `source()` function,og as a path segment.,part of the filename :star:58
+- [Inlin](https://github.com/aelvan/Inlin-Craft) - Inline files in your Twig templates. Similar to Twig's `source()` function,og as a path segment.,part of the filename :star:59
 
 ##### Debugging
 - [Bugsnag](https://superbig.co/plugins/bugsnag) - Log Craft errors/exceptions to Bugsnag.
@@ -268,14 +269,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Query](https://github.com/craftcms/query/tree/v1) - Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 
 ##### Fields
-- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) - Fast and customized set of instantly usable Field code samples. :star:201
+- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) - Fast and customized set of instantly usable Field code samples. :star:203
 - [Field Manager](https://github.com/verbb/FieldManager) - Makes it easy to manage fields and field groups. :star:186
 - [Inventory](https://github.com/lindseydiloreto/craft-inventory) - Take stock of how your fields are being used. :star:61
 
 ##### Maintenance
 - [404 Finder](https://craftpl.us/plugins/404-finder) - Keeps a running tally of pages users are currently trying to access but can't.
 - [GTmetrix](https://github.com/lukeyouell/craft-GTmetrix) - Gives insight on how well your entries load and provides recommendations to optimize. :star:12
-- [Maintenance](https://github.com/carlcs/craft-maintenance) - Provides tools to help you do maintenance on your website. :star:66
+- [Maintenance](https://github.com/carlcs/craft-maintenance) - Provides tools to help you do maintenance on your website. :star:67
 - [Patrol](https://github.com/selvinortiz/craft.patrol) - Simplifies SSL and maintenance routing. :star:92
 
 ##### Etc.
@@ -329,12 +330,14 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more. :star:58
 - [craft-cli](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS. :star:135
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config. :star:81
-- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:201
+- [craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments. :star:203
 - [craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:115
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
 - [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:183
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
-- [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
+- [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) - Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
+- [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration. :star:1
+- [craftcms3-docker](https://github.com/atillay/craftcms3-docker) - A way to start using Craft 3 without having to set up a dev environment thanks to Docker :star:11
 
 ## Community
 - [`@CraftCMS` on Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is `#craftcms`.

@@ -79,7 +79,7 @@
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:434
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:435
 
 
 ### Document Object Model
@@ -110,7 +110,7 @@
 
 ### Internationalization
 - [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
-- [Tempura](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower :star:128
+- [Tempura](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower :star:129
 
 
 ### JavaScript Interoperability

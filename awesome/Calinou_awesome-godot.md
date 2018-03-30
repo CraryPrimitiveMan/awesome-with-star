@@ -66,7 +66,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:12
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:8
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:21
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:6
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:5
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:8
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:25
@@ -83,7 +83,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:49
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:50
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:6
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:171
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:172
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:6
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:12
