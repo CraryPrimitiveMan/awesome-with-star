@@ -62,7 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray. :star:341
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray. :star:345
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
@@ -79,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1711
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1721
 
 ### Task Automation
 

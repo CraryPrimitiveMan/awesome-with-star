@@ -307,6 +307,7 @@ Table of Contents
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month free
   * [appmail.io](https://appmail.io) — First 10,000 emails free
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
+  * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) - free plan is limited to 10 outgoing mails/day
 
 ## CDN and Protection
 
@@ -604,7 +605,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:92
+  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:93
 
 ## Vagrant Related
 

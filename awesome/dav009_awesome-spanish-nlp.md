@@ -46,8 +46,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 - [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 - [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches](https://github.com/dav009/LatinamericanTextResources) :star:2
-- [South American Slang Expressions/MTWE](https://github.com/dav009/LatinamericanTextResources) :star:2
+- [Colombian Political Speeches](https://github.com/dav009/LatinamericanTextResources) :star:3
+- [South American Slang Expressions/MTWE](https://github.com/dav009/LatinamericanTextResources) :star:3
 - [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 - [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 - [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -70,7 +70,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:458
+- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:459
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

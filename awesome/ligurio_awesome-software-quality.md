@@ -77,6 +77,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
 * [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
+* [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -- Rikard Endgren
 
 #### Standards In software Testing
 
@@ -95,9 +96,9 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:283
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:284
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:194
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:195
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -275,7 +276,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:256
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:260
 
 ##### Spin/PVS
 
@@ -369,18 +370,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1592
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1605
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:18
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1125
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2722
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:408
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:159
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:93
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:145
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1138
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2754
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:409
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:160
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:100
+- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:146
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:5
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:402
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:410
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:132
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:136
 
 ### License
 

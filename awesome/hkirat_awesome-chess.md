@@ -40,14 +40,14 @@ Bots
 ---
 *Bots are algorithms involving artificial intelligence to play against a user.*
 
- - [latrunculorum](https://github.com/benwr/latrunculorum) - A simple chess bot in Python. :star:6
+ - [latrunculorum](https://github.com/benwr/latrunculorum) - A simple chess bot in Python. :star:7
  - [Chessbot](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
 Move Validators
 ---
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1218
+ - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1225
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation. :star:24
 

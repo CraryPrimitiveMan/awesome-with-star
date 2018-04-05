@@ -20,6 +20,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Atom](#migrating-from-atom)
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
+  - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [C++](#c)
@@ -85,6 +86,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Slack](#slack)
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
+  - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Vim Mode](#vim-mode)
 - [Themes](#themes)
   - [An Old Hope Theme](#an-old-hope-theme)
@@ -198,6 +200,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## CSS
 
+#### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+> Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
+
+![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
+
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
@@ -257,7 +264,6 @@ These extensions provide slightly different sets of features. While the first on
 
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
-
 
 ### Twig
 
@@ -480,7 +486,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![](https://github.com/gko/wrap/blob/master/features.gif)
 
-# Explorer Icons
+## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+
+> Allows you to toggle your formatter on and off with a simple click
+
+## Explorer Icons
 
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
@@ -575,6 +585,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
+## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
+
+> Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
+
+![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
 ## [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
@@ -585,7 +601,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:53
+- [Essence](https://github.com/flagello/Essence) :star:55
 - [Pragmatic Essence](https://github.com/orta/Essence) :star:54
 
 ## Syntax
@@ -623,6 +639,10 @@ Features full workbench theming
 ### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+### [Captain Sweetheart](https://marketplace.visualstudio.com/items?itemName=ultradracula.captain-sweetheart)
+
+![](https://raw.githubusercontent.com/mashaal/code-captain-sweetheart/master/preview.png)
 
 ### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
@@ -671,7 +691,7 @@ A professional theme with hand-picked & bold shades of purple 💜 to go along w
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:152
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:153
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 - [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor. :star:29

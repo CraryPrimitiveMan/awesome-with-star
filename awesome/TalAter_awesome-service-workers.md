@@ -32,7 +32,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to service workers and using UpUp to provide offline functionality in minutes.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-- [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API. :star:622
+- [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API. :star:626
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 - [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker) - Shortest available introduction, by [Remy Sharp](https://github.com/remy).
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of service worker Patterns by Jake Archibald.
@@ -51,9 +51,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Libraries and Tools
 
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns. :star:3222
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns. :star:3233
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
-- [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources. :star:4381
+- [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources. :star:4410
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 
 ## Videos

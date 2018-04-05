@@ -93,9 +93,9 @@
 - [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:358
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:337
 - [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:106
-- [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:15
+- [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:14
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
-- [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:32
+- [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:31
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1103
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:108
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
@@ -105,7 +105,7 @@
 
 ## Libraries
 
-- [Marionette State](https://github.com/Squareknot/marionette.state) :star:114
+- [Marionette State](https://github.com/Squareknot/marionette.state) :star:115
 - [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:135
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:70

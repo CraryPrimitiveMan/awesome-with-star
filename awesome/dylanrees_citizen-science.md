@@ -46,13 +46,13 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
  * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
- * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA. :star:209
+ * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA. :star:210
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  * [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
- * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:536
+ * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS. :star:537
  
 ## Educational
 
@@ -117,7 +117,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
- * [SciHub](http://sci-hub.bz/) - Another site for gaining access to science papers that are normally behind paywalls.
+ * [SciHub](https://sci-hub.tw/) - Another site for gaining access to science papers that are normally behind paywalls.
  * [Public Library of Science (PLOS)](https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
  * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
  * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.

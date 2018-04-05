@@ -57,7 +57,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:3015
+- [Frege](https://github.com/Frege/frege) - Official website. :star:3018
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -204,7 +204,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
-- [intellij-frege](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA. :star:13
+- [intellij-frege](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA. :star:14
 - [frege-idea-plugin](https://github.com/Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA. :star:21
 
 ### REPLs
