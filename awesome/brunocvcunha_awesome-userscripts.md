@@ -53,11 +53,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
 * [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-* [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+* [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas. :star:7
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed. :star:1
 * [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 * [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site. :star:268
+* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site. :star:270
 * [GitHub monospace font toggle](https://greasyfork.org/en/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 * [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
 * [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.

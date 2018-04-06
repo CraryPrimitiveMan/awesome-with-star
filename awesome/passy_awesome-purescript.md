@@ -7,10 +7,11 @@
 
 - [pulp](https://github.com/bodil/pulp) :star:388
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
-- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:38
+- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:39
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:115
 
 ## Preludes
 
@@ -20,12 +21,43 @@
 
 ## UI Libraries
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:297
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:710
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
+CSS:
+
 - [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS. :star:57
+
+React-based:
+
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:297
+- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:258
+- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:41
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:485
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:62
+- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:28
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:71
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:103
-- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:216
+- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
+
+Virtual-DOM based:
+
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:711
+
+Signals/Behaviors/FRP:
+
+- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:217
+- [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:11
+- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:21
+- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:26
+- [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:46
+- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:109
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:39
+
+## URL Routers
+
+- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:45
+- [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor. :star:13
+- [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:15
+- [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:2
 
 ## Components
 
@@ -77,7 +109,7 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 
 ## More Resources
 
-- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries. :star:57
+- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries. :star:58
 
 ## Contribute
 

@@ -37,7 +37,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:128
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:104
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1331
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1333
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:342
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:61
 
@@ -68,7 +68,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) (js) - A Gremlin Server driver for JavaScript.
 
 ##### PHP
-* [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.). :star:36
+* [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.). :star:37
 
 ##### Python
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python. :star:38
@@ -128,7 +128,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:104
+* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:105
 
 
 ## <A NAME="contributing"></A>How to Contribute

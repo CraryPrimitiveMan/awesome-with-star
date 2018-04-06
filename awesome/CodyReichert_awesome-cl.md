@@ -166,7 +166,7 @@ Database
 * [datafly](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15]. :star:64
 * [mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8]. [mitho-auth](https://github.com/fukamachi/mito-auth), a mixin class for use authorization; [mito-attachment](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS. :star:61
 * [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
-* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1479
+* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1482
 * [sxql](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15]. :star:115
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (see also chap. 21 of "Common Lisp Recipes")
 * [elephant](https://common-lisp.net/project/elephant/) - Elephant is a persistent object database for Common Lisp with full transaction semantics. [LLGPL][8].
@@ -195,7 +195,7 @@ Foreign Function Interface
 ## C ##
 
 * [CFFI](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14]. :star:175
-* [cl-autowrap](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39]. :star:101
+* [cl-autowrap](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39]. :star:102
 
 ## Java ##
 
@@ -239,17 +239,17 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [cl-opengl](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15]. :star:180
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat][14]. :star:131
 * [cl-svg](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat][14]. :star:11
-* [CLinch](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39]. :star:210
+* [CLinch](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39]. :star:212
 * [donuts](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14]. :star:13
 * [dufy](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT][200]. :star:12
-* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14]. :star:99
+* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14]. :star:100
 * [l-lisp](http://www.ii.uib.no/~knute/lsystems/llisp.html) - A framework for generating and simulating plants and fractals. [GNU GPL2][208].
 * [okra](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15]. :star:20
 * [opticl](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD_2Clause][17]. :star:115
 * [Varjo](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD_2Clause][17]. :star:109
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
-* [Sketch](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200]. :star:700
+* [Sketch](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200]. :star:702
 
 GUI
 ===
@@ -274,7 +274,7 @@ Implementations
 
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
 * [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
-* [CLASP](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others). :star:1211
+* [CLASP](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others). :star:1212
 * [CMUCL](//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain.
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
 * [GCL](https://www.gnu.org/software/gcl/) - Another GNU implementation; not yet fully ANSI-compliant. [GNU LGPL2.1][11].
@@ -290,7 +290,7 @@ JSON
 Language extensions
 ===================
 
-* [cl21](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14]. :star:686
+* [cl21](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14]. :star:687
 * [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 * [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
@@ -428,7 +428,7 @@ Machine Learning
 ================
 
 * [clml](https://github.com/mmaul/clml) - originally developped by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8]. :star:125
-* [mgl](https://github.com/melisgl/mgl) - used by its [author](http://quotenil.com/) to [win](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge. [MIT][200]. :star:155
+* [mgl](https://github.com/melisgl/mgl) - used by its [author](http://quotenil.com/) to [win](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge. [MIT][200]. :star:154
 * [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat](https://github.com/melisgl/mgl-mat) and [LLA](https://github.com/tpapp/lla).
 
 Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
@@ -456,7 +456,7 @@ HTTP Servers
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8]. :star:87
 * [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14]. :star:145
-* [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200]. :star:629
+* [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200]. :star:630
 
 ### Clack plugins
 
@@ -475,9 +475,9 @@ Web frameworks
   Example projects: [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web) - Framework for building modern web apps. [Expat][14]. :star:33
 * [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200]. :star:147
-* [radiance](https://github.com/Shirakumo/radiance) - An extensible framework library and multi-application CMS. [Artistic License 2.0][51]. :star:86
+* [radiance](https://github.com/Shirakumo/radiance) - An extensible framework library and multi-application CMS. [Artistic License 2.0][51]. :star:87
 * [Lucerne](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200]. :star:105
-* [Snooze](https://github.com/joaotavora/snooze) - A RESTful web framework, built on Clack, where routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8]. :star:45
+* [Snooze](https://github.com/joaotavora/snooze) - A RESTful web framework, built on Clack, where routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8]. :star:47
 
 There are more projects, more or less discontinued but interesting. See the other ressources.
 
@@ -524,7 +524,7 @@ Javascript
 
 * [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5]. :star:227
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
-* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:425
+* [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop. :star:427
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
 * [SmackJack](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200]. :star:9
@@ -669,7 +669,7 @@ This contains plugins and other goodies for various text editors.
 ## Vim ##
 
 * [SLIMV](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified. :star:248
-* [Vlime](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200]. :star:76
+* [Vlime](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200]. :star:77
 
 ## Lem ##
 
@@ -705,7 +705,7 @@ Text Processing
   Calculate various string metrics efficiently in Common Lisp
   (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
   etc). [MIT][200].
-* [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200]. :star:30
+* [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200]. :star:31
 
 Tools
 =====
@@ -779,7 +779,7 @@ Documentation builders
 * [sphinxcontrib-cldomain](https://github.com/russell/sphinxcontrib-cldomain) -
   Extending Sphinx to cover Common Lisp. To build documentation with
   the same ease as sphinx would a Python project. [GPL3][2]
-* [Codex](https://github.com/CommonDoc/codex) - A beautiful :star:54
+* [Codex](https://github.com/CommonDoc/codex) - A beautiful :star:55
   documentation system for Common Lisp. [MIT][200].
 * [Staple](https://github.com/Shinmera/staple) - a tool to generate :star:11
   documentation pages using an HTML template. Uses the existing

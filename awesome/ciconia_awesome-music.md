@@ -22,26 +22,26 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Editing
 
-* [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor. :star:1213
+* [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor. :star:1215
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere. :star:1859
-* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9722
+* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web. :star:9725
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
-* [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1813
+* [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems. :star:1817
 * [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps. :star:2472
 * [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library. :star:2
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
-* [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - a lightweight DSP library written in C. :star:555
+* [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - a lightweight DSP library written in C. :star:556
 
 ## Audio Tools
 
 * [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
-* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8939
+* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server. :star:8941
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](http://home.gna.org/lltag/) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
@@ -67,7 +67,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Abjad](http://projectabjad.org/) - a Python API for Formalized Score Control, based on Lilypond.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
-* [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor. :star:297
+* [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor. :star:298
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 * [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
@@ -80,7 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager. :star:2
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond. :star:9
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users. :star:47
-* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2553
+* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software. :star:2556
 * [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX. :star:31
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
@@ -130,7 +130,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Related lists
 
-* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization. :star:1785
+* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization. :star:1790
 * [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music. :star:6
 * [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music. :star:60
 * [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio. :star:224

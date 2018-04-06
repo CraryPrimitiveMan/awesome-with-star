@@ -142,7 +142,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Web Programming • Libraries
 
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:2037
+- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:2041
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
@@ -240,7 +240,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders. :star:215
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS. :star:167
-- [ThreeJS post-proces example](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+- [ThreeJS post-proces example](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS. :star:17
 - [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify. :star:341
@@ -302,8 +302,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Interactive
 
-- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming. :star:1918
-- [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API. :star:943
+- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming. :star:1921
+- [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API. :star:944
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
@@ -361,7 +361,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Math
 
-- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6137
+- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6138
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind. :star:33
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
@@ -463,18 +463,18 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:766
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:261
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:372
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1786
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:6358
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:769
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:263
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:373
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1790
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:6376
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:242
-- [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:447
+- [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:450
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:391
-- [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1124
-- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4788
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1128
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4791
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:23697
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:23712
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

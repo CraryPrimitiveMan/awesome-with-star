@@ -195,7 +195,7 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
-* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good. :star:2859
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good. :star:2858
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.

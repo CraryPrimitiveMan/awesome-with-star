@@ -104,7 +104,7 @@ Processing Unit (GPU).
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
 * [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1068
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1069
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -129,9 +129,9 @@ Processing Unit (GPU).
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser. :star:444
+* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser. :star:445
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
-* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities. :star:714
+* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities. :star:715
 
 #### Firefox Specific Tools/Debugger
 
@@ -321,12 +321,12 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:82166
-* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:766
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:82232
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:768
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:795
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4788
-* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2075
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1124
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4789
+* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2079
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1127
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.

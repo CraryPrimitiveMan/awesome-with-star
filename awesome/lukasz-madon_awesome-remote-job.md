@@ -224,7 +224,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
-  1. [Home Work](http://5by5.tv/homework) - A weekly advice podcast for people who work from home. (No longer in production but archive still available)
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
@@ -464,6 +463,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
   1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
+  1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.

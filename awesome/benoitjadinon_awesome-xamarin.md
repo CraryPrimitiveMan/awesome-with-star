@@ -33,34 +33,34 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
   * [Other Lists](#other-lists)
 
 ## General
-* [AutoMapper ★4,111](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET :star:5327
-* [Humanizer ★2,407](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities :star:3164
-* [Fluent Validation ★1,893](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules :star:3101
+* [AutoMapper ★4,111](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET :star:5328
+* [Humanizer ★2,407](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities :star:3165
+* [Fluent Validation ★1,893](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules :star:3104
 * [NodaTime](https://nodatime.org/) - Alternative date and time API for .NET
-* [Polly ★1,913](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker :star:3768
+* [Polly ★1,913](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker :star:3774
 
 ## Architecture
 * [Behaviors Toolkit ★26](https://github.com/ThomasLebrun/XamarinBehaviorsToolkit) - A means of adding common and reusable interactivity to your Xamarin applications with minimal code :star:33
 * [Conditions ★44](https://github.com/ghuntley/conditions) - Library that helps developers write pre- and postcondition validations in a fluent manner :star:47
-* [Stateless ★1,409](https://github.com/dotnet-state-machine/stateless) - State Machines :star:2083
+* [Stateless ★1,409](https://github.com/dotnet-state-machine/stateless) - State Machines :star:2085
 
 ## Async
-* [AsyncEx ★638](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await :star:1112
-* [LinqToAwait ★86](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await :star:95
+* [AsyncEx ★638](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await :star:1115
+* [LinqToAwait ★86](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await :star:96
 
 ## Charts
-* [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET :star:1208
-* [MicroCharts](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts. :star:657
+* [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET :star:1209
+* [MicroCharts](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts. :star:658
 
 ## Cloud
 * [Azure](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/) - Microsoft Azure
-* [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper :star:448
+* [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper :star:449
 * [Bugfender](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android)
 
 ## Database
-* [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications :star:1593
+* [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications :star:1592
 * [Breeze ★50](https://github.com/Breeze/breeze.sharp) - Data management library for developers of rich client applications :star:60
-* [Couchbase.Lite ★229](https://github.com/couchbase/couchbase-lite-net) - Lightweight embedded NoSQL database :star:287
+* [Couchbase.Lite ★229](https://github.com/couchbase/couchbase-lite-net) - Lightweight embedded NoSQL database :star:288
 * [Lager ★2](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend :star:2
 * [Massive ★1,595](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively :star:1681
 * [Realm ★441](https://github.com/realm/realm-dotnet) - mobile database that runs directly inside phones, tablets or wearables :star:650
@@ -68,7 +68,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [SQLite.Net-PCL ★298](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async :star:334
 
 ## Fody
-* [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies  :star:1923
+* [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies  :star:1922
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
 * [PropertyChanged.Fody](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time
 * [ReactiveUI.Fody ★60](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties :star:98
@@ -82,7 +82,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Game Engine
 * [CocosSharp ★402](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs :star:457
-* [MonoGame ★4,023](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework  :star:5013
+* [MonoGame ★4,023](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework  :star:5012
 * [Paradox ★1,252](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET :star:1629
 * [UrhoSharp](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/) - Cross-platform high-level 3D and 2D engine
 
@@ -91,11 +91,11 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [PCL Storage ★174](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET :star:261
 
 ## IOC/DI
-* [Autofac ★1,309](https://github.com/autofac/Autofac) - An addictive .NET IoC container :star:1944
+* [Autofac ★1,309](https://github.com/autofac/Autofac) - An addictive .NET IoC container :star:1947
 * [DryIoc](https://bitbucket.org/dadhi/dryioc) - fast, small, full-featured IoC Container for .NET
 * [Funq ★1](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories :star:2
 * [LightInject ★203](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET :star:284
-* [Ninject ★1,634](https://github.com/ninject/Ninject) - The ninja of .net dependency injectors :star:1933
+* [Ninject ★1,634](https://github.com/ninject/Ninject) - The ninja of .net dependency injectors :star:1934
 * [Stiletto ★26](https://github.com/benjamin-bader/stiletto) - .NET port of Dagger, the lightweight Android dependency injector from Square :star:36
 * [TinyIoC ★466](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container :star:564
 
@@ -110,8 +110,8 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin :star:11
 * [Fast & Furious Image Loading ★338](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily :star:710
-* [Lottie ★143](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin :star:548
-* [MediaManager ★46](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL :star:227
+* [Lottie ★143](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin :star:549
+* [MediaManager ★46](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL :star:228
 * [NGraphics ★334](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics :star:447
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone :star:50
 * [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/graphics-games/skiasharp/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
@@ -121,12 +121,12 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## MVVM
 * Frameworks
-  * [MVVMCross ★1,793](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework :star:2464
+  * [MVVMCross ★1,793](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework :star:2466
 	* [Cheesebaron.MvxPlugins ★68](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins :star:77
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
 		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
 	* [Infinite Scroll Plugin ★19](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source. :star:23
-  * [FreshMvvm ★160](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms :star:293
+  * [FreshMvvm ★160](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms :star:294
   * [MugenMvvmToolkit ★102](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross- :star:122
   * [MVVMLight](http://www.mvvmlight.net) - Cross-platform MVVM development framework
   * [MvvmNano ★26](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms :star:45
@@ -136,22 +136,22 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Network
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library. :star:908
-* [Fusillade ★160](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive :star:205
+* [Fusillade ★160](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive :star:206
 * [Messaging](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - make a phone call, send a sms or send an e-mail using the default messaging applications
 * [ModernHttpClient ★489](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
 * [NFC](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags. :star:13
 * [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability ★12](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check :star:22
-* [Refit ★1,092](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET :star:2370
+* [Refit ★1,092](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET :star:2372
 * [RestEase ★81](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing... :star:297
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard. :star:36
 * [Sockets ★113](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT :star:172
 
 ## Reactive
-* [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications :star:1593
+* [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications :star:1592
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework  :star:3608
 * [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows :star:24
-* [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface :star:2370
+* [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface :star:2372
 * [ReactiveProperty ★305](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions :star:316
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -162,7 +162,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Permissions](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
 
 ## Serialization
-* [Newtonsoft.Json ★3,775](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET :star:5380
+* [Newtonsoft.Json ★3,775](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET :star:5382
 
 ## TDD/BDD
 * [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts
@@ -205,7 +205,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [SVG](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG file format support
 * [Toasts Plugin ★127](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application :star:197
 * [TwinTechsFormsLib ★132](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell :star:179
-* [Xamarin-Forms-Labs ★1,071](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers :star:1360
+* [Xamarin-Forms-Labs ★1,071](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers :star:1362
 * [xamarin-forms-xna ★6](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms :star:7
 * [Xamarin.Forms.GoogleMaps ★109](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API :star:222
 

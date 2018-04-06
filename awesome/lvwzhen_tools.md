@@ -95,7 +95,7 @@
 * [flatuicolors](http://flatuicolors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors](https://github.com/mrmrs/colors) :star:8159
+* [colors](https://github.com/mrmrs/colors) :star:8160
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [colourco.de](http://colourco.de)

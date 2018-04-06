@@ -124,7 +124,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard. :star:100
-* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:116
+* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:117
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK. :star:27
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer. :star:22
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK. :star:12
@@ -135,12 +135,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Multimedia content processing
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python. :star:62
-* [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools. :star:432
+* [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools. :star:433
 * [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes. :star:13
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
-* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:679
+* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:682
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON. :star:8
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
@@ -150,7 +150,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:8
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:449
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:8993
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:9003
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:62
@@ -163,7 +163,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
-* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1069
+* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1070
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - An analyzer to inspect network packets generated in accordance with the SMPTE ST 2110 specification. :star:9
 

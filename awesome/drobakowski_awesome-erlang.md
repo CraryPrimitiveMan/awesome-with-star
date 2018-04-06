@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:494
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:495
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -72,7 +72,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1592
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1092
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:558
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:557
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -106,7 +106,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:829
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:830
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
@@ -145,7 +145,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [erl-rstar](https://github.com/armon/erl-rstar) - An Erlang implementation of the R*-tree spacial data structure. :star:39
-* [GeoCouch](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB. :star:473
+* [GeoCouch](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB. :star:474
 * [Teles](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data. :star:12
 
 ## Debugging
@@ -218,7 +218,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:153
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:8
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:35
-* [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
+* [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:782
 
 ## Internet of Things

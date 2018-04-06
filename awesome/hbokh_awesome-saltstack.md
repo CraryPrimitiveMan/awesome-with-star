@@ -101,7 +101,7 @@ A :gem: means **really _awesome / useful_**.
 
 - [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration. :star:626
 - [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack. :star:156
-- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:49
+- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:50
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack. :star:13
 
 ## Presentations

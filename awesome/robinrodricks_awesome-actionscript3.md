@@ -75,7 +75,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex. :star:31
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/)). :star:60
-* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex. :star:237
+* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex. :star:238
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern. :star:5
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing. :star:108
 * [Apache Flex®](https://flex.apache.org/) - The Apache Flex® SDK is the evolution of the popular Adobe Flex SDK. The Apache Flex® SDK is an application development framework for easily building Flash-based applications for mobile devices, web browsers, and desktop platforms.
@@ -86,7 +86,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:154
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:376
-* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1152
+* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1151
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:31
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:54
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:29
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1099
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1098
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:34
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:2
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:9
@@ -153,7 +153,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) - View-based navigation model with swipe to navigate tabs. :star:9
 * [DataGrid](https://github.com/pol2095/Feathers-Extension-DataGrid) - Displays a datagrid with column headings and smooth scrolling. :star:8
-* [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - Displays hierarchical data arranged as an expandable tree. :star:6
+* [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - Displays hierarchical data arranged as an expandable tree. :star:7
 * [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) - Supports basic vector drawing functionality. :star:7
 * [CircleProgress](https://github.com/pol2095/Feathers-Extension-CircleProgress) - Displays progress using a radial progressbar. :star:5
 * [ZoomableControl](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs. :star:3
@@ -437,7 +437,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples)). :star:116
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:12
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:45
-* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:146
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:147
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:319
 
 #### Servers

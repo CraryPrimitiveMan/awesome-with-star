@@ -11,14 +11,14 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Charts
 
-- [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step] :star:2514
+- [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step] :star:2516
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked] :star:93
-- [cubism](https://github.com/square/cubism) - Time series visualization :star:4660
+- [cubism](https://github.com/square/cubism) - Time series visualization :star:4662
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration :star:1117
 - [c3](https://github.com/c3js/c3) - Reusable chart library [line, spline, step, area, stacked, bar, pie, donut] :star:7599
-- [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side :star:1243
-- [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data :star:6154
+- [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side :star:1244
+- [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data :star:6155
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics [bubble, area, stacked] :star:2635
 - [d2b](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts :star:36
 - [d3.chart](https://github.com/misoproject/d3.chart) - Framework for building reusable charts :star:750
@@ -30,9 +30,9 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart :star:117
 - [d3-ez](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components :star:10
 - [d3-gridding](https://github.com/romsson/d3-gridding) - Chart mockups using grids :star:45
-- [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap :star:215
+- [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap :star:216
 - [d3-line](https://github.com/tj/d3-line) - Line chart :star:115
-- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data :star:272
+- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module :star:48
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart :star:67
 - [d3-tribin](https://github.com/mfilippo/d3-tribin) - Group two-dimensional points into triangular bins [bins, triangles, sampling] :star:8
@@ -41,13 +41,13 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc] :star:408
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library :star:181
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing [dot, scatter, line, heatmap, histogram] :star:25
-- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator :star:321
+- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator :star:322
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie] :star:346
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library :star:86
 - [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL [bar, donut, line, scatter, stacked, waterfall] :star:411
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library :star:124
-- [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library [area, bar, line, pie, scatter] :star:4918
-- [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization :star:888
+- [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library [area, bar, line, pie, scatter] :star:4919
+- [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization :star:889
 - [Fancycharts.js](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values [bar, circles, donut] :star:98
 - [firespray](https://github.com/boundary/firespray) - Streaming charts [bar, line, stacked] :star:94
 - [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library [line, area, stacked, bar, scatter, pie ohlc] :star:52
@@ -64,14 +64,14 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library [scatter, line, bar, pie, box plot, histogram, heatmap]
 - [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web [area, bar, line, pie, scatter, stacked] :star:2365
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module :star:323
-- [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs [line, scatter, bar] :star:6226
-- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility [line, bar, area, stacked] :star:1614
-- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis [candlestick, ohlc] :star:1484
+- [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs [line, scatter, bar] :star:6227
+- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility [line, bar, area, stacked] :star:1615
+- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis [candlestick, ohlc] :star:1486
 - [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
-- [vega](https://github.com/vega/vega) - A visualization grammar :star:5757
+- [vega](https://github.com/vega/vega) - A visualization grammar :star:5761
 - [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics :star:1199
-- [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams :star:591
-- [visavail](https://github.com/flrs/visavail) - Time data availability visualization :star:116
+- [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams :star:592
+- [visavail](https://github.com/flrs/visavail) - Time data availability visualization :star:115
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools [bubble, map, line, bar, sankey, donut] :star:163
 - [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs [line] :star:350
 
@@ -82,24 +82,24 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin :star:4
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember [line, bar, stacked, pie, scatter]
 - [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for Angular [line, area, bar] :star:1223
-- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap] :star:2275
-- [ngx-charts](https://github.com/swimlane/ngx-charts) - Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble] :star:1833
+- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap] :star:2279
+- [ngx-charts](https://github.com/swimlane/ngx-charts) - Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble] :star:1836
 - [number-picture](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations :star:97
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React [area, bar, candlestick, line, pie, scatter] :star:1719
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components [bar, stacked, scatter, line, area, pie] :star:1342
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React [area, bar, line, pie, scatter] :star:779
-- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick] :star:1571
-- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations [area, bar, heatmap, line, scatter] :star:3321
-- [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React :star:8434
+- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick] :star:1572
+- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations [area, bar, heatmap, line, scatter] :star:3328
+- [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React :star:8443
 - [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 [scatter, line, area] :star:1203
-- [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi] :star:5819
-- [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo] :star:3595
+- [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi] :star:5824
+- [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo] :star:3606
 
 ## Maps
 
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality :star:233
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together :star:46
-- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file :star:2741
+- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file :star:2743
 - [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON :star:265
 - [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features :star:82
 - [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons :star:28
@@ -165,11 +165,11 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 ## Miscellaneous
 
 - [chess-dataviz](https://github.com/ebemunk/chess-dataviz) - Chess dataviz library :star:39
-- [codeflower](https://github.com/fzaninotto/CodeFlower) - Bird's eye view of the whole code :star:471
-- [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing. Works also for canvas, Raphael & SVG.js :star:117
+- [codeflower](https://github.com/fzaninotto/CodeFlower) - Bird's eye view of the whole code :star:472
+- [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing. Works also for canvas, Raphael & SVG.js :star:118
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics :star:162
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support :star:104
-- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds :star:2467
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds :star:2468
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus :star:73
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer :star:31
@@ -178,7 +178,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling :star:36
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - Simple scrolling events :star:398
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc :star:34
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style :star:15833
+- [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style :star:15847
 - [netvis](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols :star:12
 
 ## Server side

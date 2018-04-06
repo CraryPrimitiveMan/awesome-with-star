@@ -94,7 +94,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Messaging
 
-* [Op-Rabbit ★ 153 ⧗ 2](https://github.com/SpinGo/op-rabbit) - High-level messaging library for Akka and Op-Rabbit. :star:195
+* [Op-Rabbit ★ 153 ⧗ 2](https://github.com/SpinGo/op-rabbit) - High-level messaging library for Akka and Op-Rabbit. :star:196
 
 ## Graphical User Interfaces
 
@@ -138,7 +138,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for data binding and validation*
 
 * [Accord ★ 379 ⧗ 0](https://github.com/wix/accord) - A sane validation library for Scala :star:422
-* [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack :star:19
+* [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack :star:20
 * [Monkeytail ★ 55](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated :star:70
 
 ## i18n
@@ -154,7 +154,7 @@ Projects with over 500 stargazers are in bold.
 
 * [akka-http-session ★ 268 ⧗ 11](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support :star:345
 * [AWS Request Signer ★ 4 ⧗ 43](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services. :star:16
-* [OAuth2-mock-play ★ 16 ⧗ 23](https://github.com/zalando/OAuth2-mock-play) - Implementation of an OAuth2 server designed for mocking/testing and configurable by environment variables (by use of the Typesafe config). :star:17
+* [OAuth2-mock-play ★ 16 ⧗ 23](https://github.com/zalando/OAuth2-mock-play) - Implementation of an OAuth2 server designed for mocking/testing and configurable by environment variables (by use of the Typesafe config). :star:18
 * [Play Google Auth Module ★ 17 ⧗ 76](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications. :star:23
 * [play-pac4j ★ 255 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala. :star:308
 * **[play-silhouette ★ 600 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
@@ -179,7 +179,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for code testing.*
 
-* [cornichon ★ 109 ⧗ 3](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API. :star:140
+* [cornichon ★ 109 ⧗ 3](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API. :star:141
 * [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
 * **[ScalaCheck ★ 1196 ⧗ 6](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
 * [Minitest](https://github.com/monix/minitest) - A testing framework with a focus on simplicity. :star:102
@@ -189,8 +189,8 @@ Projects with over 500 stargazers are in bold.
 * **[ScalaTest ★ 532 ⧗ 5](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 187 ⧗ 20](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode. :star:198
 * **[Specs2 ★ 570 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
-* [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala. :star:279
-* [testcontainers-scala ★ 52 ⧗ 2](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala. :star:65
+* [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala. :star:280
+* [testcontainers-scala ★ 52 ⧗ 2](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala. :star:66
 
 ## JSON
 
@@ -198,11 +198,11 @@ Projects with over 500 stargazers are in bold.
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 824 ⧗ 2](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
-* [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) - A scala diff/patch library for Json :star:146
+* [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) - A scala diff/patch library for Json :star:147
 * [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes. :star:348
 * [jawn ★ 252 ⧗ 4](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed). :star:302
 * **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
-* [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs. :star:116
+* [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs. :star:118
 * [persist-json ★ 9 ⧗ 49](https://github.com/nestorpersist/json) - Fast json parser. :star:10
 * [play-json ★ 39 ⧗ 7](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime. :star:142
 * [Pushka ★ 75 ⧗ 21](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations. :star:77
@@ -225,7 +225,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with CSV.*
 
 * [kantan.csv ★ 143 ⧗ 24](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends. :star:208
-* [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala. :star:449
+* [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala. :star:450
 * [fm-flatfile ★ 1 ⧗ 1](https://github.com/frugalmechanic/fm-flatfile) - Very flexible, Flat File (CSV, TSV, Excel, etc) Reader for Scala. :star:5
 
 
@@ -259,7 +259,7 @@ Projects with over 500 stargazers are in bold.
 * [MGO ★ 37 ⧗ 55](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability. :star:46
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
 * [ND4S ★ 201 ⧗ 0](https://github.com/deeplearning4j/nd4s) - N-Dimensional arrays and linear algebra for Scala with an API similar to Numpy.  ND4S is a scala wrapper around [ND4J](http://nd4j.org/). :star:295
-* [Numsca ★ 8 ⧗ 0](https://github.com/botkop/numsca) - Numsca is Numpy for Scala. :star:17
+* [Numsca ★ 8 ⧗ 0](https://github.com/botkop/numsca) - Numsca is Numpy for Scala. :star:18
 * [OpenMOLE ★ 65 ⧗ 5](https://github.com/openmole/openmole) - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes. :star:84
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 * [Persist-Units ★ 9 ⧗ 40](https://github.com/nestorpersist/units) - Type check units of measure in Scala. :star:9
@@ -271,7 +271,7 @@ Projects with over 500 stargazers are in bold.
 * **[Spire ★ 1152 ⧗ 3](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * [Squants ★ 388 ⧗ 1](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis. :star:492
 * [SwiftLearner ★ 20 ⧗ 5](https://github.com/valdanylchuk/swiftlearner) - Simply written algorithms to help study Machine Learning or write your own implementations. :star:30
-* [Tensorflow_scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language :star:301
+* [Tensorflow_scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language :star:304
 * [Tyche ★ 89 ⧗ 17](https://github.com/neysofu/tyche) - Probability distributions, stochastic & Markov processes, lattice walks, simple random sampling. A simple yet robust Scala library. :star:88
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
 
@@ -301,7 +301,7 @@ Projects with over 500 stargazers are in bold.
 *2D and 3D image processing and image analysis*
 
 * [scalismo ★ 45 ⧗ 9](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis. :star:94
-* [scrimage ★ 476 ⧗ 0](https://github.com/sksamuel/scrimage) - Image io, resize, manipulation and thumbnails. :star:590
+* [scrimage ★ 476 ⧗ 0](https://github.com/sksamuel/scrimage) - Image io, resize, manipulation and thumbnails. :star:591
 
 ## Sound processing and music
 
@@ -328,7 +328,7 @@ Projects with over 500 stargazers are in bold.
 * [Domino ★ 2 ⧗ 463](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala. :star:2
 * [Grafter ★ 148 ⧗ 0](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications. :star:217
 * **[MacWire ★ 661 ⧗ 0](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
-* [Scala-Guice ★ 211 ⧗ 10](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice :star:255
+* [Scala-Guice ★ 211 ⧗ 10](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice :star:256
 * [Scaldi ★ 252 ⧗ 1](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library. :star:267
 * [Sclasner ★ 9 ⧗ 130](https://github.com/xitrum-framework/sclasner) - Scala classpath scanner. :star:9
 * [SubCut ★ 403 ⧗ 9](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits. :star:403
@@ -358,11 +358,11 @@ Projects with over 500 stargazers are in bold.
 * [Each ★ 146 ⧗ 0](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions. :star:192
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) - Extensible effects are an alternative to monad transformers for computing with effects in a functional way. :star:331
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++. :star:45
-* [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework. :star:565
+* [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework. :star:566
 * [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support. :star:106
 * [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) - A library to implement composable side effects, weaving typeclasses on a wrapping type and the free monad. :star:30
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) - A cohesive & pragmatic framework of FP centric Scala libraries. :star:506
-* [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types. :star:238
+* [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types. :star:239
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types. :star:9
 * [Lamma ★ 70 ⧗ 8](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation. :star:77
 * [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files. :star:270
@@ -373,7 +373,7 @@ Projects with over 500 stargazers are in bold.
 * [Quicklens ★ 245 ⧗ 0](https://github.com/adamw/quicklens) - modify deeply nested case class fields with an elegant API :star:391
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [Records for Scala ★ 125 ⧗ 55](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros. :star:130
-* [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking :star:655
+* [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking :star:654
 * [Resolvable ★ 0 ⧗ 94](https://github.com/stanch/resolvable) - A library to optimize fetching immutable data structures from several endpoints in several formats. :star:2
 * [Sauron ★ 159 ⧗ 58](https://github.com/pathikrit/sauron) - Lightweight lens library in less than 50-lines of Scala. :star:161
 * **[Scala Async ★ 778 ⧗ 0](https://github.com/scala/async)** - An asynchronous programming facility for Scala.
@@ -384,7 +384,7 @@ Projects with over 500 stargazers are in bold.
 * **[Scalaz ★ 3045 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
 * [scribe ★ 36 ⧗ 3](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically. :star:130
 * **[Shapeless ★ 2002 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
-* [Simulacrum ★ 484 ⧗ 2](https://github.com/mpilquist/simulacrum) - First class syntax support for type classes in Scala. :star:614
+* [Simulacrum ★ 484 ⧗ 2](https://github.com/mpilquist/simulacrum) - First class syntax support for type classes in Scala. :star:615
 * [Stateless Future ★ 165 ⧗ 35](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax. :star:177
 * **[Twitter Util ★ 1809 ⧗ 1](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [wvlet-log ★ 43 ⧗ 13](https://github.com/wvlet/log) - A library for enhancing your application logs with colors and source code locations. :star:58
@@ -396,7 +396,7 @@ Projects with over 500 stargazers are in bold.
 * [Agora](https://gitlab.com/aossie/Agora/) - Library of vote-counting algorithms for elections.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
 * [BootZooka ★ 331 ⧗ 5](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc. :star:365
-* [Eclair ★ 469](https://github.com/ACINQ/eclair) - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues. :star:537
+* [Eclair ★ 469](https://github.com/ACINQ/eclair) - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues. :star:539
 * [Fansi ★ 96 ⧗ 15](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings :star:125
 * [GoogleApiScala ★ 5 ⧗ 3](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK. :star:14
 * [mailgun4s ★ 7 ⧗ 4](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API :star:11
@@ -409,7 +409,7 @@ Projects with over 500 stargazers are in bold.
 * [powerscala ★ 11 ⧗ 80](https://github.com/outr/powerscala) - Powerful framework providing many useful utilities and features on top of the Scala language. :star:14
 * [pprint](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging :star:46
 * [PureConfig ★ 337 ⧗ 2](https://github.com/melrief/pureconfig) - A boilerplate-free Scala library for loading configuration files. :star:582
-* [REPLesent ★ 319 ⧗ 5](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke. :star:358
+* [REPLesent ★ 319 ⧗ 5](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke. :star:359
 * [scala-debugger ★ 52 ⧗ 18](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface. :star:73
 * [scala-ssh ★ 186 ⧗ 6](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications :star:190
 * [Scalan ★ 81 ⧗ 67](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala :star:86
@@ -443,7 +443,7 @@ Projects with over 500 stargazers are in bold.
 * [Newman ★ 241 ⧗ 88](https://github.com/stackmob/newman) - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale. :star:243
 * [RösHTTP ★ 79 ⧗ 9](https://github.com/hmil/RosHTTP) - A lightweight asynchronous HTTP API built with Scala.js in mind. Supports the JVM and Node.js runtimes as well as most browsers. :star:112
 * **[scalaj-http ★ 580 ⧗ 0](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
-* [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file. :star:252
+* [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file. :star:253
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
 * [sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted! :star:413
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers. :star:12
@@ -471,7 +471,7 @@ Projects with over 500 stargazers are in bold.
 * [CLIST ★ 43 ⧗ 24](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit :star:65
 * [Fast Parse ★ 467 ⧗ 1](https://github.com/lihaoyi/fastparse) - Fast to write, Fast running Parsers in Scala :star:620
 * **[Parboiled2 ★ 502 ⧗ 7](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
-* [Scala Parser Combinators ★ 221 ⧗ 0](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library. :star:307
+* [Scala Parser Combinators ★ 221 ⧗ 0](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library. :star:308
 * **[Scopt ★ 678 ⧗ 0](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
 ## Sbt plugins
@@ -485,7 +485,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-classfinder ★ 3 ⧗ 39](https://github.com/ruippeixotog/sbt-classfinder) - Retrieves runtime information about the classes and traits in a project. :star:3
 * [sbt-cppp ★ 4 ⧗ 272](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds. :star:4
 * **[sbt-dependency-graph ★ 731 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
-* [sbt-docker ★ 422 ⧗ 3](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt :star:550
+* [sbt-docker ★ 422 ⧗ 3](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt :star:551
 * [sbt-ensime ★ 197 ⧗ 11](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
 * [sbt-groll ★ 87 ⧗ 10](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history. :star:119
 * [sbt-haxe ★ 9 ⧗ 274](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources. :star:9
@@ -553,7 +553,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Scheduling
 
-* [akka-quartz-scheduler ★ 365](https://github.com/enragedginger/akka-quartz-scheduler) - Quartz Extension and utilities for cron-style scheduling in Akka. :star:396
+* [akka-quartz-scheduler ★ 365](https://github.com/enragedginger/akka-quartz-scheduler) - Quartz Extension and utilities for cron-style scheduling in Akka. :star:397
 
 ## Templating
 

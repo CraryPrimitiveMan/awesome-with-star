@@ -72,12 +72,12 @@
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive. :star:9
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
-- [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework. :star:14
-- [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions. :star:67
-- [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8. :star:9
-- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder. :star:43
-- [Pico-Kit](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics. :star:14
-- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).  :star:43
+- [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework. :star:15
+- [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions. :star:68
+- [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8. :star:10
+- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder. :star:44
+- [Pico-Kit](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics. :star:15
+- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).  :star:44
 - [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs. :star:7
 
 ## Text Editors Language Support
@@ -123,7 +123,7 @@ How to install the font(s):
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
 - [PicoLove](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE. :star:60
-- [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM. :star:322
+- [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM. :star:323
 - [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support). :star:699
 
 ## I Want to Contribute!

@@ -53,7 +53,7 @@
 <!-- * [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. -->
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch. :star:44
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:226
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:225
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container. :star:101
 
 
@@ -82,7 +82,7 @@
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:77
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:78
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue). :star:18
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT. :star:14
 * [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface. :star:12

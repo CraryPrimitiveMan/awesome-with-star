@@ -44,7 +44,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
   * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
   * [Open Hospital](https://sourceforge.net/projects/openhospital/) - Electronic Medical Record software for underprivileged rural hospitals.
-  * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS. :star:43
+  * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS. :star:44
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://oscar-emr.com/) - Electronic Medical Record software.
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
@@ -100,7 +100,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIRBase](http://fhirbase.github.io) - Storage based on the FHIR Standard.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang. :star:63
   * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
-  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects. :star:5044
+  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects. :star:5047
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server. :star:84
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X. :star:63
 
@@ -135,7 +135,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Hardware
   * [echOpen](http://echopen.org/) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer. :star:9
-  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:326
+  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:327
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
 
@@ -151,10 +151,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
-  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:129
+  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:130
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2349
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2372
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:6

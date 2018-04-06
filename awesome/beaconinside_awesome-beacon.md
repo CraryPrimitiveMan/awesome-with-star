@@ -179,14 +179,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Linux
 
-* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon) :star:38
+* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon)
 * [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon)
 
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2058
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1307
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2059
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1311
 
 
 # Bluetooth Low Energy

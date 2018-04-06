@@ -103,7 +103,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
 	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss] :star:297
-	- [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1176
+	- [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss][foss] :star:1178
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
 	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:80
@@ -189,7 +189,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - Collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:38
+- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:39
 
 ### Source Code
 
@@ -221,6 +221,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX community](http://latex.org/index.php) - Forum and blog about LaTeX.
 - German: [Neue TeX FAQ](https://texfragen.de) - Modern and updated LaTeX FAQ in German.
 - [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) - Example output of common BibTeX styles (BST files).
+- [TeX World](http://tex.world/) -  Websites supported by the TeX Users Group, DANTE, and GUTenberg.
 
 ## Showcases
 
@@ -232,8 +233,9 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Tutorials
 
 - [The (Not So) Short Introduction to LaTeX2e](http://mirrors.ctan.org/info/lshort/english/lshort.pdf) - Very comprehensive introduction to LaTeX.
-- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - Brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2115
+- [Begin LaTeX in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - Brief intro to LaTeX for beginners that helps you use LaTeX with ease. :star:2117
 - [Getting to Grips with LaTeX](https://www.andy-roberts.net/writing/latex) - Complete guide going through the majority of things you need to know about LaTeX.
+- [LaTeX introductions in languages other than English](https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385) - Collection of introductions in many languages.
 
 ## Books
 

@@ -166,8 +166,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:528
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:65
 - [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:101
-- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:117
-- [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:123
+- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:118
+- [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:124
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:6
 - [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:303
@@ -187,7 +187,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:50
 - [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:249
-- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1062
+- [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1063
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:12
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:21
@@ -390,7 +390,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Link's Awakening DX Disassembly](https://github.com/mojobojo/LADX-Disassembly)
-- [Disassembly of Tetris](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly. :star:14
+- [Disassembly of Tetris](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly. :star:15
 - [FX Hammer disassembly](https://github.com/DevEd2/FXHammer-Disasm)
 - [Reverse Engineering the GameBoy Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
 
@@ -398,10 +398,10 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 - [ArduinoBoy](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB. :star:104
 - [papiGB](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch. :star:8
-- [fpgaboy](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA. :star:53
+- [fpgaboy](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA. :star:54
 - [Piglet](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development. :star:34
 - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms. :star:78
-- [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more). :star:48
+- [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more). :star:49
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - Non-gaming purposes applications development.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift. :star:16
 - [mGB](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module. :star:54

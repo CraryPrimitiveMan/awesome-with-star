@@ -50,7 +50,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading. :star:163
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js. :star:282
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:256
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:257
 
 #### Game Interaction
 
@@ -70,7 +70,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library. :star:27
-- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:212
+- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:213
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts. :star:15
 
 #### Misc
@@ -89,9 +89,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1170
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1169
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:127
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1010
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1009
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:41
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -120,10 +120,10 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:161
+- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:164
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
-- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:75
+- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:76
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:286
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library. :star:7
 
@@ -164,7 +164,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 - [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) :star:44
-- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:243
+- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:244
 - [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
 
 ### Posts
@@ -178,7 +178,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:743
+- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:744
 
 ### Discussion Boards
 

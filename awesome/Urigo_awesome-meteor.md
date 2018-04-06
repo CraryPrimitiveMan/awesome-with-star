@@ -71,7 +71,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *REST support for Meteor*
 
 * [simple:rest](https://github.com/stubailo/meteor-rest) - automatically make your Meteor app accessible over HTTP and DDP alike. :star:344
-* [nimble:restivus](https://github.com/kahmali/meteor-restivus) - Make REST endpoints for your Meteor app with incredible ease. :star:531
+* [nimble:restivus](https://github.com/kahmali/meteor-restivus) - Make REST endpoints for your Meteor app with incredible ease. :star:530
 
 ## Forms and Templates
 
@@ -102,7 +102,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - Performance Monitoring for Meteor. :star:200
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor :star:37
-* [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor :star:218
+* [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor :star:219
 * [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live :star:583
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery :star:647
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution :star:843
@@ -115,7 +115,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Routers for Blaze*
 
-* [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor. :star:2055
+* [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor. :star:2054
 * [kadira:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor. :star:1101
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor. :star:164
 
@@ -160,7 +160,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Mobile Development*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor. :star:1579
-* [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor. :star:33787
+* [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor. :star:33798
 * [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox). :star:487
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP. :star:759
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android. :star:263
@@ -214,7 +214,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications  :star:656
 * [Differential - meteor-boilerplate](https://github.com/Differential/meteor-boilerplate) :star:919
 * [meteoris2](https://github.com/radiegtya/meteoris2) :star:260
-* [Base](https://github.com/themeteorchef/base) :star:666
+* [Base](https://github.com/themeteorchef/base) :star:667
 
 ## Tooling
 
@@ -226,10 +226,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
-* [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor :star:6702
-* [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app :star:924
-* [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban :star:12591
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor :star:6852
+* [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor :star:6701
+* [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app :star:925
+* [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban :star:12599
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor :star:6857
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor :star:188
 * [Orion CMS](http://orionjs.org/)
 
@@ -265,7 +265,7 @@ Where to discover new Meteor things.
 
 * [Meteor Explained](https://gumroad.com/l/meteor-explained)
 * [Meteor Tips](http://meteortips.com/)
-* [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook) :star:1675
+* [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook) :star:1676
 
 ## Courses
 

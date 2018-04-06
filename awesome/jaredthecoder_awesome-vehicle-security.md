@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3860
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3863
 
 ## Blogs
 
@@ -232,8 +232,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:277
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7393
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6939
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7394
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6941
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:102
@@ -259,7 +259,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
-- [Python-OBD](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi. :star:239
+- [Python-OBD](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi. :star:241
 
 ### Go
 
@@ -292,16 +292,16 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec)
-  - [Security](https://github.com/sbilly/awesome-security) :star:2708
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2000
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3333
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2973
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3616
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2186
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1863
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3074
+  - [Security](https://github.com/sbilly/awesome-security) :star:2713
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2009
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3335
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2974
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3621
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2190
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1864
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:82170
+  - [awesome](https://github.com/sindresorhus/awesome) :star:82238
   - [lists](https://github.com/jnv/lists) :star:4894
 
 # Contributing

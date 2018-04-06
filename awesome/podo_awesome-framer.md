@@ -126,7 +126,7 @@
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code. :star:6
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
-* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:143
+* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:144
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:270
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:548
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:213
@@ -153,7 +153,7 @@
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:14
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:40
-* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:44
+* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:45
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:82
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:13
 * [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:7
@@ -168,7 +168,7 @@
 * [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
 
 ## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:292
+* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:293
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:484
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:149
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29

@@ -243,7 +243,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs :star:6
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container :star:15
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal :star:18
- * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation :star:96
+ * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation :star:97
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension :star:19
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT :star:19
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
@@ -258,7 +258,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Game Development
  * [cray](https://gitlab.com/Zatherz/cray) - Bindings for [raylib](http://www.raylib.com/), an easy-to-use game development library
- * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library :star:176
+ * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library :star:177
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library :star:18
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development :star:41
  * [inari](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine :star:10
@@ -289,7 +289,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (Crystal stdlib)
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests :star:2
- * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser) :star:3873
+ * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser) :star:3876
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper :star:6
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client :star:5
@@ -297,7 +297,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries :star:29
  * [stumpy_gif](https://github.com/stumpycr/stumpy_gif) - Write (animated) GIF images :star:8
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images :star:37
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images :star:38
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - Charly Programming Language
@@ -324,7 +324,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library :star:31
  * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library :star:8
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:95051
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:95157
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities :star:5
@@ -388,12 +388,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [shards](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal :star:426
 
 ## Processes and Threads
- * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently :star:101
+ * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently :star:102
  * [promise](https://github.com/jwaldrip/promise.cr) - A Promise Implementation :star:25
 
 ## Project Generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
- * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries :star:84
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries :star:85
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator :star:33
  * [kgen](https://github.com/kemalyst/kemalyst-generator) - Kemalyst command line tool for console, init, generate (scaffolding), and watch. :star:11
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files :star:18
@@ -449,7 +449,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr :star:7
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library :star:82
- * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop) :star:2582
+ * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop) :star:2585
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests :star:48
 
 ## Third-party APIs
@@ -472,7 +472,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client :star:4
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API :star:9
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API :star:3
- * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:16173
+ * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:16186
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library :star:9
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API :star:28
  * [tele.cr](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API :star:15
@@ -485,10 +485,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler :star:33
 
 ## Web Frameworks
- * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:978
- * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2130
+ * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:979
+ * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2132
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
- * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests :star:754
+ * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests :star:757
  * [prism](https://github.com/vladfaust/prism) - Light, modular web framework :star:12
  * [raze](https://github.com/samueleaton/raze) - Modular, light web framework :star:94
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility :star:9

@@ -16,17 +16,17 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:431
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:432
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2830
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3282
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2832
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3289
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:712
-* [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:212
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:714
+* [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:213
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:254
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:105
 * [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:34

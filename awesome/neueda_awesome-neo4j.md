@@ -82,7 +82,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Java
 
 - [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) - Object-Graph Mapping Library for Neo4j. :star:168
-- [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. :star:481
+- [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. :star:482
 - [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) - Neo4j JDBC driver. :star:50
 - [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) - Java access to Neo4J graph databases at multiple levels of abstraction. :star:53
 
@@ -108,9 +108,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Other
 
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:935
-- [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:240
+- [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:241
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:327
-- [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:168
+- [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:169
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R. :star:214
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework. :star:126
 
@@ -151,7 +151,7 @@ Neo4j graph database.
 
 - [GraphAware Neo4j UUID](https://github.com/graphaware/neo4j-uuid) - GraphAware Runtime Module that assigns a UUID to all nodes in the graph transparently. :star:57
 - [GraphAware Neo4j ChangeFeed](https://github.com/graphaware/neo4j-changefeed) - A GraphAware Framework Runtime Module allowing users to find out what were the latest changes performed on the graph. :star:14
-- [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) - Java and REST APIs for working with time-representing tree in Neo4j. :star:149
+- [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) - Java and REST APIs for working with time-representing tree in Neo4j. :star:150
 - [GraphAware Neo4j Recommendation Engine](https://github.com/graphaware/neo4j-reco) - Neo4j-based recommendation engine module with real-time and pre-computed recommendations. :star:235
 - [GraphAware Neo4j Algorithms](https://github.com/graphaware/neo4j-algorithms) - Custom graph algorithms for Neo4j with own Java and REST APIs. :star:33
 - [GraphAware Neo4j Warmup](https://github.com/graphaware/neo4j-warmup) - Simple library that warms up Neo4j caches with a single REST call. :star:10
@@ -163,7 +163,7 @@ Neo4j graph database.
 
 # Stored Procedures
 
-- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:545
+- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:547
 - [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher :star:6
 
 # Development
@@ -174,11 +174,11 @@ Neo4j graph database.
 - [Liquigraph](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works. :star:74
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases. :star:1267
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j. :star:496
-- [Reco4PHP](https://github.com/graphaware/reco4php) - Neo4j based Recommendation Engine Framework for PHP. :star:87
+- [Reco4PHP](https://github.com/graphaware/reco4php) - Neo4j based Recommendation Engine Framework for PHP. :star:88
 
 # Editors
 
-- [jetbrains-plugin-graph-database-support](https://github.com/neueda/jetbrains-plugin-graph-database-support) - Graph Databases support for Jetbrains family IDE's. :star:76
+- [jetbrains-plugin-graph-database-support](https://github.com/neueda/jetbrains-plugin-graph-database-support) - Graph Databases support for Jetbrains family IDE's. :star:77
 - [cypher-vim-syntax](https://github.com/neo4j-contrib/cypher-vim-syntax) - Very basic Vim syntax for Cypher. :star:20
 
 # Shell
@@ -189,7 +189,7 @@ Neo4j graph database.
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:189
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2574
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2575
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools
