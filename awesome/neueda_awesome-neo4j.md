@@ -88,20 +88,20 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### Ruby
 
-- [neo4jrb](https://github.com/neo4jrb/neo4j) - An active model wrapper for the Neo4j Graph Database for Ruby. :star:1181
+- [neo4jrb](https://github.com/neo4jrb/neo4j) - An active model wrapper for the Neo4j Graph Database for Ruby. :star:1183
 - [neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API. :star:610
 
 ### Python
 
 - [py2neo](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line. :star:31
-- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:362
+- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:363
 - [BulbFlow](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
 
 ### PHP
 
 - [Neo4j-PHP-OGM](https://github.com/graphaware/neo4j-php-ogm) - Doctrine style Object Graph Mapper for Neo4j :star:116
 - [neo4jphp](https://github.com/jadell/neo4jphp) - PHP wrapper of the Neo4j REST interface. :star:542
-- [NeoEloquent](https://github.com/Vinelab/NeoEloquent) - A Neo4j ORM - Based on Eloquent. :star:373
+- [NeoEloquent](https://github.com/Vinelab/NeoEloquent) - A Neo4j ORM - Based on Eloquent. :star:374
 - [neo4j-php-client](https://github.com/graphaware/neo4j-php-client/tree/4.0) - PHP Client for Neo4j leveraging the Http and Bolt protocols.
 - [Spider](https://github.com/spider/spider) - A simple, flexible, and beautiful graph-data abstraction for php. :star:22
 
@@ -151,7 +151,7 @@ Neo4j graph database.
 
 - [GraphAware Neo4j UUID](https://github.com/graphaware/neo4j-uuid) - GraphAware Runtime Module that assigns a UUID to all nodes in the graph transparently. :star:57
 - [GraphAware Neo4j ChangeFeed](https://github.com/graphaware/neo4j-changefeed) - A GraphAware Framework Runtime Module allowing users to find out what were the latest changes performed on the graph. :star:14
-- [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) - Java and REST APIs for working with time-representing tree in Neo4j. :star:150
+- [GraphAware Neo4j TimeTree](https://github.com/graphaware/neo4j-timetree) - Java and REST APIs for working with time-representing tree in Neo4j. :star:149
 - [GraphAware Neo4j Recommendation Engine](https://github.com/graphaware/neo4j-reco) - Neo4j-based recommendation engine module with real-time and pre-computed recommendations. :star:235
 - [GraphAware Neo4j Algorithms](https://github.com/graphaware/neo4j-algorithms) - Custom graph algorithms for Neo4j with own Java and REST APIs. :star:33
 - [GraphAware Neo4j Warmup](https://github.com/graphaware/neo4j-warmup) - Simple library that warms up Neo4j caches with a single REST call. :star:10
@@ -189,7 +189,7 @@ Neo4j graph database.
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:189
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2575
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2577
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools

@@ -33,7 +33,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7475
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7486
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:161
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
@@ -52,7 +52,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink) :star:38
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application :star:31
-* [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics. :star:903
+* [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics. :star:904
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build. :star:95
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -91,7 +91,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout. :star:7
 * [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway :star:46
 * [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway :star:58
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:217
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:219
 * [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer :star:24
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon :star:37
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS :star:19

@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15458
+- [Official Repository](https://github.com/less/less.js) :star:15457
 
 **[Back to top](#contents)**
 
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3218
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3221
 
 **[Back to top](#contents)**
 

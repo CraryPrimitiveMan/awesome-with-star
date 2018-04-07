@@ -27,9 +27,9 @@ Curated list of awesome esoteric programming languages and resources.
 * [Dots](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".". :star:2
 * [Emojicode](http://www.emojicode.org) - Full-blown programming language consisting of emojis.
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
-* [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica. :star:1072
+* [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica. :star:1073
 * [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
-* [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript. :star:3435
+* [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript. :star:3439
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
@@ -37,7 +37,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
-* [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge. :star:2
+* [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge. :star:3
 * [Thue](https://github.com/jcolag/Thue) - _Matrioshka_ language based on nondeterministic string rewriting of a semi-Thue grammar. :star:1
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
 * [Velato](http://velato.net) - Language that uses MIDI files as source, programs are defined by the pitch and order of notes.

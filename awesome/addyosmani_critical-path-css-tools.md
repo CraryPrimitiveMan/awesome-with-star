@@ -16,15 +16,15 @@ The following is a list of tools to help generate, inline and report on critical
 ## Node modules
 
 
-* [Penthouse](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS :star:1752
+* [Penthouse](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS :star:1753
 * [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) and inline-styles)
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS :star:1046
 
 
 ## Server-side modules
 
-* [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization :star:514
-* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization :star:3759
+* [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization :star:513
+* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization :star:3760
 
 ## Grunt tasks
 
@@ -71,7 +71,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 ## Render-blocking issues detection
 
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Online tool that measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent. 
-* [PSI](https://github.com/addyosmani/psi) - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use [grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) if a Grunt user. For local testing, a write-up using this task and [ngrok](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/) is available. :star:2654
+* [PSI](https://github.com/addyosmani/psi) - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use [grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) if a Grunt user. For local testing, a write-up using this task and [ngrok](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/) is available. :star:2655
 * [PageSpeed Insights DevTools extension](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en) - Chrome extension for running PageSpeed tests from inside the browser.
 * [PageSpeed Insights Checker for mobile extension](https://chrome.google.com/webstore/detail/pagespeed-insights-checke/mkjmodmicmpjedhoekkmafdgpocdkbna?hl=en) - checks Mobile PageSpeed score for every page and gives you a handy preview.
 

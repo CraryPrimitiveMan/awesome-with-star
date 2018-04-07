@@ -40,7 +40,7 @@
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:167
 - [convertm1m2](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2. :star:117
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool :star:165
-- [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities. :star:6
+- [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities. :star:7
 ---
 
 ## Open Source Extensions
@@ -125,7 +125,7 @@
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and easily preview and test your order confirmation page, without the need to placing a new order each time. :star:18
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer. :star:84
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays :star:81
-- [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality :star:48
+- [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality :star:52
 - [Image Resizer](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli). :star:47
 - [Excel Spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli). :star:5
 - [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign). :star:31
@@ -133,7 +133,7 @@
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:82
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect. :star:16
 - [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed. :star:16
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server. :star:168
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server. :star:169
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/). :star:18
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo :star:9
 
@@ -141,7 +141,7 @@
 
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) - Improves Password Hashing for Magento 2.
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2. :star:37
-- [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware. :star:353
+- [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware. :star:355
 
 ### Infrastructure
 
@@ -221,10 +221,10 @@
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 - [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5439
+- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5440
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2. :star:149
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
-- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:144
+- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:145
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento. :star:204
 - Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
@@ -287,7 +287,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 ### Other Magento 2 related Awesome Lists
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:331
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:18351
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:18371
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel). :star:41
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 

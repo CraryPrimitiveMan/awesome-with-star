@@ -55,7 +55,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex).
 
 #### ANE Dev Tools
-* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:21
+* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:22
 * [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 . :star:45
 
 ## Frameworks
@@ -222,7 +222,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [ASImageLib](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript. :star:8
 * [Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format. :star:19
 * [Flip-Planes-AS3](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects. :star:14
-* [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:11
+* [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:12
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:172
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:55
@@ -407,7 +407,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SVG
 
-* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - SVG Renderer for Flash Player. :star:98
+* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - SVG Renderer for Flash Player. :star:99
 * [SVGParser](https://github.com/millermedeiros/SVGParser) - SVG parser and renderer to FIVe3D and HTML5 canvas. :star:14
 
 #### XML

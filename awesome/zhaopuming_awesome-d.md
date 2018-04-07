@@ -159,8 +159,8 @@
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1774
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:677
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1775
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:678
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:341
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:151
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
@@ -194,7 +194,7 @@
  
 ## Lexers, Parsers, Parser Generators
 
-* [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer. :star:59
+* [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer. :star:60
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator. :star:9
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D. :star:24
 * [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D. :star:343
@@ -249,7 +249,7 @@
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json. :star:16
 * [std.data.json](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin. :star:45
+* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin. :star:46
 
 ### XML
 
@@ -273,8 +273,8 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2307
-* [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:68
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2308
+* [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:69
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:8
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 * [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
@@ -292,7 +292,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:87
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:28
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5152
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5159
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -300,7 +300,7 @@
 
 *Operating Systems written in D*
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:372
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:373
 * [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:71
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D :star:309
 
@@ -357,7 +357,7 @@
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:914
+* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:915
 
 ## Parallel computing
 

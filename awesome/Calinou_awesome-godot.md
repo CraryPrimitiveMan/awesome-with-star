@@ -16,7 +16,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0. :star:32
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM. :star:11
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:37
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:111
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:112
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:88
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:14
@@ -76,14 +76,14 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:66
+- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:68
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format. :star:18
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:49
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:54
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:6
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:175
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:176
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:6
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:12

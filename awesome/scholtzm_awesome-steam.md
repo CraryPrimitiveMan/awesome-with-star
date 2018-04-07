@@ -70,7 +70,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library. :star:27
-- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:213
+- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:215
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts. :star:15
 
 #### Misc
@@ -80,7 +80,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-groups](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions. :star:17
 - [steamid](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy. :star:35
 - [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:115
-- [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot. :star:78
+- [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot. :star:79
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa. :star:17
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation. :star:10
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation. :star:2
@@ -120,7 +120,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:164
+- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:165
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:76

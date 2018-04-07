@@ -452,11 +452,11 @@ the underlying language.
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) | [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
 - 2015
   - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
-    <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
+    <sup>[[tutorial](http://www.rubyguides.com/2015/09/ngram-analysis-ruby/)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
-    <sup>[[tutorial](https://web-beta.archive.org/web/20160515115739/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
+    <sup>[[tutorial](http://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
   - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)

@@ -95,7 +95,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Compiling and building
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects. :star:63
+* [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects. :star:64
 
 ## Preprocessor
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
@@ -106,7 +106,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Automatic documentation
 *Libraries for building documentation.*
 
-* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:124
+* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:125
 
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*

@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:219
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5255
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5258
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -32,7 +32,7 @@ under the hood:
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:873
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:363
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:364
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:78
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:114
@@ -117,7 +117,7 @@ Other CLI templates
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:363
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:418
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:419
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:5
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:1
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:22

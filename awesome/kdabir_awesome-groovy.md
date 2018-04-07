@@ -29,7 +29,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Build tools and Setup
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:514
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:515
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
@@ -86,13 +86,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Static Web
 * [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:135
-* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:129
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:130
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:61
 * [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library :star:22
-* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:65
+* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:66
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system :star:2
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy :star:26

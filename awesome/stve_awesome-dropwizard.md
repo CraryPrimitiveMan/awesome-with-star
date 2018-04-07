@@ -22,7 +22,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:120
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:121
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:43
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:44
@@ -34,7 +34,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:36
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:31
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:50
-* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:35
+* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:36
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:22
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62

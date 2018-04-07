@@ -76,11 +76,11 @@ It includes a command-line shell and an associated scripting language.
 ## Commandline Productivity
 
 - [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration. :star:2806
-- [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall. :star:1003
+- [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall. :star:1005
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers. :star:112
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell. :star:380
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location. :star:65
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:34633
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:34645
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell. :star:31
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool. :star:7
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
@@ -114,7 +114,7 @@ It includes a command-line shell and an associated scripting language.
 ## Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework. :star:35
+- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework. :star:36
 - [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets. :star:129
 
 ## Package Managers
@@ -126,7 +126,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Parallel Processing
 
-- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background. :star:273
+- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background. :star:274
 - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel. :star:183
 
 ## Podcasts
@@ -138,9 +138,9 @@ It includes a command-line shell and an associated scripting language.
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer. :star:440
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations. :star:884
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows. :star:722
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:3725
-- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent. :star:2913
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows. :star:723
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:3731
+- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent. :star:2922
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC). :star:88
 
 ## Testing
@@ -150,7 +150,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Themes
 
-- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:477
+- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:478
 - [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts. :star:162
 
 ## Videos
@@ -165,7 +165,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Webserver
 
-- [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell. :star:136
+- [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell. :star:137
 - [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers. :star:29
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service. :star:135
@@ -182,7 +182,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
-- [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine. :star:248
+- [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine. :star:247
 - [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell. :star:32
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.

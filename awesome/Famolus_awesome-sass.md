@@ -48,15 +48,15 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Stack Overflow](http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass) - What's the difference between SCSS and Sass?
 
 ## Frameworks
-- [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. :star:123370
-- [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3. :star:12614
-- [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. :star:27178
+- [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. :star:123380
+- [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3. :star:12615
+- [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. :star:27182
 - [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - Micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 - [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
-- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox. :star:25659
+- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox. :star:25682
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 - [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
@@ -79,14 +79,14 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way. :star:1403
+- [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way. :star:1406
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple. :star:2009
 - [mq-scss](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin. :star:98
 
 ### Color
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass. :star:826
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
-- [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3218
+- [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3221
 - [sass-planifolia](https://github.com/xi/sass-planifolia) - Advanced color manipulation and contrast calculation in vanilla Sass. :star:18
 
 ### Typography
@@ -96,16 +96,16 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
 
 ### Animation
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon. :star:633
+- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon. :star:634
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
-- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS. :star:518
+- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS. :star:519
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ### Miscellaneous
 - [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - Set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
-- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers. :star:1265
-- [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass. :star:5111
+- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers. :star:1266
+- [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass. :star:5110
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass. :star:1774
 - [Scut](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns. :star:762
 - [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers. :star:1142
@@ -115,12 +115,12 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)). :star:304
 - [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
 - [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation. :star:233
-- [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons. :star:648
+- [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons. :star:650
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
 - [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce. :star:234
-- [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb. :star:3803
+- [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb. :star:3807
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide. :star:609
 
 ## Articles
@@ -140,19 +140,19 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Tools
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler. :star:3749
-- [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass. :star:4884
-- [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass. :star:410
+- [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass. :star:4886
+- [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass. :star:415
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
-- [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack. :star:2346
+- [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack. :star:2348
 - [libsass-python](https://github.com/dahlia/libsass-python) - Binding of libsass for Python. :star:349
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 - [sass-rails](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass. :star:744
 - [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
-- [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub. :star:2654
+- [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub. :star:2658
 - [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 - [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer) - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once. :star:88
-- [SharpScss](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform. :star:18
+- [SharpScss](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform. :star:19
 - [sass-extract](https://github.com/jgranstrom/sass-extract) - Extract variables from scss files. Use scss to describe styles for use in javascript by extracting computed styles into js objects. Supports imports and advanced language features. :star:111
 
 ## Books

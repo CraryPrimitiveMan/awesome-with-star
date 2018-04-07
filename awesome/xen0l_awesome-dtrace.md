@@ -179,7 +179,7 @@ List of software with DTrace support.
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
 - [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based). :star:155
-- [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats. :star:112
+- [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop](https://github.com/davepacheco/portsnoop) - Trace event port activity. :star:3
 - [storage tools](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats. :star:24
 

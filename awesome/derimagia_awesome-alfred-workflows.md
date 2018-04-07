@@ -27,7 +27,7 @@ A curated list of Awesome Alfred Workflows.
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
 - [MailTo](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups. :star:35
-- [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack. :star:229
+- [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack. :star:230
 
 ## Developer
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support. :star:320
@@ -44,13 +44,13 @@ A curated list of Awesome Alfred Workflows.
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons). :star:13
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io). :star:209
 - [ng](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation. :star:35
-- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:424
+- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:423
 - [Packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org). :star:15
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories. :star:77
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2. :star:34
 
 ## Text Manipulation
-- [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode. :star:238
+- [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode. :star:237
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard. :star:45
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name. :star:24
@@ -90,12 +90,12 @@ A curated list of Awesome Alfred Workflows.
 - [AppScripts](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application. :star:26
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs. :star:68
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates. :star:11
-- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:194
+- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:197
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred. :star:155
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search :star:38
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
-- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:58
+- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:59
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa. :star:513
 
@@ -103,12 +103,12 @@ A curated list of Awesome Alfred Workflows.
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:60
-- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:41
+- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:42
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1110
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:877
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1111
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:879
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:80
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter. :star:15
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.

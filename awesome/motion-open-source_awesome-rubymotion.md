@@ -217,8 +217,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:134
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:227
-* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1276
+* [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:134
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1275
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
@@ -228,14 +228,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Game Development
-* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:294
+* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:293
 
 
 ### Graphical User Interface
 
 
 #### GUI Frameworks
-* [IB](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions. :star:265
+* [IB](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions. :star:264
 * [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone. :star:635
 * [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem. :star:323
 * [Motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ. :star:4

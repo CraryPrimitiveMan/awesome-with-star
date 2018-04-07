@@ -48,7 +48,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ### Backoffice extensions
 * [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:110
-* [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:25
+* [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:24
 
 ### Developer tools
 * [Forms](https://github.com/refinery/refinerycms-forms) :star:1

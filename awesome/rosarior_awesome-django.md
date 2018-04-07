@@ -95,7 +95,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-fluent-dashboard](https://github.com/django-fluent/django-fluent-dashboard) - An improved django-admin-tools dashboard for Django projects :star:193
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 * [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
-* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the admin interface with improved functionality. :star:1415
+* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the admin interface with improved functionality. :star:1419
 * [django-material](https://github.com/viewflow/django-material) Material design for Django Forms and Admin. Template driven.
 * [django-object-actions](https://github.com/crccheck/django-object-actions) A Django app for adding object tools for models in the admin
 * [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
@@ -116,7 +116,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline JavaScript or CSS into a single cached file.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django. :star:1233
+* [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django. :star:1234
 * [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the JavaScript of tomorrow to Django, today. (JSPM integration in Django)
 * [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparent webpack integration for django. :star:1318
 * [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration. :star:59
@@ -130,7 +130,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-organizations](https://github.com/bennylope/django-organizations) - Multi-user accounts for Django projects. :star:427
 * [django-otp](https://bitbucket.org/psagers/django-otp/) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
 * [django-registration](https://github.com/macropin/django-registration/) -  Simple user-registration application for Django, designed to make allowing user sign-ups as painless as possible.
-* [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  A set of REST API endpoints to handle User Registration and Authentication tasks. :star:1175
+* [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  A set of REST API endpoints to handle User Registration and Authentication tasks. :star:1177
 * [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - User-friendly Two-Factor authentication.
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
 * [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system. :star:947
@@ -140,7 +140,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages related to authorization infrastructure and permissions.*
 
-* [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions as authorization backend. :star:1786
+* [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions as authorization backend. :star:1787
 * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts! :star:1241
 * [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Provide OAuth2 access to your app :star:316
 * [django-oml](https://github.com/angvp/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
@@ -151,10 +151,10 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages to build and manage a blog app.*
 
-* [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site. :star:1730
+* [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site. :star:1731
 * [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail. :star:254
 
-* [django-blog-it](https://github.com/MicroPyramid/django-blog-it) - complete customizable and ready to use blog with one click installer. :star:59
+* [django-blog-it](https://github.com/MicroPyramid/django-blog-it) - complete customizable and ready to use blog with one click installer. :star:60
 
 ## Boilerplate
 
@@ -162,7 +162,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples. :star:1203
-* [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge. :star:577
+* [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge. :star:578
 * [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Django sample app with users including social auth via Django-AllAuth. :star:119
 
 ## Caching
@@ -189,7 +189,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 *Packages that help to manage business relationships of the organization.*
 
-* [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Customer relationship management dashboard where you can manage customers at sales of the organization. It Provides to manage leads information and its activity, track issues from leads, manage contacts to send emails of leads and accounts. :star:51
+* [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Customer relationship management dashboard where you can manage customers at sales of the organization. It Provides to manage leads information and its activity, track issues from leads, manage contacts to send emails of leads and accounts. :star:52
 
 ## Dashboards
 
@@ -219,10 +219,10 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
-* [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django :star:1520
+* [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django :star:1522
 * [nplusone](https://github.com/jmcarp/nplusone/) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
-* [sentry](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform. :star:16186
-* [django-web-profiler](https://github.com/MicroPyramid/django-web-profiler) - A django profiling tool which logs, stores debug toolbar statistics and also a set of URL's statistics using a management command. :star:29
+* [sentry](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform. :star:16198
+* [django-web-profiler](https://github.com/MicroPyramid/django-web-profiler) - A django profiling tool which logs, stores debug toolbar statistics and also a set of URL's statistics using a management command. :star:30
 
 ## Email
 
@@ -235,7 +235,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-email-gateway](https://github.com/MicroPyramid/django-email-gateway) - A django package which act as a gateway to send emails from SES. Receiving its' corresponding email replys, parsing reply email content with amazon SES. :star:19
 * [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - A Django email backend for Mailgun.
 * [django-post_office](https://github.com/ui/django-post_office/) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
-* [django-ses](https://github.com/django-ses/django-ses) - A Django email backend for Amazon's Simple Email Service. :star:553
+* [django-ses](https://github.com/django-ses/django-ses) - A Django email backend for Amazon's Simple Email Service. :star:557
 * [django-spoolgore](https://github.com/20tab/django-spoolgore) - A django email backed for the Spoolgore daemon. :star:7
 * [django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 * [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras. :star:26
@@ -255,7 +255,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with google maps.
 * [django-macaddress](https://github.com/django-macaddress/django-macaddress) - MAC Address model and form fields for Django. :star:31
-* [django-money](https://github.com/django-money/django-money) - A little Django app that uses py-moneyed to add support for Money fields in your models and forms. :star:577
+* [django-money](https://github.com/django-money/django-money) - A little Django app that uses py-moneyed to add support for Money fields in your models and forms. :star:579
 * [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field/) - A Django library which interfaces with [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) to validate, pretty print and convert
 phone numbers.
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
@@ -375,9 +375,9 @@ phone numbers.
 
 *Packages that provide search capabilities to projects.*
 
-* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django. :star:2386
+* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django. :star:2387
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
-* [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django :star:337
+* [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django :star:339
 * [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm. :star:244
 
 ## Security
@@ -411,7 +411,7 @@ phone numbers.
 * [django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns. :star:583
 * [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app. :star:850
 * [python-decouple](https://github.com/henriquebastos/python-decouple/) - Strict separation of config from code.
-* [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application. :star:944
+* [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application. :star:945
 * [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files. :star:289
 * [django-dynamic-preferences](https://github.com/EliotBerriot/django-dynamic-preferences) - Dynamic global and instance settings for your django project. :star:109
 
@@ -420,7 +420,7 @@ phone numbers.
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [django-selectel-storage](https://github.com/marazmiki/django-selectel-storage) - This application allows you easily save media and static files into [Selectel](https://selectel.ru/) cloud storage. :star:14
-* [django-storages](https://github.com/jschneier/django-storages) - django-storages is a collection of custom storage backends for Django. :star:852
+* [django-storages](https://github.com/jschneier/django-storages) - django-storages is a collection of custom storage backends for Django. :star:853
 * [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely. :star:264
 * [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage. :star:12
 
@@ -437,7 +437,7 @@ phone numbers.
 
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
 * [django-q](https://github.com/Koed00/django-q) - A native multiprocessing task queue for Django. :star:594
-* [django-rq](https://github.com/rq/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects. :star:769
+* [django-rq](https://github.com/rq/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects. :star:770
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
 
 ## Testing
@@ -496,7 +496,7 @@ phone numbers.
 
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [django-bower](https://github.com/nvbn/django-bower) - Easy way to use [bower](https://bower.io) with your Django project. :star:508
-* [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt. :star:408
+* [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt. :star:409
 * [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 
 ## WYSIWYG Editors
@@ -524,7 +524,7 @@ phone numbers.
 * [django-fsm](https://github.com/kmmbvnr/django-fsm/) - Django friendly finite state machine support.
 * [django-river](https://github.com/javrasya/django-river/) - Django state machine and workflow library provides on the fly changes.
 * [django-states](https://github.com/vikingco/django-states2/) - State machine for django models.
-* [django-viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django. :star:1071
+* [django-viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django. :star:1072
 * [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
 
@@ -539,7 +539,7 @@ phone numbers.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-calendarium](https://github.com/bitlabstudio/django-calendarium/) - A reusable app to manage and display a calendar in your templates.
 * [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
-* [django-cors-headers](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS). :star:2093
+* [django-cors-headers](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS). :star:2095
 * [django-dfp](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads. :star:4
 * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper/) - Creating Scrapy scrapers via the Django admin interface.
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
@@ -565,7 +565,7 @@ phone numbers.
 * [django-ratelimit](https://github.com/jsocol/django-ratelimit/) - provides a decorator to rate-limit views. Limiting can be based on IP address or a field in the request--either a GET or POST variable.
 * [django-uuslug](https://github.com/un33k/django-uuslug/) - a slugify application that guarantees Uniqueness and handles Unicode.
 * [django-watchman](https://github.com/mwarkentin/django-watchman/) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
-* [django-websocket-redis](https://github.com/jrief/django-websocket-redis) - Websockets for Django applications using Redis as message queue. :star:705
+* [django-websocket-redis](https://github.com/jrief/django-websocket-redis) - Websockets for Django applications using Redis as message queue. :star:706
 * [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
@@ -592,7 +592,7 @@ phone numbers.
 ## e-Commerce
 
 * [Cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Django/Mezzanine. :star:558
-* [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django. :star:3052
+* [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django. :star:3055
 * [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop is Ecommerce made with Django.
 * [Saleor](http://getsaleor.com) - An e-commerce storefront for Python and Django.
 * [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
@@ -611,7 +611,7 @@ phone numbers.
 ## Project Management
 
 * [ITSY](https://github.com/yetkinozturk/ITSY/) - Issue Tracking System
-* [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool :star:4090
+* [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool :star:4093
 
 # Resources
 
@@ -651,7 +651,7 @@ phone numbers.
 
 # Non Python packages
 
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A cookiecutter template for creating Django projects quickly. :star:3706
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A cookiecutter template for creating Django projects quickly. :star:3709
 
 ## External documentation
 

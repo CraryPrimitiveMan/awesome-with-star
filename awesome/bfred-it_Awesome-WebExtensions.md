@@ -59,7 +59,7 @@ Apps that help you manage your extensions.
 
 ## Testing
 
-- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:241
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:242
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines. :star:94
 
 ## Boilerplates
@@ -73,10 +73,10 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub](https://github.com/npmhub/npmhub) :star:322
+- [npmhub](https://github.com/npmhub/npmhub) :star:323
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:184
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:4055
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1146
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:4064
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1149
 
 ## License
 

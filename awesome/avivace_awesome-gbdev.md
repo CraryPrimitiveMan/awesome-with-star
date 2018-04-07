@@ -158,10 +158,10 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### Open-source emulators
 
-- [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:232
+- [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:233
 - [jsGB](https://github.com/Two9A/jsGB) - Javascript. :star:448
 - [php-terminal-Game Boy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal. :star:1259
-- [gameboy-Online](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs. :star:246
+- [gameboy-Online](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs. :star:248
 - [cboy](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux. :star:17
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:528
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:65
@@ -185,7 +185,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [node-gameboy](https://github.com/nakardo/node-gameboy) - Node.js. :star:23
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator. :star:35
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
-- [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:50
+- [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:51
 - [gomeboycolor](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator. :star:249
 - [mGBA](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C. :star:1063
 - [GBRE](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome). :star:1
@@ -203,7 +203,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 ### Assemblers
 
-- [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:338
+- [RGBDS](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated). :star:342
 - [wla-dx](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package. :star:202
 
 #### Experimentals/Proof of Concepts
@@ -222,7 +222,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ### Emulators
 
 - [BGB](http://bgb.bircd.org/) - Powerful Game Boy emulator and debugger. Provides an accurate hardware emulation.
-- [Gambatte](https://github.com/sinamas/gambatte) - Open-source, cross-platform and accurate emulator for Game Boy and Game Boy Color. :star:252
+- [Gambatte](https://github.com/sinamas/gambatte) - Open-source, cross-platform and accurate emulator for Game Boy and Game Boy Color. :star:253
 
 ### Tools
 
@@ -268,7 +268,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - A lot of working demos and sources.
 - [Assembly tutorial by David Pello](https://avivace.com/apps/gbdev/salvage/tutorial_de_ensamblador%20[La%20decadence].html) - Good document to actually learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code.
-- [assemblydigest](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques: :star:43
+- [assemblydigest](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques: :star:44
   - [Making an Empty Game Boy ROM (in RGBDS)](http://assemblydigest.tumblr.com/post/77198211186/tutorial-making-an-empty-game-boy-rom-in-rgbds)
   - [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
   - [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
@@ -314,11 +314,11 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ## Games
 
 - [Homebrew Hub](https://gbhh.avivace.com) - Every unofficial homebrew ever produced for Game Boy playable online (mobile/touch too): a community-lead attempt to collect, archive and save every unofficial game, homebrew, demo, patch, hackrom for Game Boy (Color) produced by the community through years of passionate work.
-- [Infinity](https://github.com/infinity-gbc/infinity) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows. :star:397
+- [Infinity](https://github.com/infinity-gbc/infinity) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows. :star:398
 
 ### ASM
 
-- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:130
+- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:132
 - [Tuff](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)

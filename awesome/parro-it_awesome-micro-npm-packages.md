@@ -10,7 +10,7 @@
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
-* [Module best practices](https://github.com/mattdesl/module-best-practices) :star:1083
+* [Module best practices](https://github.com/mattdesl/module-best-practices) :star:1085
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
@@ -43,7 +43,7 @@
 
 * [decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow. :star:92
 * [pad-left](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string. :star:32
-* [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case. :star:22
+* [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case. :star:23
 * [to-capital-case](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case. :star:5
 * [to-constant-case](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
 * [to-dot-case](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case. :star:2
@@ -53,7 +53,7 @@
 * [to-snake-case](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case. :star:15
 * [to-space-case](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case. :star:1
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case. :star:10
-* [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars. :star:940
+* [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars. :star:942
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style. :star:20
 * [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes. :star:126
@@ -67,7 +67,7 @@
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds. :star:2
 * [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1393
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service. :star:1
-* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3064
+* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3065
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month. :star:1
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp. :star:45
 * [twas](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
@@ -117,24 +117,24 @@
 * [through2-map](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams. :star:59
 * [stream-spigot](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams. :star:15
 * [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result. :star:452
-* [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify :star:1445
+* [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify :star:1448
 * [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2. :star:1
-* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:527
+* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:530
 * [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. :star:304
 * [is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream. :star:50
-* [syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously. :star:73
+* [syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously. :star:74
 
 
 ### Promise
 
-* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:894
+* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:895
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties. :star:7
 * [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay. :star:29
 * [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise. :star:62
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf). :star:2360
+* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf). :star:2361
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p. :star:1720
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb. :star:20
 * [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies. :star:202
@@ -161,9 +161,9 @@
 ### CLI
 
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings. :star:122
-* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4476
+* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4478
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user. :star:72
-* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:2850
+* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:2854
 * [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format. :star:32
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application :star:1
 
@@ -178,7 +178,7 @@
 
 ### Other
 
-* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5530
+* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5531
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1133
 * [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object. :star:1
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name. :star:13
@@ -187,8 +187,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:22968
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:2869
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:22989
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:2872
 
 ## Small modules rockstars to follow
 

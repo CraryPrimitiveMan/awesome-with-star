@@ -55,7 +55,7 @@
 ### Productivity
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
-- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time. :star:81
+- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time. :star:82
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 
 ### Internet
@@ -108,14 +108,15 @@
 - [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) - Official tweak tool provided by the GNOME project for tweaking your desktop.
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME :star:49
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME :star:50
 
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2306
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2308
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:250
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2520
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2525
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:130
 
 ### System
 
@@ -128,7 +129,7 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:442
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:443
 
 ## Extensions
 
@@ -142,7 +143,7 @@
 - [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
-- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:39
+- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:40
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:119
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
 - [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:35
@@ -159,7 +160,7 @@
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets. :star:34
 
 ### Windows
-- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:43
+- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:44
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell. :star:202
@@ -186,7 +187,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:504
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:507
 
 ### Flat
 
@@ -201,7 +202,7 @@
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) - Theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:424
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:425
 
 ## Icons
 

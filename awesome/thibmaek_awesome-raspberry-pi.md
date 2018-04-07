@@ -88,7 +88,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0). :star:11
 - [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa_supplicant.conf files with wifi settings
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
-- [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi. :star:559
+- [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi. :star:560
 - [HealthyPi](https://github.com/Protocentral/HealthyPi) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [PoisonTap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
@@ -110,7 +110,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
-- [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system. :star:153
+- [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system. :star:154
 - [PiClock](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi. :star:349
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door. :star:13
 - [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer. :star:72
@@ -121,7 +121,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection. :star:344
-- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2967
+- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2971
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
@@ -140,7 +140,7 @@ The complete collection of Raspberry Pi models consist of:
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang. :star:6
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B reciever which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi. :star:438
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
-- [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data. :star:125
+- [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data. :star:126
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.  :star:243
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
@@ -149,7 +149,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf) - Extensive guide on security best practices for the Pi ie. exposed to the internet.
-- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls. :star:819
+- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls. :star:820
 
 
 ### Tutorials
@@ -157,7 +157,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
-- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:994
+- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:995
 - [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.

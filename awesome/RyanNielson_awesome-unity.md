@@ -50,7 +50,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
-* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:170
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:171
 
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
@@ -77,7 +77,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:580
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:43
 * [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:536
-* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:990
+* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:991
 
 ## Modeling
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
@@ -127,8 +127,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views. :star:7
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2315
-* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1032
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2318
+* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1031
 
 ## Visual Scripting
 

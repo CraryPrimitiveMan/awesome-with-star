@@ -62,7 +62,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:182
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:183
 
 
 ## Application Skeleton
@@ -71,7 +71,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:313
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:314
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:616
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:6
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3673
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3675
 
 
 ## CMS & Blogs
@@ -199,7 +199,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Mail services.*
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service :star:41
-* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework :star:30
+* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework :star:31
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
 * [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon PHP Framework and Swift :star:6
 
@@ -216,9 +216,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
-* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:32
+* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:33
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:658
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework :star:659
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework :star:8
 * [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:32
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps :star:3
@@ -261,7 +261,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate :star:88
 * [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:17
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:33
-* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework :star:214
+* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework :star:215
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon :star:23
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application :star:163
 * [PhREST API](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package :star:28
@@ -287,8 +287,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Searching tools & libraries.*
 
-* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon :star:5
-* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables :star:44
+* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon :star:6
+* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables :star:45
 * [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic :star:29
 * [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework :star:25
 
