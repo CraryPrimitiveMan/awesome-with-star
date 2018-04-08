@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3867
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3870
 
 ## Blogs
 
@@ -214,6 +214,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [USBtin](http://www.fischl.de/usbtin/) - USBtin is a simple USB to CAN interface. It can monitor CAN busses and transmit CAN messages. USBtin implements the USB CDC class and creates a virtual comport on the host computer.
 - [OpenXC](http://openxcplatform.com/hardware.html) - OpenXC is a combination of open source hardware and software that lets you extend your vehicle with custom applications and pluggable modules. It uses standard, well-known tools to open up a wealth of data from the vehicle to developers. Started by researchers at Ford, it works for all 2002 and newer MY vehicles (standard OBD-II interface). Researchers at Ford Motor Company joined up to create a standard way of creating aftermarket software and hardware for vehicles. 
 - [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
+- [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
 
 # Software
 
@@ -232,8 +233,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:277
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7395
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6943
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7398
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:6944
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:102
@@ -264,7 +265,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### Go
 
 - [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
-- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board](https://github.com/carloop/simulator) :star:64
+- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board](https://github.com/carloop/simulator) :star:65
 
 ### JavaScript
 
@@ -293,16 +294,16 @@ List of lists.
 
 - Security
   - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3075
-  - [Security](https://github.com/sbilly/awesome-security) :star:2716
+  - [Security](https://github.com/sbilly/awesome-security) :star:2719
   - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2010
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3338
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2976
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3626
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3339
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:2978
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3627
   - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2192
   - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1865
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:82294
-  - [lists](https://github.com/jnv/lists) :star:4895
+  - [awesome](https://github.com/sindresorhus/awesome) :star:82331
+  - [lists](https://github.com/jnv/lists) :star:4896
 
 # Contributing
 

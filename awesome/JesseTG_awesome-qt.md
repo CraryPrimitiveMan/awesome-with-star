@@ -80,15 +80,15 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 - [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of macOS disk images, app bundles, or Linux packages, so be mindful of that when considering your project's distribution. :star:50
   - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - Generates macOS application bundles for Qt projects.
 - [qmake](https://doc.qt.io/qt-5/qmake-manual.html) [:octocat:](https://github.com/qt/qtbase/tree/dev/qmake) - The bundled build system designed for Qt, though it can be used for non-Qt projects.
-- [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, consider this alternative build system. :star:49
+- [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, consider this alternative build system. :star:50
 - [Emulator](https://doc.qt.io/emulator) - Don't forget about Qt's mobile support!
 - `qtdiag` [:octocat:](https://github.com/qt/qttools/tree/dev/src/qtdiag) - Command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
 - `qmleasing` [:octocat:](https://github.com/qt/qtdeclarative/tree/dev/tools/qmleasing) - Lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
 
 ### Third-Party Tools
 
-- [CMake](https://doc.qt.io/qt-5/cmake-manual.html) [:octocat:](https://github.com/Kitware/CMake) - General C++ build tool that happens to have great Qt support. :star:1764
-- [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray) [:octocat:](https://github.com/KDAB/GammaRay) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out. :star:526
+- [CMake](https://doc.qt.io/qt-5/cmake-manual.html) [:octocat:](https://github.com/Kitware/CMake) - General C++ build tool that happens to have great Qt support. :star:1765
+- [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray) [:octocat:](https://github.com/KDAB/GammaRay) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out. :star:527
 - [moc-ng](https://github.com/woboq/moc-ng) [:octocat:](https://github.com/woboq/moc-ng) - Alternative implementation of `moc` that's binary-compatible with Qt's version. :star:133
 - [Qt-Inspector](https://github.com/robertknight/Qt-Inspector) [:octocat:](https://github.com/robertknight/Qt-Inspector) - Inspection tool with similar goals to GammaRay, though much simpler. :star:165
 - [SIP](https://www.riverbankcomputing.com/software/sip) [:package:](https://www.riverbankcomputing.com/hg/sip) - Generates Python bindings for C or C++ libraries.  Has special support for Qt signals and slots, and was used to create [PyQt](https://riverbankcomputing.com/software/pyqt).
@@ -142,7 +142,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [qgexedit2](https://github.com/Simsys/qhexedit2) [:octocat:](https://github.com/Simsys/qhexedit2) - Embed a hex editor in your application. :star:99
 - [qml-material](https://github.com/papyros/qml-material) [:octocat:](https://github.com/papyros/qml-material) - Material Design implemented in QML. :star:1935
 - [QNodeView](https://github.com/gwihlidal/QNodeView) [:octocat:](https://github.com/gwihlidal/QNodeView) - Widget that lets you create and edit nodes in a graph similar to the kind provided by Unreal Engine, Substance Designer, or PureData. :star:79
-- [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) [:octocat:](https://github.com/alex-spataru/QSimpleUpdater) - Let your application update itself. :star:115
+- [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) [:octocat:](https://github.com/alex-spataru/QSimpleUpdater) - Let your application update itself. :star:116
 - [qt-maybe](https://github.com/robertknight/qt-maybe) [:octocat:](https://github.com/robertknight/qt-maybe) - Fans of type theory will enjoy these sum and optional types. :star:21
 - [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat:](https://github.com/robertknight/qt-mustache) - Render [Mustache](https://mustache.github.io) templates. :star:61
 - [QtAV](http://www.qtav.org) [:octocat:](https://github.com/wang-bin/QtAV) - Actively developed multimedia framework. :star:1501
@@ -153,7 +153,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [QtTerminalWidget](https://github.com/cybercatalyst/qtterminalwidget) [:octocat:](https://github.com/cybercatalyst/qtterminalwidget) - Make your application capable of **anything**. :star:11
 - [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) [:octocat:](https://github.com/VerbalExpressions/QtVerbalExpressions) - Create regular expressions using natural English expressions.  Part of the [VerbalExpressions](https://verbalexpressions.github.io) project, which does the same thing for a wide variety of languages. :star:30
 - [qtwebserver](https://github.com/cybercatalyst/qtwebserver) [:octocat:](https://github.com/cybercatalyst/qtwebserver) - If you need to write a web application server in Qt for some reason, this'll help you along. :star:23
-- [QtXlsx](http://qtxlsx.debao.me) [:octocat:](https://github.com/dbzhang800/QtXlsxWriter) - Read and write spreadsheets in Microsoft Excel format. :star:315
+- [QtXlsx](http://qtxlsx.debao.me) [:octocat:](https://github.com/dbzhang800/QtXlsxWriter) - Read and write spreadsheets in Microsoft Excel format. :star:316
 - [Qwt](http://qwt.sourceforge.net) [:package:](https://sourceforge.net/projects/qwt) - Qt widgets designed for scientific and technical applications.
 - [V-Play](https://v-play.net) - Cross-platform 2D game engine and app framework that relies heavily on QML.  Has a lot of tools and resources, and may even deserve its own list.
 - [verdigris](https://github.com/woboq/verdigris) [:octocat:](https://github.com/woboq/verdigris) - Experimental library to write Qt applications *without* using the `moc`. :star:230
@@ -200,7 +200,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 - [Game Programming Using Qt: Beginner's Guide](https://www.packtpub.com/game-development/game-programming-using-qt) by Witold Wysota and Lorenz Haas - Good place to start learning how to program games with QML.
 - [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by [Ray Rischpater](http://www.lothlorien.com/kf6gpe) - Beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
 - [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by [Symeon Huang](https://github.com/librehat) - Seems to be about the overall structure of a Qt project.
-- [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by [Guillaume Lazar](https://github.com/GuillaumeLazar) and [Robin Penea](https://github.com/synapticvoid) [:octocat:](https://github.com/PacktPublishing/Mastering-Qt-5) - Not your daddy's Qt.  Tips and tricks for the experienced.  The source code used in the book is available for free. :star:87
+- [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by [Guillaume Lazar](https://github.com/GuillaumeLazar) and [Robin Penea](https://github.com/synapticvoid) [:octocat:](https://github.com/PacktPublishing/Mastering-Qt-5) - Not your daddy's Qt.  Tips and tricks for the experienced.  The source code used in the book is available for free. :star:88
 - [PySide GUI Application Development - 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
 - [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook) - Free book that focuses on QML, named for this town in northeastern Spain that the authors vacationed to once. :star:1058
 
@@ -209,9 +209,9 @@ Each entry is followed by a standout list of articles, talks, or other resources
 A framework is only as great as the software that uses it.  Fortunately, much great software uses Qt.
 
 - [Autodesk Maya](http://www.autodesk.com/maya) - 3D animation and design software that has been used to create visual effects for some of the most popular movies and TV shows of all time.
-- [CMake](https://cmake.org) [:octocat:](https://github.com/Kitware/CMake) - The closest thing to a standard C++ build system out there. The bundled GUI uses Qt. :star:1764
-- [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - But can it run Crysis?  Some auxillary tools use Qt. :star:7887
-- [Doxygen](https://www.stack.nl/~dimitri/doxygen) [:octocat:](https://github.com/doxygen/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt. :star:1847
+- [CMake](https://cmake.org) [:octocat:](https://github.com/Kitware/CMake) - The closest thing to a standard C++ build system out there. The bundled GUI uses Qt. :star:1765
+- [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - But can it run Crysis?  Some auxillary tools use Qt. :star:7890
+- [Doxygen](https://www.stack.nl/~dimitri/doxygen) [:octocat:](https://github.com/doxygen/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt. :star:1848
 - [Google Earth](https://www.google.com/earth) - *The* virtual globe.
 - [KDE](https://www.kde.org) [:octocat:](https://github.com/KDE) - One of the most popular desktop environments for Linux.
 - [Malwarebytes](https://www.malwarebytes.com) - Your Windows desktop's personal bodyguard.
@@ -220,7 +220,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games. :star:58
 - [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 - [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
-- [Telegram Desktop](https://desktop.telegram.org) [:octocat:](https://github.com/telegramdesktop/tdesktop) - Secure your conversations so well, you'll raise the blood pressure of potential eavesdroppers.  The desktop client uses Qt and is open source. :star:6918
+- [Telegram Desktop](https://desktop.telegram.org) [:octocat:](https://github.com/telegramdesktop/tdesktop) - Secure your conversations so well, you'll raise the blood pressure of potential eavesdroppers.  The desktop client uses Qt and is open source. :star:6927
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled) - Perhaps the world's most popular tilemap editor.  Suitable for level design in games. :star:5363
 - [VirtualBox](https://www.virtualbox.org) [:package:](https://www.virtualbox.org/browser/vbox/trunk) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
 - [VLC](https://www.videolan.org/vlc) [:package:](https://code.videolan.org) - One of the most flexible open source video players in existence.
@@ -235,10 +235,10 @@ There's also an official showroom [here](https://showroom.qt.io), which lets dev
 
 If you're familiar with Awesome, you'll know that there's an *extremely* wide variety of resources, the usefulness of which will depend on your project.  However, if you're developing Qt applications, you'll almost certainly want to look at these as well.
 
-- [Awesome C/C++](https://github.com/fffaraz/awesome-cpp) - There's no reason you can't use C++ libraries that weren't designed for Qt.  Sometimes they might even suit your needs better than what Qt offers. :star:12659
-- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) - Same goes for C libraries; might wanna brush up on those RAII techniques while you're at it. :star:1157
-- [Awesome CMake](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead. :star:1136
-- [Awesome OpenGL](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL. :star:779
+- [Awesome C/C++](https://github.com/fffaraz/awesome-cpp) - There's no reason you can't use C++ libraries that weren't designed for Qt.  Sometimes they might even suit your needs better than what Qt offers. :star:12671
+- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) - Same goes for C libraries; might wanna brush up on those RAII techniques while you're at it. :star:1158
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead. :star:1137
+- [Awesome OpenGL](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL. :star:782
 
 ## License
 

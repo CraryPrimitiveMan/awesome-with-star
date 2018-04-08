@@ -36,6 +36,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 - [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - Blog post by Keith Cirkel.
 - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Sequel to [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/).
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8) -  Article by Cory House.
+- [Helpers and tips for npm run scripts](http://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html) - Blog post by Michael Kühnel covering advanced topics.
 
 ## Videos/Talks
 
@@ -47,7 +48,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax. :star:16
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner. :star:1739
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner. :star:1740
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:57
 
 ## File Watchers
@@ -59,14 +60,14 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6610
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:2034
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6611
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:2037
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2361
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2362
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:87
 - [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1720
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:53
@@ -82,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:462
+- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:464
 
 ## Other Utilities
 
@@ -91,6 +92,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application. :star:150
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line :star:3
+- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail. :star:28
 
 ## Miscellaneous
 
@@ -99,6 +101,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [run-npm](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts. :star:163
 - [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name. :star:68
 - [edit-script](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping. :star:5
+- [ntl](https://github.com/ruyadorno/ntl) - Interactive cli menu to list and run npm scripts. :star:420
 
 ## Cross-platform Shell Reference
 

@@ -75,7 +75,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console :star:170
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility :star:64
-* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game :star:120
+* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game :star:121
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table :star:105
 
 ## Drawing
@@ -117,7 +117,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Input
 *Input & Binding Libraries*
 
-* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:55
+* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:56
 * [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:80
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE :star:47
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library :star:38
@@ -158,7 +158,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
-* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins :star:244
+* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins :star:245
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
@@ -178,7 +178,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:415
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies. :star:12
-* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:108
+* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:109
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -193,7 +193,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2847
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2852
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -212,7 +212,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes :star:33
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:226
+* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:227
 
 ## Testing
 *Libraries and Tools for Unit Testing*
@@ -240,11 +240,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE :star:21
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:103
-* [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE :star:20
+* [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE :star:21
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:148
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games :star:133
-* [Patchy](https://github.com/excessive/patchy) - 9patch library :star:18
+* [Patchy](https://github.com/excessive/patchy) - 9patch library :star:19
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE :star:2
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library :star:262
@@ -270,7 +270,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:1971
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:1974
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)

@@ -33,9 +33,9 @@ React-based:
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:41
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:485
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:62
-- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:28
+- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:29
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:71
-- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:103
+- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:104
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
 
 Virtual-DOM based:
@@ -50,7 +50,7 @@ Signals/Behaviors/FRP:
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:26
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:46
 - [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:110
-- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:40
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:42
 
 ## URL Routers
 

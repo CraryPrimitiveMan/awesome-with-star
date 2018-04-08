@@ -36,8 +36,8 @@ A curated list of Awesome Alfred Workflows.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:231
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:48
-- [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:532
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1350
+- [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:533
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1352
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:93
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:144
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -47,7 +47,7 @@ A curated list of Awesome Alfred Workflows.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:423
 - [Packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org). :star:15
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories. :star:77
-- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2. :star:34
+- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2. :star:35
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode. :star:237
@@ -80,17 +80,17 @@ A curated list of Awesome Alfred Workflows.
 - [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
 
 ## Security
-- [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault. :star:95
+- [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault. :star:96
 - [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator. :star:63
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
-- [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections. :star:45
+- [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections. :star:46
 
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
 - [AppScripts](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application. :star:26
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs. :star:68
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates. :star:11
-- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:197
+- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:198
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred. :star:155
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search :star:38
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
@@ -117,7 +117,7 @@ A curated list of Awesome Alfred Workflows.
 Here are a list of other collections of alfred collections which are useful.
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
-- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:371
+- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise". :star:372
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 

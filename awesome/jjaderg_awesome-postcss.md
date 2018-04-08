@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18061
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18066
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community

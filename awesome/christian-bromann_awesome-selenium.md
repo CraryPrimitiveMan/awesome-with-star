@@ -42,16 +42,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
-- [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework. :star:1608
+- [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework. :star:1609
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-- [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely. :star:536
+- [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely. :star:537
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 - [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
 #### PHP
 - [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2245
 - [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server. :star:25
-- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:149
+- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:148
 
 #### Python
 
@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. :star:895
 - [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:117
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2256
-- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:528
+- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:529
 - [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:826
 - [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support. :star:3
 
@@ -101,7 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Desktop (browsers)
 
 - [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-- [Geckodriver](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3 :star:1719
+- [Geckodriver](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3 :star:1720
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Device Farms
 
-- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:7081
+- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:7083
 
 ### Web Scraping / Mining
 

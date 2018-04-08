@@ -39,7 +39,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HOSxP](http://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](http://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
-  * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System. :star:142
+  * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System. :star:143
   * [OpenClinic](http://openclinic.sourceforge.net/) - Medical Records System.
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
   * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
@@ -141,7 +141,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Bioinformatics
   * [ADAM](https://github.com/bigdatagenomics/adam) - Genomics analysis platform. :star:708
-  * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis. :star:556
+  * [Bcbio](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis. :star:559
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
@@ -151,10 +151,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
-  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:131
+  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:132
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2386
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2389
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:6

@@ -165,7 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:180
 - [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3. :star:22
 - [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:475
-- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1308
+- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1307
 - [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:92
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp. :star:42
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:33
@@ -215,7 +215,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Community Examples
 
-- [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets. :star:63
+- [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets. :star:64
 - [RethinkDB Reactjs](https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (Rails) + Server Side Events. :star:26
 - [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB :star:24
 - [Boot RethinkDB](https://github.com/geowarin/boot-rethinkdb) - Chat example with spring boot and RethinkDB. :star:32

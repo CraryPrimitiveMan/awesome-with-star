@@ -57,7 +57,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types. :star:6
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator. :star:24
 - [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:228
-- [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:367
+- [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:368
 
 #### Community & Store Automation
 
@@ -89,9 +89,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1169
-- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:127
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1009
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1171
+- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:128
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1010
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:41
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -123,7 +123,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:165
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
-- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:76
+- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:75
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:286
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library. :star:7
 
@@ -164,7 +164,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 - [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) :star:44
-- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:244
+- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:245
 - [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
 
 ### Posts

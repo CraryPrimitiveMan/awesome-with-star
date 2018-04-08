@@ -33,12 +33,12 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
-* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7486
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS :star:7496
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards) :star:161
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS. :star:16
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
-* [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems. :star:265
+* [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems. :star:266
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:468
@@ -79,7 +79,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
-- [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment :star:103
+- [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment :star:104
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 
@@ -99,7 +99,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS :star:141
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally. :star:84
 * [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS :star:182
+* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS :star:183
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC :star:17
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows :star:32
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path :star:10

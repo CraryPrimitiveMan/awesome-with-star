@@ -22,7 +22,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:15667
+* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:15677
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 

@@ -38,7 +38,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2232
+- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers :star:2234
 - [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web :star:237
 
 ## streams
@@ -59,7 +59,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3411
+- [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3410
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7477
 
 ## virtual machines

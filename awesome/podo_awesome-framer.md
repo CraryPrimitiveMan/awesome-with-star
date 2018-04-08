@@ -104,7 +104,7 @@
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload. :star:29
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers. :star:96
 * [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs. :star:324
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer. :star:97
+* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer. :star:98
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events. :star:104
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions. :star:8
 * [framer-label](https://github.com/peteschaffner/framer-label) - Label module with multi-line truncation support for Framer. :star:12
@@ -134,7 +134,7 @@
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:427
 * [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS. :star:50
 * [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders. :star:20
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components. :star:97
+* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components. :star:98
 * [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other. :star:24
 * [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes. :star:28
 * [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease. :star:82
@@ -154,7 +154,7 @@
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:40
 * [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:45
-* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:82
+* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:83
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:13
 * [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:7
 * [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - Framer module for Gamepad-driven UI prototypes. :star:9

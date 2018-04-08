@@ -19,7 +19,7 @@
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values. :star:553
 
 #### Network Inspection
-- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel :star:3716
+- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel :star:3719
 
 #### CPU profile
 - [JSCLegacyProfiler/json2trace](https://github.com/facebook/react-native/blob/master/JSCLegacyProfiler/json2trace) - Converts Safari's JavaScriptCore profiler output into `.cpuprofile`
@@ -47,7 +47,7 @@
 - [DevTools Backend](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.  :star:34
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
-- [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol :star:50
+- [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol :star:51
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
 
 #### Protocol driver libraries (in various languages)
@@ -74,7 +74,7 @@
 - [automated-chrome-profiling](https://github.com/paulirish/automated-chrome-profiling#readme) - Node.js recipes for automating JavaScript profiling in Chrome.
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 - [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
-- [headless-devtools](https://github.com/cowchimp/headless-devtools) - Perform various DevTools actions from code (e.g. get CSS Coverage, JS Heap snapshot). Uses Puppeteer + frontend as lib. :star:382
+- [headless-devtools](https://github.com/cowchimp/headless-devtools) - Perform various DevTools actions from code (e.g. get CSS Coverage, JS Heap snapshot). Uses Puppeteer + frontend as lib. :star:383
 - [crconsole](https://github.com/sidorares/crconsole) - Terminal based chrome console and debugger. :star:187
 - [sloth](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs. :star:86
 
@@ -88,7 +88,7 @@
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9474
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools :star:9477
 
 ##### ClosureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript :star:552
@@ -121,7 +121,7 @@
 - [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
 - [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
-- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:7698
+- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data. :star:7704
 - [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Inspect an Angular application's scope and profile its data.
 - [Augury](https://augury.angular.io)  - Debugging and Profiling for Angular 2 applications.
 - [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.

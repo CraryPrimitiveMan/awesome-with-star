@@ -361,7 +361,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Math
 
-- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6144
+- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6145
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind. :star:33
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
@@ -400,10 +400,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
-- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:530
+- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:531
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 - [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
-- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser. :star:2941
+- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser. :star:2946
 
 
 ## Inspiration
@@ -416,7 +416,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
-- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following. :star:243
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following. :star:244
 - [Raven Kwok](https://ravenkwok.tumblr.com/) - Tumblr by visual artist Raven Kwok.
 - [P5Art](http://p5art.tumblr.com/) - Really good collection of experiments in Processing.
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
@@ -463,18 +463,18 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:780
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:783
 - [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:263
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:373
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1793
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:6397
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:243
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:374
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:1794
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:6410
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:244
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:451
-- [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:393
+- [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:396
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1129
-- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4793
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4794
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:23729
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:23741
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

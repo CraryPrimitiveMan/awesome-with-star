@@ -68,12 +68,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ## Bolt
 
 - [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol. :star:120
-- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol. :star:191
+- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol. :star:192
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol. :star:338
 - [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt). :star:61
 - [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol. :star:28
-- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results. :star:48
-- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:108
+- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results. :star:49
+- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:109
 - [neo4j-elixir-driver](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol :star:20
 - [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:85
 
@@ -183,13 +183,13 @@ Neo4j graph database.
 
 # Shell
 
-- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:220
+- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:221
 - [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:239
 
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:189
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2577
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2580
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools

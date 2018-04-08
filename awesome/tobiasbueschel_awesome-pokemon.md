@@ -46,13 +46,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo. :star:1437
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library. :star:912
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#. :star:408
-- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1065
+- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java. :star:1067
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON. :star:215
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON. :star:45
 
 #### Apps
-- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1432
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2112
+- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator. :star:1433
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac. :star:2113
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service. :star:420
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator. :star:232
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle. :star:79
@@ -75,7 +75,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area. :star:2463
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal. :star:955
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon. :star:90
-- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1523
+- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue. :star:1524
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal. :star:156
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy. :star:472
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor. :star:617
@@ -86,7 +86,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats. :star:90
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device. :star:16
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions. :star:46
-- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2752
+- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2753
 
 ## Resources & Others
 #### Communities

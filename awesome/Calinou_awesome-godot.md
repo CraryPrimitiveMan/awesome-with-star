@@ -28,7 +28,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:19
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:22
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:47
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:465
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:466
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016. :star:1
 
 ### 3D
@@ -60,7 +60,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:278
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:280
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:23
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:65
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:12

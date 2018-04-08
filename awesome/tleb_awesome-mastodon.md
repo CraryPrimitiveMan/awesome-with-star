@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12869
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:12878
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -55,7 +55,6 @@
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
-* [Radar](http://radar.amberstone.digital/) - Project to map out the Fediverse.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 
 ## User styles
@@ -151,5 +150,5 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Librairies
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:199
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:201
 

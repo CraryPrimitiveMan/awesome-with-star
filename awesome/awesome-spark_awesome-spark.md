@@ -45,7 +45,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL. :star:551
-* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:737
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings. :star:738
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr). :star:515
 * [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark. :star:317
 
@@ -62,9 +62,9 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### SQL Data Sources
 
-* [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). :star:875
+* [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). :star:876
 * [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer. :star:459
-* [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:166
+* [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer. :star:167
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer. :star:294
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries. :star:1403
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector. :star:35
@@ -90,7 +90,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX. :star:344
 * [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API. :star:357
-* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support. :star:108
+* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support. :star:109
 * [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
 ### Machine Learning Extension
@@ -101,10 +101,10 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training. :star:663
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML. :star:49
-* [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:391
+* [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:390
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:618
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2361
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2363
 
 ### Middleware
 
@@ -130,7 +130,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
-* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2325
+* [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`. :star:2326
 
 ### Testing
 
