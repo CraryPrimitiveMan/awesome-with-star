@@ -47,7 +47,7 @@ Move Validators
 ---
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1229
+ - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1230
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation. :star:24
 
