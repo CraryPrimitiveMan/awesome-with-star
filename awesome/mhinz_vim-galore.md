@@ -2505,9 +2505,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7522
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6023
-- [spf13](https://github.com/spf13/spf13-vim) :star:12085
+- [janus](https://github.com/carlhuda/janus.git) :star:7525
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6040
+- [spf13](https://github.com/spf13/spf13-vim) :star:12095
 
 ## Standard plugins
 

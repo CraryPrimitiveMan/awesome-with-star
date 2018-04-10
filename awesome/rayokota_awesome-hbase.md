@@ -38,8 +38,8 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:492
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:223
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:385
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:225
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:386
 
 
 ### Cloud
@@ -96,7 +96,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:486
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:487
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
