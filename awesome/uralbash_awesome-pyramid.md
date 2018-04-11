@@ -103,7 +103,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2736
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2738
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:851
@@ -193,17 +193,17 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:290
+* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:291
   library.
 * [colander](https://github.com/Pylons/colander) - A :star:318
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:783
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:784
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2421
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2424
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -304,7 +304,7 @@ provide new storage backends.*
 
 ## Templates
 
-* [pyramid_mako](https://github.com/Pylons/pyramid_mako) - Mako templating :star:19
+* [pyramid_mako](https://github.com/Pylons/pyramid_mako) - Mako templating :star:18
   system bindings for the Pyramid web framework.
 * [pyramid_chameleon](https://github.com/Pylons/pyramid_chameleon) - Chameleon :star:10
   template compiler for pyramid.
@@ -385,7 +385,7 @@ provide new storage backends.*
   box content management system for mobile and desktop websites based on python
   and the webframework pyramid. Please refer to the website cms.nive.co for
   detailed information.
-* [substanced](https://github.com/Pylons/substanced) - An application server :star:133
+* [substanced](https://github.com/Pylons/substanced) - An application server :star:134
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1604
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1613
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

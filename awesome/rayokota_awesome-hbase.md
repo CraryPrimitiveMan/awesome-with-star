@@ -39,7 +39,7 @@ A curated list of awesome HBase projects and resources.
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:492
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:225
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:386
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:387
 
 
 ### Cloud
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:791
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:793
 
 #### Geospatial
 
@@ -122,7 +122,7 @@ A curated list of awesome HBase projects and resources.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
-* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:222
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:224
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 

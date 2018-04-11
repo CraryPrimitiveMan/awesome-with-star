@@ -549,8 +549,8 @@ full potential.
 - A range is either a single address or a pair of addresses separated by either
   `,` or `;`.
 - Ranges tell commands which lines to act on.
-- Most commands act only on the current line by default.
-- Only `:write` and `:global` act on all lines by default.
+- Most commands act only on the current line by default. Notable exceptions are
+  `:write` and `:global` which act on all lines.
 
 The usage of ranges is pretty intuitive, so here are some examples (using `:d`
 as short form of `:delete`):
@@ -2505,9 +2505,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7525
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6040
-- [spf13](https://github.com/spf13/spf13-vim) :star:12095
+- [janus](https://github.com/carlhuda/janus.git) :star:7527
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6052
+- [spf13](https://github.com/spf13/spf13-vim) :star:12103
 
 ## Standard plugins
 

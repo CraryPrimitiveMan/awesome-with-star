@@ -34,7 +34,7 @@ FEN Parsers
 
  - [fenparser by tlehman](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python. :star:3
  - [fen by ucarion](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling. :star:1
- - [fen-diagram by andyherbert](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation. :star:4
+ - [fen-diagram by andyherbert](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation. :star:5
 
 Bots
 ---
@@ -47,7 +47,7 @@ Move Validators
 ---
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1230
+ - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1231
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation. :star:24
 
