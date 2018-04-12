@@ -12,6 +12,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Elixir](#elixir)
 - [Golang](#golang)
 - [Haskell](#haskell)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [PHP](#php)
@@ -37,25 +38,29 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Golang
-- [gomatrix](https://github.com/GeertJohan/gomatrix) - gomatrix connects to The Matrix and displays it's data streams in your terminal. :star:162
+- [gomatrix](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal. :star:162
 
 
 ## Haskell
-- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:13
+- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games! :star:14
+
+
+## HTML
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays :star:6
 
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:8744
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:8751
 
 
 ## JavaScript
 
-- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1173
+- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1174
 - [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4485
-- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3767
+- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3766
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2843
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2844
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:173
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:74
@@ -63,11 +68,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1028
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:655
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2687
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2688
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 - [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:2
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now! :star:64
-- [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13. :star:3385
+- [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13. :star:3388
 
 
 ## PHP
@@ -85,12 +90,13 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter! :star:672
 - [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted. :star:398
+- [Table Flipper](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions. :star:314
 
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5260
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5745
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5262
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5747
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1767
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:112
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language. :star:1
@@ -98,7 +104,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1835
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1836
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 
@@ -115,19 +121,20 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:75
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2732
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1401
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3985
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2735
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1402
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3986
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1122
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2706
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2707
 - [fat](https://github.com/drummyfish/fat) - Expand your files. :star:1
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3613
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3616
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:2
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:130
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:645
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:19656
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:19682
 
 
 ## Miscellaneous
@@ -135,6 +142,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars. :star:7
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data. :star:525
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4181
-- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere :star:1403
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4183
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1411
 

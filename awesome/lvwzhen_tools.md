@@ -111,7 +111,7 @@
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark](https://github.com/lvwzhen/iconpark) :star:335
+* [iconpark](https://github.com/lvwzhen/iconpark) :star:336
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 

@@ -46,10 +46,12 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ### Single Topics
 
 - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) – Covering closures. From basics to use cases. Has useful comments.
-- [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
+- [Understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript) - Detailed explanation of the concept of hoisting in JavaScript.
 - [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - Covering the usefulness of Array’s map, reduce, and filter methods.
-- [Async functions](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions) - Shows how to use async functions to make promises friendly.
+- [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
+- [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - Tutorial showing the advantages of consuming Promises via async functions.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) – Describes thoroughly how to use the Fetch API to receive and send data. 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
 ## Free eBooks
@@ -95,8 +97,8 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2027
-- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19538
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2028
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19558
 
 ## DOM related
 

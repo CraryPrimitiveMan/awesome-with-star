@@ -265,7 +265,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Forms
-* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:634
+* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:633
 * [Motion-form](https://github.com/dblandin/motion-form) - RubyMotion forms made easy. :star:16
 
 
