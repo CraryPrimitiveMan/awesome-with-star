@@ -57,7 +57,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Bootstraps and boilerplates
 
 * [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:150
-* [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:389
+* [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:388
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:181
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:16
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS :star:20
@@ -77,7 +77,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
     * [xgrid](https://github.com/xblox/xgrid) - dgrid extensions.
-* [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task :star:35
+* [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task :star:34
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task :star:4
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit. :star:1
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:151
@@ -86,7 +86,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 #### Dojo 2
 
-* [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities :star:181
+* [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities :star:183
 * [DOM Utilities](https://github.com/dojo/dom) - Dojo2 DOM Utilities :star:12
 * [Dojo Command Line Tooling](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
 * [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:13
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23449
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23458
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:31
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13831
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:13855
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:88
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:82673
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1099
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:82828
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1100
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4901
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4908
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:103
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:165
 

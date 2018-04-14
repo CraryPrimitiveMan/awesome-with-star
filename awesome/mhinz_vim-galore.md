@@ -1062,7 +1062,7 @@ topic.)
 Help:
 
 - `:h 'termguicolors'`
-- [List of colorschemes](#list-of-colorschemes-1)
+- [List of colorschemes](PLUGINS.md#colorschemes-1)
 - [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
 ## Folding
@@ -2180,18 +2180,20 @@ set complete-=t   " disable searching tags
 
 ## Cosmetic changes to colorschemes
 
-Always use a dark gray statusline, no matter what colorscheme is chosen:
+Always use a dark gray statusline, no matter which colorscheme is chosen:
 
 ```vim
 autocmd ColorScheme * highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
 ```
 
-The same, but only for the "lucius" colorscheme (check `:echo
-color_name` which should be set by all valid colorschemes):
+This triggers every time you use `:colorscheme ...`. If you want it to trigger only for
+a certain colorscheme:
 
 ```vim
-autocmd ColorScheme lucius highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
+autocmd ColorScheme desert highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
 ```
+
+This triggers only for `:colorscheme desert`.
 
 # Commands
 
@@ -2505,9 +2507,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7528
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6064
-- [spf13](https://github.com/spf13/spf13-vim) :star:12113
+- [janus](https://github.com/carlhuda/janus.git) :star:7529
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6087
+- [spf13](https://github.com/spf13/spf13-vim) :star:12122
 
 ## Standard plugins
 

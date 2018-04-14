@@ -140,7 +140,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## User Interface
 #### UI Components
 
-* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:639
+* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:640
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR. :star:43
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework. :star:7
@@ -165,7 +165,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:24
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:8
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
-* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:60
+* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:61
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library. :star:3
 * [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects. :star:35
 * [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager. :star:15
@@ -183,7 +183,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3dpad](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS). :star:13
 * [Gamepad](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard. :star:54
 * [Advanced_Joystick](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile. :star:22
-* [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR. :star:28
+* [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR. :star:27
 
 ## Multimedia
 
@@ -206,7 +206,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files. :star:3
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex. :star:20
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs. :star:2
-* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:363
+* [Weave](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment. :star:362
 * [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media. :star:23
 
 #### Camera
@@ -261,7 +261,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sound
 
-* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:146
+* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:145
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:59
@@ -389,7 +389,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
-* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:131
+* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:132
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer. :star:2
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library. :star:2
 * [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch. :star:3
@@ -447,7 +447,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### OAuth
 
-* [Actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services. :star:107
+* [Actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services. :star:106
 * [oauth-flex](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript. :star:7
 * [oauth-as3](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3. :star:4
 
@@ -607,7 +607,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
 
 #### Networking ANE
-* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:34
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:35
 * [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:3
 * [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:22
 

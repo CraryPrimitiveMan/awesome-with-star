@@ -96,7 +96,7 @@
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:14
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:31
-- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1104
+- [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1102
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:108
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example

@@ -19,7 +19,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Official Resources
 
 * [Website](http://www.inspectit.rocks/) - Official website.
-* [GitHub Repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository. :star:398
+* [GitHub Repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository. :star:399
 * [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
 * [Documentation](https://inspectit-performance.atlassian.net/wiki/) - Official documentation.
 
@@ -50,7 +50,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 
 ## Uncategorized
 
-* [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic. :star:1
+* [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic. :star:2
 * [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT. :star:1
 
 ## License

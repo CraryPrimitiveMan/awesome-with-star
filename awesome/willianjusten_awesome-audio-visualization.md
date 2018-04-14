@@ -160,15 +160,15 @@
 - [web-audio-player](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player. :star:168
 - [web-media-playback](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser. :star:6
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-- [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery. :star:436
+- [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery. :star:437
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
 - [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web.
 - [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers. :star:1204
-- [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js. :star:300
+- [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js. :star:301
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data. :star:24
-- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:109
+- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:110
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:481
 
@@ -187,7 +187,7 @@
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input. :star:102
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:367
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:215
+- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:216
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 

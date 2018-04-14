@@ -25,11 +25,11 @@
 ### JavaScript
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:24
-- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:233
+- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:234
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:117
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:39
-- [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:69
+- [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:71
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
 - [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:488
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:14
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13511
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1210
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4536
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13531
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1211
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4542
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4629
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4636
 
 [More...](https://testanything.org/producers.html)
 

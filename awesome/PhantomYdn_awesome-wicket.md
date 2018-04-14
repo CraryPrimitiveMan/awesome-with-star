@@ -33,7 +33,7 @@ List of libraries and components which can be used in your application
 
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket. :star:3
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation. :star:11
-- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:278
+- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:276
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too. :star:16
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side. :star:7
 - [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket. :star:16
@@ -125,11 +125,11 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
 - [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:160
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1125
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1129
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:86
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
-- [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform. :star:68
+- [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform. :star:69
 
 ## IDE Plugins and Tools
 

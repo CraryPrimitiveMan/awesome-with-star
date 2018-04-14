@@ -117,7 +117,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) :star:13
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
-    - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard. :star:5
+    - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard. :star:6
     - [Lightning](http://deliverymind.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - Tutorials & Demo
     - Jenkins

@@ -202,7 +202,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Device support
 * [Motion-distance](https://github.com/willrax/motion-distance) - Easy distance tracking for RubyMotion projects. :star:21
-* [Motion-capture](https://github.com/dblandin/motion-capture) - AVFoundation wrapper to support custom camera controllers. :star:13
+* [Motion-capture](https://github.com/dblandin/motion-capture) - AVFoundation wrapper to support custom camera controllers. :star:14
 
 
 ### Encryption

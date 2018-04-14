@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:219
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5270
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5275
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,14 +28,14 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:451
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:452
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:874
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:875
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:367
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:87
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:115
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:116
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:24
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:29
@@ -77,7 +77,7 @@ under the hood:
 
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:105
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo. :star:15
-- [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library. :star:3
+- [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library. :star:4
 - [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework. :star:9
 
 ### CLI Templates
@@ -118,7 +118,7 @@ Other CLI templates
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:15
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:419
-- [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:5
+- [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:1
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:22
 
