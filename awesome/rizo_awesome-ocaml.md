@@ -111,13 +111,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C :star:8294
-- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:16103
+- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C :star:8298
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:16111
 - [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code :star:60
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs. :star:296
 - [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures. :star:9
-- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. :star:622
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. :star:623
 
 
 ## Compilers and Compiler Tools
@@ -211,7 +211,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **Editor Integration**:
   - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs. :star:182
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:47890
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:47938
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin) :star:10
   - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
@@ -376,7 +376,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
   - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
   - [Namespaces](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules. :star:65
-  - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build), Google's multi-language and platform build tool.
+  - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build), Google's multi-language and platform build tool. :star:21
 
 
 ## Parallelism

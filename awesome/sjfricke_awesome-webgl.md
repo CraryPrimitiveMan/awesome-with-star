@@ -104,7 +104,7 @@ Processing Unit (GPU).
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
 * [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1078
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1079
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -196,7 +196,7 @@ Processing Unit (GPU).
 ### Tutorials
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
-* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2. :star:124
+* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2. :star:125
 
 ### Videos
 
@@ -253,8 +253,8 @@ Processing Unit (GPU).
 * [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript. :star:1653
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
-* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2930
-* [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1229
+* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2931
+* [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1231
 
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
@@ -293,7 +293,7 @@ Processing Unit (GPU).
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
-* [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype. :star:918
+* [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype. :star:919
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
@@ -301,7 +301,7 @@ Processing Unit (GPU).
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2854
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2855
 * [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
@@ -321,11 +321,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:82828
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:82882
 * [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:797
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:802
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4813
-* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2102
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:804
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4814
+* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2103
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1131
 
 ## Contributing

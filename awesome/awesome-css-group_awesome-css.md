@@ -1,4 +1,4 @@
-# Information comes from [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+# Information comes from [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css)
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
@@ -65,8 +65,8 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 *Editor's drafts of CSS specifications*
 
-- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository. :star:884
-- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository. :star:1124
+- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository. :star:886
+- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository. :star:1125
 
 ## Parser :mag:
 
@@ -76,7 +76,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors. :star:222
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser. :star:87
 * [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib. :star:264
-* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins. :star:18158
+* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins. :star:18166
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js. :star:2765
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers. :star:124
 
@@ -86,9 +86,9 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 *Build CSS faster*
 
-* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax. :star:15463
-* [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins. :star:18158
-* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language. :star:11261
+* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax. :star:15464
+* [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins. :star:18166
+* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language. :star:11263
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
 _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
@@ -102,7 +102,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
-* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web. :star:8108
+* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web. :star:8112
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
@@ -135,9 +135,9 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Reset and Normalize
 
-- [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements. :star:30612
+- [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements. :star:30622
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. :star:789
-- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset. :star:1179
+- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset. :star:1180
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline. :star:9
@@ -232,12 +232,12 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [babel-plugin-css-in-js](https://github.com/martinandert/babel-plugin-css-in-js) :star:250
 * [classy](https://github.com/inturn/classy) :star:21
 * [csjs](https://github.com/rtsao/csjs) :star:508
-* [css-loader](https://github.com/webpack/css-loader) :star:2606
-* [JSS](https://github.com/cssinjs/jss) :star:3352
+* [css-loader](https://github.com/webpack/css-loader) :star:2608
+* [JSS](https://github.com/cssinjs/jss) :star:3355
 * [react-styled](https://github.com/bloodyowl/react-styled) :star:34
-* [react-with-styles](https://github.com/airbnb/react-with-styles) :star:1110
-* [styled-jsx](https://github.com/zeit/styled-jsx) :star:2948
-* [styled-components](https://github.com/styled-components/styled-components) :star:15415
+* [react-with-styles](https://github.com/airbnb/react-with-styles) :star:1112
+* [styled-jsx](https://github.com/zeit/styled-jsx) :star:2951
+* [styled-components](https://github.com/styled-components/styled-components) :star:15429
 
 Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 

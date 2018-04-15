@@ -86,7 +86,7 @@ Please help us to fill out this section! :smiley:
   <sup>[[code](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 - [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/)
   <sup>[[code](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
-
+- [How to _evolve_ neural networks in Ruby using the Machine Learning Workbench](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
 
 ## Machine Learning Libraries
 
@@ -94,6 +94,7 @@ Please help us to fill out this section! :smiley:
 programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
+
 - [weka](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
@@ -106,15 +107,25 @@ programming languages with appropriate bindings for Ruby.
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
-- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2062
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2064
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
   Machine Learning API of the Microsoft Azure.
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench) -
+  Growing machine learning framework written in pure Ruby, high performance computing using
+  [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo](https://github.com/sonots/cumo).
+  Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
+  examples and utilities.
+- [Deep NeuroEvolution](https://github.com/giuse/DNE) -
+  Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
+  towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
+  [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
 
 ### Neural networks
+
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
@@ -126,9 +137,9 @@ programming languages with appropriate bindings for Ruby.
 - [brains](https://github.com/jedld/brains-jruby) -
   Feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
-- [neuroevo](https://github.com/giuse/neuroevo) -
-  Pure Ruby implementation of both feed-forward and recurrent neural networks
-  (fully connected). Training using neuroevolution (xNES and SNES).
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
+  Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
+  (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
@@ -140,14 +151,17 @@ programming languages with appropriate bindings for Ruby.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
-- [neuroevo](https://github.com/giuse/neuroevo) -
-  Pure Ruby implementation of Natural Evolution Strategy algorithms
-  (black-box optimization), specifically Exponential NES (XNES) and
-  Separable NES (sNES). Application to neural network training (neuroevolution).
+
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
+  Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
+  (black-box optimization), specifically Exponential NES (XNES),
+  Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
+  Applications include neural network search/training (neuroevolution).
 - [simple_ga](https://github.com/giuse/simple_ga) -
   Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
+
 - [linnaeus](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
@@ -251,7 +265,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
-    <sup>[[tutorial](https://web-beta.archive.org/web/20160515115739/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
+    <sup>[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
   - _Test Driven Neural Networks_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s)]</sup>

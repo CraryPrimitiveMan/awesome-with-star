@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:39309
+- [Rails Source Code](https://github.com/rails/rails) :star:39330
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -150,7 +150,7 @@
 - [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:295
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:202
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:205
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -204,7 +204,7 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1206
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io). :star:1208
 
 #### Generators
 
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4908
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4911
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1025
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2412
 

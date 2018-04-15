@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18447
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21196
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18451
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21207
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -206,7 +206,7 @@ Additional lists you might find useful:
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:74
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:560
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:892
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:893
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:53
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
@@ -320,7 +320,7 @@ Additional lists you might find useful:
 
 - [ElasticSearch plugin](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend. :star:61
 - [PlumSearch plugin](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern. :star:18
-- [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications. :star:97
+- [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications. :star:99
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes. :star:3
 - [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records. :star:2
 
@@ -345,7 +345,7 @@ Additional lists you might find useful:
 ## Skeleton
 *Plugins and repositories around app skeletons.*
 
-- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:190
+- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:191
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer. :star:14
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:298
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin. :star:8

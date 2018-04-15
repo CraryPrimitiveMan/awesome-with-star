@@ -81,7 +81,7 @@ The complete collection of Raspberry Pi models consist of:
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS application to easily install/backup/restore images onto an SD card.
 - [Etcher](https://www.etcher.io/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
-- [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server. :star:599
+- [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server. :star:600
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc. :star:494
 - [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
@@ -94,7 +94,7 @@ The complete collection of Raspberry Pi models consist of:
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server. :star:7
-- [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan and Ubuntu. :star:17
+- [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan and Ubuntu. :star:18
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
 ## Projects
@@ -114,7 +114,7 @@ The complete collection of Raspberry Pi models consist of:
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system. :star:154
 - [PiClock](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi. :star:353
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door. :star:13
-- [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer. :star:72
+- [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer. :star:73
 - [PiFanTuner](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
@@ -122,7 +122,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection. :star:347
-- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2988
+- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:2993
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
@@ -139,7 +139,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang. :star:6
-- [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B reciever which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi. :star:441
+- [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B reciever which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi. :star:442
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data. :star:129
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.  :star:243
@@ -160,11 +160,11 @@ The complete collection of Raspberry Pi models consist of:
 - [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
-- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:1004
+- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:1005
 - [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
-- [Turn the Raspberry Pi Zero into a mini dongle computer](http://n-o-d-e.net/post/150780207431/turn-the-raspberry-pi-zero-into-a-mini-dongle) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.

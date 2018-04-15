@@ -91,7 +91,7 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:414
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:105
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:106
 
 ### Graphics
 
@@ -113,10 +113,10 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2325
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2326
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:251
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2552
-- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:137
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2557
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:138
 
 ### System
 
@@ -129,7 +129,7 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:449
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:452
 
 ## Extensions
 
@@ -176,7 +176,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:494
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:495
 
 ### Adwaita-based
 
@@ -187,7 +187,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:519
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:520
 
 ### Flat
 
@@ -209,12 +209,12 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1529
-- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:98
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1531
+- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:99
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:836
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:837
 
 ### Homogeneous Icons
 

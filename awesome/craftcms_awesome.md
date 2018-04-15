@@ -110,9 +110,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### SEO
 - [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:371
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:105
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:106
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
-- [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:165
+- [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:166
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
 
 ### Calendar
@@ -157,7 +157,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups. :star:49
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:212
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:213
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data. :star:8
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
@@ -280,7 +280,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Patrol](https://github.com/selvinortiz/craft.patrol) - Simplifies SSL and maintenance routing. :star:92
 
 ##### Etc.
-- [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:75
+- [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:76
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:142
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:54
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.

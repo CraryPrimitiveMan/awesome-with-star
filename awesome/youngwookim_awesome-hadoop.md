@@ -35,7 +35,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Tez](http://tez.apache.org/) - A Framework for YARN-based, Data Processing Applications In Hadoop
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
-* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1215
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1217
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython.  :star:244
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
@@ -60,7 +60,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase. :star:387
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting. :star:159
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase :star:142
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase :star:486
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase :star:488
 * [Apache Accumulo](https://accumulo.apache.org/) - The Apache Accumulo™ sorted, distributed key/value store is a robust, scalable, high performance data storage and retrieval system.
 * [OpenTSDB](http://opentsdb.net/) - The Scalable Time Series Database
 * [Apache Cassandra](http://cassandra.apache.org/)
@@ -92,7 +92,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7687
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7690
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -101,7 +101,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline :star:663
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
 * [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1265
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1266
 
 ## DSL
 
@@ -242,7 +242,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/hrp/sequel-hive-adapter
      * https://github.com/forward/node-hive
      * https://github.com/recruitcojp/WebHive
-     * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto :star:159
+     * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto :star:160
      * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift :star:4
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
      * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto :star:654

@@ -22,7 +22,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:522
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:524
 * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:119
 * [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:258
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:41
@@ -61,7 +61,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (java) - A Gremlin Server driver for Java.
 * [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3. :star:4
 * [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) - Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol. :star:35
-* [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:74
+* [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:75
 
 ##### Javascript
 * [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript. :star:28
@@ -87,7 +87,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) - Tinkerpop Blueprints Scala. :star:79
 
 #### <A NAME="qlang"></A>Query Languages
-* [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server. :star:33
+* [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server. :star:34
 * [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) - A Scala language wrapper for TinkerPop3. :star:363
 * [gremlin-template-string](https://github.com/jbmusso/gremlin-template-string) - A Javascript Gremlin language builder. :star:14
 * [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) - Gremlin in IPython and Jupyter. :star:18
@@ -97,7 +97,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler. :star:42
 
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
-* [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:74
+* [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:75
 * [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework. :star:135
 * [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack). :star:35
 * [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo. :star:28
@@ -128,7 +128,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:107
+* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:108
 
 
 ## <A NAME="contributing"></A>How to Contribute

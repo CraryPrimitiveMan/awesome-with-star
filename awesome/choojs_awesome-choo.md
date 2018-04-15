@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:219
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5275
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5278
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,9 +28,9 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:452
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:455
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:875
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:876
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:367
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:52
@@ -70,12 +70,12 @@ under the hood:
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:11
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
 - [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:11
-- [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`. :star:19
+- [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`. :star:20
 - [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:27
 
 ### Elements
 
-- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:105
+- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:106
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo. :star:15
 - [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library. :star:4
 - [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework. :star:9

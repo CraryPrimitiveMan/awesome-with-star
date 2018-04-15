@@ -78,7 +78,7 @@ Development state:
 * [XA](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849). :star:3
 
 ### Database
-* [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179). :star:33
+* [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179). :star:34
 * [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064). :star:18
 
 ### Filesystem

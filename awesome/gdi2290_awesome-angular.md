@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:35040
+* [Official GitHub Repo](https://github.com/angular/angular) :star:35064
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -147,12 +147,12 @@ Table of contents:
 #### Angular 2 Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
-* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:790
+* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:791
 * [react-native-renderer](https://github.com/angular/react-native-renderer) :star:746
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3920
+* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3921
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3 :star:188
 * [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:74
 * [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3 :star:62

@@ -74,7 +74,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟 :star:162
 * [Swift Hack Pack](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift. :star:10
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟 :star:1657
-* [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language. :star:102
+* [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language. :star:103
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language. :star:35
 * [MPCS51032 UChicago iOS Course](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago. :star:4
 * [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟  :star:1885
@@ -153,7 +153,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:16767
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:16775
 * [Sorting Experiments](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of. :star:5
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟 :star:42
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
@@ -174,7 +174,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Write your own language: Mu](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟 :star:1070
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟 :star:58
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟  :star:139
-* [Pascal interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁 :star:221
+* [Pascal interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁 :star:222
 * [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳ :star:4
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳ :star:124
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳ :star:8

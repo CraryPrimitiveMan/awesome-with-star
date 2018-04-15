@@ -118,7 +118,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:56
-* [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:81
+* [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:82
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE :star:47
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library :star:38
 
@@ -193,7 +193,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2883
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2887
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -270,7 +270,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:1979
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:1981
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
@@ -320,7 +320,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1639
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:37
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:826
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:829
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

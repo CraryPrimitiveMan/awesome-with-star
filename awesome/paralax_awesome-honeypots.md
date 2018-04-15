@@ -59,12 +59,12 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - a Python-based web server honeypot builder. :star:1
 
 - Service Honeypots
-    - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot. :star:36
+    - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot. :star:37
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot. :star:34
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:282
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:805
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:809
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:10
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:10
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:20
@@ -73,7 +73,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - A multi-purpose modular honeypot based on Twisted. :star:1
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. :star:8
     - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) -  low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS). :star:6
-    - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go. Can be connected up with other Honeypot software. :star:355
+    - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go. Can be connected up with other Honeypot software. :star:356
 
 - Distributed Honeypots
     - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server. :star:15
@@ -92,7 +92,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX. :star:6
-    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:300
+    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:301
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers. :star:2
 
 - Botnet C2 tools
@@ -158,7 +158,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Mobile Analysis Tool
     - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
-    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1926
+    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1927
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
@@ -266,7 +266,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords. :star:153
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen. :star:10
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C. :star:4
-    - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:840
+    - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity. :star:841
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org :star:64
 
 - Distributed sensor project

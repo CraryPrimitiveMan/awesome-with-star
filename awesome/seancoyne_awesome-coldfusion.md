@@ -32,7 +32,7 @@ Pull requests very welcome.
 * [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:179
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:358
+* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:359
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing
@@ -52,9 +52,9 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:72
+* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:73
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
-* [Mura](https://github.com/blueriver/MuraCMS) :star:241
+* [Mura](https://github.com/blueriver/MuraCMS) :star:242
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:37
 * [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:119
 
@@ -76,7 +76,7 @@ Pull requests very welcome.
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:79
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
-* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:141
+* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:142
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:48
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library

@@ -166,7 +166,7 @@ Database
 * [datafly](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15]. :star:64
 * [mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8]. [mitho-auth](https://github.com/fukamachi/mito-auth), a mixin class for use authorization; [mito-attachment](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS. :star:63
 * [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
-* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1490
+* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205]. :star:1491
 * [sxql](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15]. :star:114
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (see also chap. 21 of "Common Lisp Recipes")
 * [elephant](https://common-lisp.net/project/elephant/) - Elephant is a persistent object database for Common Lisp with full transaction semantics. [LLGPL][8].
@@ -322,7 +322,7 @@ Language extensions
 CLOS extensions
 ---------------
 
-* [Cells](https://github.com/kennytilton/cells) - "an implementation of the dataflow programming paradigm", or "reactive spreadsheet-like expressiveness for CLOS". Used to build an [algebra learning system](http://tiltontec.com/). With [documentation](https://github.com/stefano/cells-doc/). Lisp LGPL. :star:98
+* [Cells](https://github.com/kennytilton/cells) - "an implementation of the dataflow programming paradigm", or "reactive spreadsheet-like expressiveness for CLOS". Used to build an [algebra learning system](http://tiltontec.com/). With [documentation](https://github.com/stefano/cells-doc/). Lisp LGPL. :star:99
 * [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8]. :star:13
 
@@ -330,7 +330,7 @@ CLOS extensions
 Non-deterministic, logic programming
 ------------------------------------
 
-* [Screamer](https://github.com/nikodemus/screamer) - augment Common :star:118
+* [Screamer](https://github.com/nikodemus/screamer) - augment Common :star:119
   Lisp with practically all of the functionality of both Prolog and
   constraint logic programming
   languages. [MIT][200]. [Screamer+](https://github.com/ysz/screamer-plus) -
@@ -408,7 +408,7 @@ Advanced
 Library Manager
 ===============
 
-* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:734
+* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:735
 * [qlot](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14]. :star:132
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15]. :star:62
@@ -427,7 +427,7 @@ might help:
 Machine Learning
 ================
 
-* [clml](https://github.com/mmaul/clml) - originally developped by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8]. :star:127
+* [clml](https://github.com/mmaul/clml) - originally developped by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8]. :star:128
 * [mgl](https://github.com/melisgl/mgl) - used by its [author](http://quotenil.com/) to [win](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge. [MIT][200]. :star:158
 * [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat](https://github.com/melisgl/mgl-mat) and [LLA](https://github.com/tpapp/lla).
 
@@ -452,7 +452,7 @@ HTTP clients
 
 HTTP Servers
 ------------
-* [Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). :star:681
+* [Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). :star:682
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8]. :star:87
 * [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14]. :star:145
@@ -579,7 +579,7 @@ Numerical and Scientific
 * [cl-spark](https://github.com/tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14]. :star:55
 * [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
 * [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD][39].
-* [magicl](https://github.com/rigetticomputing/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD_3Clause][15]. :star:34
+* [magicl](https://github.com/rigetticomputing/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD_3Clause][15]. :star:35
 * [maxima](http://maxima.sourceforge.net/) - Computer algebra system. Not available on Quicklisp. [GNU GPL3][2].
 * [lisp-matrix](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD][39]. :star:48
 * [3-matrices](https://shinmera.github.io/3d-matrices) - A library implementing

@@ -130,7 +130,7 @@
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:915
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:829
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:596
-- [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:505
+- [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:506
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:493
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:505
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:384

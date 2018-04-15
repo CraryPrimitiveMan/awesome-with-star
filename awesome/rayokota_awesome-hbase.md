@@ -37,7 +37,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:493
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:494
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:228
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:387
 
@@ -96,7 +96,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:486
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:488
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
@@ -122,7 +122,7 @@ A curated list of awesome HBase projects and resources.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
-* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:225
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:226
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 

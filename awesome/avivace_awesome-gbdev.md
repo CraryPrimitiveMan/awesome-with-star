@@ -106,7 +106,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 - [DMG Schematics](http://gbdev.gg8.se/wiki/articles/DMG_Schematics) - Hardware schematics.
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the realisation of three 8-bit bidirectional parallel ports.
-- [Related custom hardware](https://github.com/Gekkio/gb-hardware) - by gekkio. :star:16
+- [Related custom hardware](https://github.com/Gekkio/gb-hardware) - by gekkio. :star:17
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the actual hardware, custom boards to interface with the console and other related projects.
 - [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - Data and photos of various types of Game Boy consoles.
 
@@ -165,7 +165,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [cboy](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux. :star:17
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:527
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:65
-- [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:101
+- [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:104
 - [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:121
 - [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:124
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
@@ -405,7 +405,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more). :star:50
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - Non-gaming purposes applications development.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift. :star:16
-- [mGB](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module. :star:54
+- [mGB](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module. :star:55
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels. :star:16
 - [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music. :star:44
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer. :star:52

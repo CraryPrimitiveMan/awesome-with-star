@@ -86,7 +86,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
-* [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm. :star:188
+* [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm. :star:189
 * [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
 * [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 * [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
@@ -183,7 +183,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http. :star:136
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node. :star:55
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm. :star:17
-* [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm. :star:694
+* [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm. :star:693
 * [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/). :star:890
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra). :star:191
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info). :star:243
@@ -209,7 +209,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins. :star:140
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
-* [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language. :star:232
+* [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language. :star:233
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability. :star:48
 
@@ -256,7 +256,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more. :star:113
 * [elmkit](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests. :star:48
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app. :star:1
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration. :star:813
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration. :star:815
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects. :star:9
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template. :star:77
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template. :star:47
