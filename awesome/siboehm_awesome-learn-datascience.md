@@ -65,7 +65,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-- [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science) :star:1066
+- [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science) :star:1070
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 - [Natural Language Toolkit](http://www.nltk.org/) - Collection of libraries for working with text-based data.
 - [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges. :star:5208
@@ -82,9 +82,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7671
-- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:3031
-- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:7129
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7675
+- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:3032
+- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:7135
 
 ## Contribute
 

@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:219
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5278
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5281
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:419
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:1
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:22
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:24
 
 ### License
 

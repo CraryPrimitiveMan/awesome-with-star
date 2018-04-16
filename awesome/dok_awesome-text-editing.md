@@ -4,9 +4,9 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8619
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8621
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
-* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3798
+* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3799
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
 * [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3583
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
@@ -44,7 +44,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Markdown editors
 
-* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:6614
+* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:6616
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
 ## Heuristic for contenteditable rich-text editors

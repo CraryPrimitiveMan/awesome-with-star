@@ -23,7 +23,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Server-side modules
 
-* [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization :star:518
+* [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization :star:519
 * [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization :star:3764
 
 ## Grunt tasks

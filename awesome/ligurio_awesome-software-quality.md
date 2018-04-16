@@ -327,7 +327,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:8
 - [test-anything](https://github.com/finnp/test-anything) :star:122
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:517
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:518
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -373,8 +373,8 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1623
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:18
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1166
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2825
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1169
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2827
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:411
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:163
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:106

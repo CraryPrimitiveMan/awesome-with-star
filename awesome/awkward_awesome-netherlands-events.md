@@ -6,7 +6,7 @@
 This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-- [What is an awesome list?](https://github.com/sindresorhus/awesome) :star:82890
+- [What is an awesome list?](https://github.com/sindresorhus/awesome) :star:82954
 - [Contribution guide](contributing.md)
 
 ---
