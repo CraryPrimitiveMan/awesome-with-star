@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11906
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11909
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4226
-- [Repo](https://github.com/substack/node-browserify) :star:11906
+- [Repo](https://github.com/substack/node-browserify) :star:11909
 - [Website](http://browserify.org/)
 
 ## Community Resources

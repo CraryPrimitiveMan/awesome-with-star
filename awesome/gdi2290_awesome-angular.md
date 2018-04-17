@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:35091
+* [Official GitHub Repo](https://github.com/angular/angular) :star:35143
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -86,7 +86,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 
 #### Angular 2 Server-Side Rendering
-* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:2922
+* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:2926
 
 #### Angular 2 Material Design
 
@@ -147,7 +147,7 @@ Table of contents:
 #### Angular 2 Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
-* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:791
+* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:792
 * [react-native-renderer](https://github.com/angular/react-native-renderer) :star:746
 
 ### Angular 2 Components
@@ -175,7 +175,7 @@ Table of contents:
 > Universal (isomorphic) javascript support for Angular 2
 
 #### Universal General Resources
-* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:2922
+* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:2926
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
@@ -270,7 +270,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
 
 #### NativeScript Seed Projects
-* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:49
+* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:48
 
 #### Angular 2 in React Native
 > React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript

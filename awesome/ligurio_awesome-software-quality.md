@@ -315,10 +315,10 @@ create a similar list with books, courses and podcasts about software quality.
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ)
 * [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
+* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
 # Workshops and interactive learning tools
@@ -327,7 +327,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:8
 - [test-anything](https://github.com/finnp/test-anything) :star:122
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:518
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:519
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,16 +371,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1623
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1627
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:18
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1169
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2827
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1178
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2830
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:411
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:163
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:106
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:164
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:107
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:146
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:5
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:419
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:420
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:140
 
