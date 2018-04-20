@@ -73,18 +73,18 @@ This list is for websites, services, software, tools and more: everything that y
 ## CAD Specific 
 
 ### KiCAD
-- [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools) :star:104
+- [Xesscorp's list of KiCAD 3rd part tools](https://github.com/xesscorp/kicad-3rd-party-tools) :star:106
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible. 
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial. 
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB. :star:856
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB. :star:857
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them. :star:83
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:816
-- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1157
+- [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:817
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1158
 
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -167,9 +167,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects :star:32
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from china, that you can use in your projects :star:34
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
-- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers :star:81
+- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers :star:80
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources :star:77
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics :star:12
 

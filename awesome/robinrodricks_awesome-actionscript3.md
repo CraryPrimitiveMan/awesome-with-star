@@ -61,7 +61,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Frameworks
 #### MVC Frameworks
 
-* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:119
+* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:120
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:984
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:29
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
@@ -163,7 +163,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Layout
 
 * [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:24
-* [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:8
+* [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:9
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
 * [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:61
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library. :star:3
@@ -189,7 +189,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Augmented Reality
 
-* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en)). :star:9
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en)). :star:10
 * [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam. :star:11
 * [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality apps, using FLARToolkit/flare.tracker/flare.NFT.
 * [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library. :star:5
@@ -305,7 +305,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3mysql](https://github.com/hgupta9/as3mysql) - Driver for the MySQL open source database. :star:6
 
 #### PostgreSQL
-* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database. :star:14
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database. :star:15
 
 #### DynamoDB
 * [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB. :star:1
@@ -437,7 +437,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples)). :star:116
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate. :star:12
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library. :star:45
-* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:148
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP. :star:149
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS). :star:319
 
 #### Servers
@@ -467,7 +467,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus. :star:27
 * [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1. :star:101
 * [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup. :star:2
-* [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:69
+* [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:70
 * [P2Pmessaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash. :star:1
 * [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS. :star:177
 
@@ -564,7 +564,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:420
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:421
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:59
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4
@@ -591,7 +591,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Multimedia ANE
 * [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:102
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:51
-* [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:52
+* [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:53
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
 * [VideoPlayer](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player. :star:30
 * [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:8
@@ -607,7 +607,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
 
 #### Networking ANE
-* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:35
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:36
 * [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:3
 * [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:22
 

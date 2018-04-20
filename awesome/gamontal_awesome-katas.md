@@ -83,7 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) :star:6
   - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
   - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:112
+  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:113
   - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
   - [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
   - [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)

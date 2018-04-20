@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15470
+- [Official Repository](https://github.com/less/less.js) :star:15483
 
 **[Back to top](#contents)**
 
@@ -62,8 +62,8 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [CSSHórus](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites. :star:73
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
-- [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:348
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19161
+- [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:349
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19171
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -89,7 +89,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Media Queries
 
 - [CSS and Media Query Strategies](https://github.com/buymeasoda/less-media-queries) - Using Less CSS to develop a media query driven solution for modern and legacy browsers. :star:17
-- [Media Queries Library](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less. :star:7
+- [Media Queries Library](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less. :star:8
 - [Media Query to Type](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below. :star:10
 
 **[Back to top](#contents)**
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3237
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3241
 
 **[Back to top](#contents)**
 
@@ -151,7 +151,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java. :star:32
 - [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter. :star:228
 - [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete. :star:166
-- [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:133
+- [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:132
 - [Lesscss](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant. :star:8
 - [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less. :star:11
 
@@ -174,7 +174,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Python
 
-- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python. :star:108
+- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python. :star:109
 
 **[Back to top](#contents)**
 
@@ -202,12 +202,12 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save. :star:106
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:702
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
-- [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:553
+- [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:554
 - [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:945
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:62
-- [Less Sublime](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text. :star:511
+- [Less Sublime](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text. :star:510
 - [Lesshint](https://github.com/lesshint/lesshint) - Tool to aid you in writing clean and consistent Less. :star:109
 - [LiveReload](http://livereload.com/) - CSS edits and image changes apply live. CoffeeScript, SASS, Less and others just work.
 - [SimpleLess](https://wearekiss.com/simpless) - SimpleLess is a minimalistic Less compiler. Just drag, drop and compile.

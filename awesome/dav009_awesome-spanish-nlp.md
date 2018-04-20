@@ -36,7 +36,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [ ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages](http://www.statmt.org/wmt10/translation-task.html)
 - [TASS - 2014 (Sentiment Analysis focused on Spanish)](http://www.daedalus.es/TASS2014/tass2014.php)
 - [SemEval-2 2010 Coreference Resolution in Multiple Languages](http://semeval2.fbk.eu/semeval2.php?location=tasks)
-
+- [SAB Corpus (Spanish Corpus for Sentiment Analysis towards Brands)](http://sabcorpus.linkeddata.es/)
 
 ### Corpora
 - [Multilingual Aligned Annotated Corpus (CRATER)](http://catalog.elra.info/product_info.php?products_id=636)
@@ -70,7 +70,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:464
+- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec) :star:467
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

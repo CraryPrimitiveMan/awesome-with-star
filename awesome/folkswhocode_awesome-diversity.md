@@ -74,7 +74,7 @@ The following is a list of events that make a special effort to be inclusive and
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
-- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:252
+- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:253
 
 ## Actionable Resources
 

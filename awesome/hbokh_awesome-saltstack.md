@@ -30,7 +30,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 - [SaltStack site](https://saltstack.com/) - Company website.
-- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8760
+- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:8768
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -70,7 +70,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Code
 
-- [zulily/alkali](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon. :star:8
+- [zulily/alkali](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon. :star:9
 - [zulily/buoyant](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments. :star:4
 - [valentin2105/Kubernetes-Saltstack](https://k8s-salt.opsnotice.xyz/) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 - [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers. :star:15
@@ -100,7 +100,7 @@ A :gem: means **really _awesome / useful_**.
 ## Tools
 
 - [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration. :star:630
-- [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack. :star:158
+- [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack. :star:160
 - [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:52
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack. :star:15
 

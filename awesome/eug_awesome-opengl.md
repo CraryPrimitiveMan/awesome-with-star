@@ -50,10 +50,10 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [apitrace](http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
 * [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
 * [GL-SL Debugger](http://glsl-debugger.github.io) - Tool for debugging OpenGL programs.
-* [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows. :star:296
+* [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows. :star:297
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
-* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve. :star:1333
+* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve. :star:1335
 
 
 ## GLSL Editors
@@ -76,24 +76,24 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:181
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1728
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1735
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:446
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:448
 
 
 ## Profile Loaders
 
 *Profile loaders for OpenGL*
 
-* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:355
-* [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs. :star:678
+* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:356
+* [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs. :star:681
 * [glbindify](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX. :star:3
-* [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety. :star:503
+* [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety. :star:504
 * [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 * [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - Multi profile loader-generator written in Lua.
 
@@ -148,11 +148,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83034
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:6646
-* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:266
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:807
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4821
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83309
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:6787
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:267
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:809
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4826
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1130
 
 

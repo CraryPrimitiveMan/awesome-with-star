@@ -25,7 +25,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:13049
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:13091
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
@@ -45,7 +45,7 @@
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:91
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:72
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:96
-* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:6
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:7
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 
 ## Tools

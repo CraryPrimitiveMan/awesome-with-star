@@ -50,7 +50,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:495
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang. :star:498
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -67,9 +67,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:244
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1714
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4882
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4890
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1595
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1596
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1095
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:556
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:291
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:417
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:816
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:817
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:473
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:120
@@ -106,15 +106,15 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:833
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:834
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
 
 * [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:244
-* [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:420
-* [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:439
-* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:552
+* [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:421
+* [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:441
+* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:553
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:82
 * [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:180
 
@@ -156,7 +156,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1032
+* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1033
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -167,9 +167,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
-* [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang. :star:251
+* [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang. :star:252
 * [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang. :star:228
-* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP. :star:233
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP. :star:234
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
 ## Queue
@@ -193,7 +193,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json. :star:562
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps. :star:2
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang. :star:15
-* [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs. :star:31
+* [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs. :star:33
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
@@ -217,7 +217,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang. :star:83
 * [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:154
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:8
-* [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:35
+* [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:37
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:36
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:787
 
@@ -228,10 +228,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
-* [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang :star:59
+* [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang :star:60
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang. :star:2
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:234
-* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:232
+* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:235
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
@@ -239,7 +239,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell. :star:475
+* [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell. :star:476
 * [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon. :star:192
 
 # Resources

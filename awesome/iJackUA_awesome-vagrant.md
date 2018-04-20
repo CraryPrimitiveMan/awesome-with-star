@@ -8,7 +8,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16524
+* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16543
 
 
 ## Boxes
@@ -33,8 +33,8 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
 * [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
-* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version). :star:2359
-* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system. :star:1013
+* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version). :star:2367
+* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system. :star:1017
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots. :star:111
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
@@ -89,11 +89,11 @@ for any IP address.
 ## Popular readymade environments
 
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites. :star:759
-* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development. :star:4078
+* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development. :star:4080
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
-* [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground. :star:48
+* [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground. :star:49
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5. :star:499
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.

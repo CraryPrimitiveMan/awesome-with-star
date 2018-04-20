@@ -36,23 +36,24 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy Grails Tool Suite](http://spring.io/tools/ggts) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
 * [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support :star:26
-* [Sublime Text 2](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
+* [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
 
 ## Web Frameworks
 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:459
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:232
-* [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1678
+* [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:48
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1680
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:181
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:68
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:139
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:74
-* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework :star:6
+* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:39
 
 ## Rich Application
@@ -62,15 +63,19 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM :star:248
-* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests. :star:113
+* [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests. :star:114
+* [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration. :star:9
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls :star:4
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:367
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1876
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:860
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1880
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:861
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
-* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:8
+* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:9
+* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:24
+* [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
+* [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:175
@@ -79,7 +84,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Code Analysis
 * [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
-* [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin :star:32
+* [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin :star:33
 
 ## Transpilers
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:191
@@ -104,8 +109,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:83
-* [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
-* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy 
+* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 
 ## Scripting Tools
@@ -113,13 +118,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing :star:28
-* [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space. :star:89
+* [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space. :star:91
 
 # Resources
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2568
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2575
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -146,6 +151,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/)
 * [Cédric Champeau's blog](http://melix.github.io/blog/)
 * [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
+* [Grails Team blog](http://grailsblog.objectcomputing.com/)
+
+## Conferences
+* [Greachconf](http://greachconf.com)
+* [GR8Conf Europe](http://gr8conf.eu)
+* [GR8Conf USA](http://gr8conf.us)
 
 # Contributing
 

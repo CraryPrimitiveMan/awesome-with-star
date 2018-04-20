@@ -103,10 +103,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2737
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2738
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:852
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:854
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:319
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:786
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:787
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2443
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2456
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:582
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:585
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:285
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -346,7 +346,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:398
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:402
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -385,7 +385,7 @@ provide new storage backends.*
   box content management system for mobile and desktop websites based on python
   and the webframework pyramid. Please refer to the website cms.nive.co for
   detailed information.
-* [substanced](https://github.com/Pylons/substanced) - An application server :star:134
+* [substanced](https://github.com/Pylons/substanced) - An application server :star:135
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1647
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1681
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:12

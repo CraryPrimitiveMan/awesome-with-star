@@ -171,7 +171,7 @@ _Sponsored link:_ [SecurityTrails Data Bounty Program $50-$250 USD payouts.](htt
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Media
-* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1773
+* [Giphy](https://github.com/Giphy/GiphyAPI) :star:1776
   * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
   * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
   * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)
