@@ -7,11 +7,11 @@
 
 - [pulp](https://github.com/bodil/pulp) :star:389
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
-- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:40
+- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:41
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
-- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:117
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:118
 
 ## Preludes
 
@@ -27,12 +27,12 @@ CSS:
 
 React-based:
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:300
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:301
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:259
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:42
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:487
-- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:63
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:488
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:64
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:30
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:72
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:104
@@ -44,7 +44,7 @@ Virtual-DOM based:
 
 Signals/Behaviors/FRP:
 
-- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:218
+- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:219
 - [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:13
 - [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:21
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:29
@@ -61,7 +61,7 @@ Signals/Behaviors/FRP:
 
 ## Components
 
-- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars. :star:25
+- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars. :star:26
 - [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library :star:5
 - [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen :star:10
 - [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen :star:5

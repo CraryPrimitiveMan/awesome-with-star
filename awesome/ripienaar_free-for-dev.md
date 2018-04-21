@@ -424,7 +424,6 @@ Table of Contents
    * [cloudant.com](https://cloudant.com/) — Hosted database from IBM, free if usage is below USD 50/month
    * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
-   * [backand.com](https://www.backand.com/) — Back-end as a service for AngularJS
    * [zenginehq.com](http://www.zenginehq.com/) — Build business workflow apps in minutes, free for single users
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](http://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
@@ -605,7 +604,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:93
+  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:94
 
 ## Vagrant Related
 

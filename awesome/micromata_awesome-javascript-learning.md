@@ -83,6 +83,7 @@ Thin books which you can get through in a few days.
 - [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
+- [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
 
 ## Interactive learning
 - [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
@@ -97,13 +98,15 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2033
-- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19686
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2036
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19705
 
 ## DOM related
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
+- [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/) - A tutorial featuring native methods to traverse the DOM.
+
 
 ## Node.js
 

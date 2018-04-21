@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5522
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5528
 
 
 ## Tutorials
@@ -49,7 +49,7 @@
 
 
 ## Packages and Middleware
-* [Lumen Cors](https://github.com/vluzrmos/lumen-cors) - A simple lumen CORS :star:41
+* [Lumen Cors](https://github.com/vluzrmos/lumen-cors) - A simple lumen CORS :star:42
 * [Alternative Lumen Cors](https://github.com/palanik/lumen-cors) - CORS Middleware for Lumen micro-framework :star:81
 * [Phpspec Lumen](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
 * [Understand Lumen](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io :star:6
@@ -58,8 +58,8 @@
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:135
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:631
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:207
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7353
-* [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:85
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7356
+* [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:86
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:120
 * [Lumen Make](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen.  :star:15

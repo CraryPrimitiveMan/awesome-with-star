@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11916
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4226
-- [Repo](https://github.com/substack/node-browserify) :star:11916
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11918
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4227
+- [Repo](https://github.com/substack/node-browserify) :star:11918
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -87,18 +87,18 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1689
+- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1691
 - [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:77
 
 ### CSS bundlers
 
-- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:399
+- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:398
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:254
 - [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:394
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1517
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1519
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:194
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:522
 
@@ -106,13 +106,13 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:298
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:54
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:547
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:548
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:935
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:936
 
 ## Contributing
 

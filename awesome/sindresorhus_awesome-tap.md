@@ -1,5 +1,5 @@
 # Information comes from [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap)
-# Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
+# Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
 > Useful resources for the [Test Anything Protocol](https://testanything.org)<br>
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13578
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13581
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1214
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4557
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4560
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -62,11 +62,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:213
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:214
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4650
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4652
 
 [More...](https://testanything.org/producers.html)
 
