@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3914
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3918
 
 ## Blogs
 
@@ -293,17 +293,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3098
-  - [Security](https://github.com/sbilly/awesome-security) :star:2770
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2068
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3392
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3101
+  - [Security](https://github.com/sbilly/awesome-security) :star:2773
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2070
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3393
   - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3026
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3670
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3672
   - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2221
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1886
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1887
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:83405
-  - [lists](https://github.com/jnv/lists) :star:4923
+  - [awesome](https://github.com/sindresorhus/awesome) :star:83426
+  - [lists](https://github.com/jnv/lists) :star:4924
 
 # Contributing
 

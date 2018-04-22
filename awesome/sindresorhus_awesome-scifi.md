@@ -637,7 +637,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > Six million years ago, at the dawn of the star-faring era, Abigail Gentian fractured herself into a thousand male and female clones, which she called shatterlings. But now, someone is eliminating the Gentian line. Campion and Purslane—two shatterlings who have fallen in love and shared forbidden experiences—must determine exactly who, or what, their enemy is, before they are wiped out of existence.
 
-#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons)* [4.2] 🌟
+#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons)* [4.2] 🌟 🔥
 
 > On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 
@@ -1624,6 +1624,14 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 Plus, I'm not sure the franchise has ever quite topped the amazing chemistry between Shatner, Nimoy, and Kelly. It's worth watching for them alone. - [@augustopedro](https://github.com/augustopedro)
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
+
+#### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
+
+Categories: `adventure` `comedy` `drama`
+
+The Orville does an awesome job recreating the feeling of past Star Trek series. The look and feel is very TNG-era. Many episodes tackle modern day social issues like LGBTQ rights, social media and religion. The characters are interesting and relatable, since they talk and behave like real, imperfect people. Though the series has a comedic element, it doesn't interfere with the other messages, and we get a very good balance of sci-fi, humor, drama and moral. Highly recommended for (but not only) Trekkies. - [@GabiAxel](https://github.com/gabiaxel)
+
+> Follows the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.
 
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
 

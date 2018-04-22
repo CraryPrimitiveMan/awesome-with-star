@@ -58,12 +58,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### POSIX implementations
 
-- [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command. :star:12
+- [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command. :star:13
 - [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command. :star:11
 
 #### Development tools
 
-- [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:15
+- [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:16
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:14
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime. :star:2
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility. :star:9
@@ -71,16 +71,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Realtime
 
-- [use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running. :star:5
+- [use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running. :star:6
 
 #### Fun
 
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News. :star:6
 
 #### Toolbox
-- [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support. :star:6
-- [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support. :star:4
-- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task. :star:4
+- [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support. :star:7
+- [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support. :star:5
+- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task. :star:5
 
 ## Contribute
 

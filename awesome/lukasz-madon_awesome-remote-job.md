@@ -66,7 +66,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
   1. [Six Strategies for Managing Telecommuters](http://www.cio.com/article/2422138/leadership-management/six-strategies-for-managing-telecommuters.html)
   1. [Solo Workers Bond at Shared Workspaces](http://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
-  1. [Team Knowledge and Coordination in Geographically Distributed Software Development](http://kraut.hciresearch.org/sites/kraut.hciresearch.org/files/articles/Espinosa07-CoordinationInGlobalSWDevelopment.pdf)
   1. [The future of telecommuting: Corralling the Yahoos](http://www.economist.com/news/business/21572804-technology-allows-millions-people-work-home-big-tech-firm-trying-stop?fsrc=scn/tw/te/pe/corallingtheyahoos)
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
   1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
@@ -399,7 +398,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Water Lily Pond](http://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, Javascript, Vue
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-  1. [WorkFront](https://www.workfront.com/careers/) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
   1. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
@@ -464,6 +462,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
+  1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
   1. [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).

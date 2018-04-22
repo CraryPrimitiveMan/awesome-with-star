@@ -144,7 +144,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3114
+* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3116
 
 ## Data Formats
 
@@ -361,7 +361,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 * [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit). :star:512
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
-* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes). :star:364
+* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes). :star:363
 
 # Resources
 

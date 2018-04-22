@@ -371,13 +371,13 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1654
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1656
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:18
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1186
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1187
 - [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2862
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:411
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:165
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:108
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:109
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:424

@@ -162,7 +162,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Layout
 
-* [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:24
+* [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:25
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:9
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
 * [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:61
@@ -231,54 +231,54 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Font
 
-* [Firetype](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D.
-* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
-* [HanFont](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript.
-* [Ficon.as](https://github.com/dv/Ficon.as) - Library to easily include icon fonts.
+* [Firetype](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D. :star:106
+* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format. :star:33
+* [HanFont](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript. :star:13
+* [Ficon.as](https://github.com/dv/Ficon.as) - Library to easily include icon fonts. :star:4
 
 #### Particle
 
-* [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex.
+* [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex. :star:271
 * [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade)).
-* [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3).
-* [SAP](https://github.com/gonchar/SAP) - Particle System for Starling.
-* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
+* [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3). :star:9
+* [SAP](https://github.com/gonchar/SAP) - Particle System for Starling. :star:50
+* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com. :star:317
 * [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
 #### Panorama Viewer
 
-* [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player.
-* [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Panorama viewer.
-* [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
+* [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player. :star:18
+* [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Panorama viewer. :star:92
+* [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer. :star:1
 * [Sphere_panorama](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D). :star:1
-* [CuTy](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10.
+* [CuTy](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10. :star:10
 
 #### QR Code
 
 * [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
-* [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3.
-* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux.
+* [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:84
+* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:26
 
 #### Sound
 
-* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3.
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library.
-* [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3.
-* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library.
-* [SeiON](https://github.com/cardin/SeiON) - Sound Management Library.
+* [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3. :star:145
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library. :star:164
+* [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3. :star:1
+* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:59
+* [SeiON](https://github.com/cardin/SeiON) - Sound Management Library. :star:10
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)- Upgraded version of the Sound Manager Class from Matt Przybylski.
-* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
-* [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript.
-* [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer.
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV.
-* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
-* [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects.
-* [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10. :star:58
+* [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript. :star:5
+* [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer. :star:88
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV. :star:226
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above. :star:13
+* [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects. :star:1
+* [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library. :star:45
 
 #### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web.
-* [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:273
+* [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:101
@@ -299,39 +299,39 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### CouchDB
 * [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - Client-side API for interacting with a CouchDB instance. :star:41
-* [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
+* [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities. :star:23
 
 #### MySQL
-* [AS3mysql](https://github.com/hgupta9/as3mysql) - Driver for the MySQL open source database.
+* [AS3mysql](https://github.com/hgupta9/as3mysql) - Driver for the MySQL open source database. :star:6
 
 #### PostgreSQL
-* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database.
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database. :star:15
 
 #### DynamoDB
-* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB.
+* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB. :star:1
 
 #### Redis
-* [AS3redis](https://github.com/zhangq0355/as3redis) - Driver for Redis.
+* [AS3redis](https://github.com/zhangq0355/as3redis) - Driver for Redis. :star:4
 
 ## File Formats
 
 #### Archives
 
-* [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives.
+* [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives. :star:181
 * [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. ([post](http://www.bytearray.org/?p=105)).
-* [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads).
+* [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads). :star:8
 
 #### 3D Formats
 
-* [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada)).
-* [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files.
-* [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files.
-* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
+* [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada)). :star:7
+* [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files. :star:37
+* [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files. :star:5
+* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc. :star:120
 
 #### CSV
 
-* [CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV.
-* [Csvlib](https://github.com/51systems/csvlib) - CSV parser.
+* [CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV. :star:4
+* [Csvlib](https://github.com/51systems/csvlib) - CSV parser. :star:7
 
 #### CSS
 

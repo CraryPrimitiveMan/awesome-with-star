@@ -220,7 +220,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
-* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:1920
+* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:1921
 
 ## Risks
 
@@ -318,8 +318,8 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:1812
-* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:670
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:1815
+* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:669
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:632
 
 ----

@@ -28,8 +28,8 @@
 * [array-first](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array. :star:6
 * [array-last](https://github.com/jonschlinkert/array-last) - Return the last element in an array. :star:13
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays. :star:37
-* [dedupe](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
-* [array-range](https://github.com/mattdesl/array-range) - Creates a new array with given range.
+* [dedupe](https://github.com/seriousManual/dedupe) - Remove duplicates from an array. :star:13
+* [array-range](https://github.com/mattdesl/array-range) - Creates a new array with given range. :star:18
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons. :star:23
 * [filled-array](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input :star:27
 * [map-array](https://github.com/parro-it/map-array) - Map object keys and values into an array. :star:3
@@ -66,7 +66,7 @@
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s. :star:266
 * [hirestime](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps. :star:6
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds. :star:2
-* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1422
+* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1424
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service. :star:1
 * [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3085
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month. :star:1
@@ -81,7 +81,7 @@
 * [object-pairs](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes. :star:2
 * [zipmap](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs. :star:4
 * [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness. :star:5
-* [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module. :star:299
+* [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module. :star:301
 * [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign(). :star:238
 * [set-value](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths. :star:50
 * [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object. :star:75
@@ -90,13 +90,13 @@
 * [flatkeys](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator. :star:3
 * [flatten-obj](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object. :star:12
 * [is-empty-object](https://github.com/gummesson/is-empty-object) - Check if an object is empty. :star:10
-* [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes. :star:158
+* [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes. :star:159
 * [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted. :star:24
 * [static-props](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties` :star:2
 * [missing-deep-keys](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 * [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property.  :star:2
 * [merge-objects](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated. :star:2
-* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects. :star:138
+* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects. :star:139
 
 ### Function
 
@@ -110,7 +110,7 @@
 
 ### Math
 
-* [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number. :star:72
+* [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number. :star:74
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise. :star:1339
@@ -162,9 +162,9 @@
 ### CLI
 
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings. :star:122
-* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4525
+* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:4530
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user. :star:72
-* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:2877
+* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:2876
 * [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format. :star:32
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application :star:1
 
@@ -179,8 +179,8 @@
 
 ### Other
 
-* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5609
-* [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1144
+* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:5612
+* [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1143
 * [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object. :star:1
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name. :star:13
 
@@ -188,8 +188,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:23305
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:2888
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:23319
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:2889
 
 ## Small modules rockstars to follow
 

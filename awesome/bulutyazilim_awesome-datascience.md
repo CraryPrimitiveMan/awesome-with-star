@@ -510,14 +510,14 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:4923
- - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1608
- - [awesome-python](https://github.com/vinta/awesome-python) :star:48762
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12321
- - [awesome-r](https://github.com/qinwf/awesome-R) :star:2884
+ - [lists](https://github.com/jnv/lists) :star:4924
+ - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1610
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:48792
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12325
+ - [awesome-r](https://github.com/qinwf/awesome-R) :star:2886
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:398
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18611
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18615
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 

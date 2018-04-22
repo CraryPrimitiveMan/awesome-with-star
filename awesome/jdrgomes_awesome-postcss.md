@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18238
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18241
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -69,7 +69,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ###### Gulp
 
-- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:609
+- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:610
 - [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse. :star:582
 - [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets :star:1
 ](https://github.com/dp-lewis/postcss-australian-stylesheets).

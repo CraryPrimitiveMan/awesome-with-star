@@ -248,7 +248,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) :star:919
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) :star:921
 
 
 #### Feature Detection and Extraction
@@ -267,7 +267,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Local Binary Patterns](https://github.com/nourani/LBP) :star:70
 
 #### High Dynamic Range Imaging
-* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:75
+* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) :star:76
 
 #### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
@@ -397,9 +397,9 @@ Non-uniform Deblurring
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/research/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * [SEEDS Revised](https://github.com/davidstutz/seeds-revised) :star:30
+ * [SEEDS Revised](https://github.com/davidstutz/seeds-revised) :star:31
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
- * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges) :star:437
+ * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges) :star:438
 
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -450,7 +450,7 @@ Non-uniform Deblurring
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
  * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) :star:1372
- * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) :star:667
+ * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) :star:668
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
@@ -463,10 +463,10 @@ Non-uniform Deblurring
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
  * [VOC-DPM](https://github.com/rbgirshick/voc-dpm) :star:443
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) :star:1447
+ * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) :star:1448
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net) :star:292
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
- * [Edge Boxes](https://github.com/pdollar/edges) :star:437
+ * [Edge Boxes](https://github.com/pdollar/edges) :star:438
  * [ReInspect](https://github.com/Russell91/ReInspect) :star:380
 
 #### Nearest Neighbor Search
@@ -521,10 +521,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6504
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6505
 
 #### Machine Learning
- * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32223
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32234
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -719,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:8572
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32223
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:8580
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32234
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

@@ -157,7 +157,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups. :star:49
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:214
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates. :star:215
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data. :star:8
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
@@ -205,7 +205,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) - Allow a Craft user to be logged in to Shopify through Multipass.
 - [Slack Notifications](https://superbig.co/plugins/slack-notifications) - Send notifications to Slack when someone places an order, a entry is created, or something else happens.
-- [Splash](https://github.com/ethercreative/splash) - Quickly and easily get beautiful Unsplash images in Craft. :star:12
+- [Splash](https://github.com/ethercreative/splash) - Quickly and easily get beautiful Unsplash images in Craft. :star:13
 - [Splashing Images](https://github.com/studioespresso/craft-unsplash) - Brings amazing photos to your fingertips with Unsplash integration. :star:14
 - [Twitter](https://dukt.net/twitter) - Tweet field, search widget, and authenticated Twitter API requests.
 - [Uptime Robot](https://superbig.co/plugins/uptime-robot) - Integrates with Uptime Robot to monitor the health of your Craft site.

@@ -2508,7 +2508,7 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git) :star:7544
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6174
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6179
 - [spf13](https://github.com/spf13/spf13-vim) :star:12180
 
 ## Standard plugins

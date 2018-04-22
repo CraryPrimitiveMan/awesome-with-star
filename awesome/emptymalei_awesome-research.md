@@ -455,7 +455,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40002
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40007
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4354
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1498
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:692
