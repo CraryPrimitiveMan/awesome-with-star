@@ -27,13 +27,13 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4400
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4404
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques. :star:261
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. :star:331
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects. :star:34
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
-- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:527
+- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:528
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses. :star:23
@@ -42,7 +42,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects. :star:121
 - [smoothfade](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes. :star:20
 - [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI. :star:58
-- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API. :star:198
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API. :star:201
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis. :star:206
 - [XSound.js](https://github.com/Korilakkuma/XSound) - Full stack library. :star:13
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance. :star:14
@@ -55,9 +55,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator. :star:15
 - [Tuna](https://github.com/Theodeus/tuna) - An audio effects library. :star:938
 - [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:243
-- [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser. :star:866
+- [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser. :star:867
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
-- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes. :star:2670
+- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes. :star:2671
 - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
 ### Utilities
@@ -71,11 +71,11 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser. :star:17
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) -  handy library to make it easier to work with attached MIDI devices. :star:9
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
-- [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers. :star:37
+- [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers. :star:38
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer. :star:2
 
 ### Apps
-- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:668
+- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:669
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange. :star:1
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you. :star:18
@@ -93,9 +93,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [WebAudio School](https://github.com/mmckegg/web-audio-school	) - A series of self-guided workshops to learn WebAudio.
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) - A reference that aims to be easy to understand for those who know some JavaScript and basic audio principles.
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
-- [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each. :star:75
+- [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each. :star:76
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
-- [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016). :star:25
+- [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016). :star:26
 
 ### Books
 - [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.

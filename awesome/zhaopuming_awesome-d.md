@@ -127,7 +127,7 @@
 *D related tutorials.*
 * [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 * [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-* [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud. :star:174
+* [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud. :star:175
 * [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
@@ -195,7 +195,7 @@
 *Integrated Development Environment.*
 
 * [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support. :star:112
-* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:190
+* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:191
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:259
 * [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:192
@@ -273,7 +273,7 @@
 * [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite. :star:20
 * [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements. :star:2
 * [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite. :star:16
-* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:914
+* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:916
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:61
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL. :star:41
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:327
@@ -283,7 +283,7 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2340
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2347
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:69
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:8
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
@@ -302,7 +302,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:87
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:28
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5220
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5221
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -400,7 +400,7 @@
 
 - [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D. :star:57
 - [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language. :star:81
-- [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D :star:16
+- [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D :star:17
 
 ## Blog Engine
 *Hosting blogs yourself*

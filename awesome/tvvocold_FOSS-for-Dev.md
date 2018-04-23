@@ -28,21 +28,21 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20627
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20629
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:50
 
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:850
- * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3863
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:852
+ * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3864
 
 
 ## Collaboration Tools
 
  * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:3971
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3017
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8897
+ * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8898
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
@@ -54,9 +54,9 @@ Feel free to send a PR :)
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10122
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6684
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1811
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10126
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6686
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1812
 
 
 ## Security and PKI
@@ -78,7 +78,7 @@ Feel free to send a PR :)
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4400
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4404
 
 ## ADN 
   

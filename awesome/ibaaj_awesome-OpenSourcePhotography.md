@@ -41,7 +41,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
 - [Magic Lantern](http://magiclantern.fm/) - *a software enhancement that offers increased functionality to Canon DSLR cameras.*
-- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:382
+- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:383
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
 - [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:188
@@ -81,7 +81,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Fotoxx](http://www.kornelix.com/fotoxx.html) - *A Linux program for editing photos and other images.*
 
 ## HDR Specific Software
-- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:285
+- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:286
 - [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - *HDR Tone Mapping GUI for Linux.*
 - [PFS Tools](http://pfstools.sourceforge.net/) - *A set of command line programs for reading, writing and manipulating HDR images and video frames.*
 

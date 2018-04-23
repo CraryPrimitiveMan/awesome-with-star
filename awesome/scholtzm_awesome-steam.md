@@ -35,9 +35,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:873
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:874
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:28
-- [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:218
+- [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:219
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:96
 - [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot. :star:37
 
@@ -56,12 +56,12 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types. :star:6
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator. :star:24
-- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:228
-- [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:369
+- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:229
+- [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:370
 
 #### Community & Store Automation
 
-- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers. :star:193
+- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers. :star:194
 - [steamstore](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com. :star:32
 - [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client. :star:23
 - [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key. :star:16
@@ -89,7 +89,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1183
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1185
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:131
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1019
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:40
@@ -113,14 +113,14 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Go
 
-- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:180
+- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:181
 - [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go. :star:13
 
 ### Python
 
 #### General
 
-- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:173
+- [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:174
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:75
@@ -130,7 +130,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Game Interaction
 
 - [csgo](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator. :star:26
-- [dota2](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator. :star:56
+- [dota2](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator. :star:57
 
 #### Misc
 

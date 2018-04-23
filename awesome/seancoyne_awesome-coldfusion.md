@@ -78,7 +78,7 @@ Pull requests very welcome.
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:142
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
-* [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:48
+* [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:49
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:44

@@ -138,7 +138,7 @@ Development state:
 ### Maths
 * [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
 * [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
-* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:22
+* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:23
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
@@ -166,8 +166,8 @@ Development state:
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:88
-* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:32
+* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:90
+* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:33
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:18
 
 ## Scripts

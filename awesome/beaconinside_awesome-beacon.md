@@ -185,7 +185,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2075
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2076
 * [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1325
 
 

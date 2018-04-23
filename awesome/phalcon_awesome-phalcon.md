@@ -62,7 +62,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:184
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:185
 
 
 ## Application Skeleton
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3712
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3714
 
 
 ## CMS & Blogs
@@ -141,7 +141,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:128
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:8
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:9
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
@@ -149,7 +149,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Dependency Injection.*
 
-* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection :star:15
+* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection :star:16
 * [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework :star:19
 * [pidic](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon :star:3
 

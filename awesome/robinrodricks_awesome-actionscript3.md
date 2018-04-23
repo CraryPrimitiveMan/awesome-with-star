@@ -86,7 +86,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:153
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:376
-* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1151
+* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1152
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:31
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:54
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:29
@@ -98,7 +98,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### 3D Frameworks
 
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
-* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:669
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:670
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl)). :star:168
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:117
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:367
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1098
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt. :star:1097
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library. :star:34
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching. :star:2
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery. :star:9
@@ -607,7 +607,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content. :star:2
 
 #### Networking ANE
-* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:36
+* [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API. :star:37
 * [DownloadManager](https://github.com/myflashlab/downloadManager-ANE) - Download large data files with pause/resume support. :star:3
 * [BitTorrent](https://github.com/tuarua/BitTorrentANE) - For building BitTorrent enabled applications. :star:22
 

@@ -64,7 +64,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:117
+- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:118
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides. :star:321
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 

@@ -26,10 +26,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 - [Contributing](#contributing)
 - [Credits](#credits)
 
-## Build tools and Setup
+## Build tools, setup and CI
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
+* [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:146
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:518
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:519
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1233
+* [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci :star:2
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
@@ -69,7 +72,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:367
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1880
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1881
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:861
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:9
@@ -108,13 +111,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:9
 
 ## File Format DSL
-* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:83
+* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents. :star:84
 * [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
-
 ## Scripting Tools
  * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:278
+
 
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing :star:28
@@ -124,7 +127,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github :star:2577
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2579
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

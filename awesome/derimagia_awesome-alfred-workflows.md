@@ -37,7 +37,7 @@ A curated list of Awesome Alfred Workflows.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:232
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:51
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:537
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1370
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1371
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:94
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:147
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -58,7 +58,7 @@ A curated list of Awesome Alfred Workflows.
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols. :star:117
 
 ## Scientific
-- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies. :star:222
+- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies. :star:223
 - [DOITools](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 - [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex. :star:49
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
@@ -66,8 +66,8 @@ A curated list of Awesome Alfred Workflows.
 ## Productivity
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events. :star:10
 - [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets. :star:27
-- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files. :star:19
-- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred. :star:49
+- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files. :star:20
+- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred. :star:50
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
@@ -90,8 +90,8 @@ A curated list of Awesome Alfred Workflows.
 - [AppScripts](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application. :star:26
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs. :star:68
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates. :star:11
-- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:202
-- [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred. :star:158
+- [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes. :star:203
+- [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred. :star:159
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search :star:38
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`

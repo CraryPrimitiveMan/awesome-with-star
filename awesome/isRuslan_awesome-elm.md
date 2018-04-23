@@ -175,16 +175,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [core](https://github.com/elm-lang/core) - Elm Core Libraries. :star:1781
+* [core](https://github.com/elm-lang/core) - Elm Core Libraries. :star:1782
 * [html](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM". :star:281
 * [elm-test](https://github.com/elm-community/elm-test) - A unit testing framework for Elm. :star:304
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm. :star:96
-* [http](https://github.com/elm-lang/http) - Make HTTP requests in Elm. :star:94
+* [http](https://github.com/elm-lang/http) - Make HTTP requests in Elm. :star:95
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http. :star:137
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node. :star:55
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm. :star:17
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm. :star:694
-* [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/). :star:893
+* [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/). :star:894
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra). :star:192
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info). :star:246
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
@@ -196,13 +196,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Tools around Elm platform.*
 
-* [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language. :star:4473
+* [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language. :star:4477
 * [elm-make](https://github.com/elm-lang/elm-make) - A build tool for Elm projects. :star:166
 * [elm-reactor](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs. :star:418
 * [elm-live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included! :star:517
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm. :star:171
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries. :star:208
-* [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide). :star:919
+* [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide). :star:918
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript. :star:17
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language. :star:400
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm. :star:123
@@ -256,7 +256,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more. :star:113
 * [elmkit](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests. :star:48
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app. :star:2
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration. :star:829
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration. :star:830
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects. :star:9
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template. :star:77
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template. :star:49

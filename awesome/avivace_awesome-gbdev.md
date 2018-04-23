@@ -166,8 +166,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:528
 - [giibiiadvance](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C. :star:65
 - [GBE+](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements. :star:105
-- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:122
-- [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:124
+- [Sameboy](https://github.com/LIJI32/SameBoy) - Portable C. :star:123
+- [GameYob](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS. :star:125
 - [oneup-gb](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:6
 - [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:306
@@ -178,11 +178,11 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [jgilchrist](https://github.com/jgilchrist/emulator) - Modern C++. :star:44
 - [gameboyGO](https://github.com/gonccalo/gameboyGO) - Go. :star:16
 - [GameBoyEmulator-GBS](https://github.com/Salgat/GameBoyEmulator-GBS) - C++ 14 with a single library dependency of SFML. :star:24
-- [PyBoy](https://github.com/Baekalfen/PyBoy) - Python. Mac, Linux and Windows. :star:79
+- [PyBoy](https://github.com/Baekalfen/PyBoy) - Python. Mac, Linux and Windows. :star:80
 - [scimitar](https://github.com/tompko/scimitar) - Rust. :star:2
 - [FunGBC](https://github.com/andreasjhkarlsson/fungbc) - F#. :star:7
 - [barnacleboy](https://github.com/rep-nop/barnacleboy) - Rust. :star:27
-- [node-gameboy](https://github.com/nakardo/node-gameboy) - Node.js. :star:22
+- [node-gameboy](https://github.com/nakardo/node-gameboy) - Node.js. :star:23
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator. :star:35
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB](https://github.com/trekawek/coffee-gb) - Java 8. :star:52
@@ -192,7 +192,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:12
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:21
 - [SmartGear](https://github.com/bitbank2/sg_free) - C++, SDL2. Focus on optimized performance for resource-limited devices. GTK or direct framebuffer build. :star:6
-- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly. :star:157
+- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly. :star:159
 - [gameboycore](https://github.com/nnarain/gameboycore) - C++ emulation backend. Dependency free C++11 library. :star:6
 - [Gambattye](https://github.com/Ben10do/Gambattye) - macOS, powered by a fork of Gambatte. :star:2
 - [miniBoy](https://github.com/Dhole/miniBoy) - C. :star:5
@@ -241,7 +241,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope. :star:8
 - [GB-convert](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly). :star:6
 - [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM. :star:5
-- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer. :star:90
+- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer. :star:91
 - [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 - [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 - [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in NodeJS :star:5
@@ -407,7 +407,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Ostrich](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift. :star:17
 - [mGB](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module. :star:56
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels. :star:16
-- [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music. :star:44
+- [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music. :star:45
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer. :star:53
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter. :star:6
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware. :star:6

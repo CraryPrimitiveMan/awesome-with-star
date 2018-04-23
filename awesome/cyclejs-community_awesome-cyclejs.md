@@ -66,11 +66,11 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [erykpiast/cyclejs-examples ★9](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js. :star:9
 * [grozen/trends-cycle ★3](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js :star:3
 * [ivan-kleshnin/cyclejs-examples ★120](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6. :star:122
-* [ivan-kleshnin/tetris-cyclejs ★12](https://github.com/ivan-kleshnin/tetris-game) - Tetris game implemented in CycleJS, ES6 :star:13
+* [ivan-kleshnin/tetris-cyclejs ★12](https://github.com/ivan-kleshnin/tetris-game) - Tetris game implemented in CycleJS, ES6 :star:14
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:21
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2914
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2915
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
@@ -82,7 +82,7 @@ http://oleg.fi/graafi/
 * [laszlokorte/tams-tools ★24](https://github.com/laszlokorte/tams-tools) - A set of tools for teaching and learning computer science built with cycle.js. :star:25
 * [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js. :star:17
 * [cyclejs-community/built-with-cycle ★9](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js :star:10
-* [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) - A hangman game built with Cycle.js :star:10
+* [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) - A hangman game built with Cycle.js :star:11
 * [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) - Dancing pythagorean tree fractal - Animating 2048 SVG nodes. :star:18
 * [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests. :star:3
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
@@ -113,7 +113,7 @@ http://oleg.fi/graafi/
 * [cgeorg/cycle-socket.io ★27](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients :star:28
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API. :star:2
 * [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher). :star:14
-* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:198
+* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:201
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures :star:11
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource. :star:6
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom :star:41
@@ -131,7 +131,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js :star:3
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js :star:4
-* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:664
+* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:665
 * [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync :star:21
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server :star:1

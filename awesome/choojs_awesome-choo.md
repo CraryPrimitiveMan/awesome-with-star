@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:221
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5301
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5303
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 

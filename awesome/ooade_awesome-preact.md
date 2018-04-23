@@ -24,12 +24,12 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:18481
+- [Github](https://github.com/developit/preact) :star:18489
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3043
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3282
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3044
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3286
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:10
 - [Create Preact App](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration. :star:65
@@ -103,7 +103,7 @@
 - [Authentication with Auth0](https://auth0.com/blog/preact-authentication-tutorial)
 
 ### Example Apps
-- [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA. :star:273
+- [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA. :star:274
 - [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast. :star:54
 - [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats. :star:76
 - [Tracks](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
@@ -112,8 +112,8 @@
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB. :star:12
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:94087
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12498
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:94142
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12502
 - [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:4235
 
 ### Tips

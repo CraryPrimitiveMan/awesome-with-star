@@ -53,7 +53,7 @@ SONiC
 - [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang :star:200
-- [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack. :star:1958
+- [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack. :star:1959
 - [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth. :star:2287
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
 - [BESS](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches. :star:100
@@ -82,7 +82,7 @@ SONiC
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
-- [Floodlight](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller. :star:505
+- [Floodlight](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller. :star:506
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
@@ -148,7 +148,7 @@ protocol, based on Twisted.
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r](https://github.com/jesnault/bgp4r) :star:22
-- [gobgp](https://github.com/osrg/gobgp) :star:1271
+- [gobgp](https://github.com/osrg/gobgp) :star:1273
 - [yabgp](https://github.com/smartbgp/yabgp) :star:106
 
 # Misc

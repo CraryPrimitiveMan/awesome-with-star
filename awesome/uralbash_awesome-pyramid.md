@@ -103,7 +103,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2739
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2740
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:854
@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:321
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:788
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:789
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2464
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2466
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -267,7 +267,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a :star:59
   pattern and helper methods for accessing a pluggable service layer from
   within your Pyramid apps.
-* [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers :star:63
+* [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers :star:64
     that can watch files for changes and restart the process.
 
 ## Storage
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1689
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1692
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:13

@@ -97,7 +97,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [DEFT](http://www.deftlinux.net/) - The Digital Evidence & Forensics Toolkit (DEFT) is a Linux distribution made for computer forensic evidence collection. It comes bundled with the Digital Advanced Response Toolkit (DART) for Windows. A light version of DEFT, called DEFT Zero, is also available, which is focused primarily on forensically sound evidence collection
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux distribution that includes a vast collection of best-of-breed open source network security applications useful to the network security professional
 * [PALADIN](https://sumuri.com/software/paladin/) - PALADIN is a modified Linux distribution to perform various forenics task in a forensically sound manner. It comes with many open source forensics tools included
-* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion is a special Linux distro aimed at network security monitoring featuring advanced analysis tools :star:1378
+* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion is a special Linux distro aimed at network security monitoring featuring advanced analysis tools :star:1382
 * [SIFT Workstation](http://digital-forensics.sans.org/community/downloads) - The SANS Investigative Forensic Toolkit (SIFT) Workstation demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated
 
 ### Linux Evidence Collection
@@ -107,14 +107,14 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Log Analysis Tools
 
 * [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics :star:135
-* [Logdissect](https://github.com/dogoncouch/logdissect) - A CLI utility and Python API for analyzing log files and other data. :star:15
+* [Logdissect](https://github.com/dogoncouch/logdissect) - A CLI utility and Python API for analyzing log files and other data. :star:16
 
 ### Memory Analysis Tools
 
 * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework :star:196
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support :star:184
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - Computer memory analysis tools
-* [LiME](https://github.com/504ensicsLabs/LiME) - LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices :star:593
+* [LiME](https://github.com/504ensicsLabs/LiME) - LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices :star:594
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze by Mandiant is a free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images, and on live systems, can include the paging file in its analysis
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however
 * [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples
@@ -140,17 +140,17 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Other Lists
 
-* [List of various Security APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security. :star:89
+* [List of various Security APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security. :star:90
 
 ### Other Tools
 
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database 
 * [domfind](https://github.com/diogo-fernan/domfind) - *domfind* is a Python DNS crawler for finding identical domain names under different TLDs. :star:7
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. :star:429
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. :star:431
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI :star:127
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash :star:62
-* [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform :star:587
+* [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform :star:591
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium :star:245
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host :star:103
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images :star:46
@@ -159,7 +159,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services :star:28
-* [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic :star:1112
+* [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic :star:1114
 * [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources.  :star:28
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg :star:31
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors
@@ -186,7 +186,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats :star:104
 * [Metadefender Cloud](https://www.metadefender.com) - Metadefender is a free threat intelligence platform providing multiscanning, data sanitization and vulnerability assesment of files
-* [Viper](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA :star:1057
+* [Viper](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA :star:1058
 * [Virustotal](https://www.virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Open source  :star:85
   visualization library and command line tools for logs.  (Cuckoo, Procmon, more to come...)
@@ -196,7 +196,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise
 * [Morgue](https://github.com/etsy/morgue) - A PHP Web app by Etsy for managing postmortems. :star:659
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline :star:547
-* [Timesketch](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis :star:833
+* [Timesketch](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis :star:834
 
 
 ### Videos
@@ -216,7 +216,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner) - Fidelis ThreatScanner is a free tool from Fidelis Cybersecurity that uses OpenIOC and YARA rules to report on the state of an endpoint. The user provides OpenIOC and YARA rules and executes the tool. ThreatScanner measures the state of the system and, when the run is complete, a report for any matching rules is generated. Windows Only.
 * [LOKI](https://github.com/Neo23x0/Loki) - Loki is a free IR scanner for scanning endpoint with yara rules and other indicators(IOCs)
 * [Panorama](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems :star:17
-* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell :star:732
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell :star:733
 * [PSRecon](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally
 * [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - Regripper is an open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - Triage-IR is a IR collector for Windows

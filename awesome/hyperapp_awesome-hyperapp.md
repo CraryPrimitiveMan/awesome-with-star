@@ -71,7 +71,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:1
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:3
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:12
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:183
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:184
 
 ## Testing
 
