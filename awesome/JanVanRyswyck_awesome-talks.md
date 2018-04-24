@@ -6,7 +6,20 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 (In no particular order)
 
-##### Software Development
+### Categories
+  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+  - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+  - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+  - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+  - [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+  - [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+  - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+  - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+  - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
+  - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+  - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+
+#### Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
@@ -30,12 +43,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 
-##### Object-Oriented Programming
+#### Object-Oriented Programming
 
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
-##### Functional Programming
+#### Functional Programming
 
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
@@ -55,7 +68,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** [33:16]
 * [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** [33:05]
 
-##### Software Design
+#### Software Design
 
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
@@ -77,7 +90,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 
-##### Web Development
+#### Web Development
 
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
@@ -95,7 +108,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
 * [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
-##### Test-Driven Development
+#### Test-Driven Development
 
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
@@ -107,7 +120,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
 
-##### Methodologies
+#### Methodologies
 
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
@@ -118,17 +131,17 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
 * [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** [54:55]
 
-##### Computer History
+#### Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 * [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 
-##### Databases
+#### Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
 
-##### Cognitive Development
+#### Cognitive Development
 * [A Lecture on Creativity](https://vimeo.com/183363832) by **John Cleese** [36:39]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
@@ -139,7 +152,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
 * [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
 
-##### Cryptocurrencies
+#### Cryptocurrencies
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
 

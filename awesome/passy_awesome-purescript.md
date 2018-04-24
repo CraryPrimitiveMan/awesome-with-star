@@ -11,7 +11,7 @@
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
-- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:118
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:119
 
 ## Preludes
 
@@ -27,20 +27,20 @@ CSS:
 
 React-based:
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:301
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:303
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:259
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
-- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:43
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:489
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:44
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:492
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:64
-- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:30
+- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:31
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:72
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:104
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:730
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:734
 
 Signals/Behaviors/FRP:
 
@@ -68,8 +68,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:180
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:180
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:182
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:182
 
 ## Effect Management
 
@@ -77,8 +77,8 @@ Signals/Behaviors/FRP:
 
 ## Testing
 
-- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:51
-- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:51
+- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:52
+- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:52
 - [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes. :star:8
 - [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript. :star:18
 

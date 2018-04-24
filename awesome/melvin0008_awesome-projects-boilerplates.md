@@ -12,8 +12,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [PHP](#php)
     - [Ruby](#ruby)
     - [.NET](#net)
-    - [Chrome App/Extension](#chrome-appextension)
-    - [Firefox App/Extension](#firefox-appextension)
+    - [Browser Webextensions](#browser-webextensions)
     - [Websites](#websites)
     - [IDE Templates](#ide-templates)
     - [GitHub](#github)
@@ -59,10 +58,10 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
-    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:1023
+    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS. :star:1028
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
-    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5933
+    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) :star:5932
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
@@ -139,16 +138,12 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 
-##  Chrome App/Extension
+##  Browser Webextensions
 
-*Boilerplates and templates for Chrome*
+*Boilerplates and templates to develop webextensions for internet browsers such as Chrome, Firefox and Safari*
 
-- [Generator ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
+- [Boilerplate with Webpack](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
-
-##  Firefox App/Extension
-
-*Boilerplates and templates for Firefox*
 
 
 ## Websites
@@ -162,6 +157,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 - [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
+- [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
 
 ##  IDE
 

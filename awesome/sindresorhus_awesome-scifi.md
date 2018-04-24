@@ -942,6 +942,25 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > Together this dynamic pair begin a journey through space aided by quotes from _The Hitchhiker’s Guide_ (“A towel is about the most massively useful thing an interstellar hitchhiker can have”) and a galaxy-full of fellow travelers: Zaphod Beeblebrox—the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod’s girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.
 
+#### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_(author))* [3.9]
+
+A quick, fun mashup of two if my favorite genres. - [@damenleeturks](https://github.com/damenleeturks)
+
+Books: 
+
+- [Off to Be the Wizard](https://www.goodreads.com/book/show/18616975-off-to-be-the-wizard) [3.98]
+- [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) [4.02]
+- [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) [3.98]
+- [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) [3.61]
+- [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/36566205-fight-and-flight) *forthcoming, expected publication: June 19th 2018*
+
+> Martin Banks is just a normal guy who has made an abnormal discovery: he can manipulate reality, thanks to reality being nothing more than a computer program. With every use of this ability, though, Martin finds his little “tweaks” have not escaped notice. Rather than face prosecution, he decides instead to travel back in time to the Middle Ages and pose as a wizard.
+> 
+> What could possibly go wrong?
+> 
+> An American hacker in King Arthur’s court, Martin must now train to become a full-fledged master of his powers, discover the truth behind the ancient wizard Merlin… and not, y’know, die or anything.
+
+
 
 ## Short Story Collections
 
@@ -1550,6 +1569,14 @@ Categories: `comedy` `adventure`
 Categories: `animation` `action` `drama`
 
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
+
+#### [Person of Interest](https://www.imdb.com/title/tt1839578/) (2011-2016) [8.5]
+
+Categories: `action` `crime` `drama` `artificial intelligence`
+
+Starting with crime prevention, the show progresses to gradually touching on AI and man's misuse of technology such as mass surveillance, which is the key focus. Add to that the complicated pasts of the two protagonists' government work and you have a genre defining TV Show standing apart from it's peers by tackling relevant issues in the modern digital era. "You are being watched." - [@AB1908](https://github.com/AB1908)
+
+> An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
 #### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
 

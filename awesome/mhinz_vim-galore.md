@@ -885,10 +885,8 @@ on. Thus, `g-` and `g+` simply go back and forth in time, respectively.
 | `[count]g-`, `:earlier [count]?` | Go to older text state [count] times. The "?" can be either "s", "m", "h", "d", or "f". E.g. `:earlier 2d` goes to the text state from 2 days ago. `:earlier 1f` will go to the state of the latest file save. |
 | `[count]g+`, `:later [count]?` | Same as above, but other direction. |
 
-The undo tree is kept in memory and will be lost when Vim quits. See [Handling
-backup, swap, undo, and viminfo
-files](#handling-backup-swap-undo-and-viminfo-files) for how to enable
-persistent undo.
+The undo tree is kept in memory and will be lost when Vim quits. See [Undo
+files](#undo-files) for how to enable persistent undo.
 
 If you're confused by the undo tree,
 [undotree](https://github.com/mbbill/undotree) does a great job at visualizing
@@ -2180,7 +2178,7 @@ set complete-=t   " disable searching tags
 
 ## Cosmetic changes to colorschemes
 
-Always use a dark gray statusline, no matter which colorscheme is chosen:
+Always use a dark gray statusline, no matter what colorscheme is chosen:
 
 ```vim
 autocmd ColorScheme * highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
@@ -2507,9 +2505,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7545
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6183
-- [spf13](https://github.com/spf13/spf13-vim) :star:12182
+- [janus](https://github.com/carlhuda/janus.git) :star:7544
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:6198
+- [spf13](https://github.com/spf13/spf13-vim) :star:12192
 
 ## Standard plugins
 

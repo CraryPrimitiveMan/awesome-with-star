@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3918
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3927
 
 ## Blogs
 
@@ -234,7 +234,7 @@ Software applications that will help you hack your car, investigate it's signals
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7455
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7006
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7014
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:103
@@ -293,17 +293,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3104
-  - [Security](https://github.com/sbilly/awesome-security) :star:2780
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2075
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3396
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3028
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3673
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2223
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1890
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3105
+  - [Security](https://github.com/sbilly/awesome-security) :star:2784
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2077
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3401
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3032
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3674
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2227
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1891
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:83461
-  - [lists](https://github.com/jnv/lists) :star:4926
+  - [awesome](https://github.com/sindresorhus/awesome) :star:83530
+  - [lists](https://github.com/jnv/lists) :star:4928
 
 # Contributing
 

@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18247
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18260
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -112,7 +112,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:764
 - [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1828
 - [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn). :star:109
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:426
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:427
 - [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss). :star:72
 - [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000). :star:25
 

@@ -112,8 +112,8 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [lzo](http://www.oberhumer.com/opensource/lzo/) - Very fast data compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [zlib](https://github.com/madler/zlib) - Massively-spiffy yet delicately-unobtrusive compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [bzip2](http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz) - Patent free, high quality data compressor. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
-* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2801
-* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2652
+* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2802
+* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2654
 * [zstd](https://github.com/facebook/zstd) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/download.html) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

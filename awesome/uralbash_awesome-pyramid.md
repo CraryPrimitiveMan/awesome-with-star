@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:588
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:589
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:286
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -264,7 +264,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [pyramid_zcml](https://github.com/Pylons/pyramid_zcml) - Zope Configuration :star:3
   Markup Language configuration support for Pyramid.
-* [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a :star:59
+* [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a :star:60
   pattern and helper methods for accessing a pluggable service layer from
   within your Pyramid apps.
 * [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers :star:64
@@ -334,7 +334,7 @@ provide new storage backends.*
 
 ## Web frontend integration
 
-* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template. :star:15
+* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template. :star:17
 
 ## Workflows
 
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1692
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1693
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:13
