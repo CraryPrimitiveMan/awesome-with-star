@@ -27,7 +27,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Dots](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".". :star:2
 * [Emojicode](http://www.emojicode.org) - Full-blown programming language consisting of emojis.
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
-* [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica. :star:1079
+* [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica. :star:1080
 * [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
 * [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript. :star:3493
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
@@ -53,6 +53,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Progopedia](http://progopedia.com/paradigm/esoteric) - List of esoteric languages.
 * [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) - Provides examples in different languages, including esoteric languages.
 * [Wikipedia/Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) - Wikipedia list of esoteric languages.
+* [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) - Turing Machine on PowerPoint
 
 ## Articles
 
