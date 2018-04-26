@@ -127,7 +127,7 @@
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code. :star:6
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
-* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:143
+* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:144
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:270
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:548
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:216
@@ -169,7 +169,7 @@
 * [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module. :star:4
 * [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.   :star:2
 * [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes. :star:22
-* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:83
+* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:84
 
 
 ## UI Libraries

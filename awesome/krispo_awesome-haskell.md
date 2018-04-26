@@ -144,7 +144,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3119
+* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3123
 
 ## Data Formats
 
@@ -312,7 +312,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     ---
 *Additional languages on top of Haskell*
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2394
+* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2396
 * [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
 
 ## Operating Systems

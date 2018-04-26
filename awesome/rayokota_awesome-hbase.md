@@ -38,7 +38,7 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:493
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:230
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:231
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:394
 
 
@@ -96,7 +96,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:490
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:491
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
@@ -104,7 +104,7 @@ A curated list of awesome HBase projects and resources.
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:142
 * [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:292
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
-* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:175
+* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:177
 
 ### Integrations
 

@@ -442,7 +442,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Servers
 
-* [AIRhttp](https://github.com/leopoldodonnell/airhttp) - HTTP Server for Adobe AIR. :star:16
+* [AIRhttp](https://github.com/leopoldodonnell/airhttp) - HTTP Server for Adobe AIR. :star:17
 * [AIR-Server](https://github.com/wouterverweirder/AIR-Server) - Socket Server library for Adobe AIR. :star:42
 
 #### OAuth
@@ -473,7 +473,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sockets
 
-* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:231
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:233
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
 * [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:216
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:35

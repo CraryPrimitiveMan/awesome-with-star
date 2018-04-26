@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3933
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:3937
 
 ## Blogs
 
@@ -193,7 +193,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
 
 - [Arduino](https://www.arduino.cc/) - Arduino boards have a number of shields you can attach to connect to CAN-enabled devices.
-    - [CANdiy-Shield](https://github.com/watterott/CANdiy-Shield) :star:17
+    - [CANdiy-Shield](https://github.com/watterott/CANdiy-Shield) :star:18
     - [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     - [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product&product_id=1444)
     - [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
@@ -233,8 +233,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:278
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7456
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7017
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7460
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7022
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:103
@@ -293,17 +293,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3108
-  - [Security](https://github.com/sbilly/awesome-security) :star:2788
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2082
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3403
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3036
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3676
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2230
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1895
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3109
+  - [Security](https://github.com/sbilly/awesome-security) :star:2790
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2083
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3404
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3040
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3679
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2233
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1898
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:83603
-  - [lists](https://github.com/jnv/lists) :star:4932
+  - [awesome](https://github.com/sindresorhus/awesome) :star:83688
+  - [lists](https://github.com/jnv/lists) :star:4934
 
 # Contributing
 

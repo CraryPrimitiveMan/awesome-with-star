@@ -45,8 +45,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:33604
-- [Electron](https://github.com/atom/electron) :star:59289
+- [nw.js](https://github.com/nwjs/nw.js) :star:33613
+- [Electron](https://github.com/atom/electron) :star:59336
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)
@@ -69,7 +69,7 @@
 
 #### Tools-Plugins
 
-- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:663
+- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:662
 
 ## Miscellaneous
 

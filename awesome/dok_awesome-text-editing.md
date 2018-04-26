@@ -4,7 +4,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8634
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8636
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3805
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
@@ -18,12 +18,12 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing
 * [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience
-* [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor :star:816
+* [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor :star:817
 * [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1204
+* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1205
 * [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2475
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
@@ -44,7 +44,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Markdown editors
 
-* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:6633
+* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:6636
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
 ## Heuristic for contenteditable rich-text editors

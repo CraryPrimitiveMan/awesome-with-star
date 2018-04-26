@@ -77,7 +77,7 @@ Name and description | Downloads
 [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)! | [![npm](https://img.shields.io/npm/dm/hypertheme.svg?label=DL)](https://www.npmjs.com/package/hypertheme)
 [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink. | [![npm](https://img.shields.io/npm/dm/hyper-blink.svg?label=DL)](https://www.npmjs.com/package/hyper-blink)
 [hyperborder](https://www.npmjs.com/package/hyperborder) - Add a gradient border with the same colors as in the Hyper logo. | [![npm](https://img.shields.io/npm/dm/hyperborder.svg?label=DL)](https://www.npmjs.com/package/hyperborder)
-[hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - Add a transparent background to your Hyper through an interesting HTML hack. | [![npm](https://img.shields.io/npm/dm/hyperterm-transparent-bg.svg?label=DL)](https://www.npmjs.com/package/hyperterm-transparent-bg)
+[hyper-transparent-bg](https://www.npmjs.com/package/hyper-transparent-bg) - Add a transparent background to your Hyper through an interesting HTML hack. | [![npm](https://img.shields.io/npm/dm/hyper-transparent-bg.svg?label=DL)](https://www.npmjs.com/package/hyper-transparent-bg)
 [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left. | [![npm](https://img.shields.io/npm/dm/hyperterm-close-on-left.svg?label=DL)](https://www.npmjs.com/package/hyperterm-close-on-left)
 [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes. | [![npm](https://img.shields.io/npm/dm/hyperterm-mactabs.svg?label=DL)](https://www.npmjs.com/package/hyperterm-mactabs)
 [hyperterm-final-say](https://www.npmjs.com/package/hyperterm-final-say) - Allows user-set overrides of any plugin or theme settings applied on top of the defaults `./.hyperterm.js`. | [![npm](https://img.shields.io/npm/dm/hyperterm-final-say.svg?label=DL)](https://www.npmjs.com/package/hyperterm-final-say)
@@ -111,6 +111,8 @@ Name and description | Downloads
 [hyper-vertical-tabs](https://www.npmjs.com/package/hyper-vertical-tabs) - Put the tabs on a sidebar to the left, as is possible in iTerm2 and ROXTerm. | [![npm](https://img.shields.io/npm/dm/hyper-vertical-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-vertical-tabs)
 [themer](https://www.npmjs.com/package/themer) - Generate themes for Hyper and all your other development tools | [![npm](https://img.shields.io/npm/dm/themer.svg?label=DL)](https://www.npmjs.com/package/themer)
 [hyper-native-window-decoration](https://www.npmjs.com/package/hyper-native-window-decoration) - Native window decorations in HyperTerm. | [![npm](https://img.shields.io/npm/dm/hyper-native-window-decoration.svg?label=DL)](https://www.npmjs.com/package/hyper-native-window-decoration)
+[hyper-hide-scroll](https://www.npmjs.com/package/hyper-hide-scroll) - Extension to hide the scrollbar from your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-hide-scroll.svg?label=DL)](https://www.npmjs.com/package/hyper-hide-scroll)
+[hyper-systray](https://www.npmjs.com/package/hyper-systray) - Hyper in native Windows Systray. Hide from taskbar. Global shortcut for show/hide window. | [![npm](https://img.shields.io/npm/dm/hyper-systray.svg?label=DL)](https://www.npmjs.com/package/hyper-systray)
 
 [⬆ Back to top](#contents)
 
@@ -136,6 +138,7 @@ Name and description | Downloads
 [gitrocket](https://www.npmjs.com/package/gitrocket) - Launch a rocket ship in your terminal when you push code with Git! | [![npm](https://img.shields.io/npm/dm/gitrocket.svg?label=DL)](https://www.npmjs.com/package/gitrocket)
 [hypergravity](https://www.npmjs.com/package/hypergravity) - Add some fancy physics to your terminal! | [![npm](https://img.shields.io/npm/dm/hypergravity.svg?label=DL)](https://www.npmjs.com/package/hypergravity)
 [space-pull](https://www.npmjs.com/package/space-pull) - Add animation of landing rocket in your terminal when pulling code with git. | [![npm](https://img.shields.io/npm/dm/space-pull.svg?label=DL)](https://www.npmjs.com/package/space-pull)
+[hyper-bloodbath](https://www.npmjs.com/package/hyper-bloodbath) - A brutal re-imagining of hyperpower. Dripping blood from your cursor. | [![npm](https://img.shields.io/npm/dm/hyper-bloodbath.svg?label=DL)](https://www.npmjs.com/package/hyper-bloodbath)
 
 [⬆ Back to top](#contents)
 
