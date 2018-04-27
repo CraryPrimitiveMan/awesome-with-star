@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:223
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5310
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5312
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -32,7 +32,7 @@ under the hood:
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:880
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:371
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:372
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:55
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:89
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:118

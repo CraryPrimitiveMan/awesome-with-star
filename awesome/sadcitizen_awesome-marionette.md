@@ -6,13 +6,13 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7185
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7186
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
 - [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) :star:170
-- [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) :star:343
+- [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) :star:344
 - [Marionette CLI](https://github.com/denar90/marionette-cli) :star:22
 - [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 

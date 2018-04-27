@@ -112,8 +112,8 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [lzo](http://www.oberhumer.com/opensource/lzo/) - Very fast data compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [zlib](https://github.com/madler/zlib) - Massively-spiffy yet delicately-unobtrusive compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [bzip2](http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz) - Patent free, high quality data compressor. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
-* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2811
-* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2664
+* [lz4](https://github.com/lz4/lz4) - Fast Compression algorithm. :star:2815
+* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2665
 * [zstd](https://github.com/facebook/zstd) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/download.html) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -446,8 +446,8 @@ Implementations of memory allocators for various systems and platforms.
 
 * [balde](https://github.com/balde/balde) - Microframework for C based on GLib. [`GNU LGPLv2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
-* [kore](https://github.com/jorisvink/kore) - Easy to use, scalable and secure web application framework for writing web APIs in C. :star:2729
-* [klone](https://github.com/koanlogic/klone) - KLone is a fully-featured, multiplatform, web application development framework. :star:115
+* [kore](https://github.com/jorisvink/kore) - Easy to use, scalable and secure web application framework for writing web APIs in C. :star:2732
+* [klone](https://github.com/koanlogic/klone) - KLone is a fully-featured, multiplatform, web application development framework. :star:116
 * [duda](https://github.com/monkey/duda) - Duda I/O is an event-driven and high performant web services framework written in C. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ## Numerical ##

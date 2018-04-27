@@ -20,12 +20,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2861
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3366
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2862
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3370
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:725
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:726
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:214
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:262
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:106

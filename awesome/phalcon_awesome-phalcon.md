@@ -54,7 +54,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 - [Resources](#resources)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
-    - [Twitter](#twitter)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
@@ -77,7 +76,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
-* [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:7
+* [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:8
 * [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD :star:3
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache :star:8
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator :star:6
@@ -97,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3723
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3724
 
 
 ## CMS & Blogs
@@ -316,8 +315,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework :star:7
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:22
-* [phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:315
+* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:317
 
 
 ## Templating
@@ -379,19 +378,17 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Conferences, IRC, Forums, etc..*
 
+* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
+* [Gab.ai](https://gab.ai/phalcon) - Phalcon on Gab.ai
+* [Google+](https://plus.google.com/+PhalconPHP) - Phalcon on Google+
 * [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
-* [Phanbook](http://phanbook.com/en/) - A platform for community discussion, answer question and more
-
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
 
 ## E-Books
 
 * [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
-
-
-## Twitter
-
-* [@phalconphp](https://twitter.com/phalconphp) - Phalcon Twitter
 
 
 ## Websites
@@ -408,6 +405,5 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Tips](https://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
 

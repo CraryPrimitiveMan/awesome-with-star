@@ -83,14 +83,14 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:454
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:455
 
 
 ## Profile Loaders
 
 *Profile loaders for OpenGL*
 
-* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:359
+* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:361
 * [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs. :star:686
 * [glbindify](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX. :star:3
 * [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety. :star:504
@@ -148,12 +148,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83691
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:6936
-* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:271
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83770
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:6971
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:272
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:816
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4838
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1133
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4840
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1136
 
 
 ## License

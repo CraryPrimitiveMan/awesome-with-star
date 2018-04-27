@@ -102,6 +102,9 @@ List of content
 * [Apache Sqoop](https://sqoop.apache.org) A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.
 * [Heka](https://github.com/mozilla-services/heka) Data Acquisition and Processing Made Easy
 * [Gobblin](https://github.com/linkedin/gobblin) Universal data ingestion framework for Hadoop from Linkedin
+* [Nakadi](http://nakadi.io) Nakadi is an open source event messaging platform that provides a REST API on top of Kafka-like queues.
+* [Pravega](https://pravega.io) Pravega provides a new storage abstraction - a stream - for continuous and unbounded data.
+* [Apache Pulsar](https://pulsar.apache.org/) Apache Pulsar is an open-source distributed pub-sub messaging system.
 
 # File System
 * [HDFS](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
@@ -153,6 +156,7 @@ multi-processor, multi-core machines
 * [AWS EMR](http://aws.amazon.com/elasticmapreduce/) A web service that makes it easy to quickly and cost-effectively process vast amounts of data.
 * [Flink](https://flink.apache.org/) An open source platform for scalable batch and stream data processing.
 * [Tez](https://tez.apache.org/) An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
+* [Bistro](https://github.com/asavinov/bistro) is a light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via *functions* and processes data via *columns operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 - Batch ML
 	* [H2O](http://www.h2o.ai/) Fast scalable machine learning API for smarter applications.
 	* [Mahout](http://mahout.apache.org/) An environment for quickly creating scalable performant machine learning applications.

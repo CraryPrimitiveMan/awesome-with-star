@@ -193,17 +193,17 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:291
+* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:292
   library.
 * [colander](https://github.com/Pylons/colander) - A :star:322
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:790
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:791
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2469
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2477
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -238,7 +238,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   API framework sitting on top of Pyramid and ElasticSearch
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:58
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
-* [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:14
+* [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:15
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
   sqlAlchemy ORM and pyramid framework.
 
@@ -346,7 +346,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:402
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:404
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -354,13 +354,13 @@ provide new storage backends.*
 * [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for :star:21
   Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc
   with support for JSON-RPC and AMF.
-* [pyramid_autodoc](https://github.com/SurveyMonkey/pyramid_autodoc) - Sphinx :star:8
+* [pyramid_autodoc](https://github.com/SurveyMonkey/pyramid_autodoc) - Sphinx :star:9
   extension for documenting your Pyramid APIs.
 * [pyramid_pages](https://github.com/uralbash/pyramid_pages) - Provides a :star:9
   collections of tree pages to your Pyramid application. This is very similar
   to django.contrib.flatpages but with a tree structure and traversal algorithm
   in URL dispath.
-* [paginate](https://github.com/Pylons/paginate) - Python pagination module. :star:31
+* [paginate](https://github.com/Pylons/paginate) - Python pagination module. :star:32
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer :star:6
   (xlsx, xls, csv) for pyramid
 * [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library :star:1
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1700
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1707
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:13

@@ -1,7 +1,7 @@
 # Information comes from [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 # Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250">](https://github.com/zeit/next.js)
+[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/zeit/next.js)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
@@ -20,7 +20,8 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:24607
+* [GitHub](https://github.com/zeit/next.js) :star:24631
+* [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -57,20 +58,21 @@
 * [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:132
 * [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:51
 * [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
+* [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in. :star:2
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:733
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:734
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support. :star:17
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:307
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:308
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag :star:6
-* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:19
+* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:21
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:623
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:19
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:23
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:269
-* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:428
+* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:429
 * [Password](https://github.com/dotcypress/password) - One password, right way. :star:81
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js. :star:94
 * [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js. :star:34
@@ -80,7 +82,7 @@
 * [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:23
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:43
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:33
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:404
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:405
 * [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. :star:113
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information. :star:5
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation. :star:43
