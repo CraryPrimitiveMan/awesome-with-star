@@ -30,7 +30,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:146
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:522
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:523
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1235
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci :star:2
 
@@ -46,13 +46,13 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:459
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:232
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:48
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1684
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1685
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
-* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:181
+* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:180
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:68
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:139
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:74
@@ -72,8 +72,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:367
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1887
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:866
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1888
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:868
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:9
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:24
@@ -116,7 +116,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:278
+ * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:279
 
 
 ## Rule Engines
@@ -127,7 +127,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2589
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2590
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

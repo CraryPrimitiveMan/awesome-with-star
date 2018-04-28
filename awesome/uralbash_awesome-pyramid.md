@@ -193,17 +193,17 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:292
+* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:293
   library.
 * [colander](https://github.com/Pylons/colander) - A :star:322
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:791
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:792
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2477
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2479
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -217,7 +217,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:326
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to :star:327
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:589
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:590
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:288
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -326,7 +326,7 @@ provide new storage backends.*
 
 *Packages help with the task of translating projects.*
 
-* [lingua](https://github.com/wichert/lingua) - Lingua is a package with tools :star:42
+* [lingua](https://github.com/wichert/lingua) - Lingua is a package with tools :star:41
   to extract translatable texts from your code, and to check existing
   translations. It replaces the use of the xgettext command from gettext, or
   pybabel from Babel.
@@ -385,7 +385,7 @@ provide new storage backends.*
   box content management system for mobile and desktop websites based on python
   and the webframework pyramid. Please refer to the website cms.nive.co for
   detailed information.
-* [substanced](https://github.com/Pylons/substanced) - An application server :star:135
+* [substanced](https://github.com/Pylons/substanced) - An application server :star:136
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
@@ -416,7 +416,7 @@ provide new storage backends.*
 
 ## Other
 
-* [cluegun](https://github.com/Pylons/cluegun) - A simple pastebin application :star:24
+* [cluegun](https://github.com/Pylons/cluegun) - A simple pastebin application :star:25
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
 * [shootout](https://github.com/Pylons/shootout) - An example “idea :star:101
@@ -438,10 +438,10 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1707
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1710
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
-* [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:13
+* [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:14
 * [RhodeCode](https://rhodecode.com/) - enterprise source code management platform. It applies unified user control, permissions, code reviews, and tool integration across Mercurial, Git, and Subversion repositories. Large and growing software teams all over the world use RhodeCode to collaborate in a secure, behind-the-firewall environment. 
 
 ## Project Management

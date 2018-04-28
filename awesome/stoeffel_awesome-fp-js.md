@@ -121,7 +121,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ## Programming Tools
 
-* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:436
+* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:437
 * [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1128
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.

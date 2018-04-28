@@ -79,13 +79,14 @@ Contributions most welcome.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
+* [Golden Artificial Intelligence](https://golden.co/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
 
 ## Code
 
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
-* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects. :star:21
+* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects. :star:22
 
 
 ## Videos
@@ -106,9 +107,9 @@ Contributions most welcome.
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:32337
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:32351
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:821
+* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:822
 
 
 ## Organizations

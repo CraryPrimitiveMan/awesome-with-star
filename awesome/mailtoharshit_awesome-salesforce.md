@@ -20,7 +20,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:29
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:30
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:1
@@ -194,7 +194,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context. :star:8
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
-* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:317
+* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:319
 * [ngForce](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps :star:48

@@ -31,7 +31,7 @@
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:39
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:71
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:489
+- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:490
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:14
 - [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:29
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests. :star:13
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13644
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13657
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1216
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4573
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4577
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73

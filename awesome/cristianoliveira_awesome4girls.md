@@ -550,7 +550,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 
-  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) :star:27
+  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) :star:28
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 

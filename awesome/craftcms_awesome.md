@@ -110,7 +110,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### SEO
 - [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:372
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:108
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:109
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:166
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -136,7 +136,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:261
+- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix. :star:262
 - [Template Select](https://superbig.co/plugins/template-select) - Lets you select templates from your entry.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) - Simple address field. :star:29
 
@@ -200,7 +200,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Facebook](https://dukt.net/facebook) - Facebook Insights widget for the dashboard.
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
 - [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:110
-- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:100
+- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:101
 - [Pushover](https://superbig.co/plugins/pushover) - Send messages to Pushover.
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) - Allow a Craft user to be logged in to Shopify through Multipass.
@@ -281,7 +281,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Etc.
 - [Admin Bar](https://github.com/wbrowar/adminbar) - Front-end shortcuts for clients logged in. :star:76
-- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:144
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features. :star:145
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments. :star:55
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations :star:117

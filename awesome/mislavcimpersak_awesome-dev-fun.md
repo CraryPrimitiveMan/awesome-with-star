@@ -57,16 +57,16 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:8826
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:8828
 
 
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1179
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4494
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4495
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3772
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2866
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:2868
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:175
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:74
@@ -103,9 +103,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Esoteric languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5283
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5761
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5763
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1773
-- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:112
+- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:113
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language. :star:1
 
 
@@ -118,7 +118,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Browser extensions
 
-- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1249
+- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1250
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts. :star:3
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
@@ -128,13 +128,13 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:76
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2768
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2769
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1418
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:3995
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1130
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2764
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:2769
 - [fat](https://github.com/drummyfish/fat) - Expand your files. :star:1
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3700
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3730
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:3
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:132
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:655
@@ -142,7 +142,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:20389
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:20435
 
 
 ## Miscellaneous
@@ -150,6 +150,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars. :star:8
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data. :star:529
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4189
-- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1560
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4222
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1563
 

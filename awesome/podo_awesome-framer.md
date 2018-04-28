@@ -154,7 +154,7 @@
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:14
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:41
-* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:45
+* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:46
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:86
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:14
 * [framer keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:7
@@ -169,7 +169,7 @@
 * [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module. :star:5
 * [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.   :star:2
 * [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes. :star:22
-* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:85
+* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:86
 
 
 ## UI Libraries
