@@ -57,18 +57,18 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Implementations, Interpreters, and Bindings
 - [Lua](http://www.lua.org/download.html) - Lua's original ANSI C interpreter.
-  - [Lua Repo](https://github.com/lua/lua) - The official Lua repo, as seen by the Lua team, mirrored to GitHub. :star:1511
+  - [Lua Repo](https://github.com/lua/lua) - The official Lua repo, as seen by the Lua team, mirrored to GitHub. :star:1515
 - [LuaJIT](http://luajit.org/luajit.html) - High-performance Just-In-Time compiler for Lua.
 - [LLVM-Lua](https://github.com/neopallium/llvm-lua) - Compiles Lua to LLVM. :star:38
 - [lua.vm.js](https://github.com/daurnimator/lua.vm.js) - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js. :star:742
 - [Moonshine](https://github.com/gamesys/moonshine) - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing. :star:427
 - [Fengari](https://fengari.io/) - The Lua VM rewritten in Javascript with seamless JS and DOM interoperability.
-- [MoonSharp](https://github.com/xanathar/moonsharp) - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms. :star:518
-- [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine. :star:906
+- [MoonSharp](https://github.com/xanathar/moonsharp) - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms. :star:519
+- [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine. :star:907
 - [lupa](https://github.com/scoder/lupa) - Python bindings to LuaJIT2. :star:428
 - [golua](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API. :star:392
-- [GopherLua](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs. :star:2099
-- [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua. :star:597
+- [GopherLua](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs. :star:2102
+- [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua. :star:598
 
 Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees performance drop by roughly a factor of 6 with each hop.
 
@@ -87,8 +87,8 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 ### Debugging and Profiling
 - [ProFi](https://gist.github.com/perky/2838755) - Simple profiler that works with LuaJIT and produces a report file.
 - [luatrace](https://github.com/geoffleyland/luatrace) - Toolset for tracing/analyzing/profiling script execution and generating detailed reports. :star:113
-- [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Drop-in upgrade to Lua's stack traces which adds local context and improves readability. :star:135
-- [MobDebug](https://github.com/pkulchenko/MobDebug) - Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio. :star:405
+- [StackTracePlus](https://github.com/ignacio/StackTracePlus) - Drop-in upgrade to Lua's stack traces which adds local context and improves readability. :star:134
+- [MobDebug](https://github.com/pkulchenko/MobDebug) - Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio. :star:406
 - [lovebird](https://github.com/rxi/lovebird) - Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support. :star:171
 
 
@@ -97,18 +97,18 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - IntelliJ IDEA plugin which, among other things, provides code completion, smart highlighting, and experimental debugging.
 - [ZeroBraneStudio](https://studio.zerobrane.com/) - Lightweight, customizable, cross-platform Lua-dedicated IDE with code completion and analysis, written in Lua. Has broad debugging support for numerous Lua engines.
 - [BabeLua](https://archive.codeplex.com/?p=babelua) - Lua editor/debugger extension for VS2012-13 with highlighting, auto-completion, linting, and formatting capabilities.
-- [lua-mode](https://github.com/immerrr/lua-mode) - Emacs major mode for editing Lua. :star:201
+- [lua-mode](https://github.com/immerrr/lua-mode) - Emacs major mode for editing Lua. :star:202
 - [vscode-lua](https://github.com/trixnz/vscode-lua) - VSCode intellisense and linting. :star:30
 
 
 ### Utility Belts
-- [Lua Fun](https://github.com/luafun/luafun) - High-performance functional programming library designed for LuaJIT. :star:1200
+- [Lua Fun](https://github.com/luafun/luafun) - High-performance functional programming library designed for LuaJIT. :star:1201
 - [Moses](https://github.com/Yonaba/Moses) - Functional programming utility belt, inspired by Underscore.js. :star:374
 - [Penlight](https://github.com/stevedonovan/Penlight) - Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't. :star:851
 - [lua-stdlib](https://github.com/lua-stdlib/lua-stdlib) - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff. :star:175
 - [Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions; the 'extra light' version of Penlight. :star:104
 - [compat53](https://luarocks.org/modules/siffiejoe/compat53) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1.
-- [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions, Observables, etc. :star:180
+- [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions, Observables, etc. :star:179
 
 
 ### Game Engines
@@ -124,12 +124,12 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - Corona
   - [Coronium](https://develephant.github.io/coronium-core-docs/) - Simple cloud platform supporting analytics, data objects, user management, and more.
 - LÖVE
-  - [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform. :star:970
+  - [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform. :star:972
   - [lurker](https://github.com/rxi/lurker) - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project. :star:127
   - [HUMP](http://vrld.github.io/hump/) - A set of lightweight helpers for LÖVE; a game-oriented utility belt.
 - MOAI
   - [moaifiddle](https://moaifiddle.com) - Edit and share short scripts for the MOAI game engine and run them in the browser using WebGL.
-- [Jumper](https://github.com/Yonaba/Jumper) - Fast, lightweight, and easy-to-use pathfinding library for grid-based games. :star:440
+- [Jumper](https://github.com/Yonaba/Jumper) - Fast, lightweight, and easy-to-use pathfinding library for grid-based games. :star:442
 - [lume](https://github.com/rxi/lume/) - Utility belt library geared toward game development.
 - [NoobHub](https://github.com/Overtorment/NoobHub) - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model. :star:185
 - Collision detection
@@ -137,7 +137,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
   - [HardonCollider](http://vrld.github.io/HardonCollider/) - Detect collisions between arbitrarily positioned and rotated shapes of any type.
 - Tweening
   - [flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together. :star:145
-  - [tween.lua](https://github.com/kikito/tween.lua) - Small library for tweening, with several easing functions. :star:297
+  - [tween.lua](https://github.com/kikito/tween.lua) - Small library for tweening, with several easing functions. :star:298
 - Examples
   - [termtris](https://github.com/tylerneylon/termtris) - A tetris clone, written in literate style with "an emphasis on learn-from-ability". :star:398
   - [PacPac](https://github.com/tylerneylon/pacpac) - A Pac-man clone, made with LÖVE. :star:315
@@ -169,7 +169,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
   - [Lapis](http://leafo.net/lapis/) - Full-stack framework for Lua and OpenResty. Like the Django or Rails of Lua. Supports Moonscript.
   - [ledge](https://github.com/pintsized/ledge) - Lua module providing scriptable, RFC-compliant HTTP cache functionality. :star:316
   - [Sailor](https://github.com/sailorproject/sailor) — An MVC web framework compatible with OpenResty, Apache and other webservers.
-  - [Kong](https://github.com/Kong/kong) - Microservice & API Management Layer. :star:15601
+  - [Kong](https://github.com/Kong/kong) - Microservice & API Management Layer. :star:15627
 
 Search this page for 'OpenResty' to find related packages under other categories (data stores in particular).
 
@@ -177,7 +177,7 @@ Search this page for 'OpenResty' to find related packages under other categories
 ### Command-line Utilities
 - [ansicolors](https://github.com/kikito/ansicolors.lua) - Simple function for printing to the console in color. :star:49
 - [cliargs](https://github.com/amireh/lua_cliargs) - A simple command-line argument parsing module. :star:56
-- [lua-term](https://github.com/hoelzro/lua-term) - Terminal operations and manipulations. :star:68
+- [lua-term](https://github.com/hoelzro/lua-term) - Terminal operations and manipulations. :star:67
 - [argparse](https://github.com/mpeterv/argparse) - A feature-rich command line parser inspired by argparse for Python. :star:110
 
 ### Concurrency and Multithreading
@@ -197,7 +197,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### Templating
 - [lustache](http://olivinelabs.com/lustache/) - Mustache template implementation.
 - [etlua](https://github.com/leafo/etlua) - Embedded Lua templates, ERB-style. :star:106
-- [lua-resty-template](https://github.com/bungle/lua-resty-template) - Lua-oriented template engine for OpenResty, somewhat Jinja-like. :star:529
+- [lua-resty-template](https://github.com/bungle/lua-resty-template) - Lua-oriented template engine for OpenResty, somewhat Jinja-like. :star:530
 
 
 ### Documentation
@@ -219,8 +219,8 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 
 ### Time and Date
-- [LuaDate](https://github.com/Tieske/date) - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support. :star:117
-- [cron.lua](https://github.com/kikito/cron.lua) - Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval. :star:100
+- [LuaDate](https://github.com/Tieske/date) - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support. :star:118
+- [cron.lua](https://github.com/kikito/cron.lua) - Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval. :star:101
 - [luatx](https://github.com/daurnimator/luatz) - Time, date, and timezone library. :star:69
 
 
@@ -248,13 +248,13 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
   - [lua-cjson](https://github.com/mpx/lua-cjson/) - Blazing fast JSON encoding/decoding implemented in C and exposed to Lua.
   - [luajson](https://github.com/harningt/luajson) - JSON encoder/decoder implemented in Lua on top of LPeg. :star:208
   - [dkjson](http://dkolf.de/src/dkjson-lua.fsl/home) - JSON encoder/decoder implemented in pure Lua.
-  - [json.lua](https://github.com/rxi/json.lua) - A fast and tiny JSON library in pure Lua. :star:236
+  - [json.lua](https://github.com/rxi/json.lua) - A fast and tiny JSON library in pure Lua. :star:237
 - XML
   - [LuaExpat](https://matthewwild.co.uk/projects/luaexpat/) - SAX XML parser via binding to the Expat library.
   - [SLAXML](https://github.com/Phrogz/SLAXML) - Pure Lua SAX-like streaming XML parser. :star:98
 - MessagePack
   - [lua-MessagePack](https://github.com/fperrad/lua-MessagePack) - Pure Lua implementation of MessagePack. :star:242
-  - [lua-cmsgpack](https://github.com/antirez/lua-cmsgpack) - A MessagePack C implementation with Lua bindings, as used by Redis.= :star:208
+  - [lua-cmsgpack](https://github.com/antirez/lua-cmsgpack) - A MessagePack C implementation with Lua bindings, as used by Redis.= :star:209
 - LPeg
   - [LPeg](http://www.inf.puc-rio.br/~roberto/lpeg/) - A pattern-matching library for Lua, based on Parsing Expression Grammars.
   - [lpeg_patterns](https://github.com/daurnimator/lpeg_patterns) - A collection of LPeg patterns. :star:56
@@ -268,7 +268,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 
 ### Humanize
-- [i18n.lua](https://github.com/kikito/i18n.lua) - Internationalization library with locales, formatting, and pluralization. :star:109
+- [i18n.lua](https://github.com/kikito/i18n.lua) - Internationalization library with locales, formatting, and pluralization. :star:110
 - [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables. :star:527
 - [serpent](https://github.com/pkulchenko/serpent) - Serializer and pretty printer. :star:216
 - [Ser](https://github.com/gvx/Ser) - Dead simple serializer with good performance. :star:52
@@ -301,13 +301,13 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) - Lua Cassandra client driver for OpenResty and others. :star:65
 - Redis
   - [redis-lua](https://github.com/nrk/redis-lua) - Pure Lua client library for Redis. :star:492
-  - [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for OpenResty. :star:1001
+  - [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for OpenResty. :star:1002
   - [lredis](https://github.com/daurnimator/lredis) - Asynchronous Redis client with pipelining and Pub/Sub support; based on cqueues. :star:23
 
 
 ### Message Brokers
-- [lua-zmq](https://github.com/Neopallium/lua-zmq) - Lua bindings to ZeroMQ. :star:137
-- [lzmq](https://github.com/zeromq/lzmq) - A newer Lua binding to ZeroMQ. :star:77
+- [lua-zmq](https://github.com/Neopallium/lua-zmq) - Lua bindings to ZeroMQ. :star:138
+- [lzmq](https://github.com/zeromq/lzmq) - A newer Lua binding to ZeroMQ. :star:78
 - [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Kafka client driver based on OpenResty cosockets. :star:413
 - [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - RabbitMQ client library based on OpenResty cosockets. :star:118
 
@@ -328,7 +328,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [luadec51](https://github.com/sztupy/luadec51) - Lua Decompiler for Lua version 5.1. :star:190
 - [luacov](http://keplerproject.github.io/luacov/) - Simple coverage analyzer, used by busted and telescope for checking test coverage.
   - [luacov-coveralls](https://github.com/moteus/luacov-coveralls) - LuaCov reporter for coveralls.io. :star:32
-- [luacheck](https://github.com/mpeterv/luacheck) - Simple static analyzer which detects accidental globals and undefined or shadowed locals. :star:721
+- [luacheck](https://github.com/mpeterv/luacheck) - Simple static analyzer which detects accidental globals and undefined or shadowed locals. :star:722
 - [Metalua](https://github.com/fab13n/metalua) - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way. :star:261
 - [LuaInspect](https://github.com/davidm/lua-inspect) - Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others. :star:142
 - [LuaMinify](https://github.com/stravant/LuaMinify) - Minifier which also brings its own static analysis tools, lexer, and parser. :star:130
@@ -349,7 +349,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [lumail](https://lumail.org/) - A console-based mail client, with extensive scripting capabilities.
 - [AwesomeWM](https://awesomewm.org/) - A highly configurable and extensible window manager for X, scripted and configured by Lua.
 - [Textadept](https://foicica.com/textadept/) - Extremely lightweight, customizable, cross-platform editor, written (mostly) in (and scripted by) Lua.
-- [KoReader](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices. :star:3819
+- [KoReader](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices. :star:3820
 
 
 ### Miscellaneous
@@ -390,7 +390,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - A well-commented example file which covers the basics.
 - [Learning Lua from JS](http://phrogz.net/lua/LearningLua_FromJS.html) - An overview of the similarities and differences between Lua and JS; a great start for JavaScript folks looking to pick up Lua.
 - [lua-users tutorial](http://lua-users.org/wiki/LuaTutorial) - In-depth collection of tutorials aimed at newcomers.
-- [Lua Missions](https://github.com/kikito/lua_missions) - A series of 'Missions' to work through which are designed to teach aspects of Lua along the way. :star:227
+- [Lua Missions](https://github.com/kikito/lua_missions) - A series of 'Missions' to work through which are designed to teach aspects of Lua along the way. :star:228
 - [Creating an Image Server](http://leafo.net/posts/creating_an_image_server.html) - Walks through setting up and using OpenResty to build a simple image processing server; a great starting point for playing with OpenResty.
 
 
@@ -414,7 +414,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Other Lists
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A list like this one, but focused on OpenResty. :star:1071
-- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform. :star:970
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform. :star:972
 - [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
 
 

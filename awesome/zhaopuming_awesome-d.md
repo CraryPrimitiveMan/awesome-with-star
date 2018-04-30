@@ -162,15 +162,15 @@
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](http://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/dlang/dub) - Official package and build management system for D. :star:403
+* [dub](https://github.com/dlang/dub) - Official package and build management system for D. :star:402
 
  
 ## Compilers
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1782
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:685
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1781
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:686
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:341
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:151
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
@@ -180,7 +180,7 @@
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon. :star:403
+* [dub](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon. :star:402
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects :star:2
 * [reggae](https://github.com/atilaneves/reggae) - meta build system in D :star:56
@@ -197,9 +197,9 @@
 * [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support. :star:112
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:191
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
-* [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:260
-* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:194
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:239
+* [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:261
+* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:193
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:240
 
  
 ## Lexers, Parsers, Parser Generators
@@ -283,7 +283,7 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2357
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2363
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:69
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:9
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
@@ -302,7 +302,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:87
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:28
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5243
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5250
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -310,7 +310,7 @@
 
 *Operating Systems written in D*
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:378
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:379
 * [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:71
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D :star:310
 
@@ -343,7 +343,7 @@
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>. :star:72
 * [gfm](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>. :star:158
-* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>. :star:375
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>. :star:376
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>. :star:88
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language :star:95
@@ -367,7 +367,7 @@
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:921
+* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:922
 
 ## Parallel computing
 

@@ -47,7 +47,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:162
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
-- [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code. :star:8
+- [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code. :star:9
 
 ## Tools
 
@@ -70,7 +70,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2397
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2403
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

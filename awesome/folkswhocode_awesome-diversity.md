@@ -23,6 +23,7 @@ Organizations bringing diversity to tech.
 
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
+- [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
@@ -30,6 +31,7 @@ Organizations bringing diversity to tech.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
+- [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
 - [FrameShift Consulting](https://frameshiftconsulting.com/) - FrameShift open sources their fantastic Ally Skills Workshop, Conference incident response materials and many other resources allowing to scale creating welcoming, inclusive, diverse cultures.
 - [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
@@ -88,7 +90,7 @@ The following is a list of individual resources with actionable items for being 
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How to Fight Sexism on Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:85
+- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:87
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.

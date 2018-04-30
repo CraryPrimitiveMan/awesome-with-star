@@ -34,7 +34,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 ### 3D
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016. :star:7
-- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish. :star:27
+- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish. :star:28
 - [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level. :star:30
 
 ## Demos
@@ -60,7 +60,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:294
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:295
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:24
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:67
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:14
@@ -92,12 +92,12 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:93
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:23
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:24
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:106
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:108
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
 - [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing. :star:51
-- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions. :star:14
+- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions. :star:15
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot. :star:4
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games. :star:41
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.

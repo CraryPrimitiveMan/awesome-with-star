@@ -68,14 +68,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ## Bolt
 
 - [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol. :star:122
-- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol. :star:203
+- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol. :star:204
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol. :star:344
 - [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt). :star:61
 - [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol. :star:29
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results. :star:49
-- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:113
+- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:114
 - [neo4j-elixir-driver](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol :star:20
-- [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:89
+- [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:90
 
 ## REST API
 
@@ -83,8 +83,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [neo4j-ogm](https://github.com/neo4j/neo4j-ogm) - Object-Graph Mapping Library for Neo4j. :star:169
 - [spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. :star:488
-- [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) - Neo4j JDBC driver. :star:52
-- [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) - Java access to Neo4J graph databases at multiple levels of abstraction. :star:54
+- [neo4j-jdbc](https://github.com/neo4j-contrib/neo4j-jdbc) - Neo4j JDBC driver. :star:53
+- [jcypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher) - Java access to Neo4J graph databases at multiple levels of abstraction. :star:55
 
 ### Ruby
 
@@ -94,7 +94,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Python
 
 - [py2neo](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line. :star:30
-- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:370
+- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:371
 - [BulbFlow](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
 
 ### PHP
@@ -110,7 +110,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:937
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:240
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:331
-- [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:170
+- [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:171
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R. :star:214
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework. :star:127
 
@@ -163,7 +163,7 @@ Neo4j graph database.
 
 # Stored Procedures
 
-- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:563
+- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:565
 - [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher :star:6
 
 # Development
@@ -189,7 +189,7 @@ Neo4j graph database.
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:190
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2621
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2627
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools

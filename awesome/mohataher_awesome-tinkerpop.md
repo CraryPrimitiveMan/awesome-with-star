@@ -26,7 +26,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:123
 * [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:260
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:42
-* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:187
+* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:186
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend. :star:60
 * [Hadoop (Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
 * [Hadoop (Spark)](http://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer) - OLAP graph processor using Spark.
@@ -36,8 +36,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [TinkerGraph](http://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin) - In-memory OLTP and OLAP reference implementation.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:129
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
-* [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:106
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1420
+* [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:105
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1422
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:345
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:61
 
@@ -128,7 +128,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:110
+* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:111
 
 
 ## <A NAME="contributing"></A>How to Contribute

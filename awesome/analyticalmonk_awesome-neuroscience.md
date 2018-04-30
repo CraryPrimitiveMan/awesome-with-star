@@ -31,10 +31,10 @@ Software, libraries and frameworks for development purposes.
 ### Python
 
 - [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:307
-- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:113
-- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:391
+- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:114
+- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:393
 - [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:159
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:451
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:452
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:190
 - [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:468
 - [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5570
@@ -43,7 +43,7 @@ Software, libraries and frameworks for development purposes.
 
 ### Matlab
 
-- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:199
+- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:198
 - [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### C++

@@ -20,7 +20,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:30
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:31
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:1

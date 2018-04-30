@@ -33,7 +33,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## General
 
 - [GIMP](http://www.gimp.org/) - *A swiss knife for image manipulation.*
-- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:139
+- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:140
 - [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick.*
 
@@ -44,7 +44,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:383
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
-- [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:188
+- [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:189
 
 ## Libraries
 
@@ -56,7 +56,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ### GoPro
 - [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:132
 - [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:79
-- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:249
+- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:250
 - [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:51
 
 ### Sony
@@ -65,7 +65,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:74
+- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:75
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:109
 
 
@@ -74,7 +74,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Darktable](http://www.darktable.org/) - *An open source photography workflow application and RAW developer.*
 - [RawTherapee](http://rawtherapee.com/) - *A cross-platform raw image processing program.*
 - [Photivo](http://photivo.org/photivo/start?redirect=1) - *A multi platform photo processor for RAW and bitmap images with 16 bit precision.*
-- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:42
+- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:44
 - [UFRaw](http://ufraw.sourceforge.net/) - *A utility to read and manipulate raw images from digital cameras.*
 - [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - *Decoding raw digital photos in Linux.*
 - [Lightzone](http://lightzoneproject.org/) - *Open-source digital darkroom software for Windows/Mac/Linux.*
@@ -148,10 +148,10 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1280
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1281
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:76
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1629
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1633
 
 ### Video Libraries
 

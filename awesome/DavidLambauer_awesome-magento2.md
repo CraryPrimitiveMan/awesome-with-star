@@ -37,7 +37,7 @@
 - [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:137
 - [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on Mac and Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
-- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:169
+- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:170
 - [convertm1m2](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2. :star:117
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool :star:167
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities. :star:9
@@ -59,7 +59,7 @@
 - [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js. :star:310
 - [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz). :star:38
 - [PreferencesInfoCommand](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) - bin/magento command to display configured preferences for classes or interfaces :star:14
-- [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script :star:36
+- [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script :star:37
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files. :star:91
 - [Magento Collect](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2. :star:15
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache. :star:9
@@ -106,7 +106,7 @@
 
 ### CMS
 
-- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:50
+- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:51
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support. :star:103
 - [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
 - [PageDesigner](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend. :star:49
@@ -221,10 +221,10 @@
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 - [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5541
+- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:5551
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2. :star:151
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
-- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:149
+- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:150
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento. :star:206
 - Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
@@ -287,8 +287,8 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 ### Other Magento 2 related Awesome Lists
 
 - [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:337
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:18586
-- [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel). :star:41
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:18602
+- [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel).
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 
 ---

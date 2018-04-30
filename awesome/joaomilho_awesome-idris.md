@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2396
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2397
 
 ### Articles
 
@@ -62,7 +62,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:171
-* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:170
+* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:169
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:65
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:70
@@ -74,7 +74,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:16
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:17
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:17
-* [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:14
+* [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:13
 
 ### Backends
 

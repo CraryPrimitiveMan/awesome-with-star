@@ -47,7 +47,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity. :star:52
-* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:236
+* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:238
 * [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:316
 * [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:290
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses. :star:407
@@ -72,12 +72,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Template
 
-* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache. :star:38
+* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache. :star:39
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine. :star:33
 
 ## Database
 
-* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:23
+* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:24
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector. :star:7
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver :star:69
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
@@ -90,7 +90,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
-* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:124
+* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:126
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:172
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps. :star:30
@@ -102,7 +102,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Parsers
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
-* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:75
+* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:76
 * [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:91
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.

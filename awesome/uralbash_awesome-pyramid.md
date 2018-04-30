@@ -98,12 +98,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   services for your Pyramid application based on the ldap3 package.
 * [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy :star:9
   for pyramid using repoze.who 2.0 API.
-* [velruse](https://github.com/bbangert/velruse) - Simplifying third-party :star:254
+* [velruse](https://github.com/bbangert/velruse) - Simplifying third-party :star:253
   authentication for web applications. it supports most of auth
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:31
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2741
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2740
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:854
@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:322
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:792
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:793
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2479
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2483
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,13 +230,13 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:590
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:591
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:288
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:54
   API framework sitting on top of Pyramid and ElasticSearch
-* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:58
+* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:59
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically  :star:15
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
@@ -385,11 +385,11 @@ provide new storage backends.*
   box content management system for mobile and desktop websites based on python
   and the webframework pyramid. Please refer to the website cms.nive.co for
   detailed information.
-* [substanced](https://github.com/Pylons/substanced) - An application server :star:136
+* [substanced](https://github.com/Pylons/substanced) - An application server :star:135
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
-* [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and :star:321
+* [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and :star:320
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [KARL](https://karlproject.readthedocs.io/en/latest/) - A moderately-sized
   application (roughly 80K lines of Python code) built on top of Pyramid. It is
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1710
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1714
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:14

@@ -48,194 +48,194 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 
-* [Scaffold Interface](https://github.com/amranidev/scaffold-interface) - A Smart CRUD Generator For Laravel :star:564
-* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion :star:6550
-* [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - Extends built-in file generators :star:1824
-* [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - Generator for APIs, CRUD scaffolds etc. :star:1831
+* [Scaffold Interface](https://github.com/amranidev/scaffold-interface) - A Smart CRUD Generator For Laravel :star:566
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion :star:6559
+* [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - Extends built-in file generators :star:1825
+* [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - Generator for APIs, CRUD scaffolds etc. :star:1834
 * [Laravel Tinx](https://github.com/furey/tinx) - Reload your Laravel Tinker session from inside Tinker :star:231
-* [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - Automatically generate your API documentation :star:1308
+* [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - Automatically generate your API documentation :star:1310
 * [Laravel Packager](https://github.com/Jeroen-G/Laravel-Packager) - A CLI tool for creating Laravel packages :star:490
-* [Workbench Export to Migrations](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Workbench plugin for exporting Models to Laravel migrations :star:535
+* [Workbench Export to Migrations](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Workbench plugin for exporting Models to Laravel migrations :star:536
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details :star:342
 
 ##### Testing & Debugging
 
 * [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models :star:352
-* [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps :star:1749
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel :star:7152
+* [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps :star:1750
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel :star:7160
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer :star:1594
-* [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer :star:1046
+* [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer :star:1047
 * [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
 * [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client :star:575
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger :star:294
-* [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes :star:246
+* [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes :star:245
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command :star:269
 
 ##### Authentication & Authorization
 
-* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions :star:1519
-* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams :star:903
-* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions :star:5683
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs :star:5953
-* [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions :star:3482
+* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions :star:1523
+* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams :star:905
+* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions :star:5685
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs :star:5963
+* [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions :star:3491
 * [Defender](https://github.com/artesaos/defender) - Roles & Permissions :star:332
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server :star:2360
-* [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc. :star:3106
+* [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc. :star:3108
 * [Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support
 * [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module :star:816
-* [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email :star:561
-* [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management :star:398
+* [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email :star:563
+* [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management :star:401
 * [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes :star:612
 
 ##### Utilities
 
 * [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan :star:369
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system :star:1057
-* [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts. :star:1350
+* [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system :star:1058
+* [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts. :star:1351
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin :star:407
-* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Rrelationships :star:326
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models :star:1945
-* [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models :star:395
-* [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel :star:1736
-* [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases :star:674
+* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Rrelationships :star:329
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models :star:1947
+* [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models :star:396
+* [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel :star:1744
+* [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases :star:675
 * [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder inspired by Symfony's form builder :star:876
-* [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app :star:1500
-* [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models :star:886
-* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs :star:1355
+* [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app :star:1501
+* [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models :star:887
+* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs :star:1357
 * [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros :star:485
-* [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law :star:308
-* [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API :star:2116
+* [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law :star:309
+* [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API :star:2122
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses :star:683
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
-* [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users :star:446
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser :star:691
-* [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel :star:377
-* [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system :star:928
+* [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users :star:447
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser :star:692
+* [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel :star:378
+* [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system :star:929
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system :star:1467
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc. :star:334
 * [Laravel Paginateroute](https://github.com/spatie/laravel-paginateroute) - Use Laravel's paginator without the query string :star:275
 * [Laravel URL Signer](https://github.com/spatie/laravel-url-signer) - Create and validate signed URLs with a limited lifetime :star:465
-* [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour :star:412
+* [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour :star:413
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store :star:1543
 * [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model :star:103
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Purifier](https://github.com/mewebstudio/purifier) - HTML filter :star:813
-* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models :star:1551
-* [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques :star:930
+* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models :star:1552
+* [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques :star:933
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files :star:373
-* [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system :star:429
+* [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system :star:430
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system :star:594
-* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models :star:742
+* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models :star:743
 * [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations :star:549
-* [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Generate a UUID according to the RFC 4122 standard :star:979
+* [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Generate a UUID according to the RFC 4122 standard :star:981
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Allow users to install your application just by following the setup wizard, like WordPress :star:821
-* [Laravel Modules](https://github.com/nWidart/laravel-modules) - Easy module management :star:1263
-* [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter :star:671
-* [Laravel Ban](https://github.com/cybercog/laravel-ban) - Simplify blocking and banning Eloquent models :star:173
-* [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries. :star:2824
-* [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC :star:247
-* [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers. :star:455
+* [Laravel Modules](https://github.com/nWidart/laravel-modules) - Easy module management :star:1272
+* [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter :star:672
+* [Laravel Ban](https://github.com/cybercog/laravel-ban) - Simplify blocking and banning Eloquent models :star:175
+* [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries. :star:2834
+* [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC :star:248
+* [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers. :star:456
 
 ##### Media & Document Management
 
-* [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images :star:7022
+* [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images :star:7040
 * [Laravel Glide](https://github.com/spatie/laravel-glide) - Easily convert images with Glide :star:259
-* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models :star:2130
+* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models :star:2135
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf :star:968
-* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf) :star:4684
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf) :star:4686
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager :star:545
-* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files :star:5004
+* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files :star:5011
 
 ##### Integration with Javascript
 
-* [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript :star:642
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript :star:1635
+* [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript :star:644
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript :star:1638
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client-side :star:536
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) - A Pjax middleware :star:368
-* [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript :star:296
+* [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript :star:297
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript :star:835
 
 ##### Databases, ORMs, Migrations & Seeding
 
 * [Backup Manager](https://github.com/backup-manager/laravel) - Backup and restore databases from S3, Dropbox, SFTP etc. :star:504
-* [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - Nested Sets pattern implementation :star:1424
+* [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - Nested Sets pattern implementation :star:1426
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation :star:275
 * [Eloquence](https://github.com/kirkbushell/eloquence) - Extra features for Eloquent models :star:324
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table :star:1001
 * [Laravel OCI8](https://github.com/yajra/laravel-oci8) - Oracle DB driver via OCI8 :star:373
-* [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app :star:2405
+* [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app :star:2409
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation :star:481
-* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB :star:3306
-* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database :star:1982
+* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB :star:3310
+* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database :star:1984
 * [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Extensions for the Eloquent ORM :star:784
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager :star:376
-* [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer :star:2434
+* [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer :star:2440
 
 ##### Search
 
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM :star:235
-* [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent models :star:692
+* [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent models :star:693
 * [Plastic](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch :star:395
 * [Laravel Search](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch :star:294
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch :star:357
-* [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models :star:1267
-* [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP :star:1374
+* [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models :star:1269
+* [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP :star:1376
 * [TNTSearch driver](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for [Laravel Scout](https://github.com/laravel/scout) search package based on TNTSearch :star:387
 
 ##### APIs
 
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys :star:624
-* [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs :star:7378
-* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support :star:2628
+* [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs :star:7383
+* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support :star:2632
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal :star:1059
-* [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Supports Relay, eloquent models, validation and GraphiQL :star:1248
+* [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Supports Relay, eloquent models, validation and GraphiQL :star:1249
 * [Laravel Responder](https://github.com/flugger/laravel-responder) - Build custom API responses with Fractal :star:355
 
 ##### Tasks, Commands and Scheduling
 
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands :star:1026
-* [Elixir](https://github.com/laravel/elixir) - Node (NPM) package to run Gulp tasks :star:1097
-* [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps :star:2292
-* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner :star:1057
+* [Elixir](https://github.com/laravel/elixir) - Node (NPM) package to run Gulp tasks :star:1096
+* [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps :star:2298
+* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner :star:1058
 
 ##### Payments
 
-* [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe :star:1290
+* [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe :star:1291
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library :star:319
 
 ##### Optimization
 
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class :star:365
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - Blade/HTML/CSS/javascript minifier :star:581
-* [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Eloquent :star:535
-* [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching :star:335
+* [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Eloquent :star:538
+* [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching :star:336
 * [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up app by caching the entire response :star:682
 
 ##### Monitoring
 
-* [Horizon](https://github.com/laravel/horizon) - Monitor and configure queues with a simple web UI :star:1935
+* [Horizon](https://github.com/laravel/horizon) - Monitor and configure queues with a simple web UI :star:1942
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails :star:348
-* [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor :star:488
+* [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor :star:489
 
 ##### Localization
 
-* [Language Files](https://github.com/caouecs/Laravel-lang) - Validation, Pagination and Reminders language lines in 37 languages :star:2743
+* [Language Files](https://github.com/caouecs/Laravel-lang) - Validation, Pagination and Reminders language lines in 37 languages :star:2744
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes :star:1655
 * [Laravel Translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable by storing translations as JSON :star:500
-* [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances :star:1502
+* [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances :star:1504
 * [Laravel Translator](https://github.com/vinkla/laravel-translator) - Translate Eloquent models into multiple languages :star:262
-* [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon :star:1203
+* [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon :star:1204
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console :star:754
-* [Laravel Translation](https://github.com/waavi/translation) - Translation and localization management :star:245
+* [Laravel Translation](https://github.com/waavi/translation) - Translation and localization management :star:246
 * [Linguist](https://github.com/keevitaja/linguist) - i18n localization support for Laravel :star:177
 
 ##### Third-party Service Integration
 
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - Retrieve pageviews and other data from Google Analytics :star:1376
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge :star:220
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge :star:261
+* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge :star:221
+* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge :star:263
 * [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge :star:311
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp :star:715
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge :star:325
@@ -249,7 +249,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container :star:365
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker :star:313
-* [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version :star:1159
+* [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version :star:1161
 
 ## Application Hosting
 
@@ -263,7 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Application Deployment
 
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
-* [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package :star:2586
+* [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package :star:2589
 
 ## Code Snippets
 
@@ -295,7 +295,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Daily](http://laraveldaily.com/blog/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
-* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) :star:443
+* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) :star:459
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 
 ## Videos
@@ -383,52 +383,52 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 
 * [Spark](https://spark.laravel.com/)
-* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) :star:943
-* [Grafite Builder](https://github.com/GrafiteInc/Builder) :star:848
-* [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) :star:2861
+* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) :star:946
+* [Grafite Builder](https://github.com/GrafiteInc/Builder) :star:847
+* [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) :star:2864
 * [Laravel Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) :star:1701
-* [AdminLTE Laravel](https://github.com/acacha/adminlte-laravel) :star:1490
+* [AdminLTE Laravel](https://github.com/acacha/adminlte-laravel) :star:1491
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) :star:1351
 * [Laravel API Starter Kit](https://github.com/joselfonseca/laravel-api) :star:177
 * [Backpack for Laravel](https://github.com/Laravel-Backpack/Base) :star:573
 * [SomelineStarter](https://github.com/someline/someline-starter) :star:760
-* [Laravel Admin](https://github.com/z-song/laravel-admin) :star:3380
-* [Voyager](https://github.com/the-control-group/voyager) :star:6043
-* [Orchid](https://github.com/TheOrchid/Platform) :star:801
-* [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt) :star:751
-* [Hello API](https://github.com/Porto-SAP/Hello-API) :star:1346
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) :star:310
-* [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero) :star:1217
-* [Apiato](https://github.com/apiato/apiato) :star:1346
+* [Laravel Admin](https://github.com/z-song/laravel-admin) :star:3395
+* [Voyager](https://github.com/the-control-group/voyager) :star:6055
+* [Orchid](https://github.com/TheOrchid/Platform) :star:804
+* [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt) :star:754
+* [Hello API](https://github.com/Porto-SAP/Hello-API) :star:1350
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) :star:311
+* [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero) :star:1218
+* [Apiato](https://github.com/apiato/apiato) :star:1350
 
 ## Codebases for Reference
 
-* [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs :star:8025
-* [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system :star:645
-* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management with Git and Scrum :star:2134
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application :star:3522
-* [Koel](https://github.com/phanan/koel) - Personal music streaming server :star:9002
+* [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs :star:8032
+* [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system :star:646
+* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management with Git and Scrum :star:2137
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application :star:3525
+* [Koel](https://github.com/phanan/koel) - Personal music streaming server :star:9009
 * [Laravel.io](https://github.com/laravelio/portal) - Source for the Laravel.io Community Portal :star:1316
-* [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform :star:2049
-* [Antvel](https://github.com/ant-vel/App) - Ecommerce platform :star:378
-* [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator :star:797
-* [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers :star:1458
-* [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js :star:1736
+* [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform :star:2050
+* [Antvel](https://github.com/ant-vel/App) - Ecommerce platform :star:379
+* [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator :star:799
+* [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers :star:1457
+* [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js :star:1737
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API :star:134
-* [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century :star:909
-* [Monica](https://github.com/monicahq/monica) - Personal relationship management system :star:4404
+* [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century :star:913
+* [Monica](https://github.com/monicahq/monica) - Personal relationship management system :star:4418
 
 ## Content Management Systems
 
-* [OctoberCMS](https://github.com/octobercms/october) :star:6921
-* [PyroCMS](https://github.com/pyrocms/pyrocms) :star:2754
-* [Lavalite](https://github.com/LavaLite/cms) :star:1274
+* [OctoberCMS](https://github.com/octobercms/october) :star:6928
+* [PyroCMS](https://github.com/pyrocms/pyrocms) :star:2755
+* [Lavalite](https://github.com/LavaLite/cms) :star:1279
 * [TypiCMS](https://github.com/typicms/base) :star:596
-* [Asgard CMS](https://github.com/AsgardCms/Platform) :star:493
-* [Microweber](https://github.com/microweber/microweber) :star:730
+* [Asgard CMS](https://github.com/AsgardCms/Platform) :star:494
+* [Microweber](https://github.com/microweber/microweber) :star:731
 * [Coaster CMS](https://github.com/web-feet/coastercms) :star:318
 * [Statamic](https://statamic.com/)
-* [Grafite CMS](https://github.com/GrafiteInc/CMS) :star:402
+* [Grafite CMS](https://github.com/GrafiteInc/CMS) :star:405
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum) :star:265

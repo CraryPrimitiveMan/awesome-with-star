@@ -33,7 +33,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C. :star:3
 
 - Web honeypots
-    - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot. :star:328
+    - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot. :star:330
     - Snare/Tanner - successors to Glastopf
       - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot :star:86
       - [Tanner](https://github.com/mushorg/tanner) - Evaluating SNARE events :star:52
@@ -64,7 +64,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot. :star:284
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot. :star:67
-    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:822
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python. :star:825
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot. :star:10
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot. :star:11
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python. :star:20
@@ -73,7 +73,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - A multi-purpose modular honeypot based on Twisted. :star:1
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. :star:8
     - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) -  low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS). :star:6
-    - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go. Can be connected up with other Honeypot software. :star:364
+    - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go. Can be connected up with other Honeypot software. :star:365
+    - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) -  High interaction SMB service Honeypot capable of capturing wannacry like Malware. :star:3
 
 - Distributed Honeypots
     - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server. :star:15
@@ -90,7 +91,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
-    - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
+    - [Open Canary](https://pypi.org/project/opencanary/) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX. :star:7
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot. :star:308
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers. :star:2
@@ -113,7 +114,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1416
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management. :star:1419
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -133,7 +134,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - System instrumentation
     - [Sysdig](https://sysdig.com/opensource/) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
-    - [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel. :star:409
+    - [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel. :star:408
 
 - Honeypot for USB-spreading malware
     - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) -  honeypot for malware that propagates via USB storage devices. :star:49
@@ -149,7 +150,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - VM monitoring and tools
     - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:252
+    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder. :star:253
     - [VMCloak](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox. :star:234
 
 - Binary debugger
@@ -158,7 +159,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Mobile Analysis Tool
     - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
-    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1945
+    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more. :star:1946
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
@@ -182,7 +183,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot. :star:4
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot. :star:86
     - [MTPot](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware. :star:82
-    - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot. :star:154
+    - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot. :star:155
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot. :star:8
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment. :star:5
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet. :star:182
@@ -228,7 +229,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Thug](https://buffer.github.io/thug/) - Python low-interaction honeyclient
     - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/) - a client-side honeypot for attack detection
     - [PhoneyC](https://github.com/honeynet/phoneyc) - Python honeyclient (later replaced by Thug)
-    - [Jsunpack-n](https://github.com/urule99/jsunpack-n) :star:93
+    - [Jsunpack-n](https://github.com/urule99/jsunpack-n) :star:94
     - [HoneyC](https://projects.honeynet.org/honeyc)
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
     - [CWSandbox / GFI Sandbox](https://www.gfi.com/products-and-solutions/all-products)
@@ -242,7 +243,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
 - PDF document inspector
-    - [peepdf](https://github.com/jesparza/peepdf) :star:317
+    - [peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents  :star:317
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
@@ -255,7 +256,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
-    - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret :star:32
+    - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret :star:33
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot :star:1036
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
@@ -306,7 +307,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [DAVIX](http://www.secviz.org/node/89)
 
 - Spamtrap
-    - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python. :star:132
+    - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python. :star:133
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
@@ -320,7 +321,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
-    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators.
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
 
 
@@ -348,7 +348,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot :star:58
 
 - Honeytokens
-    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:377
+    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway. :star:378
     - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots. :star:93
     - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens. :star:385
@@ -383,7 +383,7 @@ the honeyd daemon and generate configuration files
     - [dorothy2](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby :star:176
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
-    - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection. :star:33
+    - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection. :star:34
     - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper. :star:94
     - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator. :star:7
     - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.

@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:802
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:804
 
 #### Geospatial
 
@@ -73,7 +73,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:109
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:106
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:105
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 

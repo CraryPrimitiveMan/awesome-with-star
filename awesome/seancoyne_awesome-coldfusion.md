@@ -5,7 +5,7 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 
 Pull requests very welcome.
 
-* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion) :star:55
+* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion) :star:56
 	* [Engines](#engines)
 	* [Application Frameworks](#application-frameworks)
 	* [Testing](#testing)
@@ -97,7 +97,7 @@ Pull requests very welcome.
 
 ## Tools
 
-* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:44
+* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:45
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References

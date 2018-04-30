@@ -70,7 +70,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:21
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2925
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2930
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
@@ -96,7 +96,7 @@ http://oleg.fi/graafi/
 
 ### CLI
 
-* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:197
+* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:199
 
 ## Libraries
 
@@ -113,7 +113,7 @@ http://oleg.fi/graafi/
 * [cgeorg/cycle-socket.io ★27](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients :star:28
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API. :star:2
 * [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher). :star:14
-* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:203
+* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:204
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures :star:11
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource. :star:6
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom :star:41
@@ -131,7 +131,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js :star:3
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js :star:4
-* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:670
+* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:671
 * [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync :star:21
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server :star:1

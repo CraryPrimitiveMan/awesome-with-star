@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18584
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21316
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18601
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21330
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -148,7 +148,7 @@ Additional lists you might find useful:
 ## Email
 *Plugins for sending and parsing email.*
 
-- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell. :star:41
+- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell. :star:42
 - [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more. :star:17
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun. :star:13
 - [SparkPost plugin](https://github.com/syntaxera/cakephp-sparkpost-plugin) - Email transport plugin for sending email via the SparkPost API. :star:11
@@ -207,12 +207,12 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:75
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:568
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:897
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:569
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:898
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:54
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2586
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2589
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -225,7 +225,7 @@ Additional lists you might find useful:
 ## Migration
 *Plugins and resources around migration and upgrading.*
 
-- [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin. :star:84
+- [Migrations plugin](https://github.com/cakephp/migrations) - (DB) Migration plugin. :star:85
 - [Upgrade app](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x. :star:74
 - [Upgrade app (extended)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x and between 3.x. :star:11
 - [Upgrade/Migration Guide](http://book.cakephp.org/3.0/en/appendices.html) - Official migration guide.
@@ -251,7 +251,7 @@ Additional lists you might find useful:
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application. :star:31
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) - Easily issue tokens that can be used for mail authentication. :star:7
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more. :star:290
-- [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins. :star:38
+- [Travis](https://github.com/FriendsOfCake/travis) - Easy travis setup for CakePHP plugins. :star:39
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable. :star:44
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable). :star:24
 - [Wrench plugin](https://github.com/HavokInspiration/wrench) - Maintenance Mode plugin. Easily extensible and customizable. :star:18
@@ -293,7 +293,7 @@ Additional lists you might find useful:
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:309
+- [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation. :star:310
 
 ## Queue
 *Plugins for working with event and task queues.*
@@ -301,12 +301,12 @@ Additional lists you might find useful:
 - [CakeResque plugin](https://github.com/wa0x6e/Cake-Resque) - A plugin for Resque, a library for creating background jobs. :star:161
 - [CakeQueuesadilla plugin](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.). :star:17
 - [Gearman plugin](https://github.com/cvo-technologies/cakephp-gearman) - A plugin for offloading CakePHP tasks to a Gearman Job Server. :star:11
-- [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution. :star:175
+- [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution. :star:176
 
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
 
-- [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui. :star:32
+- [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui. :star:33
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) - Easily expose your application's validation rules. :star:9
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses. :star:25
 - [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more. :star:31
@@ -349,7 +349,7 @@ Additional lists you might find useful:
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:195
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer. :star:14
-- [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:298
+- [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:299
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin. :star:8
 
 ## Social
@@ -363,9 +363,9 @@ Additional lists you might find useful:
 *Plugins for templating and lexing.*
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address. :star:1
-- [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality. :star:55
+- [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality. :star:56
 - [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS. :star:31
-- [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration. :star:248
+- [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration. :star:249
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files. :star:22
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions. :star:6
 - [CommonMark plugin](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views. :star:7
@@ -376,7 +376,7 @@ Additional lists you might find useful:
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views. :star:3
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy. :star:6
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags. :star:18
-- [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views. :star:66
+- [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views. :star:67
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos. :star:3
 
 ## Testing

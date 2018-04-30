@@ -32,7 +32,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API. :star:39
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
-- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app :star:69
+- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app :star:70
 
 ## Tutorials
 
