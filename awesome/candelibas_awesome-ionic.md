@@ -20,7 +20,7 @@ An "awesome" list of the Ionic resources
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:34028
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:34030
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)

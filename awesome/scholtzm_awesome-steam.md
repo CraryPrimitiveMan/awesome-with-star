@@ -36,10 +36,10 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:878
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:879
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:28
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:221
-- [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:96
+- [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:97
 - [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot. :star:36
 
 #### WebAPI
@@ -80,7 +80,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-crypto](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto. :star:12
 - [steam-groups](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions. :star:17
 - [steamid](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy. :star:35
-- [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:115
+- [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:116
 - [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot. :star:80
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa. :star:17
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation. :star:10
@@ -92,7 +92,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1189
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:133
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1020
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1021
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:40
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -105,7 +105,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### PHP
 
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website. :star:48
-- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:297
+- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:298
 - [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:20
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API. :star:63
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP. :star:3
@@ -125,7 +125,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:76
-- [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:291
+- [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:292
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library. :star:7
 
 #### Game Interaction
@@ -183,7 +183,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:758
+- [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app. :star:759
 
 ### Discussion Boards
 

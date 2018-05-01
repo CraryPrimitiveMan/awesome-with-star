@@ -20,8 +20,8 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2869
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3380
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2871
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3383
 
 ## Plugins
 

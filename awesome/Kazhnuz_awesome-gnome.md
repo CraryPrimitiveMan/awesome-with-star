@@ -115,7 +115,7 @@
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2363
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:255
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2643
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2645
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:144
 
 ### System
@@ -176,7 +176,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:502
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:503
 
 ### Adwaita-based
 
@@ -209,12 +209,12 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1582
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1584
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:103
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:856
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:855
 
 ### Homogeneous Icons
 
@@ -229,7 +229,7 @@
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
- - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:34
+ - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:35
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:231
 
 ## Community

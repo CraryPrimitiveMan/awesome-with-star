@@ -72,7 +72,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:314
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:625
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:626
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:77
@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3734
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3736
 
 
 ## CMS & Blogs
@@ -262,7 +262,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:32
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework :star:215
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon :star:23
-* [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application :star:164
+* [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application :star:163
 * [PhREST API](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package :star:28
 * [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 

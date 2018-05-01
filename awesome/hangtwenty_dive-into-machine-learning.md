@@ -320,7 +320,7 @@ If you want to explore this space more deeply, there is a _lot_ of reading mater
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:1839
 * [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:673
-* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:644
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:645
 
 ----
 

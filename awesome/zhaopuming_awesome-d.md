@@ -198,7 +198,7 @@
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:191
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:261
-* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:193
+* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:195
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:240
 
  
@@ -274,7 +274,7 @@
 * [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements. :star:2
 * [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite. :star:16
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:918
-* [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:61
+* [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:62
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL. :star:41
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:328
 * [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction. :star:47
@@ -302,7 +302,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:87
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:28
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5250
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:5251
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -399,7 +399,7 @@
 *Parsing configuration files*
 
 - [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D. :star:57
-- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language. :star:81
+- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language. :star:82
 - [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D :star:17
 
 ## Blog Engine

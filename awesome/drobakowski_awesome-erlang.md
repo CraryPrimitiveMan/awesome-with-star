@@ -69,7 +69,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1714
 * [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4911
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1599
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1598
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1098
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:557
@@ -168,8 +168,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang. :star:252
-* [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang. :star:232
-* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP. :star:234
+* [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang. :star:231
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP. :star:235
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
 ## Queue

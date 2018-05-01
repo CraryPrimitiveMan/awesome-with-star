@@ -19,7 +19,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe. :star:19
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:7691
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.

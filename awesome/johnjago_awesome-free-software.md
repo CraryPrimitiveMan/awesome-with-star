@@ -222,6 +222,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ## Hardware
 > Libre-friendly.
 
+### Companies
+
 - [Aleph Objects](https://www.alephobjects.com/) - RYF certified 3D printer built with libre hardware and software.
 - [Libiquity](http://www.libiquity.com/) - Company that designs and develops embedded software and firmware systems.
 - [Purism](https://puri.sm/) - Privacy, security, and freedom focused computers and software.
@@ -229,6 +231,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
 - [ThinkPenguin](https://www.thinkpenguin.com/) - Provider of modern laptops, desktops, and printers that contain no proprietary software.
 - [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.
+
+### Hardware Resources
+
+- [h-node](https://h-node.org/) - Database of hardware that works with a fully free operating system.
 
 ## Resources
 
@@ -275,8 +281,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other Lists
 
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:22741
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6590
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:22794
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6594
 
 ### Talks
 

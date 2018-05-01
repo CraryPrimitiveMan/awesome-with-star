@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:35651
+* [Official GitHub Repo](https://github.com/angular/angular) :star:35691
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -152,7 +152,7 @@ Table of contents:
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3976
+* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:3979
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3 :star:192
 * [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:75
 * [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3 :star:64
@@ -179,7 +179,7 @@ Table of contents:
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
-* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3 :star:439
+* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3 :star:440
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.

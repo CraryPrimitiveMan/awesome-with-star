@@ -151,7 +151,7 @@
 
 - [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world. :star:14
 - [Code Monkey Health](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
-- [Ruby Taiwan](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese. :star:117
+- [Ruby Taiwan](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese. :star:118
 - [DevOps Taiwan](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions. :star:42
 - [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions. :star:10
 - [From the Front](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.

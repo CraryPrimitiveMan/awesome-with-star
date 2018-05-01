@@ -76,7 +76,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:181
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1747
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1749
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
@@ -148,11 +148,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83964
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:7042
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:83990
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:7057
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:272
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:818
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4850
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:820
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4853
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1137
 
 

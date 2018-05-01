@@ -192,7 +192,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion_print](https://github.com/OTGApps/motion_print) - RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL. :star:30
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) - Port of the awesome_print gem to RubyMotion. :star:48
 * [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output. :star:18
-* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:573
+* [Motion-xray](https://github.com/colinta/motion-xray) - iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations. :star:572
 
 
 ### Dependencies Management

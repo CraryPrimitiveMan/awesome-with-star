@@ -41,10 +41,10 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
 - [Magic Lantern](http://magiclantern.fm/) - *a software enhancement that offers increased functionality to Canon DSLR cameras.*
-- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:383
+- [Autoexec Hack](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.* :star:384
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
-- [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:189
+- [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.* :star:190
 
 ## Libraries
 

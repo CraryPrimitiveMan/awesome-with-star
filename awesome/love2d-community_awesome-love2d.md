@@ -65,7 +65,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid :star:24
 * [gamera](https://github.com/kikito/gamera) - Camera system :star:120
 * [hump.camera](http://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
-* [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE :star:67
+* [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE :star:70
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -118,7 +118,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls :star:57
-* [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:83
+* [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler :star:84
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE :star:48
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library :star:38
 
@@ -178,7 +178,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua :star:421
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies. :star:14
-* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:111
+* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE :star:112
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -193,7 +193,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2956
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:2957
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -270,7 +270,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2007
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2009
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)

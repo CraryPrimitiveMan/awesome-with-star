@@ -9,13 +9,13 @@
 
 ## Bindings
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava. :star:15753
-* [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries. :star:7366
-* [rx-preferences](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android. :star:1342
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava. :star:15759
+* [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries. :star:7368
+* [rx-preferences](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android. :star:1344
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava. :star:6108
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries. :star:4604
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum. :star:1972
-* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables. :star:1796
+* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables. :star:1797
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables. :star:124
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android. :star:195
 * [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables. :star:668
@@ -48,7 +48,7 @@ String and Byte operators for RxJava.
 
 ## Guides
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example. :star:6433
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example. :star:6435
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava. :star:1639
 
 ## Articles

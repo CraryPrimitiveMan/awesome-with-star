@@ -57,7 +57,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
-* [LibreShot] (https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
+* [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
@@ -241,7 +241,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. :star:1872
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-* [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands. :star:6154
+* [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands. :star:6159
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
 ## Colors
@@ -276,4 +276,59 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 Various different websites offering free HTML templates and themes.
 
-* [Bootswatch](https://bootswatch.com/) - [:copyright:](https://
+* [Bootswatch](https://bootswatch.com/) - [:copyright:](https://raw.githubusercontent.com/thomaspark/bootswatch/master/LICENSE) Free themes for Bootstrap.
+* [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
+* [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+* [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
+
+## Sounds & Music
+
+Free resources for stock sound and music to be used on creative projects
+
+* [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Royalty free music by Bensound.
+* [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
+* [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+* [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
+* [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
+* [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
+* [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
+* [Our Music Box](http://ourmusicbox.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) free royalty free music by Jay Man.
+* [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
+* [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
+
+## Paid Resources
+
+And last, but not least, a selection of the best paid resources.
+
+* [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
+* [Fotolia](https://us.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
+* [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
+* [Shutterstock](https://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
+* [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
+
+
+## How to Contribute
+
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
+
+## How to Share
+
+* [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+
+
+## Donate :heart:
+
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
+
+[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
+

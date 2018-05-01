@@ -17,7 +17,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM. :star:11
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:37
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:117
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:86
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:87
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:15
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone. :star:8
@@ -60,7 +60,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:295
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:296
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:24
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:67
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:14
@@ -92,7 +92,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:93
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:23
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:24
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:108
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:109
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:3
@@ -114,7 +114,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Geany](https://github.com/haimat/GDScript-Geany) :star:7
 - [Gedit](https://github.com/haimat/GDScript-gedit) :star:12
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) :star:28
-- [Vim](https://github.com/quabug/vim-gdscript) :star:39
+- [Vim](https://github.com/quabug/vim-gdscript) :star:38
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes

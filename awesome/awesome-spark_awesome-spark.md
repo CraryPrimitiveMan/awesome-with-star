@@ -98,19 +98,19 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - An Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf). :star:84
 * [Apache SystemML](https://systemml.apache.org/) - Declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) - linear algebra DSL and optimizer with R-like syntax.
-* [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training. :star:690
+* [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training. :star:691
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML. :star:51
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras. :star:419
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer. :star:625
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2430
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library. :star:2431
 
 ### Middleware
 
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing. :star:749
-* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:2026
-* [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services. :star:171
+* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only. :star:2025
+* [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services. :star:172
 * [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications. :star:473
 
 ### Utilities

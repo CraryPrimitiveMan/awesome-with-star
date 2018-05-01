@@ -8,7 +8,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16617
+* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration. :star:16622
 
 
 ## Boxes
@@ -34,7 +34,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 * [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
 * [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version). :star:2380
-* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system. :star:1019
+* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system. :star:1020
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots. :star:112
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.

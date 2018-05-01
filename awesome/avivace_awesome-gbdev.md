@@ -163,7 +163,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 - [Mooneye-gb](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust. :star:260
 - [jsGB](https://github.com/Two9A/jsGB) - Javascript. :star:448
-- [php-terminal-Game Boy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal. :star:1261
+- [php-terminal-Game Boy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal. :star:1260
 - [gameboy-Online](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs. :star:252
 - [cboy](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux. :star:17
 - [weplay](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript. :star:529
@@ -175,7 +175,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [rustboy](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics. :star:6
 - [Gearboy](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux. :star:306
 - [AndroidGameBoyEmulator](https://github.com/pedrovgs/AndroidGameBoyEmulator)
-- [GameLad](https://github.com/Dooskington/GameLad) - C++/SDL almost fully featured emulator. :star:374
+- [GameLad](https://github.com/Dooskington/GameLad) - C++/SDL almost fully featured emulator. :star:375
 - [Wadatsumi](https://github.com/arrow-lang/wadatsumi) - Arrow. :star:8
 - [Binjgb](https://github.com/binji/binjgb) - 5kloc emulator in C that passes most of the tests. :star:67
 - [jgilchrist](https://github.com/jgilchrist/emulator) - Modern C++. :star:45
@@ -195,7 +195,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [PatBoy](https://github.com/Jonazan2/PatBoy) - C++/SDL2 with a fully functional visual debugger. :star:13
 - [gnuboy](https://github.com/rofl0r/gnuboy) - ANSI C. :star:21
 - [SmartGear](https://github.com/bitbank2/sg_free) - C++, SDL2. Focus on optimized performance for resource-limited devices. GTK or direct framebuffer build. :star:6
-- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly. :star:166
+- [wasmBoy](https://github.com/torch2424/wasmBoy) - Web Assembly. :star:168
 - [gameboycore](https://github.com/nnarain/gameboycore) - C++ emulation backend. Dependency free C++11 library. :star:6
 - [Gambattye](https://github.com/Ben10do/Gambattye) - macOS, powered by a fork of Gambatte. :star:2
 - [miniBoy](https://github.com/Dhole/miniBoy) - C. :star:5

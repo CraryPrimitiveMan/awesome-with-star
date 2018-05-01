@@ -123,7 +123,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection. :star:353
-- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:3205
+- [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone. :star:3215
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
@@ -162,7 +162,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
-- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:1010
+- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi. :star:1011
 - [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.

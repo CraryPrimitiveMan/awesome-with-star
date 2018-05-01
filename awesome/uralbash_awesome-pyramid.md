@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2483
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2484
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -295,7 +295,7 @@ provide new storage backends.*
 
 *Packages that make working with task/background queues easier.*
 
-* [pyramid_celery](https://github.com/sontek/pyramid_celery) - Pyramid :star:88
+* [pyramid_celery](https://github.com/sontek/pyramid_celery) - Pyramid :star:89
   configuration with celery integration. Allows you to use pyramid .ini files
   to configure celery and have your pyramid configuration inside celery tasks.
 * [pyramid_rq](https://github.com/wichert/pyramid_rq) - Support using the rq :star:10
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1714
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1717
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:14

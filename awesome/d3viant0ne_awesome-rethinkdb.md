@@ -57,7 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### ORM
 
-- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1072
+- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1073
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM. :star:29
  - Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -232,7 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Administrative Tools
 
-- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:182
+- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:183
 - [RethinkDB CLI](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb. :star:16
 - [RethinkDB Nightly](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 

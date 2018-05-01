@@ -149,7 +149,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:40
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type. :star:46
 - [Sprout Notes](https://sprout.barrelstrengthdesign.com/craft-plugins/notes) - Add notes to your dashboard. Customize your note's header, body, and even use custom HTML.
-- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:115
+- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries. :star:116
 
 
 ### Data

@@ -5,7 +5,7 @@
 
 ## Build Tooling
 
-- [pulp](https://github.com/bodil/pulp) :star:390
+- [pulp](https://github.com/bodil/pulp) :star:391
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:41
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
@@ -34,13 +34,13 @@ React-based:
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:493
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:65
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:31
-- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:74
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:75
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:105
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:739
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:740
 
 Signals/Behaviors/FRP:
 
@@ -49,7 +49,7 @@ Signals/Behaviors/FRP:
 - [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:22
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:30
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:46
-- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:120
+- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:121
 - [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:62
 
 ## URL Routers

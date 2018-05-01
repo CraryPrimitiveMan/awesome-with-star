@@ -37,7 +37,7 @@ A curated list of Awesome Alfred Workflows.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:232
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:54
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:539
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1377
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1378
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:94
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:148
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:39
@@ -102,14 +102,14 @@ A curated list of Awesome Alfred Workflows.
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
-- [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:61
+- [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:62
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:46
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows. :star:1141
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:900
-- [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:88
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease. :star:901
+- [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy. :star:89
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter. :star:15
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 

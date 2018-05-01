@@ -80,7 +80,7 @@ It includes a command-line shell and an associated scripting language.
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers. :star:113
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell. :star:384
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location. :star:66
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:35033
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:35054
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell. :star:32
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool. :star:7
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
@@ -119,7 +119,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Package Managers
 
-- [PowershellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com). :star:168
+- [PowershellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com). :star:169
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 - [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider. :star:16
@@ -139,7 +139,7 @@ It includes a command-line shell and an associated scripting language.
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer. :star:449
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations. :star:895
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows. :star:736
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:3836
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:3840
 - [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent. :star:3026
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC). :star:97
 
@@ -150,7 +150,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Themes
 
-- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:497
+- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:499
 - [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts. :star:165
 
 ## Videos
