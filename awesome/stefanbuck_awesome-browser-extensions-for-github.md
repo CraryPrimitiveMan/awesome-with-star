@@ -91,6 +91,15 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
  ![](https://cloud.githubusercontent.com/assets/1393946/15090769/d0472958-1433-11e6-8af0-c5294aae94d6.png)
 </details>
 
+### [GitHub Code Folding](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
+
+<details><summary>Screenshots</summary>
+
+ ![](https://github.com/noam3127/github-code-folding/raw/master/images/demo.gif)
+</details>
+
 ## Comments
 
 ### [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
@@ -258,6 +267,15 @@ Makes it easy to access repository info from a GitHub pages website.
 <details><summary>Screenshots</summary>
 
  ![Pages2Repo](https://cloud.githubusercontent.com/assets/1393946/11908410/4027dc66-a5dc-11e5-9bce-b028aa884c9a.png)
+</details>
+
+### [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Displays a clickable outline of all topic headers for markdown documents on GitHub
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
 </details>
 
 ## Newsfeed
@@ -523,15 +541,6 @@ See forks with the most stars under the names of repositories.
 <details><summary>Screenshots</summary>
 
  ![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
-</details>
-
-### [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Displays a clickable outline of all topic headers for markdown documents on GitHub
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
 </details>
 
 ### [GitHub Npm Stats](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>

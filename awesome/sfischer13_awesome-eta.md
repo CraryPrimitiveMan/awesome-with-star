@@ -1,8 +1,6 @@
 # Information comes from [sfischer13/awesome-eta](https://github.com/sfischer13/awesome-eta)
 # Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta">](https://github.com/typelead/eta)
-
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
 
 You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
@@ -26,7 +24,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
-  - [Tutorials](#tutorials)
   - [Conferences](#conferences)
   - [Courses](#courses)
   - [Talks](#talks)
@@ -42,11 +39,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](https://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1815
+- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub. :star:1816
 
 ### First Steps
 
-- [Getting Started](https://eta-lang.org/docs/eta-concepts/getting-started/what-is-eta) - First steps with Eta.
+- [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
 - [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
 
 ### Comparisons
@@ -63,10 +60,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Official Resources
 
 - [Documentation](https://eta-lang.org/docs/) - Eta documentation.
-- [Tutorials](https://eta-lang.org/docs/eta-tutorials) - Eta tutorials.
+- [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 - [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
 - [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
-- [Eta Cheatsheet](https://eta-lang.org/docs/cheatsheet) - Eta reference.
+- [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 - [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
@@ -100,11 +97,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
 
-### Tutorials
-
-- [From Loops to Recursion](https://eta-lang.org/docs/eta-tutorials/from-loops-to-recursion/loops) - Learn how to start thinking in terms of recursion.
-- [Web Service](https://eta-lang.org/docs/eta-tutorials/web-services/overview) - How to set up a simple web service.
-
 ### Conferences
 
 - [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
@@ -131,7 +123,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Miscellaneous
 
-- [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code. :star:27
+- [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code. :star:28
 - [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta. :star:26
 
 ## License

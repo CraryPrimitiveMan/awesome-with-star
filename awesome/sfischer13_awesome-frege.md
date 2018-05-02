@@ -1,8 +1,6 @@
 # Information comes from [sfischer13/awesome-frege](https://github.com/sfischer13/awesome-frege)
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege">](https://github.com/Frege/frege)
-
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
 You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
@@ -57,7 +55,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:3046
+- [Frege](https://github.com/Frege/frege) - Official website. :star:3045
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -96,7 +94,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Social Media
 
 - [Twitter](https://twitter.com/fregelang) - Official Twitter account.
-- [reddit](https://www.reddit.com/r/frege) - Frege subreddit.
+- [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
 
 ### Important People
 

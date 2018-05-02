@@ -16,21 +16,21 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:458
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:456
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2871
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3383
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2873
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3386
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:729
-* [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:214
-* [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:263
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:730
+* [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:213
+* [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:262
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:106
 * [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:35
-* [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:151
+* [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:150
 * [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:190
 
 ## Simple Prompts

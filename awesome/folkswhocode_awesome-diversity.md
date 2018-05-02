@@ -76,7 +76,7 @@ The following is a list of events that make a special effort to be inclusive and
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
-- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:252
+- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:251
 
 ## Actionable Resources
 
@@ -90,7 +90,7 @@ The following is a list of individual resources with actionable items for being 
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How to Fight Sexism on Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:93
+- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:95
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.

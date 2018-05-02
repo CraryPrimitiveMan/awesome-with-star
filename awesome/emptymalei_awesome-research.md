@@ -439,7 +439,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut](https://github.com/tantaman/Strut) :star:1478
+* [Strut](https://github.com/tantaman/Strut) :star:1479
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:598
 * [hovercraft](https://github.com/regebro/hovercraft) :star:993
 
@@ -455,15 +455,15 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40186
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4358
-* [CSSS](https://github.com/LeaVerou/CSSS) :star:1496
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40194
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4359
+* [CSSS](https://github.com/LeaVerou/CSSS) :star:1497
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:693
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5278
-* [Shower](https://github.com/shower/shower) :star:3984
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5279
+* [Shower](https://github.com/shower/shower) :star:3985
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1214
-* [Slides](https://github.com/briancavalier/slides) :star:462
+* [Slides](https://github.com/briancavalier/slides) :star:463
 
 
 ### IPython Notebook
@@ -729,7 +729,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:826
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:825
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

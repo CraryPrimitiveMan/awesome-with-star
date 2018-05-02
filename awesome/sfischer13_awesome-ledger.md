@@ -39,7 +39,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Documentation
 
 - [Cheat Sheet](http://ricostacruz.com/cheatsheets/ledger.html) - Summary of the most common commands.
-- [Book](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger. :star:78
+- [Book](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger. :star:77
 - [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
@@ -70,7 +70,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2403
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2404
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

@@ -37,7 +37,7 @@
 - [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:39
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:93
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:21
-- [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:16
+- [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:17
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:154
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:182
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:447
@@ -49,7 +49,7 @@
 - [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB. :star:26
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint](https://github.com/eslint/eslint) plugins with AVA. :star:13
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:9
-- [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:9
+- [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:8
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:3
 - [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:102
 
