@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:10
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:11
 
 ## Plugins
 
@@ -31,8 +31,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:969
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:678
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:970
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:679
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -67,14 +67,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
   * Icons
-    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:590
+    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:591
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
   * Splash Screens
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:36
-    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:376
+    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:377
     * [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
   * Plugin
     * [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13

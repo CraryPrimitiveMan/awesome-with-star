@@ -35,7 +35,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Tez](http://tez.apache.org/) - A Framework for YARN-based, Data Processing Applications In Hadoop
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
-* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1228
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1229
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython.  :star:243
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
@@ -83,7 +83,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
 * [Apache Kudu](https://kudu.apache.org/) - Kudu provides a combination of fast inserts/updates and efficient columnar scans to enable multiple real-time analytic workloads across a single storage layer, complementing HDFS and Apache HBase.
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas. :star:630
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas. :star:632
 * [Hortonworks Schema Registry](https://github.com/hortonworks/registry) - Schema Registry is a framework to build metadata repositories. :star:69
 
 ## Workflow, Lifecycle and Governance
@@ -92,7 +92,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7859
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:7891
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -101,7 +101,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline :star:669
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
 * [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1279
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1282
 
 ## DSL
 
@@ -187,11 +187,11 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Benchmark
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
-* [HiBench](https://github.com/intel-hadoop/HiBench) :star:647
+* [HiBench](https://github.com/intel-hadoop/HiBench) :star:650
 * [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench) :star:77
 * [hive-benchmarks](https://github.com/yhuai/hive-benchmarks) :star:3
 * [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale. :star:53
-* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:1994
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:1995
 
 ## Machine learning and Big Data analytics
 

@@ -196,7 +196,7 @@ Processing Unit (GPU).
 ### Tutorials
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
-* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2. :star:138
+* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2. :star:141
 
 ### Videos
 
@@ -250,10 +250,10 @@ Processing Unit (GPU).
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
 ### 2D
-* [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript. :star:1671
+* [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript. :star:1673
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
-* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2946
+* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2947
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1233
 
 ### Maps and Visualizations
@@ -301,7 +301,7 @@ Processing Unit (GPU).
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2862
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. :star:2861
 * [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
@@ -321,11 +321,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:84041
-* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:815
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:820
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4855
-* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2143
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:84113
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:817
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:823
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4858
+* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2147
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1136
 
 ## Contributing

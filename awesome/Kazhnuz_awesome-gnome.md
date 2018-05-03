@@ -74,7 +74,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:46
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2339
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2341
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:304
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:232
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:35
@@ -89,9 +89,9 @@
 - [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:430
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:431
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:111
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:112
 
 ### Graphics
 
@@ -108,19 +108,19 @@
 - [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) - Official tweak tool provided by the GNOME project for tweaking your desktop.
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME :star:56
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME :star:58
 
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2360
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2366
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:255
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2648
-- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:144
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2652
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:146
 
 ### System
 
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd. :star:454
+- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd. :star:455
 
 ### Others
 
@@ -129,14 +129,14 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:455
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:456
 
 ## Extensions
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:199
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS. :star:200
 
 ### Applets
 
@@ -176,7 +176,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:502
+- [Oomox](https://github.com/actionless/oomox) - Generates different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons. :star:504
 
 ### Adwaita-based
 
@@ -187,7 +187,7 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:537
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:538
 
 ### Flat
 
@@ -209,12 +209,12 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1587
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1591
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:103
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:856
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:857
 
 ### Homogeneous Icons
 
@@ -225,7 +225,7 @@
 
 ### Skeumorphic
 
-- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS. :star:130
+- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS. :star:131
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).

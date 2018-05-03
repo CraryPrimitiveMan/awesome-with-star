@@ -37,8 +37,8 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:493
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:230
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:492
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:232
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:393
 
 
@@ -122,7 +122,7 @@ A curated list of awesome HBase projects and resources.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
-* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:234
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:235
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 

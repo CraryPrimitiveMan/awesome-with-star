@@ -65,7 +65,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Geometry with Swift](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning.  :star:3
 * [Image Filtering](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🌟 :star:42
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟 :star:11
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁 :star:5
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁 :star:6
 * [Accessibility](https://github.com/xReee/wwdc2018) - Accessibility for iOS developpers. 🍁  :star:1
 
 ## Learning Swift
@@ -77,7 +77,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language. :star:104
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language. :star:35
 * [MPCS51032 UChicago iOS Course](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago. :star:4
-* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟  :star:1897
+* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟  :star:1899
 * [Codable Playground](https://github.com/filip-zielinski/CodablePlayground) - Playground that demonstrates advanced uses of Codable 🍁 :star:7
 
 ## Learning Swift: Advanced Topics
@@ -101,9 +101,9 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3. :star:23
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER. :star:38
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3. :star:9466
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3. :star:9472
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) - Learn all 23 Gang of Four patterns using Swift. :star:20
-* [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁 :star:1349
+* [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁 :star:1350
 
 ### Protocol Oriented Programming
 
@@ -153,7 +153,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:16979
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:16989
 * [Sorting Experiments](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of. :star:5
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟 :star:44
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
@@ -181,12 +181,12 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) - Neural Network built in Apple Playground using Swift. 🌟   :star:1182
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) - Neural Network built in Apple Playground using Swift. 🌟   :star:1184
 
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
-* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.🌟 :star:296
+* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.🌟 :star:297
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths. :star:22
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views. :star:34
 * [Checkmark Button](https://github.com/BilalReffas/CheckmarkButton) - Animated check mark button. :star:7
@@ -195,7 +195,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs. :star:1
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳ :star:39
 * [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳ :star:25
-* [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps. ⏳ :star:4
+* [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps. ⏳ :star:5
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳ :star:40
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit. ⏳
 * [Ray tracing Playground](https://github.com/mhorga/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/mhorga/Raytracing2), [3](https://github.com/mhorga/Raytracing3), [4](https://github.com/mhorga/Raytracing4), [5](https://github.com/mhorga/Raytracing5) 🌟 ⏳ :star:15
@@ -243,11 +243,11 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Lindenmayer Systems](https://github.com/henrinormak/lindenmayer) - A Swift playground exploring Lindemayer systems. :star:6
 * [Swift Natural Numbers](https://github.com/jakebromberg/Swift-Natural-Numbers) - A playground for implementing the natural numbers and more concepts in number theory. :star:3
 * [Polydoxical](https://github.com/kirkbyo/Polydoxical) - Interactive playground to experiment with roulettes and polygons.
-* [Abstract Algebra](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift. :star:96
+* [Abstract Algebra](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift. :star:98
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra. ⏳ :star:95
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics. ⏳ :star:1
 * [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ⏳
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁 :star:5
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁 :star:6
 
 ## Libraries and APIs
 *Library tutorials, in a playground*

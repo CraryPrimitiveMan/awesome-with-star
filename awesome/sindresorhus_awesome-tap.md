@@ -50,13 +50,13 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13678
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1216
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4580
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13687
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1217
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4581
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:386
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:387
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap` :star:87
 
@@ -65,4 +65,65 @@ Things that produce TAP output.
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:213
 
 ### Bash
+
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4686
+
+[More...](https://testanything.org/producers.html)
+
+
+## Consumers
+
+Things that consume TAP output.
+
+### JavaScript
+
+- [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:83
+- [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:19
+- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:19
+
+[More...](https://testanything.org/consumers.html)
+
+
+## Tools
+
+### JavaScript
+
+- [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console. :star:26
+- [tap-merge](https://github.com/anko/tap-merge) - Merge multiple TAP streams. :star:6
+- [smokestack](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`. :star:234
+- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) alternative. :star:4
+
+### Python
+
+- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP. :star:52
+
+
+## Articles
+
+- [Understand the Test Anything Protocol](http://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
+
+
+## Tutorials
+
+- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:122
+
+
+## Documentation
+
+- [Specification](https://testanything.org/tap-version-13-specification.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
+
+
+## Community
+
+- [Discuss](https://github.com/TestAnything/Specification/issues)
+- [Reddit](https://www.reddit.com/r/testanythingprotocol)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 

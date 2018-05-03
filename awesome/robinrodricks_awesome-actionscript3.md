@@ -174,7 +174,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
-* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:365
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier. :star:14
 

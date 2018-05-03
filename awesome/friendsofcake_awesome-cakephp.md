@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18609
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21333
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18618
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21347
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -166,7 +166,7 @@ Additional lists you might find useful:
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin. :star:183
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem. :star:29
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.). :star:519
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 - [Image plugin](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior. :star:19
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation. :star:106
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file. :star:27
@@ -208,7 +208,7 @@ Additional lists you might find useful:
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:75
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:569
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:899
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:902
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:54
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
@@ -347,7 +347,7 @@ Additional lists you might find useful:
 ## Skeleton
 *Plugins and repositories around app skeletons.*
 
-- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:195
+- [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer. :star:196
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer. :star:14
 - [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code. :star:300
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin. :star:8
@@ -396,7 +396,7 @@ Additional lists you might find useful:
 
 - [CakeTmdb plugin](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration. :star:3
 - [GitHub plugin](https://github.com/cvo-technologies/cakephp-github) - Allows access to the GitHub REST APIs using the [Webservice](https://github.com/UseMuffin/Webservice) ORM. :star:7
-- [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP. :star:44
+- [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP. :star:45
 - [Salesforce plugin](https://github.com/voycey/cakephp-salesforce) - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances. :star:4
 - [Twitter plugin](https://github.com/cvo-technologies/cakephp-twitter) - Allows access to the Twitter REST and streaming APIs using the [Webservice](https://github.com/UseMuffin/Webservice) ORM. :star:18
 

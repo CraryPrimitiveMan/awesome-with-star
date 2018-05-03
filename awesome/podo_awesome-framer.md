@@ -97,7 +97,7 @@
 * [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) - Apple Watch Kit module for Framer. :star:55
 * [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) - AudioPlayer Module for Framer. :star:145
 * [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer. :star:71
-* [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer. :star:56
+* [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer. :star:57
 * [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) - UISound Module for Framer.
 * [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image. :star:75
 * [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer. :star:31
@@ -128,8 +128,8 @@
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:145
-* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:270
-* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:548
+* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:271
+* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:549
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:218
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:429
@@ -173,7 +173,7 @@
 
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:66
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:67
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:20
 
 ## Sites
@@ -181,7 +181,7 @@
 * [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
 
 ## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:303
+* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:305
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:489
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:148
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29

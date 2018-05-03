@@ -96,7 +96,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. :star:7
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
-* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:7010
+* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:7014
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility. :star:4
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
@@ -124,12 +124,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard. :star:103
-* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:120
+* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:121
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK. :star:27
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer. :star:23
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK. :star:13
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
-* [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion. :star:571
+* [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion. :star:572
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc. :star:7
 
 ## Multimedia content processing
@@ -148,22 +148,22 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
 * [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation. :star:146
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:8
-* [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:460
+* [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:461
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:9235
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:9247
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
-* [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:65
+* [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:66
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 * [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
 * [TuttleOFX](http://www.tuttleofx.org/) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
-* [Voctomix](https://github.com/voc/voctomix) - Customizable conference recording and mixing software based on Python and GStreamer with streaming capabilities and Core/GUI separation. :star:251
+* [Voctomix](https://github.com/voc/voctomix) - Customizable conference recording and mixing software based on Python and GStreamer with streaming capabilities and Core/GUI separation. :star:252
 
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
-* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1105
+* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1107
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - An analyzer to inspect network packets generated in accordance with the SMPTE ST 2110 specification. :star:9
 
@@ -195,7 +195,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - A set of components for generating, testing and distributing subtitle documents in the [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) format. :star:13
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles. :star:9
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5. :star:24
-* [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered. :star:7
+* [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered. :star:8
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release. :star:26
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - A collection of related tools that provide support for or make use of the W3C Timed Text Markup Language (TTML). :star:24

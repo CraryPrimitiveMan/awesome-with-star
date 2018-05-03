@@ -27,13 +27,13 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4531
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser. :star:4539
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques. :star:262
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. :star:331
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects. :star:34
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
-- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:527
+- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web. :star:529
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses. :star:23
@@ -47,21 +47,21 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [XSound.js](https://github.com/Korilakkuma/XSound) - Full stack library. :star:13
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance. :star:14
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features. :star:408
-- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:597
+- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser. :star:599
 - [Mooog](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables. :star:20
-- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2824
+- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas. :star:2825
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio. :star:24
 - [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily. :star:106
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator. :star:15
 - [Tuna](https://github.com/Theodeus/tuna) - An audio effects library. :star:939
-- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:249
-- [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser. :star:868
+- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). :star:250
+- [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser. :star:869
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes. :star:2693
 - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
 ### Utilities
-- [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio. :star:21
+- [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio. :star:22
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API. :star:8
 - [Audion](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools. :star:110
@@ -75,7 +75,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer. :star:2
 
 ### Apps
-- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:670
+- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs. :star:671
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange. :star:1
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you. :star:18
@@ -84,7 +84,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web. :star:7
 - [AudioNodes](https://audionodes.com) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
-- [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity. :star:507
+- [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity. :star:508
 - [SoundCycle](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes. :star:33
 
 ## Resources

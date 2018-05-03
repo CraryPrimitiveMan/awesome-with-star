@@ -968,14 +968,16 @@ Some useful aliases include:
 | `git st` | `git status -sb` | `git config --global alias.st 'status -sb'` |
 | `git tags` | `git tag -l` | `git config --global alias.tags 'tag -l'` |
 | `git branches` | `git branch -a` | `git config --global alias.branches 'branch -a'` |
-| `git cleanup` | `git branch --merged | grep -v '*' | xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged | grep -v '*' | xargs git branch -d"` |
+| `git cleanup` | `git branch --merged \| grep -v '*' \| xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"` |
 | `git remotes` | `git remote -v` | `git config --global alias.remotes 'remote -v'` |
 | `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
 
 *Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig*
 
 #### Auto-Correct
-If you type `git comit` you will get this:
+Git gives suggestions for misspelled commands and if auto-correct is enabled the command can be fixed and executed automatically. Auto-correct is enabled by specifying an integer which is the delay in tenths of a second before git will run the corrected command. Zero is the default value where no correcting will take place, and a negative value will run the corrected command with no delay.
+
+For example, if you type `git comit` you will get this:
 
 ```bash
 $ git comit -m "Message"
@@ -985,20 +987,22 @@ $ git comit -m "Message"
 #   commit
 ```
 
-To call `commit` when `comit` is typed, just enable auto-correct:
+Auto-correct can be enabled like this (with a 1.5 second delay):
 
 ```bash
-$ git config --global help.autocorrect 1
+$ git config --global help.autocorrect 15
 ```
 
-So now you will get this:
+So now the command `git comit` will be auto-corrected to `git commit` like this:
 
 ```bash
 $ git comit -m "Message"
 # WARNING: You called a Git command named 'comit', which does not exist.
 # Continuing under the assumption that you meant 'commit'
-# in 0.1 seconds automatically...
+# in 1.5 seconds automatically...
 ```
+
+The delay before git will rerun the command is so the user has time to abort.
 
 #### Color
 To add more color to your Git output:

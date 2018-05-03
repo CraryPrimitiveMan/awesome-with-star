@@ -9,7 +9,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2627
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2629
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -101,7 +101,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:762
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:763
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. :star:136
 
 ## Objective-C
@@ -141,7 +141,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) :star:161
-* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) :star:722
+* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) :star:723
 
 ## Beacon Scanner Apps
 

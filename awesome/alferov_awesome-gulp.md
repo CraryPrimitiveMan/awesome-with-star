@@ -50,7 +50,7 @@
 ## Resources
 ### General Resources
 * [Official Website](http://gulpjs.com/)
-* [Github Repository](https://github.com/gulpjs/gulp) :star:29338
+* [Github Repository](https://github.com/gulpjs/gulp) :star:29347
 * [Plugin Registry](http://gulpjs.com/plugins/)
 * [NPM Module](https://www.npmjs.com/package/gulp)
 * [Blacklisted Plugins](https://github.com/gulpjs/plugins/blob/master/src/blackList.json)
@@ -117,7 +117,7 @@
 
 ## Plugins
 ### Compilation
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass](https://github.com/sass/libsass). :star:1275
+* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass](https://github.com/sass/libsass). :star:1276
 * [gulp-ruby-sass](https://github.com/sindresorhus/gulp-ruby-sass) - Sass → CSS with Ruby Sass. :star:488
 * [gulp-compass](https://github.com/appleboy/gulp-compass) - Sass → CSS with Ruby Sass & Compass. :star:177
 * [gulp-less](https://github.com/plus3network/gulp-less) - [Less](https://github.com/less/less.js) → CSS. :star:553
@@ -125,11 +125,11 @@
 * [gulp-postcss](https://github.com/postcss/gulp-postcss) - Pipe CSS through [PostCSS](https://github.com/postcss/postcss) processors with a single parse. :star:584
 * [gulp-coffee](https://github.com/contra/gulp-coffee) - [Coffeescript](https://github.com/jashkenas/coffeescript) → JavaScript. :star:223
 * [gulp-typescript](https://github.com/ivogabe/gulp-typescript) - [TypeScript](https://github.com/Microsoft/TypeScript) → JavaScript. :star:624
-* [gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook [React](https://github.com/facebook/react) JSX templates → JavaScript. :star:243
+* [gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook [React](https://github.com/facebook/react) JSX templates → JavaScript. :star:244
 * [webpack-stream](https://github.com/shama/webpack-stream) - Run [webpack](https://github.com/webpack/webpack) as a stream to conveniently integrate with gulp. :star:1122
 
 ### Transpilation
-* [gulp-babel](https://github.com/babel/gulp-babel) - ES6 → ES5 with [babel](https://github.com/babel/babel). :star:1083
+* [gulp-babel](https://github.com/babel/gulp-babel) - ES6 → ES5 with [babel](https://github.com/babel/babel). :star:1085
 * [gulp-traceur](https://github.com/sindresorhus/gulp-traceur) - ES6 → ES5 using [Traceur](https://github.com/google/traceur-compiler). :star:179
 * [gulp-regenerator](https://github.com/sindresorhus/gulp-regenerator) - ES6 → ES5 with [Regenerator](https://github.com/facebook/regenerator). :star:19
 * [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) - [:no_entry:] ES6 → ES5 with [es6-transpiler](https://github.com/termi/es6-transpiler). :star:49
@@ -162,7 +162,7 @@
 
 ### Templating
 * [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) - Concatenate and register AngularJS templates in the $templateCache. :star:524
-* [gulp-jade](https://github.com/phated/gulp-jade) - [Jade](https://github.com/pugjs/jade) → HTML. :star:470
+* [gulp-jade](https://github.com/phated/gulp-jade) - [Jade](https://github.com/pugjs/jade) → HTML. :star:471
 * [gulp-handlebars](https://github.com/lazd/gulp-handlebars) - [Handlebars](https://github.com/wycats/handlebars.js) templates → JavaScript. :star:152
 * [gulp-hb](https://github.com/shannonmoeller/gulp-hb) - [Handlebars](https://github.com/wycats/handlebars.js) templates → HTML. :star:129
 * [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - [Nunjucks](https://github.com/mozilla/nunjucks) templates → JavaScript. :star:107
@@ -171,7 +171,7 @@
 * [gulp-markdown](https://github.com/sindresorhus/gulp-markdown) - Markdown → HTML. :star:139
 * [gulp-template](https://github.com/sindresorhus/gulp-template) - [Lodash ](https://github.com/lodash/lodash) templates → JavaScript. :star:245
 * [gulp-swig](https://github.com/colynb/gulp-swig) - [Swig](https://github.com/paularmstrong/swig) templates → HTML. :star:69
-* [gulp-remark](https://github.com/denysdovhan/gulp-remark) - Gulp plugin for [remark](https://github.com/wooorm/remark) - markdown processor powered by plugins :star:1427
+* [gulp-remark](https://github.com/denysdovhan/gulp-remark) - Gulp plugin for [remark](https://github.com/wooorm/remark) - markdown processor powered by plugins :star:1430
 
 ### Linting
 * [gulp-csslint](https://www.npmjs.com/package/gulp-csslint) - Automated linting of CSS with [CSSLint](https://github.com/CSSLint/csslint).
@@ -183,14 +183,14 @@
 * [gulp-eslint](https://github.com/adametry/gulp-eslint) - Identify and report on patterns found in ECMAScript/JavaScript code. :star:515
 * [gulp-w3cjs](https://github.com/callumacrae/gulp-w3cjs) - Validate HTML with [w3cjs](https://github.com/thomasdavis/w3cjs). :star:54
 * [gulp-lesshint](https://github.com/lesshint/gulp-lesshint) - Lint less files with [lesshint](https://github.com/lesshint/lesshint). :star:14
-* [gulp-check-unused-css](https://github.com/zalando/gulp-check-unused-css) - Check your HTML templates for unused CSS classes. :star:357
+* [gulp-check-unused-css](https://github.com/zalando/gulp-check-unused-css) - Check your HTML templates for unused CSS classes. :star:358
 
 ### Live Reload
-* [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites ([recipes](https://github.com/BrowserSync/gulp-browser-sync)). :star:9871
+* [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites ([recipes](https://github.com/BrowserSync/gulp-browser-sync)). :star:9872
 * [gulp-livereload](https://github.com/vohof/gulp-livereload) - Gulp plugin for livereload. :star:769
 
 ### Caching
-* [gulp-changed](https://github.com/sindresorhus/gulp-changed) - Only pass through changed files. :star:704
+* [gulp-changed](https://github.com/sindresorhus/gulp-changed) - Only pass through changed files. :star:705
 * [gulp-cached](https://github.com/contra/gulp-cached) - A simple in-memory file cache. :star:431
 * [gulp-remember](https://github.com/ahaurw01/gulp-remember) - Remember and recall files passed through it. :star:148
 * [gulp-newer](https://github.com/tschaub/gulp-newer) - Pass through newer source files only. :star:209
@@ -198,7 +198,7 @@
 ### Flow Control
 * [merge-stream](https://github.com/grncdr/merge-stream) - Merge multiple streams into one interleaved stream. :star:139
 * [streamqueue](https://github.com/nfroidure/StreamQueue) - Pipe queued streams progressively. :star:61
-* [run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order. :star:953
+* [run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order. :star:954
 * [gulp-if](https://github.com/robrich/gulp-if) - Conditionally run a task. :star:589
 
 ### Logging
@@ -219,12 +219,12 @@
 * [gulp-plumber](https://github.com/floatdrop/gulp-plumber) - Prevent pipe breaking caused by errors. :star:770
 * [gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load in gulp plugins. :star:746
 * [main-bower-files](https://github.com/ck86/main-bower-files) - Simplify build process setup by dynamically getting the library files. :star:599
-* [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use. :star:15188
+* [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use. :star:15197
 * [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) - Provide source map support. :star:949
 * [gulp-replace](https://github.com/lazd/gulp-replace) - A string replace plugin for gulp. :star:400
 * [gulp-rename](https://github.com/hparra/gulp-rename) - Rename files easily. :star:595
 * [gulp-rev](https://github.com/sindresorhus/gulp-rev) - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css. :star:1413
-* [del](https://github.com/sindresorhus/del) - Delete files/folders using globs. :star:803
+* [del](https://github.com/sindresorhus/del) - Delete files/folders using globs. :star:804
 * [gulp-exec](https://github.com/robrich/gulp-exec) - Run a shell command. :star:130
 * [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) - Strip console, alert, and debugger statements from JavaScript code. :star:218
 * [gulp-cssimport](https://github.com/unlight/gulp-cssimport) - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it. :star:26
@@ -241,20 +241,20 @@
 
 ## Scaffolding
 ### Boilerplates
-* [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit. :star:18172
+* [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit. :star:18176
 * [gulp-plugin-boilerplate](https://github.com/sindresorhus/gulp-plugin-boilerplate) - Boilerplate to kickstart creating gulp plugins. :star:68
-* [polymer-starter-kit](https://github.com/polymerelements/polymer-starter-kit) - A starting point for Polymer 1.0 apps. :star:2473
-* [este](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps. :star:5412
+* [polymer-starter-kit](https://github.com/polymerelements/polymer-starter-kit) - A starting point for Polymer 1.0 apps. :star:2474
+* [este](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps. :star:5413
 * [mnml](https://github.com/mrmrs/mnml) - Minimal boilerplate to start a responsive HTML5/Sass project. :star:724
 * [kraken](https://github.com/cferdinandi/kraken) - A lightweight, mobile-first boilerplate for front-end web developers. :star:674
 * [angularjs-gulp-browserify-boilerplate](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate) - Boilerplate using AngularJS, Sass, gulp, and Browserify. :star:1075
 * [hapi-ninja](https://github.com/poeticninja/hapi-ninja) - A Node.js, Hapi, and Swig boilerplate. :star:394
-* [laravel-5-boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) - A Laravel 5 boilerplate project. :star:2865
+* [laravel-5-boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) - A Laravel 5 boilerplate project. :star:2867
 * [react-starterkit](https://github.com/wbkd/react-starterkit) - React starter kit that contains react-router, Reflux, jest, webpack, gulp and Stylus. :star:356
 
 ### Yeoman Generators
-* [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp) - A gulp generator for modern webapps. :star:3483
-* [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - Yeoman generator for AngularJS with gulp. :star:3889
+* [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp) - A gulp generator for modern webapps. :star:3484
+* [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - Yeoman generator for AngularJS with gulp. :star:3888
 * [generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify) - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap. :star:425
 * [generator-node-gulp](https://github.com/youngmountain/generator-node-gulp) - A Node.js module generator including gulp and Mocha. :star:37
 * [generator-gulp-bootstrap](https://github.com/niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass. :star:71
@@ -264,7 +264,7 @@
 * [generator-jekyllized](https://github.com/sondr3/generator-jekyllized) - Jekyll workflow with gulp, Sass, AutoPrefixer, asset optimization and cache busting and much more. :star:340
 
 ## Miscellaneous
-* [elixir](https://github.com/laravel/elixir) - A clean, fluent API for defining basic gulp tasks for your Laravel applications. :star:1096
+* [elixir](https://github.com/laravel/elixir) - A clean, fluent API for defining basic gulp tasks for your Laravel applications. :star:1097
 * [gulp-app](https://github.com/sindresorhus/gulp-app) - Gulp as an app (OS X). :star:976
 * [lmn-gulp-tasks](https://github.com/Lostmyname/lmn-gulp-tasks) - Example of gulp tasks unit testing. :star:22
 * [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.

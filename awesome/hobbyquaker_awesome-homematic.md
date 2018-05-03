@@ -54,7 +54,7 @@
 <!-- * [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. -->
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch. :star:49
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:239
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi. :star:240
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container. :star:105
 
 
@@ -69,7 +69,7 @@
 
 ## CCU Addons
 
-* [Ccu-addon-node-red](https://github.com/hobbyquaker/ccu-addon-node-red) - Node-RED for the Homematic CCU3 and Raspberrymatic. :star:1
+* [Ccu-addon-node-red](https://github.com/hobbyquaker/ccu-addon-node-red) - Node-RED for the Homematic CCU3 and Raspberrymatic. :star:2
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts. :star:8
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails. :star:15

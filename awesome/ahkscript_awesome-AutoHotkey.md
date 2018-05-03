@@ -73,9 +73,9 @@ Development state:
 * [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=17). :star:31
 
 ### <a name="libraries-data-format"></a>Data format
-* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627).
+* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627). :star:65
 * [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
-* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212).
+* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212). :star:2
 * [XA](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849). :star:3
 
 ### Database
@@ -230,12 +230,12 @@ Development state:
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - AutoHotkey for Pocket PCs / WinCE / Smartphones. Forum thread: [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
-* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
+* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*. :star:319
 
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
 * [Print Array](https://autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
-* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
+* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey. :star:16
 
 ### Decompilers
 * [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
@@ -248,10 +248,10 @@ Development state:
 * [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
-* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
+* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped. :star:147
 * [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
 * [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) - Vim plugin to add auto-completion. (omni-completion)
-* [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey.
+* [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey. :star:8
 
 ### GUI WYSIWYG Builders
 * [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=6&t=10157) - by alguimist - WYSIWIG GUI Designer and Script Editor
@@ -264,7 +264,7 @@ Development state:
 ### Web Syntax Highlighters
 * [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
 * [PrismJs](https://autohotkey.com/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
-* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
+* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers. :star:4
 
 ### <a name="tools-others"></a>Others
 * [GoTo](https://autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
@@ -273,7 +273,7 @@ Development state:
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) - by GeekDude - A lightweight dynamic code tester.
 * [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/) - by jethrow -  iWB2 Learner is a tool for gathering information about Internet Explorer webpages. Forum thread: [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
 * [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310) - by evilC - Swap AHK version quickly! Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310).
-* [AEI](https://github.com/joedf/AEI.ahk) - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5825).
+* [AEI](https://github.com/joedf/AEI.ahk) - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5825). :star:7
 * [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
 ### (Use in) other programming languages

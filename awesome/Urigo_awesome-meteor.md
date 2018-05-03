@@ -91,7 +91,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Tools for handling users and authentication*
 
 * [accounts-base](https://guide.meteor.com/accounts.html) - Meteor's user account system.
-* [alanning:roles](https://github.com/alanning/meteor-roles) - Roles support for the built-in accounts packages. :star:871
+* [alanning:roles](https://github.com/alanning/meteor-roles) - Roles support for the built-in accounts packages. :star:872
 
 ## Deployment
 
@@ -115,7 +115,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Routers for Blaze*
 
-* [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor. :star:2054
+* [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor. :star:2055
 * [kadira:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor. :star:1103
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor. :star:165
 
@@ -141,7 +141,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Handling files in Meteor*
 
 * [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads. :star:1088
-* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust. :star:796
+* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust. :star:798
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls). :star:52
 
 ## Search, sort and paginate
@@ -160,7 +160,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Mobile Development*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor. :star:1580
-* [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor. :star:34039
+* [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor. :star:34053
 * [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox). :star:491
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP. :star:758
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android. :star:264
@@ -226,10 +226,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
-* [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor :star:6747
-* [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app :star:924
-* [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban :star:12715
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor :star:7037
+* [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor :star:6750
+* [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app :star:925
+* [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban :star:12721
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor :star:7048
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor :star:188
 * [Orion CMS](http://orionjs.org/)
 
@@ -239,7 +239,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Blaze](http://blazejs.org/guide/introduction.html)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
-* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor :star:2312
+* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor :star:2313
 * [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor :star:323
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
 * [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
@@ -281,7 +281,7 @@ Where to discover new Meteor things.
 * [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
 * [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 * [Rocket-Chat Slack Clone](https://rocket.chat/)
-* [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn :star:1624
+* [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn :star:1623
 * [Learning Resources for Meteor](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 * [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
 

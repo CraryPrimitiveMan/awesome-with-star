@@ -30,14 +30,14 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:308
+- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:310
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:114
-- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:394
+- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:395
 - [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:160
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:454
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:455
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:190
-- [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:468
-- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5571
+- [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:469
+- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5573
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. :star:192
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments. :star:59
 
@@ -48,7 +48,7 @@ Software, libraries and frameworks for development purposes.
 
 ### C++
 
-- [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions. :star:104
+- [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions. :star:105
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging. :star:161
@@ -88,7 +88,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Serchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
-- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields. :star:77
+- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields. :star:78
 
 ## Contribute
 

@@ -67,7 +67,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-  * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:709
+  * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform. :star:711
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
@@ -80,7 +80,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
-  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:216
+  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:217
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
@@ -106,7 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Libraries
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
-  * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity :star:289
+  * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity :star:290
   * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR. :star:254
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR. :star:128
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers. :star:543
@@ -137,7 +137,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Hardware
   * [echOpen](http://echopen.org/) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer. :star:9
-  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:326
+  * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG. :star:327
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
 
@@ -153,10 +153,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
-  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:146
+  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:147
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2513
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2517
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:7

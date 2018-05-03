@@ -61,7 +61,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub monospace font toggle](https://greasyfork.org/en/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 * [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
 * [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
-* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub. :star:19
+* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub. :star:20
 * [GitHub Make Tooltips](https://greasyfork.org/en/scripts/22194) - Convert all titles into GitHub tooltips.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
@@ -105,7 +105,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
-* [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles. :star:238
+* [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles. :star:239
 
 
 

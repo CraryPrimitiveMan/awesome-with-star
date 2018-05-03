@@ -53,7 +53,7 @@
 
 ### Mobile Apps
 
-- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1868
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1870
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
@@ -105,7 +105,7 @@
 ### Ad Blockers
 
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12305
+- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12324
 
 **Note**: Avoid Adblock Plus because coprorations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 
@@ -113,6 +113,7 @@
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
 - [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism) - Overview of the sociopolitical ideology that opposes consumerism.
+- [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.

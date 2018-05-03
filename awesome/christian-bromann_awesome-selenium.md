@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Javascript
 
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
-- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1288
+- [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client. :star:1289
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -42,14 +42,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
-- [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework. :star:1608
+- [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework. :star:1609
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
 - [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely. :star:543
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 - [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
 #### PHP
-- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2291
+- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver. :star:2294
 - [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server. :star:25
 - [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit. :star:150
 
@@ -74,7 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### C#
 
 - [Selenium with C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bindings
-- [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver. :star:118
+- [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver. :star:117
 - [Strontium](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server :star:8
 
 #### Groovy
@@ -83,18 +83,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS Regression Testing
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS. :star:4695
-- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being). :star:577
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS. :star:4697
+- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being). :star:578
 
 ### Containers
 
 #### Docker
 
-- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. :star:902
-- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:124
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2322
-- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:564
-- [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:870
+- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. :star:903
+- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters. :star:125
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox. :star:2325
+- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers. :star:566
+- [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure :star:873
 - [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support. :star:3
 
 ### Driver
@@ -102,7 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Desktop (browsers)
 
 - [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-- [Geckodriver](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3 :star:1810
+- [Geckodriver](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3 :star:1818
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -119,18 +119,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Desktop GUI Automation (non-browser-centric)
 
 - [WinAppDriver](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation. :star:559
-- [Winium](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps. :star:166
+- [Winium](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps. :star:167
 - [QtWebDriver](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications. :star:93
 - [AutoItDriverServer](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API. :star:22
-- [AutoPyDriverServer](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API. :star:5
+- [AutoPyDriverServer](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API. :star:6
 - [Appium for Mac](https://appium.io/docs/en/drivers/mac/) - Appium/WebDriver implementation for automating Mac OS X desktop.
 - [SilkAppDriver](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API. :star:3
 
 ### Desktop Tools
 
-- [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates. :star:173
+- [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates. :star:174
 - [SWET](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality. :star:5
-- [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator. :star:42
+- [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator. :star:43
 - [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - A Firebug/FirePath/Firefinder and Selenium IDE alternative for browser element inspection from the creators of Ranorex.
 - [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 - [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
@@ -149,12 +149,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Device Farms
 
-- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:7193
+- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS. :star:7198
 
 ### Web Scraping / Mining
 
 - [Scrapy](http://scrapy.org) - **Python**, mainly a scraper/miner - fast, well documented and, can be linked with [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) for nice mining deployments, or [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) for PaaS (server-less) deployment, works in terminal or an server stand-alone proces, can be used with **Celery**, built on top of **Twisted**.
-- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery. :star:3691
+- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery. :star:3698
 
 ### Specifications
 
