@@ -157,7 +157,7 @@
 ## Libraries Audio
 
 - [web-audio-analyser](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return. :star:171
-- [web-audio-player](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player. :star:170
+- [web-audio-player](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player. :star:171
 - [web-media-playback](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser. :star:6
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
 - [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery. :star:438
@@ -170,7 +170,7 @@
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data. :star:24
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:111
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:485
+- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:486
 
 ## Libraries Visualization
 

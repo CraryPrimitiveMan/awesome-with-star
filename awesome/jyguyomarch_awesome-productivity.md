@@ -53,8 +53,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
+- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
+
 
 ### Task Management
 
@@ -79,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1774
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits. :star:1777
 
 ### Task Automation
 

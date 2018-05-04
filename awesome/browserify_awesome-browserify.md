@@ -104,9 +104,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:301
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:302
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:54
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:556
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:557
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools

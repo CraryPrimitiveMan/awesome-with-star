@@ -15,7 +15,7 @@
 
 ## Preludes
 
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:60
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:62
 - [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
 - [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:27
 
@@ -30,8 +30,8 @@ React-based:
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:305
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:260
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
-- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:46
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:493
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:47
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:494
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:66
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:31
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:75
@@ -40,7 +40,7 @@ React-based:
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:740
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:741
 
 Signals/Behaviors/FRP:
 

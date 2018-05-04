@@ -40,7 +40,7 @@
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:17
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:154
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux. :star:182
-- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:447
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app. :star:448
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp. :star:54
 - [grunt-ava](https://github.com/avajs/grunt-ava) - Run tests with Grunt. :star:7
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly. :star:12
@@ -57,7 +57,7 @@
 ## Works with AVA
 
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
-- [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js. :star:74
+- [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js. :star:75
 - [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
 - [pify](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
 - [p-event](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)

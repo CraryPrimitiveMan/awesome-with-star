@@ -110,7 +110,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### SEO
 - [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:371
-- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:112
+- [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:113
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:168
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) - Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search,powerful,so that you don't lose SEO value when rebuilding & restructuring a website.
@@ -122,13 +122,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### Field Types
-- [Button Box](https://github.com/supercool/buttonbox) - Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers). :star:82
+- [Button Box](https://github.com/supercool/buttonbox) - Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers). :star:83
 - [Color Swatches](https://github.com/vigetlabs/craft-color-swatches) - Choose a color from a selection of admin defined colors. :star:27
 - [Doxter](https://github.com/selvinortiz/craft.doxter) - Markdown editor and parser. :star:81
 - [Hue](https://github.com/TopShelfCraft/Hue) - Slightly better color picker. :star:35
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) - Simple plugin for populating fields with dynamic data. :star:124
 - [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin for Craft CMS. :star:161
-- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:302
+- [Neo](https://github.com/benjamminf/craft-neo) - Matrix-like field type that uses existing fields. :star:303
 - [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations. :star:89
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts. :star:243
@@ -144,7 +144,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Control Panel
 - [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft. :star:78
 - [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft. :star:106
-- [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:124
+- [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation. :star:125
 - [Content Stats](https://github.com/wbrowar/contentstats) - Dashboard widget to see how many entries have been created for channels and structures. :star:32
 - [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link. :star:40
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type. :star:46

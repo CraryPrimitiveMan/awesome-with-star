@@ -69,7 +69,7 @@
 
 ## CCU Addons
 
-* [Ccu-addon-node-red](https://github.com/hobbyquaker/ccu-addon-node-red) - Node-RED for the Homematic CCU3 and Raspberrymatic. :star:2
+* [Ccu-addon-node-red](https://github.com/hobbyquaker/ccu-addon-node-red) - Node-RED for the Homematic CCU3 and Raspberrymatic. :star:3
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts. :star:8
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails. :star:15

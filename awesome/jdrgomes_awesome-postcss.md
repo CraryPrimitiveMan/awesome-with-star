@@ -1,8 +1,8 @@
 # Information comes from [jdrgomes/awesome-postcss](https://github.com/jdrgomes/awesome-postcss)
-![Awesome PostCSS](media/awesome-postcss.png)
+# Awesome PostCSS
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
+[![Build Status](https://api.travis-ci.org/jdrgomes/awesome-postcss.svg?branch=master)](https://travis-ci.org/jdrgomes/awesome-postcss)
 
 > An selected list of PostCSS resources and other things related.
 
@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18338
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18344
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -74,7 +74,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets :star:1
 ](https://github.com/dp-lewis/postcss-australian-stylesheets).
 - [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Plugin for rucksack - a little bag of css superpowers. :star:8
-- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem). :star:10
+- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem). :star:9
 - [gulp-html-postcss](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin. :star:4
 
 ## Guides
@@ -108,11 +108,11 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss by [@azat-io](https://github.com/azat-io). :star:56
 - [poststylus](https://github.com/seaneking/poststylus) - Postcss adapter for stylus by [@seaneking](https://github.com/seaneking). :star:256
 - [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io). :star:102
-- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal). :star:341
-- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:767
-- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1835
-- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn). :star:111
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:430
+- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal). :star:342
+- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:768
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1836
+- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn). :star:118
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:432
 - [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss). :star:72
 - [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000). :star:25
 
