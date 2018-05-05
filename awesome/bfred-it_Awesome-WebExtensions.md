@@ -67,7 +67,7 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator. :star:7
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:28
-- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:995
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:996
 
 ## Sample Extensions
 
@@ -75,8 +75,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:326
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:186
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:4860
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1200
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:4883
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1203
 
 ## License
 

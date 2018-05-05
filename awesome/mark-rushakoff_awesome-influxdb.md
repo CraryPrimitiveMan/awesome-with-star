@@ -20,7 +20,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 
 * [C#](https://github.com/influxdata/influxdb-csharp) - A .NET library for efficiently sending points to InfluxDB :star:89
 * [Go](https://github.com/influxdata/influxdb/tree/master/client) - Go client for InfluxDB, contained as package within main InfluxDB repo
-* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB :star:472
+* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB :star:471
 * [PHP](https://github.com/influxdata/influxdb-php) - PHP client for InfluxDB :star:198
 * [Python](https://github.com/influxdata/influxdb-python) - Python client for InfluxDB :star:771
 * [Rails](https://github.com/influxdata/influxdb-rails) - Ruby on Rails bindings to automatically write metrics into InfluxDB :star:94
@@ -39,9 +39,9 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB :star:44
 * [InfluxDB.NET](https://github.com/ziyasal/InfluxDB.Net) - .NET client for InfluxDB :star:111
 * [InfluxDB PHP SDK](https://github.com/corley/influxdb-php-sdk) - UDP/IP or HTTP adapters for read and write data :star:81
-* [influxdbr](https://github.com/dleutnant/influxdbr) - R library for InfluxDB :star:43
+* [influxdbr](https://github.com/dleutnant/influxdbr) - R library for InfluxDB :star:44
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir :star:116
-* [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client :star:540
+* [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client :star:541
 * [node-influx-udp](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface :star:14
 * [scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala :star:76
 
@@ -64,7 +64,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [Influxdb-Powershell](https://github.com/vsavornin/Influxdb-Powershell) - Powershell script to send Windows Performance counters to an InfluxDB Server :star:3
 * [influxdb-logger](https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger) - SmartApp to log [SmartThings](https://www.smartthings.com/) device attributes to an InfluxDB database
 * [influxdb-sqlserver](https://github.com/zensqlmonitor/influxdb-sqlserver) - Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana :star:40
-* [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript :star:3700
+* [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript :star:3703
 * [marathon-event-metrics](https://github.com/Wikia/marathon-event-metrics) - a tool for reporting [Marathon](https://mesosphere.github.io/marathon/) events to InfluxDB :star:1
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB :star:15
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder :star:45
@@ -73,7 +73,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - Periodically send system information into influxdb (uses python3 + psutil, so it also works under Windows)
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB :star:93
 * [snmpcollector](https://github.com/toni-moreno/snmpcollector) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB :star:85
-* [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB :star:4822
+* [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB :star:4824
 * [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 * [traffic_stats](http://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) - Acquires and stores statistics about CDNs controlled by [Apache Traffic Control](https://trafficcontrol.apache.org/)
 * [vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB :star:124
@@ -82,16 +82,16 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
-* [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers :star:7336
+* [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers :star:7339
 * [Centreon](https://github.com/centreon/centreon) - A network, system, applicative supervision and monitoring tool  :star:207
 * [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server :star:222
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB :star:6
 * [Domoticz](https://www.domoticz.com) - Open source Home Automation System
-* [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool :star:3598
-* [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system :star:9809
+* [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool :star:3600
+* [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system :star:9816
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB :star:275
-* [heapster](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster :star:2056
+* [heapster](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster :star:2062
 * [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool :star:3327
 * [internet_data_usage](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo :star:2
 * [iobroker] (http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
@@ -100,9 +100,9 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [logary](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net :star:336
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts :star:61
 * [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
-* [Riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure :star:3562
+* [Riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure :star:3563
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD :star:266
-* [statsite](https://github.com/statsite/statsite) - C implementation of statsd :star:1618
+* [statsite](https://github.com/statsite/statsite) - C implementation of statsd :star:1619
 
 ### Libraries
 
@@ -111,8 +111,8 @@ Libraries to collect data and feed into InfluxDB.
 * [crow-metrics](https://github.com/robey/crow-metrics) - small metrics collector for node servers :star:18
 * [django-influxdb-metrics](https://github.com/bitlabstudio/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB :star:62
 * [go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf :star:161
-* [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB :star:6
-* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in" :star:240
+* [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB :star:7
+* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in" :star:241
 * [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](https://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB :star:3
 * [telemetry](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications :star:76
 
@@ -121,7 +121,7 @@ Libraries to collect data and feed into InfluxDB.
 Hooks for other logging libraries to output to InfluxDB.
 
 * [go-metrics-influxdb](https://github.com/vrischmann/go-metrics-influxdb) - A reporter for the [go-metrics library](https://github.com/rcrowley/go-metrics) which will post the metrics to InfluxDB :star:39
-* [logrus_influxdb](https://github.com/Abramovic/logrus_influxdb) - InfluxDB Hook for [Logrus](https://github.com/Sirupsen/logrus) :star:7286
+* [logrus_influxdb](https://github.com/Abramovic/logrus_influxdb) - InfluxDB Hook for [Logrus](https://github.com/Sirupsen/logrus) :star:7298
 
 ### Plugins
 
@@ -150,10 +150,10 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [Chronograf](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool :star:611
-* [facette](https://github.com/facette/facette) - Time series data visualization and graphing software :star:985
+* [Chronograf](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool :star:612
+* [facette](https://github.com/facette/facette) - Time series data visualization and graphing software :star:984
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard :star:25
-* [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB :star:21476
+* [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB :star:21491
 * [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - Graphite InfluxDB storage finder for Graphite-API :star:64
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB :star:150
 * [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
@@ -193,16 +193,16 @@ Projects that don't seem to fit in any other category.
 
 ### Awesome lists that include links to InfluxDB
 
-* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) :star:6074
-* [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) :star:594
-* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) :star:1447
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) :star:6077
+* [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) :star:597
+* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) :star:1448
 * [awesome-db](https://github.com/numetriclabz/awesome-db) :star:597
-* [awesome-go](https://github.com/avelino/awesome-go) :star:30380
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) :star:17071
+* [awesome-go](https://github.com/avelino/awesome-go) :star:30409
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) :star:17075
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome](https://github.com/sindresorhus/awesome) :star:84189
+* [awesome](https://github.com/sindresorhus/awesome) :star:84245
 * [lists](https://github.com/jnv/lists) :star:4945
 
 ## License

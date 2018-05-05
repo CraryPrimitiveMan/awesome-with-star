@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11944
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11945
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4234
-- [Repo](https://github.com/substack/node-browserify) :star:11944
+- [Repo](https://github.com/substack/node-browserify) :star:11945
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1732
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1733
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:775
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:238
 

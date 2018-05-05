@@ -16,12 +16,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:462
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:464
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2881
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3394
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2883
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3401
 
 ## Plugins
 
@@ -37,5 +37,5 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:50
 * [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:244
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:495
+* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:498
 

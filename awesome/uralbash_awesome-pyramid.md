@@ -114,7 +114,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) -
   That will make it simpler to have a secure authentication policy with an easy
   to use backend.
-* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:45
+* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package :star:46
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
@@ -195,7 +195,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:294
   library.
-* [colander](https://github.com/Pylons/colander) - A :star:323
+* [colander](https://github.com/Pylons/colander) - A :star:324
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:794
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2491
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2492
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 

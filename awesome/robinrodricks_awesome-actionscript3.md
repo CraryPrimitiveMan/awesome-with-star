@@ -140,7 +140,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## User Interface
 #### UI Components
 
-* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:640
+* [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash. :star:641
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR. :star:43
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework. :star:7
@@ -336,7 +336,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### CSS
 
 * [AS3csslib](https://github.com/heyfrench/as3csslib) - CSS3 parser, selector and style engine for ActionScript 3.0. :star:1
-* [Fcss](https://github.com/theflashbum/fcss) - Flash Cascading StyleSheet Library. :star:87
+* [Fcss](https://github.com/theflashbum/fcss) - Flash Cascading StyleSheet Library. :star:86
 * [Stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  Skinnable user interfaces using CSS3. :star:43
 * [Sass4as](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3. :star:4
 * [Jakute-CSS](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash. :star:10
