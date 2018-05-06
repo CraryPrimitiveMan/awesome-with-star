@@ -8,7 +8,7 @@
 
 **PostCSS** is not a preprocessor; it doesn’t transform CSS. As a matter of fact, it doesn’t do much by itself at all. What it does is provide a CSS parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed CSS. PostCSS parses CSS into an _abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)_, passes it through a series of plugins, and then concatenates back into a string.
 
-Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
 ## Contents
 
@@ -23,7 +23,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18355
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository. :star:18363
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -37,9 +37,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - [	206 JavaScript Jabber | PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) - *English*
 - [Issue 24 radiojs | The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
-- [Issue №9 Web standards-ru](https://soundcloud.com/web-standards/episode-9) - *Russian*
 - [Podfanatic | Sam Richard — Sass, Front-end Development](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) - *English*
-- [Viewsources Podcast | post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/) - *English*
 
 ## Articles
 
@@ -47,8 +45,8 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Breaking up with Sass - PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
 - [Extending Sass with PostCSS](https://ashleynolan.co.uk/blog/extend-sass-with-postcss)
 - [How to Build Your Own CSS Preprocessor With PostCSS](https://www.sitepoint.com/build-css-preprocessor-postcss/)
-- [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
-- [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
+- [It's Time for Everyone to Learn About PostCSS](https://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
+- [I'm Excited About PostCSS](https://davidtheclark.com/excited-about-postcss/)
 - [Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
 - [Meet PostCSS - Future of CSS after preprocessors](http://www.meetpostcss.com/)
 - [Musings from Someone Discovering PostCSS](https://taupecat.com/blog/2016/04/28/musings-from-someone-discovering-postcss/)
@@ -69,7 +67,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ###### Gulp
 
-- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:609
+- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer. :star:610
 - [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse. :star:584
 - [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets :star:1
 ](https://github.com/dp-lewis/postcss-australian-stylesheets).
@@ -110,7 +108,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io). :star:102
 - [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal). :star:342
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal). :star:770
-- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1838
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss). :star:1852
 - [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn). :star:119
 - [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth). :star:432
 - [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss). :star:72
@@ -143,5 +141,5 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jader Gomes](https://github.com/jjaderg) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jader Gomes](https://github.com/jdrgomes) has waived all copyright and related or neighboring rights to this work.
 

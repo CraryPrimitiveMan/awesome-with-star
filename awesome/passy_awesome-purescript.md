@@ -5,13 +5,13 @@
 
 ## Build Tooling
 
-- [pulp](https://github.com/bodil/pulp) :star:391
+- [pulp](https://github.com/bodil/pulp) :star:392
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:41
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
-- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:121
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:122
 
 ## Preludes
 
@@ -49,8 +49,8 @@ Signals/Behaviors/FRP:
 - [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:23
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:30
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:46
-- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:121
-- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:62
+- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:123
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:63
 
 ## URL Routers
 
@@ -78,7 +78,7 @@ Signals/Behaviors/FRP:
 ## Testing
 
 - [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:53
-- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:52
+- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:53
 - [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes. :star:8
 - [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript. :star:18
 

@@ -21,7 +21,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:24921
+* [GitHub](https://github.com/zeit/next.js) :star:24935
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -64,12 +64,12 @@
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:745
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support. :star:17
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:333
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:336
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag :star:6
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:22
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:628
+* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:630
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:19
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:23
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:271

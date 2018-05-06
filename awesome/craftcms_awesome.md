@@ -109,7 +109,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:371
+- [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS that is comprehensive,Structured Data,and Social Sharing. :star:372
 - [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS. :star:114
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) - Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) - Intelligently redirect legacy URLs,and flexible. :star:168
@@ -169,7 +169,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Forms
 - [amforms](https://github.com/am-impact/amforms) - Forms in Craft, made easy. :star:125
 - [Contact Form](https://github.com/craftcms/contact-form/tree/v1) - Add a simple contact form to your site. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) - Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them. :star:119
+- [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) - Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them.
 - [Formerly](https://github.com/xodigital/Formerly) - Create custom forms. :star:59
 - [Freeform](https://solspace.com/craft/freeform) - Gives you full control to create simple or complex multi-page forms, and has options for many different API integrations.
 - [Simple Mailer](https://github.com/tjdraper/simple-mailer-craft) - Easily create and submit forms using Craft’s native email setup. :star:15
@@ -199,7 +199,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Embedly](https://superbig.co/plugins/embedly) - Use Embed.ly to fetch information and embed content from 250+ services.
 - [Facebook](https://dukt.net/facebook) - Facebook Insights widget for the dashboard.
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
-- [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce. :star:110
+- [Instant Analytics](https://github.com/nystudio107/instantanalytics) - Brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.
 - [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists. :star:100
 - [Pushover](https://superbig.co/plugins/pushover) - Send messages to Pushover.
 - [ShareCount](https://superbig.co/plugins/sharedcount) - Use SharedCount.com to fetch statistics about shares/likes from multiple services in one call.

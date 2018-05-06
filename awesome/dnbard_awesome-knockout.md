@@ -3,14 +3,14 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8853
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:8854
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1076
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:99
 
 ## Integrations
 - Jquery[UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
-- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:282
+- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:281
 - [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers :star:240
 - [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC :star:206
 - [Rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails :star:106

@@ -73,7 +73,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1891
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:872
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:873
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:9
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:24

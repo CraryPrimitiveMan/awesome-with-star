@@ -16,12 +16,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:464
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:465
 
 ## Plugin Managers & Frameworks
 
 * [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2883
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3401
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3402
 
 ## Plugins
 

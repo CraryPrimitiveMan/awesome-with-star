@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18633
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21353
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:18635
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21355
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -208,7 +208,7 @@ Additional lists you might find useful:
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:75
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
 - [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:574
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:905
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:907
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:54
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.

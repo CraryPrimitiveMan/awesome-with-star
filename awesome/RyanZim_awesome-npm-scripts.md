@@ -60,35 +60,35 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6766
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:2098
+- [http-server](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server. :star:6770
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability. :star:2101
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2414
-- [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:87
-- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1747
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`. :star:2415
+- [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion. :star:88
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`. :star:1746
 - [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs :star:54
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming. :star:74
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory. :star:89
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode. :star:25
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support. :star:3
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal. :star:33
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2480
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style. :star:2483
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts. :star:4
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`. :star:17
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`. :star:108
 
 ### Utility Packs
 
-- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:471
+- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`. :star:472
 
 ## Other Utilities
 
 - [hashmark](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name. :star:183
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin. :star:96
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin. :star:97
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application. :star:153
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line :star:3
@@ -97,7 +97,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 ## Miscellaneous
 
 - [screwy](https://github.com/samueleaton/screwy) - The npm scripts GUI. :star:95
-- [Forrest](https://github.com/stefanjudis/forrest) - npm scripts desktop client. :star:264
+- [Forrest](https://github.com/stefanjudis/forrest) - npm scripts desktop client. :star:263
 - [run-npm](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts. :star:164
 - [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name. :star:68
 - [edit-script](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping. :star:5

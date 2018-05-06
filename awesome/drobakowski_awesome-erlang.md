@@ -67,7 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:244
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1717
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4924
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4926
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1600
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1098
@@ -106,7 +106,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:834
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:835
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
@@ -156,7 +156,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1035
+* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1036
 
 ## Date and Time
 *Libraries for working with dates and times.*

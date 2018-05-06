@@ -182,7 +182,7 @@
 
 ## Other
 * [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:305
-* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:490
+* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:491
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:148
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29
 * [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.

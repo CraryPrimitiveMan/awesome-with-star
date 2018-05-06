@@ -118,7 +118,7 @@ Often there is no clear differentiation between social media management and anal
 
 ## Analytics dashboards
 
-* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:5159
+* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:5161
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
 

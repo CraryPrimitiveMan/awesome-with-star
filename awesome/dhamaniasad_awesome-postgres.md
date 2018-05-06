@@ -31,7 +31,7 @@
 - [Videos](#videos)
 
 ### High-Availability
-* [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL :star:257
+* [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL :star:258
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd. :star:1629
 * [Stolon](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration. :star:1373
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon. :star:83
@@ -46,8 +46,8 @@
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](http://pgbackrest.org/) - Reliable PostgreSQL Backup & Restore.
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script 
-* [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift). :star:434
-* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku. :star:2541
+* [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift). :star:435
+* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku. :star:2542
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
 ### GUI
@@ -63,9 +63,9 @@ For Database Management
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
-* [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go. :star:5007
+* [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go. :star:5008
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL. :star:274
-* [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS. :star:299
+* [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS. :star:298
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
@@ -86,7 +86,7 @@ For Database Management
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
-* [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads. :star:2684
+* [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads. :star:2688
 * [PipelineDB](https://www.pipelinedb.com/) - Open source streaming SQL database, fork of postgres
 
 ### Monitoring
@@ -112,14 +112,14 @@ For Database Management
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code. :star:107
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side. :star:19
-* [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch. :star:1411
-* [pgMemento](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL. :star:136
+* [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch. :star:1412
+* [pgMemento](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL. :star:137
 * [Timescale](https://www.timescale.com/) - Open-source time-series database fully compatible with Postgres, distributed as extension
 * [pgTAP](http://pgtap.org/) - Database testing framework for Postgres
 * [HypoPG](https://github.com/dalibo/hypopg) - HypoPG provides hypothetical/virtual indexes feature. :star:2
 
 ### Optimization
-* [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy. :star:3828
+* [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy. :star:3829
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard. :star:417
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune). :star:52
@@ -128,14 +128,14 @@ For Database Management
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases. :star:404
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases. :star:405
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP. :star:72
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script. :star:982
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/julmon/pg_activity) - top like application for PostgreSQL server activity monitoring. :star:695
 * [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js). :star:10
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
-* [pgbadger](https://github.com/dalibo/pgbadger) - Fast PostgreSQL Log Analyzer. :star:1287
+* [pgbadger](https://github.com/dalibo/pgbadger) - Fast PostgreSQL Log Analyzer. :star:1288
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends. :star:517
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats. :star:267
@@ -146,9 +146,9 @@ For Database Management
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine. :star:489
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network :star:40
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database. :star:443
-* [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. :star:10697
+* [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. :star:10701
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
-* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema. :star:5245
+* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema. :star:5248
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery. :star:1368
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`. :star:12
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression :star:282

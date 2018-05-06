@@ -374,7 +374,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1744
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:20
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1215
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2933
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2939
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:413
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:172
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:114
@@ -382,7 +382,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:446
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:294
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:317
 
 ### License
 

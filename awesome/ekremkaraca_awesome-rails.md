@@ -38,7 +38,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:39534
+- [Rails Source Code](https://github.com/rails/rails) :star:39543
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 ### External Resources
@@ -73,11 +73,11 @@
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election :star:34
 - [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere   :star:118
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
-- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1400
-- [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:356
+- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1401
+- [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:357
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [Live](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc   :star:2432
+- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc   :star:2433
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [Live](https://catarse.me/)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [Live](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
@@ -100,7 +100,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:86
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20675
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) - :star:20680
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
@@ -112,7 +112,7 @@
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails :star:41
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
-- [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  :star:708
+- [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  :star:707
 - [leihs](https://github.com/leihs/leihs) - An easy inventory handling system   :star:63
 - [listenup](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com)
 - [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site   :star:1667
@@ -150,11 +150,11 @@
 - [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails :star:298
 - [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:216
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support. :star:218
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
-- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses   :star:124
+- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses   :star:125
 - [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [Live](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved   :star:485
 
@@ -221,7 +221,7 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4945
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1028
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:4947
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1029
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2427
 

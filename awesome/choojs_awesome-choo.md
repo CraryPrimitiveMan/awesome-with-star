@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:222
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5326
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5328
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -38,7 +38,7 @@ under the hood:
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:120
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:24
-- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:30
+- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:31
 - [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:27
 
 ### Demos
