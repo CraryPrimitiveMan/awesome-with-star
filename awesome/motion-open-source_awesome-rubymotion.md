@@ -158,7 +158,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Apple API Wrappers
 * [Motion.h](https://github.com/kastiglione/motion.h) - Expose iOS and macOS system libraries in RubyMotion. :star:57
-* [MapKitWrapper](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion. :star:46
+* [MapKitWrapper](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion. :star:45
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic. :star:21
 * [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver. :star:42
 * [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions. :star:18

@@ -73,7 +73,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ## Repos, CodePens and Things
 
 ### Repos
-- [BEM Constructor](https://github.com/danielguillan/bem-constructor) :star:448
+- [BEM Constructor](https://github.com/danielguillan/bem-constructor) :star:450
 - [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu) :star:115
 - [BEM Grid](https://github.com/bem-incubator/bem-grid) :star:133
 - [Flexible Grid System with BEM](https://github.com/flexiblegs/flexiblegs-bem) :star:13
@@ -91,5 +91,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 
 ### Other Awesome Lists
-- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:84275
+- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome) :star:84527
 

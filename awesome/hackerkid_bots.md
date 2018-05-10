@@ -39,7 +39,7 @@ Table of Contents
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
-* [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
+* [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
 * [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required.
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
@@ -49,7 +49,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5854
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5880
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
@@ -69,56 +69,56 @@ Table of Contents
 
 ### General
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js. :star:143
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:8099
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1393
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:8112
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1396
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
-* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2257
+* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2263
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go](https://github.com/paked/messenger) :star:239
 
 ### Slack
-* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1678
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk) :star:1683
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
-* [Python (Official)](https://github.com/slackhq/python-slackclient) :star:1369
+* [Python (Official)](https://github.com/slackhq/python-slackclient) :star:1378
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) :star:160
 
 ### Telegram
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2657
-* [Node.js](https://github.com/telegraf/telegraf) :star:1158
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2671
+* [Node.js](https://github.com/telegraf/telegraf) :star:1168
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1070
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4820
-* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:734
-* [Go](https://github.com/tucnak/telebot) :star:626
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1073
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4859
+* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:739
+* [Go](https://github.com/tucnak/telebot) :star:629
 
 ### Discord
 ###### Node.js
 * [Eris](https://github.com/abalabahaha/eris) :star:373
-* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2407
-* [Discordie](https://github.com/qeled/discordie) :star:182
-* [Discord.io](https://github.com/izy521/discord.io) :star:432
+* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2425
+* [Discordie](https://github.com/qeled/discordie) :star:183
+* [Discord.io](https://github.com/izy521/discord.io) :star:433
 
 ###### C#
-* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:738
+* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:742
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:218
 
 ###### Python
-* [discord.py](https://github.com/Rapptz/discord.py) :star:2130
+* [discord.py](https://github.com/Rapptz/discord.py) :star:2148
 
 ###### Java
 * [JDA](https://github.com/DV8FromTheWorld/JDA/)
 
 ###### Rust
-* [Serenity](https://github.com/zeyla/serenity) :star:250
+* [Serenity](https://github.com/zeyla/serenity) :star:252
 
 ###### Lua
 * [Discordia](https://github.com/SinisterRectus/Discordia) :star:142
 
 ###### Go
-* [Discordgo](https://github.com/bwmarrin/discordgo) :star:565
+* [Discordgo](https://github.com/bwmarrin/discordgo) :star:567
 
 ### Kik
 * [Python](https://github.com/kikinteractive/kik-python) :star:40

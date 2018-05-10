@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27147
+- [Github repository](https://github.com/jashkenas/backbone) :star:27157
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -120,16 +120,16 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2396
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2395
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2230
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1965
-- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1694
-- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1464
-- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1379
-- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:915
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1964
+- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1693
+- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1463
+- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1378
+- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:914
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:827
-- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:596
+- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:595
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:506
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:492
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503

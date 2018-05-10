@@ -50,13 +50,13 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13717
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1219
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4586
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13754
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1220
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4591
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:387
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:385
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap` :star:87
 
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4690
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4704
 
 [More...](https://testanything.org/producers.html)
 
@@ -105,7 +105,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:122
+- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:124
 
 
 ## Documentation

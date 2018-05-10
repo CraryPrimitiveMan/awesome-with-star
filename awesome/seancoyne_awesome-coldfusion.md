@@ -29,7 +29,7 @@ Pull requests very welcome.
 
 ## Application Frameworks
 
-* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:181
+* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:182
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:360
@@ -119,7 +119,7 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
-* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:18
+* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:19
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation

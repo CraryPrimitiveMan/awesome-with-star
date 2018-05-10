@@ -31,7 +31,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable/labels/beginner) _(label: beginner)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## Dart
 
@@ -75,7 +75,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
-- [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [Webpack](https://github.com/webpack/webpack/labels/D0%3A%20My%20First%20Commit%20%28Contrib.%20Difficulty%29) _(label: D0: My First Commit (Contrib. Difficulty))_ <br> A bundler for javascript and friends.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
@@ -104,6 +104,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source screen recorder built with web technology
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted) _(label: help wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
 - [Brave Browser](https://github.com/brave/browser-laptop/labels/bug%2Fgood-first-bug) _(label: bug/good-first-bug)_ <br> Desktop browser for macOS, Windows, and Linux.
+- [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
+- [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
+- [Jest](https://github.com/facebook/jest/labels/Good%20First%20Issue%20%3Awave%3A) _(label: good first issue 👋)_ <br> A complete and easy to set up JavaScript testing solution.
 
 ## Julia
 
@@ -114,7 +117,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
-- [Piwik](https://github.com/piwik/piwik/labels/Easy%20pick) _(label: Easy Pick)_ <br> Piwik is the leading Free/Libre open analytics platform.
+- [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted) _(label: help wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 
@@ -125,7 +128,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [pylearn2](https://github.com/lisa-lab/pylearn2/labels/For%20beginners) _(label: For beginners)_ <br> A Machine Learning library based on Theano.
-- [scrapy](https://github.com/scrapy/scrapy/labels/easy) _(label: easy)_ <br>A fast high-level web crawling & scraping framework for Python.
+- [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue) _(label: good first issue)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution) _(label: good first contribution)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.

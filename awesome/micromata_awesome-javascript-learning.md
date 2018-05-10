@@ -1,5 +1,5 @@
 # Information comes from [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)
-# Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
+# Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
 
@@ -8,6 +8,9 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
 ## Contents
+
+<!-- Run `npm run toc` to generate the TOC -->
+<!-- toc -->
 
 - [JavaScript References](#javascript-references)
 - [Articles & Tutorials](#articles--tutorials)
@@ -19,6 +22,8 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [ES6 and above](#es6-and-above)
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
+
+<!-- tocstop -->
 
 ---
 
@@ -98,8 +103,8 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2047
-- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19890
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2050
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:19947
 
 ## DOM related
 
@@ -115,7 +120,9 @@ Thin books which you can get through in a few days.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
 
-## License
+---
+
+### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

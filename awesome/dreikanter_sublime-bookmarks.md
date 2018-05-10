@@ -65,7 +65,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:121
-- [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides. :star:324
+- [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides. :star:326
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
 ### Ruby Profile
@@ -151,6 +151,7 @@ Plugins:
 - [Comfort](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 - [Predawn](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
 - [Ayu](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
+- [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme/) - An easy-on-the-eyes Sublime Text/TextMate color scheme.
 
 Related extensions:
 
@@ -167,7 +168,7 @@ Some of the most popular schemes:
 
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
-- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/). :star:26
+- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/). :star:28
 
 ### Alternative Icons
 
@@ -185,7 +186,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12611
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12638
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
