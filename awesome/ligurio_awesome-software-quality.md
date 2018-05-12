@@ -274,15 +274,15 @@ create a similar list with books, courses and podcasts about software quality.
 * [Advanced Topics in Software Verification](https://www.cse.unsw.edu.au/~cs4161/16s2/)
 * [Theorem Proving - Principles, Techniques, Applications](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
 
-##### TLA+
+##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:268
-
-##### Spin/PVS
-
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
-
+* mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
+* mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
+* mCRL2 [System Validation (3): Requirements by modal formulas](https://www.coursera.org/learn/system-validation-modal-formulas)
+* mCRL2 [System Validation (4): Modelling Software, Protocols, and other behaviour](https://www.coursera.org/learn/system-validation-software-protocols)
 
 ## In Russian
 
@@ -324,10 +324,10 @@ create a similar list with books, courses and podcasts about software quality.
 # Workshops and interactive learning tools
 
 - [Learn TLA](https://learntla.com/introduction/)
-- [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:8
+- [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:10
 - [test-anything](https://github.com/finnp/test-anything) :star:124
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:534
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:535
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,18 +371,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1747
-- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:20
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1226
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2960
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:415
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1749
+- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1235
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2970
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:416
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:172
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:115
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:454
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:456
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:353
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:357
 
 ### License
 

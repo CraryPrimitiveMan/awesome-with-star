@@ -81,8 +81,8 @@
 - [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs. :star:7
 - [PICO-EC](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console. :star:8
 - [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions. :star:15
-- [PICO-TweenMachine](https://github.com/JoebRogers/PICO-Tween) - A small wrapper library for the PICO-8 fantasy console, meant as an extension to the PICO-Tween easing library. :star:15
 - [p8](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/). :star:15
+- [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music. :star:23
 
 ## Text Editors Language Support
 
@@ -127,7 +127,7 @@ How to install the font(s):
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
 - [PicoLove](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE. :star:62
-- [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM. :star:346
+- [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM. :star:349
 - [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support). :star:701
 
 ## I Want to Contribute!

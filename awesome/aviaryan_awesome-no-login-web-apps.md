@@ -250,6 +250,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 * [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
+* [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 
 
 ### Search Engines
@@ -286,6 +287,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
+* [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 
 
 <a name="utilities"></a>

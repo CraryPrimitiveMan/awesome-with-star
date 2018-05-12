@@ -22,7 +22,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:16258
+* [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:16293
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
@@ -35,7 +35,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [How To Query Prometheus on Ubuntu 14.04 Part 1](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-1) - Part 1 of 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Query Prometheus on Ubuntu 14.04 Part 2](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-2) - Part 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-* [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz. :star:55
+* [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz. :star:57
 * [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 * [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 * [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
@@ -87,11 +87,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Exporters
 
-* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:524
+* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:525
 * [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:177
-* [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:29
-* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:290
-* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1525
+* [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:30
+* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:291
+* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:1527
 
 ## Proxies
 

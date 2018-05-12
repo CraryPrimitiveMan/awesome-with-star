@@ -93,13 +93,13 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [Scikit-learn](https://apple.github.io/coremltools/generated/coremltools.converters.sklearn.convert.html)
 * [MXNet](https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/)
 * [LibSVM](https://apple.github.io/coremltools/generated/coremltools.converters.libsvm.convert.html)
-* [Torch7](https://github.com/prisma-ai/torch2coreml) :star:244
+* [Torch7](https://github.com/prisma-ai/torch2coreml) :star:245
 
 # The Gold
 *Collections of machine learning models that could be converted to Core ML*
 
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:34543
+* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:34696
 * [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 

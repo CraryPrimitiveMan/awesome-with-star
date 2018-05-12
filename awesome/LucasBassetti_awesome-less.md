@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15524
+- [Official Repository](https://github.com/less/less.js) :star:15528
 
 **[Back to top](#contents)**
 
@@ -63,7 +63,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:349
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19228
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19234
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3265
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3267
 
 **[Back to top](#contents)**
 
@@ -130,8 +130,8 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lessmore](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more. :star:2
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:10
 - [Oban](http://oban.io/) - 	Collection of mixins.
-- [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1741
-- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4347
+- [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1740
+- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4346
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes. :star:35
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions. :star:2
 
@@ -199,11 +199,11 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - This plugin extends the Eclipse IDE by providing handy features to edit and compile Less stylesheets.
 - [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) - Eclipse plugin to automatically transpile your files (Less, SASS, CoffeeScript, etc.). :star:19
-- [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save. :star:106
+- [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save. :star:105
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt. :star:702
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt. :star:79
 - [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp. :star:553
-- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:945
+- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development. :star:946
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP. :star:27
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
 - [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++. :star:61

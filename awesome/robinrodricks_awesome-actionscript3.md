@@ -165,7 +165,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF). :star:26
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex. :star:9
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
-* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:62
+* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space. :star:63
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library. :star:3
 * [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects. :star:35
 * [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager. :star:15
@@ -174,7 +174,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
-* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:365
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier. :star:14
 
@@ -214,7 +214,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection. :star:34
 * [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications. :star:11
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams. :star:22
-* [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX. :star:14
+* [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX. :star:15
 
 #### Image
 
@@ -232,7 +232,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Font
 
 * [Firetype](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D. :star:106
-* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format. :star:34
+* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format. :star:33
 * [HanFont](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript. :star:13
 * [Ficon.as](https://github.com/dv/Ficon.as) - Library to easily include icon fonts. :star:4
 
@@ -277,10 +277,10 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:273
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:272
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
-* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
+* [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:101
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:63
 * [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:22
@@ -473,9 +473,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sockets
 
-* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:233
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:232
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
-* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:216
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:215
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:35
 * [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:10
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF. :star:2
@@ -522,7 +522,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders. :star:71
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched)). :star:89
-* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1522
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1521
 * [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:48
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more. :star:8
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions. :star:1
@@ -640,7 +640,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android. :star:9
 
 #### Analytics ANE
-* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:5
+* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:6
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS. :star:3
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising. :star:27
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:11

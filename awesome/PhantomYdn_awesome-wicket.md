@@ -47,7 +47,7 @@ List of libraries and components which can be used in your application
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application. :star:7
 - [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library. :star:20
 - [wicket-source](https://github.com/42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source. :star:36
-- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:75
+- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:76
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket. :star:27
 - [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications. :star:58
 
@@ -125,7 +125,7 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
 - [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:161
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1144
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1149
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:85
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

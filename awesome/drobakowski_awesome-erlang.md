@@ -67,9 +67,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:244
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1721
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4935
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4940
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
-* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1601
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1600
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1099
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:557
@@ -116,7 +116,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:441
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:554
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:82
-* [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:180
+* [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:179
 
 ## Deployment
 *Libraries and tools related to deployment of Erlang/OTP applications.*
@@ -189,7 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not. :star:74
-* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang. :star:655
+* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang. :star:658
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json. :star:564
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps. :star:2
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang. :star:15
@@ -214,16 +214,16 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Networking
 *Libraries and tools for using network related stuff.*
 
-* [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang. :star:84
+* [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang.
 * [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:155
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:9
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:36
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:37
-* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:793
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols. :star:794
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
-* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform. :star:3
+* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell. :star:477
-* [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon. :star:193
+* [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon. :star:194
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Erlang development skills and knowledge.

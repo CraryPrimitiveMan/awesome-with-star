@@ -27,20 +27,20 @@ CSS:
 
 React-based:
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:304
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:305
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:261
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:47
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:493
-- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:66
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:494
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:67
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:32
-- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:76
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:77
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:105
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:741
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:744
 
 Signals/Behaviors/FRP:
 
@@ -54,14 +54,14 @@ Signals/Behaviors/FRP:
 
 ## URL Routers
 
-- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:49
+- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:50
 - [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor. :star:13
 - [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:16
 - [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:3
 
 ## Components
 
-- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars. :star:26
+- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars. :star:27
 - [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library :star:5
 - [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen :star:10
 - [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen :star:6

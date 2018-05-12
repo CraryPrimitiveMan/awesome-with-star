@@ -24,15 +24,15 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:18679
+- [Github](https://github.com/developit/preact) :star:18706
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3079
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3344
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3080
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:3356
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:10
-- [Create Preact App](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration. :star:69
+- [Create Preact App](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration. :star:68
 
 ### Boilerplates
 - [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:778
@@ -44,10 +44,10 @@
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel. :star:1
 
 ### Routing
-- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:435
+- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:436
 
 ### Components
-- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:368
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:370
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact. :star:28
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact. :star:37
 - [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
@@ -56,12 +56,12 @@
 - [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - Simple HTML editor component.
 - [Preact Token Input](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags. :star:40
-- [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)). :star:134
+- [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)). :star:135
 - [Preact Cycle](https://git.io/preact-cycle) - Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates). :star:15
 - [Preact Flyd](https://github.com/xialvjun/preact-flyd) - Use [flyd](https://github.com/paldepind/flyd) FRP streams in Preact + JSX. :star:6
-- [Preact I18nline](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline](https://github.com/download/i18nline). :star:22
+- [Preact I18nline](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline](https://github.com/download/i18nline). :star:23
 - [Preact MUI](https://git.io/v1aVO) - The MUI CSS Preact library.
 - [Preact MDL](https://git.io/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
 - [Preact Photon](https://git.io/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
@@ -79,12 +79,12 @@
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact. :star:2
 - [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact. :star:56
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact. :star:9
-- [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change. :star:10
+- [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change. :star:11
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router. :star:101
 - [MU Forms](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for P(r)eact. :star:44
 
 ### Libraries
-- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1555
+- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1554
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm. :star:36
 
 ### Testing Utils
@@ -103,7 +103,7 @@
 - [Authentication with Auth0](https://auth0.com/blog/preact-authentication-tutorial)
 
 ### Example Apps
-- [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA. :star:276
+- [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA. :star:277
 - [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast. :star:56
 - [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats. :star:76
 - [Tracks](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
@@ -112,9 +112,9 @@
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB. :star:12
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:95378
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12560
-- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:4285
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:95529
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:12565
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:4297
 
 ### Tips
 Contribute some ;)

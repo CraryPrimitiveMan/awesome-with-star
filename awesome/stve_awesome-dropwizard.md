@@ -59,7 +59,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd :star:4
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB. :star:21
 * [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service :star:52
-* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:4
+* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:5
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra :star:62
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak :star:1
 * [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:12
@@ -85,7 +85,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Guice
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:246
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:125
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:126
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:18
 
 ### Deployment

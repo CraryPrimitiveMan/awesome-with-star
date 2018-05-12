@@ -52,7 +52,7 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:73
+* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:74
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
 * [Mura](https://github.com/blueriver/MuraCMS) :star:242
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:38
@@ -76,7 +76,7 @@ Pull requests very welcome.
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:80
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
-* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:142
+* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:143
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:50
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library

@@ -47,7 +47,7 @@ Move Validators
 ---
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1265
+ - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication. :star:1266
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation. :star:24
 
@@ -72,7 +72,7 @@ Boards
  - [Chessboard.js](https://github.com/oakmac/chessboardjs/) - chessboard.js is a standalone JavaScript chess board.
  - [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output. :star:16
  - [jchess](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs. :star:83
- - [Chessboard-js](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library. :star:16
+ - [Chessboard-js](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library. :star:17
 
 Board Notations
 ---

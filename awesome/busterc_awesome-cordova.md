@@ -31,8 +31,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:973
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:681
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:976
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:684
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -59,7 +59,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
     * [generator-cordova-www](https://github.com/busterc/generator-cordova-www) :star:1
-    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:695
+    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:694
     * [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova) :star:1
     * [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova) :star:2
     * [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:24
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch) :star:1
 * Logging
-  * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender) :star:1
+  * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender) :star:2
 
 # Other Awesome Lists
 

@@ -58,8 +58,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Projects that can be used to host a CTF*
 
-- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1183
-- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5340
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1186
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5346
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform :star:30
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP :star:256
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework :star:53
@@ -96,19 +96,19 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2469
-- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2 :star:194
+- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2482
+- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2 :star:195
 
 ## Crypto
 
 *Tools used for solving Crypto challenges*
 
-- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool :star:613
+- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool :star:614
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks :star:409
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
-- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack :star:411
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack :star:412
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q :star:235
-- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher :star:549
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher :star:550
 
 ## Bruteforcers
 
@@ -119,7 +119,7 @@ Check solve section for steganography.
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly. :star:29
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
-- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design. :star:1242
+- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design. :star:1248
 
 ## Exploits
 
@@ -128,11 +128,11 @@ Check solve section for steganography.
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes :star:288
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation. :star:237
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
-- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call :star:392
+- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call :star:397
   - `gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3850
-- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser :star:1670
-- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation :star:1426
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3858
+- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser :star:1672
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation :star:1428
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit :star:234
 
 ## Forensics
@@ -147,7 +147,7 @@ Check solve section for steganography.
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 - [Creddump](https://github.com/moyix/creddump) - Dump windows credentials :star:82
-- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems :star:679
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems :star:680
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel :star:410
@@ -160,7 +160,7 @@ Check solve section for steganography.
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files :star:76
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
-- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps :star:2141
+- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps :star:2145
 
 
 *Registry Viewers*
@@ -173,9 +173,9 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Bro](https://www.bro.org/) - An open-source network security monitor.
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:8015
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:8027
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
-- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:309
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:311
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
@@ -187,31 +187,31 @@ Check solve section for steganography.
 *Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications :star:1956
-- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2358
+- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2360
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler :star:493
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework :star:991
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
-- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3377
+- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3382
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C :star:92
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
-- [GEF](https://github.com/hugsy/gef) - GDB plugin :star:1480
+- [GEF](https://github.com/hugsy/gef) - GDB plugin :star:1487
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
-- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:14697
+- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:14720
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler :star:855
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
-- [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax. :star:2615
-- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1233
-- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7320
+- [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax. :star:2616
+- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1243
+- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7331
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
-- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:3024
+- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:3029
 
 *JavaScript Deobfustcators*
 
@@ -219,7 +219,7 @@ Check solve section for steganography.
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
 
 *SWF Analyzers*
-- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler. :star:305
+- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler. :star:304
 - [Swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
 - [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
@@ -253,12 +253,12 @@ Check solve section for steganography.
 *Tools used for solving Web challenges*
 
 - [BurpSuite]() - A graphical tool to testing website security. 
-- [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool. :star:1560
+- [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool. :star:1564
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:11344
-- [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework. :star:1945
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:11360
+- [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework. :star:1952
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
 
@@ -287,7 +287,7 @@ Check solve section for steganography.
 
 *Collections of installer scripts, useful tools*
 
-- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools. :star:2658
+- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools. :star:2664
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration. :star:20
 
 ## Tutorials

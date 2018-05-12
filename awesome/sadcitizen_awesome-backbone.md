@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27157
+- [Github repository](https://github.com/jashkenas/backbone) :star:27163
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -100,7 +100,7 @@
 
 ## Examples and boilerplates
 
-- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:635
+- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:634
 - [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:939
 - [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:475
 - [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:63
@@ -120,12 +120,12 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2395
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2230
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2052
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2394
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2229
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2050
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1964
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1693
-- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1463
+- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1462
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1378
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:914
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:827

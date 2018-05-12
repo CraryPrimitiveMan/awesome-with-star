@@ -24,10 +24,10 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 
 ## [Solidus e-commerce](https://github.com/solidusio/solidus) + Refinery extensions
-* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery :star:7
+* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
 ## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
-* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product :star:1
+* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
 * [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery :star:10
 
 ## Refinery team extensions
