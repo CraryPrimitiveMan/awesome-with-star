@@ -172,13 +172,13 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5904
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5917
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:331
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based). :star:156
+- [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based). :star:157
 - [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats. :star:115
 - [portsnoop](https://github.com/davepacheco/portsnoop) - Trace event port activity. :star:3
 - [storage tools](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats. :star:24

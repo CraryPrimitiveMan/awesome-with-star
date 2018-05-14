@@ -87,7 +87,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 #### Polyfills
 * [Flexibility](https://github.com/10up/flexibility):metal:
-* [Flexie](https://github.com/doctyper/flexie) :star:1125
+* [Flexie](https://github.com/doctyper/flexie) :star:1124
 * [Reflexie](https://github.com/doctyper/reflexie) :star:260
 
 ## Other Interesting Articles
@@ -179,14 +179,14 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
-* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. :star:11377
-* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax. :star:488
+* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android. :star:11389
+* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax. :star:490
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components :star:1286
 * [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox) :star:30
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles. :star:157
-* [Reflexbox](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component. :star:1164
-* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal: :star:11065
+* [Reflexbox](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component. :star:1165
+* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal: :star:11069
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
 * [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.

@@ -72,7 +72,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:366
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1903
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1905
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:874
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:9
@@ -81,7 +81,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
-* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:176
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:177
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:137
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 

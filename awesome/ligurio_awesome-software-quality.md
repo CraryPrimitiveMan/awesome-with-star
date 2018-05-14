@@ -96,7 +96,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:284
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:285
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:197
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
@@ -277,7 +277,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:268
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:270
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -371,18 +371,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1749
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1751
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1235
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2970
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2974
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:416
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:172
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:115
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:456
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:458
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:357
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:362
 
 ### License
 

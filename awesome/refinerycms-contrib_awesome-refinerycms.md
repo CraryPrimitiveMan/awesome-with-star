@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:54
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1404
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1405
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:7
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -24,10 +24,10 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 
 ## [Solidus e-commerce](https://github.com/solidusio/solidus) + Refinery extensions
-* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
+* [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery :star:7
 
 ## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
-* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
+* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product :star:1
 * [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery :star:10
 
 ## Refinery team extensions

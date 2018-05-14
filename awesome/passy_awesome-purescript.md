@@ -15,7 +15,7 @@
 
 ## Preludes
 
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:63
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:64
 - [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
 - [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:27
 
@@ -28,7 +28,7 @@ CSS:
 React-based:
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:305
-- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:261
+- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:262
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:47
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:494
@@ -40,7 +40,7 @@ React-based:
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:744
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:743
 
 Signals/Behaviors/FRP:
 
@@ -77,7 +77,7 @@ Signals/Behaviors/FRP:
 
 ## Testing
 
-- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:53
+- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:54
 - [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:53
 - [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes. :star:8
 - [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript. :star:18

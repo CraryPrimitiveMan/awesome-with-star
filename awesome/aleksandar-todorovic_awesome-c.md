@@ -113,7 +113,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [zlib](http://zlib.net/) - Massively-spiffy yet delicately-unobtrusive compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [bzip2](http://www.bzip.org/) - Patent free, high quality data compressor. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [lz4](https://lz4.github.io/lz4/) - Fast Compression algorithm.
-* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2707
+* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C). :star:2710
 * [zstd](http://facebook.github.io/zstd/) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD_3Clause)
 * [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/index.php) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

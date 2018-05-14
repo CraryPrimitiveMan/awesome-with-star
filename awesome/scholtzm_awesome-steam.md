@@ -38,7 +38,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:878
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:29
-- [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:224
+- [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:223
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:97
 - [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot. :star:36
 
@@ -71,7 +71,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library. :star:28
-- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:219
+- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js. :star:220
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts. :star:16
 
 #### Misc
@@ -106,7 +106,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website. :star:49
 - [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:298
-- [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:20
+- [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:21
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API. :star:63
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP. :star:3
 - [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm. :star:13
@@ -140,7 +140,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### C++
 
-- [SteamPP](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers. :star:59
+- [SteamPP](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers. :star:60
 
 ### Java
 
