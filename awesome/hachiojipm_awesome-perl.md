@@ -497,11 +497,11 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21407
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21409
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) :star:1117
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes) :star:491
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) :star:84769
-* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) :star:1081
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) :star:84853
+* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) :star:1082
 
 # How to contribute?
 

@@ -38,7 +38,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:122
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:124
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
@@ -65,9 +65,9 @@ List of content
 * [Libbitcoin](https://libbitcoin.org/)
 
 # JavaScript Libraries
-* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:32
+* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:33
 * [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:422
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2687
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2691
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:109
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:36
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -77,7 +77,7 @@ List of content
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:35
 
 # Ruby Libraries
-* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:792
+* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:791
 
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:16
@@ -122,7 +122,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9370
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9382
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

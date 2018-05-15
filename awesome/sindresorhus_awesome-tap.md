@@ -24,7 +24,7 @@
 
 ### JavaScript
 
-- [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:25
+- [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:26
 - [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:236
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:118
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
@@ -50,8 +50,8 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13778
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1222
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13784
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1223
 - [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4596
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4707
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4709
 
 [More...](https://testanything.org/producers.html)
 

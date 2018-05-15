@@ -60,7 +60,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
 - [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node :star:3416
-- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7501
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7502
 
 ## virtual machines
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:938

@@ -53,7 +53,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 - [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs. :star:45
 - [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data. :star:108
-- [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank. :star:74
+- [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank. :star:76
 
 ## Social
 
@@ -70,7 +70,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2414
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2415
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

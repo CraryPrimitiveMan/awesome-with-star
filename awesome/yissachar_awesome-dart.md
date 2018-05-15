@@ -38,7 +38,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
 * [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
-* [uix](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React. :star:79
+* [uix](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React. :star:80
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
@@ -46,8 +46,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity. :star:55
-* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:250
-* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:334
+* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:251
+* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:337
 * [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:291
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses. :star:409
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs. :star:103
@@ -89,7 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
-* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:133
+* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:134
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:174
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps. :star:30

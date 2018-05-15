@@ -374,7 +374,7 @@ App project templates
 ### Testing
 * [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:5
 * [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:94
-* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:46
+* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion.
 * [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:30
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework. :star:3
 * [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:37
