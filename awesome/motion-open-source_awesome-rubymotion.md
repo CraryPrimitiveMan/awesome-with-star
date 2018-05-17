@@ -249,7 +249,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Input
 * [MIMInputToolbar](https://github.com/FluffyJack/MIMInputToolbar) - Input accessory view for your UITextFields and UITextViews. :star:9
-* [Motion-Wiretap](https://github.com/colinta/motion-wiretap) - Wrapper for KVO, gestures, UIControl events, and procs. Okay okay it's pretty much ReactiveCocoa in RubyMotion. :star:66
+* [Motion-Wiretap](https://github.com/colinta/motion-wiretap) - Wrapper for KVO, gestures, UIControl events, and procs. Okay okay it's pretty much ReactiveCocoa in RubyMotion. :star:65
 
 
 #### iOS
@@ -365,7 +365,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 App project templates
 
-* [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - Clean RubyMotion project for quickly templating a styled application. :star:65
+* [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - Clean RubyMotion project for quickly templating a styled application. :star:64
 * [Promotion-template](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running. :star:11
 * [Rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion. :star:79
 * [Motion-template-spritekit](https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (iOS/OSX/tvOS). :star:18
@@ -374,7 +374,7 @@ App project templates
 ### Testing
 * [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:5
 * [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:94
-* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion.
+* [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:46
 * [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:30
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework. :star:3
 * [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:37

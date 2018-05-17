@@ -56,7 +56,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Bootstraps and boilerplates
 
-* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:150
+* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:149
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:388
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:181
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:16
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23645
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23659
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:41
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,15 +199,15 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14210
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14235
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:90
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:84855
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1118
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:85016
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1119
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4957
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4959
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:105
-    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:168
+    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:169
 
 [Back to top](#awesome-dojo)
 

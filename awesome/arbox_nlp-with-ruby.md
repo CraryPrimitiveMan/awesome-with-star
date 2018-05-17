@@ -130,7 +130,7 @@ An NLP Pipeline starts with a plain text.
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
 - [wlapi](https://github.com/arbox/wlapi) - Ruby client library for :star:18
   [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/de) web services.
-- [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment :star:69
+- [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment :star:70
   Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
 - [google-cloud-language](https://github.com/GoogleCloudPlatform/google-cloud-ruby/tree/master/google-cloud-language) -
@@ -563,7 +563,7 @@ on the code here.
 
 ## Related Resources
 
-- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) :star:245
+- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) :star:246
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -

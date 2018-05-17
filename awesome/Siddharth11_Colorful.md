@@ -22,9 +22,9 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility. :star:339
-- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6540
-- [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor. :star:765
-- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:595
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6543
+- [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor. :star:767
+- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:596
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors. :star:260
 - [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python :star:309
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
