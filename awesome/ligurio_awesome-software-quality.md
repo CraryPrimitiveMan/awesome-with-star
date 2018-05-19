@@ -327,7 +327,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:10
 - [test-anything](https://github.com/finnp/test-anything) :star:124
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:536
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:538
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,18 +371,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1756
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1760
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1245
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:2993
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1252
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3013
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:417
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:172
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:127
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:128
+- [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:467
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:469
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:366
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:378
 
 ### License
 

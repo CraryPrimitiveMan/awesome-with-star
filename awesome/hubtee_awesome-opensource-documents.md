@@ -20,7 +20,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Programming](#programming)
   * [Database](#database)
   * [World Wide Web](#world_wide_web)
-  * [Writing and Documentation](#writing_and_documentation)
+  * [Writings and Documentation](#writings_and_documentation)
   * [Journalism and Visualization](#journalism_and_visualization)
   * [Android Development](#android_development)
   * [IOS Development](#ios_development)
@@ -237,6 +237,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
 * DOM Enlightenment ([Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
 * [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+* RESTful API Guidelines ([Site][zalando-guidelines], cc) - Comprehensive, "API First" design guidelines developed by Zalando
 
 [site-http2-explained]: http://daniel.haxx.se/http2/
 [repo-http2-explained]: https://github.com/bagder/http2-explained
@@ -257,6 +258,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-diveintohtml5]: http://diveintohtml5.info/
 [repo-500-lines]: https://github.com/aosabook/500lines
 [repo-http-api]: https://github.com/interagent/http-api-design
+[zalando-guidelines]: https://zalando.github.io/restful-api-guidelines/index.html
 
 <a name='writings_and_documentation'></a>
 ### Writings and Documentation
@@ -766,6 +768,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
+* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
@@ -776,6 +779,8 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
+[site-nginx-book-cn]: http://tengine.taobao.org/book/
+[repo-nginx-book-cn]: https://github.com/taobao/nginx-book
 
 ## Japanese
 

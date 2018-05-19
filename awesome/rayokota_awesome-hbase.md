@@ -38,7 +38,7 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:492
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:233
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:235
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:397
 
 
@@ -72,7 +72,7 @@ A curated list of awesome HBase projects and resources.
 * [GeoMesa](http://www.geomesa.org/) - Spatial-temporal database with support for Accumulo, HBase, Cassandra, and Kafka.
 
 #### Graph
-* [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:110
+* [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:111
 * [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:110
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
@@ -101,10 +101,10 @@ A curated list of awesome HBase projects and resources.
 
 #### Transactions
 
-* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:142
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:141
 * [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:291
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
-* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:178
+* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:179
 
 ### Integrations
 

@@ -117,7 +117,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
 - [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
-- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!. :star:49
+- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!. :star:48
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
 ### Conferences
@@ -145,7 +145,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android. :star:1
 - [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege. :star:8
 - [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:9
-- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:90
+- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:91
 
 ### Big Data
 

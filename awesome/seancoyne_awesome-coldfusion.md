@@ -39,7 +39,7 @@ Pull requests very welcome.
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:74
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:86
+* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:87
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:23
 
@@ -78,7 +78,7 @@ Pull requests very welcome.
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:143
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
-* [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:50
+* [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:49
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:44
@@ -97,7 +97,7 @@ Pull requests very welcome.
 
 ## Tools
 
-* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:45
+* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:46
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
@@ -119,7 +119,7 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
-* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:19
+* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:20
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation

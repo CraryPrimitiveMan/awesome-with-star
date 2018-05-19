@@ -99,7 +99,7 @@ Preview | Description
 * [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses) :star:2945
+* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses) :star:2947
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
@@ -404,10 +404,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
- * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. :star:177
+ * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. :star:178
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
- * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) :star:3495
+ * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) :star:3498
  * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS :star:260
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework :star:324
@@ -420,7 +420,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
-* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  :star:233
+* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  :star:235
 
 Quick Start
 
@@ -485,7 +485,7 @@ Quick Start
 * [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 * [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 * [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) :star:4377
+* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) :star:4379
 * [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
@@ -506,21 +506,21 @@ Quick Start
 
 ## Tutorials
 
-* [Data science your way](https://github.com/jadianes/data-science-your-way) :star:367
+* [Data science your way](https://github.com/jadianes/data-science-your-way) :star:368
 
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:4959
- - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1645
- - [awesome-python](https://github.com/vinta/awesome-python) :star:49892
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12553
- - [awesome-r](https://github.com/qinwf/awesome-R) :star:2938
+ - [lists](https://github.com/jnv/lists) :star:4967
+ - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1646
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:50015
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12570
+ - [awesome-r](https://github.com/qinwf/awesome-R) :star:2942
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
- - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:407
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18826
+ - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:408
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:18840
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
- - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star:2464
+ - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star:2493
 

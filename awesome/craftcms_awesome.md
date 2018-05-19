@@ -317,12 +317,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration. :star:1
 - [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker. :star:14
 - [Craft 3 Multi-environment](https://github.com/nystudio107/craft-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft3-multi-environment) - Efficient and flexible multi-environment config for Craft CMS. :star:59
-- [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments. :star:217
+- [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments. :star:218
 - [Craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:120
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects. :star:58
 - [Generator Craft Install](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
 - [Happy Lager Demo Site](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-- [Nginx Craft](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:186
+- [Nginx Craft](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:187
 - [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards.
 
 ---
