@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11968
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11967
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4243
-- [Repo](https://github.com/substack/node-browserify) :star:11968
+- [Repo](https://github.com/substack/node-browserify) :star:11967
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -106,7 +106,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:303
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:54
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:565
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:566
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools

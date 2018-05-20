@@ -54,7 +54,7 @@ A curated collection of awesome web typography articles.
 
 ## Tools
 - [The State of Web Type - Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
-- [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype) :star:33
+- [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype) :star:34
 - [Type Rendering Mix](http://typerendering.com/)
 - [Web Font Loader](https://developers.google.com/fonts/docs/webfont_loader)
 - [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
