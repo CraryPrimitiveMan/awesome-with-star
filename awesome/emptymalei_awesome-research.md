@@ -441,7 +441,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1481
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:598
-* [hovercraft](https://github.com/regebro/hovercraft) :star:996
+* [hovercraft](https://github.com/regebro/hovercraft) :star:997
 
 
 
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40548
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4367
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40564
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4369
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1498
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5287
-* [Shower](https://github.com/shower/shower) :star:3995
+* [Shower](https://github.com/shower/shower) :star:3998
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1215
 * [Slides](https://github.com/briancavalier/slides) :star:466
@@ -670,7 +670,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:882
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:883
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.

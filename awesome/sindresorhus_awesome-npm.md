@@ -79,7 +79,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:722
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:99
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:67
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:4280
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:4283
 
 ### Registry
 
@@ -95,7 +95,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:20
 - [nrm](https://github.com/Pana/nrm) - Registry manager. :star:1034
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:304
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2911
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:2913
 
 ### Other
 
@@ -124,16 +124,16 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:58
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package. :star:150
 - [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa. :star:153
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial. :star:1841
-- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed. :star:378
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial. :star:1842
+- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed. :star:379
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail. :star:33
 
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:31675
-- [npm](https://github.com/npm/npm) - The official client. :star:16437
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3534
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:31686
+- [npm](https://github.com/npm/npm) - The official client. :star:16446
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3538
 
 
 ## Tips

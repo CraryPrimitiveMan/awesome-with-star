@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7185
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7184
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
@@ -91,13 +91,13 @@
 - [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js :star:18
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:65
 - [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:359
-- [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:337
+- [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:336
 - [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:106
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:14
-- [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:95
+- [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:94
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:31
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension) :star:1099
-- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:108
+- [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools :star:107
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette) :star:67
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
@@ -105,10 +105,10 @@
 
 ## Libraries
 
-- [Marionette State](https://github.com/Squareknot/marionette.state) :star:115
-- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:135
+- [Marionette State](https://github.com/Squareknot/marionette.state) :star:114
+- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:134
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
-- [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:70
-- [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:70
+- [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:69
+- [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:69
 - [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework :star:25
 

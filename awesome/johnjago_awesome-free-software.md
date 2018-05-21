@@ -3,9 +3,11 @@
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
 
-> A curated list of free as in freedom software.
+> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.
 
-Free software is distributed under terms that allow users to run the program for any purpose, study the source code, modify it, and distribute the software. These programs respect users' freedom and build community. [Learn more about free software](https://www.gnu.org/philosophy/free-sw.html).
+[Learn more about free software](https://www.gnu.org/philosophy/free-sw.html)
+
+[Find out why the term “open source” is different than “free software”](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
 ## Contents
 
@@ -230,6 +232,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 - [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
+- [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
 
 ### Discovery
 
@@ -270,7 +273,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Other Lists
 
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:36
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:23432
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:23449
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6671
 
 ### Talks

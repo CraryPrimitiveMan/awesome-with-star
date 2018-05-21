@@ -71,27 +71,27 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:23903
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) :star:24181
-- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets. :star:25710
-- [Android](https://github.com/JStumpp/awesome-android) :star:5477
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine. :star:23913
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) :star:24184
+- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets. :star:25715
+- [Android](https://github.com/JStumpp/awesome-android) :star:5479
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) :star:315
-- [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:14477
+- [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS. :star:14482
 - [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps. :star:228
-- [React Native](https://github.com/jondot/awesome-react-native) :star:19202
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution. :star:838
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux) :star:1278
+- [React Native](https://github.com/jondot/awesome-react-native) :star:19220
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution. :star:839
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux) :star:1279
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers) :star:537
-- [macOS](https://github.com/iCHAIT/awesome-macOS) :star:7691
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line) :star:19212
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers) :star:997
+- [macOS](https://github.com/iCHAIT/awesome-macOS) :star:7692
+	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line) :star:19214
+	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers) :star:998
 - [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch. :star:340
-- [JVM](https://github.com/deephacks/awesome-jvm) :star:822
+- [JVM](https://github.com/deephacks/awesome-jvm) :star:823
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce) :star:234
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws) :star:5605
-- [Windows](https://github.com/Awesome-Windows/Awesome) :star:4259
-- [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol. :star:1318
-- [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools. :star:281
+- [Windows](https://github.com/Awesome-Windows/Awesome) :star:4263
+- [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol. :star:1320
+- [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools. :star:280
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service. :star:111
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more. :star:3770
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework. :star:204
@@ -103,65 +103,65 @@
 
 ## Programming Languages
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript) :star:14266
+- [JavaScript](https://github.com/sorrycc/awesome-javascript) :star:14271
 	- [Promises](https://github.com/wbinnssmith/awesome-promises) :star:1099
 	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter. :star:218
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) :star:11624
-	- [Tips](https://github.com/loverajoel/jstips) :star:10771
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) :star:11626
+	- [Tips](https://github.com/loverajoel/jstips) :star:10776
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js) :star:378
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages) :star:2048
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages) :star:2054
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Impossible sounding projects that exist. :star:715
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages. :star:305
-	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager. :star:2914
+	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager. :star:2913
 	- [AVA](https://github.com/avajs/awesome-ava) - Test runner. :star:250
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter. :star:1190
-	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js) :star:2909
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js) :star:2912
 	- [Observables](https://github.com/sindresorhus/awesome-observables) :star:222
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner. :star:373
-- [Swift](https://github.com/matteocrippa/awesome-swift) :star:14624
+- [Swift](https://github.com/matteocrippa/awesome-swift) :star:14633
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education) :star:5350
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) :star:2266
-- [Python](https://github.com/vinta/awesome-python) :star:50049
+- [Python](https://github.com/vinta/awesome-python) :star:50092
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3. :star:621
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music. :star:259
-- [Rust](https://github.com/rust-unofficial/awesome-rust) :star:7079
-- [Haskell](https://github.com/krispo/awesome-haskell) :star:1460
+- [Rust](https://github.com/rust-unofficial/awesome-rust) :star:7084
+- [Haskell](https://github.com/krispo/awesome-haskell) :star:1462
 - [PureScript](https://github.com/passy/awesome-purescript) :star:191
-- [Go](https://github.com/avelino/awesome-go) :star:30921
-- [Scala](https://github.com/lauris/awesome-scala) :star:5961
-- [Ruby](https://github.com/markets/awesome-ruby) :star:8727
+- [Go](https://github.com/avelino/awesome-go) :star:30941
+- [Scala](https://github.com/lauris/awesome-scala) :star:5960
+- [Ruby](https://github.com/markets/awesome-ruby) :star:8729
 - [Clojure](https://github.com/razum2um/awesome-clojure) :star:1328
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript) :star:592
-- [Elixir](https://github.com/h4cc/awesome-elixir) :star:8039
+- [Elixir](https://github.com/h4cc/awesome-elixir) :star:8044
 - [Elm](https://github.com/isRuslan/awesome-elm) :star:2660
 - [Erlang](https://github.com/drobakowski/awesome-erlang) :star:860
-- [Julia](https://github.com/svaksha/Julia.jl) :star:597
+- [Julia](https://github.com/svaksha/Julia.jl) :star:596
 - [Lua](https://github.com/LewisJEllis/awesome-lua) :star:1686
-- [C](https://github.com/aleksandar-todorovic/awesome-c) :star:1231
-- [C/C++](https://github.com/fffaraz/awesome-cpp) :star:13389
-- [R](https://github.com/qinwf/awesome-R) :star:2942
+- [C](https://github.com/aleksandar-todorovic/awesome-c) :star:1232
+- [C/C++](https://github.com/fffaraz/awesome-cpp) :star:13397
+- [R](https://github.com/qinwf/awesome-R) :star:2943
 - [D](https://github.com/zhaopuming/awesome-d) :star:312
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl) :star:683
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl) :star:684
 - [Perl](https://github.com/hachiojipm/awesome-perl) :star:398
 - [Groovy](https://github.com/kdabir/awesome-groovy) :star:464
-- [Dart](https://github.com/yissachar/awesome-dart) :star:448
-- [Java](https://github.com/akullpp/awesome-java) :star:16732
+- [Dart](https://github.com/yissachar/awesome-dart) :star:449
+- [Java](https://github.com/akullpp/awesome-java) :star:16739
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava) :star:188
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin) :star:4854
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin) :star:4859
 - [OCaml](https://github.com/rizo/awesome-ocaml) :star:1298
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion) :star:56
 - [Fortran](https://github.com/rabbiabram/awesome-fortran) :star:149
-- [.NET](https://github.com/quozd/awesome-dotnet) :star:6662
-	- [Core](https://github.com/thangchung/awesome-dotnet-core) :star:4892
-- [PHP](https://github.com/ziadoz/awesome-php) :star:18738
+- [.NET](https://github.com/quozd/awesome-dotnet) :star:6665
+	- [Core](https://github.com/thangchung/awesome-dotnet-core) :star:4897
+- [PHP](https://github.com/ziadoz/awesome-php) :star:18741
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager. :star:309
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi) :star:474
 - [Assembler](https://github.com/jaspergould/awesome-asm) :star:240
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) :star:716
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt) :star:223
-- [Crystal](https://github.com/veelenga/awesome-crystal) :star:1657
+- [Crystal](https://github.com/veelenga/awesome-crystal) :star:1658
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM. :star:19
-- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software. :star:1255
+- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software. :star:1256
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR. :star:74
 - [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM. :star:34
 - [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML. :star:85
@@ -170,36 +170,36 @@
 ## Front-End Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools) :star:3596
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) :star:6235
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) :star:6236
 - [Web Tools](https://github.com/lvwzhen/tools) :star:354
-- [CSS](https://github.com/awesome-css-group/awesome-css) :star:1570
+- [CSS](https://github.com/awesome-css-group/awesome-css) :star:1571
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools) :star:965
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list) :star:1261
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css) :star:3363
-	- [Protips](https://github.com/AllThingsSmitty/css-protips) :star:12336
-- [React](https://github.com/enaqx/awesome-react) - App framework. :star:25605
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css) :star:3364
+	- [Protips](https://github.com/AllThingsSmitty/css-protips) :star:12341
+- [React](https://github.com/enaqx/awesome-react) - App framework. :star:25617
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps. :star:188
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way) :star:1015
 - [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components. :star:352
-- [Angular](https://github.com/gdi2290/awesome-angular) - App framework. :star:5605
+- [Angular](https://github.com/gdi2290/awesome-angular) - App framework. :star:5606
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework. :star:372
 - [HTML5](https://github.com/diegocard/awesome-html5) - Markup language used for websites & web apps. :star:896
-- [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format. :star:3590
+- [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format. :star:3592
 - [Canvas](https://github.com/raphamorim/awesome-canvas) :star:400
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout) :star:72
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo) :star:60
 - [Inspiration](https://github.com/NoahBuscher/Inspire) :star:632
 - [Ember](https://github.com/nmec/awesome-ember) - App framework. :star:265
-- [Android UI](https://github.com/wasabeef/awesome-android-ui) :star:30164
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui) :star:10239
-- [Meteor](https://github.com/Urigo/awesome-meteor) :star:1230
+- [Android UI](https://github.com/wasabeef/awesome-android-ui) :star:30169
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui) :star:10240
+- [Meteor](https://github.com/Urigo/awesome-meteor) :star:1232
 - [BEM](https://github.com/sturobson/BEM-resources) :star:367
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox) :star:837
 - [Web Typography](https://github.com/deanhume/typography) :star:318
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y) :star:751
 - [Material Design](https://github.com/sachin1092/awesome-material) :star:495
-- [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations. :star:3765
-- [Emails](https://github.com/jonathandion/awesome-emails) :star:526
+- [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations. :star:3767
+- [Emails](https://github.com/jonathandion/awesome-emails) :star:527
 - [jQuery](https://github.com/petk/awesome-jquery) - Easy to use JavaScript library for DOM manipulation. :star:570
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) :star:4058
 - [Web Audio](https://github.com/notthetup/awesome-webaudio) :star:411
@@ -209,113 +209,113 @@
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework. :star:748
 - [Text Editing](https://github.com/dok/awesome-text-editing) :star:91
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) :star:488
-- [Vue.js](https://github.com/vuejs/awesome-vue) - App framework. :star:32854
+- [Vue.js](https://github.com/vuejs/awesome-vue) - App framework. :star:32884
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette) - App framework. :star:144
 - [Aurelia](https://github.com/behzad888/awesome-aurelia) - App framework. :star:267
-- [Charting](https://github.com/zingchart/awesome-charting) :star:972
+- [Charting](https://github.com/zingchart/awesome-charting) :star:973
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic) :star:686
-- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) :star:2830
+- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) :star:2831
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss) - CSS tool. :star:256
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React. :star:1463
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React. :star:1464
 - [Service Workers](https://github.com/TalAter/awesome-service-workers) :star:1288
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps) :star:1149
-- [choo](https://github.com/choojs/awesome-choo) - App framework. :star:157
+- [choo](https://github.com/choojs/awesome-choo) - App framework. :star:158
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps. :star:223
-- [webpack](https://github.com/webpack-contrib/awesome-webpack) - Module bundler. :star:2463
+- [webpack](https://github.com/webpack-contrib/awesome-webpack) - Module bundler. :star:2464
 - [Browserify](https://github.com/browserify/awesome-browserify) - Module bundler. :star:65
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor. :star:1160
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language. :star:1089
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor. :star:21
-- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics. :star:282
+- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics. :star:283
 - [Preact](https://github.com/ooade/awesome-preact) - App framework. :star:188
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources) :star:45
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps. :star:1038
-- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps. :star:224
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps. :star:1039
+- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps. :star:225
 
 
 ## Back-End Development
 
-- [Django](https://github.com/rosarior/awesome-django) :star:7468
+- [Django](https://github.com/rosarior/awesome-django) :star:7470
 - [Flask](https://github.com/humiaozuzu/awesome-flask) :star:5394
-- [Docker](https://github.com/veggiemonk/awesome-docker) :star:10322
+- [Docker](https://github.com/veggiemonk/awesome-docker) :star:10516
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant) :star:332
-- [Pyramid](https://github.com/uralbash/awesome-pyramid) :star:418
+- [Pyramid](https://github.com/uralbash/awesome-pyramid) :star:419
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1) :star:35
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp) - PHP framework. :star:648
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony) :star:1194
 	- [Education](https://github.com/pehapkari/awesome-symfony-education) :star:242
-- [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework. :star:6091
+- [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework. :star:6094
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education) :star:198
-- [Rails](https://github.com/ekremkaraca/awesome-rails) - Web app framework for Ruby. :star:1825
+- [Rails](https://github.com/ekremkaraca/awesome-rails) - Web app framework for Ruby. :star:1826
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages. :star:2432
 - [Phalcon](https://github.com/phalcon/awesome-phalcon) :star:443
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess) :star:10456
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess) :star:10457
 - [nginx](https://github.com/fcambus/nginx-resources) - Web server. :star:2187
 - [Dropwizard](https://github.com/stve/awesome-dropwizard) :star:60
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) :star:2648
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) :star:2652
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen) :star:192
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless) :star:1391
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless) :star:1393
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework. :star:33
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM. :star:815
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure. :star:368
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure. :star:369
 
 
 ## Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses) :star:24241
-- [Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7874
+- [University Courses](https://github.com/prakhar1989/awesome-courses) :star:24249
+- [Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:7877
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience) :star:227
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32787
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:7330
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby. :star:1015
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - Models for Apple's machine learning framework. :star:2814
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:32801
+	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:7337
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby. :star:1017
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - Models for Apple's machine learning framework. :star:2820
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) :star:1706
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp) :star:149
+	- [Spanish](https://github.com/dav009/awesome-spanish-nlp) :star:150
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby) :star:755
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) :star:100
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography) :star:1152
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:7484
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks. :star:8859
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence. :star:11632
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers. :star:14767
-	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) :star:843
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6678
-- [Open Source Society University](https://github.com/ossu/computer-science) :star:32001
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming) :star:374
-- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis) :star:3017
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography) :star:1153
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:7500
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks. :star:8871
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence. :star:11638
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers. :star:14773
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) :star:844
+- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:6679
+- [Open Source Society University](https://github.com/ossu/computer-science) :star:32112
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming) :star:375
+- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis) :star:3019
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine. :star:187
 
 
 ## Big Data
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata) :star:6132
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets) :star:24786
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata) :star:6134
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets) :star:24815
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets. :star:645
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) :star:1471
-- [Streaming](https://github.com/manuzhang/awesome-streaming) :star:803
+- [Streaming](https://github.com/manuzhang/awesome-streaming) :star:805
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing. :star:483
 
 
 ## Theory
 
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love) :star:29949
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks) :star:2147
-- [Algorithms](https://github.com/tayllan/awesome-algorithms) :star:4573
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) :star:29959
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks) :star:2149
+- [Algorithms](https://github.com/tayllan/awesome-algorithms) :star:4579
 - [Algorithm Visualizations](https://github.com/enjalot/algovis) :star:862
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3750
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) :star:756
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) :star:2834
-- [Math](https://github.com/rossant/awesome-math) :star:1529
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:3752
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) :star:757
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) :star:2837
+- [Math](https://github.com/rossant/awesome-math) :star:1532
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures. :star:448
 
 
 ## Books
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) :star:105429
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) :star:105457
 - [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality) :star:1096
-- [Go Books](https://github.com/dariubs/GoBooks) :star:4882
+- [Go Books](https://github.com/dariubs/GoBooks) :star:4883
 - [R Books](https://github.com/RomanTsegelskyi/rbooks) :star:94
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) :star:3433
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) :star:3434
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring) :star:99
 - [Elixir Books](https://github.com/sger/ElixirBooks) :star:562
 
@@ -323,56 +323,56 @@
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks) :star:625
-- [Vim](https://github.com/mhinz/vim-galore) :star:8480
-- [Emacs](https://github.com/emacs-tw/awesome-emacs) :star:3823
+- [Vim](https://github.com/mhinz/vim-galore) :star:8484
+- [Emacs](https://github.com/emacs-tw/awesome-emacs) :star:3828
 - [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor. :star:1584
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor. :star:5557
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor. :star:5558
 
 
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools) :star:4895
 - [Game Talks](https://github.com/hzoo/awesome-gametalks) :star:528
-- [Godot](https://github.com/Calinou/awesome-godot) - Game engine. :star:732
-- [Open Source Games](https://github.com/leereilly/games) :star:10876
-- [Unity](https://github.com/RyanNielson/awesome-unity) - Game engine. :star:1994
+- [Godot](https://github.com/Calinou/awesome-godot) - Game engine. :star:733
+- [Open Source Games](https://github.com/leereilly/games) :star:10878
+- [Unity](https://github.com/RyanNielson/awesome-unity) - Game engine. :star:1999
 - [Chess](https://github.com/hkirat/awesome-chess) :star:103
-- [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine. :star:1001
+- [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine. :star:1002
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console. :star:855
-- [Game Boy Development](https://github.com/avivace/awesome-gbdev) :star:1212
+- [Game Boy Development](https://github.com/avivace/awesome-gbdev) :star:1213
 - [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine. :star:14
 - [Gideros](https://github.com/stetso/awesome-gideros) - Game engine. :star:10
 
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS. :star:10918
-- [Dev Env](https://github.com/jondot/awesome-devenv) :star:1141
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles) :star:2631
-- [Shell](https://github.com/alebcay/awesome-shell) :star:12353
-- [Fish](https://github.com/fisherman/awesome-fish-shell) - User-friendly shell. :star:683
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps) :star:2212
-- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins) :star:4276
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS. :star:10924
+- [Dev Env](https://github.com/jondot/awesome-devenv) :star:1142
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles) :star:2634
+- [Shell](https://github.com/alebcay/awesome-shell) :star:12356
+- [Fish](https://github.com/fisherman/awesome-fish-shell) - User-friendly shell. :star:684
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps) :star:2213
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins) :star:4281
 - [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for Git repositories. :star:370
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) :star:1155
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) :star:25099
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) :star:1156
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) :star:25102
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet) :star:1906
-- [Git Tips](https://github.com/git-tips/tips) :star:12933
+- [Git Tips](https://github.com/git-tips/tips) :star:12935
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI. :star:692
 - [SSH](https://github.com/moul/awesome-ssh) :star:824
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev) :star:233
-- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies. :star:6156
+- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies. :star:6168
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell. :star:593
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS. :star:833
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) :star:6281
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) :star:6283
 
 
 ## Entertainment
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi. :star:2062
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi. :star:2064
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy) :star:356
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts) :star:1191
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters) :star:866
+- [Email Newsletters](https://github.com/vredniy/awesome-newsletters) :star:867
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) :star:114
 
 
@@ -380,13 +380,13 @@
 
 - [Database](https://github.com/numetriclabz/awesome-db) :star:610
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) :star:1614
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) :star:1615
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb) :star:433
 - [Neo4j](https://github.com/neueda/awesome-neo4j) :star:230
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database. :star:734
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb) :star:84
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework. :star:84
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database. :star:4265
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework. :star:85
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database. :star:4267
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database. :star:55
 - [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store. :star:57
 
@@ -395,14 +395,14 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media) :star:224
 - [Fonts](https://github.com/brabadu/awesome-fonts) :star:349
-- [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts. :star:4549
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources) :star:6405
-- [GIF](https://github.com/davisonio/awesome-gif) - Image format known for animated images. :star:291
-- [Music](https://github.com/ciconia/awesome-music) :star:335
+- [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts. :star:4553
+- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources) :star:6406
+- [GIF](https://github.com/davisonio/awesome-gif) - Image format known for animated images. :star:292
+- [Music](https://github.com/ciconia/awesome-music) :star:336
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents) :star:1021
-- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) :star:1945
-- [Broadcasting](https://github.com/ebu/awesome-broadcasting) :star:344
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art. :star:231
+- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) :star:1946
+- [Broadcasting](https://github.com/ebu/awesome-broadcasting) :star:345
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art. :star:232
 
 
 ## Learn
@@ -411,25 +411,25 @@
 - [Learn to Program](https://github.com/karlhorky/learn-to-program) :star:457
 - [Speaking](https://github.com/matteofigus/awesome-speaking) :star:655
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos) :star:306
-- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) :star:8200
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) :star:8203
 - [Computer History](https://github.com/watson/awesome-computer-history) :star:963
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) :star:415
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing. :star:168
-- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) :star:958
+- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) :star:959
 
 
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3153
-- [Security](https://github.com/sbilly/awesome-security) :star:3014
-- [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag. :star:2136
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3496
-- [Android Security](https://github.com/ashishb/android-security-awesome) :star:3098
-- [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3760
-- [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. :star:2266
-- [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1922
+- [Security](https://github.com/sbilly/awesome-security) :star:3021
+- [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag. :star:2140
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3497
+- [Android Security](https://github.com/ashishb/android-security-awesome) :star:3102
+- [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3763
+- [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. :star:2268
+- [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1923
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security) :star:752
-- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services. :star:1270
+- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services. :star:1272
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key. :star:225
 
 
@@ -455,25 +455,25 @@
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company) :star:231
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) :star:2745
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) :star:2746
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices. :star:383
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment. :star:1247
-- [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses. :star:4519
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment. :star:1248
+- [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses. :star:4523
 
 
 ## Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration. :star:551
 	- [Communities](https://github.com/filipelinhares/awesome-slack) :star:220
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job) :star:11783
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job) :star:11791
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity) :star:387
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards) :star:210
-- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) :star:19036
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) :star:19048
 
 
 ## Networking
 
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn) :star:319
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn) :star:320
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis) :star:1016
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools) :star:1207
 
@@ -487,36 +487,36 @@
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format. :star:631
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson) :star:724
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets) :star:1147
-- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev) :star:1051
+	- [GeoJSON](https://github.com/tmcw/awesome-geojson) :star:725
+	- [Datasets](https://github.com/jdorfman/awesome-json-datasets) :star:1148
+- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev) :star:1059
 - [Conferences](https://github.com/RichardLitt/awesome-conferences) :star:662
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin) :star:6671
 - [Radio](https://github.com/kyleterry/awesome-radio) :star:103
-- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated. :star:85244
+- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated. :star:85282
 - [Analytics](https://github.com/onurakpolat/awesome-analytics) :star:1043
 - [REST](https://github.com/marmelab/awesome-rest) :star:1733
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) :star:347
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps. :star:137
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd) :star:671
 - [Services Engineering](https://github.com/mmcgrana/services-engineering) :star:2559
-- [Free for Developers](https://github.com/ripienaar/free-for-dev) :star:18610
+- [Free for Developers](https://github.com/ripienaar/free-for-dev) :star:18615
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc. :star:543
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS. :star:644
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates) :star:592
-- [Readme](https://github.com/matiassingers/awesome-readme) :star:2547
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade) :star:7177
+- [Readme](https://github.com/matiassingers/awesome-readme) :star:2554
+- [Tools](https://github.com/cjbarber/ToolsOfTheTrade) :star:7179
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides) :star:482
 - [Design and Development Guides](https://github.com/NARKOZ/guides) :star:1468
-- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) :star:12982
-- [Self Hosted](https://github.com/Kickball/awesome-selfhosted) :star:23430
+- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) :star:12984
+- [Self Hosted](https://github.com/Kickball/awesome-selfhosted) :star:23449
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps) :star:121
 - [Gulp](https://github.com/alferov/awesome-gulp) - Task runner. :star:409
-- [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything. :star:953
+- [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything. :star:954
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers) :star:105
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography) :star:165
 - [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics. :star:822
-- [GraphQL](https://github.com/chentsulin/awesome-graphql) :star:7209
+- [GraphQL](https://github.com/chentsulin/awesome-graphql) :star:7216
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit) :star:371
 - [Research Tools](https://github.com/emptymalei/awesome-research) :star:383
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz) :star:1645
@@ -524,13 +524,13 @@
 - [Microservices](https://github.com/mfornos/awesome-microservices) :star:6029
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources. :star:430
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints) :star:180
-- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners) :star:5328
-- [Katas](https://github.com/gamontal/awesome-katas) :star:409
+- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners) :star:5334
+- [Katas](https://github.com/gamontal/awesome-katas) :star:410
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism) :star:715
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists. :star:55
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol. :star:417
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol. :star:489
-- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots) :star:616
+- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots) :star:617
 - [For Girls](https://github.com/cristianoliveira/awesome4girls) :star:239
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework. :star:109
 - [Vulkan](https://github.com/vinjn/awesome-vulkan) - Low-overhead, cross-platform 3D graphics and compute API. :star:841
@@ -540,18 +540,18 @@
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) :star:462
 - [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme. :star:408
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform. :star:210
-- [Bots](https://github.com/hackerkid/bots) - Building bots. :star:666
-- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre) :star:1931
+- [Bots](https://github.com/hackerkid/bots) - Building bots. :star:667
+- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre) :star:1933
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures. :star:325
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework. :star:78
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience. :star:240
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO. :star:337
-- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat. :star:341
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in. :star:7297
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model. :star:2756
-- [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology. :star:251
-- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system. :star:121
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers. :star:651
+- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat. :star:342
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in. :star:7300
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model. :star:2757
+- [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology. :star:252
+- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system. :star:122
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers. :star:652
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool. :star:141
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional. :star:3603
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login. :star:577
@@ -562,12 +562,12 @@
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects. :star:170
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands. :star:28
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers. :star:388
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP. :star:376
-- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt. :star:193
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP. :star:379
+- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt. :star:194
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain. :star:269
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives. :star:119
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use. :star:112
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system. :star:195
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system. :star:196
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices. :star:24
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line. :star:32
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works. :star:177

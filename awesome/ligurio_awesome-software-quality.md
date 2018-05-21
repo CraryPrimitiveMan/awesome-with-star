@@ -98,7 +98,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:285
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:197
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:198
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -325,7 +325,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:11
-- [test-anything](https://github.com/finnp/test-anything) :star:124
+- [test-anything](https://github.com/finnp/test-anything) :star:123
 - https://math-comp.github.io/mcb/
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:538
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
@@ -374,7 +374,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1762
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1252
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3017
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3019
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:417
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:173
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:128
@@ -382,7 +382,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:471
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:388
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:390
 
 ### License
 

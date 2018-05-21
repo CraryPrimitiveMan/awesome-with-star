@@ -172,7 +172,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Authorization
 * [Can_i](https://github.com/macfanatic/can_i) - RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem. :star:14
-* [motion-authorization](https://github.com/andrewhavens/motion-authorization) - Simple authorization for RubyMotion. Inspired by CanCan and Pundit. :star:9
+* [motion-authorization](https://github.com/andrewhavens/motion-authorization) - Simple authorization for RubyMotion. Inspired by CanCan and Pundit. :star:10
 
 ### Data Protocols
 * [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:20
@@ -182,7 +182,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### Database
 * [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK. :star:46
 * [Yapper](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe. :star:29
-* [Couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS. :star:17
+* [Couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS. :star:18
 * [Motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion. :star:33
 
 
@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:134
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:133
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1274
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1273
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19

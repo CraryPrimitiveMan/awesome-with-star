@@ -65,14 +65,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Web Frameworks
 *Web development frameworks.*
 
-* [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:245
+* [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:248
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1723
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4951
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4950
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1602
-* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1098
+* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1097
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:557
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:556
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
