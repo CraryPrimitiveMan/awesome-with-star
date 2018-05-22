@@ -5,7 +5,7 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:898
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:899
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:33
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:85
@@ -146,6 +146,7 @@
 - [Rifat Nabi](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast. :star:2
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
+- [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
 
 #### Ask these organizations anything!
 

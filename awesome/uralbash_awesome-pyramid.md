@@ -51,7 +51,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [pyramid_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) -
   provides a CRUD interface for pyramid based on FormAlchemy.
-* [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) -    Pyramid CRUD interface. :star:45
+* [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) -    Pyramid CRUD interface. :star:46
   Provides an administration web interface for Pyramid.
   Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to
   customize your interface, similar to django.contrib.admin but uses a
@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:326
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:803
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:804
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2538
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2539
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -342,7 +342,7 @@ provide new storage backends.*
 
 ## Other
 
-* [pyramid_layout](https://github.com/Pylons/pyramid_layout) - Pyramid add-on :star:22
+* [pyramid_layout](https://github.com/Pylons/pyramid_layout) - Pyramid add-on :star:23
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.

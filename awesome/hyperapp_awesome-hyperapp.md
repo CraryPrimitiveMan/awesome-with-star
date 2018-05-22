@@ -59,7 +59,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:50
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:34
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:204
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:203
 * [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:38
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:32
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp. :star:20

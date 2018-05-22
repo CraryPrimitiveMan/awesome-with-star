@@ -21,7 +21,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:25421
+* [GitHub](https://github.com/zeit/next.js) :star:25461
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -62,14 +62,14 @@
 * [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in. :star:2
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:790
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:796
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support. :star:19
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:361
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:362
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag :star:8
-* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:27
+* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:29
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:639
+* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:640
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:19
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:24
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:273

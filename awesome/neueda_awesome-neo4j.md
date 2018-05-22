@@ -12,8 +12,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda R&D](https://neueda.lv/).
-
+Maintained by [Neueda R&D](http://labs.neueda.com/).
 
 Table of Contents
 =================
@@ -52,8 +51,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Basics
 
-- [Official documentation](http://neo4j.com/docs/)
-- [Cypher Refcard](http://neo4j.com/docs/cypher-refcard/current/)
+- [Official documentation](https://neo4j.com/docs/)
+- [Cypher Refcard](https://neo4j.com/docs/cypher-refcard/current/)
 - [Developer resources](https://neo4j.com/developer/get-started/)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
@@ -61,7 +60,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 # Related project
 
 - [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
-- [Bolt Protocol](http://boltprotocol.org/) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
+- [Bolt Protocol](https://boltprotocol.org) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
 
 # Connectors
 
@@ -73,7 +72,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt). :star:63
 - [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol. :star:29
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results. :star:51
-- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:119
+- [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol :star:120
 - [neo4j-elixir-driver](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol :star:20
 - [neo4j-elixir-wrapper](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex. :star:91
 
@@ -94,8 +93,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Python
 
 - [py2neo](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line. :star:30
-- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:379
-- [BulbFlow](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
+- [neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo. :star:380
 
 ### PHP
 
@@ -107,7 +105,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### Other
 
-- [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:935
+- [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node. :star:936
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding. :star:243
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang. :star:335
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API. :star:174
@@ -116,14 +114,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Cloud
 
-- [GrapheneDB](http://www.graphenedb.com/) - The world's first fully managed
+- [GrapheneDB](https://www.graphenedb.com/) - The world's first fully managed
 Neo4j graph database.
 - [GraphStory](https://www.graphstory.com/) - Neo4j enterprise cloud provider
 
 # Packages
 
 - [Debian Packages](http://debian.neo4j.org/)
-- [Yum Repo](http://yum.neo4j.org/)
+- [Yum Repo](http://yum.neo4j.org/stable/)
 
 # Docker
 
@@ -142,6 +140,7 @@ Neo4j graph database.
 - [neo4j-csv-firehose](https://github.com/sarmbruster/neo4j-csv-firehose) - Enables Neo4j’s `LOAD CSV` Cypher command to load from other datasources as well. :star:8
 - [neo4j-rdbms-import](https://github.com/jexp/neo4j-rdbms-import) - An automatic importer for relational databases into Neo4j. :star:29
 - [Doc manager for Neo4j](https://github.com/neo4j-contrib/neo4j_doc_manager) - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector. :star:74
+- [neoloadcsvskelgen](https://github.com/wadael/neoloadcsvskelgen) - Will output a skeleton of LOAD CSV Cypher code, from very little input (filename, separator, hints). Save time, avoid typos. 
 
 # Benchmarking
 
@@ -163,7 +162,7 @@ Neo4j graph database.
 
 # Stored Procedures
 
-- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:579
+- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x :star:580
 - [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher :star:6
 
 # Development
@@ -173,7 +172,7 @@ Neo4j graph database.
 - [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - A Java DSL for the Cypher Query Language and an optional Query DSL mode. :star:60
 - [Liquigraph](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works. :star:76
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases. :star:1268
-- [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j. :star:501
+- [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j. :star:503
 - [Reco4PHP](https://github.com/graphaware/reco4php) - Neo4j based Recommendation Engine Framework for PHP. :star:89
 
 # Editors
@@ -184,23 +183,25 @@ Neo4j graph database.
 # Shell
 
 - [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher. :star:228
-- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:243
+- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell. :star:244
 
 # Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases. :star:190
-- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2666
-- [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
+- [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. :star:2667
+- [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
+- [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
 
 # Tools
 
 - [Graphgen](http://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL.
 - [store-utils](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores. :star:61
 - [ineo](https://github.com/cohesivestack/ineo)- A simple but useful Neo4j instance manager.
+- [yFiles neo4j Graph Explorer](https://www.yworks.com/blog/neo4j-node-design) - A simple, free online tool to visualize your graph data and database schema.
 
 ## Learn
 
-- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/introduction-graph-databases/)
+- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
 - [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
 - [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j. :star:294
 

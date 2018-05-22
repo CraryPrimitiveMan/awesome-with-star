@@ -25,8 +25,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Implementations
 
-- [zen-observable](https://github.com/zenparsing/zen-observable) :star:377
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:12557
+- [zen-observable](https://github.com/zenparsing/zen-observable) :star:376
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:12579
 
 
 ## Packages

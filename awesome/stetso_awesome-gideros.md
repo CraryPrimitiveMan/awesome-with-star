@@ -127,15 +127,15 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 *General Lua libraries that are useful in gamedev but are not Gideros specific*
 
 - [lume](https://github.com/rxi/lume) - Great collection of functions that are useful for game development. :star:280
-- [inspect](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way. :star:536
+- [inspect](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way. :star:535
 - [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
-- [bump](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes. :star:430
+- [bump](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes. :star:429
 - [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua. :star:4
 
 ## Related Awesome Lists
-- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1686
-- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:1002
-- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:253
+- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1688
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:1003
+- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:254
 
 
 ## License and Contributing

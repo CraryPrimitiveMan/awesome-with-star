@@ -55,6 +55,7 @@ Organizations bringing diversity to tech.
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
+- [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
 - [TLA Women In Tech](http://tlawomenintech.org/) - Working group dedicated to increasing gender balance and equality in tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
@@ -91,7 +92,7 @@ The following is a list of individual resources with actionable items for being 
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How to Fight Sexism on Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:113
+- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:115
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.

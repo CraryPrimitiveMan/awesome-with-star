@@ -154,7 +154,7 @@
 
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 
-- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:519
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:521
 
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
 

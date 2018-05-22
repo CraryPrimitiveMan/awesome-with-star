@@ -33,6 +33,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 - [Related Projects](#related-projects)
   + [Files Directories](#directories)
   + [Websites](#websites)
+- [More](MORE.md)
 - [About this repository](#about)
   - [Contribute](#contribute)
   - [License](#license)
@@ -93,7 +94,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 #### Cheatsheets, Tables
 
-- [Game Boy Crib Sheet](http://gbdev.gg8.se/files/docs/GBCribSheet000129.pdf) - A handy printable reference sheet with ASM opcodes, memory locations, and much more.
+- [Game Boy Crib Sheet](https://github.com/JustinLloyd/Gameboy-Cribsheet/raw/master/Current%20Release/Gameboy%20Crib%20Sheet%20990823-0325.pdf) - A handy printable reference sheet with ASM opcodes, memory locations, and much more ([repository](https://github.com/JustinLloyd/Gameboy-Cribsheet)).
 - [OP Codes cheatsheet](http://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 - [rednex gbz80 opcode reference](https://rednex.github.io/rgbds/gbz80.7.html)
 - [Opcode table](http://goldencrystal.free.fr/GBZ80Opcodes.pdf)
@@ -192,6 +193,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine for Game Boy & Game Boy Color.
 - [Game Boy Tile Data Generator](http://www.chrisantonellis.com/gameboy/gbtdg/) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer and Game Boy Map Builder tools.
+- [GBTiles](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK. :star:5
 - [GBT PLAYER](https://github.com/AntonioND/gbt-player) - A music player library and converter kit for Game Boy that can be used with RGBDS. :star:58
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves. :star:9
@@ -206,11 +208,12 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 - [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 - [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in NodeJS :star:5
-- [mmlgb](https://github.com/SimonLarsen/mmlgb) - MML to Game Boy parser and driver. :star:7
+- [mmlgb](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy. :star:7
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output. :star:21
 - [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - An engine for creating games (expands GBDK).
 - [awake](https://github.com/devdri/awake) - Gameboy decompiler. :star:29
 - [swapdump](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
+- [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) - Gameboy LinkUp serial cable networking project. :star:1
 
 
 #### Syntax highlighting packages
@@ -319,6 +322,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - Bypassing the Nintendo logo check.
 - Making a Game Boy game in 2017: A "Sheep It Up!" Post-Mortem ([part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 - [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - Every cartridge has to show the authentic logo to be considered valid and be run, but obviously some companies managed to exploit the check system.
+- [liblsdj](https://github.com/stijnfrishert/liblsdj) - A cross-platform and fast C utility library for interacting with the LSDJ save format (.sav), song files (.lsdsng) and more. :star:7
+- [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations. :star:1
 
 ### Directories
 
