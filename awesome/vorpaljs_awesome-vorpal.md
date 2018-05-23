@@ -48,7 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes. :star:66
 - [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3418
 - [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:25
-- [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV. :star:18
+- [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 - [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more :star:27
 - [lifxsh](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights. :star:4
 

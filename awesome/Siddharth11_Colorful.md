@@ -22,7 +22,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility. :star:339
-- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6553
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:6556
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor. :star:767
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:597
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors. :star:260
@@ -40,7 +40,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [SassMe](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling. :star:34
+- [SassMe](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.

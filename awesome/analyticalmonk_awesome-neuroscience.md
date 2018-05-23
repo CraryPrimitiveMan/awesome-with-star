@@ -30,20 +30,20 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:318
+- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:319
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:116
 - [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:399
 - [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:161
 - [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:464
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:190
 - [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:472
-- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5583
+- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:5585
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. :star:196
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments. :star:59
 
 ### Matlab
 
-- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:202
+- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:203
 - [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### C++
@@ -51,7 +51,7 @@ Software, libraries and frameworks for development purposes.
 - [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions. :star:108
 
 ### JavaScript
-- [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging. :star:164
+- [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging. :star:165
 
 ## Resources
 Interesting resources related to neuroscience.

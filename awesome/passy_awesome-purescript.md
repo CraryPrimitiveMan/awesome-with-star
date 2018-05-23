@@ -47,7 +47,7 @@ Signals/Behaviors/FRP:
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:222
 - [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:13
 - [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:23
-- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:39
+- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:41
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:47
 - [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:125
 - [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:65
@@ -56,7 +56,7 @@ Signals/Behaviors/FRP:
 
 - [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:51
 - [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor. :star:13
-- [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:18
+- [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:19
 - [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:3
 
 ## Components
@@ -77,7 +77,7 @@ Signals/Behaviors/FRP:
 
 ## Testing
 
-- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:54
+- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript. :star:55
 - [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript. :star:55
 - [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes. :star:8
 - [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript. :star:18

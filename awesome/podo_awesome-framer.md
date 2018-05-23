@@ -128,8 +128,8 @@
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:145
-* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:271
-* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:548
+* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:272
+* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:549
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:220
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:431
@@ -155,7 +155,7 @@
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:42
 * [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:46
-* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:89
+* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:92
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:14
 * [framer keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:7
 * [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - Module for Gamepad-driven UI prototypes. :star:9
@@ -164,7 +164,7 @@
 * [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device). :star:1
 * [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input. :star:10
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!. :star:28
-* [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects. :star:4
+* [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects. :star:5
 * [Framer Status Bar Module](https://github.com/walnuttea/statusBar-module) - Module to initialize a status bar in a Framer application. :star:1
 * [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module. :star:6
 * [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.   :star:2

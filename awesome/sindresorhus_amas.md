@@ -10,7 +10,7 @@
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:85
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:655
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:224
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:225
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:216
@@ -22,7 +22,7 @@
 - [Cassie McDaniel](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.
 - [Wenjie Fan](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
 - [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer. :star:5
-- [Robert Haritonov](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist. :star:1
+- [Robert Haritonov](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
 - [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover. :star:11
 - [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker. :star:2
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist. :star:2

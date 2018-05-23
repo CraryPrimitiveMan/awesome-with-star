@@ -64,7 +64,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## DVB & WiFi
 
-* [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage. :star:12
+* [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage. :star:13
 * [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
 * [dvbshout](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream. :star:5
@@ -126,7 +126,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard. :star:106
-* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:123
+* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files. :star:124
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK. :star:27
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer. :star:23
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK. :star:13
@@ -153,7 +153,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:8
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:466
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:9415
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording. :star:9429
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:70

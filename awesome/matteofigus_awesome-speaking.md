@@ -33,9 +33,9 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:85345
+* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:85408
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot** :star:129
-* [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:545
+* [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:548
 
 ## Videos
 * [The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks) - by **Zach Holman** [36:26]
@@ -48,7 +48,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Websites
 * [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world.
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2149
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2150
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 

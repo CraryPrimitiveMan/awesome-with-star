@@ -159,6 +159,7 @@ A curated list of podcasts we like to listen to.
 * [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+* [The 6 Figure Developer Podcast](https://6figuredev.com) - The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
 * [The Accidental Engineer](http://theaccidentalengineer.com) - Interviews with engineers about how they started their career
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
 * [The Amp Hour](http://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
@@ -194,6 +195,7 @@ A curated list of podcasts we like to listen to.
 * [Weekly Dev Tips](https://www.weeklydevtips.com) - A podcast by [@ardalis](https://twitter.com/ardalis) providing one pragmatic tip per episode.
 * [Why Are Computers](http://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 * [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
+* [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 
 ## In Portuguese
 
