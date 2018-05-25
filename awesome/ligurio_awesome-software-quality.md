@@ -98,7 +98,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:285
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:8
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:198
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:199
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -327,7 +327,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:11
 - [test-anything](https://github.com/finnp/test-anything) :star:123
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:539
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:540
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,18 +371,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1770
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1795
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1260
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3045
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1271
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3061
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:417
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:174
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:128
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:177
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:129
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:473
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:478
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:395
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:397
 
 ### License
 

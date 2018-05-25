@@ -38,7 +38,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:129
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:130
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
@@ -66,9 +66,9 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:33
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:427
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2708
-* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:112
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:428
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2719
+* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:113
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:37
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
@@ -80,7 +80,7 @@ List of content
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:791
 
 # Python Libraries
-* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:16
+* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:17
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
@@ -122,7 +122,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9480
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9505
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

@@ -154,6 +154,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women in Tech Summit inspires, educates and connects women in the technology industry.
 
+  - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
+
+    Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
+
   - [League of Women Coders](http://lwc.tech/)
 
     League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
@@ -546,7 +550,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Other Lists
 ([Go to top](#awesome4girls---))
 
-  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:272
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:274
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 

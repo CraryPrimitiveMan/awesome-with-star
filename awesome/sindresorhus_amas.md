@@ -5,15 +5,15 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:899
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:904
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:33
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:85
-- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:655
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:225
+- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:656
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:230
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
-- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:216
+- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:217
 - [Anselm Hannemann](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io. :star:7
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek. :star:2
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer. :star:4
@@ -22,7 +22,7 @@
 - [Cassie McDaniel](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.
 - [Wenjie Fan](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
 - [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer. :star:5
-- [Robert Haritonov](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
+- [Robert Haritonov](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist. :star:1
 - [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover. :star:11
 - [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker. :star:2
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist. :star:2
@@ -124,7 +124,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer. :star:2
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:214
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:216
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4
@@ -147,17 +147,18 @@
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
+- [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 #### Ask these organizations anything!
 
 - [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world. :star:14
 - [Code Monkey Health](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
-- [Ruby Taiwan](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese. :star:117
+- [Ruby Taiwan](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese. :star:118
 - [DevOps Taiwan](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions. :star:42
-- [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions. :star:10
+- [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions. :star:11
 - [From the Front](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things. :star:4
-- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:7
+- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:8
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students. :star:14
 
 

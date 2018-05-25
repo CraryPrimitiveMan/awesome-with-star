@@ -39,7 +39,7 @@ Pull requests very welcome.
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion :star:74
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:87
+* [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:88
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:23
 
@@ -62,7 +62,7 @@ Pull requests very welcome.
 
 * [CFArango](https://github.com/dajester2013/CFArango) - ArangoDB client for ColdFusion :star:4
 * [CFCouchbase](https://github.com/Ortus-Solutions/cfcouchbase-sdk) - Couchbase NoSQL and caching client wrapper for ColdFusion :star:11
-* [cfmongodb](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion :star:94
+* [cfmongodb](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion :star:93
 
 ## REST
 
@@ -76,13 +76,13 @@ Pull requests very welcome.
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:80
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
-* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:143
+* [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:142
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:50
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:44
-* [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library. :star:75
+* [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library. :star:74
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
 ## Editors

@@ -34,27 +34,27 @@ React-based:
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:494
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:67
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:33
-- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:77
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:76
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:106
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:65
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:748
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:750
 
 Signals/Behaviors/FRP:
 
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:222
 - [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:13
 - [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:23
-- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:41
+- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:43
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:47
 - [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:125
 - [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:65
 
 ## URL Routers
 
-- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:51
+- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:52
 - [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor. :star:13
 - [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:19
 - [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:3

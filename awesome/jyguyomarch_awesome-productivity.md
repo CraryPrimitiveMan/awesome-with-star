@@ -63,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray. :star:352
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray. :star:354
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.

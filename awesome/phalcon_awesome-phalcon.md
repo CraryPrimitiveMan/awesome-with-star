@@ -61,7 +61,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:185
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:184
 
 
 ## Application Skeleton
@@ -72,7 +72,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:313
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:630
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:631
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:75
@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3785
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3791
 
 
 ## CMS & Blogs
@@ -110,7 +110,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:349
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:350
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:90
 
 
@@ -139,7 +139,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:8
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:132
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:133
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:9
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
@@ -253,9 +253,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Representational state transfer.*
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework :star:16
-* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:103
+* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:104
 * [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:28
-* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework :star:58
+* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework :star:59
 * [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server :star:36
 * [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate :star:89
 * [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:17
@@ -316,7 +316,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework :star:7
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:22
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:316
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:318
 
 
 ## Templating
