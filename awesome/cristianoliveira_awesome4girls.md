@@ -389,6 +389,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
 
+  - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
+
+    Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
+
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
@@ -550,7 +554,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Other Lists
 ([Go to top](#awesome4girls---))
 
-  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:274
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:275
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 

@@ -64,7 +64,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:125
+- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:126
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides. :star:328
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
@@ -78,7 +78,7 @@ Helpful notes:
 
 Plugins:
 
-- [RSpec plugin](https://github.com/SublimeText/RSpec) :star:122
+- [RSpec plugin](https://github.com/SublimeText/RSpec) :star:121
 - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
 - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
 - [ProductiveSnippetsRuby](https://github.com/janlelis/productive-sublime-snippets-ruby/) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
@@ -186,7 +186,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12780
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12787
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)

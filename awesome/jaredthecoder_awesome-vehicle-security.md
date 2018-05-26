@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:4041
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:4048
 
 ## Blogs
 
@@ -233,7 +233,7 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:278
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7576
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7578
 - [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7128
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
@@ -294,16 +294,16 @@ List of lists.
 
 - Security
   - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3159
-  - [Security](https://github.com/sbilly/awesome-security) :star:3054
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2155
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3514
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3116
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3781
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2277
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1930
+  - [Security](https://github.com/sbilly/awesome-security) :star:3056
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2157
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3515
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3117
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3782
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2278
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1929
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:85567
-  - [lists](https://github.com/jnv/lists) :star:4982
+  - [awesome](https://github.com/sindresorhus/awesome) :star:85615
+  - [lists](https://github.com/jnv/lists) :star:4984
 
 # Contributing
 

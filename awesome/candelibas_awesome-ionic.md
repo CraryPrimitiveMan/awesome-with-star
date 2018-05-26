@@ -15,12 +15,12 @@ An "awesome" list of the Ionic resources
 * [Blog](http://blog.ionic.io/)
 * [Documentation](http://ionicframework.com/docs/v2/)
 * [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1675
+* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1676
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:34298
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:34311
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
