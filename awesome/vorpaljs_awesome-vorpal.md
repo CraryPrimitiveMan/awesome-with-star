@@ -59,12 +59,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### POSIX implementations
 
 - [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command. :star:13
-- [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command. :star:12
+- [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command. :star:11
 
 #### Development tools
 
 - [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:16
-- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:14
+- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:13
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime. :star:2
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility. :star:9
 - [set-or-print](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands. :star:3

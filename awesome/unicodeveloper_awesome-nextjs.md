@@ -21,7 +21,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:25608
+* [GitHub](https://github.com/zeit/next.js) :star:25629
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -74,13 +74,13 @@
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:24
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:273
 * [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:435
-* [Password](https://github.com/dotcypress/password) - One password, right way. :star:83
+* [Password](https://github.com/dotcypress/password) - One password, right way. :star:84
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js. :star:94
 * [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js. :star:34
 * [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo. :star:3
 * [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities. :star:12
 * [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer. :star:273
-* [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:23
+* [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js. :star:24
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy. :star:42
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all. :star:33
 * [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets. :star:435

@@ -112,7 +112,7 @@ Plugins:
 ### Client Side Profile
 
 - [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
-- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1731
+- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1730
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 - [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
@@ -176,7 +176,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:543
+- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:542
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon) :star:5
 - [By Tomas Sykora](https://github.com/syky27/Sublime-Text-Icon) :star:11
@@ -186,7 +186,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12787
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12794
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)

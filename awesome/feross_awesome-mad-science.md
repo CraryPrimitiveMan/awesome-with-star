@@ -63,10 +63,10 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6 :star:7514
 
 ## virtual machines
-- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:945
+- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript :star:946
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1750
+- [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript :star:1751
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.

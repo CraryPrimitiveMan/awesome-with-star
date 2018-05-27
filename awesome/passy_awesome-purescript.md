@@ -6,7 +6,7 @@
 ## Build Tooling
 
 - [pulp](https://github.com/bodil/pulp) :star:391
-- [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:22
+- [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager :star:23
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc` :star:43
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
@@ -68,8 +68,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:184
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:184
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:183
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:183
 
 ## Effect Management
 
