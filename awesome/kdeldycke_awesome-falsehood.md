@@ -221,7 +221,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6941
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:6943
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/erezak/libphonenumber-csharp),
@@ -249,7 +249,8 @@ international postal addresses.
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:82
 module to parse, normalize and render postal addresses.
-
+- [`address`](https://github.com/Boostport/address) - Go library to validate :star:22
+and format addresses using Google's dataset.
 
 ## Science
 

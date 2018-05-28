@@ -30,7 +30,7 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:466
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:889
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:890
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:384
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:56

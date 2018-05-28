@@ -67,12 +67,12 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:248
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1724
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4964
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:4966
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1604
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1097
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:839
-* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:556
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:557
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:293
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:428
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:828
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:829
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:475
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:121
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:119
@@ -114,7 +114,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:245
 * [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:421
 * [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:444
-* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:554
+* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:555
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:82
 * [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:180
 
@@ -132,7 +132,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:155
-* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:263
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:264
 
 ## Build Tools
 *Project build and automation tools.*
@@ -156,13 +156,13 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1041
+* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory. :star:1043
 
 ## Date and Time
 *Libraries for working with dates and times.*
 
 * [erlang_localtime](https://github.com/dmitryme/erlang_localtime) - Erlang library for conversion from one local time to another. :star:40
-* [qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic. :star:201
+* [qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic. :star:202
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
@@ -223,7 +223,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
-* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform. :star:3
+* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform. :star:4
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
@@ -248,7 +248,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Websites
 *Useful web and Erlang-related websites and newsletters.*
 
-* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) - All about erlang programming language [powerd by community]. :star:1014
+* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) - All about erlang programming language [powerd by community]. :star:1015
 * [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
 * [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 * [Spawned Shelter](http://spawnedshelter.com/) - Erlang Spawned Shelter. A collection of the best articles, videos and presentations related to Erlang.

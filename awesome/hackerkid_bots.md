@@ -49,7 +49,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5993
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python :star:5996
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
@@ -86,18 +86,18 @@ Table of Contents
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) :star:160
 
 ### Telegram
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2719
-* [Node.js](https://github.com/telegraf/telegraf) :star:1231
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2723
+* [Node.js](https://github.com/telegraf/telegraf) :star:1237
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1086
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4978
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1088
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:4988
 * [C#](https://github.com/MrRoundRobin/telegram.bot) :star:759
 * [Go](https://github.com/tucnak/telebot) :star:637
 
 ### Discord
 ###### Node.js
 * [Eris](https://github.com/abalabahaha/eris) :star:376
-* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2503
+* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2505
 * [Discordie](https://github.com/qeled/discordie) :star:182
 * [Discord.io](https://github.com/izy521/discord.io) :star:434
 
@@ -106,7 +106,7 @@ Table of Contents
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:227
 
 ###### Python
-* [discord.py](https://github.com/Rapptz/discord.py) :star:2210
+* [discord.py](https://github.com/Rapptz/discord.py) :star:2211
 
 ###### Java
 * [JDA](https://github.com/DV8FromTheWorld/JDA/)
@@ -118,7 +118,7 @@ Table of Contents
 * [Discordia](https://github.com/SinisterRectus/Discordia) :star:144
 
 ###### Go
-* [Discordgo](https://github.com/bwmarrin/discordgo) :star:578
+* [Discordgo](https://github.com/bwmarrin/discordgo) :star:579
 
 ### Kik
 * [Python](https://github.com/kikinteractive/kik-python) :star:40

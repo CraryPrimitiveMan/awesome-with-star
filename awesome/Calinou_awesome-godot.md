@@ -25,7 +25,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. :star:26
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours. :star:4
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:21
+- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:22
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:25
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:52
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:483
@@ -83,7 +83,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:51
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:58
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:7
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:186
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:187
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:7
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:14
@@ -122,7 +122,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Alternative themes for the built-in script editor.*
 
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark. :star:21
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark. :star:25
 
 ## Unofficial Godot builds
 

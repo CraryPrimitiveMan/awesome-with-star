@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:11981
+- [Docs](https://github.com/substack/node-browserify#usage) :star:11982
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4247
-- [Repo](https://github.com/substack/node-browserify) :star:11981
+- [Repo](https://github.com/substack/node-browserify) :star:11982
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -98,7 +98,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1530
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1531
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:197
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:522
 
@@ -106,13 +106,13 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:304
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:54
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:571
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:574
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:948
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:949
 
 ## Contributing
 

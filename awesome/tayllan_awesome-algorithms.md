@@ -60,7 +60,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures. :star:3417
+* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures. :star:3420
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
@@ -71,21 +71,21 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C](https://github.com/fragglet/c-algorithms) :star:1302
+* [C](https://github.com/fragglet/c-algorithms) :star:1304
 * [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee) :star:35
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms) :star:12
-    * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms) :star:1737
+    * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms) :star:1738
     * [by @justcoding121](https://github.com/justcoding121/Advanced-Algorithms) :star:72
 * C++
-    * [by @xtaci](https://github.com/xtaci/algorithms) :star:2224
+    * [by @xtaci](https://github.com/xtaci/algorithms) :star:2228
     * [by @PetarV-](https://github.com/PetarV-/Algorithms) :star:178
     * [by @faheel](https://github.com/faheel/Algos) :star:165
-* [Erlang](https://github.com/aggelgian/erlang-algorithms) :star:94
-* [Go](https://github.com/arnauddri/algorithms) :star:1361
+* [Erlang](https://github.com/aggelgian/erlang-algorithms) :star:95
+* [Go](https://github.com/arnauddri/algorithms) :star:1363
 * Java
     * [by @jpa99](https://github.com/jpa99/Algorithms) :star:28
-    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation) :star:2080
+    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation) :star:2084
     * [by @asmolich](https://github.com/asmolich/algorithms) :star:10
     * [by @psjava](https://github.com/psjava/psjava) :star:43
     * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds) :star:16
@@ -94,32 +94,32 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java) :star:20
 * JavaScript
     * [by @jiayihu](https://github.com/jiayihu/pretty-algorithms) :star:1995
-    * [by @felipernb](https://github.com/felipernb/algorithms.js) :star:2830
+    * [by @felipernb](https://github.com/felipernb/algorithms.js) :star:2831
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript) :star:5331
     * [by @duereg](https://github.com/duereg/js-algorithms) :star:649
-    * [by @mgechev](https://github.com/mgechev/javascript-algorithms) :star:4359
-    * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms) :star:11285
+    * [by @mgechev](https://github.com/mgechev/javascript-algorithms) :star:4389
+    * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms) :star:12262
 * Objective-C
-    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms) :star:2330
+    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms) :star:2332
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms) :star:2850
-    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms) :star:2066
+    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms) :star:2067
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms) :star:231
     * [by @nbro](https://github.com/nbro/ands) :star:28
 * Ruby
-    * [by @kanwei](https://github.com/kanwei/algorithms) :star:2256
-    * [by @sagivo](https://github.com/sagivo/algorithms) :star:2971
-    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby) :star:128
-* [Scala](https://github.com/vkostyukov/scalacaster) :star:1034
+    * [by @kanwei](https://github.com/kanwei/algorithms) :star:2255
+    * [by @sagivo](https://github.com/sagivo/algorithms) :star:2973
+    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby) :star:129
+* [Scala](https://github.com/vkostyukov/scalacaster) :star:1036
 * Swift
     * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-) :star:31
     * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures) :star:1871
-    * [by @hollance](https://github.com/hollance/swift-algorithm-club) :star:17238
+    * [by @hollance](https://github.com/hollance/swift-algorithm-club) :star:17246
 * Language agnostic
-    * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations) :star:2013
+    * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations) :star:2014
     * [by @indy256](https://github.com/indy256/codelibrary) :star:802
-    * [by @sagivo](https://github.com/sagivo/algorithms) :star:2971
-    * [by @patmorin](https://github.com/patmorin/ods) :star:623
+    * [by @sagivo](https://github.com/sagivo/algorithms) :star:2973
+    * [by @patmorin](https://github.com/patmorin/ods) :star:624
 
 ## Online Judges
 
@@ -158,7 +158,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Some tools that can help you in the learning of algorithms*
 
-* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures). :star:12947
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures). :star:12953
 
 ## License
 

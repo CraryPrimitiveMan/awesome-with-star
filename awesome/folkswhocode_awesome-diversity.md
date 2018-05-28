@@ -34,6 +34,7 @@ Organizations bringing diversity to tech.
 - [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
 - [FrameShift Consulting](https://frameshiftconsulting.com/) - FrameShift open sources their fantastic Ally Skills Workshop, Conference incident response materials and many other resources allowing to scale creating welcoming, inclusive, diverse cultures.
 - [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
+- [Geek Girls Carrots](http://gocarrots.org) - Attracting women to tech since 2011.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech. :star:48
@@ -92,7 +93,7 @@ The following is a list of individual resources with actionable items for being 
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How to Fight Sexism on Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:116
+- [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery. :star:117
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.

@@ -55,7 +55,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:3051
+- [Frege](https://github.com/Frege/frege) - Official website. :star:3052
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -145,7 +145,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android. :star:1
 - [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege. :star:8
 - [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:9
-- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:91
+- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:92
 
 ### Big Data
 
