@@ -36,11 +36,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS :star:1297
+- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS :star:1298
 
 
 ## Elixir
-- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:141
+- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:142
 
 
 ## Golang
@@ -57,7 +57,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:9250
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:9257
 
 
 ## JavaScript
@@ -103,15 +103,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Esoteric languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5312
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5771
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1786
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:5770
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:1787
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:113
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language. :star:1
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1869
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1870
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 
@@ -131,18 +131,18 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2815
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1428
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:4005
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1161
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:3094
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1163
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:3098
 - [fat](https://github.com/drummyfish/fat) - Expand your files. :star:1
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3864
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:3
-- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:134
+- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:135
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:669
 - [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:21301
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:21315
 
 
 ## Miscellaneous
@@ -150,7 +150,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars. :star:8
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data. :star:529
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4233
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4236
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1652
-- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing. :star:832
+- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing. :star:834
 

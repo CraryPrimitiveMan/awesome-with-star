@@ -13,7 +13,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Official Website](https://getcomposer.org/)
 - [Issues](https://github.com/composer/composer/issues)
-- [Github](https://github.com/composer/composer) :star:14721
+- [Github](https://github.com/composer/composer) :star:14730
 - [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)
 - [Documentation](https://getcomposer.org/doc/)
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
@@ -53,18 +53,18 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory. :star:74
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks. :star:156
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor). :star:19
-- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3695
+- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3699
 - [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2. :star:10
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages. :star:3
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder). :star:91
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
-- [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions. :star:828
+- [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions. :star:832
 - [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name. :star:52
 - [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ... :star:5
 - [composer-ignore-plugin](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself. :star:5
 - [composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config. :star:173
-- [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages. :star:1259
-- [phpcodesniffer-composer-installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer :star:61
+- [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages. :star:1262
+- [phpcodesniffer-composer-installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer :star:62
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache. :star:137
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated. :star:35
 - [nodejs-installer](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package  :star:89
@@ -74,7 +74,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 - [Composer-Yaml](https://github.com/igorw/composer-yaml) - This tool converts composer.yml to composer.json. :star:49
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project. :star:683
-- [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github. :star:2726
+- [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github. :star:2727
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package. :star:125
 
 ## Scripts

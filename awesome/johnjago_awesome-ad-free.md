@@ -1,7 +1,7 @@
 # Information comes from [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free)
 # Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://www.nomoreads.org"><img src="https://www.nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
 
-> A curated list of ad-free alternatives to popular services on the internet.
+A curated list of ad-free alternatives to popular services on the web.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
@@ -31,7 +31,7 @@
 
 ## Alternatives
 
-> Alternatives to ad-supported websites, software, and publications.
+Alternatives to ad-supported websites, software, and publications.
 
 ### Blogs
 
@@ -58,7 +58,7 @@
 
 ### Mobile Apps
 
-- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1920
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1921
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
@@ -110,7 +110,7 @@
 ### Ad Blockers
 
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12739
+- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12750
 
 **Note**: Avoid Adblock Plus because coprorations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 
@@ -126,7 +126,7 @@
 
 ### Businesses
 
-> These business have no advertising policies.
+These business have no advertising policies.
 
 - [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
 - [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - Law firm that you won't find in the yellow pages.

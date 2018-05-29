@@ -130,7 +130,7 @@
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4
 - [Hasan Bayat](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source. :star:1
 - [Stéphane Hulard](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.
-- [Scott Hanselman](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft. :star:93
+- [Scott Hanselman](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft. :star:92
 - [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
 - [Lizzie Siegle](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
 - [Sami CHNITER](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
@@ -147,7 +147,7 @@
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-- [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+- [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer. :star:1
 
 #### Ask these organizations anything!
 

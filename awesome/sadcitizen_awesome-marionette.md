@@ -106,7 +106,7 @@
 ## Libraries
 
 - [Marionette State](https://github.com/Squareknot/marionette.state) :star:114
-- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:134
+- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:133
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:69
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:69
