@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:224
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5407
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5412
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -30,7 +30,7 @@ under the hood:
 
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:466
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:890
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:891
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:384
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:56

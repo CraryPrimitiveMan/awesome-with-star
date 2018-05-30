@@ -58,8 +58,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Projects that can be used to host a CTF*
 
-- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1219
-- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5387
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon :star:1222
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook :star:5388
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform :star:31
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP :star:261
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework :star:53
@@ -96,7 +96,7 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2587
+- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks. :star:2601
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2 :star:199
 
 ## Crypto
@@ -130,7 +130,7 @@ Check solve section for steganography.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call :star:419
   - `gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3905
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits :star:3907
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser :star:1685
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation :star:1443
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit :star:236
@@ -146,8 +146,8 @@ Check solve section for steganography.
 - [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
-- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials :star:83
-- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems :star:688
+- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials :star:84
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems :star:689
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel :star:413
@@ -173,9 +173,9 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Bro](https://www.bro.org/) - An open-source network security monitor.
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:8093
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner. :star:8096
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
-- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:317
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. :star:318
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
@@ -186,32 +186,32 @@ Check solve section for steganography.
 
 *Tools used for solving Reversing challenges*
 
-- [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications :star:1997
-- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2664
+- [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications :star:1998
+- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework :star:2669
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler :star:494
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
-- [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework :star:1000
+- [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework :star:1002
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
-- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3433
+- [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images. :star:3435
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C :star:92
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
-- [GEF](https://github.com/hugsy/gef) - GDB plugin :star:1511
+- [GEF](https://github.com/hugsy/gef) - GDB plugin :star:1515
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
-- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:14851
+- [Jadx](https://github.com/skylot/jadx) - Decompile Android files :star:14857
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
-- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler :star:861
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler :star:862
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax. :star:2628
-- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1275
-- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7461
+- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.  :star:1277
+- [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7465
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
-- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:3086
+- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research :star:3090
 
 *JavaScript Deobfustcators*
 
@@ -253,11 +253,11 @@ Check solve section for steganography.
 *Tools used for solving Web challenges*
 
 - [BurpSuite]() - A graphical tool to testing website security. 
-- [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool. :star:1587
+- [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool. :star:1588
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:11485
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli :star:11494
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework. :star:1979
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
@@ -287,7 +287,7 @@ Check solve section for steganography.
 
 *Collections of installer scripts, useful tools*
 
-- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools. :star:2705
+- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools. :star:2704
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration. :star:20
 
 ## Tutorials
@@ -349,7 +349,7 @@ Check solve section for steganography.
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first :star:8
-- [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools :star:258
+- [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools :star:259
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team. :star:132
 

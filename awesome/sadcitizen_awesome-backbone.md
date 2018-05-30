@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27192
+- [Github repository](https://github.com/jashkenas/backbone) :star:27193
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -120,18 +120,18 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2393
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2230
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2392
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2229
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2051
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1964
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1694
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1465
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1379
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:913
-- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:827
-- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:595
+- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:826
+- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:596
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:506
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:492
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:502
-- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:384
+- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:385
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

@@ -209,7 +209,7 @@ drm/kms.
 * [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
   * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan) :star:38
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:106
+  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:107
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields.
 
 ## Community
@@ -218,6 +218,7 @@ drm/kms.
 *  [Khronos Forum](https://forums.khronos.org/forumdisplay.php/114-Vulkan)
 *  [Reddit](https://www.reddit.com/r/vulkan/)
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
+*  [Discord](https://discord.gg/JyJDbyH)
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
