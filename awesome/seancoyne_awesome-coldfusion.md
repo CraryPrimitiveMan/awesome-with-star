@@ -32,7 +32,7 @@ Pull requests very welcome.
 * [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:181
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:360
+* [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:361
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing
@@ -74,7 +74,7 @@ Pull requests very welcome.
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:26
-* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:81
+* [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:82
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:130
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:142
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11

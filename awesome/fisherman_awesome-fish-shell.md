@@ -16,26 +16,26 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:490
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:489
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2923
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3475
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2925
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3479
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:749
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:750
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:213
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:269
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:108
 * [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols. :star:40
 * [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark. :star:150
-* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:193
+* [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping. :star:195
 
 ## Simple Prompts
 
-* [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:54
-* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:248
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:519
+* [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:55
+* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:249
+* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:522
 

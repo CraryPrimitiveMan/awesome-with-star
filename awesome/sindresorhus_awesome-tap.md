@@ -38,7 +38,7 @@
 - [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing. :star:30
 - [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability. :star:27
 - [tap-bail](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails. :star:19
-- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:53
+- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:54
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output. :star:18
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output. :star:29
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity. :star:7
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13883
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13896
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1230
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4614
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4616
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4742
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4746
 
 [More...](https://testanything.org/producers.html)
 

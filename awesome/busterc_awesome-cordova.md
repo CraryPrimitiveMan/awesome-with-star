@@ -22,8 +22,6 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 * [Apache](http://cordova.apache.org/plugins/)
 * [NPM](https://www.npmjs.com/search?q=cordova-plugin)
-* [PlugReg](http://www.plugreg.com/)
-* [Telerik Verified](https://plugins.telerik.com/cordova)
 
 ## UI Frameworks
 
@@ -31,7 +29,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:988
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:989
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:685
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
@@ -48,8 +46,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 * [Framework7 Icons](https://framework7.io/icons/)
 * [Icons8](https://icons8.com/)
-* [Ionicons](http://ionicons.com/)
-* [Material Icons](https://material.io/icons/)
+* [Ionicons](https://ionicons.com/)
+* [Material Icons](https://material.io/tools/icons/)
 
 ## Tools
 
@@ -59,7 +57,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
     * [generator-cordova-www](https://github.com/busterc/generator-cordova-www) :star:1
-    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic)
+    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:693
     * [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova) :star:1
     * [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova) :star:2
     * [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:24

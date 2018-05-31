@@ -198,12 +198,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [colander](https://github.com/Pylons/colander) - A :star:328
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:809
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms :star:810
   validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2563
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2565
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:602
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:603
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:288
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -346,7 +346,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:415
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:416
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -356,7 +356,7 @@ provide new storage backends.*
   with support for JSON-RPC and AMF.
 * [pyramid_autodoc](https://github.com/SurveyMonkey/pyramid_autodoc) - Sphinx :star:9
   extension for documenting your Pyramid APIs.
-* [pyramid_pages](https://github.com/uralbash/pyramid_pages) - Provides a :star:9
+* [pyramid_pages](https://github.com/uralbash/pyramid_pages) - Provides a :star:11
   collections of tree pages to your Pyramid application. This is very similar
   to django.contrib.flatpages but with a tree structure and traversal algorithm
   in URL dispath.

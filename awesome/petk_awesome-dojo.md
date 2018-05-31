@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23730
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23738
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:41
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,15 +199,15 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14371
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14381
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:91
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:85843
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1126
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:85908
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1124
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:4982
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:4983
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:105
-    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:172
+    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:173
 
 [Back to top](#awesome-dojo)
 
