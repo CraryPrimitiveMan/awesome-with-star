@@ -5,15 +5,15 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:908
-- [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:33
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:909
+- [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:32
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:85
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:658
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:242
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:244
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
-- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:218
+- [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:217
 - [Anselm Hannemann](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io. :star:7
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek. :star:2
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer. :star:4
@@ -34,16 +34,16 @@
 - [Ryan Christiani](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
 - [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco. :star:1
 - [Patty Delgado](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
-- [Nicholas C. Zakas](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint. :star:14
+- [Nicholas C. Zakas](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint. :star:15
 - [Lance He](https://github.com/indigofeather/ama) - Full stack developer and speaker.
-- [Derick Bailey](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com). :star:1
+- [Derick Bailey](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com). :star:2
 - [Andy Jiang](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
 - [Benny Thomas](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 - [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel. :star:33
 - [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer. Creator of [CSSDeck](http://cssdeck.com). :star:9
 - [Matthew Mueller](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules. :star:3
 - [DeokHong Kim](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of [hackrslab](https://github.com/hackrslab).
-- [Hugo Giraudel](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho. :star:27
+- [Hugo Giraudel](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho. :star:28
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - CS & SE university student in Finland.
 - [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools. :star:1
@@ -70,7 +70,7 @@
 - [Hamish Friedlander](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 - [Chris Tankersley](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 - [Deepak Verma](https://github.com/deepaknverma/ama) - Full stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma). :star:1
-- [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux). :star:198
+- [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux). :star:199
 - [Daichi Furiya](https://github.com/wasabeef/ama) - Software developer in Japan. I love Android, JavaScript and iOS. :star:2
 - [Maxime Thirouin](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder. :star:2
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
@@ -82,7 +82,7 @@
 - [Raymond Clanan](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
 - [MK Yuan](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com). :star:2
 - [Hong Liu](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
-- [Arnaud Benard](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
+- [Arnaud Benard](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad. :star:1
 - [Anthony Ramella](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer. :star:1
 - [Diki Andriansyah](https://github.com/dikiaap/ama) - Freelance full stack developer. Laravel addict. :star:2
 - [Steel Brain](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
@@ -92,7 +92,7 @@
 - [Camilo Nova](https://github.com/camilonova/ama) - Full stack software developer in Colombia. :star:3
 - [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team. :star:1
 - [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
-- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org). :star:26
+- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org). :star:27
 - [Rob Thomas](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
 - [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java. :star:1
 - [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
@@ -104,7 +104,7 @@
 - [Max Stoiber](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS](https://github.com/keystonejs/keystone) and [ElementalUI](https://github.com/elementalui/elemental). Creator of [react-boilerplate](https://github.com/mxstbr/react-boilerplate), part of React Vienna. :star:20
 - [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com). :star:1
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
-- [Jeroen Engels](https://github.com/jfmengels/ama) - JS developer and open source enthusiast. :star:3
+- [Jeroen Engels](https://github.com/jfmengels/ama) - JS developer and open source enthusiast. :star:4
 - [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 - [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor. :star:2
 - [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
@@ -124,7 +124,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer. :star:2
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:217
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:218
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4
@@ -147,7 +147,7 @@
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-- [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer. :star:1
+- [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer. :star:5
 
 #### Ask these organizations anything!
 
@@ -158,7 +158,7 @@
 - [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions. :star:11
 - [From the Front](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things. :star:4
-- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:9
+- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:10
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students. :star:14
 
 

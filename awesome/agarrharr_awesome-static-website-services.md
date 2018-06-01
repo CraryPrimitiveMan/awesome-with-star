@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Social Media](#social-media)
   - [Surveys](#surveys)
 - [E-Commerce](#e-commerce)
+- [Payments](#payments)
 - [Search](#search)
 - [Analytics](#analytics)
 - [Other](#other)
@@ -69,7 +70,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
 - [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
-- [Vine](https://vine.co/) - Embeddable vine videos.
 - [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
 
 ### Code
@@ -93,7 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:1021
+- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others. :star:1025
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -176,6 +176,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 
+## Payments
+ - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
+ - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
+
 ## Search
 
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
@@ -192,7 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:70
+- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) :star:71
 
 ----
 

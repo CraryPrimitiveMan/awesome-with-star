@@ -346,8 +346,8 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:659
-* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4385
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:660
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4386
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -369,7 +369,7 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1161
+* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1162
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.

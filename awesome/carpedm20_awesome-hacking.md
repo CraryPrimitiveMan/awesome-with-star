@@ -58,7 +58,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
- * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security :star:5825
+ * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security :star:5828
 
 ### Docker Images for Penetration Testing & Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -89,22 +89,22 @@ For a list of free hacking books available for download, go [here](https://githu
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
 ## Tools
- * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM :star:113
+ * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM :star:115
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
- * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files :star:4616
+ * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files :star:4623
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
- * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger  :star:5380
- * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.  :star:2260
+ * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger  :star:5393
+ * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.  :star:2269
  * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code  :star:123
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
- * [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7468
+ * [radare2](https://github.com/radare/radare2) - A portable reversing framework :star:7472
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code. :star:2628
  * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API :star:281
@@ -118,7 +118,7 @@ For a list of free hacking books available for download, go [here](https://githu
 # Web
 
 ## Tools
- * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool :star:11498
+ * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool :star:11507
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
 
 
@@ -140,8 +140,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit :star:199
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
- * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation :star:2553
- * [Amass](https://github.com/caffix/amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping :star:948
+ * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation :star:2558
+ * [Amass](https://github.com/caffix/amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping :star:950
 
 
 # Forensic
@@ -192,7 +192,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
 ## Bug bounty
-  * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet) :star:792
+  * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet) :star:811
 
 # CTF
 
@@ -214,8 +214,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [WeChall](http://www.wechall.net/)
  * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
- * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting :star:967
- * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch. :star:6484
+ * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting :star:968
+ * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch. :star:6488
 
 # OS
 

@@ -62,7 +62,7 @@ Pull requests very welcome.
 
 * [CFArango](https://github.com/dajester2013/CFArango) - ArangoDB client for ColdFusion :star:4
 * [CFCouchbase](https://github.com/Ortus-Solutions/cfcouchbase-sdk) - Couchbase NoSQL and caching client wrapper for ColdFusion :star:11
-* [cfmongodb](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion :star:93
+* [cfmongodb](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion :star:94
 
 ## REST
 

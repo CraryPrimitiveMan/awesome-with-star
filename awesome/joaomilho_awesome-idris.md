@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2432
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2436
 
 ### Articles
 
@@ -62,7 +62,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:176
-* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:171
+* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:172
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:65
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:70
@@ -79,9 +79,9 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Backends
 
 * [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris. :star:254
-* [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend. :star:58
+* [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend. :star:59
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend. :star:165
-* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:63
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:64
 
 ### Community
 

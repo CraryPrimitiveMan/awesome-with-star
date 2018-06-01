@@ -277,7 +277,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:270
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:271
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -371,16 +371,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1813
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1814
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1280
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3110
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1287
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3141
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:418
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:178
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:138
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:179
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:139
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:6
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:480
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:7
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:482
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:399
 

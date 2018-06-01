@@ -236,7 +236,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 **Science Books Using Sphinx**
 
-* [Theoretical Physics](https://github.com/certik/theoretical-physics) :star:108
+* [Theoretical Physics](https://github.com/certik/theoretical-physics) :star:109
 * [Statistical Physics](https://github.com/emptymalei/statisticalphysics) :star:6
 * [Neutrino Physics](https://github.com/NeuPhysics/neutrino) :star:4
 
@@ -391,7 +391,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:654
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:655
 * [jsmind](http://sourceforge.net/projects/jsmind/)
 * [mindmaps](https://github.com/drichard/mindmaps) :star:1355
 
@@ -455,12 +455,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40739
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4374
-* [CSSS](https://github.com/LeaVerou/CSSS) :star:1498
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40762
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4373
+* [CSSS](https://github.com/LeaVerou/CSSS) :star:1499
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5286
-* [Shower](https://github.com/shower/shower) :star:4014
+* [Shower](https://github.com/shower/shower) :star:4017
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1216
 * [Slides](https://github.com/briancavalier/slides) :star:465
@@ -680,7 +680,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:886
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:887
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -739,7 +739,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:847
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:848
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

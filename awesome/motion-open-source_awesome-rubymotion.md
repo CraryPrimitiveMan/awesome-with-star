@@ -105,8 +105,8 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps. :star:1
 * [MotionKit macOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - macOS Example Apps made with MotionKit.
 * [Rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - Simple OSX app using AVFoundation to stream, record, and transcode video. :star:6
-* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List. :star:9
-* [Menubar-popover](https://github.com/JonasNielsen/menubar-popover) - Example app to show how to use NSPopopver from the menubar. :star:10
+* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List.
+* [Menubar-popover](https://github.com/JonasNielsen/menubar-popover) - Example app to show how to use NSPopopver from the menubar.
 
 
 ### Example tvOS Apps
