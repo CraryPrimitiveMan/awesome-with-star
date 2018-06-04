@@ -141,7 +141,7 @@ List of software with DTrace support.
 
 #### Node.js
 
-- [node-dtrace-provider](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps. :star:297
+- [node-dtrace-provider](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps. :star:296
 
 #### Perl
 
@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:5998
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:6011
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:331
 
 ## Tools

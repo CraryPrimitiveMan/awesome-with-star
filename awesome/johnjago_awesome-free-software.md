@@ -200,7 +200,6 @@
 - [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
-> Libre-friendly.
 
 ### Companies
 
@@ -220,7 +219,6 @@
 
 ### Articles
 
-- [Business Models for Open-Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 - [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
@@ -256,7 +254,6 @@
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
-- [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
 - [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
 - [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
@@ -266,8 +263,8 @@
 ### Other Lists
 
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:39
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:23688
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6707
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:23751
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6723
 
 ### Talks
 

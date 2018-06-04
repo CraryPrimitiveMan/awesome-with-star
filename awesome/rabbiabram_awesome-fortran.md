@@ -36,7 +36,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
 * [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard. :star:48
+* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard. :star:49
 
 ## Math Libs
 *Libraries for calculating and other mathematical operations.*
@@ -49,7 +49,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. :star:67
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2052
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2060
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
@@ -101,12 +101,12 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
 
 * [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
-* [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
+* [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men. :star:18
 
 ## Automatic documentation
 *Libraries for building documentation.*
 
-* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:128
+* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:129
 
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*

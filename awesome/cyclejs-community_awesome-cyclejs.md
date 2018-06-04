@@ -70,10 +70,10 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:21
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2976
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2977
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:14
-* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
+* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:466
 * [edge/electron-cycle-media ★27](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron. :star:29
 * [kibin/cycle-example-who-to-follow ★16](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api. :star:16
 * [SkaterDad/cycle-snabbdom-examples ★12](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations. :star:13
@@ -83,7 +83,7 @@ http://oleg.fi/graafi/
 * [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js. :star:17
 * [cyclejs-community/built-with-cycle ★9](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js :star:10
 * [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) - A hangman game built with Cycle.js :star:11
-* [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) - Dancing pythagorean tree fractal - Animating 2048 SVG nodes. :star:18
+* [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) - Dancing pythagorean tree fractal - Animating 2048 SVG nodes. :star:19
 * [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests. :star:3
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
@@ -113,7 +113,7 @@ http://oleg.fi/graafi/
 * [cgeorg/cycle-socket.io ★27](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients :star:28
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API. :star:2
 * [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher). :star:14
-* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:210
+* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) :star:211
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures :star:11
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource. :star:6
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom :star:41
@@ -123,7 +123,7 @@ http://oleg.fi/graafi/
 * [edge/cycle-blessed ★46](https://github.com/edge/cycle-blessed) - A Cycle.js Driver for terminal applications :star:46
 * [10clouds/cyclejs-cookie ★2](https://github.com/10clouds/cyclejs-cookie) - Cookies Driver for Cycle.js :star:2
 * [whitecolor/cycle-async-driver ★25](https://github.com/whitecolor/cycle-async-driver) - Factory for creating async request/response cycle.js drivers :star:25
-* [raquelxmoss/cycle-keys ★35](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events :star:34
+* [raquelxmoss/cycle-keys ★35](https://github.com/raquelxmoss/cycle-keys) - Driver for keyboard events :star:33
 * [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
 * [goodmind/cycle-telegram ★15](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API :star:18
 * [apoco/cycle-electron-driver ★22](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application :star:21
@@ -131,7 +131,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js :star:3
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js :star:4
-* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:678
+* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:680
 * [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync :star:22
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server :star:1
@@ -144,20 +144,20 @@ http://oleg.fi/graafi/
 
 * [staltz/chai-virtual-dom ★24](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees :star:24
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies :star:10
-* [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:19
+* [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:20
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js :star:2
-* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:448
+* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:447
 * [**pH200/cycle-react ★342**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API :star:357
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js. :star:2
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4
 * [SuperManitu/cyclejs-sortable ★15](https://github.com/cyclejs-community/cyclejs-sortable) - Make everything sortable via drag and drop in only one line of code! :star:16
 * [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
-* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:272
+* [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps :star:273
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage :star:5
 
 ### Boilerplates
 
-* [andreloureiro/cyclejs-starter ★50](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload. :star:50
+* [andreloureiro/cyclejs-starter ★50](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload. :star:51
 * [Frikki/generator-cyclejs ★2](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman. :star:2
 * [adicirstei/cycle-bp ★5](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps :star:5
 * [**edge/cyc ★194**](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds. :star:194
@@ -170,7 +170,7 @@ http://oleg.fi/graafi/
 
 ### Testing
 
-* [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework. :star:21
+* [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework. :star:22
 * [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements :star:2
 
 ### Debugging
