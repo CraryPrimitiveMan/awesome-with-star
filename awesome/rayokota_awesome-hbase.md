@@ -39,7 +39,7 @@ A curated list of awesome HBase projects and resources.
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:495
 * [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:244
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:398
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:397
 
 
 ### Cloud
@@ -58,14 +58,14 @@ A curated list of awesome HBase projects and resources.
 
 #### Document
 
-* [HDocDB](https://github.com/rayokota/hdocdb) - HBase as a JSON document database. :star:12
+* [HDocDB](https://github.com/rayokota/hdocdb) - HBase as a JSON document database. :star:13
 
 #### Entity/JPA
 
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:808
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:809
 
 #### Geospatial
 
@@ -101,7 +101,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Transactions
 
-* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:141
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:142
 * [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:292
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
 * [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:179

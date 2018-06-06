@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13936
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1230
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4619
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:13945
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1231
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4621
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4755
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4763
 
 [More...](https://testanything.org/producers.html)
 
@@ -95,7 +95,7 @@ Things that consume TAP output.
 
 ### Python
 
-- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP. :star:53
+- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP. :star:55
 
 
 ## Articles

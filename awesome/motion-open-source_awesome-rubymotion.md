@@ -331,7 +331,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Purple-monkey](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/macOS using RubyMotion. :star:6
 * [Motion-tickspot](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and macOS. :star:2
 * [Motion-aws](https://github.com/jamonholmgren/motion-aws) - Provides iOS and macOS connectivity to AWS services. :star:2
-* [Motion-ocean](https://github.com/brianpattison/motion-ocean) - RubyMotion wrapper for the http://digitalocean.com API v2.0. :star:5
+* [Motion-ocean](https://github.com/brianpattison/motion-ocean) - RubyMotion wrapper for the http://digitalocean.com API v2.0.
 * [Sox](https://github.com/brilliantfantastic/sox) - RubyMotion wrapper for the Freshbooks API. :star:6
 * [Twittermotion](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API. :star:42
 * [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4
