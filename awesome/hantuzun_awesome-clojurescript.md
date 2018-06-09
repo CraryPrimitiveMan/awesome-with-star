@@ -47,6 +47,7 @@
 
 
 ### Client/Server Communication
+- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 - Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
@@ -79,7 +80,7 @@
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:516
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy :star:520
 
 
 ### Document Object Model
@@ -195,7 +196,7 @@
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
-- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework. :star:476
+- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework. :star:477
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.

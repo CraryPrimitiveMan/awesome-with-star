@@ -216,7 +216,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Go
 
-- [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
 ## Haskell
 
@@ -225,6 +225,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Java
 
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+  ![Debugger for Java](https://raw.githubusercontent.com/Microsoft/vscode-java-pack/master/vscode-java-debug.gif)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -601,7 +603,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:57
+- [Essence](https://github.com/flagello/Essence) :star:56
 - [Pragmatic Essence](https://github.com/orta/Essence) :star:54
 
 ## Syntax
@@ -691,7 +693,7 @@ A professional theme with hand-picked & bold shades of purple 💜 to go along w
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:223
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:224
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 - [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor. :star:29

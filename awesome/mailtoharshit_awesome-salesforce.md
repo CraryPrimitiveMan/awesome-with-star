@@ -132,7 +132,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/> :star:41
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br> :star:112
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br> :star:113
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
 * [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing). :star:48
@@ -164,7 +164,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
-* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:73
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle. :star:74
 
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 

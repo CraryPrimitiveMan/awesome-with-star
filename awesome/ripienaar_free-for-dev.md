@@ -463,7 +463,6 @@ Table of Contents
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [producteev.com](https://producteev.com/) — Task management tool. Free, premium version with more options. Mobile applications available
-   * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
@@ -608,7 +607,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:97
+  * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free. :star:98
   * [PWD](https://labs.play-with-docker.com/) - Play with Docker. A simple, interactive and fun playground to learn Docker
  
 ## Vagrant Related

@@ -346,8 +346,8 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:663
-* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4398
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:664
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4413
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -358,7 +358,7 @@ These sites list open calls for speakers.
 * [Lanyrd.com](http://lanyrd.com/calls/)
 * [Papercall](https://papercall.io)
 * [Technically Speaking](https://techspeak.email/)
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:188
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:189
 
 ### For Organizers
 
@@ -369,7 +369,7 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1162
+* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) :star:1163
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.

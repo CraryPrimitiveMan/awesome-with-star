@@ -25,7 +25,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints. :star:128
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API. :star:44
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
-* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:45
+* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:46
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses. :star:8
 * [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs :star:28
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard :star:14
@@ -72,7 +72,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Logging
 
-* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers :star:47
+* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers :star:48
 * [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry :star:17
 * [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder :star:16
 
@@ -85,7 +85,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Guice
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:248
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:129
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:130
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:18
 
 ### Deployment
