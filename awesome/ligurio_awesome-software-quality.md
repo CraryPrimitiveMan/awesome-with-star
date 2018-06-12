@@ -62,7 +62,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:55
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:56
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -327,7 +327,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:11
 - [test-anything](https://github.com/finnp/test-anything) :star:123
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:545
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:546
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -371,16 +371,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1821
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1827
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1307
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3247
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:421
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:183
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1321
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3258
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:422
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:182
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:143
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:147
+- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:148
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:8
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:498
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:500
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:406
 

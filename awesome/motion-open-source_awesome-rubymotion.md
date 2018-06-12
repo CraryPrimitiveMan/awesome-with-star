@@ -140,7 +140,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Editors & RM
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
 * [Atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom. :star:5
-* [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment. :star:40
+* [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment. :star:39
 * [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:157
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
 
@@ -218,7 +218,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:134
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:133
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1273
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1274
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:21
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19

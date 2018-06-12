@@ -79,7 +79,8 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Training Courses @ NobleProg](http://www.nobleprog.co.uk/jmeter/training)
 - [JMeter Training Course @ ABSoft Trainings](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/)
 - [JMeter Training Course @ BlazeMeter](http://info.blazemeter.com/jmeter-training-course)
-- [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
+- [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial)
+- [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
 
 ## Best Practices
 
@@ -95,7 +96,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## DSL
 
-- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:627
+- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:628
 
 ## Distributions
 
@@ -113,7 +114,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:250
+    - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:252
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) :star:13
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.

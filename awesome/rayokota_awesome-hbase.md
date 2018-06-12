@@ -38,7 +38,7 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:496
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:244
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:245
 * [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:401
 
 
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:809
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:811
 
 #### Geospatial
 
@@ -96,7 +96,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:492
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:493
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions

@@ -71,7 +71,7 @@
 
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts. :star:8
-* [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails. :star:15
+* [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails. :star:16
 * [Hm-print](https://github.com/litti/hm-print) - Print CCU Programs. :star:5
 * [Hm-tools](https://github.com/fhetty/hm-tools) - Collection of tools for RaspberryMatic. :star:6
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
@@ -85,7 +85,7 @@
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:83
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform. :star:84
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue). :star:20
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT. :star:14
 * [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface. :star:12

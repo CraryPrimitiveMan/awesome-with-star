@@ -36,7 +36,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:882
+- [steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js. :star:883
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient. :star:29
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client. :star:226
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework. :star:98
@@ -57,7 +57,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types. :star:5
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator. :star:27
-- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:236
+- [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator. :star:238
 - [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator. :star:378
 
 #### Community & Store Automation
@@ -80,7 +80,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-crypto](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto. :star:12
 - [steam-groups](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions. :star:17
 - [steamid](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy. :star:36
-- [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:117
+- [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam. :star:118
 - [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot. :star:82
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa. :star:17
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation. :star:10
@@ -90,9 +90,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1222
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1227
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:136
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1019
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1020
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:41
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -105,7 +105,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### PHP
 
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website. :star:50
-- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:298
+- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:299
 - [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:20
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API. :star:65
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP. :star:3
@@ -124,13 +124,13 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam](https://github.com/ValvePython/steam) - Module for various interactions with Steam. :star:187
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library. :star:61
-- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:81
+- [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support. :star:80
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API. :star:294
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library. :star:9
 
 #### Game Interaction
 
-- [csgo](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator. :star:25
+- [csgo](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator. :star:26
 - [dota2](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator. :star:57
 
 #### Misc
@@ -169,7 +169,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 - [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) :star:44
-- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:254
+- [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) :star:253
 - [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
 
 ### Posts

@@ -13,10 +13,11 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Inspiration](#inspiration)
   - [Games](#games)
   - [Videos](#videos)
+  - [Other](#other)
 - [Community](#community)
   - [Artists](#artists)
   - [Hubs](#hubs)
-- [Tools](#tools)
+- [Editors](#editors)
 
 ## Tutorials
 
@@ -52,6 +53,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Totoro - 8-bit](https://vimeo.com/102267431) - A short test clip of an artist recreating a Totoro scene.
 - [MortMort channel](https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg) - Creative videos & streams including tips, discussions and tutorials.
 
+### Other
+- [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
+
 ## Community
 
 ### Artists
@@ -65,7 +69,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
 
-## Tools
+## Editors
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.

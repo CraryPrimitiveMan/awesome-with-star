@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3834
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3843
 
 
 ## CMS & Blogs
@@ -110,7 +110,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:349
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure :star:348
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework :star:93
 
 
@@ -316,7 +316,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework :star:7
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:22
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:317
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:318
 
 
 ## Templating
@@ -362,7 +362,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt :star:53
 * [Phalcon Box](https://github.com/phalcon/box) - Phalcon Box is an official, pre-packaged Vagrant box that provides you a wonderful development environment :star:199
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services :star:28
-* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:85
+* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:86
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application :star:17
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice :star:44
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment

@@ -47,7 +47,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Authentication
 
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard :star:33
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies :star:19
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies :star:20
 
 ### Assets
 

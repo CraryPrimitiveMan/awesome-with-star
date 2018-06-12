@@ -44,7 +44,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
 * [Unity Anima2D](https://www.assetstore.unity3d.com/en/#!/content/79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
-* [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps. :star:55
+* [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps. :star:56
 
 ## AI
 
@@ -56,7 +56,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
-* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2268
+* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2274
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
@@ -77,8 +77,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:591
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:46
-* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:558
-* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:1016
+* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:559
+* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:1020
 
 ## Modeling
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
@@ -122,14 +122,14 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:177
+* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:178
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views. :star:11
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2473
-* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1059
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:2479
+* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1061
 
 ## Visual Scripting
 

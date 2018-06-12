@@ -38,7 +38,7 @@ Organizations bringing diversity to tech.
 - [Geek Girls Carrots](http://gocarrots.org) - Attracting women to tech since 2011.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
-- [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech. :star:48
+- [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech. :star:49
 - [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - Program to connect young black males with all they need to become high-performing entrepreneurs and technologists.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.

@@ -41,7 +41,7 @@ Pull requests very welcome.
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework :star:88
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console :star:13
-* [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:23
+* [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework :star:24
 
 ## Dependency Injection
 
@@ -97,7 +97,7 @@ Pull requests very welcome.
 
 ## Tools
 
-* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:47
+* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more :star:48
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References

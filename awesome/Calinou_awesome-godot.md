@@ -54,23 +54,23 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Themes for your Godot games or user interface.*
 
-- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes) :star:34
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme. :star:31
+- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes) :star:35
+- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme. :star:32
 
 ## Modules
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:318
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:319
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:26
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:68
-- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:15
+- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:16
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:8
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule) :star:22
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:5
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:9
-- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:26
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:27
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash) :star:19
 
 ## Plugins and scripts
@@ -87,13 +87,13 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:193
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:7
-- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:15
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:16
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:12
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:10
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:101
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:102
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:24
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:25
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:115
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:116
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:5
@@ -123,7 +123,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Alternative themes for the built-in script editor.*
 
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark. :star:27
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark. :star:28
 
 ## Unofficial Godot builds
 

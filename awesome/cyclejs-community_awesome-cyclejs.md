@@ -70,7 +70,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:21
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2986
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:2987
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:14
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:466
@@ -146,7 +146,7 @@ http://oleg.fi/graafi/
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - a dependency injection tool supporting Cycle's circular dependencies :star:10
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams. :star:20
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - Utility for creating Web Components based on Cycle.js :star:2
-* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:448
+* [**ohanhi/hyperscript-helpers ★390**](https://github.com/ohanhi/hyperscript-helpers) - elm-html inspired helpers for writing hyperscript or virtual-hyperscript. :star:450
 * [**pH200/cycle-react ★342**](https://github.com/pH200/cycle-react) - use React instead of virtual-dom with a Cycle-like API :star:357
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js. :star:2
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern :star:4

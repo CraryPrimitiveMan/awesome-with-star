@@ -64,7 +64,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:127
+- [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized :star:129
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides. :star:330
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
@@ -112,7 +112,7 @@ Plugins:
 ### Client Side Profile
 
 - [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
-- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1735
+- [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) :star:1737
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 - [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
@@ -186,7 +186,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12838
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) :star:12857
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)

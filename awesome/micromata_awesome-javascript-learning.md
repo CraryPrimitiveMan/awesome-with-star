@@ -103,8 +103,8 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2089
-- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:20467
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2093
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:20501
 
 ## DOM related
 

@@ -55,7 +55,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:3053
+- [Frege](https://github.com/Frege/frege) - Official website. :star:3060
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -145,11 +145,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android. :star:1
 - [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege. :star:8
 - [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:9
-- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:92
+- [froid](https://github.com/mchav/froid) - Library for using Frege in Android development. :star:91
 
 ### Big Data
 
-- [Spark](https://github.com/sw1sh/frege-spark) - Apache Spark with Frege. :star:5
+- [Spark](https://github.com/sw1sh/frege-spark) - Apache Spark with Frege. :star:4
 
 ### Databases
 
@@ -172,7 +172,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Chinook](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava. :star:26
 - [Fregelet](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet. :star:5
-- [Play](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege. :star:17
+- [Play](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege. :star:16
 
 ## Sample Applications
 
@@ -187,7 +187,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Web
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege. :star:5
-- [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege. :star:17
+- [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege. :star:16
 - [Fervor](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools

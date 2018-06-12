@@ -23,7 +23,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:31
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:1
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
 
 
 ## Table of Contents  
@@ -73,7 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:152
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 
@@ -92,7 +92,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:254
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:255
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
