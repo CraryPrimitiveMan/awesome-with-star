@@ -554,7 +554,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Other Lists
 ([Go to top](#awesome4girls---))
 
-  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:277
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:278
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 

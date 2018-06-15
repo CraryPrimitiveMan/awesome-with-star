@@ -107,7 +107,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:4076
+- [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). :star:4082
 
 ## Blogs
 
@@ -233,11 +233,11 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:277
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7654
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7202
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7681
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7213
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:104
+- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:105
 
 ## Libraries and Tools
 
@@ -256,7 +256,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### Python
 
-- [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications. :star:318
+- [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications. :star:319
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
@@ -265,7 +265,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### Go
 
 - [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
-- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board](https://github.com/carloop/simulator) :star:75
+- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board](https://github.com/carloop/simulator) :star:76
 
 ### JavaScript
 
@@ -293,17 +293,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3184
-  - [Security](https://github.com/sbilly/awesome-security) :star:3285
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2186
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3577
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3147
-  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3845
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2316
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1946
+  - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3192
+  - [Security](https://github.com/sbilly/awesome-security) :star:3305
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2197
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3586
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3152
+  - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3858
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2319
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1957
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:86681
-  - [lists](https://github.com/jnv/lists) :star:5012
+  - [awesome](https://github.com/sindresorhus/awesome) :star:87116
+  - [lists](https://github.com/jnv/lists) :star:5024
 
 # Contributing
 

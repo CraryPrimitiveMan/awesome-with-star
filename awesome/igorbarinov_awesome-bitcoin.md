@@ -68,13 +68,13 @@ List of content
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:33
 * [Bitcore Library](https://github.com/bitpay/bitcore-lib) :star:439
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2777
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:2781
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin) :star:113
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:38
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
 # PHP Libraries
-* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:55
+* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:57
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:35
 
 # Ruby Libraries
@@ -100,7 +100,7 @@ List of content
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](http://www.cs.princeton.edu/~tongbinw/bitcoinIDE/build/editor.html) Bitcoin Script for dummies
 * [Debug Script Execution](https://webbtc.com/script)
-* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:114
+* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:116
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
@@ -123,7 +123,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9684
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) :star:9717
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

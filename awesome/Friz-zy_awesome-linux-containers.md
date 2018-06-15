@@ -197,11 +197,15 @@ Work with remote images registries - retrieving information, images, signing con
 Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 * [dgr](https://github.com/blablacar/dgr)  
 Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
+* [Whaler](https://github.com/P3GLEG/Whaler)  
+Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 
 ## Dashboard
 
 * [LXC-Web-Panel](https://lxc-webpanel.github.io/)  
 Web panel for LXC on Ubuntu.
+* [Liman](https://github.com/salihciftci/liman)  
+Basic docker monitoring web application.
 
 ## Best practices
 
@@ -232,6 +236,8 @@ Quick and Easy server testing/validation.
 A proxy for docker.sock that enforces access control and isolated privileges.
 * [gvisor](https://github.com/google/gvisor)  
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
+* [docker-explorer](https://github.com/google/docker-explorer/)  
+A tool to help forensicate offline docker acquisitions.
 
 
 ### Links

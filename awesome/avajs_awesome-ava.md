@@ -32,10 +32,10 @@
 
 ## Packages
 
-- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:161
+- [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules. :star:163
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions. :star:73
-- [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:39
-- [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:94
+- [sublime-ava](https://github.com/avajs/sublime-ava) - Snippets for Sublime. :star:40
+- [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom. :star:96
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code. :star:21
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim. :star:17
 - [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers. :star:154

@@ -177,11 +177,18 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 
 Welcome to the world of functional web programming! In this book, we'll learn how to create fun, scalable, and maintainable web applications. We'll use the latest ideas from emerging languages like Elixir and Elm to craft a fun experience. Rather than focusing on theory, we'll take a practical approach and build a real-world application.
 
+### [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development)
+
+<img src="https://www.packtpub.com/sites/default/files/B06393.png" width="120px"/>
+
+Phoenix is a modern web development framework that is used to build API’s and web applications. It is built on Elixir and runs on Erlang VM which makes it much faster than other options. With Elixir and Phoenix, you build your application the right way, ready to scale and ready for the increasing demands of real-time web applications.
+
+This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release
+
 **Resources**
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 * [Elixir Sips](http://elixirsips.com)
-* [ExCasts](https://excasts.com)
 * [LearnElixir.tv](https://www.learnelixir.tv/)
 * [Google+](https://plus.google.com/communities/115770991058707869622)
 * [Reddit](https://www.reddit.com/r/elixir)
@@ -190,7 +197,7 @@ Welcome to the world of functional web programming! In this book, we'll learn ho
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:8126
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:8145
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

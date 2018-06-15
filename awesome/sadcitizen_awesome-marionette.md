@@ -90,9 +90,9 @@
 - [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js :star:22
 - [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js :star:18
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes :star:65
-- [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:359
+- [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) :star:360
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires) :star:336
-- [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:106
+- [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) :star:107
 - [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) :star:14
 - [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) :star:94
 - [The Front End App for edit.sx](https://github.com/samccone/edit.sx-frontend) :star:31
@@ -105,7 +105,7 @@
 
 ## Libraries
 
-- [Marionette State](https://github.com/Squareknot/marionette.state) :star:114
+- [Marionette State](https://github.com/Squareknot/marionette.state) :star:115
 - [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:132
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:69

@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2442
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2445
 
 ### Articles
 
@@ -61,12 +61,12 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:175
+* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:176
 * [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:177
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:65
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:70
-* [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language. :star:63
+* [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language. :star:64
 * [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:28
 * [idris-http](https://github.com/uwap/idris-http) - HTTP library for Idris. :star:27
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:16

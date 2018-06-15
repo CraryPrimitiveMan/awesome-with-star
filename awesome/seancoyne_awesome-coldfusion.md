@@ -29,7 +29,7 @@ Pull requests very welcome.
 
 ## Application Frameworks
 
-* [cfwheels](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails. :star:182
+* [CFWheels](https://cfwheels.org) - An open source CFML framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework :star:361
@@ -54,7 +54,7 @@ Pull requests very welcome.
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:74
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
-* [Mura](https://github.com/blueriver/MuraCMS) :star:242
+* [Mura](https://github.com/blueriver/MuraCMS) :star:243
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:38
 * [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform :star:119
 
@@ -69,6 +69,7 @@ Pull requests very welcome.
 * [ColdBox REST](http://wiki.coldbox.org/wiki/Building_Rest_APIs.cfm) - Native REST routing and rendering capababilities
 * [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) - Native REST routing and rendering capababilities
 * [Taffy](http://taffy.io) - The REST Web Service framework for ColdFusion and Railo
+* [CFWheels RESTful](https://guides.cfwheels.org/docs/routing) - CFWheels encourages a conventional RESTful and resourceful style of request handling.
 
 ## Other Libraries
 
@@ -82,17 +83,18 @@ Pull requests very welcome.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:44
-* [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library. :star:75
+* [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library. :star:76
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
 ## Editors
 
+* [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
+* [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
+* [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 * [Adobe ColdFusion Builder 3](http://www.adobe.com/products/coldfusion-builder.html) - Eclipse based ColdFusion IDE from Adobe
 * [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML)
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
-* [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
-* [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion :star:11
 
 ## Tools

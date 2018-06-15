@@ -81,7 +81,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task :star:4
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit. :star:1
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:152
-* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:262
+* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:263
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
 #### Dojo 2
@@ -152,8 +152,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23790
-* [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:42
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23808
+* [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:43
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
@@ -199,15 +199,15 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14513
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14546
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:92
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:86656
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1130
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:87099
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1133
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:5012
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:5023
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:105
-    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:173
+    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:174
 
 [Back to top](#awesome-dojo)
 
