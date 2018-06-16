@@ -25,7 +25,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Contributing](#contributing)
 
 ## Functional Libraries
-* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:181
+* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:182
 
 
 ## Graphics Libraries
@@ -36,7 +36,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
 * [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard. :star:49
+* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard. :star:50
 
 ## Math Libs
 *Libraries for calculating and other mathematical operations.*
@@ -89,7 +89,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Command-Line parsing
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects. :star:55
+* [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects. :star:56
 * [options.f90](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran. :star:6
 
 ## Compiling and building
@@ -106,7 +106,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Automatic documentation
 *Libraries for building documentation.*
 
-* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:131
+* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs. :star:132
 
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*

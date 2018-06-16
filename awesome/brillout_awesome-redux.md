@@ -36,17 +36,17 @@
 
 ## Utilities
 
- - [redux-orm](https://github.com/tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store. :star:1970
+ - [redux-orm](https://github.com/tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store. :star:1972
  - [redux-api-middleware](https://github.com/agraboso/redux-api-middleware) - Redux middleware for calling an API. :star:1179
- - [redux-ignore](https://github.com/omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions. :star:703
+ - [redux-ignore](https://github.com/omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions. :star:704
  - [redux-modifiers](https://github.com/calvinfroedge/redux-modifiers) - Collection of generic functions for writing Redux reducers to operate on various data structures. :star:163
  - [rereduce](https://github.com/slorber/rereduce) - Reducer library for Redux. :star:163
- - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search. :star:1171
- - [redux-logger](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux. :star:3643
- - [redux-immutable](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state. :star:1476
- - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux. :star:11685
+ - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search. :star:1172
+ - [redux-logger](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux. :star:3645
+ - [redux-immutable](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state. :star:1478
+ - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux. :star:11691
  - [redux-requests](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests. :star:241
- - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers. :star:1885
+ - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers. :star:1887
  - [redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux. :star:569
  - [redux-transducers](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux. :star:123
 
@@ -54,22 +54,22 @@
 ### Store Persistence
 
  - [redux-storage](https://github.com/michaelcontento/redux-storage) - Persistence layer for Redux with flexible backends. :star:666
- - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store. :star:5927
+ - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store. :star:5932
 
 
 ### Side Effects
 
 *Side Effects / Asynchronous Actions*
 
- - [redux-saga](https://github.com/yelouafi/redux-saga) - Alternative side effect model for Redux apps. :star:13759
+ - [redux-saga](https://github.com/yelouafi/redux-saga) - Alternative side effect model for Redux apps. :star:13781
  - [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware) - Redux middleware for resolving and rejecting promises with conditional optimistic updates. :star:1511
  - [redux-effects](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest. :star:488
- - [redux-thunk](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux. :star:9045
+ - [redux-thunk](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux. :star:9052
  - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React. :star:511
  - [redux-loop](https://github.com/redux-loop/redux-loop) - Port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers. :star:1589
  - [redux-side-effects](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity. :star:175
- - [redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects. :star:1249
- - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;. :star:5321
+ - [redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects. :star:1250
+ - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;. :star:5326
  - [redux-ship](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects. :star:617
 
 
@@ -77,7 +77,7 @@
 
 *Aims to make parts of the source code easier to read/write.*
 
- - [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux. :star:1126
+ - [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux. :star:1128
  - [redux-crud](https://github.com/Versent/redux-crud) - Set of standard actions and reducers for Redux CRUD Applications. :star:576
 
 
@@ -86,18 +86,18 @@
  - [redux-devtools-inspector](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor. :star:240
  - [redux-diff-logger](https://github.com/fcomb/redux-diff-logger) - Diff logger between states for Redux. :star:171
  - [redux-devtools-chart-monitor](https://github.com/romseguy/redux-devtools-chart-monitor) - Chart monitor for Redux DevTools. :star:257
- - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI. :star:9752
+ - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI. :star:9754
  - [redux-devtools-dispatch](https://github.com/YoruNoHikage/redux-devtools-dispatch) - Dispatch your actions manually to test if your app Reacts well. :star:138
  - [redux-devtools-dock-monitor](https://github.com/gaearon/redux-devtools-dock-monitor) - Resizable and movable dock for Redux DevTools monitors. :star:358
  - [redux-devtools-filterable-log-monitor](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools. :star:141
  - [redux-devtools-log-monitor](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view. :star:269
- - [remote-redux-devtools](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely. :star:1324
+ - [remote-redux-devtools](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely. :star:1325
 
 
 ## React Integration
 
  - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction. :star:451
- - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux. :star:12877
+ - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux. :star:12887
  - [react-easy-universal](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy. :star:210
  - [redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form. :star:676
 
@@ -107,19 +107,19 @@
  - [redux-async-connect](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in Redux state and connect them to your React component. :star:644
  - [redux-tiny-router](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state. :star:137
  - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store. :star:2289
- - [react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync. :star:7623
+ - [react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync. :star:7629
  - [ground-control](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux. :star:270
 
 
 ### Forms
 
- - [redux-form](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store. :star:9901
- - [react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux. :star:1935
+ - [redux-form](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store. :star:9904
+ - [react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux. :star:1936
 
 
 ### Component State
 
- - [redux-react-local](https://github.com/threepointone/redux-react-local) - Local component state via Redux. :star:340
+ - [redux-react-local](https://github.com/threepointone/redux-react-local) - Local component state via Redux. :star:341
  - [redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for React Redux. :star:628
 
 
@@ -128,8 +128,8 @@
 
 ### Flux
 
- - [redux-actions](https://github.com/acdlite/redux-actions) - Flux Standard Action utilities for Redux. :star:5060
- - [redux-promise](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux. :star:2171
+ - [redux-actions](https://github.com/acdlite/redux-actions) - Flux Standard Action utilities for Redux. :star:5061
+ - [redux-promise](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux. :star:2172
 
 
 ### Backbone
@@ -144,7 +144,7 @@
 
 ### RxJS
 
- - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;. :star:5321
+ - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;. :star:5326
  - [rx-redux](https://github.com/jas-chen/rx-redux) - Reimplementation of Redux using RxJS. :star:342
  - [redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux. :star:975
  - [redurx](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS. :star:94

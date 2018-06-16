@@ -83,7 +83,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images. :star:51
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:58
-- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:7
+- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:8
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:191
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept). :star:4
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:8
@@ -92,8 +92,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:11
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:102
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:24
-- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:26
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:117
+- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators. :star:27
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript. :star:118
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons. :star:5

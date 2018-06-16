@@ -21,7 +21,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:26293
+* [GitHub](https://github.com/zeit/next.js) :star:26324
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -49,10 +49,10 @@
 
 
 ## Boilerplates
-* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:4
+* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:5
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:309
-* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:556
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1407
+* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:558
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1410
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:319
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:6
@@ -62,22 +62,22 @@
 * [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:146
 * [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:75
 * [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
-* [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in. :star:3
+* [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in. :star:4
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:853
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:854
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support. :star:21
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:414
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:416
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag :star:12
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:31
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:655
+* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:656
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters. :star:19
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes. :star:25
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js. :star:276
-* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:435
-* [Password](https://github.com/dotcypress/password) - One password, right way. :star:84
+* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js. :star:436
+* [Password](https://github.com/dotcypress/password) - One password, right way. :star:85
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js. :star:94
 * [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js. :star:34
 * [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo. :star:3
@@ -94,7 +94,7 @@
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render. :star:7
 * [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd :star:61
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql) :star:14
-* [DS](https://github.com/divyenduz/ds) - Personal site manager. :star:5
+* [DS](https://github.com/divyenduz/ds) - Personal site manager. :star:6
 * [Mozilla VR Home](https://vr.mozilla.org/) - Mozilla VR Home
 * [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
 * [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place

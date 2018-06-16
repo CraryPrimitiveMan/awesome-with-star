@@ -122,7 +122,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Virtual Beacons
 
 * [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
-* [Android BLE advertising library](https://github.com/uriio/beacons-android) :star:69
+* [Android BLE advertising library](https://github.com/uriio/beacons-android) :star:71
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
 * [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon) :star:113
@@ -141,7 +141,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) :star:163
-* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) :star:733
+* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) :star:732
 
 ## Beacon Scanner Apps
 
@@ -185,8 +185,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2129
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1361
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2131
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1363
 
 
 # Bluetooth Low Energy
@@ -213,7 +213,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Dialog Semiconductor Beacon Reference Design](http://support.dialog-semiconductor.com/ref-designs#beacon)
 * [Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
-  * [Eddystone GATT Configuration Service for nRF5 devices](https://github.com/NordicSemiconductor/nrf5-sdk-for-eddystone) :star:34
+  * [Eddystone GATT Configuration Service for nRF5 devices](https://github.com/NordicSemiconductor/nrf5-sdk-for-eddystone) :star:35
 * [Texas Instruments - BLE Portal](http://www.ti.com/ble)
 * [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 * [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)

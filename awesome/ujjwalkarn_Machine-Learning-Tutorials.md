@@ -222,7 +222,7 @@
 
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
-- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1393
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1394
 
 <a name="quora" />
 

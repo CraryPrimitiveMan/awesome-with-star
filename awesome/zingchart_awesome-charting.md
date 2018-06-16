@@ -27,19 +27,19 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [C3.js](http://c3js.org/) - D3 based reusable chart library.
 * [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types.
 * [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
-* [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby. :star:4815
+* [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby. :star:4816
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts. :star:2439
-* [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser. :star:28274
+* [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser. :star:28299
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library. :star:30
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
-* [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps. :star:8414
-* [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts. :star:2415
+* [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps. :star:8419
+* [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts. :star:2413
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
-* [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas. :star:7979
-* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data. :star:1794
+* [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas. :star:7981
+* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data. :star:1795
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 * [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js :star:239
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
@@ -63,9 +63,9 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts :star:45
 
 ### React
-* [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations :star:6094
+* [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations :star:6099
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values. :star:1725
-* [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts :star:3760
+* [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts :star:3768
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 
 

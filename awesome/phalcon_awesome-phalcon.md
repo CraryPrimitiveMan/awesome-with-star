@@ -70,9 +70,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework :star:68
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:312
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework :star:313
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:635
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:634
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:75
@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3850
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3854
 
 
 ## CMS & Blogs
@@ -139,7 +139,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:8
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:133
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:134
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:9
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
@@ -314,7 +314,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Conferences, Chats, Forums, etc..*
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework :star:7
-* [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:22
+* [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:318
 

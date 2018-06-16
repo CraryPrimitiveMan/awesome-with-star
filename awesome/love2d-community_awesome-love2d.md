@@ -55,7 +55,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [anim8](https://github.com/kikito/anim8) - Animation library :star:314
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:15
 * [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE :star:9
-* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:13
+* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:14
 * [Walt](https://github.com/davisdude/Walt) - Animation library :star:35
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime :star:16
 
@@ -193,13 +193,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
 * [LovePotion](https://github.com/videah/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew :star:139
 * [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten :star:315
-* [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices :star:316
+* [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices :star:317
 
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3157
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3167
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -245,7 +245,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *User Interface Libraries*
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE :star:26
-* [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:114
+* [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:115
 * [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE :star:26
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:159
@@ -268,7 +268,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading :star:88
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader :star:27
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself :star:3
-* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader :star:39
+* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader :star:40
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming :star:44
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library :star:14
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop :star:23
@@ -276,7 +276,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2049
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2047
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)

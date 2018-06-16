@@ -522,7 +522,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders. :star:74
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched)). :star:90
-* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1518
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1519
 * [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:48
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more. :star:8
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions. :star:1
@@ -589,7 +589,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices. :star:59
 
 #### Multimedia ANE
-* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:104
+* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:103
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:52
 * [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:55
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2

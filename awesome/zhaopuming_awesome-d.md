@@ -170,7 +170,7 @@
 *Compile software from source code.*
 
 * [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1798
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:697
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:698
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:345
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:151
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
@@ -198,7 +198,7 @@
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language. :star:193
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support). :star:263
-* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:201
+* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries. :star:200
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation. :star:248
 
  
@@ -259,7 +259,7 @@
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json. :star:16
 * [std.data.json](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin. :star:47
+* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin. :star:48
 
 ### XML
 
@@ -302,7 +302,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:88
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:29
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:7291
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:7301
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -310,8 +310,8 @@
 
 *Operating Systems written in D*
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:385
-* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:73
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D  :star:383
+* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D :star:72
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D :star:310
 
 ## Game Bindings
@@ -367,7 +367,7 @@
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:931
+* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework. :star:932
 
 ## Parallel computing
 

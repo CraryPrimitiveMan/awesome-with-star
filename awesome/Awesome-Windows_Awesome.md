@@ -90,10 +90,10 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][Freeware Icon]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon] :star:64
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon] :star:67
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][Freeware Icon]
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon] :star:893
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon] :star:2096
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon] :star:924
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon] :star:2103
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon] :star:632
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
@@ -137,7 +137,7 @@
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][Freeware Icon]
 - [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
-- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) :star:16811
+- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) :star:16815
 - [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS) 
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
@@ -178,7 +178,7 @@
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
-- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon] :star:11002
+- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon] :star:11003
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]
 - [GOG Galaxy](https://www.gog.com/galaxy) - Steam-like DRM-free game platform.
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
@@ -255,7 +255,7 @@
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][Freeware Icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][Freeware Icon]
-- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon] :star:4199
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon] :star:4213
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
@@ -268,8 +268,8 @@
 ### Terminal
 
 - [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin.
-- [Cmder](https://github.com/cmderdev/cmder) - Console emulator package. :star:14493
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more. :star:4800
+- [Cmder](https://github.com/cmderdev/cmder) - Console emulator package. :star:14502
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more. :star:4803
 - [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering. :star:2477
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
@@ -292,7 +292,7 @@
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 - [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
-- [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][OSS Icon]](https://github.com/greenshot/greenshot) :star:881
+- [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][OSS Icon]](https://github.com/greenshot/greenshot) :star:884
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][Freeware Icon]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
@@ -318,13 +318,13 @@
 ### Video
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
-- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) :star:7994
-- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) :star:3188
+- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) :star:7998
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) :star:3192
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
-- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS) :star:2901
+- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS) :star:2900
 
 ## Setup
 
@@ -332,7 +332,7 @@
 
 * http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 * http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
-* [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows :star:1156
+* [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows :star:1158
 
 ### Windows 8.1 Setup
 

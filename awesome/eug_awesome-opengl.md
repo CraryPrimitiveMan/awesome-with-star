@@ -70,13 +70,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner. :star:3164
+* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner. :star:3165
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:192
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1799
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1801
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
@@ -90,7 +90,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Profile loaders for OpenGL*
 
-* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:369
+* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader. :star:370
 * [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs. :star:719
 * [glbindify](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX. :star:3
 * [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety. :star:510
@@ -148,12 +148,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:87124
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:8215
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:87241
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:8225
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:303
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:862
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4970
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1144
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:863
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4974
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1145
 
 
 ## License

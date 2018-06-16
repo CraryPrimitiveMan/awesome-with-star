@@ -125,7 +125,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 
 ### Peripherals
 
-- [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino UNO. :star:27
+- [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino UNO. :star:28
 - [Creating photorealistic images with neural networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 - [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.
 - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4) (note: the thermal paper Ben uses is expired, so he thinks the GameBoy Printer prints 2 colors, but it actually prints 4)
@@ -340,7 +340,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 
 ### ASM
 
-- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:149
+- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. :star:150
 - [Tuff](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
@@ -410,7 +410,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 - [Pokémon Gold and Silver](https://github.com/pret/pokegold)
 - [Pokémon Pinball](https://github.com/pret/pokepinball)
 - [Pokémon TCG](https://github.com/pret/poketcg)
-- [pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo. :star:121
+- [pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo. :star:122
 - [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly)
 - [Oracle of Ages](https://github.com/drenn1/ages-disasm)
 - [Tetris](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly. :star:19

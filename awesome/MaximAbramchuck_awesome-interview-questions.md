@@ -106,7 +106,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
-* [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode) :star:7174
+* [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode) :star:7187
 * [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
 
 ### C
@@ -194,7 +194,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [14 Essential iOS Interview Questions from top 3% developers company](http://www.toptal.com/ios/interview-questions)
 * [20 iOS Developer Interview Questions and Answers for getting you ready for your interview](https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c)
-* [A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) :star:1459
+* [A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) :star:1460
 * [All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises](http://www.raywenderlich.com/53962/ios-interview-questions)
 * [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [iOS Interview Questions and Answers including such topics as Development Basics, App states and multitasking, App states, Core app objects](http://www.geekinterview.com/Interview-Questions/iOS)
@@ -241,7 +241,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
 * [JavaScript Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#js-questions)
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
-* [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook) :star:14566
+* [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook) :star:14582
 
 
 ### Front-end build tools
@@ -432,7 +432,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Some basic Linux questions from ComputerNetworkingNotes.com](http://computernetworkingnotes.com/rhce-interview-questions/linux-interview-questions-answers.html)
 * [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
-* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:3050
+* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions) :star:3052
 
 ### Windows
 
@@ -452,13 +452,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Coding exercises
 
-* [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview) :star:495
-* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:13032
+* [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview) :star:496
+* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges) :star:13041
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions) :star:82
 
 ## Comprehensive lists
 
-* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:35480
+* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions) :star:35496
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions) :star:80
@@ -468,8 +468,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
-* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:21160
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:34769
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) :star:21178
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) :star:34797
 
 ## Data structures
 

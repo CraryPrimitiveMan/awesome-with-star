@@ -10,7 +10,7 @@
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^. :star:12
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:85
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:659
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:255
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:257
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:219
@@ -158,7 +158,7 @@
 - [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions. :star:11
 - [From the Front](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things. :star:4
-- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:11
+- [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions. :star:10
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students. :star:14
 
 

@@ -44,7 +44,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application. :star:38
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools. :star:41
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX. :star:92
-* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:52
+* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:53
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker. :star:12
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:35
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL. :star:4
@@ -52,7 +52,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:2448
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:2473
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 

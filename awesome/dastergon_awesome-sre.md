@@ -102,6 +102,8 @@ Contributions are always welcome!
 * The Makeup of Successful Geographically-Distributed SRE Teams - [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
 * [Tech Leadership in SRE](https://www.youtube.com/watch?v=6G2V1xPIM64)
 * [The Azure Podcast: Episode 227 - Azure SRE](http://azpodcast.azurewebsites.net/post/Episode-227-Azure-SRE1)
+* [The human scalability of "DevOps"](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
+* [Podcast: Site Reliability Management with Mike Hiraga](https://softwareengineeringdaily.com/2018/04/09/site-reliability-management-with-mike-hiraga/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -185,7 +187,7 @@ Contributions are always welcome!
 * [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 * [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Know thy enemy: how to prioritize and communicate risks - CRE life lessons](https://cloudplatform.googleblog.com/2017/05/know-thy-enemy-how-to-prioritize-and-communicate-risks-CRE-life-lessons.html)
-* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:1330
+* [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering) :star:1333
 * [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
 * [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
@@ -235,7 +237,7 @@ Contributions are always welcome!
 * [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook) :star:232
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
-* [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template) :star:129
+* [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template) :star:130
 * [Automating Your Oncall: Open Sourcing Fossor and Ascii Etch](https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch)
 * [Project STAR*: Streamlining Our On-Call Process](https://engineering.linkedin.com/blog/2018/01/project-star-streamlining-our-on-call-process)
 * [SRE@Xero: Managing Incidents Part I](https://devblog.xero.com/sre-xero-managing-incidents-part-i-7d02d650a71c)
@@ -253,9 +255,11 @@ Contributions are always welcome!
 * [Sustainable On-Call](https://codywilbourn.com/2018/03/22/sustainable-on-call/)
 * [dotScale 2017 - Aish Raj Dahal - Chaos management during a major incident](https://youtu.be/8pPrtf1J1Z8)
 * [Incident Management at Netflix Velocity](https://www.infoq.com/presentations/netflix-incident-management)
+* [Incidents, fixes, and the day after](https://medium.com/booking-com-infrastructure/incidents-fixes-and-the-day-after-c5d9aeae28c3)
+* [10 Steps to Develop an Incident Response Plan You’ll ACTUALLY Use](https://engineering.salesforce.com/10-steps-to-develop-an-incident-response-plan-youll-actually-use-6cc49d9bf94c)
 
 ## Post-Mortem
-* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3591
+* [A collection of post-mortems](https://github.com/danluu/post-mortems) :star:3592
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -266,7 +270,7 @@ Contributions are always welcome!
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Writing Your First Postmortem](https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f)
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
-* [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates) :star:181
+* [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates) :star:184
 * [Embracing Feedback](https://blog.heptio.com/embracing-feedback-2fd703da714f)
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
 * [Social Issues In Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18)
@@ -323,7 +327,7 @@ Contributions are always welcome!
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
-* [Open AWS guide](https://github.com/open-guides/og-aws) :star:19882
+* [Open AWS guide](https://github.com/open-guides/og-aws) :star:19890
 * [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
 * [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 * [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)

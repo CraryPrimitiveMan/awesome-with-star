@@ -92,7 +92,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 - [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss][foss]
 	- [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss][foss]
 
-- [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:629
+- [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) :star:630
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
 	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss] :star:1652
 
@@ -109,7 +109,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss] :star:92
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss][foss]
-	- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss][foss] :star:1269
+	- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss][foss] :star:1273
 
 ### Online editors
 
@@ -192,7 +192,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - Collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:52
+- [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković. :star:53
 
 ### Source Code
 
