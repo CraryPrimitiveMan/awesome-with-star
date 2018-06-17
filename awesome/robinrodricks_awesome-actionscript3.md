@@ -281,7 +281,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
-* [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:102
+* [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:103
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:63
 * [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:22
 
@@ -640,7 +640,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android. :star:9
 
 #### Analytics ANE
-* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:6
+* [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE. :star:7
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS. :star:3
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising. :star:27
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android). :star:11

@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:227
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5447
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5448
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -35,7 +35,7 @@ under the hood:
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:386
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:56
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:91
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:126
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:127
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:29
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:33
@@ -65,17 +65,17 @@ under the hood:
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing. :star:22
 - [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
 - [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions. :star:4
-- [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:13
+- [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin. :star:14
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:14
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:12
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
-- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:11
+- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:12
 - [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`. :star:21
 - [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:28
 
 ### Elements
 
-- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:105
+- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component. :star:106
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo. :star:15
 - [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library. :star:4
 - [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework. :star:9
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:421
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:2
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:27
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:34
 
 ### License
 

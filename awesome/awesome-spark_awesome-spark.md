@@ -52,8 +52,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Notebooks and IDEs
 
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
-* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2448
-* [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks. :star:376
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts). :star:2451
+* [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks. :star:378
 
 ### General Purpose Libraries
 
@@ -84,7 +84,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Time Series Analytics
 
 * [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark. :star:928
-* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:359
+* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark. :star:360
 
 ### Graph Processing
 
@@ -118,6 +118,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [silex](https://github.com/willb/silex) - Collection of tools varying from ML extensions to additional RDD methods. :star:14
 * [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark. :star:28
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark. :star:13
+* [Flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Spark clusters on EC2. :star:321
 
 ### Natural Language Processing
 
@@ -167,7 +168,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1442
+* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1443
 * [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model. :star:548
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment. :star:160

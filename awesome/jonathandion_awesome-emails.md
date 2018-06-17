@@ -28,7 +28,7 @@
 
 ## Frameworks
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:6758
+- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:6759
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 
@@ -66,7 +66,7 @@ VML and CSS.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:8213
+- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:8216
 - [Formcarry](https://formcarry.com/) - A form endpoint service with Zapier integration and file upload, no back-end skill required.
 - [Formspree](https://formspree.io/) - A form endpoint service, totally free it forwards incoming submissions to your email.
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.

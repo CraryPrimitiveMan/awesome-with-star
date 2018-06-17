@@ -71,7 +71,7 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
-* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:997
+* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:999
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. :star:98
 
 ### Algebraic Data Types
@@ -116,7 +116,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 * [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS. :star:270
-* [ion](https://github.com/ion-lang/ion) - no BS JS :star:44
+* [ion](https://github.com/ion-lang/ion) - no BS JS :star:46
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS :star:91
 
 ## Programming Tools

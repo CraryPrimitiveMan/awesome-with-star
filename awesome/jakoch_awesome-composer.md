@@ -13,7 +13,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Official Website](https://getcomposer.org/)
 - [Issues](https://github.com/composer/composer/issues)
-- [Github](https://github.com/composer/composer) :star:14976
+- [Github](https://github.com/composer/composer) :star:14980
 - [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)
 - [Documentation](https://getcomposer.org/doc/)
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
@@ -36,13 +36,13 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Plugins
 
 - [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
-- [Composer-Asset-Plugin](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer. :star:825
+- [Composer-Asset-Plugin](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer. :star:826
 - [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories). :star:60
 - [Composer-Composition](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime. :star:106
 - [Composer-Suggest](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns. :star:4
 - [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z"). :star:162
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file. :star:408
-- [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime. :star:425
+- [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime. :star:427
 - [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies. :star:121
 - [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin. :star:7
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) - The plugin adds support for managing dependencies for multiple packages in a single repository. :star:196
@@ -53,7 +53,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory. :star:75
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks. :star:156
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor). :star:19
-- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3734
+- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3736
 - [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2. :star:10
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages. :star:3
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder). :star:91
@@ -175,7 +175,7 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 ### Satis
 
 - [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories. :star:139
-- [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI. :star:228
+- [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI. :star:229
 - [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration. :star:91
 - [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository. :star:59
 

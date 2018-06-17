@@ -111,7 +111,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Plugins
 
-- [Alfred Workflow](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred. :star:1
+- [Alfred Workflow](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
 - [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse. :star:29
 - [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO. :star:3
 - [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:5
