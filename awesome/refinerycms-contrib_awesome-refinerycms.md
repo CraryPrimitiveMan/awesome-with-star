@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:54
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1421
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1422
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:7
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -47,7 +47,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed) :star:216
 
 ### Backoffice extensions
-* [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:110
+* [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:109
 * [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:24
 
 ### Developer tools

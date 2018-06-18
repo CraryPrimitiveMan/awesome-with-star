@@ -28,14 +28,14 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:469
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:470
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:902
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:903
   library backends.
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:386
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:56
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:91
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:127
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:128
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:29
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:33
@@ -120,7 +120,7 @@ Other CLI templates
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:421
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:2
-- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:34
+- [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:36
 
 ### License
 

@@ -32,7 +32,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
-- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:6920
+- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:6923
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) :star:2273
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)

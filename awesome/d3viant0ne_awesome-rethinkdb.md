@@ -57,7 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### ORM
 
-- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1085
+- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1086
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM. :star:30
  - Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -66,7 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [RethinkDB Pool](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB. :star:14
  - Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden) 
-- [Express Session RethinkDB](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x. :star:24
+- [Express Session RethinkDB](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x. :star:25
  - Maintainer: `@armenfilipetyan`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/armenfilipetyan) 
  
 ##### Technology Integrations
@@ -171,7 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:33
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.  :star:13
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver. :star:22
-- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:314
+- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:315
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:101
 
 **[Back to top](#table-of-contents)**
@@ -232,7 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Administrative Tools
 
-- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:183
+- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:184
 - [RethinkDB CLI](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb. :star:16
 - [RethinkDB Nightly](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 

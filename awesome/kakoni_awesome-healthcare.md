@@ -80,7 +80,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
-  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:226
+  * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer. :star:227
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
@@ -156,7 +156,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:171
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2762
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2764
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:9

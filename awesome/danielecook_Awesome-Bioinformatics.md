@@ -221,7 +221,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### ChIP-Seq
 
-* [ChIP-seq analysis notes from Tommy Tang](https://github.com/crazyhottommy/ChIP-seq-analysis) - Resources on ChIP-seq data which include papers, methods, links to software, and analysis. :star:197
+* [ChIP-seq analysis notes from Tommy Tang](https://github.com/crazyhottommy/ChIP-seq-analysis) - Resources on ChIP-seq data which include papers, methods, links to software, and analysis. :star:198
 
 ### YouTube Channels and Playlists
 

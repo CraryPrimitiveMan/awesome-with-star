@@ -55,7 +55,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:180
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:69
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:140
-* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:76
+* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:77
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:39
 
@@ -72,8 +72,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:368
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1943
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:886
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1946
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:885
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:10
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:26

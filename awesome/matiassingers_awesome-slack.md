@@ -146,7 +146,7 @@
 - [SlackMS](https://github.com/ueg1990/SlackMS) - SMS your team channel in Slack :star:6
 - [slackrus](https://github.com/johntdyer/slackrus) - Slack hook for Logrus :star:65
 - [slacktogo](https://github.com/oderwat/slacktogo) - Slack Integration Server for distributing channels between different Slack teams :star:27
-- [webhook](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack :star:2946
+- [webhook](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack :star:2947
 - [worktile-events-to-slack](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack :star:11
 
 ### Groovy
@@ -169,7 +169,7 @@
 - [SlackMC](https://github.com/CircuitSoftGroup/SlackMC) - Bukkit/Bungee plugin for Slack :star:53
 - [slack-client](https://bitbucket.org/AlexanderBartash/slack-client/wiki/Home) - Displays a Slack unread icon in the system tray
 - [slack-for-confluence](https://github.com/flaregames/slack-for-confluence) - Confluence updates in Slack
-- [slack-webhook](https://github.com/gpedro/slack-webhook) - Slack WebHook Integration for Java :star:136
+- [slack-webhook](https://github.com/gpedro/slack-webhook) - Slack WebHook Integration for Java :star:135
 - [stash2slack](https://github.com/pragbits/stash2slack) - Send Stash server events as notifications to Slack :star:50
 - [tcSlackBuildNotifier](https://github.com/PeteGoo/tcSlackBuildNotifier) - Post TeamCity build notifications to Slack :star:288
 
@@ -213,7 +213,7 @@
 - [slack-api](https://github.com/ustice/slack-api) - a javascript wrapper for the Slack API :star:43
 - [slack-assembla-plugin](https://github.com/Ramzi-Alqrainy/slack-assembla-plugin) - Watches Slack channels for messages about Assembla and acts accordingly :star:4
 - [slack-bill-sharing](https://github.com/gsellator/slack-bill-sharing) - Bill sharing bot for Slack :star:2
-- [slack-bot-api](https://github.com/mishk0/slack-bot-api) - Simple way to control your Slack Bot :star:978
+- [slack-bot-api](https://github.com/mishk0/slack-bot-api) - Simple way to control your Slack Bot :star:980
 - [slack-brewbot](https://github.com/swirlycheetah/slack-brewbot) - Whose turn is it to make a brew? Let BrewBot decide :star:9
 - [slack-btc](https://github.com/hkarthik/slack-btc) - Simple node.js REST API to add a BTC ticker to Slack :star:2
 - [slack-chat](https://improvi.github.io/slack-chat/) - A support chat feature for your website that integrates with Slack
@@ -275,7 +275,7 @@
 - [strider-slack](https://github.com/Strider-CD/strider-slack) - Slack Incoming Webhooks as a Strider-CD plugin :star:6
 - [superscript](https://github.com/silentrob/superscript/) - A dialogue engine for creating chat bots :star:1477
 - [swolebot](https://github.com/robinpowered/swolebot) - A Slack bot for keeping your team fit through open pull requests :star:47
-- [terminal-slack](https://github.com/evanyeung/terminal-slack) - Terminal client for Slack :star:917
+- [terminal-slack](https://github.com/evanyeung/terminal-slack) - Terminal client for Slack :star:924
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack :star:18
 
 ### Lua
@@ -311,7 +311,7 @@
 - [make-it-rain](https://github.com/fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe :star:302
 - [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack :star:43
 - [mediawiki-slack](https://github.com/grundleborg/mediawiki-slack) - Mediawiki integration for Slack :star:37
-- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack :star:10640
+- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack :star:10644
 - [notifyme](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services :star:176
 - [opauth-slack](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth :star:1
 - [phlack](https://github.com/mcrumm/phlack) - PHP API Wrapper :star:53
@@ -343,7 +343,7 @@
 - [versioneye-slack](https://github.com/heyupdate/versioneye-slack) - Post VersionEye notifications to Slack :star:6
 - [VoiceChatAPI slack command](https://gist.github.com/elsassph/49582cdc8c64823833bb) - Create a VoiceChatAPI room from Slack
 - [wordpress-slack-notifier-plugin](https://bitbucket.org/simes/wordpress-slack-notifier-plugin) - Sends post published notifications to Slack
-- [worldcup-slack-bot](https://github.com/j0k3r/worldcup-slack-bot) - Notify a Slack channel for every match during the 2014 World Cup :star:13
+- [worldcup-slack-bot](https://github.com/j0k3r/worldcup-slack-bot) - Notify a Slack channel for every match during the 2014 World Cup :star:14
 
 ### Python
 
@@ -353,7 +353,7 @@
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages :star:151
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django :star:31
 - [ellie-slack](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot :star:86
-- [errbot](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable :star:1739
+- [errbot](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable :star:1740
 - [flask-slack](https://github.com/VeryCB/flask-slack) - Flask extension which makes it easy to interact with Slack slash commands :star:82
 - [fs-slack](https://github.com/slackhappy/fs-slack) - Silly slash command synthesis for Slack :star:9
 - [gmail2slack](https://github.com/brooksc/gmail2slack) - Send a Slack notification whenever a new gmail arrives :star:24
@@ -362,7 +362,7 @@
 - [mqttwarn](https://github.com/jpmens/mqttwarn#slack) - Notify Slack from MQTT
 - [openduty](https://github.com/ustream/openduty) - An open source alerting and incident escalation tool :star:702
 - [pyslack](https://github.com/loisaidasam/pyslack) - Python API Wrapper :star:144
-- [python-rtmbot](https://github.com/slackhq/python-rtmbot) - A Slack bot written in Python that connects to the RTM API :star:592
+- [python-rtmbot](https://github.com/slackhq/python-rtmbot) - A Slack bot written in Python that connects to the RTM API :star:593
 - [python-slack.com](https://github.com/rosscdh/python-slack.com) - Python classes for integrating with Slack :star:7
 - [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django :star:17
@@ -379,7 +379,7 @@
 - [slack-workout](https://github.com/brandonshin/slackbot-workout) - A fun hack that gets Slackbot to force your teammates to work out! :star:551
 - [slack-zenoss](https://github.com/ssplatt/slack-zenoss) - A Slack incoming webhook to show events from Zenoss :star:5
 - [slackard](https://github.com/aelse/slackard) - A bot for Slack :star:41
-- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack :star:806
+- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack :star:807
 - [slackbot-python](https://github.com/fsalum/slackbot-python) - A Slack.com bot in Python integrated with Amazon SQS :star:50
 - [slackbridge](https://github.com/ossobv/slackbridge) - Bridge Slack channels between companies :star:21
 - [slackcmd](https://github.com/pzelnip/slackcmd) - A Python script for piping output from the command line to a Slack channel :star:19
@@ -415,7 +415,7 @@
 - [chef-slack\_handler](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack :star:11
 - [dogetip-slack](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack :star:10
 - [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell :star:18
-- [fastlane](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack :star:22171
+- [fastlane](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack :star:22176
 - [gifbot](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack :star:38
 - [hatebu-hooker](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack :star:4
 - [kickslacker](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack :star:5
@@ -491,7 +491,7 @@
 - [slack-rails-ci](https://github.com/caiosba/slack-rails-ci) - Run a command; post it and its standard input, output, and error to Slack
 - [slacktee](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command :star:583
 - [stash\_slack](https://gist.github.com/linjer/2ee6146d3b320cbe9225) - Atlassian Stash integration with Slack through external web hooks
-- [wercker-step-slack-notify](https://github.com/sherzberg/wercker-step-slack-notify) - Send a message to Slack
+- [wercker-step-slack-notify](https://github.com/sherzberg/wercker-step-slack-notify) - Send a message to Slack :star:23
 - [wercker-step-slack-post](https://github.com/kobim/wercker-step-slack-post) - Post wercker deploy status to Slack :star:4
 - [zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Custom Zabbix AlertScript for Slack :star:310
 

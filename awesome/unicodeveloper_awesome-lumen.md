@@ -58,7 +58,7 @@
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:138
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:648
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:221
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7487
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7489
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:90
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:129

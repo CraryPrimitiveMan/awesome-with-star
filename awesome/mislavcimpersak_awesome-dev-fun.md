@@ -36,11 +36,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS :star:1295
+- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS :star:1296
 
 
 ## Elixir
-- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:145
+- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir! :star:146
 
 
 ## Golang
@@ -57,7 +57,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:9302
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:9303
 
 
 ## JavaScript
@@ -111,7 +111,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1915
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:1916
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 
@@ -122,15 +122,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts. :star:4
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
-- [Github XP](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair. :star:2656
+- [Github XP](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair. :star:2661
 
 
 ## CLI
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:80
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:6
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:1
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2840
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1435
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:2841
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1436
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:4009
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1165
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:3143
@@ -138,12 +138,12 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:3880
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:3
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:133
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:675
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:676
 - [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:21897
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:21910
 
 
 ## Miscellaneous
@@ -151,7 +151,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars. :star:8
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data. :star:528
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4237
-- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1691
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4238
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:1693
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing. :star:848
 

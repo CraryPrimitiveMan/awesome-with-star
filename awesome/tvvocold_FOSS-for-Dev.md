@@ -28,21 +28,21 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20905
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:20908
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:50
 
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:898
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:899
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3880
 
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4002
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3056
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8941
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4003
+ * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3057
+ * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8942
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
@@ -54,8 +54,8 @@ Feel free to send a PR :)
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10411
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6799
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10415
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6798
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1945
 
 
@@ -73,12 +73,12 @@ Feel free to send a PR :)
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2871
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9832
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9833
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4677
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4675
 
 ## ADN 
   

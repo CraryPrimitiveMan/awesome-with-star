@@ -164,7 +164,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions. :star:18
 * [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:91
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
-* [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
+* [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:9
 * [Motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. :star:35
 * [Motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app. :star:114
 * [Motion-Social](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework. :star:12
@@ -254,7 +254,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### iOS
 * [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:95
-* [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations.
+* [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:149
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37
 * [Motion-imager](https://github.com/OTGApps/motion-imager) - Interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera. :star:25
@@ -305,7 +305,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:198
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:107
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:67
-* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode.
+* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:177
 * [Motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver. :star:33
 * [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS.

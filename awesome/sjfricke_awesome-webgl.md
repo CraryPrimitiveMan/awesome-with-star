@@ -98,13 +98,13 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:952
+* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms. :star:954
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
 * [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1128
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute. :star:1130
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -253,7 +253,7 @@ Processing Unit (GPU).
 * [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript. :star:1731
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
-* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2980
+* [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development. :star:2981
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development. :star:1237
 
 ### Maps and Visualizations
@@ -281,7 +281,7 @@ Processing Unit (GPU).
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) :star:1266
+  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) :star:1267
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
@@ -321,10 +321,10 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:87299
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists. :star:87373
 * [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff. :star:840
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem. :star:863
-* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4978
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development. :star:4980
 * [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web. :star:2250
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources. :star:1145
 

@@ -33,7 +33,7 @@
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL :star:265
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd. :star:1707
-* [Stolon](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration. :star:1435
+* [Stolon](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration. :star:1436
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon. :star:83
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers. :star:936
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
@@ -47,7 +47,7 @@
 * [pgBackRest](http://pgbackrest.org/) - Reliable PostgreSQL Backup & Restore.
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script 
 * [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift). :star:443
-* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku. :star:2580
+* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku. :star:2579
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
 ### GUI
@@ -63,7 +63,7 @@ For Database Management
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
-* [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go. :star:5083
+* [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go. :star:5084
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL. :star:280
 * [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS. :star:320
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
@@ -80,7 +80,7 @@ For Database Management
 * [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet. :star:10
 
 ### CLI
-* [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting :star:6839
+* [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting :star:6841
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV :star:100
 
@@ -101,7 +101,7 @@ For Database Management
 * [opm.io](http://opm.io) -  Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.
 
 ### Extensions
-* [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL. :star:1086
+* [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL. :star:1087
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication. :star:241
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL. :star:641
@@ -130,7 +130,7 @@ For Database Management
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases. :star:423
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP. :star:75
-* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script. :star:996
+* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script. :star:995
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/julmon/pg_activity) - top like application for PostgreSQL server activity monitoring. :star:714
 * [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js). :star:10
@@ -139,22 +139,22 @@ For Database Management
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends. :star:521
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats. :star:274
-* [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way. :star:762
+* [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way. :star:761
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
-* [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data. :star:1564
+* [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data. :star:1563
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine. :star:504
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network :star:40
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database. :star:448
-* [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. :star:10895
+* [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. :star:10900
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
-* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema. :star:5404
-* [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery. :star:1374
+* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema. :star:5411
+* [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery. :star:1373
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`. :star:12
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression :star:286
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple. :star:20
-* [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment :star:1437
+* [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment :star:1442
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex. :star:291
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences :star:12
 

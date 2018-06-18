@@ -34,11 +34,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:58
 - [PHP](https://github.com/appium/php-client) :star:35
-- [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:103
-- [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:165
+- [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:104
+- [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:166
 
 ## Inspectors
-- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:900
+- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:902
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector. :star:88

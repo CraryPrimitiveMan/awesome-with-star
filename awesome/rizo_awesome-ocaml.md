@@ -75,7 +75,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 - [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel](https://github.com/janestreet/core_kernel).
-- [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library. :star:194
+- [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library. :star:195
 - [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
 - [Minicli](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
@@ -108,8 +108,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C :star:8583
-- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:16820
+- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C :star:8584
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:16825
 - [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code :star:62
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs. :star:300
@@ -208,7 +208,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **Editor Integration**:
   - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs. :star:188
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:53263
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:53322
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin) :star:10
   - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
@@ -274,7 +274,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 - [Lambda-Term](https://github.com/diml/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
-- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images. :star:148
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images. :star:149
 
 
 ## Language-related
@@ -411,7 +411,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library. :star:9
 - [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations. :star:52
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
-- [owl](https://github.com/ryanrhymes/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions. :star:568
+- [owl](https://github.com/ryanrhymes/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions. :star:569
 
 
 ## Regular Expressions
@@ -491,7 +491,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project. :star:10
-  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way. :star:3733
+  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way. :star:3735
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
   - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing

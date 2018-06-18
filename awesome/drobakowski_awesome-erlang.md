@@ -66,7 +66,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Web development frameworks.*
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:248
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1726
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1727
 * [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:5009
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1607
@@ -86,7 +86,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:296
-* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:432
+* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:433
 * [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:834
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:476
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:122
@@ -131,7 +131,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
-* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:159
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:160
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:266
 
 ## Build Tools
@@ -168,7 +168,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang. :star:255
-* [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang. :star:235
+* [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang. :star:236
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP. :star:238
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 

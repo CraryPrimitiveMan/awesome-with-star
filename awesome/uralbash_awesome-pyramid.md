@@ -103,7 +103,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:32
   based authentication and role based security for Pyramid application
-* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2741
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2740
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:863
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2634
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2633
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -304,7 +304,7 @@ provide new storage backends.*
 
 ## Templates
 
-* [pyramid_mako](https://github.com/Pylons/pyramid_mako) - Mako templating :star:18
+* [pyramid_mako](https://github.com/Pylons/pyramid_mako) - Mako templating :star:17
   system bindings for the Pyramid web framework.
 * [pyramid_chameleon](https://github.com/Pylons/pyramid_chameleon) - Chameleon :star:10
   template compiler for pyramid.

@@ -51,7 +51,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading. :star:164
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js. :star:284
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:264
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management. :star:265
 
 #### Game Interaction
 
@@ -90,9 +90,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1231
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network. :star:1232
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality. :star:139
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1021
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade. :star:1023
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers. :star:42
 - [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam. :star:3
 
@@ -105,16 +105,16 @@ The purpose of this document is to provide a quick overview over existing packag
 ### PHP
 
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website. :star:50
-- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:301
+- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP. :star:302
 - [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication. :star:20
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API. :star:65
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP. :star:3
 - [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm. :star:12
-- [steam-auth](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support. :star:4
+- [steam-auth](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support. :star:5
 
 ### Go
 
-- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:184
+- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go. :star:185
 - [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go. :star:13
 
 ### Python

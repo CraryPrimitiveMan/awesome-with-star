@@ -69,11 +69,11 @@ Table of Contents
 
 ### General
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js. :star:143
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:8252
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1411
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications. :star:8254
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes. :star:1412
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
-* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2329
+* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly. :star:2328
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
@@ -86,23 +86,23 @@ Table of Contents
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax) :star:161
 
 ### Telegram
-* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2767
-* [Node.js](https://github.com/telegraf/telegraf) :star:1276
+* [Node.js](https://github.com/yagop/node-telegram-bot-api) :star:2769
+* [Node.js](https://github.com/telegraf/telegraf) :star:1279
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
-* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1103
-* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:5138
-* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:769
-* [Go](https://github.com/tucnak/telebot) :star:646
+* [PHP](https://github.com/irazasyed/telegram-bot-sdk) :star:1102
+* [Python](https://github.com/python-telegram-bot/python-telegram-bot) :star:5142
+* [C#](https://github.com/MrRoundRobin/telegram.bot) :star:770
+* [Go](https://github.com/tucnak/telebot) :star:648
 
 ### Discord
 ###### Node.js
 * [Eris](https://github.com/abalabahaha/eris) :star:384
-* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2565
+* [Discord.js](https://github.com/hydrabolt/discord.js) :star:2569
 * [Discordie](https://github.com/qeled/discordie) :star:182
 * [Discord.io](https://github.com/izy521/discord.io) :star:440
 
 ###### C#
-* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:772
+* [Discord.Net](https://github.com/RogueException/Discord.Net) :star:774
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) :star:230
 
 ###### Python
@@ -112,13 +112,13 @@ Table of Contents
 * [JDA](https://github.com/DV8FromTheWorld/JDA/)
 
 ###### Rust
-* [Serenity](https://github.com/zeyla/serenity) :star:265
+* [Serenity](https://github.com/zeyla/serenity) :star:266
 
 ###### Lua
 * [Discordia](https://github.com/SinisterRectus/Discordia) :star:147
 
 ###### Go
-* [Discordgo](https://github.com/bwmarrin/discordgo) :star:595
+* [Discordgo](https://github.com/bwmarrin/discordgo) :star:597
 
 ### Kik
 * [Python](https://github.com/kikinteractive/kik-python) :star:40

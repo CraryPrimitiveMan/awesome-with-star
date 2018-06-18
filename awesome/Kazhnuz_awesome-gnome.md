@@ -75,7 +75,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:47
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2366
+- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2367
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:305
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:247
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:39
@@ -90,7 +90,7 @@
 - [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:471
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:470
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:117
 
@@ -116,7 +116,7 @@
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2453
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:259
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2890
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2895
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:180
 
 ### System
@@ -151,7 +151,7 @@
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME. :star:334
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-- [MConnect](https://github.com/andyholmes/gnome-shell-extension-mconnect) - KDE Connect/MConnect integration for Gnome Shell :star:165
+- [MConnect](https://github.com/andyholmes/gnome-shell-extension-mconnect) - KDE Connect/MConnect integration for Gnome Shell :star:166
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers :star:65
 
 ### Status Area
@@ -177,7 +177,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them. :star:508
+- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them. :star:510
 
 ### Adwaita-based
 
@@ -203,14 +203,14 @@
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:438
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:439
 
 ## Icons
 
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1728
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1733
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:114
 
 ### Flat Icons
@@ -221,7 +221,7 @@
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:356
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:357
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme. :star:86
 
 ### Skeumorphic

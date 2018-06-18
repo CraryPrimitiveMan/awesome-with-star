@@ -20,7 +20,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-- [Wicket on Github](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com). :star:427
+- [Wicket on Github](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com). :star:428
 - [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 - [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 - [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -117,3 +117,26 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket. :star:8
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site. :star:87
+- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket. :star:17
+
+## Solutions
+End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
+
+- [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
+- [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
+- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:163
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1191
+- [NextReports](http://www.next-reports.com/) - Smart business reportins.
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:87
+- [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
+- [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform. :star:70
+
+## IDE Plugins and Tools
+
+- [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
+- [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket. :star:22
+
+# License
+
+ [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+

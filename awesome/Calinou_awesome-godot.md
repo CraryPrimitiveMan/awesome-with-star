@@ -54,7 +54,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Themes for your Godot games or user interface.*
 
-- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes) :star:35
+- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes) :star:33
 - [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme. :star:33
 
 ## Modules
@@ -70,7 +70,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot. :star:5
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray. :star:9
-- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:27
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module. :star:28
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash) :star:19
 
 ## Plugins and scripts

@@ -143,7 +143,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Web Programming • Libraries
 
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:2220
+- [regl](https://github.com/regl-project/regl) - Functional WebGL. :star:2221
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
@@ -156,9 +156,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 - [Proton](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine. :star:1035
 - [lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library. :star:944
-- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library. :star:357
+- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library. :star:358
 - [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set. :star:149
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL. :star:6966
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL. :star:6967
 - [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library. :star:806
 - [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization. :star:1057
 
@@ -313,7 +313,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Interactive
 
-- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming. :star:1988
+- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming. :star:1989
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API. :star:962
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
@@ -479,19 +479,19 @@ Creative coding is a different discipline than programming systems. The goal is 
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:840
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:303
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:305
 - [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:415
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:2007
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:8239
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:291
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:2008
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:8262
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:294
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:528
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:426
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1145
-- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4978
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4980
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:26102
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:26120
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
-- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning. :star:1202
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning. :star:1204
 
 
 ## License

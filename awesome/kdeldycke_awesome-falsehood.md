@@ -245,7 +245,7 @@ Why regular expressions and street addresses do not mix.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:325
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:593
+- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:594
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:84
 module to parse, normalize and render postal addresses.

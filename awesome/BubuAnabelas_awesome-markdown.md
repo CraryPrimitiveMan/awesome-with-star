@@ -72,21 +72,21 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork). :star:748
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar. :star:573
-- [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C. :star:1636
+- [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C. :star:1637
 
 ### Java
 
-- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:745
-- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:598
+- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:744
+- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:599
 - [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions. :star:1205
 
 ### JavaScript
 
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:5524
-- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6754
-- [marked](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:16571
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:5529
+- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:6755
+- [marked](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:16576
 - [mmarkdown](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it. :star:58
-- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6954
+- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:6958
 - [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:978
 
 ### Perl
@@ -100,8 +100,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Python
 
-- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1551
-- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1217
+- [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1553
+- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1218
 - [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1385
 
 ### Ruby
@@ -116,8 +116,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 > Convert Markdown to other formats and vice versa.
 
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:439
-- [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:777
-- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1404
+- [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:778
+- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1405
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:13
