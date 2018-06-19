@@ -43,10 +43,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:458
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:457
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:48
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1693
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1694
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
@@ -81,7 +81,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
-* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:181
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:182
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:138
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
@@ -127,7 +127,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2666
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2667
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

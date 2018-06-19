@@ -367,7 +367,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2161
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2165
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -459,11 +459,11 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:40997
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41015
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4373
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:693
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5293
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5292
 * [Shower](https://github.com/shower/shower) :star:4021
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1211
@@ -684,7 +684,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:901
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:900
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -743,7 +743,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:858
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:862
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

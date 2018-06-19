@@ -409,7 +409,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS :star:271
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework :star:322
- * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) :star:912
+ * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) :star:913
  * [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
  * [Natural Language Toolkit](http://www.nltk.org/)
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
@@ -510,15 +510,15 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists](https://github.com/jnv/lists) :star:5030
- - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1671
- - [awesome-python](https://github.com/vinta/awesome-python) :star:51452
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12845
- - [awesome-r](https://github.com/qinwf/awesome-R) :star:2993
+ - [lists](https://github.com/jnv/lists) :star:5034
+ - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) :star:1672
+ - [awesome-python](https://github.com/vinta/awesome-python) :star:51507
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks) :star:12858
+ - [awesome-r](https://github.com/qinwf/awesome-R) :star:2995
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) :star:411
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:19027
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) :star:19033
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
- - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star:2874
+ - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star:2885
 

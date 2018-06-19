@@ -253,7 +253,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### iOS
-* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:95
+* [Geomotion](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion. :star:96
 * [Walt](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations. :star:149
 * [AccordionView](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews. :star:15
 * [Motion-wizard](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS. :star:37

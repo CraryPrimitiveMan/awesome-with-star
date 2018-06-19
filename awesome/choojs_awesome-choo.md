@@ -28,7 +28,7 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:470
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:469
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:903
   library backends.

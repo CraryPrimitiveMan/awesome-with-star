@@ -98,7 +98,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   services for your Pyramid application based on the ldap3 package.
 * [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy :star:10
   for pyramid using repoze.who 2.0 API.
-* [velruse](https://github.com/bbangert/velruse) - Simplifying third-party :star:253
+* [velruse](https://github.com/bbangert/velruse) - Simplifying third-party :star:254
   authentication for web applications. it supports most of auth
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth](https://github.com/thruflo/pyramid_simpleauth) - session :star:32
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2633
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2638
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1814
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1815
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:16

@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:12030
+- [Docs](https://github.com/substack/node-browserify#usage) :star:12033
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4252
-- [Repo](https://github.com/substack/node-browserify) :star:12030
+- [Repo](https://github.com/substack/node-browserify) :star:12033
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1772
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1773
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:778
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:240
 
@@ -98,7 +98,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1535
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1536
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:196
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:523
 
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:956
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:958
 
 ## Contributing
 
