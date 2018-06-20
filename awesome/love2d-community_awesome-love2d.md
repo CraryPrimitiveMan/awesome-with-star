@@ -46,7 +46,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library :star:449
+* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library :star:450
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -54,7 +54,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend :star:11
 * [anim8](https://github.com/kikito/anim8) - Animation library :star:314
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com) :star:15
-* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE :star:9
+* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE :star:12
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:15
 * [Walt](https://github.com/davisdude/Walt) - Animation library :star:35
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime :star:16
@@ -91,7 +91,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator :star:1
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE :star:25
-* [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE :star:5
+* [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE :star:6
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls :star:8
 
 ## Entity
@@ -199,12 +199,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3176
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3184
 
 ## Serialization
 *Save Game & Storage Libraries*
 
-* [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer :star:72
+* [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer :star:73
 * [bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT :star:63
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI :star:24
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
@@ -276,7 +276,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2049
+* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE :star:2050
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
@@ -327,7 +327,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1711
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:38
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:870
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:872
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

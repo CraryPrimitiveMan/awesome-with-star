@@ -233,8 +233,8 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline. :star:277
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7692
-- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7224
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras. :star:7695
+- [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. :star:7231
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
 - [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU). :star:105
@@ -247,7 +247,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### C
 
-- [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux. :star:496
+- [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux. :star:497
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN :star:69
 
 ### C++
@@ -256,7 +256,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### Python
 
-- [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications. :star:319
+- [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications. :star:320
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
@@ -294,16 +294,16 @@ List of lists.
 
 - Security
   - [Application Security](https://github.com/paragonie/awesome-appsec) :star:3194
-  - [Security](https://github.com/sbilly/awesome-security) :star:3318
-  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2207
-  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3597
-  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3157
+  - [Security](https://github.com/sbilly/awesome-security) :star:3325
+  - [Capture the Flag](https://github.com/apsdehal/awesome-ctf) :star:2210
+  - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) :star:3601
+  - [Android Security](https://github.com/ashishb/android-security-awesome) :star:3162
   - [Hacking](https://github.com/carpedm20/awesome-hacking) :star:3873
-  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2329
-  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1959
+  - [Honeypots](https://github.com/paralax/awesome-honeypots) :star:2332
+  - [Incident Response](https://github.com/meirwah/awesome-incident-response) :star:1962
 - Meta
-  - [awesome](https://github.com/sindresorhus/awesome) :star:87452
-  - [lists](https://github.com/jnv/lists) :star:5034
+  - [awesome](https://github.com/sindresorhus/awesome) :star:87534
+  - [lists](https://github.com/jnv/lists) :star:5035
 
 # Contributing
 

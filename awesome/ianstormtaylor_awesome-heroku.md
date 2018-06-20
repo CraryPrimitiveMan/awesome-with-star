@@ -43,7 +43,7 @@ How to architect your Heroku projects...
 
 Blogs around the internet that often (or exclusively) write about Heroku...
 
-- `blog` [Higher Order Heroku](http://www.higherorderheroku.com/) — a blog about developing on Heroku.
+- `blog` [Heroku Blog](https://blog.heroku.com) — the official Heroku blog.
 
 
 ## <img width="21" height="21" src="images/deployment.png" /> Deployment

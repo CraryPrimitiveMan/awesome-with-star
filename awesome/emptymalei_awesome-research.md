@@ -445,7 +445,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1481
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:597
-* [hovercraft](https://github.com/regebro/hovercraft) :star:1006
+* [hovercraft](https://github.com/regebro/hovercraft) :star:1005
 
 
 
@@ -459,7 +459,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41015
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41043
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4373
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:693
@@ -743,7 +743,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:862
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:863
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

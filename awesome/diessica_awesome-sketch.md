@@ -70,8 +70,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4268
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:1104
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5701
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:1103
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:5702
 - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1103
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:68

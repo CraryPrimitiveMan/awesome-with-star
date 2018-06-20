@@ -47,7 +47,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server. :star:12
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:41
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics. :star:28
-- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:56
+- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:58
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:35
 
 ## Themes
@@ -61,7 +61,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:322
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:323
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:26
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:68
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:16
@@ -77,7 +77,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:75
+- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily. :star:76
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format. :star:18
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.

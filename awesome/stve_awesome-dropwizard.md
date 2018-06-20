@@ -86,7 +86,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:248
 * [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:130
-* [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:18
+* [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:19
 
 ### Deployment
 

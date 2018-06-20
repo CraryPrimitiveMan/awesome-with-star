@@ -100,9 +100,10 @@
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
+* Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
-* Condé Nast https://engineering.condenast.io/
+* Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
@@ -131,6 +132,7 @@
 * Eharmony http://www.eharmony.com/engineering/
 * Elastic https://www.elastic.co/blog/category/engineering
 * Engine Yard https://blog.engineyard.com/
+* Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
@@ -150,6 +152,7 @@
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
+* Freeletics https://freeletics.engineering/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog
@@ -169,6 +172,7 @@
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
+* Go-Jek https://blog.gojekengineering.com/
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
 * Grammarly https://tech.grammarly.com/blog/index.html
@@ -188,7 +192,6 @@
 * Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
-* Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
@@ -196,7 +199,6 @@
 * Hoteltonight http://engineering.hoteltonight.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
-* Huddle http://tldr.huddle.com/
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
@@ -276,6 +278,7 @@
 #### O companies
 * OCTO Technology https://blog.octo.com/en/
 * Okta https://developer.okta.com/blog/
+* OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
@@ -337,6 +340,7 @@
 * Settled https://engineroom.settled.co.uk/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis https://www.sharethis.com/category/engineering/
+* Shazam https://blog.shazam.com/
 * Shopify https://engineering.shopify.com
 * ShowMax https://tech.showmax.com
 * Shyp https://medium.com/shyp-engineering
@@ -387,7 +391,7 @@
 * Trivago http://tech.trivago.com/
 * TrueCar https://www.drivenbycode.com/
 * Tumblr https://engineering.tumblr.com/
-* Twilio https://www.twilio.com/engineering/
+* Twilio https://www.twilio.com/blog/
 * Twitter https://blog.twitter.com/engineering
 * Twitch https://blog.twitch.tv/tagged/engineering
 
@@ -416,6 +420,7 @@
 * Wealthfront http://eng.wealthfront.com/
 * We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
+* Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
@@ -423,7 +428,6 @@
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
-* WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
@@ -505,7 +509,7 @@
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
-* Daily JS http://dailyjs.com/
+* Daily JS https://medium.com/dailyjs
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
@@ -554,6 +558,7 @@
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
 * Hypriot http://blog.hypriot.com/
@@ -584,6 +589,7 @@
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joe Armstrong https://joearms.github.io/
+* Joe Nelson https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
@@ -599,6 +605,7 @@
 
 #### K individuals
 * K. Harrison https://useyourloaf.com/
+* Kai Hendry https://hendry.iki.fi/
 * Kevin Burke https://kev.inburke.com/
 * Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
@@ -606,6 +613,7 @@
 #### L individuals
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Larry Land https://lg.io/
+* Lazarus Lazaridis https://iridakos.com
 * Lea Verou http://lea.verou.me/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
@@ -616,6 +624,7 @@
 * Marc Plano-Lesay https://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
+* Mark Seaborn http://lackingrhoticity.blogspot.de/
 * Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
@@ -694,6 +703,7 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
+* Sergey Zhuk http://sergeyzhuk.me/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/

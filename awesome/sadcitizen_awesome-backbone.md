@@ -100,7 +100,7 @@
 
 ## Examples and boilerplates
 
-- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:633
+- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:634
 - [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:939
 - [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:474
 - [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:64

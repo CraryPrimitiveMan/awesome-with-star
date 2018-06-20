@@ -65,7 +65,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:35
   * Icons
-    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:604
+    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:605
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:35

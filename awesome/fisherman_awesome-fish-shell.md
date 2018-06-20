@@ -20,12 +20,12 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2948
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3537
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2950
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3540
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:761
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:762
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:213
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:276
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:108
@@ -37,5 +37,5 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space. :star:59
 * [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish. :star:256
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:534
+* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome. :star:535
 

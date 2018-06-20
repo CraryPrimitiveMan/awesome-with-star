@@ -144,7 +144,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3197
+* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3198
 
 ## Data Formats
 
@@ -312,7 +312,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     ---
 *Additional languages on top of Haskell*
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2450
+* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2452
 * [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
 
 ## Operating Systems
@@ -359,7 +359,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Streaming Processing
 
-* [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit). :star:527
+* [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit). :star:530
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
 * [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes). :star:368
 
@@ -389,7 +389,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:5533
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:5532
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
 * [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!
