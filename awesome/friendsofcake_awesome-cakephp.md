@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19027
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21618
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19035
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21626
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -235,7 +235,7 @@ Additional lists you might find useful:
 *Misc plugins and libraries.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - Gives you the ability to manage your Controller actions as single classes. :star:8
-- [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests. :star:35
+- [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests. :star:36
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area. :star:27
 - [CakeDC/Enum](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app. :star:21
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares. :star:2
@@ -316,7 +316,7 @@ Additional lists you might find useful:
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](http://jsonapi.org/) compliant APIs. :star:25
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](http://fractal.thephpleague.com/transformers/) for your API output. :star:13
 - [JsonApi plugin](https://github.com/josbeir/cakephp-json-api) - Implements the [JSON API](http://jsonapi.org/) format. :star:25
-- [RestApi plugin](https://github.com/multidots/cakephp-rest-api) - Provides basic support for building REST API services. :star:56
+- [RestApi plugin](https://github.com/multidots/cakephp-rest-api) - Provides basic support for building REST API services. :star:57
 
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
@@ -377,7 +377,7 @@ Additional lists you might find useful:
 - [Liquid plugin](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views. :star:3
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy. :star:6
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags. :star:19
-- [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views. :star:68
+- [TwigView plugin](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views. :star:69
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos. :star:3
 
 ## Testing

@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2640
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2642
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,7 +230,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:615
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:616
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:289
   RAML. It uses Nefertari which provides ElasticSearch-powered views.

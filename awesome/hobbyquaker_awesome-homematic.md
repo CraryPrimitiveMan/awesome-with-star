@@ -25,6 +25,7 @@
 
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
+* [Homematic Guru](https://homematic-guru.de/) - News, Blog and more.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
 * [Technikkram](https://technikkram.net) - News, Blog and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
@@ -111,7 +112,7 @@
 * [Homematic-rega](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface. :star:1
 * [Homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based). :star:38
 * [Homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module. :star:2
-* [Pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use. :star:24
+* [Pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use. :star:25
 * [Pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices. :star:32
 
 ## Generic Smart Home Software

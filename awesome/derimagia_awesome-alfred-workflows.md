@@ -34,15 +34,15 @@ A curated list of Awesome Alfred Workflows.
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on. :star:64
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:247
+- [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation. :star:248
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data. :star:55
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard. :star:548
-- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1447
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github. :star:1448
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system. :star:97
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products. :star:166
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge. :star:40
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons). :star:14
-- [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io). :star:218
+- [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io). :star:220
 - [ng](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation. :star:35
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search. :star:431
 - [Packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org). :star:15
@@ -71,7 +71,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
-- [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text. :star:187
+- [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text. :star:188
 - [Gitmoji](https://github.com/leolabs/alfred-gitmoji/) - Search for [Gitmojis](https://gitmoji.carloscuesta.me/) easily.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text. :star:9
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
@@ -81,7 +81,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault. :star:99
-- [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator. :star:66
+- [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator. :star:67
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
 - [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections. :star:51
 
@@ -97,13 +97,13 @@ A curated list of Awesome Alfred Workflows.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs. :star:62
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
-- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa. :star:537
+- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa. :star:538
 
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred. :star:65
-- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:50
+- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts. :star:51
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers

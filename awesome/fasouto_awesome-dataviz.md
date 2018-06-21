@@ -40,7 +40,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [dc.js](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
-- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper](https://github.com/hustcc/echarts-for-react) :star:1318
+- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper](https://github.com/hustcc/echarts-for-react) :star:1320
 - [Epoch](https://github.com/epochjs/epoch) - Perfect to create real-time charts. :star:4936
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
 - [NVD3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js. :star:6541
@@ -55,7 +55,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### Maps
 - [CARTO](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web. :star:1865
-- [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps. :star:3235
+- [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps. :star:3243
 - [DataMaps](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js. :star:2840
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
@@ -66,29 +66,29 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - See [Awesome D3](https://github.com/wbkd/awesome-d3)
 
 ### React
-- [React-vis](https://github.com/uber/react-vis) - React components to build data visualizations. :star:3787
-- [Recharts](https://github.com/recharts/recharts) - Declarative react components to render D3 charts. :star:9172
+- [React-vis](https://github.com/uber/react-vis) - React components to build data visualizations. :star:3788
+- [Recharts](https://github.com/recharts/recharts) - Declarative react components to render D3 charts. :star:9178
 - [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
-- [nivo](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks). :star:2542
+- [nivo](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks). :star:2543
 
 ### Misc
-- [Piecon](https://github.com/lipka/piecon) - Pie charts in your favicon. :star:2351
+- [Piecon](https://github.com/lipka/piecon) - Pie charts in your favicon. :star:2352
 - [Textures.js](http://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 - [Timeline.js](http://timeline.knightlab.com/) -  Create interactive timelines.
 - [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
 - [Vis.js](http://visjs.org/) - A dynamic visualization library including timeline, networks and graphs (2D and 3D).
 
 ## Android tools
-- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library. :star:881
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library. :star:22799
-- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Simple chart library. :star:3853
+- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library. :star:882
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library. :star:22814
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Simple chart library. :star:3858
 
 ## Excel tools
 - [Best Excel Maps](http://bestexcelmaps.com/) - Choropleth maps for Microsoft Excel.
 
 ## C++ tools
 - [LargeVis](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data. :star:399
-- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt). :star:115
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt). :star:116
 - [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ## Golang tools
@@ -97,20 +97,20 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## iOS tools
 - [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs. :star:2715
-- [Charts](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code. :star:18526
-- [JBChartView](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs. :star:3803
-- [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan. :star:9314
+- [Charts](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code. :star:18534
+- [JBChartView](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs. :star:3804
+- [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan. :star:9315
 
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-lite.
 - [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters :star:323
-- [ggplot](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2. :star:3329
-- [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library. :star:429
+- [ggplot](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2. :star:3331
+- [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library. :star:430
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
-- [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib. :star:977
-- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) :star:8429
+- [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib. :star:978
+- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) :star:8433
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 - [toyplot](http://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
@@ -121,14 +121,14 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
 - [ggvis](http://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
 - [lattice](http://lattice.r-forge.r-project.org) - trellis graphics for R
-- [plotly](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams :star:1255
+- [plotly](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams :star:1256
 - [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to Bokeh.
 - [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
 - [shiny](http://shiny.rstudio.com) - Framework for creating interactive applications/visualisations
 - [visNetwork](http://dataknowledge.github.io/visNetwork/) - Interactive network visualisations
 
 ## Ruby tools
-- [Chartkick](https://github.com/ankane/chartkick) - Create charts with one line of Ruby. :star:4821
+- [Chartkick](https://github.com/ankane/chartkick) - Create charts with one line of Ruby. :star:4822
 
 ## Other tools
 Tools that are not tied to a particular platform or language.
@@ -137,7 +137,7 @@ Tools that are not tied to a particular platform or language.
 - [Gephi](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs :star:2713
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
-- [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations). :star:5065
+- [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations). :star:5067
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.  Some data visualization examples are available in the [Composition Gallery](https://vuo.org/composition/?f%5B0%5D=im_field_vuo_feature_component%3A149).
 
 # Resources

@@ -70,20 +70,20 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner. :star:3179
+* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner. :star:3186
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
-* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:192
+* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web. :star:193
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1805
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL. :star:1807
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:493
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input. :star:494
 
 
 ## Profile Loaders
@@ -148,11 +148,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:87539
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:8299
-* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:305
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists. :star:87616
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources. :star:8318
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more. :star:306
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem. :star:866
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4989
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development. :star:4990
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources. :star:1145
 
 

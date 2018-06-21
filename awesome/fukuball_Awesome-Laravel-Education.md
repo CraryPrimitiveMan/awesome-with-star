@@ -74,8 +74,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) :star:6236
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19027
+- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) :star:6238
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19035
 - [Laravel API](http://laravel.com/api/5.4/) \#5.4
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application. :star:222
@@ -253,13 +253,13 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-- [Laravel Framework](https://github.com/laravel/framework) :star:12736
-- [Laravel Application](https://github.com/laravel/laravel) :star:43780
+- [Laravel Framework](https://github.com/laravel/framework) :star:12741
+- [Laravel Application](https://github.com/laravel/laravel) :star:43797
 - [Laravel Documentation](https://github.com/laravel/docs) :star:1316
 - [Laravel Cashier](https://github.com/laravel/cashier) :star:1321
 - [Laravel Envoy](https://github.com/laravel/envoy) :star:1069
-- [Laravel Homestead](https://github.com/laravel/homestead) :star:2448
-- [Laravel Homestead Build Scripts](https://github.com/laravel/settler) :star:762
+- [Laravel Homestead](https://github.com/laravel/homestead) :star:2450
+- [Laravel Homestead Build Scripts](https://github.com/laravel/settler) :star:763
 - [Laravel Website](https://github.com/laravel/laravel.com) :star:328
 - [Laravel Art](https://github.com/laravel/art) :star:117
 - [Laravel Antares](https://github.com/antaresproject/)
@@ -269,8 +269,8 @@ These guys below contributed with content, translations and more. What are you w
 
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [PHP FIG](http://www.php-fig.org/)
-- [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) :star:10239
-- [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) :star:6093
+- [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) :star:10246
+- [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) :star:6096
 
 ## Dependency Management
 
@@ -281,16 +281,16 @@ These guys below contributed with content, translations and more. What are you w
 - [Sublime Text](http://www.sublimetext.com/)
   - [Alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple selections and multi-line selections :star:486
   - [Blade Snippets](https://github.com/dev4dev/blade-snippets) - Provide snippets for blade template engine :star:107
-  - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter :star:1579
+  - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter :star:1581
   - [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments :star:3003
-  - [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow :star:5183
+  - [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow :star:5180
   - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) - Adds syntax definitions for the Laravel 5 Blade engine :star:389
   - [phpfmt](https://github.com/phpfmt/sublime-phpfmt) - Plugin to format PHP code - supports also PSR1/2
   - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar :star:129
-  - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine :star:4824
-  - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP :star:1602
-  - [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter plugin for PHP :star:170
-  - [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - Syntax highlighting for both SCSS and Sass :star:290
+  - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine :star:4826
+  - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP :star:1603
+  - [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter plugin for PHP :star:171
+  - [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - Syntax highlighting for both SCSS and Sass :star:289
   - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them :star:841
 - [PhpStorm IDE ](https://www.jetbrains.com/phpstorm/)
   - [Laravel Plugin for PhpStorm](https://github.com/Haehnchen/idea-php-laravel-plugin) :star:391
@@ -332,7 +332,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Interview
 
-- [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php) :star:19358
+- [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php) :star:19367
 - Introduction to Algorithms, 3rd Edition ISBN:9780262033848
 - Cracking the Coding Interview: 150 Programming Questions and Solutions ISBN:9780984782802
 - Elements of Programming Interviews: The Insiders' Guide ISBN:9781479274833

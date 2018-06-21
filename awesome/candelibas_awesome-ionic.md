@@ -114,8 +114,8 @@ An "awesome" list of the Ionic resources
 * [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2433
-* [IonicRealty](https://github.com/ccoenraets/ionic2-realty) :star:278
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2434
+* [IonicRealty](https://github.com/ccoenraets/ionic2-realty) :star:277
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) :star:36
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud) :star:26
 * [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app) :star:7
@@ -123,10 +123,10 @@ An "awesome" list of the Ionic resources
 * [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) :star:17
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player) :star:28
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app) :star:24
-* [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base) :star:141
+* [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base) :star:142
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) :star:224
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) :star:121
-* [Ionic Advanced Components](https://github.com/yannbf/ionic2-components) :star:1196
+* [Ionic Advanced Components](https://github.com/yannbf/ionic2-components) :star:1201
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes) :star:13
 * [Ionic Soundboard](https://github.com/rkalis/ionic-soundboard) :star:6
 

@@ -117,7 +117,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket. :star:8
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site. :star:87
-- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket. :star:17
+- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket. :star:18
 
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
@@ -125,7 +125,7 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
 - [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:163
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1192
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1193
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:87
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

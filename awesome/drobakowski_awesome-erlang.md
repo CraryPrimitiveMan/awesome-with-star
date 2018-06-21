@@ -67,10 +67,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:248
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1726
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:5013
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:5017
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1607
-* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1102
+* [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1103
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang. :star:837
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system. :star:559
 
@@ -106,7 +106,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager. :star:6
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager. :star:16
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager. :star:13
-* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:844
+* [logplex](https://github.com/heroku/logplex) - Heroku log router. :star:845
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
@@ -114,7 +114,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool. :star:244
 * [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools. :star:420
 * [Exometer](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package. :star:446
-* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:558
+* [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics). :star:559
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client. :star:82
 * [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs. :star:183
 
@@ -132,7 +132,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs. :star:160
-* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:266
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang. :star:267
 
 ## Build Tools
 *Project build and automation tools.*
@@ -230,8 +230,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang :star:61
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang. :star:2
-* [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:236
-* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:239
+* [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. :star:235
+* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs. :star:240
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*

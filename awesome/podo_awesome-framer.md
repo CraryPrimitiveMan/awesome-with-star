@@ -115,7 +115,7 @@
 * [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer. :star:2
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer. :star:20
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer. :star:6
-* [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:10
+* [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis. :star:11
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes. :star:18
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code. :star:221
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:35
@@ -123,13 +123,13 @@
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer. :star:179
 * [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
-* [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer. :star:30
+* [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer. :star:31
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code. :star:6
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:146
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:273
-* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:549
+* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:550
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:228
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:430
@@ -141,7 +141,7 @@
 * [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease. :star:85
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them. :star:63
 * [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype. :star:40
-* [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer. :star:30
+* [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer. :star:31
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects. :star:14
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query). :star:28
 * [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes. :star:51
@@ -177,13 +177,14 @@
 ## UI Libraries
 * [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:76
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:25
+* [Flare](https://gumroad.com/l/DbsPj) - Interactive prototype using Flare UI kit.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
 * [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
 
 ## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:319
+* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:320
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:496
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:148
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29

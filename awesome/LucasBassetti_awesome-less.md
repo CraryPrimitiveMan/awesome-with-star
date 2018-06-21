@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15584
+- [Official Repository](https://github.com/less/less.js) :star:15588
 
 **[Back to top](#contents)**
 
@@ -63,7 +63,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails. :star:346
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19324
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application. :star:19330
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.

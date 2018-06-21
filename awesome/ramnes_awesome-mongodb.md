@@ -76,7 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ### More
- - [MongoDB source code](https://github.com/mongodb/mongo) :star:13940
+ - [MongoDB source code](https://github.com/mongodb/mongo) :star:13946
  - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
  - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - Official C driver :star:415
 
 ### C++
- - [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver :star:483
+ - [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver :star:486
 
 ### C#/.NET ###
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver :star:1888
@@ -99,7 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver :star:76
 
 ### Elixir
- - [mongodb](https://github.com/ankhers/mongodb) - Community Elixir driver :star:270
+ - [mongodb](https://github.com/ankhers/mongodb) - Community Elixir driver :star:271
  - [mongodb_ecto](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper :star:264
 
 ### Erlang
@@ -124,11 +124,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Spring Data MongoDB](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories for MongoDB :star:863
 
 ### JavaScript
- - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases :star:429
- - [MEAN.JS](https://github.com/meanjs/mean) - Full-Stack based on MongoDB, Express, AngularJS, and Node.js :star:4579
- - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js :star:4755
- - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework, based on MongoDB, with lots of features :star:39939
- - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM :star:16029
+ - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases :star:430
+ - [MEAN.JS](https://github.com/meanjs/mean) - Full-Stack based on MongoDB, Express, AngularJS, and Node.js :star:4580
+ - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js :star:4760
+ - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework, based on MongoDB, with lots of features :star:39942
+ - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM :star:16038
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework :star:53
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io :star:57
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver :star:6979
@@ -150,17 +150,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### PHP
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality :star:354
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb :star:11
- - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel :star:3421
+ - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel :star:3423
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation :star:7
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver :star:517
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask :star:15
- - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo :star:2301
+ - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo :star:2303
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler :star:109
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB :star:20
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio :star:995
- - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver :star:2387
+ - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver :star:2390
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface :star:304
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy :star:260
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow :star:96
@@ -187,16 +187,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations :star:168
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your MongoDB setup :star:22
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes :star:252
- - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections :star:31
+ - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections :star:32
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - A dataset migration tool from MongoDB to Elasticsearch and vice versa :star:84
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-Master MongoDB replication :star:56
- - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication :star:1463
+ - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication :star:1462
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files :star:1141
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS :star:769
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module :star:31
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
- - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content :star:1165
+ - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content :star:1166
 
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop :star:1365
@@ -210,7 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Desktop
  - [dbKoda](https://www.dbkoda.com) - Open-source, cross-platform IDE for MongoDB
- - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client :star:2319
+ - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client :star:2320
  - [Mongotron](http://mongotron.io/) - Cross-platform, open-source MongoDB client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager (formerly MongoBooster)
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform MongoDB manager (formerly Robomongo)
@@ -232,22 +232,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements :star:1450
 
 ### Web
- - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs :star:1629
+ - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs :star:1633
  - [Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. commercial online GUI and data-visualization platform
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
- - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3 :star:2719
+ - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3 :star:2720
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap :star:259
  - [mongoplayground](https://mongoplayground.net) - An online playground for MongoDB
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of :star:838
 
 ## Applications
- - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code :star:6301
- - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB  :star:2708
- - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB :star:7215
+ - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code :star:6302
+ - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB  :star:2710
+ - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB :star:7218
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js and MongoDB based forum software ("built for the modern web")
- - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB :star:1889
- - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6 and MongoDB :star:7282
+ - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB :star:1890
+ - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6 and MongoDB :star:7292
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap :star:3437
 
 ## License

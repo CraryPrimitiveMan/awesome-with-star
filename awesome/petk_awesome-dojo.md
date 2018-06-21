@@ -147,12 +147,12 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer :star:10
 * [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels :star:38
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo :star:58
-* [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API :star:50
+* [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API :star:49
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops :star:29
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:29
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23822
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:23834
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:43
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:25
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14580
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:14592
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:93
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:87515
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1134
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:87600
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1135
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:5035
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:5037
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:105
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:175
 

@@ -20,7 +20,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS :star:551
 - [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:1009
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality :star:523
-- [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:284
+- [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:285
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates :star:238
 - [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components :star:353
 - [Deferred Updates](https://github.com/mbest/knockout-deferred-updates) - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates :star:142

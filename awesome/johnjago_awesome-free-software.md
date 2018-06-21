@@ -269,9 +269,9 @@
 
 ### Other Lists
 
-- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:41
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:24109
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6769
+- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:42
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:24120
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6771
 
 ### Talks
 

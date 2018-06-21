@@ -174,7 +174,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)). :star:3
-* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:363
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces. :star:364
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier. :star:14
 
@@ -282,7 +282,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:104
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:114
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:103
-* [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:63
+* [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:62
 * [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:22
 
 ## Database
@@ -370,7 +370,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### JSON
 
 * [Actionjson](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library. :star:131
-* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper. :star:14
+* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper.
 * [Serialkiller](https://github.com/benbjohnson/serialkiller) - JSON & XML serialization library. :star:4
 * [JsonMapper](https://github.com/kemsky/JsonMapper) - Typed JSON parser. :star:2
 * [JSONTools](https://github.com/s9tpepper/JSONTools) - JSON errors, the speed of the JSWoof JSON library, and E4X style queries dubbed E4J. :star:17
@@ -389,7 +389,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
-* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:133
+* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:134
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer. :star:2
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library. :star:2
 * [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch. :star:3
@@ -457,7 +457,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [HTTPForm](https://github.com/dv/HTTPForm) - Emulate a multipart/form-data HTML form submission request, including file upload. :star:5
 * [AS3httpclient](https://github.com/abdul/as3httpclient) - HTTP client implementation. :star:4
 * [AS3httpclient](https://github.com/gabriel/as3httpclient) - HTTP client implementation. :star:247
-* [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) - AS3 API for AWS. :star:20
+* [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) - AS3 API for AWS. :star:21
 
 #### P2P
 

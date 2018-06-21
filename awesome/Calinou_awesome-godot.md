@@ -24,31 +24,31 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone. :star:8
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. :star:26
+- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. :star:27
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours. :star:4
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:22
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:25
-- [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:52
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:484
+- [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:53
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:485
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016. :star:1
 
 ### 3D
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016. :star:8
 - [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish. :star:28
-- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level. :star:30
+- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level. :star:31
 
 ## Demos
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method.
-- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting. :star:44
+- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting. :star:45
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server. :star:12
-- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:41
+- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:42
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics. :star:28
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:58
-- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:35
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:34
 
 ## Themes
 
@@ -61,7 +61,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:323
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:324
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:26
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:68
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:16

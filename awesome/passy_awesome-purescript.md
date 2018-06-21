@@ -31,7 +31,7 @@ React-based:
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:268
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:52
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:503
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:504
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:68
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:39
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:78
