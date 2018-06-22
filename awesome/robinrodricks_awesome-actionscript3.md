@@ -56,7 +56,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### ANE Dev Tools
 * [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:23
-* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 . :star:46
+* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 . :star:47
 
 ## Frameworks
 #### MVC Frameworks
@@ -98,9 +98,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### 3D Frameworks
 
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
-* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:672
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:673
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl)). :star:167
-* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:116
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:117
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:366
 * [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
 * [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based). :star:1
@@ -370,7 +370,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### JSON
 
 * [Actionjson](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library. :star:131
-* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper.
+* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper. :star:14
 * [Serialkiller](https://github.com/benbjohnson/serialkiller) - JSON & XML serialization library. :star:4
 * [JsonMapper](https://github.com/kemsky/JsonMapper) - Typed JSON parser. :star:2
 * [JSONTools](https://github.com/s9tpepper/JSONTools) - JSON errors, the speed of the JSWoof JSON library, and E4X style queries dubbed E4J. :star:17
@@ -400,7 +400,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SWF
 
-* [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:530
+* [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files. :star:531
 * [AS3abc](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files. :star:3
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools. :star:230
 * [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run. :star:14
@@ -477,7 +477,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
 * [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:215
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:35
-* [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:10
+* [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:11
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF. :star:2
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) - Communication to Socket.IO v.0.8+ servers. :star:46
 * [ws-flash-client](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (uses Adobe Flash where native WebSocket is not available). :star:16
@@ -564,7 +564,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:428
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:429
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:58
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4

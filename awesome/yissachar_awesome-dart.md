@@ -76,7 +76,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Database
 
-* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:28
+* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:29
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector. :star:8
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver :star:71
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
@@ -91,7 +91,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
 * [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:148
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
-* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:182
+* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:183
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps. :star:30
 
 ## Dependency Injection
@@ -116,7 +116,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## ORM
 
-* [Objectory](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb. :star:43
+* [Objectory](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb. :star:44
 
 ## Image
 
@@ -136,7 +136,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart :star:18
-* [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman. :star:264
+* [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman. :star:265
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js. :star:3
@@ -162,7 +162,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package :star:211
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language :star:76
-* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim :star:209
+* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim :star:210
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Dart support for Visual Studio Code.

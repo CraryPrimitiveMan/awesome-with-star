@@ -106,7 +106,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social :star:2740
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:863
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful :star:864
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, :star:93
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
@@ -193,7 +193,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:292
+* [deform](https://github.com/Pylons/deform) - is a Python HTML form generation :star:294
   library.
 * [colander](https://github.com/Pylons/colander) - A :star:327
   serialization/deserialization/validation library for strings, mappings and
@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2642
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2647
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -289,7 +289,7 @@ provide new storage backends.*
   pyramid-mongoengine package based on flask-mongoengine
 * [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats. :star:4
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats. :star:5
 
 ## Task Queue
 
@@ -318,7 +318,7 @@ provide new storage backends.*
 
 *Packages that help test code or generate test data.*
 
-* [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and :star:226
+* [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and :star:227
   makes it easy to send test requests to that application, without starting up
   an HTTP server.
 
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1816
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1819
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:16

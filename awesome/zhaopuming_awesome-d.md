@@ -169,7 +169,7 @@
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1803
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++. :star:1802
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM. :star:699
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain. :star:345
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day. :star:152
@@ -207,7 +207,7 @@
 * [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer. :star:65
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator. :star:9
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D. :star:24
-* [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D. :star:355
+* [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D. :star:357
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
 * [ctpg](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D. :star:39
 * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D. :star:8
@@ -236,7 +236,7 @@
 *Full stack web frameworks.*
 * [Hunt](http://www.huntframework.com/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:336
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. :star:337
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS. :star:16
 * [Diamond](http://diamondmvc.org/) - Full-stack web-framework based on vibe.d, targetting enterprise development and high-performance web solutions for both small and big projects.
 
@@ -276,14 +276,14 @@
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects. :star:923
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D. :star:63
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL. :star:41
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:336
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d. :star:337
 * [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction. :star:50
 * [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)). :star:74
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL. :star:19
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2471
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3. :star:2475
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D. :star:72
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise). :star:9
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
@@ -302,7 +302,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk. :star:88
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language. :star:29
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:7326
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui) :star:7327
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 

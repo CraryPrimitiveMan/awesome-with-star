@@ -47,7 +47,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 
 ## Resources for those already familiar with GitHub
 
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:25285
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:25289
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
@@ -74,15 +74,15 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated.  :star:19
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub. :star:585
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications. :star:53
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:13076
+- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:13083
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs. :star:47
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line. :star:171
-- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:2856
+- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:2866
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another :star:349
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked. :star:79
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests). :star:44
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
-- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub :star:2808
+- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub :star:2809
 - [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 - [Noteit](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists. :star:11
@@ -93,9 +93,9 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 ## Novel uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub. :star:42
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:32917
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:32936
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2579
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code. :star:659
-- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2578
+- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2579
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
 

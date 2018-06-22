@@ -61,7 +61,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:324
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:325
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:26
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot. :star:68
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:16

@@ -196,7 +196,7 @@ Foreign Function Interface
 
 ## C ##
 
-* [CFFI](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14]. :star:175
+* [CFFI](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14]. :star:176
 * [cl-autowrap](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39]. :star:105
 
 ## Java ##
@@ -309,7 +309,7 @@ Language extensions
 * [str](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200]. :star:53
 * [trivial-types](https://github.com/m2ym/trivial-types) - Trivial type definitions. [LLGPL][8]. :star:34
 * [interface](https://bitbucket.org/tarballs_are_good/interface) - A protocol library. [3-clause BSD][15].
-* [cl-syntax](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
+* [cl-syntax](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8]. :star:31
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
 * [cl-annot](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8]. :star:98
 * [cl-interpol](http://www.cliki.net/cl-interpol) - A set of reader modifications to allow string interpolation. No license specified.
@@ -329,7 +329,7 @@ CLOS extensions
 
 * [Cells](https://github.com/kennytilton/cells) - "an implementation of the dataflow programming paradigm", or "reactive spreadsheet-like expressiveness for CLOS". Used to build an [algebra learning system](http://tiltontec.com/). With [documentation](https://github.com/stefano/cells-doc/). Lisp LGPL. :star:100
 * [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
-* [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8]. :star:15
+* [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8]. :star:16
 
 
 Non-deterministic, logic programming
@@ -414,7 +414,7 @@ Advanced
 Library Manager
 ===============
 
-* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:764
+* [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200]. :star:766
 * [qlot](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14]. :star:139
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15]. :star:63
@@ -454,7 +454,7 @@ See [Cliki](http://www.cliki.net/Web) for more.
 
 HTTP clients
 ------------
-* [Dexador](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200]. :star:106
+* [Dexador](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200]. :star:107
 
 HTTP Servers
 ------------
@@ -675,7 +675,7 @@ This contains plugins and other goodies for various text editors.
 
 ## Emacs ##
 
-* [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain. :star:942
+* [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain. :star:943
 * [Sly](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it. :star:309
 * [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
@@ -741,7 +741,7 @@ Unit Testing
 
 * [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39]. :star:92
 * [CLUnit](https://github.com/tgutu/clunit) - A unit testing library. [Expat][14]. :star:16
-* [Prove](https://github.com/fukamachi/prove) - Yet another unit testing framework [Expat][14]. :star:171
+* [Prove](https://github.com/fukamachi/prove) - Yet another unit testing framework [Expat][14]. :star:172
 * [Parachute](https://github.com/Shinmera/parachute) - An extensible :star:12
   and cross-compatible testing framework. With test dependencies,
   conditions, fixtures and restarts. [Artistic License 2.0][51].
@@ -876,7 +876,7 @@ This contains anything which doesn't fit into another category.
 * [iolib](https://github.com/sionescu/iolib) - I/O library. [Expat][14]. :star:110
 * [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified. :star:23
 * [named-readtables](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15]. :star:17
-* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1423
+* [nEXT-Browser](http://github.com/nEXT-Browser/nEXT) - A productivity focused, extensible/programmable web browser. [3-clause BSD][15]. :star:1425
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39]. :star:4
 * [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].

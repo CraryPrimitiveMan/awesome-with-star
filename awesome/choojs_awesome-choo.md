@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:227
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5465
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5470
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,7 +28,7 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:472
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:473
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:902
   library backends.
@@ -38,7 +38,7 @@ under the hood:
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:129
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:29
-- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:33
+- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:34
 - [nanotiming](https://github.com/choojs/nanotiming) - Small timing library. :star:27
 
 ### Demos
@@ -104,10 +104,10 @@ Other CLI templates
 
 ### Projects using choo
 
-- [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor. :star:9
+- [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor. :star:10
 - [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo. :star:2
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo. :star:10
-- [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review). :star:3
+- [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review). :star:4
 - [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
 - [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:25
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor. :star:35

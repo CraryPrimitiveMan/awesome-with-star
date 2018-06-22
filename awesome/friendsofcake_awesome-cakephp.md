@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19035
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21626
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:19040
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:21629
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -149,7 +149,7 @@ Additional lists you might find useful:
 ## Email
 *Plugins for sending and parsing email.*
 
-- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell. :star:42
+- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell. :star:43
 - [Gourmet/Email plugin](https://github.com/gourmet/email) - Email helper, layout and more. :star:17
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun. :star:13
 - [SparkPost plugin](https://github.com/syntaxera/cakephp-sparkpost-plugin) - Email transport plugin for sending email via the SparkPost API. :star:11
@@ -208,7 +208,7 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:74
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:117
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:603
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:606
 - [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:926
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:54
@@ -410,7 +410,7 @@ Additional lists you might find useful:
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments. :star:5
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:20
-- [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:40
+- [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:39
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+. :star:39
 - [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click. :star:114
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE. :star:4

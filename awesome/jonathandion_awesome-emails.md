@@ -28,7 +28,7 @@
 
 ## Frameworks
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:6766
+- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:6767
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 
@@ -38,7 +38,7 @@
 ## Templates
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out. :star:631
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
-- [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. :star:6359
+- [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. :star:6360
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 - [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 - [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns. :star:2969
@@ -66,7 +66,7 @@ VML and CSS.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:8223
+- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:8224
 - [Formcarry](https://formcarry.com/) - A form endpoint service with Zapier integration and file upload, no back-end skill required.
 - [Formspree](https://formspree.io/) - A form endpoint service, totally free it forwards incoming submissions to your email.
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
@@ -77,7 +77,7 @@ VML and CSS.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 
 ## Workflows
-- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS. :star:2775
+- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS. :star:2776
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow. :star:154
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 

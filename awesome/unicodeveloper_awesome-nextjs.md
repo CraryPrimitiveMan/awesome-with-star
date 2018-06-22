@@ -21,7 +21,7 @@
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js) :star:26457
+* [GitHub](https://github.com/zeit/next.js) :star:26488
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -51,25 +51,25 @@
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions. :star:5
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux. :star:309
-* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:568
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1411
+* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication. :star:570
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more. :star:1413
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports. :star:319
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog. :star:6
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint. :star:30
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree. :star:43
-* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS. :star:38
+* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS. :star:40
 * [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth. :star:148
-* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:76
+* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO :star:79
 * [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
 * [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in. :star:4
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:858
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js. :star:863
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support. :star:21
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:430
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js :star:433
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag :star:12
-* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:31
+* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js :star:32
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities. :star:657

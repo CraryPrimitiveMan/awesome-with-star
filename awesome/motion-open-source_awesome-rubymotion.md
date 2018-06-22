@@ -90,7 +90,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit.
 * [Motion Dropbox Example](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK.
 * [Big Nerd Ranch Guide to iOS Programming Example in RubyMotion](https://github.com/jimweirich/bnr-ios-rubymotion) - RubyMotion code examples from the book. :star:41
-* [Motion-webview](https://github.com/tvandervossen/motion-webview) - Simple RubyMotion example project to wrap a full-screen HTML5 app into an iOS app. :star:51
+* [Motion-webview](https://github.com/tvandervossen/motion-webview) - Simple RubyMotion example project to wrap a full-screen HTML5 app into an iOS app.
 
 
 ### Example Hybrid (iOS/Andriod) App's

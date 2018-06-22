@@ -246,12 +246,12 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 Host your articles, notes and more.
 
-* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, pdf, and epub, all done online.
+* [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 * [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
-* [GitHub](http://github.com): Just put markdown, reStructuredText, pdf or ipython notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in ipython notebook can be rendered on GitHub.**
+* [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
 * [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 * [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
-* [Heroku](https://www.heroku.com/): The one that needs no explaination.
+* [Heroku](https://www.heroku.com/): The one that needs no explanation.
 
 Other services such as [Digital Ocean](https://www.digitalocean.com/) are also useful when it comes to dynamic websites and cloud computing.
 
@@ -283,7 +283,7 @@ These programs are running on the server and can be [hosted using these services
 
 ### Static Site Generator
 
-[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonethless here is a list of the most popular ones.
+[Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
 
 * [Jekyll](http://jekyllrb.com/) (Written in `Ruby`)(`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
@@ -363,11 +363,11 @@ Notebook softwares that you can write in Markdown:
 
 
 
-### iPython Notebook
+### IPython Notebook
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2165
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2167
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -388,7 +388,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:113
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1370
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1372
 
 
 **MINDMAP HTML**
@@ -397,7 +397,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:669
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1370
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1372
 
 
 ### Concept Map and Diagrams
@@ -445,7 +445,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1481
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:597
-* [hovercraft](https://github.com/regebro/hovercraft) :star:1005
+* [hovercraft](https://github.com/regebro/hovercraft) :star:1007
 
 
 
@@ -459,12 +459,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41069
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4373
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41092
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4374
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:693
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5293
-* [Shower](https://github.com/shower/shower) :star:4023
+* [Shower](https://github.com/shower/shower) :star:4024
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1211
 * [Slides](https://github.com/briancavalier/slides) :star:467
@@ -561,6 +561,10 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Paperscape](http://paperscape.org/): Finding interesting papers.
 * [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 * [SciRate](https://scirate.com/): An front-end for arXiv with rates from readers.
+* [ArXiv Sanity Preserver](http://arxiv-sanity.com/): Accelerate research through arXiv specific for many things machine learning by Andrej Karpathy.
+* [Iris.ai](https://the.iris.ai/): Explore scientific papers and how they connect to a paper of your choice.
+* [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
+* [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -586,6 +590,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 * [Zotero Style Repository](https://www.zotero.org/styles): Find any style you need.
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
+* [org-ref](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Tips for Researchers
 
@@ -643,6 +648,7 @@ StackExchange.com is a good place for professional discussions. Here is an examp
 * [Physics.StackExchange](http://physics.stackexchange.com/)
 * [Biostars](https://www.biostars.org/): StackOverflow style Q&A site for bioinformatics.
 * [NeuroStars](https://neurostars.org/): StackOverflow style Q&A site for neuroinformatics.
+* [SEQanswers](http://seqanswers.com/): Forum for next generation sequencing community.
 
 
 ## Open Source
@@ -684,7 +690,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:903
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:904
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.

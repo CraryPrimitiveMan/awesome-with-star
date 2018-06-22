@@ -67,10 +67,10 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [grozen/trends-cycle ★3](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js :star:3
 * [ivan-kleshnin/cyclejs-examples ★120](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6. :star:125
 * [ivan-kleshnin/tetris-cyclejs ★12](https://github.com/ivan-kleshnin/tetris-game) - Tetris game implemented in CycleJS, ES6 :star:14
-* [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:21
+* [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:20
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:3003
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:3004
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
 * [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:14
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:466
@@ -131,7 +131,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js :star:10
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js :star:3
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js :star:4
-* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:684
+* [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js :star:685
 * [JuniperChicago/cycle-gun ★18](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync :star:22
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★1](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server :star:1
@@ -165,7 +165,7 @@ http://oleg.fi/graafi/
 * [Widdershin/cycle-hot-reloading-example ★27](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr :star:27
 * [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr
 * [cycle-community/typescript-starter-cycle ★22](https://github.com/cyclejs-community/typescript-starter-cycle) - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy. :star:28
-* [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack :star:8
+* [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack :star:9
 * [syarul/cycle-iso ★4](https://github.com/syarul/cycle-iso) - A barebone boilerplate Cycle app with data stream base on promises and  fetched with Falcor.js :star:4
 
 ### Testing

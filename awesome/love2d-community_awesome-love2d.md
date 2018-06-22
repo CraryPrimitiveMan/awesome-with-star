@@ -74,7 +74,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility :star:11
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph :star:22
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console :star:173
-* [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility :star:66
+* [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility :star:67
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game :star:133
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table :star:114
 * [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only) :star:1
@@ -192,14 +192,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API :star:465
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
 * [LovePotion](https://github.com/videah/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew :star:140
-* [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten :star:315
+* [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten :star:314
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices :star:317
 
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:16
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3191
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:3200
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -235,7 +235,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
-* [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua :star:150
+* [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua :star:151
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 * [tick](https://github.com/rxi/tick) - Lua module for delaying function calls  :star:27
@@ -325,9 +325,9 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1712
-* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:38
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:872
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:1716
+* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:39
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:873
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

@@ -82,7 +82,7 @@ Pull requests very welcome.
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:50
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
-* [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:44
+* [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion :star:45
 * [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library. :star:76
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 

@@ -33,12 +33,12 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Adversary Emulation
 
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - A Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised. :star:706
-* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework. :star:1174
+* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework. :star:1177
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers. :star:93
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level. 
-* [Caldera](https://github.com/mitre/caldera) - an automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project. :star:625
+* [Caldera](https://github.com/mitre/caldera) - an automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project. :star:626
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. :star:455
-* [Metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation. :star:503
+* [Metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation. :star:507
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. :star:177
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK. :star:373
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - A virtual machine for adversary emulation and threat hunting. :star:426
@@ -53,11 +53,11 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Doorman](https://github.com/mwielgoszewski/doorman) - Doorman is an osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness :star:373
 * [Envdb](https://github.com/mephux/envdb) - Envdb turns your production, dev, cloud, etc environments into a database cluster you can search using osquery as the foundation. It wraps the osquery process with a (cluster) node agent that can communicate back to a central location :star:520
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - Falcon Orchestrator by CrowdStrike is an extendable Windows-based application that provides workflow automation, case management and security response functionality. :star:104
-* [GRR Rapid Response](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent :star:2678
+* [GRR Rapid Response](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent :star:2679
 * [Kolide Fleet](https://kolide.com/fleet) - Kolide Fleet is a state of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions.
 * [Limacharlie](https://github.com/refractionpoint/limacharlie) - an endpoint security platform. It is itself a collection of small projects all working together, and gives you a cross-platform (Windows, OSX, Linux, Android and iOS) low-level environment allowing you to manage and push additional modules into memory to extend its functionality :star:2
 * [MIG](http://mig.mozilla.org/) - Mozilla Investigator (MIG) is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security
-* [MozDef](https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers :star:1549
+* [MozDef](https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers :star:1551
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - the nightHawk Response Platform is an application built for asynchronus forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections. :star:476
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Open Computer Forensics Architecture (OCFA) is another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data
 * [Osquery](https://osquery.io/) - with osquery you can easily ask questions about your Linux and OSX infrastructure. Whether your goal is intrusion detection, infrastructure reliability, or compliance, osquery gives you the ability to empower and inform a broad set of organizations within your company. Queries in the *incident-response pack* help you detect and respond to breaches
@@ -111,7 +111,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [DEFT](http://www.deftlinux.net/) - The Digital Evidence & Forensics Toolkit (DEFT) is a Linux distribution made for computer forensic evidence collection. It comes bundled with the Digital Advanced Response Toolkit (DART) for Windows. A light version of DEFT, called DEFT Zero, is also available, which is focused primarily on forensically sound evidence collection
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux distribution that includes a vast collection of best-of-breed open source network security applications useful to the network security professional
 * [PALADIN](https://sumuri.com/software/paladin/) - PALADIN is a modified Linux distribution to perform various forenics task in a forensically sound manner. It comes with many open source forensics tools included
-* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion is a special Linux distro aimed at network security monitoring featuring advanced analysis tools :star:1507
+* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion is a special Linux distro aimed at network security monitoring featuring advanced analysis tools :star:1509
 * [SIFT Workstation](http://digital-forensics.sans.org/community/downloads) - The SANS Investigative Forensic Toolkit (SIFT) Workstation demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated
 
 ### Linux Evidence Collection
@@ -126,14 +126,14 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Memory Analysis Tools
 
 * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework :star:202
-* [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support :star:191
+* [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support :star:193
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - Computer memory analysis tools
 * [LiME](https://github.com/504ensicsLabs/LiME) - LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices :star:629
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze by Mandiant is a free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images, and on live systems, can include the paging file in its analysis
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however
 * [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples
 * [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution
-* [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework :star:2220
+* [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework :star:2221
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - VolatilityBot is an automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation :star:194
 * [VolDiff](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility :star:148
 * [WindowsSCOPE](http://www.windowsscope.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=35&category_id=3&option=com_virtuemart) - another memory forensics and reverse engineering tool used for analyzing volatile memory. It is basically used for reverse engineering of malwares. It provides the capability of analyzing the Windows kernel, drivers, DLLs, virtual and physical memory
@@ -147,9 +147,9 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### OSX Evidence Collection
 
-* [Knockknock](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX :star:917
-* [mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files :star:74
-* [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool :star:3038
+* [Knockknock](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX :star:916
+* [mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files :star:75
+* [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool :star:3037
 * [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response :star:1513
 
 ### Other Lists
@@ -163,17 +163,17 @@ A curated list of tools and resources for security incident response, aimed to h
 * [domfind](https://github.com/diogo-fernan/domfind) - *domfind* is a Python DNS crawler for finding identical domain names under different TLDs. :star:7
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI :star:139
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash :star:66
-* [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform :star:749
+* [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform :star:752
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium :star:252
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host :star:106
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images :star:49
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell
-* [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X :star:93
+* [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X :star:94
 * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services
 * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic :star:1131
-* [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources.  :star:32
+* [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources.  :star:33
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg :star:31
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors
 
@@ -208,7 +208,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise
 * [Morgue](https://github.com/etsy/morgue) - A PHP Web app by Etsy for managing postmortems. :star:682
-* [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline :star:575
+* [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline :star:577
 * [Timesketch](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis :star:864
 
 
@@ -224,7 +224,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Crowd Response](http://www.crowdstrike.com/community-tools/) - Crowd Response by CrowdStrike is a lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - FastIR Collector is a tool that collects different artefacts on live Windows systems and records the results in csv files. With the analyses of these artefacts, an early compromise can be detected :star:325
 * [FECT](https://github.com/jipegit/FECT) - Fast Evidence Collector Toolkit (FECT) is a light incident response toolkit to collect evidences on a suspicious Windows computer. Basically it is intended to be used by non-tech savvy people working with a journeyman Incident Handler :star:29
-* [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel :star:412
+* [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel :star:413
 * [IREC](https://binalyze.com/products/irec-free/) - All-in-one IR Evidence Collector which captures RAM Image, $MFT, EventLogs, WMI Scripts, Registry Hives, System Restore Points and much more. It is FREE, lightning fast and easy to use.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - IOC Finder is a free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner) - Fidelis ThreatScanner is a free tool from Fidelis Cybersecurity that uses OpenIOC and YARA rules to report on the state of an endpoint. The user provides OpenIOC and YARA rules and executes the tool. ThreatScanner measures the state of the system and, when the run is complete, a report for any matching rules is generated. Windows Only.

@@ -101,7 +101,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3. :star:23
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER. :star:46
-* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3. :star:9685
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3. :star:9686
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) - Learn all 23 Gang of Four patterns using Swift. :star:26
 * [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁 :star:1372
 
@@ -140,7 +140,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ## Theoretical Computer Science
 
-* [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 :star:116
+* [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 :star:118
 * [Function Composition in Swift](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟 :star:48
 * [Functional Debug View](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟 :star:28
 * [Swift Adventures in Monad Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - Learn about monads. :star:164
@@ -153,7 +153,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:17491
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟 :star:17504
 * [Sorting Experiments](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of. :star:5
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟 :star:44
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
@@ -181,7 +181,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Machine Learning
 
-* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) - Neural Network built in Apple Playground using Swift. 🌟   :star:1200
+* [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) - Neural Network built in Apple Playground using Swift. 🌟   :star:1205
 
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
@@ -196,7 +196,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳ :star:39
 * [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳ :star:26
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps. ⏳ :star:5
-* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳ :star:40
+* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit. ⏳
 * [Ray tracing Playground](https://github.com/mhorga/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/mhorga/Raytracing2), [3](https://github.com/mhorga/Raytracing3), [4](https://github.com/mhorga/Raytracing4), [5](https://github.com/mhorga/Raytracing5) 🌟 ⏳ :star:15
 * [WWDC16 Logo Playground](https://github.com/krutarth/WWDC16Logo) - Drawing the WWDC16 logo in a playground. ⏳ :star:3
@@ -254,7 +254,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [AudioKit Playgrounds](http://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
-* [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs. :star:40
+* [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs. :star:41
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - A playground with RxSwift examples. :star:2
 
 ## Playground Sets
@@ -283,7 +283,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Super Maze](https://github.com/W00dL3cs/Super-Maze) - A programmatic maze generator and solver. :star:5
 * [Tic Tac Toe](https://github.com/aabosh/Tic-Tac-Toe) - Tic tac toe in a playground. :star:5
 * [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art. :star:40
-* [SwiftCoin](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground. :star:23
+* [SwiftCoin](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground. :star:24
 * [SentimentlySwift](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.  :star:5
 * [Rubik's Cube](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁  :star:8
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳ :star:162

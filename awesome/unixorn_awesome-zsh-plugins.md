@@ -229,7 +229,7 @@ These frameworks make customizing your zsh setup easier.
 * [allergen](https://github.com/stanislas/allergen) - A collection of custom zsh plugins to use with antigen. :star:1
 * [almostontop](https://github.com/Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by alwaysontop plugin for bash. :star:42
 * [ansible](https://github.com/sparsick/ansible-zsh) - A plugin for Ansible. :star:7
-* [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols. :star:1363
+* [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols. :star:1364
 * [antigen-git-rebase](https://github.com/smallhadroncollider/antigen-git-rebase) - Antigen/zsh script to aid with Git rebasing. :star:3
 * [antigen-git-store](https://github.com/smallhadroncollider/antigen-git-store) - Antigen/zsh script to store Git's current working directory. For working with Git between two computers without forcing arbitrary commits.
 * [anyframe](https://github.com/mollifier/anyframe) - A peco/percol/fzf wrapper plugin for zsh. :star:125
@@ -237,16 +237,16 @@ These frameworks make customizing your zsh setup easier.
 * [apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - Adds MacBook Pro's touchbar support in iTerm2. :star:22
 * [appup](https://github.com/Cloudstek/zsh-plugin-appup) - Adds `start`, `stop`, `up` and `down` commands when it detects a docker-compose or Vagrant file in the current directory (e.g. your application). Just run `up` and get coding!
 * [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor. :star:1
-* [async](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in zsh without requiring any external tools. :star:225
+* [async](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in zsh without requiring any external tools. :star:226
 * [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - A plugin for Oh My Zsh that lets you launch a file or folder in Atom from iTerm2. It's based on the Sublime plugin. Only supports macOS. :star:1
 * [atom_plugin.zsh](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on macOS. :star:1
-* [auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>. :star:354
+* [auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>. :star:357
 * [auto-ls](https://github.com/desyncr/auto-ls) - Automatically `ls` when cding to a new directory. :star:27
-* [autoenv-extended](https://github.com/horosgrisa/autoenv) - Extended version of the zsh-autoenv plugin. :star:65
-* [autoenv](https://github.com/Tarrasch/zsh-autoenv) - If a directory contains a `.env` file, it will automatically be executed when you cd into it. :star:307
-* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line. Install autojump-zsh for best results. :star:7635
+* [autoenv-extended](https://github.com/horosgrisa/autoenv) - Extended version of the zsh-autoenv plugin. :star:66
+* [autoenv](https://github.com/Tarrasch/zsh-autoenv) - If a directory contains a `.env` file, it will automatically be executed when you cd into it. :star:308
+* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line. Install autojump-zsh for best results. :star:7643
 * [autopair](https://github.com/hlissner/zsh-autopair) - A ZSH plugin for auto-closing, deleting and skipping over matching delimiters. :star:76
-* [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - [Fish](https://fishshell.com/)-like fast/unobtrusive autosuggestions for ZSH. :star:5645
+* [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - [Fish](https://fishshell.com/)-like fast/unobtrusive autosuggestions for ZSH. :star:5654
 * [autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - ZSH plugin to automatically switch python virtualenvs when traversing directories. :star:54
 * [autoupdate-antigen.zshplugin](https://github.com/unixorn/autoupdate-antigen.zshplugin) - Antigen doesn't do automatic updates like oh-my-zsh. This plugin adds auto updating for antigen, both of antigen and the bundles loaded in your configuration. :star:16
 * [autoupdate-oh-my-zsh-plugins](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - oh-my-zsh doesn't autoupdate non-core plugins, this adds plugin autoupdating to omz. :star:1
@@ -258,7 +258,7 @@ These frameworks make customizing your zsh setup easier.
 * [bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`. :star:250
 * [betterbrew](https://github.com/timothyrowan/betterbrew-zsh-plugin) - Add more command aliases for `brew`
 * [bitbucket-git-helpers](https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh) - Adds helper scripts to allow you to create bitbucket PRs or open a directory in the current branch. :star:10
-* [blackbox](https://github.com/StackExchange/blackbox) - Stack Exchange's toolkit for storing keys/credentials securely in a git repository. :star:4268
+* [blackbox](https://github.com/StackExchange/blackbox) - Stack Exchange's toolkit for storing keys/credentials securely in a git repository. :star:4271
 * [branch-manager](https://github.com/elstgav/branch-manager) - A plugin for managing git branches. :star:6
 * [browse-commit](https://github.com/adolfoabegg/browse-commit) - A plugin that lets you open any commit in your browser from the command line. :star:13
 * [bumblebee](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle optirun in the command line.
@@ -337,7 +337,7 @@ These frameworks make customizing your zsh setup easier.
 * [git-add-remote](https://github.com/caarlos0/git-add-remote) - Easily add the upstream remote to your git fork. :star:8
 * [git-aliases (mdumitru)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ. :star:1
 * [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used git commands. :star:39
-* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Extra git helper scripts packaged as a plugin. :star:299
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Extra git helper scripts packaged as a plugin. :star:300
 * [git-it-on.zsh](https://github.com/peterhurford/git-it-on.zsh) - Adds ability to open a folder in your current branch on GitHub. :star:56
 * [git-plugin](https://github.com/rcruzper/zsh-git-plugin) - Adds some functions for git. :star:2
 * [git-prompt-useremail](https://github.com/mroth/git-prompt-useremail) - Adds prompt reminders for git user.email. :star:1
@@ -385,13 +385,13 @@ These frameworks make customizing your zsh setup easier.
 * [jhipster-oh-my-zsh-plugin](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) - Adds commands for [jHipster](https://jhipster.github.io/). :star:24
 * [jira-plus](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRAs from the command line. :star:4
 * [jvm](https://github.com/mgryszko/jvm) - Allows selection of JDK on macOS. :star:4
-* [k](https://github.com/rimraf/k) - Directory listings for zsh with git features. :star:936
+* [k](https://github.com/rimraf/k) - Directory listings for zsh with git features. :star:937
 * [kill-node](https://github.com/vmattos/kill-node) - zsh plugin for murdering node process families. :star:5
 * [kitsunebook.plugin.zsh](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for oh-my-zsh.
 * [konsole-theme-changer](https://github.com/rocknrollMarc/zsh-konsole-theme-changer) - Toggle konsole theme from ZSH.
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - ZSH plugin for kubectl that adds current context and namespace. :star:391
 * [kubectl-zsh-plugin](https://github.com/mattbangert/kubectl-zsh-plugin) - ZSH plugin for managing kubectl. :star:2
-* [kubernetes](https://github.com/Dbz/zsh-kubernetes) - Add kubernetes helper functions and aliases. :star:7
+* [kubernetes](https://github.com/Dbz/zsh-kubernetes) - Add kubernetes helper functions and aliases. :star:8
 * [laradock-workspace](https://github.com/rluders/laradock-workspace-zsh) - Provides an interface to [Laradock](http://laradock.io/)'s workspace.
 * [laravel](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for Laravel 5, 5.1, 5.2 & 5.3. :star:6
 * [last-working-directory (mdumitru)](https://github.com/mdumitru/last-working-dir) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ. :star:1
@@ -427,7 +427,7 @@ These frameworks make customizing your zsh setup easier.
 * [notify](https://github.com/marzocchi/zsh-notify) - A plugin for the Z shell (on macOS and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the command's terminal tab is inactive). :star:245
 * [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) - calls `nvm use` automatically whenever you enter a directory that contains an `.nvmrc` file with a string telling nvm which node to use. :star:8
 * [nvm-auto](https://github.com/dijitalmunky/nvm-auto) - Aims to alleviate needing to type `nvm use` as much as possible, especially if you often switch between versions of node.js and use `.nvmrc` files in your project to manage what version of node your project needs. :star:24
-* [nvm](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading nvm. :star:504
+* [nvm](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading nvm. :star:505
 * [open-create-projects](https://github.com/marcossegovia/open-create-projects) - Open/Create projects in Jetbrains. :star:1
 * [open-pr](https://github.com/caarlos0/zsh-open-pr) - A ZSH plugin to open pull requests from command line. :star:35
 * [openshift-origin-zsh-plugin](https://github.com/ryanswart/openshift-origin-zsh-plugin) - Add a few shortcuts to common openshift origin (oc) actions.
@@ -494,9 +494,9 @@ These frameworks make customizing your zsh setup easier.
 * [suffix-alias](https://github.com/srijanshetty/zsh-suffix-alias) - Directly open files in the shell using ZSH's suffix aliases.
 * [symfony.plugin.zsh](https://github.com/voronkovich/symfony.plugin.zsh) - ZSH plugin for Symfony 2 and 3. :star:3
 * [syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - ZSH syntax highlighting with dircolors in realtime. :star:67
-* [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this _before_ zsh-users/zsh-history-substring-search or they will both break. :star:5240
+* [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this _before_ zsh-users/zsh-history-substring-search or they will both break. :star:5249
 * [sys-diver-zsh](https://github.com/ToruIwashita/sys-diver-zsh) - A zsh plugin for directory change or editor startup with only key operations using widgits without typing command. :star:5
-* [sysadmin-util](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins. :star:489
+* [sysadmin-util](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins. :star:490
 * [t32](https://github.com/chrissicool/zsh-t32) - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset. :star:2
 * [tailf](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 * [terminal-app](https://github.com/the8/zsh-terminal-app) - A plugin for integrating with the new El Capitan Terminal.app features. :star:11
@@ -511,7 +511,7 @@ These frameworks make customizing your zsh setup easier.
 * [tmux-zsh-vim-titles](https://github.com/MikeDacre/tmux-zsh-vim-titles) - Create unified terminal titles for tmux, ZSH, and Vim/NVIM, modular. :star:4
 * [travis](https://github.com/denolfe/zsh-travis) - Opens the Travis CI page for the current repo if one exists. :star:3
 * [tsm](https://github.com/RobertAudi/tsm) - Adds a [tmux](https://tmux.github.io) Session Manager. :star:7
-* [tumult](https://github.com/unixorn/tumult.plugin.zsh) - Adds tools for macOS. :star:55
+* [tumult](https://github.com/unixorn/tumult.plugin.zsh) - Adds tools for macOS. :star:57
 * [ubuntualiases](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases. :star:1
 * [up.zsh](https://github.com/peterhurford/up.zsh) - Adds an up command to cd multiple levels up. :star:19
 * [url-highlighter](https://github.com/ascii-soup/zsh-url-highlighter) - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos. :star:16
@@ -576,7 +576,7 @@ These plugins add tab completions without adding extra functions or aliases.
 * [codemachine](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - Displays git info, whether you're logged in via `ssh`, return code of last command. :star:5
 * [dbic](https://github.com/lejeunerenard/dbic-migration-env) - Automatically sets up Environment variables for DBIx::Class::Migration's script and Dancer.
 * [docker-enter-completion](https://github.com/primait/docker-enter-completion) - Command completion for [docker-enter](https://github.com/jpetazzo/nsenter). :star:8
-* [docker-zsh-completion](https://github.com/felixr/docker-zsh-completion) - Add completions for docker. :star:228
+* [docker-zsh-completion](https://github.com/felixr/docker-zsh-completion) - Add completions for docker. :star:229
 * [dropbox](https://github.com/horosgrisa/zsh-dropbox) - A dropbox plugin for Zsh that provides `dropbox-cli` and `dropbox-uploader` commands. :star:14
 * [drush_zsh_completion](https://github.com/webflo/drush_zsh_completion) - Drush autocomplete awesomeness for ZSH. :star:40
 * [duell](https://github.com/jcxavier/oh-my-zsh-duell) - A ZSH plugin for [duell](https://github.com/gameduell/duell). :star:2
@@ -584,9 +584,9 @@ These plugins add tab completions without adding extra functions or aliases.
 * [exercism](https://github.com/fabiokiatkowski/exercism.plugin.zsh) - A plugin for [exercism.io](http://exercism.io/). :star:5
 * [fly-zsh-autocomplete-plugin](https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin) - Adds autocompletion options for all [Concourse CLI](http://www.concourse.ci/fly-cli.html) commands.
 * [gcloud-zsh-completion](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK. :star:52
-* [gentoo-zsh-completions](https://github.com/gentoo/gentoo-zsh-completions) - providing ZSH completion support to various Gentoo tools that lack completion scripts upstream. :star:16
+* [gentoo-zsh-completions](https://github.com/gentoo/gentoo-zsh-completions) - providing ZSH completion support to various Gentoo tools that lack completion scripts upstream. :star:17
 * [git-annex-completion](https://github.com/Schnouki/git-annex-zsh-completion) - Allows tab completion for most git-annex commands :star:15
-* [git-flow-completion](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for git-flow. :star:2102
+* [git-flow-completion](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for git-flow. :star:2104
 * [gradle-completion (eriwen)](https://github.com/eriwen/gradle-completion) - Bash and ZSH completion support for gradle. :star:393
 * [gradle-completion (ninrod)](https://github.com/ninrod/gradle-zsh-completion) - ZSH completion support for gradle. :star:1
 * [grid5000-zsh-plugin](https://github.com/pmorillon/grid5000-zsh-plugin) - Grid 5000 plugin - adds theme, autocompletions. :star:2
@@ -639,7 +639,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [af-magic-mod](https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme) - af-magic-mod theme. Install with `antigen theme desyncr/zshrc themes/af-magic-mod`.
 * [aflah-bhari](https://github.com/AflahB/aflah-bhari-zsh-theme) - Modified version of the robbyrussel theme in oh-my-zsh.
 * [agkozak](https://github.com/agkozak/agkozak-zsh-theme) - Uses two asynchronous methods to keep the ZSH prompt swift while displaying color, ASCII-only indicators of Git branch and changes, SSH connection or lack thereof, exit codes, and vi mode status, along with a customizable, abbreviated, `PROMPT_DIRTRIM`-style path. :star:25
-* [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - Solarized [Agnoster](https://gist.github.com/agnoster/3712874) variant with git information. Requires a unicode font. :star:149
+* [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - Solarized [Agnoster](https://gist.github.com/agnoster/3712874) variant with git information. Requires a unicode font. :star:150
 * [agnoster-mod](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant with a right-prompt. :star:2
 * [agnoster-plus](https://github.com/jiahut/agnoster-plus.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant optimized for use with Solarized Dark terminal color scheme. Includes git status.
 * [agnoster-refresh](https://github.com/fusion94/Agnoster-refresh) - [Agnoster](https://gist.github.com/agnoster/3712874) variant, includes battery and online status. :star:3
@@ -685,7 +685,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [ciacho](https://github.com/Ciacho/ciacho-ohmyzsh-theme) - Based on Agnoster. :star:1
 * [cinnabar](https://github.com/nvillapiano/zsh-theme---cinnabar) - Shows timestamp, large line breaks, git branch and status.
 * [clarity](https://github.com/octarect/clarity.zsh) - Designed for for simpleness and extensibility. :star:2
-* [classyTouch](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Minimal, clean theme with git support. :star:25
+* [classyTouch](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Minimal, clean theme with git support. :star:26
 * [clean](https://github.com/akz92/clean) - Minimalist ZSH theme. :star:2
 * [cloudy](https://github.com/Huvik/Cloudy) - Minimal cloudy ZSH theme. :star:24
 * [clover](https://github.com/tzing/clover.zsh-theme) - Inspired by [zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme) and [pure](https://github.com/sindresorhus/pure). :star:1
@@ -705,7 +705,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [dissonance](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom LSCOLORS and LS_COLORS settings files, works with both dark and light terminal themes. :star:3
 * [dmx](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows. :star:1
 * [dp](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
-* [dracula](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, ZSH. :star:28
+* [dracula](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, ZSH. :star:29
 * [dragon](https://github.com/sabertazimi/dragon-zsh-theme) - Minimalistic, includes git status information. :star:4
 * [dustmod](https://github.com/bmihaila/dustmod) - Derived from the [dst](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/dst.zsh-theme) theme in oh-my-zsh :star:1
 * [eggshausted](https://github.com/inutano/eggshausted) - A git theme for people who are tired of getting errors. :star:1
@@ -724,7 +724,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - Red version of the frisk theme from oh-my-zsh.
 * [frlo](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into. :star:1
 * [furio](https://github.com/hectorpalmatellez/furio-theme) - Fork of the Cloud oh-my-zsh theme. with different colors and emojis. :star:16
-* [garrett](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it. :star:130
+* [garrett](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it. :star:131
 * [gawaine](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires rvm & git plugins. :star:3
 * [geometry](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme based on Avit and Pure that displays a lot of git information and is composable and customizable. :star:391
 * [geometryHostInfo](https://github.com/Fuzen-py/GeometryHostInfo) Adds host info to the [geometry](https://github.com/frmendes/geometry) theme.
@@ -795,7 +795,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [molokai-powerline-zsh](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874). :star:8
 * [moonline](https://github.com/kagamilove0707/moonline.zsh) - Minimal but easily extensible prompt. :star:8
 * [multi-shell-repo-prompt](https://github.com/dotcode/multi-shell-repo-prompt) - Provides useful information (in your prompt) about the repository that you are in. It currently works for [Git](http://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), under [ZSH](http://en.wikipedia.org/wiki/Zsh) as well as [bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29). :star:11
-* [multiline](https://github.com/jan-auer/zsh-multiline) - Powerline-esque theme based on [agnoster](https://github.com/agnoster/agnoster-zsh-theme) :star:1077
+* [multiline](https://github.com/jan-auer/zsh-multiline) - Powerline-esque theme based on [agnoster](https://github.com/agnoster/agnoster-zsh-theme) :star:1079
 * [muslim](https://github.com/nksoff/muslim) - A simple minimal ZSH prompt theme. :star:2
 * [nanofish](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme. :star:2
 * [neat](https://github.com/andrepolischuk/neat) - Minimalistic prompt inspired by [odin](https://github.com/tylerreckart/Odin) and [pure](https://github.com/sindresorhus/pure). :star:6
@@ -812,7 +812,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [nt9](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - Clean, distraction free and git focused development theme. Shows path relative to git root (or ~ when outside git repo), time since last commit, current SHA, branch and branch state. :star:16
 * [nuqlezsh](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - Simple theme for prezto and oh-my-zsh. :star:1
 * [odin](https://github.com/tylerreckart/odin) - Odin is a git-flavored ZSH theme. :star:74
-* [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated prompt for bash and ZSH. :star:2943
+* [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated prompt for bash and ZSH. :star:2944
 * [oh-my-via](https://github.com/badouralix/oh-my-via) - Theme for ZSH which mainly forks the historical theme used on VIA servers. :star:16
 * [oxide](https://github.com/dikiaap/dotfiles/blob/master/.oh-my-zsh/themes/oxide.zsh-theme) - A Minimalistic and Dark Zsh theme.
 * [ozono](https://github.com/sfabrizio/ozono-zsh-theme) 🌏 OZ0NO - Let's Breathe a clean ZSH.
@@ -826,11 +826,11 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [poncho](https://github.com/RainyDayMedia/oh-my-zsh-poncho) - RDM's basic oh-my-zsh custom theme. :star:4
 * [poor-programmer](https://github.com/vishaltelangre/poor-programmer.zsh-theme) - Programmer's theme with git status, ruby version and project path.
 * [powerless](https://github.com/martinrotter/powerless) - Tiny & simple pure ZSH prompt inspired by powerline. :star:45
-* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks. :star:5078
+* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks. :star:5091
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme). :star:21
-* [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in go. :star:738
+* [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in go. :star:739
 * [powerline-pills](https://github.com/lucasqueiroz/powerline-pills-zsh) - A powerline theme based on pills, created in Ruby. :star:8
-* [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend. :star:3948
+* [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend. :star:3951
 * [powerline-train](https://github.com/sherubthakur/powerline-train) - A powerline variant
 * [powerline](https://github.com/syui/powerline.zsh) - A git aware powerline theme.
 * [powerzeesh](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) :star:914
@@ -841,7 +841,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [prezto_powerline](https://github.com/davidjrice/prezto_powerline) - Powerline for prezto. Shows git information, RVM version. :star:103
 * [prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A fairly heavyweight ZSH prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background. :star:49
 * [punctual](https://github.com/dannynimmo/punctual-zsh-theme) - Easily customizable, influenced by [spaceship](https://github.com/denysdovhan/spaceship-zsh-theme). :star:27
-* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt. :star:5262
+* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt. :star:5263
 * [purity](https://github.com/pmbenjamin/purity) - Inspired by robbyrussell theme + pure prompt. :star:7
 * [racotecnic](https://github.com/elboletaire/zsh-theme-racotecnic) - Based on af-magic and posh-git. :star:7
 * [radium](https://github.com/dimitardimitrov/radium) - Designed for dark terminals, (works best with Solarized iTerm2 theme) (prezto). :star:3
@@ -869,10 +869,10 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) - ZSH theme inspired by [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) and [odin](https://github.com/tylerreckart/odin) :star:74
 * [slimline](https://github.com/mgee/slimline) - Minimal, fast and elegant ZSH prompt. Displays the right information at the right time. :star:26
 * [smiley](https://github.com/gsamokovarov/smiley.zsh-theme) - A prompt with happy and sad faces. :star:4
-* [sobole](https://github.com/sobolevn/sobole-zsh-theme) - A minimalistic ZSH theme inspired by the old-fashioned hobbies. No verbose gimmicks, no emoji, no fidget spinners, and no other visual noise. :star:39
+* [sobole](https://github.com/sobolevn/sobole-zsh-theme) - A minimalistic ZSH theme inspired by the old-fashioned hobbies. No verbose gimmicks, no emoji, no fidget spinners, and no other visual noise.
 * [solarized-powerline](https://github.com/houjunchen/solarized-powerline) - Solarized powerline-style theme for ZSH. :star:9
 * [solarizsh](https://github.com/paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [Solarized](http://ethanschoonover.com/solarized). :star:3
-* [spaceship](https://github.com/denysdovhan/spaceship-zsh-theme) - A ZSH theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful indicators. :star:3891
+* [spaceship](https://github.com/denysdovhan/spaceship-zsh-theme) - A ZSH theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful indicators. :star:3896
 * [spowerline](https://mbauhardt.github.io/spowerline/) - Written in scala, inspired by agnoster, [tmux](https://tmux.github.io) powerline, vim powerline and the vim status plugin.
 * [staples](https://github.com/dersam/staples) - based on bureau, displays user@host if connected through SSH. :star:1
 * [starboy](https://github.com/zuck007/Starboy) - A simple ZSH theme
@@ -919,22 +919,24 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 
 Some of the themes listed here require Powerline-compatible fonts, here are a few:
 
-* [Awesome Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - A family of fonts that includes some nice monospaced Icons. :star:1384
+* [Awesome Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - A family of fonts that includes some nice monospaced Icons. :star:1383
 * [Fantasque Awesome Font](https://github.com/ztomer/fantasque_awesome_powerline) - A nice monospaced font, patched with Font-Awesome, Octoicons and Powerline-Glyphs. :star:20
-* [Fantasque-sans](https://github.com/belluzj/fantasque-sans) - Another powerline font. :star:3721
+* [Fantasque-sans](https://github.com/belluzj/fantasque-sans) - Another powerline font. :star:3722
 * [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed specifically for source code.
 * [Input Mono](http://input.fontbureau.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes powerline glyphs.
 * [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
-* [nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more. :star:8965
-* [Powerline patched font collection](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs. :star:12169
+* [nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more. :star:8976
+* [Powerline patched font collection](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs. :star:12175
 * [Terminus](http://files.ax86.net/terminus-ttf/) - TTF version of Terminus that includes powerline glyphs.
-* [Iosevka](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable. :star:6039
+* [Iosevka](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable. :star:6045
 
 ## Installation
 
-### [Antigen](https://github.com/zsh-users/antigen)
+### [Antigen](https://github.com/zsh-users/antigen) / [Antibody](https://github.com/getantibody/antibody)
 
 Most of these plugins can be installed by adding `antigen bundle githubuser/reponame` to your .zshrc file. Antigen will handle cloning the plugin for you automatically the next time you start `zsh`. You can also add the plugin to a running ZSH with `antigen bundle githubuser/reponame` for testing before adding it to your `.zshrc`.
+
+[Antibody](https://github.com/getantibody/antibody) works the same, for example, `antibody bundle githubuser/reponame`.
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh)
 
@@ -976,8 +978,8 @@ I've documented some recommendations for writing a new plugin [here](https://git
 ### Other Useful Lists
 
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment :star:1160
-* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources :star:6771
-* [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers. :star:6369
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources :star:6774
+* [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers. :star:6370
 
 Find other useful awesome-* lists at the [awesome collection](https://github.com/sindresorhus/awesome)
 

@@ -106,7 +106,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support :star:30
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework :star:20
-* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:439
+* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:438
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
@@ -362,7 +362,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt :star:53
 * [Phalcon Box](https://github.com/phalcon/box) - Phalcon Box is an official, pre-packaged Vagrant box that provides you a wonderful development environment :star:200
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services :star:28
-* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:86
+* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker :star:87
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application :star:17
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice :star:43
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment

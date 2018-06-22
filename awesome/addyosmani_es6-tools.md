@@ -3,10 +3,10 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:28165
-* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7672
+* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:28187
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7674
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform :star:605
-* [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform :star:1537
+* [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform :star:1538
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread :star:220
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
@@ -118,8 +118,8 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:6327
-* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2583
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:6338
+* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2586
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) :star:109
@@ -138,7 +138,7 @@
 * [`Math.sign`](https://github.com/sindresorhus/math-sign) :star:6
 * [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match) :star:10
 * [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search) :star:7
-* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:5843
+* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:5844
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible. :star:21
 * [`Function.create`](https://github.com/walling/Function.create.js) :star:8
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
@@ -157,8 +157,8 @@
 
 ## Parsers
 
-* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) :star:1682
-* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:3612
+* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) :star:1684
+* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:3615
 * [esparse](https://github.com/zenparsing/esparse) - ES6 parser written in ES6. :star:100
 * [Traceur compiler](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
@@ -170,8 +170,8 @@
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc. :star:3
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules. :star:3
 * [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6 :star:152
-* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/esnext/es6-arrow-function). :star:1809
-* [Paws on ES6](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities. :star:303
+* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/esnext/es6-arrow-function). :star:1812
+* [Paws on ES6](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities. :star:304
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 * [es6-translate](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6. :star:5
 * [Isparta](https://github.com/douglasduteil/isparta) :star:651

@@ -22,7 +22,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:565
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:570
 * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:125
 * [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:269
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:44
@@ -37,7 +37,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:132
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:118
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1559
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:1560
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:353
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:62
 

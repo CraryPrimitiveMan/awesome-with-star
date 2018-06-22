@@ -62,15 +62,15 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack. :star:332
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon. :star:39
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon. :star:87
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community. :star:3645
-- [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python. :star:144
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community. :star:3644
+- [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python. :star:143
 - [PokeBot](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine. :star:16
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO. :star:594
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot. :star:16
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot. :star:462
 
 #### Miscellaneous
-- [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon. :star:21
+- [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon. :star:22
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal. :star:621
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area. :star:2461
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal. :star:1000
@@ -86,7 +86,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats. :star:86
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device. :star:16
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions. :star:47
-- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2815
+- [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2. :star:2816
 
 ## Resources & Others
 #### Communities
@@ -106,10 +106,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:7961
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more. :star:7960
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby. :star:1865
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map. :star:144
-- [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you. :star:1108
+- [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you. :star:1107
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you. :star:655
 
@@ -120,8 +120,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 #### Wiki
-- [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon. :star:715
-- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org. :star:1952
+- [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon. :star:717
+- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org. :star:1956
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)

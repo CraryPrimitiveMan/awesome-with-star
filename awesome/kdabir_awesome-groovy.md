@@ -31,7 +31,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:154
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:526
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1266
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1267
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci :star:2
 
 ## IDE and Editor Support
@@ -46,7 +46,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:457
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:48
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1695
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1697
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
@@ -73,10 +73,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1950
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:885
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:886
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
-* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:10
-* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:26
+* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:11
+* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:28
 * [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
 * [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
@@ -99,7 +99,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:61
 * [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
-* [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library :star:22
+* [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library :star:23
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system :star:67
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system :star:2
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code

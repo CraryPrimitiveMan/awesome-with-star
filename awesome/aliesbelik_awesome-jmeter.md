@@ -192,7 +192,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
 - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
 - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
-- [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library. :star:2
+- [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library. :star:3
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
 - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
 

@@ -52,7 +52,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:2562
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:2589
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 
@@ -73,7 +73,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:1
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:3
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:13
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:202
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:203
 
 ## Testing
 

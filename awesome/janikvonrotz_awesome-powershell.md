@@ -75,12 +75,12 @@ It includes a command-line shell and an associated scripting language.
 
 ## Commandline Productivity
 
-- [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration. :star:2950
+- [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration. :star:2953
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall. :star:1056
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers. :star:117
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell. :star:389
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location. :star:71
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:35877
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). :star:35893
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell. :star:35
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool. :star:7
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
@@ -104,7 +104,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [PowerShell Studio](https://www.sapien.com/software/powershell_studio) - Powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.
 - [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
-- [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio. :star:601
+- [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio. :star:602
 - [PowerShell ISE](https://msdn.microsoft.com/en-us/powershell/scripting/core-powershell/ise/using-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 - [ISE Steroids](http://www.powertheshell.com/isesteroids/) - Add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
@@ -136,21 +136,21 @@ It includes a command-line shell and an associated scripting language.
 ## Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
-- [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer. :star:461
+- [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer. :star:462
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations. :star:917
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows. :star:763
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:4027
-- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent. :star:3178
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows. :star:764
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework. :star:4032
+- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent. :star:3184
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC). :star:102
 
 ## Testing
 
-- [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework. :star:1459
+- [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework. :star:1460
 - [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo) . :star:62
 
 ## Themes
 
-- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:541
+- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme). :star:542
 - [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts. :star:174
 
 ## Videos
