@@ -123,7 +123,7 @@
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2390
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2228
 - [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2050
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1964
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1963
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1694
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1464
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1378

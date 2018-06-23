@@ -55,7 +55,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Themes for your Godot games or user interface.*
 
 - [Arc/Arc Dark](https://github.com/Geequlim/godot-themes) :star:33
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme. :star:33
+- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme. :star:34
 
 ## Modules
 

@@ -74,7 +74,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Darktable](http://www.darktable.org/) - *An open source photography workflow application and RAW developer.*
 - [RawTherapee](http://rawtherapee.com/) - *A cross-platform raw image processing program.*
 - [Photivo](http://photivo.org/photivo/start?redirect=1) - *A multi platform photo processor for RAW and bitmap images with 16 bit precision.*
-- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:43
+- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:42
 - [UFRaw](http://ufraw.sourceforge.net/) - *A utility to read and manipulate raw images from digital cameras.*
 - [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - *Decoding raw digital photos in Linux.*
 - [Lightzone](http://lightzoneproject.org/) - *Open-source digital darkroom software for Windows/Mac/Linux.*
@@ -149,7 +149,7 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1302
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1303
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:77
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
 - [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1732

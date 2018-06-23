@@ -88,7 +88,7 @@ http://oleg.fi/graafi/
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
 * [jefersondaniel/cyclejs-notes](https://github.com/jefersondaniel/cyclejs-notes/) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
-* [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat :star:167
+* [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat :star:168
 * [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - Hackernews Clone Using CycleJS :star:32
 * [lizraeli/cycle-github-emojis](https://github.com/lizraeli/cycle-github-emojis) - A github emoji viewer made with Cycle.JS [webapp](https://github-emoji.levizraelit.com/)
 

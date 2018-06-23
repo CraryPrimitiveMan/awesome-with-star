@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:227
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5470
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5471
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -35,7 +35,7 @@ under the hood:
 - [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:388
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:57
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:92
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:129
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:130
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:29
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:34
@@ -117,7 +117,7 @@ Other CLI templates
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:373
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:16
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:421
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:422
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:2
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:39

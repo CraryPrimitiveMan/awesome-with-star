@@ -44,7 +44,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
-- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:165
+- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:166
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 - [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code. :star:9
@@ -53,7 +53,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 - [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs. :star:45
 - [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data. :star:106
-- [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank. :star:83
+- [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank. :star:84
 
 ## Social
 
