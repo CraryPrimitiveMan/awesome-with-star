@@ -57,7 +57,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:133
 - [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:80
 - [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:252
-- [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:51
+- [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:50
 
 ### Sony
 
@@ -65,8 +65,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:82
-- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:121
+- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:83
+- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:122
 
 
 ## RAW image developers
@@ -136,8 +136,9 @@ A list of awesome free open source software & libraries for photography. Also to
 - [PIXLS.US](https://pixls.us) - *Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools*
 
 ## Resources
-- [Unsplash.com](https://unsplash.com/) - *Free (do whatever you want) high-resolution photos.*
-- [Pexels.com](https://pexels.com/) - *Royalty free high-resolution stock photos.*
+- [Unsplash.com](https://unsplash.com/) - *Free (do whatever you want) high-resolution photos, [licensed](https://medium.com/unsplash/the-unsplash-license-f6fb7de5c95a) under the Unsplash License ([changed from CC0](https://medium.com/unsplash/why-we-moved-from-the-creative-commons-zero-license-to-the-unsplash-license-598f76386489))*
+- [Pexels.com](https://pexels.com/) - *Royalty free high-resolution stock photos, [licensed](https://www.pexels.com/photo-license/) under Creative Commons Zero (CC0)*
+- [Pixabay.com](https://pixabay.com/) - *Royalty free stock photos and videos, [licensed](https://pixabay.com/en/service/faq/) under Creative Commons Zero (CC0).*
 
 ## Video 
 
@@ -152,13 +153,13 @@ record, convert and stream audio and video.*
 - [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1303
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:77
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1732
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:1734
 
 ### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:122
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:270
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:271
 
 ## Scripts
 

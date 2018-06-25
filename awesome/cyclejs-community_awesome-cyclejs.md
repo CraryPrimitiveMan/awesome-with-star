@@ -62,7 +62,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) - Official collection of small Cycle.js examples
 * [Widdershin/tricycle ★23](https://github.com/Widdershin/tricycle) - Scratchpad for trying out Cycle.js, relies on Ace Editor with Cycle :star:24
-* [cgeorg/todomvp ★21](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js :star:22
+* [cgeorg/todomvp ★21](https://github.com/cgeorg/todomvp) - Minimum Viable Pizza, an example webapp written in Cycle.js :star:21
 * [erykpiast/cyclejs-examples ★9](https://github.com/erykpiast/cyclejs-examples) - Example web applications built with Cycle.js. :star:9
 * [grozen/trends-cycle ★3](https://github.com/grozen/trends-cycle) - Slack trend searching written in Cycle.js :star:3
 * [ivan-kleshnin/cyclejs-examples ★120](https://github.com/ivan-kleshnin/cyclejs-examples) - Collection of CycleJS examples, ES6. :star:125
@@ -70,10 +70,10 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [phadej/graafi ★20](https://github.com/phadej/graafi) - Cycle.js experiment with SVG and global undo/redo :star:20
 http://oleg.fi/graafi/
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:3004
+* [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables http://rxmarbles.com/ :star:3006
 * [MarcCloud/magic-cart ★6](https://github.com/MarcCloud/magic-cart) - Simple shopping cart of a magic creatures store. :star:6
-* [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:14
-* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:466
+* [foxdonut/cycle-todolist ★11](https://github.com/foxdonut/cycle-todolist) - demonstrates a simple Cycle.js TODO list app with CRUD. :star:13
+* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) - Common patterns for building Cycle.js components :star:467
 * [edge/electron-cycle-media ★27](https://github.com/edge/electron-cycle-media) - Media player written with Cycle.js and Electron. :star:29
 * [kibin/cycle-example-who-to-follow ★16](https://github.com/kibin/cycle-example-who-to-follow) - Small example partly implements twitter’s who to follow box using github api. :star:16
 * [SkaterDad/cycle-snabbdom-examples ★12](https://github.com/SkaterDad/cycle-snabbdom-examples) - Examples of nested components, using snabbdom-specific animations. :star:13
@@ -88,15 +88,15 @@ http://oleg.fi/graafi/
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
 * [jefersondaniel/cyclejs-notes](https://github.com/jefersondaniel/cyclejs-notes/) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
-* [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat :star:168
-* [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - Hackernews Clone Using CycleJS :star:32
+* [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat :star:172
+* [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - Hackernews Clone Using CycleJS :star:31
 * [lizraeli/cycle-github-emojis](https://github.com/lizraeli/cycle-github-emojis) - A github emoji viewer made with Cycle.JS [webapp](https://github-emoji.levizraelit.com/)
 
 ## Tools
 
 ### CLI
 
-* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:206
+* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration. :star:205
 
 ## Libraries
 
@@ -160,7 +160,7 @@ http://oleg.fi/graafi/
 * [andreloureiro/cyclejs-starter ★50](https://github.com/andreloureiro/cyclejs-starter) - Cycle.js starter template with ES6 and Livereload. :star:51
 * [Frikki/generator-cyclejs ★2](https://github.com/Frikki/generator-cyclejs) - Scaffold out a Cycle.js Nested Dialogue module using Yeoman. :star:2
 * [adicirstei/cycle-bp ★5](https://github.com/adicirstei/cycle-bp) - Boilerplate template for building Cycle.js apps :star:5
-* [**edge/cyc ★194**](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds. :star:194
+* [**edge/cyc ★194**](https://github.com/edge/cyc) - Scaffold an isomorphic Cycle.js app in seconds. :star:193
 * [cmdv/cycle-webpack-boilerplate ★101](https://github.com/Cmdv/cycle-webpack-boilerplate) - Cycle app with routing, state handling and tests. :star:100
 * [Widdershin/cycle-hot-reloading-example ★27](https://github.com/Widdershin/cycle-hot-reloading-example) - A Cycle.js starter project with hot reloading using browserify-hmr :star:27
 * [mciparelli/cycle-hmr-example ★0](https://github.com/mciparelli/cycle-hmr-example) - A Cycle.js starter project using browserify and cycle-hmr

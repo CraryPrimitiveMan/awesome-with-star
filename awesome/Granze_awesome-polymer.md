@@ -62,7 +62,7 @@
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate) :star:373
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
-* [Seed element](https://github.com/polymerlabs/seed-element) :star:292
+* [Seed element](https://github.com/polymerlabs/seed-element) :star:291
 * [Polymer Admin](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
 * [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
 * [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth) :star:7

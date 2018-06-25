@@ -22,7 +22,7 @@
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) :star:5658
+* [GitHub Repository](https://github.com/laravel/lumen) :star:5661
 
 
 ## Tutorials
@@ -57,8 +57,8 @@
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen :star:46
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen :star:138
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen :star:650
-* [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:222
-* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7504
+* [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5. :star:223
+* [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. :star:7507
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework :star:90
 * [Lumen Maintenance Mode](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode :star:12
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework. :star:128
@@ -72,7 +72,7 @@
 
 ## Made With Lumen
 * [Slack Invitator](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework :star:56
-* [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen :star:44
+* [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen :star:45
 * [Lissandra](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen. :star:14
 * [Lumen Solder](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework. :star:3
 

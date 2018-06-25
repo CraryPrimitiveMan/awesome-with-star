@@ -141,7 +141,7 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14071
++ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14074
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala

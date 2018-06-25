@@ -15,6 +15,7 @@ A curated list of ad-free alternatives to popular services on the web.
   - [File Sharing](#file-sharing)
   - [Mobile Apps](#mobile-apps)
   - [Music](#music)
+  - [Other](#other)
   - [Publications](#publications)
   - [Reference](#reference)
   - [Social](#social)
@@ -58,7 +59,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Mobile Apps
 
-- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1971
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1979
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
@@ -67,6 +68,10 @@ Alternatives to ad-supported websites, software, and publications.
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 - [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
+
+### Other
+
+- [Disroot](https://disroot.org/) - Collection of ethical alternatives to email, cloud storage, collaborative document editing, and more.
 
 ### Publications
 
@@ -110,7 +115,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Ad Blockers
 
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12916
+- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12931
 
 **Note**: Avoid Adblock Plus because coprorations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 

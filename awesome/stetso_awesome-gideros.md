@@ -126,7 +126,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ## Useful Lua-Libraries
 *General Lua libraries that are useful in gamedev but are not Gideros specific*
 
-- [lume](https://github.com/rxi/lume) - Great collection of functions that are useful for game development. :star:284
+- [lume](https://github.com/rxi/lume) - Great collection of functions that are useful for game development. :star:285
 - [inspect](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way. :star:548
 - [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
 - [bump](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes. :star:440
@@ -134,7 +134,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Related Awesome Lists
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) :star:1718
-- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:1034
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) :star:1038
 - [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) :star:263
 
 
