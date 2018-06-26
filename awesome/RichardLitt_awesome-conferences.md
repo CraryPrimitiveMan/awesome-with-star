@@ -69,6 +69,19 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Attendees**: [@jobot0](https://twitter.com/jobot0)
 * **Video**: [Youtube Channel](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
+### Area41
+
+> Technical Information Security Conference. Highly recommend it to anyone interested in Information Security topics, be it more or less technical. It is well organized and attracts good speakers. Also, the badges are nice ;) - [@peterhuerlimann](https://twitter.com/peterhuerlimann)
+
+* **Website:** https://area41.io/
+* **Location:** Zurich, Switzerland
+* **Date:** June 2018 (every other year)
+* **Has reminder mailing list:** yes
+* **Twitter:** [@a41con](https://twitter.com/a41con)
+* **Twitter Hashtag:** #AREA41
+* **Videos:** [Youtube Channel](https://www.youtube.com/user/defconswitzerland/videos)
+* **Attendees:** [@peterhuerlimann](https://twitter.com/peterhuerlimann)
+
 ### Dent:Space
 
 > It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen)
@@ -240,6 +253,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [FullStack Fest](http://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
 * [GreachConf](http://greachconf.com/) // [@greachconf](https://twitter.com/greachconf)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
+* [JAX London](https://jaxlondon.com) // [@jaxlondon](https://twitter.com/jaxlondon)
 * [JFokus](http://www.jfokus.se) // [@Jfokus](https://twitter.com/Jfokus)
 * [JRubyConf.EU](http://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
@@ -346,7 +360,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:673
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:674
 * [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4449
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 

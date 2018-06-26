@@ -59,7 +59,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1640
+* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :star:1642
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform. :star:65
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2. :star:107
 * [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables. :star:35
@@ -82,19 +82,19 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:650
-* [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :star:110
-* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:529
+* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub. :star:651
+* [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :star:111
+* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules. :star:532
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :star:297
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts. :star:9
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it. :star:31
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources. :star:36
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:1365
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices. :star:1369
 * [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv. :star:310
-* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:315
-* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:214
-* [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan` :star:402
-* [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker. :star:15
+* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand. :star:317
+* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :star:215
+* [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan` :star:405
+* [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker. :star:17
 
 
 ## Talks

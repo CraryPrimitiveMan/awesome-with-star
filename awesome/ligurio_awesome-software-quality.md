@@ -62,7 +62,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:56
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:57
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -277,7 +277,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:272
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:274
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -371,18 +371,18 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1843
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1845
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1358
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3340
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1360
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3345
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:423
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:183
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:151
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:149
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:10
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:521
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:525
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:413
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:414
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:231
 
 ### License

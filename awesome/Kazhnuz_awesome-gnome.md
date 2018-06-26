@@ -14,6 +14,7 @@
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
+  - [Editor](#editor)
   - [Documents](#documents)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
@@ -61,7 +62,7 @@
 ### Internet
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
-- [Eolie](https://gitlab.gnome.org/gnumdk/eolie) - Web browser that uses vertical tabs.
+- [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
@@ -72,10 +73,14 @@
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon. :star:10
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client :star:51
 
+### Editor
+
+- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+ :star:68
+
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:47
-- [Paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs. :star:2366
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files. :star:305
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:248
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:39
@@ -87,7 +92,7 @@
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop. :star:163
 - [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME. :star:200
-- [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:480
@@ -114,9 +119,9 @@
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2478
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:2479
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:261
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2938
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:2943
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:183
 
 ### System
@@ -130,7 +135,7 @@
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:490
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications. :star:491
 
 ## Extensions
 
@@ -147,7 +152,7 @@
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:41
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:134
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
-- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:44
+- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet. :star:45
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME. :star:332
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
@@ -210,8 +215,8 @@
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1756
-- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:114
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:1758
+- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus. :star:116
 
 ### Flat Icons
 

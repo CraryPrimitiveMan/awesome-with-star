@@ -138,7 +138,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 - [`gd-com` npm package](https://www.npmjs.com/package/gd-com) - Communicate with Godot clients using Node.js.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
-- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot. :star:7
+- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot. :star:8
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms. :star:13
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.

@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:227
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5472
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5477
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -69,9 +69,9 @@ under the hood:
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view. :star:14
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo. :star:12
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo. :star:14
-- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:12
+- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing). :star:13
 - [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`. :star:21
-- [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:28
+- [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps. :star:29
 
 ### Elements
 

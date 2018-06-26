@@ -39,6 +39,7 @@
   - [Hardware Resources](#hardware-resources)
 - [Resources](#resources)
   - [Articles](#articles)
+  - [Blogs](#blogs)
   - [Businesses](#businesses)
   - [Discovery](#discovery)
   - [Events](#events)
@@ -119,7 +120,7 @@
 
 ### Other
 
-- [HyperApp](https://hyperapp.js.org/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
+- [Disroot](https://disroot.org/) - Hosted versions of many of the services on this list. (Multiple licenses)
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
@@ -228,6 +229,10 @@
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 - [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
 
+### Blogs
+
+- [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
+
 ### Businesses
 
 - [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
@@ -271,8 +276,8 @@
 ### Other Lists
 
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:42
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:24192
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6786
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:24211
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:6792
 
 ### Talks
 

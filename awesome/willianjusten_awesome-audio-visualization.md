@@ -180,7 +180,7 @@
 - [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 - [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
 - [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-- [Web Audio Extension](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio. :star:152
+- [Web Audio Extension](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio. :star:153
 - [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.

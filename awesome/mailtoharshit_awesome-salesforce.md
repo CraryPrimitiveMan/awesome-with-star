@@ -23,7 +23,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:32
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:4
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:2
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:3
 
 
 ## Table of Contents  

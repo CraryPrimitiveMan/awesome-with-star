@@ -38,8 +38,8 @@ A curated list of awesome HBase projects and resources.
 ### Clients
 
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:500
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:249
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:404
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:250
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:405
 
 
 ### Cloud
@@ -73,7 +73,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:117
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:118
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:119
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 
@@ -131,7 +131,7 @@ A curated list of awesome HBase projects and resources.
 * [Ambari](https://ambari.apache.org) - Software for provisioning, managing, and monitor Hadoop/HBase clusters.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
-* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:161
+* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:162
 * [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:113
 * [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.

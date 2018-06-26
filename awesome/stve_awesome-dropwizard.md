@@ -59,10 +59,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd :star:4
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB. :star:21
 * [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service :star:52
-* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:5
+* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:6
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra :star:61
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak :star:1
-* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:12
+* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:13
 * [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/atomix/)
 
 ### Metrics

@@ -46,7 +46,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:457
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:233
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:48
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1698
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1699
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:44
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
@@ -72,8 +72,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:368
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1952
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:887
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1953
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:888
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:11
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:28

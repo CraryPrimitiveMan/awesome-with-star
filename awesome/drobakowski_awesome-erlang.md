@@ -67,7 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra). :star:248
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang. :star:1726
-* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:5022
+* [cowboy](https://github.com/ninenines/cowboy) - A simple HTTP server. :star:5028
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy). :star:62
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers. :star:1607
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server. :star:1105
@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy. :star:297
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket. :star:435
-* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:835
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang. :star:836
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client. :star:476
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang. :star:122
 * [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun. :star:122
@@ -189,7 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not. :star:76
-* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang. :star:665
+* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang. :star:666
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json. :star:568
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps. :star:2
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang. :star:15
@@ -215,7 +215,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for using network related stuff.*
 
 * [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang. :star:84
-* [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:162
+* [gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages. :star:163
 * [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server. :star:9
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang. :star:35
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD. :star:38

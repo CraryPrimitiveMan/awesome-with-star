@@ -3,8 +3,8 @@
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable
-
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8723
+* [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable :star:7704
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8727
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3817
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
