@@ -231,6 +231,7 @@
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
@@ -593,10 +594,12 @@
 * Joe Armstrong https://joearms.github.io/
 * Joe Nelson https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/
+* Johannes Brodwall http://johannesbrodwall.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
 * Jon Kensy http://www.jonkensy.com/
 * Jon Skeet https://codeblog.jonskeet.uk/
+* Jonas Plum https://blog.cugu.eu/
 * Jonathan Dekhtiar http://www.born2data.com/
 * Jonathan Snook https://snook.ca/
 * Josh Haberman http://blog.reverberate.org/

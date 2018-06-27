@@ -224,7 +224,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 - [gbasm](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code. :star:112
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift. :star:99
-- [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) - LLVM port to the GBZ80 CPU (similar [project](https://github.com/euclio/llvm-gbz80), deprecated). :star:6
+- [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) - LLVM port to the GBZ80 CPU (similar [project](https://github.com/euclio/llvm-gbz80), deprecated). :star:7
  
 
 ### Compilers
@@ -313,7 +313,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 
 #### Boilerplates
 
-- [gb-template](https://github.com/exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading. :star:6
+- [gb-template](https://github.com/exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading. :star:7
 - [rgbds-template](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS. :star:9
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project. :star:19
@@ -358,7 +358,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer. :star:13
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support. :star:40
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support. :star:41
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone. :star:2
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -430,7 +430,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
 
 - [ArduinoBoy](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB. :star:109
 - [papiGB](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch. :star:7
-- [fpgaboy](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA. :star:58
+- [fpgaboy](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA. :star:59
 - [Piglet](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development. :star:34
 - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms. :star:79
 - [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more). :star:51

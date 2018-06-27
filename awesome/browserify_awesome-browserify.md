@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:12053
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4253
-- [Repo](https://github.com/substack/node-browserify) :star:12053
+- [Docs](https://github.com/substack/node-browserify#usage) :star:12055
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4254
+- [Repo](https://github.com/substack/node-browserify) :star:12055
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -94,11 +94,11 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify. :star:405
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify. :star:255
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:399
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules. :star:398
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1539
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel. :star:1538
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time. :star:197
 - [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform. :star:522
 

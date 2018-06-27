@@ -102,7 +102,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App. :star:4
 * [Motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application. :star:4
 * [Motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion. :star:5
-* [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps. :star:1
+* [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps.
 * [MotionKit macOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - macOS Example Apps made with MotionKit.
 * [Rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - Simple OSX app using AVFoundation to stream, record, and transcode video. :star:6
 * [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List. :star:9
@@ -216,9 +216,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:134
-* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:228
+* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:229
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:133
-* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1275
+* [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1276
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:22
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19

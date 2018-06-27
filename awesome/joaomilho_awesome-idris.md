@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2461
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2463
 
 ### Articles
 
@@ -67,10 +67,10 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:66
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:70
 * [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language. :star:64
-* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:28
+* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:29
 * [idris-http](https://github.com/uwap/idris-http) - HTTP library for Idris. :star:27
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:16
-* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:32
+* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:33
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:16
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:16
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:17
@@ -78,7 +78,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Backends
 
-* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris. :star:254
+* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris. :star:255
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend. :star:62
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend. :star:166
 * [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:65

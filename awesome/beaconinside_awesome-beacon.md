@@ -9,7 +9,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2654
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2655
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -207,7 +207,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:271
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:272
 
 # Beacon Developer Kits & BLE Chips
 

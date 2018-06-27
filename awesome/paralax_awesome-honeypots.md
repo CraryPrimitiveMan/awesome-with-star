@@ -84,8 +84,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:447
-    - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets . :star:28
+    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot. :star:448
+    - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets . :star:29
     - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
     - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry. :star:56
@@ -299,7 +299,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen
 
 - SSH proxy
-    - [HonSSH](https://github.com/tnich/honssh) :star:296
+    - [HonSSH](https://github.com/tnich/honssh) :star:297
 
 - Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
@@ -315,7 +315,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK :star:1
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool :star:13
     - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) Simple SMTP fetch all IDS and analyzer
-    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer :star:103
+    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer :star:104
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Commercial honeynet

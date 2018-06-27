@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3870
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3873
 
 
 ## CMS & Blogs
@@ -272,7 +272,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes :star:25
+* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes :star:26
 
 
 ## Scaffolding

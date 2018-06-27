@@ -39,7 +39,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HOSxP](http://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](http://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
-  * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System. :star:149
+  * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System. :star:150
   * [OpenClinic](http://openclinic.sourceforge.net/) - Medical Records System.
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
   * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
@@ -113,7 +113,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III. :star:86
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library. :star:17
-  * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects. :star:100
+  * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects. :star:101
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby. :star:36
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library. :star:94
 
@@ -153,10 +153,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
-  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:177
+  * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients. :star:178
 
 ### Datasets
-  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2791
+  * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning. :star:2792
 
 ### EMPI
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation. :star:9

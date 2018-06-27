@@ -44,7 +44,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance) :star:494
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs. :star:100
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
-* [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support. :star:371
+* [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support. :star:372
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS. :star:139
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS :star:60
 * [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events. :star:5
@@ -92,7 +92,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout. :star:8
 * [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway :star:47
 * [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway :star:57
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:292
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway :star:293
 * [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer :star:27
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon :star:43
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS :star:19
@@ -100,7 +100,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS :star:150
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally. :star:87
 * [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts. :star:1
-* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS :star:207
+* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS :star:208
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC :star:18
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows :star:40
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path :star:11

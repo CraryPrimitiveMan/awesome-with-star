@@ -29,7 +29,7 @@
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:120
 - [tap-min](https://github.com/gummesson/tap-min) - Minimal output. :star:29
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:40
-- [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:72
+- [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:73
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
 - [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:494
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:14
@@ -50,9 +50,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:14107
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap` :star:14115
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1238
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4643
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:4646
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -66,7 +66,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4812
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:4813
 
 [More...](https://testanything.org/producers.html)
 
@@ -90,7 +90,7 @@ Things that consume TAP output.
 
 - [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console. :star:26
 - [tap-merge](https://github.com/anko/tap-merge) - Merge multiple TAP streams. :star:7
-- [smokestack](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`. :star:232
+- [smokestack](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`. :star:234
 - [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) alternative. :star:5
 
 ### Python

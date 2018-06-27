@@ -109,7 +109,7 @@
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events. :star:105
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions. :star:8
 * [framer-label](https://github.com/peteschaffner/framer-label) - Label module with multi-line truncation support for Framer. :star:12
-* [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path. :star:36
+* [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path. :star:37
 * [framer-colour-transition](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer. :star:10
 * [framer-webview](https://github.com/peteschaffner/framer-webview) - Web view module for Framer. :star:23
 * [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer. :star:2
@@ -169,13 +169,13 @@
 * [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module. :star:6
 * [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.   :star:2
 * [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes. :star:24
-* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:94
-* [FramerMapboxJS](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes. :star:30
+* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension. :star:95
+* [FramerMapboxJS](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes. :star:31
 
 
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:76
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:77
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:26
 * [Flare](https://gumroad.com/l/DbsPj) - Interactive prototype using Flare UI kit.
 

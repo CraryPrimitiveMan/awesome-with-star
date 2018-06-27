@@ -390,7 +390,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
-* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:134
+* [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText. :star:135
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer. :star:2
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library. :star:2
 * [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch. :star:3
@@ -596,7 +596,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
 * [VideoPlayer](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player. :star:29
 * [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:8
-* [Speech](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background. :star:12
+* [Speech](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background. :star:13
 * [MyAR](https://github.com/myflashlab/AR-ANE-Samples) - AR ANE supporting Android and iOS 64-bit based on Metaio's SDK. :star:37
 * [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:90
 * [Barcode](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE. :star:13
@@ -614,7 +614,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Hardware ANE
 * [Bluetooth](https://github.com/myflashlab/bluetooth-ANE) - Scan for other devices, connect to and pair with them and transfer data between them. :star:5
-* [GPS](https://github.com/myflashlab/GPS-ANE) - Get current device GPS location as fast as possible by automatically checking the best available provider. :star:13
+* [GPS](https://github.com/myflashlab/GPS-ANE) - Get current device GPS location as fast as possible by automatically checking the best available provider. :star:14
 * [GoogleVR](https://github.com/myflashlab/GoogleVR-ANE) - Google Virtual Reality SDK available to AIR developers. :star:14
 * [Joystick-ANE](https://github.com/StackAndHeap/joystick-ane) - ANE Joystick Library. :star:21
 * [AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE. :star:18

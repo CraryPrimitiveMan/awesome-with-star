@@ -154,13 +154,13 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
-- [Proton](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine. :star:1074
+- [Proton](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine. :star:1076
 - [lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library. :star:946
-- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library. :star:359
+- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library. :star:364
 - [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set. :star:150
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL. :star:7008
-- [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library. :star:812
-- [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization. :star:1063
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL. :star:7016
+- [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library. :star:815
+- [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization. :star:1065
 
 ### Projection Mapping • VJing
 
@@ -261,7 +261,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
-- [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms. :star:599
+- [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms. :star:600
 - [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
 - [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
 - [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
@@ -373,9 +373,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Math
 
-- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6226
+- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form. :star:6228
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
-- [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind. :star:36
+- [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind. :star:38
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 - [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets. :star:130
 - [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations. :star:247
@@ -414,10 +414,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
-- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:560
+- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources. :star:559
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 - [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
-- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser. :star:3120
+- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser. :star:3121
 - [TensorFlow.js](https://js.tensorflow.org/) - JavaScript library for training and deploying ML models in the browser and on Node.js.
 - [Hello TensorFlow](https://hello-tensorflow.glitch.me/) - Fully commented TensorFlow.js demo.
 
@@ -432,7 +432,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
-- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following. :star:270
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following. :star:271
 - [Raven Kwok](https://ravenkwok.tumblr.com/) - Tumblr by visual artist Raven Kwok.
 - [P5Art](http://p5art.tumblr.com/) - Really good collection of experiments in Processing.
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
@@ -478,20 +478,20 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:844
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:306
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:422
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:2024
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:8338
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:301
-- [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:533
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. :star:845
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more. :star:307
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts. :star:424
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization. :star:2025
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources. :star:8344
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization. :star:302
+- [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools. :star:534
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources. :star:428
-- [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1148
-- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:4999
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources. :star:1149
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen. :star:5001
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:26294
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources. :star:26332
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
-- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning. :star:1239
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning. :star:1249
 
 
 ## License
