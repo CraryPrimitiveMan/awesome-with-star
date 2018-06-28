@@ -20,7 +20,7 @@
 
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:227
-- [Repo](https://github.com/yoshuawuyts/choo) :star:5478
+- [Repo](https://github.com/yoshuawuyts/choo) :star:5481
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -32,9 +32,9 @@ under the hood:
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:902
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:388
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:389
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:57
-- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:92
+- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:93
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:130
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:7
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:29
@@ -106,7 +106,7 @@ Other CLI templates
 
 - [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor. :star:10
 - [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo. :star:2
-- [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo. :star:10
+- [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo. :star:11
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review). :star:4
 - [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
 - [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases. :star:25
@@ -114,10 +114,10 @@ Other CLI templates
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo. :star:29
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo. :star:6
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages. :star:32
-- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:373
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:372
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:16
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:422
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:423
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:6
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:2
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:39

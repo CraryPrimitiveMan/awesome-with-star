@@ -21,13 +21,14 @@
 - [License](License)
 
 
-## Community 
+## Community Ressources (mostly german language)
 
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
-* [Homematic Guru](https://homematic-guru.de/) - News, Blog and more.
-* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
-* [Technikkram](https://technikkram.net) - News, Blog and more.
+* [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials and more.
+* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials and more.
+* [Technikkram](https://technikkram.net) - News, Blog, Tutorials and more.
+* [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
@@ -81,7 +82,7 @@
 * [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU. :star:23
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic. :star:1
-* [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic. :star:8
+* [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic. :star:9
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML. :star:34
 

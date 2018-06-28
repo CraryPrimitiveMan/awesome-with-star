@@ -47,7 +47,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 
 ## Resources for those already familiar with GitHub
 
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:25314
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:25319
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
@@ -58,12 +58,12 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.. :star:80
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.. :star:79
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
-- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all. :star:1194
+- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all. :star:1196
 - [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
@@ -74,7 +74,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated.  :star:19
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub. :star:587
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications. :star:53
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:13104
+- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:13110
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs. :star:52
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line. :star:171
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:2890
@@ -93,8 +93,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 ## Novel uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub. :star:42
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:33034
-- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2581
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:33046
+- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2584
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code. :star:659
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2580
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 

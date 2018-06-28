@@ -128,7 +128,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
-* [Taskade](https://taskade.com/) (`Cloud`,`Chrome OS`,`Firefox`,`Mobile coming soon`,): Taskade is a collaborative task list and outliner for team projects.
+* [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
 
 
@@ -388,16 +388,16 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:113
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1377
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1378
 
 
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:673
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:675
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1377
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1378
 
 
 ### Concept Map and Diagrams
@@ -459,7 +459,7 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41167
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41177
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4380
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694

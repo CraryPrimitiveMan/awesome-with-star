@@ -277,7 +277,7 @@ create a similar list with books, courses and podcasts about software quality.
 ##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:274
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:275
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -371,16 +371,16 @@ create a similar list with books, courses and podcasts about software quality.
 
 # Awesome lists
 
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1846
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1848
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:21
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1369
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3356
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1372
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3365
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:423
-- [Selenium](https://github.com/TheJambo/awesome-testing) :star:183
+- [Selenium](https://github.com/TheJambo/awesome-testing) :star:184
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:153
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:149
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:10
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:526
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:529
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:416
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:232

@@ -102,7 +102,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App. :star:4
 * [Motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application. :star:4
 * [Motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion. :star:5
-* [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps.
+* [Rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps. :star:1
 * [MotionKit macOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - macOS Example Apps made with MotionKit.
 * [Rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - Simple OSX app using AVFoundation to stream, record, and transcode video. :star:6
 * [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List. :star:9
@@ -289,11 +289,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Element Wrappers
 * [Simple_si](https://github.com/forrestgrant/simple_si) - RubyMotion wrapper for SIAlertView. :star:21
-* [Motion-blitz](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD. :star:27
+* [Motion-blitz](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD.
 
 
 ### Graphic Libraries
-* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot. :star:79
+* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot.
 * [Motion-ocr](https://github.com/ferdev/motion-ocr) - RubyMotion wrapper for the OCR engine Tesseract. :star:63
 
 
@@ -375,7 +375,7 @@ App project templates
 * [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures. :star:5
 * [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs. :star:94
 * [Motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion. :star:46
-* [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:30
+* [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects. :star:29
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework. :star:3
 * [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion. :star:37
 * [Guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest). :star:46

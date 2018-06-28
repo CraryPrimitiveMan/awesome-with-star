@@ -176,7 +176,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:541
+- [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon) :star:540
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon) :star:5
 - [By Tomas Sykora](https://github.com/syky27/Sublime-Text-Icon) :star:11

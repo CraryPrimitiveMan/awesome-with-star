@@ -134,6 +134,7 @@
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
+* Envoy https://envoy.engineering/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
@@ -474,6 +475,7 @@
 * Allison Kaptur http://akaptur.com/
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
+* Andreas Schuster https://computer.forensikblog.de/en/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
@@ -561,6 +563,7 @@
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Hayden James https://haydenjames.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/

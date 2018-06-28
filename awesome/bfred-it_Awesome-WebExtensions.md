@@ -60,14 +60,14 @@ Apps that help you manage your extensions.
 ## Testing
 
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:257
-- [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines. :star:101
+- [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines. :star:102
 
 ## Boilerplates
 
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator. :star:9
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:37
-- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:1062
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:1063
 
 ## Sample Extensions
 
@@ -75,8 +75,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:332
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:187
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:5401
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1298
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:5404
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1299
 
 ## License
 

@@ -34,29 +34,29 @@ Feel free to send a PR :)
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:903
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:907
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3884
 
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4011
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3063
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8944
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4012
+ * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3065
+ * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:8946
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
 
- * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:2726
+ * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:2727
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
  * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10494
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:10502
  * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:6819
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1963
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:1964
 
 
 ## Security and PKI
@@ -72,13 +72,13 @@ Feel free to send a PR :)
 
 
 ## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2883
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9864
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:2884
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:9866
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4714
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:4718
 
 ## ADN 
   

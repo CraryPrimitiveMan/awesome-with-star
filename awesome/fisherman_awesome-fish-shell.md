@@ -25,7 +25,7 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:764
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:765
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:213
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:279
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:108

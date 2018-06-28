@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:12055
-- [Handbook](https://github.com/substack/browserify-handbook) :star:4254
-- [Repo](https://github.com/substack/node-browserify) :star:12055
+- [Docs](https://github.com/substack/node-browserify#usage) :star:12057
+- [Handbook](https://github.com/substack/browserify-handbook) :star:4255
+- [Repo](https://github.com/substack/node-browserify) :star:12057
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -87,7 +87,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1709
+- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds. :star:1710
 - [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds. :star:78
 
 ### CSS bundlers
@@ -112,7 +112,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:962
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:963
 
 ## Contributing
 
