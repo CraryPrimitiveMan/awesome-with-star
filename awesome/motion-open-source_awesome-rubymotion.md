@@ -81,7 +81,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Example Android Apps
 * [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [Rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android. :star:28
+* [Rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android.
 
 
 ### Example iOS Apps
@@ -289,11 +289,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Element Wrappers
 * [Simple_si](https://github.com/forrestgrant/simple_si) - RubyMotion wrapper for SIAlertView. :star:21
-* [Motion-blitz](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD.
+* [Motion-blitz](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD. :star:27
 
 
 ### Graphic Libraries
-* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot.
+* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot. :star:79
 * [Motion-ocr](https://github.com/ferdev/motion-ocr) - RubyMotion wrapper for the OCR engine Tesseract. :star:63
 
 
@@ -337,7 +337,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4
 * [Motion-giphy](https://github.com/willrax/motion-giphy) - Nice wrapper around the http://giphy.com API. :star:4
 * [Motion-installr](https://github.com/FluffyJack/motion-installr) - Ad-hoc deployment using the amazing Installr service! https://www.installrapp.com/ . :star:13
-* [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4
+* [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project.
 * [MotionPanel](https://github.com/tombroomfield/motion_panel) - Native RubyMotion wrapper around the Mixpanel API. :star:6
 * [MotionPaddle](https://github.com/henderea/motion-paddle) - RubyMotion gem for the Paddle framework. :star:1
 * [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - Simple integration of Algolia Offline Search SDK (http://www.algolia.com/) in your RubyMotion application.

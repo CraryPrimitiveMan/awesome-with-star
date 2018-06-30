@@ -51,7 +51,7 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA. :star:10
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact. :star:8
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA. :star:4
-- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:103
+- [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests. :star:104
 
 
 ## Works with AVA

@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Performance and Testing
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms) by Andrew Welch/nystudio107 - `29 Nov 2017`
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/Shape - `2 Apr 2017`
+- [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
 - [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
 - [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms) by Andrew Welch/nystudio107 - `25 Dec 2017`
 - [The Craft `{% cache %}` Tag In-Depth](https://nystudio107.com/blog/the-craft-cache-tag-in-depth) by Andrew Welch/nystudio107 - `24 Jan 2018`
@@ -188,6 +189,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Where am I in the Twig Loop?](https://mijingo.com/blog/where-am-i-in-the-twig-loop) by Ryan Irelan/Mijingo
 - [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) by Jérôme Coupé/Webstoemp - `15 Jul 2015`
 - [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Feb 2016`
+- [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
 
 ### Videos
 
@@ -392,4 +394,5 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [McCann](https://www.mccann.com)
 - [Ogilvy](https://ogilvy.co.uk)
 - [TBWA](http://tbwa.com)
+- [Vangen & Plotz](https://vangenplotz.no)
 

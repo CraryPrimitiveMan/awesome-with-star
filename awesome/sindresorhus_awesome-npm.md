@@ -75,16 +75,16 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:3259
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`. :star:3261
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully. :star:724
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™. :star:99
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package. :star:67
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:4549
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing. :star:4570
 
 ### Registry
 
 - [npm-name](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm. :star:162
-- [package-json](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry. :star:74
+- [package-json](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry. :star:75
 - [latest-version](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package. :star:29
 - [npm-keyword](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword. :star:29
 - [npm-user](https://github.com/sindresorhus/npm-user) - Get user info of an npm user. :star:43
@@ -93,20 +93,20 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages. :star:25
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry. :star:50
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm. :star:23
-- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:1092
+- [nrm](https://github.com/Pana/nrm) - Registry manager. :star:1095
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy. :star:316
-- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:3397
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry. :star:3427
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:135
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package. :star:94
-- [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:819
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:4183
+- [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date. :star:820
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update. :star:4184
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively. :star:127
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool. :star:793
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1507
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:553
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package. :star:554
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file. :star:46
 - [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file. :star:92
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata. :star:96
@@ -124,16 +124,16 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed. :star:61
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package. :star:158
 - [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa. :star:168
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial. :star:1933
-- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed. :star:392
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial. :star:1936
+- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed. :star:395
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail. :star:38
 
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:32156
-- [npm](https://github.com/npm/npm) - The official client. :star:16794
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3954
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management. :star:32187
+- [npm](https://github.com/npm/npm) - The official client. :star:16806
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. :star:3963
 
 
 ## Tips
@@ -465,7 +465,7 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 - [package.json](https://docs.npmjs.com/files/package.json)
 - [npm run script](https://docs.npmjs.com/cli/run-script)
-- [Stats API](https://github.com/npm/download-counts) :star:229
+- [Stats API](https://github.com/npm/download-counts) :star:230
 
 
 ## Support

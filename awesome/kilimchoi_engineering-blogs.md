@@ -36,7 +36,6 @@
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
 * Advanced Web Machinery https://advancedweb.hu/
-* Adzerk https://adzerk.com/tech/
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
@@ -48,7 +47,6 @@
 * Atlassian https://developer.atlassian.com/blog/
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
-* Autodesk http://cloudengineering.autodesk.com/blog/
 * Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea https://www.azavea.com/blog/category/software-development/
@@ -57,7 +55,7 @@
 * Babbel https://bytes.babbel.com/en/
 * Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
-* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
+* Baidu Research http://research.baidu.com/Blog
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
@@ -167,7 +165,6 @@
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
-* Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
@@ -207,7 +204,6 @@
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
-* Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
@@ -459,6 +455,9 @@
 
 ### Individuals/Group Contributors
 
+#### \# individuals
+* 0xADADA https://0xadada.pub/
+
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
@@ -564,6 +563,7 @@
 
 #### H individuals
 * Hayden James https://haydenjames.io/
+* Henrik Lau Eriksson https://conductofcode.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
@@ -793,7 +793,7 @@
 #### R technologies
 * React https://facebook.github.io/react/blog/
 * React Native http://facebook.github.io/react-native/blog/
-* Red Programming Language http://www.red-lang.org
+* Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
 * Rust https://blog.rust-lang.org/
 

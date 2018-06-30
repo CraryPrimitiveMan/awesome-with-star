@@ -367,7 +367,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2171
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2172
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -388,7 +388,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:113
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1378
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1379
 
 
 **MINDMAP HTML**
@@ -397,7 +397,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 * [jsmind](https://github.com/hizzgdev/jsmind) :star:675
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1378
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1379
 
 
 ### Concept Map and Diagrams
@@ -445,7 +445,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Sway](https://sway.com/): Microsoft
 * [Strut](https://github.com/tantaman/Strut) :star:1481
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:597
-* [hovercraft](https://github.com/regebro/hovercraft) :star:1008
+* [hovercraft](https://github.com/regebro/hovercraft) :star:1010
 
 
 
@@ -459,12 +459,12 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41177
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4380
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41212
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4379
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
 * [Deck.js](https://github.com/imakewebthings/deck.js) :star:5292
-* [Shower](https://github.com/shower/shower) :star:4032
+* [Shower](https://github.com/shower/shower) :star:4035
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1213
 * [Slides](https://github.com/briancavalier/slides) :star:467
@@ -690,7 +690,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:904
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:908
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -749,7 +749,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:869
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:870
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

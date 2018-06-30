@@ -75,7 +75,9 @@ html {
   box-sizing: border-box;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
 ```
@@ -167,10 +169,11 @@ This way textual elements can inherit from `body` easily.
 
 ### Vertically-Center Anything
 
-No, it's not black magic, you really can center elements vertically:
+No, it's not black magic, you really can center elements vertically. You can do this with flexbox...
 
 ```css
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
@@ -183,6 +186,18 @@ body {
   display: flex;
 }
 ```
+
+...and also with CSS Grid:
+
+```css
+body {
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  place-items: center center;
+}
+```
+
 
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 

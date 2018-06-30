@@ -36,7 +36,6 @@ coding style guides and development practices across the web.
 
 + [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
-  + [Node.js](#nodejs)
   + [RSpec](#rspec)
   + [Ruby on Rails](#rails)
   + [Vue](#vue)
@@ -47,6 +46,7 @@ coding style guides and development practices across the web.
   + [Favicon](#favicon)
   + [iOS](#ios)
   + [JSON](#json)
+  + [Node.js](#nodejs)
   + [Security](#security)
   + [Writing](#writing)
   + [UI](#ui)
@@ -141,7 +141,7 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14082
++ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14094
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala
@@ -169,11 +169,6 @@ coding style guides and development practices across the web.
 + [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
-### Node.js
-
-+ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
-+ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
-
 ### RSpec
 
 + [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/)
@@ -194,6 +189,7 @@ coding style guides and development practices across the web.
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
++ [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 
 ### Deployment
 
@@ -210,6 +206,11 @@ coding style guides and development practices across the web.
 ### JSON
 
 + [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+
+### Node.js
+
++ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
++ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
 
 ### Security
 
