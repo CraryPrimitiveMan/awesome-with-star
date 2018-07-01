@@ -1,5 +1,6 @@
 # Information comes from [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-OpenSourcePhotography
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
@@ -74,7 +75,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Darktable](http://www.darktable.org/) - *An open source photography workflow application and RAW developer.*
 - [RawTherapee](http://rawtherapee.com/) - *A cross-platform raw image processing program.*
 - [Photivo](http://photivo.org/photivo/start?redirect=1) - *A multi platform photo processor for RAW and bitmap images with 16 bit precision.*
-- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:42
+- [Raw Studio](https://github.com/rawstudio/rawstudio) - *Read and manipulate RAW images from digital cameras.* :star:43
 - [UFRaw](http://ufraw.sourceforge.net/) - *A utility to read and manipulate raw images from digital cameras.*
 - [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - *Decoding raw digital photos in Linux.*
 - [Lightzone](http://lightzoneproject.org/) - *Open-source digital darkroom software for Windows/Mac/Linux.*
@@ -159,7 +160,7 @@ record, convert and stream audio and video.*
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:122
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:271
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:270
 
 ## Scripts
 

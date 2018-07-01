@@ -603,7 +603,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:59
+- [Essence](https://github.com/flagello/Essence) :star:60
 - [Pragmatic Essence](https://github.com/orta/Essence) :star:55
 
 ## Syntax

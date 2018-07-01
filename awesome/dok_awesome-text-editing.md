@@ -3,12 +3,12 @@
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable
-* [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable :star:7738
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8734
+* [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable :star:7742
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:8737
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:3817
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
-* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3592
+* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3591
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) - Made by Voog

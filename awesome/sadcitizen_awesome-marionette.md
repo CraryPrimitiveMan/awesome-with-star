@@ -6,7 +6,7 @@
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7177
+- [Github repository](https://github.com/marionettejs/backbone.marionette) :star:7176
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
@@ -106,7 +106,7 @@
 ## Libraries
 
 - [Marionette State](https://github.com/Squareknot/marionette.state) :star:115
-- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:132
+- [Marionette Virtual Dom](https://github.com/tiagorg/marionette-vdom) :star:131
 - [Marionette Form View](https://github.com/viverae/marionette.formview) :star:81
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) :star:69
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture. :star:69

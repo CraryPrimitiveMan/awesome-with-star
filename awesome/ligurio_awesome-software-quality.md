@@ -374,7 +374,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:1853
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:22
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:1377
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3384
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:3388
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:423
 - [Selenium](https://github.com/TheJambo/awesome-testing) :star:186
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:154

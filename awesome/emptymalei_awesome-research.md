@@ -395,7 +395,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:675
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:678
 * [jsmind](http://sourceforge.net/projects/jsmind/)
 * [mindmaps](https://github.com/drichard/mindmaps) :star:1379
 
@@ -443,7 +443,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut](https://github.com/tantaman/Strut) :star:1481
+* [Strut](https://github.com/tantaman/Strut) :star:1482
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:597
 * [hovercraft](https://github.com/regebro/hovercraft) :star:1010
 
@@ -459,11 +459,11 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41212
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4379
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:41227
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4380
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1503
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:694
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5292
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5293
 * [Shower](https://github.com/shower/shower) :star:4035
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1213
@@ -749,7 +749,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:870
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:871
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
