@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27206
+- [Github repository](https://github.com/jashkenas/backbone) :star:27209
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -112,7 +112,7 @@
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:91
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:90
 - [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
@@ -122,8 +122,8 @@
 
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2389
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2228
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2051
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1961
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2050
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1960
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1694
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1464
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1378

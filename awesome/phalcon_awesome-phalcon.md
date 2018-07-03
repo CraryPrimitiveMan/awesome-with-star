@@ -76,7 +76,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular :star:18
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:75
-* [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:9
+* [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:10
 * [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD :star:3
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache :star:8
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator :star:6
@@ -96,7 +96,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [oAuth Bridge](https://github.com/preferans/oauth-bridge) - A library focused on API Authentication for Phalcon applications. :star:7
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:15
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3879
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:3882
 
 
 ## CMS & Blogs
@@ -119,7 +119,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Command line applications & tools.*
 
 * [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon PHP Framework :star:7
-* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon :star:63
+* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon :star:64
 * [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon PHP Framework :star:14
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework :star:46
 
@@ -128,7 +128,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Admin Panels & Dashboards.*
 
-* [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon :star:27
+* [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
 * [PhalconTime](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton :star:3
 
 
@@ -139,7 +139,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:8
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:91
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:14
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:134
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework :star:135
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon :star:9
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 

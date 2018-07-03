@@ -89,10 +89,8 @@
 * CleverTap https://blog.clevertap.com/category/engineering/
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
-* ClusterHQ https://clusterhq.com/blog/
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Code Better http://codebetter.com/
-* Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
@@ -164,7 +162,6 @@
 * GIPHY https://engineering.giphy.com/
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
-* Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
@@ -185,6 +182,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
+* Hashnode https://hashnode.com/blogs
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
@@ -194,7 +192,6 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
-* Hoteltonight http://engineering.hoteltonight.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 
@@ -235,15 +232,12 @@
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
-* Linode https://engineering.linode.com/
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
-* Lookout http://hackers.lookout.com/
 * Lyft https://eng.lyft.com/
 
 #### M companies
-* Machinalis http://www.machinalis.com/blog/
 * Made Tech https://www.madetech.com/blog
 * Mallow Tech http://blog.mallow-tech.com/
 * MailChimp https://devs.mailchimp.com/blog/
@@ -255,7 +249,6 @@
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://mixmax.com/blog/tag/engineering
 * Mixpanel https://code.mixpanel.com/
-* MoneyBird http://engineering.moneybird.com/
 * MongoDB https://engineering.mongodb.com/
 * Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
@@ -289,14 +282,12 @@
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
-* Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
-* Pinterest https://engineering.pinterest.com/blog
+* Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
-* Polyvore http://engblog.polyvore.com/
 * Postmark https://postmarkapp.com/blog
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
@@ -315,7 +306,7 @@
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
-* Red Hat https://developerblog.redhat.com
+* Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
 * Rightscale http://eng.rightscale.com/
@@ -352,9 +343,7 @@
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
-* Snapdeal http://engineering.snapdeal.com/category/code/
 * Snyk https://snyk.io/blog
-* Socialcast http://blog.socialcast.com/engineering/
 * Songkick https://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
@@ -413,7 +402,6 @@
 
 #### W companies
 * WalmartLabs https://medium.com/walmartlabs/
-* Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
@@ -423,7 +411,7 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
-* Wix https://www.wix.engineering/
+* Wix https://www.wix.engineering/blog
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
@@ -494,6 +482,7 @@
 * Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson https://blog.blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
+* Bohops https://bohops.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
@@ -526,7 +515,6 @@
 * Dennis Yurichev https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
-* Dmitri Pavlutin https://rainsoft.io
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
@@ -535,13 +523,12 @@
 
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
-* Edgar Aroutiounian http://hyegar.com/archive/
+* Edgar Aroutiounian https://hyegar.com/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Elliot https://medium.com/javascript-scene/
 * Eric Lippert https://ericlippert.com/
 * Erik Runyon https://erikrunyon.com/
-* Evan Dempsey https://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Jones http://www.evanjones.ca/chronological.html
 * Evan Miller http://www.evanmiller.org/
@@ -701,7 +688,6 @@
 * Real Python https://realpython.com/blog/
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
-* Rémi Delhaye http://blog.rdlh.io/
 * Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward https://eviltrout.com/

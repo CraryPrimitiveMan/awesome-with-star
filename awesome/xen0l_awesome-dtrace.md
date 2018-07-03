@@ -172,7 +172,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:6145
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:6153
 - [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:332
 
 ## Tools

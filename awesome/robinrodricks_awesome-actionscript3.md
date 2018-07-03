@@ -239,7 +239,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Particle
 
-* [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex. :star:271
+* [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex. :star:270
 * [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade)).
 * [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3). :star:9
 * [SAP](https://github.com/gonchar/SAP) - Particle System for Starling. :star:49
@@ -272,7 +272,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript. :star:5
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer. :star:88
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV. :star:228
-* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above. :star:13
 * [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects. :star:1
 * [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library. :star:45
 

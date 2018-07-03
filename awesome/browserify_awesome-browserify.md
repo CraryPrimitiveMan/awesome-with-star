@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:12063
+- [Docs](https://github.com/substack/node-browserify#usage) :star:12067
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4256
-- [Repo](https://github.com/substack/node-browserify) :star:12063
+- [Repo](https://github.com/substack/node-browserify) :star:12067
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1774
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:1775
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:780
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:239
 
@@ -106,7 +106,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:313
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:55
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:589
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:590
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools

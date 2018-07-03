@@ -59,7 +59,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Mobile Apps
 
-- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1985
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices. :star:1987
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
@@ -97,6 +97,7 @@ Alternatives to ad-supported websites, software, and publications.
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 - [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
+- [MeWe](https://mewe.com/) - Social networking with a strong focus on privacy.
 - [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
 
 ### Utilities
@@ -115,7 +116,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Ad Blockers
 
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12961
+- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default. :star:12974
 
 **Note**: Avoid Adblock Plus because coprorations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 

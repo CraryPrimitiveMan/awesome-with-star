@@ -88,7 +88,7 @@
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations. :star:62
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification. :star:23
 * [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process. :star:24
-* [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier. :star:426
+* [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier. :star:427
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services. :star:10
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS. :star:28
 * [RippleTransition.framer](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition. :star:4
@@ -99,7 +99,7 @@
 * [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer. :star:71
 * [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer. :star:60
 * [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) - UISound Module for Framer.
-* [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image. :star:78
+* [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image. :star:79
 * [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer. :star:31
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes. :star:263
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload. :star:29
@@ -175,7 +175,7 @@
 
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:78
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:79
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:26
 * [Flare](https://gumroad.com/l/DbsPj) - Interactive prototype using Flare UI kit.
 
@@ -185,7 +185,7 @@
 
 ## Other
 * [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:322
-* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:497
+* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:498
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:148
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:29
 * [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
