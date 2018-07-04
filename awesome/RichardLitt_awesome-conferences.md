@@ -360,8 +360,8 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:675
-* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4461
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) :star:676
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com. :star:4464
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -372,7 +372,7 @@ These sites list open calls for speakers.
 * [Lanyrd.com](http://lanyrd.com/calls/)
 * [Papercall](https://papercall.io)
 * [Technically Speaking](https://techspeak.email/)
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:210
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:212
 
 ### For Organizers
 

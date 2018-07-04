@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7530
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7531
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:100
@@ -64,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Development tools
 
 - [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:16
-- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:13
+- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:14
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime. :star:2
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility. :star:9
 - [set-or-print](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands. :star:3
@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Toolbox
 - [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support. :star:9
 - [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support. :star:8
-- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task. :star:6
+- [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task. :star:7
 
 ## Contribute
 

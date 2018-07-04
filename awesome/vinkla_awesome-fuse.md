@@ -93,7 +93,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components :star:1
 - [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:34
-- [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:4
+- [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:5
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:183
 - [Fuse Taptic-Feedback](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine. :star:1
@@ -112,7 +112,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Plugins
 
 - [Alfred Workflow](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred. :star:1
-- [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse. :star:29
+- [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse. :star:28
 - [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO. :star:3
 - [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse. :star:5
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse. :star:21

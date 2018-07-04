@@ -16,16 +16,16 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 ## Learning
 
 * [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:522
+* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) :star:523
 
 ## Plugin Managers & Frameworks
 
-* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2964
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3566
+* [Fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager. :star:2967
+* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework. :star:3568
 
 ## Plugins
 
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:767
+* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish. :star:768
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner. :star:214
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager. :star:280
 * [fisherman/getopts](https://github.com/fisherman/getopts) - Command line options parser. :star:108
