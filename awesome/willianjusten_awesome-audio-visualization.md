@@ -170,7 +170,7 @@
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data. :star:25
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:118
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:529
+- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:530
 
 ## Libraries Visualization
 
@@ -187,7 +187,7 @@
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input. :star:109
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:367
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:235
+- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:237
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 - [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone :star:4

@@ -19,7 +19,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:118
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:92
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:16
+- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:17
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone. :star:8
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
@@ -29,7 +29,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:22
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:25
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects. :star:55
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:491
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:490
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016. :star:1
 
 ### 3D

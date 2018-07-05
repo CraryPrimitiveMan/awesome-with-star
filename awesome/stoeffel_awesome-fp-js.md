@@ -54,7 +54,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
-* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:54
+* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. :star:53
 * [pareto-js](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript
 
 ### Data Structures
@@ -71,7 +71,7 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
-* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:1108
+* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:1110
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. :star:102
 
 ### Algebraic Data Types
@@ -121,7 +121,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ## Programming Tools
 
-* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:472
+* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:471
 * [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language :star:1138
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
@@ -178,7 +178,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [cube-composer](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
 * [FP Youtube Search](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
-* [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT. :star:209
+* [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT. :star:210
 * [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations.
 * [Learn Rx](http://reactivex.io/learnrx/) – A series of interactive exercises introducing five basic ingredients of functional (reactive) programming: the `map`, `filter`, `concatAll`, `reduce`, and `zip` functions.
 

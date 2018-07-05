@@ -70,7 +70,7 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
-* [PHP Censor](https://github.com/corpsee/php-censor) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of [PHPCI](https://www.phptesting.org))
+* [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
@@ -109,7 +109,7 @@ The hardware,virtual machines, fram management, docker
 * [SGE](http://gridscheduler.sourceforge.net)  Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses  
 * [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf/)  Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures  
 * [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
-* [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
+* [citrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
 * [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
 * [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
 * [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
@@ -191,6 +191,7 @@ Software testing framework and tools
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
+* [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
 ## Package
 The tools for software package and installation  
@@ -221,7 +222,7 @@ The tools for software delivery
 
 ## Provisioning Tools 
 Provision tools
-* [Ansible](http://www.ansible.com) Simple infrastructure management tool via humam readable playbooks
+* [Ansible](http://www.ansible.com) Simple infrastructure management tool via human readable playbooks
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 * [Chef](https://www.chef.io/chef/)  Fast, scalable and flexible software for data center automation  
 * [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
@@ -275,7 +276,7 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:677
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:679
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact

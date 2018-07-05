@@ -141,7 +141,7 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14104
++ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme) :star:14109
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala
@@ -176,7 +176,7 @@ coding style guides and development practices across the web.
 
 ### Rails
 
-+ [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme) :star:5570
++ [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme) :star:5572
 
 ### Vue
 

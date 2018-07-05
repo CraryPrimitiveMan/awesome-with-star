@@ -13,7 +13,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Official Website](https://getcomposer.org/)
 - [Issues](https://github.com/composer/composer/issues)
-- [Github](https://github.com/composer/composer) :star:15178
+- [Github](https://github.com/composer/composer) :star:15193
 - [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)
 - [Documentation](https://getcomposer.org/doc/)
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
@@ -47,23 +47,23 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin. :star:7
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) - The plugin adds support for managing dependencies for multiple packages in a single repository. :star:198
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top. :star:61
-- [Composer-Patches](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package. :star:489
+- [Composer-Patches](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package. :star:490
 - [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) - Comprehensive Plugin for composer to execute PHP Quality assurance Tools. :star:18
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir. :star:68
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory. :star:76
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks. :star:156
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor). :star:19
-- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3768
+- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`. :star:3770
 - [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2. :star:10
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages. :star:3
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder). :star:92
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
-- [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions. :star:938
+- [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions. :star:943
 - [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name. :star:52
 - [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ... :star:5
 - [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself. :star:5
-- [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config. :star:175
-- [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages. :star:1373
+- [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config. :star:176
+- [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages. :star:1376
 - [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer :star:66
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache. :star:139
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated. :star:36
@@ -177,7 +177,7 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 - [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories. :star:140
 - [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI. :star:229
 - [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration. :star:92
-- [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository. :star:60
+- [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository. :star:59
 
 ### Toran Proxy
 

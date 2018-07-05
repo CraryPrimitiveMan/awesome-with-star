@@ -203,7 +203,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2686
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A :star:2691
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -230,11 +230,11 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit :star:69
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:618
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing :star:619
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using :star:288
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:54
+* [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST :star:55
   API framework sitting on top of Pyramid and ElasticSearch
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient :star:60
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
@@ -346,7 +346,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:420
+* [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a :star:422
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of :star:8
@@ -438,7 +438,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open :star:74
   source high-level Python web development environment.
-* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1829
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next :star:1833
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks. :star:16

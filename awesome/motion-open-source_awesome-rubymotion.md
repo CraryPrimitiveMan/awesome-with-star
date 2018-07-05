@@ -160,8 +160,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion.h](https://github.com/kastiglione/motion.h) - Expose iOS and macOS system libraries in RubyMotion. :star:57
 * [MapKitWrapper](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion. :star:45
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic. :star:21
-* [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver. :star:42
-* [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions. :star:18
+* [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.
+* [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.
 * [Motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks. :star:91
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework. :star:54
 * [Motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7. :star:9
@@ -215,11 +215,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Sugarcube](https://github.com/rubymotion/sugarcube) - These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string. :star:435
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
-* [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:133
+* [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:230
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:133
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1277
-* [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:22
+* [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm.
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
 * [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
 * [ProMotion-menu](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem. :star:78
@@ -265,7 +265,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Forms
-* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:633
+* [Formotion](https://github.com/clayallsopp/formotion) - Painless, productive views on iOS. :star:632
 * [Motion-form](https://github.com/dblandin/motion-form) - RubyMotion forms made easy. :star:16
 
 
@@ -305,7 +305,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion. :star:198
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite. :star:106
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations. :star:67
-* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode. :star:177
+* [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode.
 * [Motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver. :star:33
 * [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS.
@@ -334,7 +334,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-ocean](https://github.com/brianpattison/motion-ocean) - RubyMotion wrapper for the http://digitalocean.com API v2.0. :star:5
 * [Sox](https://github.com/brilliantfantastic/sox) - RubyMotion wrapper for the Freshbooks API. :star:6
 * [Twittermotion](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API. :star:42
-* [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4
+* [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project.
 * [Motion-giphy](https://github.com/willrax/motion-giphy) - Nice wrapper around the http://giphy.com API. :star:4
 * [Motion-installr](https://github.com/FluffyJack/motion-installr) - Ad-hoc deployment using the amazing Installr service! https://www.installrapp.com/ . :star:13
 * [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4

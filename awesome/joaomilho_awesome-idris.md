@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2469
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2471
 
 ### Articles
 
@@ -61,7 +61,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:176
+* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:177
 * [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:178
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:66
@@ -72,7 +72,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:16
 * [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:33
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:16
-* [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:16
+* [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:17
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:17
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:15
 

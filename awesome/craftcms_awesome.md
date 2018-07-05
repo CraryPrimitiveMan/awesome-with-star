@@ -330,7 +330,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects. :star:57
 - [Generator Craft Install](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58
 - [Happy Lager Demo Site](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-- [Nginx Craft](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:188
+- [Nginx Craft](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices. :star:189
 - [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards.
 
 ---

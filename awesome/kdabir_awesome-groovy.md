@@ -52,7 +52,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
-* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:180
+* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:181
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:69
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:140
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:77
@@ -72,8 +72,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:369
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1964
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:890
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:1965
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:892
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:11
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:28
@@ -116,7 +116,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:284
+ * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:285
 
 
 ## Rule Engines
@@ -127,7 +127,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2676
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:2678
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

@@ -11,13 +11,13 @@
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript) :star:10
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript) :star:35
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
-- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:140
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets :star:139
 
 ## Preludes
 
 - [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:65
 - [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude.
-- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:27
+- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features.
 
 ## UI Libraries
 
@@ -31,16 +31,16 @@ React-based:
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:269
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react. :star:3
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:53
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:507
-- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:69
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:506
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:68
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:46
 - [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:79
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:106
-- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:70
+- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:71
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:764
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:763
 
 Signals/Behaviors/FRP:
 
@@ -50,7 +50,7 @@ Signals/Behaviors/FRP:
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:47
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:50
 - [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:128
-- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:66
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus. :star:67
 
 ## URL Routers
 
@@ -68,8 +68,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:189
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:189
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:190
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:190
 
 ## Effect Management
 

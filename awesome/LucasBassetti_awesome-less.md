@@ -47,7 +47,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:15599
+- [Official Repository](https://github.com/less/less.js) :star:15603
 
 **[Back to top](#contents)**
 
@@ -131,7 +131,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:10
 - [Oban](http://oban.io/) - 	Collection of mixins.
 - [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1737
-- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4366
+- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4367
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes. :star:35
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions. :star:2
 

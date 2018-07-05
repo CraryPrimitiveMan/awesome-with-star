@@ -128,7 +128,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/> :star:28
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
-* [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/> :star:3
+* [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/> :star:4
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/> :star:42
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
@@ -196,10 +196,10 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context. :star:8
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
-* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:324
+* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:325
 * [ngForce](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
-* [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps :star:48
+* [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps :star:49
 * [Formulon](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
 * [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) - Windows based toolkit to run native Javascript to access Salesforce data.
 

@@ -87,6 +87,7 @@
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
 * CleverTap https://clevertap.com/blog/tag/engineering/
+* CloudBees https://www.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
@@ -228,6 +229,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* Latacora https://latacora.singles/
 * Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
