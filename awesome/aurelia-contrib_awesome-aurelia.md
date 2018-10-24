@@ -34,6 +34,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
   * [Aurelia Custom Element](#aurelia-custom-element)
   * [Aurelia Auth](#aurelia-auth)
   * [Aurelia Libraries](#aurelia-libraries)
+  * [Aurelia Examples](#aurelia-examples)
 * [TypeScript](#typescript)
   * [TypeScript General Resources](#typeScript-general-resources)
   * [Seed Projects](#typescript-seed-projects)
@@ -91,7 +92,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Tools
 
-* [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) * This tool is called "Aurelia Context"
+* [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg) * This tool is called "Aurelia Inspector"
+* [vscode-extension](https://github.com/aurelia/vscode-extension) * An Aurelia extension for the VS Code editor that provides HTML syntax highlighting, statement completion and CLI integration.
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * HTML, JavaScript and TypeScript snippets for VSCode
 * [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
@@ -219,6 +221,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 * [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) * Permissions management plugin which allows to integrate Aurelia and CASL
 * [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) * A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
+* [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) * An Aurelia custom element for [highlight.js](https://highlightjs.org/)
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
@@ -228,7 +231,6 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) * Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 * [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
-* [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
 * [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) * A 100% aurelia based data table component [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 
 #### Aurelia Custom Element
@@ -258,10 +260,15 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) * A Northwind demo using Aurelia and Breeze by @jdanyow.
 * [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) * Klondike solitaire built with Aurelia and dragula.
 * [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) * Classic Minesweeper game built with Aurelia by @discosultan.
-* [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 * [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) * An example WebAPI written with C# and Aurelia
 * [michaelbull/aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.
+
+##### Aurelia + Electron Examples
+
+* [aurelia-electron-webpack](https://github.com/timfish/aurelia-electron-webpack) * A basic boilerplate to build Electron apps with Aurelia, Typescript, and Webpack.
+* [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
+* [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 
 ### TypeScript
 
@@ -330,5 +337,5 @@ Thank you for your suggestions!
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
 
