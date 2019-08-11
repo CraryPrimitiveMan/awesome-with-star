@@ -44,9 +44,9 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository](https://github.com/wagtail/wagtail) :star:7678
+- [GitHub repository](https://github.com/wagtail/wagtail) :star:7688
 - [Twitter account](https://twitter.com/wagtailcms)
-- [Roadmap](https://github.com/wagtail/wagtail/projects/1) :star:7678
+- [Roadmap](https://github.com/wagtail/wagtail/projects/1) :star:7688
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
 - [Other resources](#resources)
 
@@ -76,7 +76,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [wagtailgmaps](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields. :star:57
 - [Wagtail-Geo-Widget](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail. :star:58
-- [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail. :star:75
+- [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail. :star:74
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields. :star:31
 - [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`. :star:2
 
@@ -104,7 +104,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### E-commerce
 
 - [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices. :star:28
-- [longclaw](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS. :star:179
+- [longclaw](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS. :star:180
 - [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?). :star:57
 
 ### SEO and SMO
@@ -146,7 +146,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtailpolls](https://github.com/takeflight/wagtailpolls) - A plugin for adding polling capabilities to the Wagtail CMS. :star:20
 - [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys. :star:19
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder. :star:33
-- [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields. :star:66
+- [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields. :star:67
 
 ### Testing
 
@@ -291,7 +291,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Showcases
 
 - [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps. :star:7678
+- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps. :star:7688
 
 ### Lists
 
@@ -300,7 +300,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## For editors
 
-- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages) :star:137
+- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages) :star:136
 
 ## Community
 

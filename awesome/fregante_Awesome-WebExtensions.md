@@ -50,7 +50,7 @@ Code meant become part of the extension.
 Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically). :star:164
-- [mozilla/web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions. :star:685
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions. :star:687
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published. :star:18
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it. :star:27
 - [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files. :star:19
@@ -69,7 +69,7 @@ Apps that help you manage your extensions.
 - [browser-extension-template](https://github.com/notlmn/browser-extension-template) - Barebones boilerplate with webpack, options handler and auto-publishing. :star:100
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator. :star:15
 - [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:132
+- [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:133
 - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:1548
 
 ## Sample Extensions
@@ -78,8 +78,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub](https://github.com/npmhub/npmhub) :star:389
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:222
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:9451
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1887
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:9464
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1888
 
 ## License
 

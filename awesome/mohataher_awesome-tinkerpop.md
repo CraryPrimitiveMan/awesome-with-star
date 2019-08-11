@@ -22,10 +22,10 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:906
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:908
 * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:157
 * [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:400
-* [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:56
+* [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:55
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:207
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend. :star:65
 * [Hadoop (Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
@@ -37,7 +37,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:165
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:183
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:2600
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:2607
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:394
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:79
 
@@ -47,7 +47,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 *   [Teva Gremlin](https://www.nuget.org/packages/Teva.Common.Data.Gremlin/) (.NET - C#) - A Gremlin Server driver for .NET.
 
 ##### Clojure
-* [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs. :star:107
+* [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs. :star:106
 * [scalajs-gremlin-client](https://github.com/viagraphs/scalajs-gremlin-client) (scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API. :star:6
 
 ##### Go
@@ -65,7 +65,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:110
 
 ##### Javascript
-* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript. :star:37
+* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript. :star:38
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) (js) - A Gremlin Server driver for JavaScript. :star:207
 
 ##### PHP
@@ -101,8 +101,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:110
-* [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework. :star:136
-* [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack). :star:36
+* [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework. :star:135
+* [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack). :star:35
 * [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo. :star:32
 * [Frontenac](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack. :star:25
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python. :star:37

@@ -88,7 +88,7 @@
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations. :star:65
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification. :star:22
 * [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process. :star:24
-* [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier. :star:420
+* [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier. :star:419
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services. :star:10
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS. :star:28
 * [RippleTransition.framer](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition. :star:4

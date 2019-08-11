@@ -45,7 +45,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post) - Pratical examples of pre- and postpromorphisms by Jared Tobin.
 - [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) - Exploring histo and futu by example by Jared Tobin.
 - [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/) - Practical article about histomorphism and the futumorphism.
-- [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals. :star:140
+- [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals. :star:141
 - [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 
 ### Hylomorphisms in the Wild
@@ -81,7 +81,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
   Presented by Anthony Burzillo at the NYC Haskell User's Group.
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
-- [recursion-scheme-talk](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes. :star:140
+- [recursion-scheme-talk](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes. :star:141
 - [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 - [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 - [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
@@ -121,7 +121,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
   Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
-- [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) for [cubicaltt](https://github.com/mortberg/cubicaltt) - a cubical version of recursion schemes. :star:387
+- [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) for [cubicaltt](https://github.com/mortberg/cubicaltt) - a cubical version of recursion schemes. :star:388
 
 ## License
 

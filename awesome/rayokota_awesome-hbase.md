@@ -37,9 +37,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:565
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:395
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:480
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:564
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:397
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:479
 
 
 ### Cloud
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database. :star:2
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:871
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:870
 
 #### Geospatial
 
@@ -97,40 +97,40 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:554
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:556
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
 
-* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:153
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase. :star:152
 * [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication. :star:1
-* [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:294
+* [Omid](https://github.com/yahoo/omid) - Transactional support for HBase. :star:293
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
 * [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator. :star:208
 
 ### Integrations
 
 * [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector. :star:128
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration. :star:3192
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration. :star:3201
 * [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 * [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading. :star:9
 * [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around Cascading.HBase for use in Cascalog. :star:21
-* [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch. :star:94
+* [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch. :star:95
 * [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
-* [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase. :star:31
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector. :star:9798
+* [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase. :star:30
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector. :star:9811
 * [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase. :star:304
-* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase. :star:523
+* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase. :star:522
 * [HAWQ](http://pivotalhd-210.docs.pivotal.io/tutorial/getting-started/hawq/pxf-hbase-external-tables.html) - HAWQ PXF external tables on HBase.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy. :star:57
-* [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration. :star:581
+* [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration. :star:579
 * [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - HBase connector for Pulsar.
 * [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
 * [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:421
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
-* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase. :star:5794
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase. :star:5793
 * [Tajo](https://tajo.apache.org/docs/current/hbase_integration.html) - Tajo integration with HBase.
 * [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 
@@ -139,7 +139,7 @@ A curated list of awesome HBase projects and resources.
 * [Ambari](https://ambari.apache.org) - Software for provisioning, managing, and monitor Hadoop/HBase clusters.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
-* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:167
+* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters. :star:166
 * [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase. :star:127
 * [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.

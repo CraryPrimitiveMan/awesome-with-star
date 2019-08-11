@@ -71,7 +71,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:64
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:333
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:332
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon. :star:30
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:723
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
@@ -97,13 +97,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Padlock](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server :star:8
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:20
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4896
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4898
 
 ## CMS & Blogs
 
 *Content management systems & blogs.*
 
-* [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support :star:32
+* [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support :star:31
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework :star:20
 * [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:430
@@ -142,7 +142,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Debug & profiling tools.*
 
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:14
-* [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:88
+* [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications :star:87
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install. :star:5
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution :star:16
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework :star:146
@@ -246,7 +246,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework :star:2
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter :star:21
-* [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon :star:16
+* [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon :star:17
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon :star:9
 * [phalcon-redis-model](https://github.com/ienaga/RedisPlugin) - redis based ORM and Easy Criteria (The correspondence of MySQL sharding.) :star:11
 
@@ -287,7 +287,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes :star:27
+* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes :star:26
 * [Phalcon Routing for Yaml](https://github.com/ienaga/PhalconRouter) - Routing can be easily configured with yaml :star:1
 
 
@@ -332,7 +332,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon Framework :star:6
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:23
-* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:286
+* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:285
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:340
 
 

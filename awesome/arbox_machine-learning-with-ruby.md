@@ -123,7 +123,7 @@ programming languages with appropriate bindings for Ruby.
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to [Scikit-Learn][scikit] in Python.
-- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:452
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:451
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
@@ -391,7 +391,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:497
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:496
 - [Kiba](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -

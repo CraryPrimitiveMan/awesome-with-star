@@ -84,7 +84,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js. :star:3
 * [RadioDNS Manager](https://github.com/ebu/radiodns-manager) - Platform to manage Hybrid Radio services, e.g. RadioVIS, RadioEPG and Service Following. :star:13
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript. :star:6
-* [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python. :star:16
+* [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python. :star:15
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket. :star:11
 * [RadioVIS Stomp Server](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js. :star:5
 
@@ -103,10 +103,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Media Players
 
-* [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. :star:9
+* [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. :star:8
 * [GPAC](https://gpac.wp.imt.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
-* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:9394
+* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media. :star:9399
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility. :star:4
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
@@ -130,7 +130,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Monitoring & Quality Control
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment. :star:53
-* [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK. :star:30
+* [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK. :star:31
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC). :star:33
@@ -151,24 +151,24 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python. :star:86
 * [Beam Coder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams. :star:44
-* [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools. :star:671
+* [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools. :star:672
 * [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes. :star:27
 * [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage. :star:109
 * [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
-* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:1130
+* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor. :star:1131
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON. :star:10
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
-* [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support. :star:146
+* [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support. :star:147
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
 * [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
-* [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation. :star:198
+* [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation. :star:197
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness. :star:8
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS). :star:647
 * [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording. :star:14148
+* [OBS-Studio](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording. :star:14169
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go. :star:96
@@ -182,7 +182,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](https://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
-* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1801
+* [Fio](https://github.com/axboe/fio) - Flexible I/O Tester :star:1803
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110. :star:19
 
@@ -191,12 +191,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Airtime](https://github.com/sourcefabric/airtime) - Radio management application for remote broadcast automation (via web-based schedule). :star:552
 * [Ardour](https://ardour.org/) - A digital audio workstation.
 * [Audacity](https://www.audacityteam.org/) - Cross-platform software for recording and editing sounds.
-* [AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:585
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite. :star:587
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
-* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)). :star:493
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)). :star:492
 * [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive. :star:12
-* [Rivendell](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.  :star:78
+* [Rivendell](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.  :star:77
 
 ## Software-defined radio
 
@@ -209,7 +209,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Subtitling
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
-* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js](https://github.com/ebu/dash.js). :star:9
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js](https://github.com/ebu/dash.js). :star:8
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380. :star:6
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles. :star:16
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles. :star:11
@@ -221,7 +221,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Video Production
 
-* [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols. :star:143
+* [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols. :star:146
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS. :star:7
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators. :star:7

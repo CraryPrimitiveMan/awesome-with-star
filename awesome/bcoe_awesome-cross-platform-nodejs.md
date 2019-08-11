@@ -34,7 +34,7 @@
 
 - [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 - [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code. :star:937
-- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2082
+- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2085
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
 ## Applications
@@ -42,10 +42,10 @@
 ### Development environment
 
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer. :star:9688
-- [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux. :star:11724
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1865
-- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm. :star:2562
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer. :star:9707
+- [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux. :star:11733
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1866
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm. :star:2564
 
 ### Continuous integration
 
@@ -69,7 +69,7 @@
 
 ### Databases
 
-- [Redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. :star:717
+- [Redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. :star:719
 
 ## Libraries
 
@@ -83,18 +83,18 @@
 
 ### Shell
 
-- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`. :star:2437
+- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`. :star:2441
 - [gulp-execa](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js. :star:37
-- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`. :star:606
-- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands. :star:10041
-- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc). :star:1757
+- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`. :star:605
+- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands. :star:10045
+- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc). :star:1759
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks. :star:445
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks. :star:361
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste. :star:332
 
 ### Environment
 
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4035
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4043
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform. :star:135
 - [username](https://github.com/sindresorhus/username) - Get the current username. :star:103
 - [osenv](https://github.com/npm/osenv) - Cross-platform environment variables. :star:124
@@ -104,18 +104,18 @@
 ### Filesystem
 
 - [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform. :star:994
-- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`. :star:383
+- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`. :star:384
 - [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`. :star:235
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform. :star:226
-- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching. :star:5657
-- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows. :star:873
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform. :star:227
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching. :star:5664
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows. :star:874
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object. :star:4
-- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`. :star:79
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`. :star:80
 
 ### Signals
 
-- [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform. :star:486
-- [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler. :star:101
+- [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform. :star:487
+- [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler. :star:102
 
 ### Processes
 
@@ -129,7 +129,7 @@
 ### Desktop UI
 
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform. :star:1617
-- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications. :star:3834
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications. :star:3841
 
 ### Windows registry
 
@@ -139,13 +139,13 @@
 
 ## Known issues
 
-- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - By default, `cmd.exe` does not display Unicode characters on Windows. :star:35427
-- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux. :star:35427
+- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - By default, `cmd.exe` does not display Unicode characters on Windows. :star:35423
+- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux. :star:35423
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - Depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior. :star:27
 
 ## See also
 
-- [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop. :star:260
+- [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop. :star:261
 
 ## Support
 

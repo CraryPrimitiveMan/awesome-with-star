@@ -79,8 +79,8 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
-- [grbl](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino. :star:3166
-- [cncjs](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware. :star:830
+- [grbl](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino. :star:3168
+- [cncjs](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware. :star:831
 - [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js-based G-code interpreter and simulator. :star:18
 - [svg2gcode](https://github.com/em/svg2gcode) - Node.js-based command line utility for converting SVG to G-code. :star:35
 - [svg2gcode](https://github.com/vishpat/svg2gcode) - Python-based utility for fast SVG to G-code conversion. :star:46
@@ -101,7 +101,7 @@ Software that is specific to a particular plotter or controller.
 - [@beardicus/line-us](https://github.com/beardicus/line-us) - JavaScript library for controlling the [Line-us](https://www.line-us.com) machine from Node or the browser. :star:9
 - [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware. :star:71
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot. :star:57
-- [RoboPaint](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot. :star:88
+- [RoboPaint](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot. :star:87
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing. :star:5
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control. :star:135
 - [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper. :star:64
@@ -116,7 +116,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 - [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 - [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. :star:2462
-- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics. :star:118
+- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics. :star:120
 - [stipplegen](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 - [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves". :star:111
 - [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
@@ -138,10 +138,10 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 Tools to manipulate and optimize vector-based file formats.
 
 - [svgsort](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up. :star:99
-- [svgo](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files. :star:12373
+- [svgo](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files. :star:12385
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph. :star:49
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time. :star:44
-- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document. :star:745
+- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document. :star:744
 
 ### Fonts
 
@@ -198,7 +198,7 @@ Where to find other plotter and drawbot friends.
 ## Other Awesomes
 
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) :star:698
-- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) :star:5138
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) :star:5192
 
 ## License
 

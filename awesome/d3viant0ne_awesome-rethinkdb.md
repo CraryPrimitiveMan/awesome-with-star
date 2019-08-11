@@ -52,12 +52,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
-- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:858
+- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support. :star:857
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 
 ##### ORM
 
-- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1104
+- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB :star:1103
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM. :star:34
  - Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### ORM
 
-- [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python. :star:188
+- [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python. :star:187
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 - [Rethink](https://github.com/caoimhghin/rethink) - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB. :star:14
  - Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
@@ -116,7 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### ORM
 
-- [NoBrainer](https://github.com/nviennot/nobrainer) - Ruby ORM for RethinkDB. :star:384
+- [NoBrainer](https://github.com/nviennot/nobrainer) - Ruby ORM for RethinkDB. :star:383
  - Maintainer: `Nicolas Viennot`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/nviennot) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nviennot)
 
 ##### Technology Integrations
@@ -164,15 +164,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++. :star:82
 - [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:187
 - [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3. :star:32
-- [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:497
-- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1463
-- [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:92
+- [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:496
+- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1462
+- [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:91
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp. :star:42
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua. :star:34
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.  :star:13
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver. :star:22
-- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:335
-- [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:99
+- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:334
+- [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:98
 
 **[Back to top](#table-of-contents)**
 
@@ -205,7 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### RethinkDB Examples
 
-- [RethinkDB NodeJS Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat) - A node.js chat application running on rethinkdb. :star:199
+- [RethinkDB NodeJS Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat) - A node.js chat application running on rethinkdb. :star:197
 - [RethinkDB Flask Backbone ToDo](https://github.com/rethinkdb/rethinkdb-example-flask-backbone-todo) - A canonical backbone todo application running on flask and RethinkDB. :star:118
 - [RethinkDB ccoenraets/nodecellar Fork](https://github.com/rethinkdb/nodecellar-rethinkdb) - Sample app built with Backbone.js,Bootstrap, Node.js, Express, RethinkDB. :star:12
 - [RethinkDB PubNub Live Blog](https://github.com/rethinkdb/rethinkdb-pubnub-liveblog) - PubNub / Express Blog Example App. :star:20
@@ -215,14 +215,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Community Examples
 
-- [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets. :star:67
+- [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets. :star:66
 - [RethinkDB Reactjs](https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (Rails) + Server Side Events. :star:24
 - [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB :star:25
 - [Boot RethinkDB](https://github.com/geowarin/boot-rethinkdb) - Chat example with spring boot and RethinkDB. :star:37
 - [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application. :star:66
-- [Meguca](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB. :star:210
+- [Meguca](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB. :star:211
 - [VueJS RethinkDB](https://github.com/alexcheninfo/vuejs-rethinkdb-example) - Vuejs + Express + RethinkDB example. :star:60
-- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:862
+- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:861
 - [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) - A Meteor and RethinkDB Example Using GraphQL. :star:45
 
 **[Back to top](#table-of-contents)**
@@ -232,7 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Administrative Tools
 
-- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:195
+- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB. :star:194
 - [RethinkDB CLI](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb. :star:18
 - [RethinkDB Nightly](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 
@@ -240,9 +240,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [Vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant. :star:47
 - [Puppet](https://github.com/tmont/puppet-rethinkdb) - Puppet module for RethinkDB. :star:4
-- [Chef](https://github.com/AVVSDevelopment/chef-rethinkdb) - Chef RethinkDB cookbook. :star:15
+- [Chef](https://github.com/AVVSDevelopment/chef-rethinkdb) - Chef RethinkDB cookbook. :star:14
 - [Wrecker](https://github.com/mies/box-rethinkdb) - Wercker box for RethinkDB. :star:10
-- [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) - Single node Dockerfile. :star:293
+- [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) - Single node Dockerfile. :star:292
 
 <br>
 > <h3>License</h3>

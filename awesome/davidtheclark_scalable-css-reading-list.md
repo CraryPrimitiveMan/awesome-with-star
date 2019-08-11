@@ -19,7 +19,7 @@ Included are resources that articulate key principles and practices. The list is
 
 Newest on top, oldest on bottom. (A note for you outside the US: my dates are month/day/year format.)
 
-- [8 rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md), by Jarno Rantanen (10/16/2016) :star:2132
+- [8 rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md), by Jarno Rantanen (10/16/2016) :star:2133
 - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css), by Jonathan Snook (5/17/16)
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/), by Adam Morse (3/24/16)
 - [Can CSS Be Too Modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/), by Harry Roberts (3/8/15)
@@ -56,7 +56,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 
 - [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 - [Bootstrap](http://mdo.github.io/code-guide/#css)
-- [SUIT](https://github.com/suitcss/suit/blob/master/doc/STYLE.md#4-css) :star:3630
+- [SUIT](https://github.com/suitcss/suit/blob/master/doc/STYLE.md#4-css) :star:3629
 - [Github](https://github.com/styleguide/css)
 - [Medium](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google](https://google.github.io/styleguide/htmlcssguide.xml#CSS_Style_Rules)

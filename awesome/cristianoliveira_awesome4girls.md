@@ -75,7 +75,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
-  - [Js4Girls](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only* :star:108
+  - [Js4Girls](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only* :star:107
 
     A Brazilian initiative to provide free javascript classes to women in a male-free environment.
 
@@ -563,7 +563,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Other Lists
 ([Go to top](#awesome4girls---))
 
-  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:406
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) :star:407
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 

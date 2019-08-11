@@ -605,19 +605,19 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ## Translations
 
-* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) :star:13836
-* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW) :star:13836
-* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE) :star:13836
-* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES) :star:13836
-* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR) :star:13836
-* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND) :star:13836
-* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT) :star:13836
-* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP) :star:13836
-* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR) :star:13836
-* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL) :star:13836
-* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR) :star:13836
-* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT) :star:13836
-* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU) :star:13836
+* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) :star:13837
+* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW) :star:13837
+* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE) :star:13837
+* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES) :star:13837
+* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR) :star:13837
+* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND) :star:13837
+* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT) :star:13837
+* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP) :star:13837
+* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR) :star:13837
+* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL) :star:13837
+* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR) :star:13837
+* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT) :star:13837
+* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU) :star:13837
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

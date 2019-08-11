@@ -20,7 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Chat](https://gitter.im/dthree/vorpal)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
-- [Wiki](https://github.com/dthree/vorpal/wiki) :star:5140
+- [Wiki](https://github.com/dthree/vorpal/wiki) :star:5139
 
 ## Tutorials
 
@@ -36,18 +36,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7635
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck. :star:7634
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
-- [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI. :star:377
+- [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI. :star:378
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:100
 - [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI. :star:82
-- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:428
+- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:427
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI. :star:7
 - [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy. :star:26
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes. :star:62
-- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3447
-- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:26
+- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3446
+- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:27
 - [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV. :star:22
 - [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more :star:24
 - [lifxsh](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights. :star:5
@@ -63,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Development tools
 
-- [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:16
+- [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context. :star:17
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app. :star:16
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime. :star:2
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility. :star:11

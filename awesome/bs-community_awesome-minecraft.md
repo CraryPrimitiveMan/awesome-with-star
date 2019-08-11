@@ -47,7 +47,7 @@
 
 ### Mod Loader
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3258
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3262
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place. :star:24
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent. :star:4
@@ -76,7 +76,7 @@
 - [Botania](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic. :star:666
 - [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - A server-friendly and content-rich blend of magic and technology!
 - [Ender IO](https://github.com/CrazyPants/EnderIO) - Ender IO is a full-sized tech-mod. :star:536
-- [Railcraft](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft. :star:396
+- [Railcraft](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft. :star:394
 
 ### Farming And Food
 
@@ -85,7 +85,7 @@
 ### Energy
 
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
-- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:621
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:620
 
 ### Tweaking
 
@@ -93,7 +93,7 @@
 
 ## Server Plugins
 
-- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players. :star:17
+- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players. :star:18
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers. :star:244
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like. :star:8
 
@@ -111,8 +111,8 @@
 
 ### Launchers
 
-- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:977
-- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1566
+- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:981
+- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1571
 
 ## Development
 

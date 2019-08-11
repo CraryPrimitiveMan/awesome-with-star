@@ -309,7 +309,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 
 #### Angular
 
-- [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) - A Webpack driven Angular 2 Starter kit from [AngularClass](https://github.com/AngularClass). :star:10287
+- [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) - A Webpack driven Angular 2 Starter kit from [AngularClass](https://github.com/AngularClass). :star:10286
 - [Angular2 Webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using Webpack from [Preboot](https://github.com/preboot). :star:1345
 - [Angular2 Webpack Visual Studio](https://github.com/damienbod/Angular2WebpackVisualStudio) - ASP.NET Core, Angular2 with Webpack and Visual Studio from [Damien Bod](https://github.com/damienbod). :star:485
 - [Angular2 Starter](https://github.com/schempy/angular2-typescript-webpack) - Angular2 starter kit with Typescript and Webpack from [Brian Schemp](https://github.com/schempy). :star:71
@@ -323,12 +323,12 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 
 #### React
 
-- [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration from [Dan Abramov](https://github.com/gaearon). :star:70427
-- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate from [Kriasoft Team](https://github.com/kriasoft). :star:19413
-- [React Redux Universal](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp from [Erik Rasmussen](https://github.com/erikras). :star:11776
+- [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration from [Dan Abramov](https://github.com/gaearon). :star:70524
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate from [Kriasoft Team](https://github.com/kriasoft). :star:19420
+- [React Redux Universal](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp from [Erik Rasmussen](https://github.com/erikras). :star:11774
 - [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) - A boilerplate of things that mostly shouldn't exist from [TJ Holowaychuk](https://github.com/tj). :star:3018
-- [ReactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux from [Ken Ding](https://github.com/choonkending). :star:2619
-- [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon). :star:4843
+- [ReactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux from [Ken Ding](https://github.com/choonkending). :star:2620
+- [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon). :star:4844
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez). :star:207
 - [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application. :star:1712
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg). :star:946

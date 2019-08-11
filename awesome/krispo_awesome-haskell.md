@@ -57,9 +57,9 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
 * [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 * [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-* [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed. :star:120
-* [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project. :star:3157
-* [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage. :star:395
+* [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed. :star:119
+* [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project. :star:3159
+* [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage. :star:394
 * [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ## Algorithmics
@@ -287,7 +287,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
     ---
 *Additional libraries*
-* [HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell. :star:143
+* [HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell. :star:142
 * [hoauth2](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding. :star:103
 
 ## Text Processing
@@ -319,7 +319,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     ---
 *Additional languages on top of Haskell*
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2942
+* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2944
 * [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
 
 ## Operating Systems
@@ -368,7 +368,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 * [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit). :star:648
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
-* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes). :star:400
+* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes). :star:399
 
 # Resources
 
@@ -396,7 +396,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:6294
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:6296
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
 * [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!
@@ -406,7 +406,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     ### Web Tutorials 
     * [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
     * [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
-    * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples) :star:1338
+    * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples) :star:1337
     * [Getting Started](https://www.spock.li/tutorials/getting-started)
     * [Developing Web Applications with Yesod and Haskell](https://www.yesodweb.com/book-1.6)
 

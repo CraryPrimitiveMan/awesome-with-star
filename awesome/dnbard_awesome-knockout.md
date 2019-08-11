@@ -3,22 +3,22 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:9560
-- [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1072
-- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications :star:1776
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:9558
+- [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1071
+- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications :star:1775
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:96
 
 ## Integrations
 - Jquery[UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
-- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:279
-- [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers :star:238
-- [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC :star:202
-- [Rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails :star:103
+- [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets :star:278
+- [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers :star:237
+- [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC :star:203
+- [Rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails :star:102
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge :star:67
 
 ## Plugins and libraries
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS :star:556
-- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:1025
+- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:1024
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality :star:539
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:286
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates :star:233
@@ -28,8 +28,8 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Projections](https://github.com/profiscience/ko-projections) - Adds lodash FP chainability to observable arrays :star:4
 - [Viewmodel](https://github.com/coderenaissance/knockout.viewmodel) - Flexible way to create a knockout viewmodel :star:112
 - [Observable Dictionary](https://github.com/jamesfoster/knockout.observableDictionary) - An implementation of an observable dictionary :star:83
-- [Model](https://github.com/thelinuxlich/knockout.model) - A base model for Knockout.js entities :star:62
-- [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js :star:58
+- [Model](https://github.com/thelinuxlich/knockout.model) - A base model for Knockout.js entities :star:61
+- [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js :star:57
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions :star:65
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js :star:69
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps :star:69
@@ -41,7 +41,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout :star:88
 
 ## Components
-- [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage :star:85
+- [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage :star:84
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js :star:14
 
 ## Examples

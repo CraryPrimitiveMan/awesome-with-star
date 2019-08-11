@@ -28,8 +28,8 @@ General purpose icons used everywhere.
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
-- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each. :star:8012
-- [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS. :star:5278
+- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each. :star:8013
+- [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS. :star:5277
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 
@@ -37,7 +37,7 @@ General purpose icons used everywhere.
 
 Logos of different brands or companies or technologies.
 
-- [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos. :star:4969
+- [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos. :star:4968
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies. :star:787
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
@@ -49,7 +49,7 @@ Logos of different brands or companies or technologies.
 Icons that are not general or logos, but something special.
 
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web. :star:2325
-- [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world. :star:1913
+- [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world. :star:1912
 
 
 ## Other

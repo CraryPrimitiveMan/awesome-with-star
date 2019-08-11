@@ -100,7 +100,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 ## Newsletter
 
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter. :star:17
+- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter. :star:18
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - List of every newsletter published from the start, November 2016.
 
 ## News

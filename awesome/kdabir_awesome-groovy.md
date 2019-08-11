@@ -28,7 +28,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
-* [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:178
+* [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:180
 * [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:573
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1529
@@ -43,19 +43,19 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:457
-* [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:230
-* [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1811
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:456
+* [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:229
+* [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:46
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1810
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:45
 * [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
-* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:179
+* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver :star:178
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts :star:73
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB :star:142
-* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:85
+* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase :star:84
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned) :star:6
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client :star:40
 
@@ -90,11 +90,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Sonar-Groovy](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin :star:47
 
 ## Transpilers
-* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:206
+* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:205
 
 ## Static Web
 * [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:146
-* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:146
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:145
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:62
@@ -108,7 +108,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library. :star:4
 
 ## File System Utilities
-* [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2 :star:60
+* [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2 :star:59
 * [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files :star:11
 
 ## File Format DSL
@@ -119,7 +119,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin :star:7
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories :star:14
-* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more. :star:1391
+* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more. :star:1395
 * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:304
 
 
@@ -131,7 +131,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:3337
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:3336
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

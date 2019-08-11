@@ -109,19 +109,19 @@ or just say ‘Hi’._
 _Some people store their full Home Assistant configuration on GitHub. They are
 an awesome source for learning and a great source of inspiration._
 
-* [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there. :star:2146
-* [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer shares his configuration files. :star:160
+* [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there. :star:2151
+* [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer shares his configuration files. :star:161
 * [geekofweek](https://github.com/geekofweek/homeassistant) - Has over 300+ automations. :star:515
-* [Isabella Gross Alström](https://github.com/isabellaalstrom/home-assistant-config) - Hass.io, Intel NUC, Ubuntu, Docker, Lovelace UI. :star:65
+* [Isabella Gross Alström](https://github.com/isabellaalstrom/home-assistant-config) - Hass.io, Intel NUC, Ubuntu, Docker, Lovelace UI. :star:71
 * [Mahasri Kalavala](https://github.com/skalavala/mysmarthome) - Impressive setup, with lots of different hardware working together. :star:29
-* [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) - Complete setup which uses AppDaemon and HA Floorplan as well. :star:338
+* [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) - Complete setup which uses AppDaemon and HA Floorplan as well. :star:339
 * [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) - Runs two instances that work together. :star:80
-* [Alok Saboo](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated. :star:907
+* [Alok Saboo](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated. :star:909
 * [Aaron Bach](https://github.com/bachya/smart-home) - Also known as bachya. Regularly updated and includes numerous Dockerized services. :star:126
-* [James McCarthy](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Well documented, 3 instances & automations in YAML & Node-RED. :star:703
-* [Franck Nijhof](https://github.com/frenck/home-assistant-config) - Hass.io based, very different configuration structure compared to others. :star:354
+* [James McCarthy](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Well documented, 3 instances & automations in YAML & Node-RED. :star:704
+* [Franck Nijhof](https://github.com/frenck/home-assistant-config) - Hass.io based, very different configuration structure compared to others. :star:360
 * [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) - Hass.io based, focused on touchscreen usage. :star:51
-* [Klaas Schoute](https://github.com/klaasnicolaas/Smarthome-homeassistant-config) - Hass.io based, Intel NUC, Ubuntu Server, Docker and regularly updated. :star:76
+* [Klaas Schoute](https://github.com/klaasnicolaas/Smarthome-homeassistant-config) - Hass.io based, Intel NUC, Ubuntu Server, Docker and regularly updated. :star:77
 * [Jason Hunter](https://github.com/hunterjm/home-assistant-config) - Hass.io based, Intel NUC i5, TensorFlow & camera streams. :star:11
 
 ## Hass.io
@@ -151,16 +151,16 @@ _Anyone could create an add-on, the following are created by the community._
 
 * [SSH & Web Terminal](https://github.com/hassio-addons/addon-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools. :star:35
 * [Pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Network-wide ad blocking. :star:90
-* [UniFi Controller](https://github.com/hassio-addons/addon-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser. :star:24
+* [UniFi Controller](https://github.com/hassio-addons/addon-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser. :star:25
 * [Node-RED](https://github.com/hassio-addons/addon-node-red) - Flow-based programming for the Internet of Things. :star:73
 * [Plex Media Server](https://github.com/hassio-addons/addon-plex) - Your recorded media beautifully organized and ready to stream. :star:17
 * [IDE](https://github.com/hassio-addons/addon-ide) - Advanced web-based IDE, based on Cloud9 IDE. :star:51
-* [Dasshio](https://github.com/danimtb/dasshio) - Easily use your Amazon Dash Buttons. :star:102
+* [Dasshio](https://github.com/danimtb/dasshio) - Easily use your Amazon Dash Buttons. :star:103
 * [InfluxDB](https://github.com/hassio-addons/addon-influxdb) - Scalable datastore for metrics, events, and real-time analytics. :star:34
 * [Grafana](https://github.com/hassio-addons/addon-grafana) - Open platform for beautiful analytics and monitoring. :star:44
 * [Tor](https://github.com/hassio-addons/addon-tor) - Protect your privacy and access your instance via Tor. :star:11
 * [Spotify Connect](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect client for playing music on your Home Assistant device. :star:22
-* [zigbee2mqtt](https://github.com/danielwelch/hassio-zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. :star:208
+* [zigbee2mqtt](https://github.com/danielwelch/hassio-zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. :star:209
 * [AppDaemon3](https://github.com/hassio-addons/addon-appdaemon3) - Python Apps and HADashboard. :star:33
 * [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin) - Centrally manage all your Sonoff-Tasmota devices. :star:66
 * [Aircast](https://github.com/hassio-addons/addon-aircast) - AirPlay capabilities for your Chromecast players. :star:41
@@ -177,7 +177,7 @@ _Anyone could create an add-on, the following are created by the community._
 * [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control. :star:17
 * [Traccar](https://github.com/hassio-addons/addon-traccar) - Traccar is modern GPS Tracking Platform. :star:17
 * [Home Panel](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home. :star:45
-* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy to configure solution for backing up your snapshots to Google Drive. :star:336
+* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy to configure solution for backing up your snapshots to Google Drive. :star:342
 * [Grocy](https://github.com/hassio-addons/addon-grocy) - ERP beyond your fridge! A groceries & household management solution for your home. :star:30
 
 ## Lovelace User Interface
@@ -206,7 +206,7 @@ _It is all about the looks, apply some style._
 * [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) - Give your frontend a vintage look with this theme by Anup Surendran.
 * [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
 * [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) - 20 Great themes by JuanMTech (includes a guide).
-* [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) - 13 Themes in a convenient ZIP file. :star:113
+* [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) - 13 Themes in a convenient ZIP file. :star:114
 
 ### Custom Lovelace UI Cards
 
@@ -219,32 +219,32 @@ easily add to your instance._
 * [Big Number Card](https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card) - Display big numbers for sensors, including severity level as background. :star:524
 * [Animated Weather Card](https://github.com/bramkragten/custom-ui/blob/master/weather-card/README.md) - Nice looking card showing the weather, with subtle animations. :star:141
 * [Thermostat Card](https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card) - Thermostat control card that looks like a Nest Thermostat. :star:524
-* [Mini Media Player](https://github.com/kalkih/mini-media-player) - A minimalistic media player card. :star:403
-* [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card. :star:428
-* [Button card](https://github.com/kuuji/button-card) - Button card for your entities. :star:228
+* [Mini Media Player](https://github.com/kalkih/mini-media-player) - A minimalistic media player card. :star:404
+* [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card. :star:434
+* [Button card](https://github.com/kuuji/button-card) - Button card for your entities. :star:230
 * [Slideshow card](https://github.com/zsarnett/slideshow-card) - Dynamic slideshow of images or cards. :star:12
 * [Swiper card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - Flick/swipe through multiple cards.
-* [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards. :star:190
+* [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards. :star:191
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - An intuitive way to represent the power that your home is consuming or producing. :star:24
 * [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) - A simpler and more flexible thermostat card. :star:124
-* [Compact Custom Header](https://github.com/maykar/compact-custom-header) - Customize and compact the frontend header bar. :star:217
+* [Compact Custom Header](https://github.com/maykar/compact-custom-header) - Customize and compact the frontend header bar. :star:216
 * [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - Style your Lovelace cards. :star:94
 * [Bar Card](https://github.com/Gluwc/bar-card) - Customizable animated bar card. :star:56
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - A nice Google calendar card. :star:87
 * [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) - Control a forked daapd instance. :star:27
 * [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) - Shows two gauges in one. :star:31
-* [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - Calendar card with advanced settings. :star:47
+* [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - Calendar card with advanced settings. :star:48
 * [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - Detailed card for Xiaomi vacuum cleaners (and others). :star:30
-* [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - A minimalistic weather card, inspired by Google Material Design. :star:37
-* [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) - Interaction with your entities from a Floorplan. :star:61
+* [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - A minimalistic weather card, inspired by Google Material Design. :star:38
+* [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) - Interaction with your entities from a Floorplan. :star:62
 * [Home Card](https://github.com/postlund/home-card) - A quick glance of the state of your home. :star:48
-* [Banner Card](https://github.com/nervetattoo/banner-card) - A fluffy linkable banner with interactive glances to spice up your home dashboards. :star:84
+* [Banner Card](https://github.com/nervetattoo/banner-card) - A fluffy linkable banner with interactive glances to spice up your home dashboards. :star:85
 * [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) - Display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt. :star:80
-* [Spotify Card](https://github.com/custom-cards/spotify-card) - List and select from current available devices and users top playlists on Spotify. :star:46
+* [Spotify Card](https://github.com/custom-cards/spotify-card) - List and select from current available devices and users top playlists on Spotify. :star:48
 * [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) - Displaying battery levels for battery entities. :star:36
 * [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states or attributes on entity rows. :star:29
 * [Toggle Lock Entity Row](https://github.com/thomasloven/lovelace-toggle-lock-entity-row) - Display a toggle with a lock, avoiding toggling it by mistake. :star:50
-* [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) - Interactive Xiaomi Vacuum map, just like in Mi Home app. :star:37
+* [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) - Interactive Xiaomi Vacuum map, just like in Mi Home app. :star:38
 * [Home Feed Card](https://github.com/gadgetchnnel/lovelace-home-feed-card) - Display a combination of persistent notifications, calendar events, and entities in the style of a feed. :star:28
 * [Config Template Card](https://github.com/custom-cards/config-template-card) - Allow using templates in Lovelace. :star:56
 
@@ -256,21 +256,21 @@ easily add to your instance._
 
 _Additional components for Home Assistant, that were created by the community._
 
-* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - Enables the use of Philips Hue sensors. :star:273
+* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - Enables the use of Philips Hue sensors. :star:275
 * [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - Converts a device tracker location into a human-readable address. :star:78
 * [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - Integrates Lutron Caseta Smart Bridge PRO / RA2 Select. :star:77
 * [SmartIR](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR. :star:227
 * [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) - Sensor platform for Xiaomi Mijia BT Hygrothermo temperature and humidity sensor. :star:68
 * [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Integrates Volkswagen Carnet (requires valid Carnet subscription). :star:41
 * [Untappd](https://github.com/custom-components/sensor.untapped) - Connects with your Untappd account. :star:16
-* [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch. :star:23
-* [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) - Control Sonoff/eWeLink smart devices using the stock firmware. :star:279
-* [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) - Allow control of Amazon Alexa devices. :star:286
-* [iCloud3](https://github.com/gcobb321/icloud3) - Improved version of the iCloud device tracker component with a lot of capabilities. :star:63
+* [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch. :star:24
+* [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) - Control Sonoff/eWeLink smart devices using the stock firmware. :star:282
+* [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) - Allow control of Amazon Alexa devices. :star:290
+* [iCloud3](https://github.com/gcobb321/icloud3) - Improved version of the iCloud device tracker component with a lot of capabilities. :star:65
 * [HACS](https://custom-components.github.io/hacs/) - This is a manager for your custom integration (components) and plugin (lovelace elements) needs.
 * [breaking_changes](https://github.com/custom-components/breaking_changes) - Component to show potential breaking_changes in the current published version based on your loaded components. :star:25
-* [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - Circadian Lighting slowly synchronizes your color changing lights with the regular naturally occuring color temperature of the sky throughout the day. :star:52
-* [HASS Aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells.  :star:49
+* [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - Circadian Lighting slowly synchronizes your color changing lights with the regular naturally occuring color temperature of the sky throughout the day. :star:54
+* [HASS Aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells.  :star:50
 
 ## DIY
 
@@ -279,13 +279,13 @@ could also build them yourself!_
 
 * [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
 * [Magic Cards](https://github.com/maddox/magic-cards) - RFID scannable cards that you can program to do anything. :star:233
-* [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Firmware for ESP8266 boards and devices. :star:7430
+* [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Firmware for ESP8266 boards and devices. :star:7450
 
 ### DIY Gateways
 
-* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors. :star:1132
+* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors. :star:1134
 * [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) - Alternative hub for Milight/LimitlessLED devices that uses MQTT. :star:473
-* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. :star:2704
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges. :star:2710
 
 ### DIY Projects
 
@@ -357,21 +357,21 @@ _Valuable links, that don't fit in any of the above categories (yet!)._
 * [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) - iPhone/iPad/iOS App to control and monitor your home remotely.
 * [Mi Flora via MQTT daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Collect and transfer Xiaomi Mi Flora plant sensor data via MQTT. :star:251
 * [hassctl](https://github.com/dale3h/hassctl) - Simple command line utility to help debug your configuration. :star:70
-* [rhasspy](https://github.com/synesthesiam/rhasspy) - Toolkit for developing custom voice assistants. :star:58
+* [rhasspy](https://github.com/synesthesiam/rhasspy) - Toolkit for developing custom voice assistants. :star:59
 * [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) - Highly configurable Android Kiosk Browser and App Launcher.
 * [Hassio Vagrant](https://github.com/hassio-addons/hassio-vagrant) - Vagrant box original created for developing add-ons. :star:32
-* [AppDaemon](https://github.com/home-assistant/appdaemon) - Python Apps for Home Assistant. :star:357
+* [AppDaemon](https://github.com/home-assistant/appdaemon) - Python Apps for Home Assistant. :star:359
 * [Developer Documentation](https://developers.home-assistant.io/) - The official developer documentation.
 * [HASS Configurator](https://github.com/danielperna84/hass-configurator) - Browser-based configuration file editor. :star:161
 * [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) - A Node.js service for RESTful switches to control Docker containers. :star:95
-* [Python Amazon Dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want. Without welders. :star:519
+* [Python Amazon Dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want. Without welders. :star:520
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HomeKit to MQTT bridge. :star:212
 * [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
 * [Jinja Scripts for Curious Minds](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers) - Bunch of Jinja2 scripts helping you to understand it better. :star:29
 * [WallPanel](https://thanksmister.com/wallpanel-android/) - Android application for web-based dashboards and home automation platforms.
 * [Ariela](https://play.google.com/store/apps/details?id=com.surodev.ariela) - Freemium Android client application with widget support.
 * [Gitlab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD
-* [Monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via MQTT. :star:469
+* [Monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via MQTT. :star:471
 * [HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your database data. :star:70
 * [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
 * [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editting your configuration.
@@ -382,8 +382,8 @@ _Home Assistant isn't the only home automation framework out there, here
 are some alternatives._
 
 * [openHAB](https://github.com/openhab) - Java-based and aims at being a universal integration platform.
-* [Domoticz](https://github.com/domoticz/domoticz) - A lightweight Home Automation System. :star:2214
-* [Gladys](https://github.com/GladysProject/Gladys) - Open source program which runs on your Raspberry Pi. :star:1206
+* [Domoticz](https://github.com/domoticz/domoticz) - A lightweight Home Automation System. :star:2215
+* [Gladys](https://github.com/GladysProject/Gladys) - Open source program which runs on your Raspberry Pi. :star:1208
 * [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
 
 ## Other Awesome Lists
@@ -392,10 +392,10 @@ _Other amazingly awesome lists that can be found on the great and dangerous
 interwebs._
 
 * [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things. :star:163
-* [awesome-iot](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources. :star:1559
-* [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - Curated list of open source IoT frameworks, libraries and software. :star:353
-* [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Curated list of awesome resources for the Amazon Alexa platform. :star:394
-* [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt#readme) - Curated list of MQTT related stuff. :star:961
+* [awesome-iot](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources. :star:1561
+* [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - Curated list of open source IoT frameworks, libraries and software. :star:354
+* [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Curated list of awesome resources for the Amazon Alexa platform. :star:393
+* [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt#readme) - Curated list of MQTT related stuff. :star:964
 
 ## Contributing
 

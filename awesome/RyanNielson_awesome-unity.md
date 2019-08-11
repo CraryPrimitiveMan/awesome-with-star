@@ -40,7 +40,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
-* [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games. :star:350
+* [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games. :star:351
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
 * [Unity Anima2D](https://www.assetstore.unity3d.com/en/#!/content/79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
@@ -50,13 +50,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
-* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:252
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:253
 
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
-* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2829
+* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2830
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
@@ -65,7 +65,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Character Controllers
 
-* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component. :star:721
+* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component. :star:718
 
 ## Frameworks
 
@@ -77,8 +77,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:642
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:56
-* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:675
-* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:1217
+* [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:674
+* [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:1218
 
 ## Modeling
 * [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
@@ -103,7 +103,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
-* [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple. :star:494
+* [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple. :star:493
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
@@ -120,12 +120,12 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views. :star:26
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:3611
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:3614
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1236
 
 ## Video
 
-* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo. :star:97
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo. :star:98
 
 ## Visual Scripting
 

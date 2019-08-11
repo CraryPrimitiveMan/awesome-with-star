@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:50169
+* [Official GitHub Repo](https://github.com/angular/angular) :star:50197
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -148,10 +148,10 @@ Table of contents:
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:1071
-* [react-native-renderer](https://github.com/angular/react-native-renderer) :star:795
+* [react-native-renderer](https://github.com/angular/react-native-renderer) :star:794
 
 ### Angular 2 Components
-* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2) :star:19
+* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2) :star:18
 * [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:4829
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3 :star:270
 * [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:109
@@ -250,13 +250,13 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Haxe Angular 2 Online Playground
 
 #### Haxe Seed Projects
-* [angular2haxe](https://github.com/nweedon/angular2haxe) :star:28
+* [angular2haxe](https://github.com/nweedon/angular2haxe) :star:27
 
 ### Angular 2 in Scala
 > General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
 
 #### Scala Seed Projects
-* [play-angular2](https://github.com/gdi2290/play-angular2) :star:10
+* [play-angular2](https://github.com/gdi2290/play-angular2) :star:9
 
 ### Platforms
 
@@ -270,7 +270,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
 
 #### NativeScript Seed Projects
-* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:48
+* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:47
 
 #### Angular 2 in React Native
 > React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript

@@ -36,7 +36,7 @@ A curated list of awesome Dash (plotly) resources
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Core Components](https://github.com/plotly/dash-core-components) :star:158
-- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:88
+- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:89
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components. :star:18
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:51
 - [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component. :star:1
@@ -64,7 +64,7 @@ A curated list of awesome Dash (plotly) resources
 
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
-- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:481
+- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:483
 
 ## Talks
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).

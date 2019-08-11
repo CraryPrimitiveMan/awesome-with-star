@@ -124,16 +124,16 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C :star:10071
+- [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C :star:10080
 - [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
-- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:19867
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript :star:19871
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs. :star:309
 - [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures. :star:20
 
 ## Program analysis
-- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. :star:988
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. :star:987
 - [BinCat](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit. :star:882
-- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables. :star:141
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables. :star:142
 
 ## Compilers and Compiler Tools
 
@@ -210,7 +210,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Datetime
 
-- [ISO8601](https://github.com/sagotch/ISO8601.ml) :star:14
+- [ISO8601](https://github.com/sagotch/ISO8601.ml) :star:13
 - [calendar](http://calendar.forge.ocamlcore.org/)
 - [odate](https://github.com/hhugo/odate) :star:14
 - [ptime](http://erratique.ch/software/ptime)
@@ -222,7 +222,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [Jupyter](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
 - [utop](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
-- [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code. :star:279
+- [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code. :star:280
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
@@ -236,8 +236,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs. :star:249
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:80855
-  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) :star:80855
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) :star:80983
+  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) :star:80983
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin) :star:10
   - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
@@ -301,8 +301,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 - [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
-- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images. :star:188
-- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml. :star:24
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images. :star:187
+- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml. :star:25
 
 
 ## Language-related
@@ -436,7 +436,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
-- [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work. :star:111
+- [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work. :star:110
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library. :star:10
 - [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations. :star:62
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
@@ -532,7 +532,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project. :star:11
-  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way. :star:4356
+  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way. :star:4355
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
   - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
@@ -542,7 +542,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup. :star:225
   - [Markup.ml](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers. :star:99
-  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries. :star:89
+  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries. :star:88
 
 - **Open Source Projects**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen

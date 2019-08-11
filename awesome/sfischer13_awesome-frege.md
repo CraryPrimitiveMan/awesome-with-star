@@ -52,19 +52,19 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Frege](https://github.com/Frege/frege) - Official website. :star:3228
+- [Frege](https://github.com/Frege/frege) - Official website. :star:3229
 
 ### First Steps
 
-- [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line. :star:3228
+- [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line. :star:3229
 - [REPL](http://try.frege-lang.org/) - Edit and run Frege code on the web.
-- [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples. :star:3228
+- [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples. :star:3229
 - [Template](https://github.com/tfausak/fregexample) - Template for Frege projects. :star:3
 - [Trending](https://github.com/trending?l=frege) - Trending projects on GitHub.
 
 ### Comparisons
 
-- [Frege vs. Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell) - Differences between Frege and Haskell. :star:3228
+- [Frege vs. Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell) - Differences between Frege and Haskell. :star:3229
 - [Frege vs. Scala](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms) - Differences between Scala and Frege.
 
 ### Official Resources
@@ -72,9 +72,9 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Language Reference](http://www.frege-lang.org/doc/Language.pdf) - Description of the language and its implementation.
 - [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html) - Frege API documentation.
 - [Java Runtime API](http://www.frege-lang.org/doc/index.html) - Java API documentation.
-- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions) - Frequently asked questions. :star:3228
-- [Wiki](https://github.com/Frege/frege/wiki) - Official wiki. :star:3228
-- [Changelog](https://github.com/Frege/frege/wiki/New-or-Changed-Features) - Official changelog. :star:3228
+- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions) - Frequently asked questions. :star:3229
+- [Wiki](https://github.com/Frege/frege/wiki) - Official wiki. :star:3229
+- [Changelog](https://github.com/Frege/frege/wiki/New-or-Changed-Features) - Official changelog. :star:3229
 
 ## Community
 
@@ -99,7 +99,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Articles & Blogs
 
 - [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) - InfoQ article on Frege.
-- [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki. :star:3228
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki. :star:3229
 - [Frege Programming Language](http://fregepl.blogspot.com) - Blog of Ingo Wechsung.
 - [Frege Posts](https://www.canoo.com/blog/tag/frege/) - Blog of Dierk König.
 
@@ -108,7 +108,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
 - [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
 - [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!. :star:49
-- [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki. :star:3228
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki. :star:3229
 
 ### Conferences
 
@@ -123,15 +123,15 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Overview](https://www.youtube.com/watch?v=1P1-HXNfFPc) - Frege, a Haskell for the JVM by Dierk König.
 - [Frege vs. Haskell](https://www.youtube.com/watch?v=o2qwNlVeyA4) - FregeDay: Roadmap for resolving differences between Haskell and Frege (Ingo Wechsung).
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
-- [Frege Wiki](https://github.com/Frege/frege/wiki/Talks) - List of more talks on the Frege wiki. :star:3228
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Talks) - List of more talks on the Frege wiki. :star:3229
 
 ## Libraries
 
-- [Frege Wiki](https://github.com/Frege/frege/wiki/Libraries) - List of libraries on the Frege wiki. :star:3228
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Libraries) - List of libraries on the Frege wiki. :star:3229
 
 ### Android
 
-- [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API. :star:14
+- [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API. :star:13
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android. :star:1
 - [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege. :star:8
 - [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege. :star:11
@@ -156,7 +156,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### GUI
 
-- [FregeFX](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX. :star:31
+- [FregeFX](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX. :star:30
 
 ### Web Frameworks
 
@@ -185,19 +185,19 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Build Tools
 
 - [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
-- [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects. :star:8
+- [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects. :star:7
 - [gottlob](https://github.com/mchav/gottlob) - Build tool for Frege.
 
 ### IDEs
 
-- [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege. :star:26
+- [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege. :star:25
 - [intellij-frege](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA. :star:13
-- [frege-idea-plugin](https://github.com/Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA. :star:21
+- [frege-idea-plugin](https://github.com/Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA. :star:20
 
 ### REPLs
 
-- [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console. :star:70
-- [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL. :star:22
+- [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console. :star:69
+- [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL. :star:21
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 
 ### Unit Testing

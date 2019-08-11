@@ -481,6 +481,8 @@ Table of Contents
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
   * [entrydns.net](https://entrydns.net/) — Free DNS hosting service with Dynamic DNS Support.
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
+  * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
+  * [zilore.com](https://zilore.com/ru/dns) — Free DNS hosting.
 
 ## IaaS
 
@@ -652,6 +654,7 @@ Table of Contents
    * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
    * [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
+   * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1 month data history
 
 
 ## International Mobile Number Verification API and SDK

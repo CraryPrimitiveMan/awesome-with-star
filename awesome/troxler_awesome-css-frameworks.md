@@ -37,7 +37,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
   
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).   :star:2461
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).   :star:2478
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
@@ -247,7 +247,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
 
-- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4087
+- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4088
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/),
   [Repo](https://github.com/BafS/Gutenberg)

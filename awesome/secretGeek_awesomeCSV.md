@@ -36,13 +36,13 @@ Here are some awesome tools for dealing with CSV:
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values. :star:221
 - [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-- [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust. :star:4580
+- [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust. :star:4585
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
-- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk. :star:8707
+- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk. :star:8711
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
-- [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second. :star:1027
-- [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV. :star:45
+- [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second. :star:1026
+- [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV. :star:44
 - [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
 - [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
@@ -94,7 +94,7 @@ Here are some awesome tools for dealing with CSV:
 - [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 - [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. :star:34468
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. :star:34491
 
 ## Conferences
 

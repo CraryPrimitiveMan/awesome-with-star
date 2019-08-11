@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2942
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2944
 
 ### Articles
 
@@ -59,12 +59,12 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:187
-* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:203
+* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:186
+* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:202
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:74
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:79
-* [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language. :star:81
+* [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language. :star:80
 * [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:33
 * [idris-http](https://github.com/uwap/idris-http) - HTTP library for Idris. :star:31
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:17
@@ -73,14 +73,14 @@ Idris is a general purpose pure functional programming language with dependent t
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:25
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:23
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:16
-* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:93
+* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:94
 * [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:209
 
 ### Backends
 
 * [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris. :star:298
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend. :star:67
-* [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend. :star:175
+* [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend. :star:174
 * [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:70
 
 ### Build tools | Package managers

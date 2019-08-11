@@ -72,8 +72,8 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:50
-* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3328
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3585
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3330
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3586
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:41
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
@@ -83,7 +83,7 @@ List of content
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:39
 
 # Ruby Libraries
-* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:855
+* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:854
 
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:19
@@ -131,7 +131,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:12142
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:12147
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)

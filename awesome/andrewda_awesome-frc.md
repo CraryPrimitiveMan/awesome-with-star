@@ -30,7 +30,7 @@
 - [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members. :star:18
 - [The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker. :star:254
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers. :star:68
-- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code. :star:237
+- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code. :star:236
 
 ## Programming
 
@@ -50,7 +50,7 @@
 
 ## Driving
 
-- [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred. :star:131
+- [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred. :star:130
 - [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies. :star:115
 - [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js) - SmartDashboard port written in JavaScript with `nw.js`. :star:15
 

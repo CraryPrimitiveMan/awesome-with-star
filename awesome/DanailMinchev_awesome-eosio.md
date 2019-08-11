@@ -54,7 +54,7 @@ Official resources.
 
 - [Website](https://eos.io/)
 - [GitHub](https://github.com/eosio)
-- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2053
+- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2052
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
 - [Developer Portal](https://developers.eos.io/)
@@ -101,13 +101,13 @@ Various software and tools.
 #### Desktop
 
 - [cleos](https://developers.eos.io/eosio-cleos/docs)
-  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10555
+  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10557
   - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article.
 - [Scatter](https://get-scatter.com/)
-  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:386
+  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:387
 - [EOS Toolkit](https://eostoolkit.io/)
   - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub. :star:71
   - [EOS Toolkit by Genereos](https://www.youtube.com/watch?v=dg7mIWPnV0E) - YouTube.

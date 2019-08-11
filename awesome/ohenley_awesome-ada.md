@@ -267,11 +267,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D.
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012. :star:21
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework. :star:2
-- [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.  :star:183
+- [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.  :star:182
 
 #### Database
 - [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports Postgresql, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM. :star:12
-- [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada. :star:15
+- [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada. :star:16
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada. :star:55
@@ -306,7 +306,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset. :star:102
 
 #### Generation
-- [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders. :star:129
+- [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders. :star:128
 - [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL. :star:29
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator. :star:1
@@ -472,7 +472,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [etherscope](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board. :star:13
 
 #### Bindings
-- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices. :star:31
+- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices. :star:32
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch. :star:13
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi.
 
@@ -524,7 +524,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package. :star:3
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
-- [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2. :star:47
+- [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2. :star:46
 - [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua. :star:30
 - [ada-base](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.

@@ -35,10 +35,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:32
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:51
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:43
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:41
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:42
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
-* [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
-* [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:208
+* [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:61
+* [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard :star:207
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service :star:22
 * [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) - Amazon SQS integration :star:13
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
@@ -75,8 +75,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Logging
 
-* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers :star:48
-* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry :star:19
+* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers :star:47
+* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry :star:18
 * [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder :star:17
 
 ### Scheduled/Recurrence Jobs
@@ -93,7 +93,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Deployment
 
-* [WizToWar](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps :star:40
+* [WizToWar](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps :star:39
 * [wizard-in-a-box](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war :star:30
 
 ## Tutorials

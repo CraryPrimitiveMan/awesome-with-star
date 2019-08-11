@@ -49,7 +49,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:417
+- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:418
 
 ### Canon
 
@@ -57,9 +57,9 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.* :star:74
 
 ### GoPro
-- [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:131
+- [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:130
 - [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:85
-- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:255
+- [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:254
 - [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:53
 
 ### Sony
@@ -68,7 +68,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:100
+- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:99
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:171
 
 
@@ -99,7 +99,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
 - [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
-- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:896
+- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:900
 - [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.* :star:2881
 - [A Photo Manager](https://github.com/k3b/APhotoManager/) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...* :star:110
 ## EXIF Editors
@@ -154,7 +154,7 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1382
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1384
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:81
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
 - [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:2431

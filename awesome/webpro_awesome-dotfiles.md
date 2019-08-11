@@ -86,51 +86,51 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 ## Tools
 
 - [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
-- [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash. :star:32
+- [bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash. :star:33
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines. :star:1784
-- [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles. :star:2444
-- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:437
-- [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in \$HOME easy. :star:460
+- [dotbot](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles. :star:2451
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. :star:438
+- [dotfiles](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in \$HOME easy. :star:459
 - [Ellipsis](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles. :star:290
-- [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish :star:3783
+- [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for Fish :star:3785
 - [fresh](https://freshshell.com) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 - [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-- [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1468
-- [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)). :star:2161
-- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:8869
-- [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:2158
+- [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash. :star:1467
+- [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)). :star:2159
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). :star:8874
+- [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management :star:2159
 - [SaltStack](https://www.saltstack.com) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
-- [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:2095
+- [themer](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles. :star:2096
 - [vcsh](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME. :star:1526
-- [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:1204
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features. :star:1205
 
 ### macOS
 
-- [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:842
-- [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:707
-- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:6333
+- [Cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. :star:841
+- [dockutil](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items :star:708
+- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface :star:6335
 
 ## Miscellaneous
 
 - [dotfiles.github.io](http://dotfiles.github.io) - Your unofficial guide to dotfiles on GitHub.
-- [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .macos](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults). :star:686
+- [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .macos](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults). :star:687
 - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and directory contents in Linux distributions.
 - [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
 - [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/why_do_hidden_files_in_unix_begin_with_a_dot/egyj6lr/) - How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+)
 
 ## Related Lists
 
-- [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:16768
-- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:6464
-- [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1600
-- [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) - Curated list of packages, prompts, and resources for the fish shell. :star:1347
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos. :star:16783
+- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto. :star:6468
+- [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment. :star:1601
+- [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) - Curated list of packages, prompts, and resources for the fish shell. :star:1349
 
 ## Archive/abandoned projects
 
-- [Bashstrap](https://github.com/barryclark/bashstrap) :star:1534
-- [battleschool](https://github.com/spencergibb/battleschool) :star:421
-- [Bork](https://github.com/mattly/bork) - Bash DSL for config management. :star:228
-- [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) :star:419
+- [Bashstrap](https://github.com/barryclark/bashstrap) :star:1533
+- [battleschool](https://github.com/spencergibb/battleschool) :star:420
+- [Bork](https://github.com/mattly/bork) - Bash DSL for config management. :star:227
+- [Eduardo's dotfiles](https://github.com/eduardolundgren/dotfiles) :star:418
 - [Kevin's dotfiles](https://github.com/kdeldycke/dotfiles) :star:73
 - [kody](https://github.com/jh3y/kody) :star:91
 - [osxc](http://osxc.github.io)

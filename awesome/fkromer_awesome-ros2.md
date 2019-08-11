@@ -196,7 +196,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS. :star:15
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2786
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2790
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
 ## Forks
@@ -219,7 +219,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) - Status of ROS Bouncy packages.
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 Ardent packages.
 - [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
-- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface. :star:11
+- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface. :star:12
 
 ## Community
 

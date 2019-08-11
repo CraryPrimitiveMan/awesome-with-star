@@ -63,33 +63,33 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
 * [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub. :star:27
 * [GitHub Make Tooltips](https://greasyfork.org/en/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code. :star:485
-* [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files. :star:485
-* [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs. :star:485
-* [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files. :star:485
-* [GitHub collapse in comment](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments. :star:485
-* [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Togle markdown headers. :star:485
-* [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub. :star:485
-* [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere. :star:485
-* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs. :star:485
-* [GitHub diff links](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - Add next and previous buttons to each diff file. :star:485
-* [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files. :star:485
-* [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode. :star:485
-* [GitHub indent comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments. :star:485
-* [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries. :star:485
-* [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view. :star:485
-* [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue. :star:485
-* [GitHub label color picker](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor. :star:485
-* [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs. :star:485
-* [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments. :star:485
-* [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub. :star:485
-* [GitHub sort content](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub. :star:485
-* [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice. :star:485
-* [GitHub table of contents](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages. :star:485
-* [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs. :star:485
-* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles. :star:485
-* [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view. :star:485
-* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet. :star:485
+* [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code. :star:488
+* [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files. :star:488
+* [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs. :star:488
+* [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files. :star:488
+* [GitHub collapse in comment](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments. :star:488
+* [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Togle markdown headers. :star:488
+* [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub. :star:488
+* [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere. :star:488
+* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs. :star:488
+* [GitHub diff links](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - Add next and previous buttons to each diff file. :star:488
+* [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files. :star:488
+* [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode. :star:488
+* [GitHub indent comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments. :star:488
+* [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries. :star:488
+* [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view. :star:488
+* [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue. :star:488
+* [GitHub label color picker](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor. :star:488
+* [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs. :star:488
+* [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments. :star:488
+* [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub. :star:488
+* [GitHub sort content](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub. :star:488
+* [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice. :star:488
+* [GitHub table of contents](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages. :star:488
+* [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs. :star:488
+* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles. :star:488
+* [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view. :star:488
+* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet. :star:488
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items. :star:203
 * [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable. :star:203
 * [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available. :star:203

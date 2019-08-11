@@ -348,8 +348,8 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features. :star:4609
-* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:364
+* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features. :star:4615
+* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:366
 * [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:3139
 * [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client). :star:1263
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version. :star:344
@@ -363,34 +363,34 @@ Distro-oriented:
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [dnfdragora](https://github.com/manatools/dnfdragora) (Fedora) - A GUI for the `dnf` package manager. :star:45
-* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers). :star:3242
-* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager. :star:750
+* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers). :star:3253
+* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager. :star:751
 
 Distro-independent:
 
-* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:4749
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:4752
 
 ### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:45338
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:45374
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:6037
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2616
-* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:15924
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:3190
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:6046
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2617
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:15944
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:3192
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
-* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser. :star:7922
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser. :star:7933
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
-* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor. :star:3361
+* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor. :star:3362
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices. :star:298
-* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:53917
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:53990
 
 ## Useful Websites
 

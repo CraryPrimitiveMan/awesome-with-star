@@ -85,7 +85,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:164
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:165
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
@@ -102,7 +102,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:402
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:403
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -137,8 +137,8 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming. :star:34
 
-* [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime. :star:106
-* [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding. :star:23
+* [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime. :star:107
+* [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding. :star:24
 
 * [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic. :star:8
 

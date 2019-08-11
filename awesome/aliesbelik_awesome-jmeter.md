@@ -105,7 +105,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## DSL
 
-- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:674
+- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:673
 
 ## Distributions
 

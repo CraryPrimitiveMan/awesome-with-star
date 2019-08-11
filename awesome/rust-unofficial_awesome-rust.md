@@ -127,7 +127,7 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 * [Servo](https://github.com/servo/servo) — A prototype web browser engine
 * [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [Weld](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
-* [kytan](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN  :star:152
+* [kytan](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN  :star:151
 
 ### Audio
 
@@ -136,7 +136,7 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 ### Cryptocurrencies
 
 * [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — A Rust library for working with Bitcoin SV .
-* [cardano-cli](https://github.com/input-output-hk/cardano-cli) — Cardano Command Line Interface (CLI) :star:46
+* [cardano-cli](https://github.com/input-output-hk/cardano-cli) — Cardano Command Line Interface (CLI) :star:47
 * [ChainX](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 * [coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) — Coinbase pro client in Rust, supports sync/async/websocket [<img src="https://api.travis-ci.org/inv2004/coinbase-pro-rs.svg?branch=master">](https://travis-ci.org/inv2004/coinbase-pro-rs)
 * [ethaddrgen](https://github.com/Limeth/ethaddrgen) — Custom Ethereum vanity address generator made in Rust [<img src="https://api.travis-ci.org/Limeth/ethaddrgen.svg?branch=master">](https://travis-ci.org/Limeth/ethaddrgen)
@@ -409,7 +409,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ### Debugging
 
 * GDB
-  * [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb) :star:38227
+  * [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb) :star:38267
   * [gdbgui](https://github.com/cs01/gdbgui) — Browser based frontend for gdb to debug C, C++, Rust, and go. [<img src="https://api.travis-ci.org/cs01/gdbgui.svg?branch=master">](https://travis-ci.org/cs01/gdbgui)
 * LLDB
   * [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) — allows to use LLDB in a way similar to GDB's batch mode.
@@ -504,9 +504,9 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     * [RustDT](https://github.com/RustDT/RustDT) — [<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
   * [Emacs](https://www.gnu.org/software/emacs/)
     * [rust-mode](https://github.com/rust-lang/rust-mode) — Rust Major Mode
-    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck) :star:1808
-    * [emacs-racer](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete)) :star:1516
-    * [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode) :star:1679
+    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck) :star:1809
+    * [emacs-racer](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete)) :star:1515
+    * [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode) :star:1685
   * [gitpod.io](https://gitpod.io) — Online IDE with full Rust support based on Rust Language Server
   * [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
   * [Kakoune](http://kakoune.org/)
@@ -517,7 +517,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) — [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
     * [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) — basic Toml support
   * [Ride](https://github.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
-  * [SolidOak](https://github.com/oakes/SolidOak) — A simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim) :star:32449
+  * [SolidOak](https://github.com/oakes/SolidOak) — A simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim) :star:32476
   * [Sublime Text](https://www.sublimetext.com/)
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) — official Rust package
     * [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) — native Sublime support (already installed) :star:2750
@@ -1082,15 +1082,15 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk](https://github.com/gtk-rs/gtk) — GTK+ bindings [<img src="https://api.travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
   * [relm](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm [<img src="https://api.travis-ci.org/antoyo/relm.svg?branch=master">](https://travis-ci.org/antoyo/relm)
-* [ImGui](https://github.com/ocornut/imgui) :star:16151
+* [ImGui](https://github.com/ocornut/imgui) :star:16177
   * [imgui-rs](https://github.com/Gekkio/imgui-rs) — Rust bindings for ImGui [<img src="https://api.travis-ci.org/Gekkio/imgui-rs.svg?branch=master">](https://travis-ci.org/Gekkio/imgui-rs)
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
   * [clear-coat](https://github.com/jminer/clear-coat) — Clear Coat is a Rust wrapper for the IUP GUI library
   * [dcampbell24/iup-rust](https://github.com/dcampbell24/iup-rust) — IUP bindings [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
-* [libui](https://github.com/andlabs/libui) :star:8825
+* [libui](https://github.com/andlabs/libui) :star:8832
   * [pcwalton/libui-rs](https://github.com/pcwalton/libui-rs) — libui bindings [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs). Abandoned project. The most updated fork is [NoraCodes/libui-rs](https://github.com/NoraCodes/libui-rs).
-* [Nuklear](https://github.com/vurtun/nuklear) :star:12663
+* [Nuklear](https://github.com/vurtun/nuklear) :star:12675
   * [nuklear-rust](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear [<img src="https://api.travis-ci.com/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
 * [Qt](https://doc.qt.io)
   * [woboq/qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time. [<img src="https://api.travis-ci.org/woboq/qmetaobject-rs.svg?branch=master">](https://travis-ci.org/woboq/qmetaobject-rs)
@@ -1371,7 +1371,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [New Rustacean](https://newrustacean.com) — A podcast about learning Rust
   * [Rusty Spike](https://rusty-spike.blubrry.net) — news on all things Rust
 * [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
-* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) :star:2471
+* [Rust Design Patterns](https://github.com/rust-unofficial/patterns) :star:2477
 * [Rust Guidelines](http://aturon.github.io/)
 * [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
 * [Rust Subreddit](https://www.reddit.com/r/rust/) — A subreddit(forum) where rust related questions, articles and resources are posted and discussed

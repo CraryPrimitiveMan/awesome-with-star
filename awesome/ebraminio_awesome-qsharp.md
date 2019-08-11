@@ -19,16 +19,16 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 ## Official Resources
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-- [Q# samples](https://github.com/Microsoft/Quantum) :star:2384
+- [Q# samples](https://github.com/Microsoft/Quantum) :star:2392
 - [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:106
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
 - [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC) :star:56
 
 ## Tutorials
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1833
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1838
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
-- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019. :star:24
+- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019. :star:25
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018. :star:22
 
 ## Books

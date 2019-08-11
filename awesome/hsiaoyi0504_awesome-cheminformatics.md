@@ -83,8 +83,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1651
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:333
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1653
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:335
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -98,7 +98,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-db"></a>
 ### Databases
 
-* [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database. :star:15
+* [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database. :star:14
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

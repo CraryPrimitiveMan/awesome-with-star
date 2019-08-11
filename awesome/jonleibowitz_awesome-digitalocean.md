@@ -50,10 +50,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open source projects
 
 - [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
-- [Netbox](https://github.com/digitalocean/netbox) :star:5495
-- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API. :star:1944
+- [Netbox](https://github.com/digitalocean/netbox) :star:5501
+- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API. :star:1946
 - [go-libvirt](https://github.com/digitalocean/go-libvirt) :star:414
-- [go-qemu](https://github.com/digitalocean/go-qemu) :star:370
+- [go-qemu](https://github.com/digitalocean/go-qemu) :star:371
 
 ## Community OSS projects
 
@@ -70,7 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Clients
 
-- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services. :star:1944
+- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services. :star:1946
 - [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client. :star:180
 - [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client. :star:72

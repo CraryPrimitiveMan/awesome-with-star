@@ -75,7 +75,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Card game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 - [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D. :star:17
-- [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game. :star:3321
+- [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game. :star:3323
 - [microRTS](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS). :star:121
 - [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854). :star:9
@@ -84,7 +84,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld](https://github.com/polyworld/polyworld) - Artificial life system. :star:117
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine. :star:715
-- [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/). :star:1739
+- [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/). :star:1742
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 - [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) - Competition of Pokemon battle. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf). :star:12
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
@@ -92,19 +92,19 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine.
 - [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
-- [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/). :star:921
+- [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/). :star:922
 
 ### Mobile
 
-- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Roguelike game. :star:2353
+- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Roguelike game. :star:2356
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon. :star:526
 
 ### Web
 
 - [Digger](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/). :star:35
-- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/). :star:320
-- [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html). :star:344
-- [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/). :star:166
+- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/). :star:318
+- [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html). :star:343
+- [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/). :star:165
 - [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
 - [TapAI](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game. [Play](http://projects.leonardomauro.com/tapai/).
 - [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
@@ -196,8 +196,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [data.world](https://data.world) - Datasets.
 - [datasets-games](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games. :star:3
-- [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language. :star:1190
-- [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub. :star:13218
+- [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language. :star:1192
+- [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub. :star:13224
 - [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
 - [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.

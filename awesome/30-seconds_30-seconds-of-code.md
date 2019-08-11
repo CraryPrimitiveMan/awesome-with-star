@@ -20,9 +20,9 @@
 
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2184
-* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2876
-* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2093
+* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2187
+* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2881
+* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2094
 * [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 * [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
 

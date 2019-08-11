@@ -68,7 +68,7 @@ External links
 ----------
 * [Unix Assembly Language Programming](http://www.int80h.org)
 * [Linux Assembly](http://asm.sourceforge.net/)
-* [Linux Kernel](https://github.com/cirosantilli/linux-kernel-module-cheat) :star:1105
+* [Linux Kernel](https://github.com/cirosantilli/linux-kernel-module-cheat) :star:1109
 * [PPR: Learning Assembly Language](http://c2.com/cgi/wiki?LearningAssemblyLanguage)
 * [Assembly Language Programming Examples](http://www.azillionmonkeys.com/qed/asmexample.html)	
 * [Authoring Windows Applications In Assembly Language](http://www.grc.com/smgassembly.htm)
