@@ -4,9 +4,9 @@
 A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
 
 ## Frontoffice extensions
-* [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:51
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1620
-* [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:7
+* [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:52
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1624
+* [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:8
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
 * [refinerycms-retailers](https://github.com/bisscomm/refinerycms-retailers) - Display retailers :star:3
@@ -33,21 +33,21 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ## Refinery team extensions
 
 ### Main project
-* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3655
-* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3655
-* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3655
-* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3655
+* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3656
+* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3656
+* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3656
+* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3656
 
 ### Frontoffice extensions
 * [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:10
-* [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news)) :star:123
+* [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news)) :star:124
 * [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:105
-* [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:123
-* [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images :star:127
-* [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed) :star:213
+* [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:124
+* [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images :star:128
+* [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed) :star:214
 
 ### Backoffice extensions
-* [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:108
+* [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page :star:109
 * [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice :star:26
 
 ### Developer tools

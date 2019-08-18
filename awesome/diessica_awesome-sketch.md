@@ -69,24 +69,24 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4411
-- [RenameIt](https://github.com/rodi01/RenameIt) :star:1328
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:6552
-- [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/) :star:1880
-- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1098
-- [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:66
-- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1760
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4414
+- [RenameIt](https://github.com/rodi01/RenameIt) :star:1329
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:6564
+- [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/) :star:1881
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1099
+- [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
+- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1762
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/) :star:128
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow](https://github.com/abynim/UserFlows) :star:1399
+- [User Flow](https://github.com/abynim/UserFlows) :star:1400
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency) :star:120
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:3253
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:3255
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

@@ -141,7 +141,7 @@ List of software with DTrace support.
 
 #### Node.js
 
-- [node-dtrace-provider](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps. :star:303
+- [node-dtrace-provider](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps. :star:304
 
 #### Perl
 
@@ -159,7 +159,7 @@ List of software with DTrace support.
 #### Ruby
 
 - [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
-- [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps. :star:23
+- [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps. :star:24
 
 ### Databases
 
@@ -172,14 +172,14 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:8188
-- [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:336
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer. :star:8230
+- [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer. :star:337
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based). :star:171
-- [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats. :star:124
+- [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based). :star:173
+- [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats. :star:125
 - [portsnoop](https://github.com/davepacheco/portsnoop) - Trace event port activity. :star:3
 - [storage tools](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats. :star:27
 

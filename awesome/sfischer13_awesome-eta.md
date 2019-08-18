@@ -40,7 +40,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](https://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2284
+- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2287
 - [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - Interview about the philosophy behind Eta's development.
 
 ### First Steps
@@ -79,7 +79,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 - [Slack](https://slack.eta-lang.org/) - Slack channel.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
-- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Twitter
 - [Eta](https://twitter.com/eta_lang) - Official Twitter account.
@@ -96,7 +95,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Blogs
 
 - [Eta programming language](https://blog.eta-lang.org/) - Official blog.
-- [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
 
 ### Conferences
@@ -109,7 +107,9 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Talks
 
+- [Introduction to Eta](https://www.youtube.com/watch?v=hmDLNO7Gkxs) - Introduction by the creator of Eta.
 - [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - Introduction to the language and its origin.
+- [Haskell for JVM](https://www.youtube.com/watch?v=P1dmHKJ2vak) - Talk at LambdaConf about porting a language to the JVM.
 - [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
 - [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) - Concurrency on the JVM.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
@@ -118,6 +118,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Tools
 
+- [IntelliJ Eta](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ. :star:50
 - [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala. :star:57
 - [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects. :star:28
 

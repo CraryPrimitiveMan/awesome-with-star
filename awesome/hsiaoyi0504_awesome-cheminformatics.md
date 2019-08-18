@@ -70,8 +70,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Visulization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
-* [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/). :star:53
-* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:10
+* [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/). :star:54
+* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:11
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
@@ -83,8 +83,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1653
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:335
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1665
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:338
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -98,14 +98,14 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-db"></a>
 ### Databases
 
-* [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database. :star:14
+* [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database. :star:15
 
 <a id="lib-md"></a>
 ### Molecular Dynamics
 
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:236
+* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:239
 * [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:138
 
 ## Journals
@@ -144,8 +144,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1083
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:185
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1090
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:188
 
 ## License
 

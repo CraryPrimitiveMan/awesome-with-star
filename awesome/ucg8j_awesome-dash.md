@@ -35,10 +35,10 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:158
-- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:89
+- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:161
+- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:90
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components. :star:18
-- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:51
+- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:54
 - [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component. :star:1
 - [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable. :star:2
 - [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django. :star:11
@@ -64,7 +64,7 @@ A curated list of awesome Dash (plotly) resources
 
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
-- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:483
+- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:486
 
 ## Talks
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).

@@ -18,8 +18,8 @@
 
 Displaying data from external services in a pinned gist.
 
-- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user. :star:96
-- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:41
+- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user. :star:97
+- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:40
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava. :star:8
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm. :star:7
 
@@ -27,13 +27,13 @@ Displaying data from external services in a pinned gist.
 
 Displaying more detailed GitHub user data in a pinned gist.
 
-- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user. :star:15
+- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user. :star:14
 
 ## Resources
 
 Resources for keeping pinned gists updated.
 
-- [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists. :star:10
+- [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists. :star:11
 
 ## Contribute
 

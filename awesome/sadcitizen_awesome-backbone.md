@@ -6,13 +6,13 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27525
+- [Github repository](https://github.com/jashkenas/backbone) :star:27528
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:655
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:656
 
 ## Tutorials and articles
 
@@ -100,10 +100,10 @@
 
 ## Examples and boilerplates
 
-- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:625
-- [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:934
-- [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:471
-- [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:64
+- [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:626
+- [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:935
+- [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:472
+- [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:65
 - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more :star:493
 - [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
@@ -112,7 +112,7 @@
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:87
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:88
 - [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
@@ -120,18 +120,18 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2385
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2210
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2063
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2386
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2211
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2064
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1936
-- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1680
-- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1455
-- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1360
-- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:895
-- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:816
-- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:590
-- [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:502
+- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1681
+- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1456
+- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1361
+- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:896
+- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:817
+- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:591
+- [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:503
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:483
-- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503
-- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:384
+- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:504
+- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:385
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

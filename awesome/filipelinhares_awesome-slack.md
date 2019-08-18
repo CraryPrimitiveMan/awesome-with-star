@@ -67,7 +67,7 @@ A list of communities about web development and design that are powered by [Slac
 - [DevOps](https://devopschat.co/)
 
 ## Looking for more lists like that?
-- [Awesome](https://github.com/sindresorhus/awesome) :star:113764
+- [Awesome](https://github.com/sindresorhus/awesome) :star:114237
 - [Awesome Community](https://github.com/peterkokot/awesome-community) :star:158
 
 ## Contribute

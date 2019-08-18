@@ -29,8 +29,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1204
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:752
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1207
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:750
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -53,7 +53,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 * Generators
   * App
-    * [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova) :star:100
+    * [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova) :star:101
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
     * [generator-cordova-www](https://github.com/busterc/generator-cordova-www) :star:1

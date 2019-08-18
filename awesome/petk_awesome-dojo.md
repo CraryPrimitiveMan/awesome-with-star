@@ -32,12 +32,12 @@ Inspired by the `awesome-*` trend on GitHub.
 ## DojoToolkit.org resources and documentation
 
 * [API](http://dojotoolkit.org/api/) - API reference for Dojo Toolkit
-* [Roadmap](https://github.com/dojo/meta/wiki/Roadmap) Dojo Roadmap (all versions) :star:223
+* [Roadmap](https://github.com/dojo/meta/wiki/Roadmap) Dojo Roadmap (all versions) :star:224
 * [Blog](http://dojotoolkit.org/blog/) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
-* [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines :star:223
+* [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines :star:224
 * [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition :star:4
 
 
@@ -56,11 +56,11 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Bootstraps and boilerplates
 
-* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:145
-* [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:384
-* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:178
-* [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:15
-* [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS :star:18
+* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo :star:146
+* [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit :star:385
+* [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo :star:179
+* [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp. :star:16
+* [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS :star:19
 
 [Back to top](#awesome-dojo)
 
@@ -68,11 +68,11 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Packages, libraries and scripts
 
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets :star:35
-* [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure :star:69
-* [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library :star:70
+* [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure :star:70
+* [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library :star:71
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
-* [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation :star:33
-* [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects :star:38
+* [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation :star:34
+* [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects :star:39
 * Grids
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
@@ -80,8 +80,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task :star:34
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task :star:4
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit. :star:1
-* [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:164
-* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:267
+* [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:165
+* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:268
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
 #### Dojo 2
@@ -105,7 +105,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Serverside integrations
 
-* [Dojango](https://github.com/klipstein/dojango/) - Dojo and Django Python framework integration :star:65
+* [Dojango](https://github.com/klipstein/dojango/) - Dojo and Django Python framework integration :star:66
 * [dojo-rails](http://robin850.github.io/dojo-rails/) - Dojo and Ruby on Rails framework integration
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit :star:2
 * ASP.NET
@@ -126,7 +126,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * PHP
     * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo :star:4
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
-    * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule :star:8
+    * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule :star:9
 
 [Back to top](#awesome-dojo)
 
@@ -144,15 +144,15 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Applications
 
 * [AuShada](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management :star:61
-* [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer :star:9
-* [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels :star:40
+* [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer :star:10
+* [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels :star:41
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo :star:56
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API :star:48
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops :star:28
-* [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:12
-* [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:27
+* [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
+* [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:28
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25720
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25745
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:57
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:26
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -162,7 +162,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Themes
 
-* [dijit-claro-stylus](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus. :star:27
+* [dijit-claro-stylus](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus. :star:28
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 * [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18324
-* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:99
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18370
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:100
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:113761
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1448
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:114231
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1457
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:5881
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:5902
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:127
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:197
 

@@ -27,7 +27,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
-- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:2978
+- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:2987
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
 ## Background
@@ -43,7 +43,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
-- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:200
+- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:202
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 - [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code. :star:15
@@ -56,7 +56,6 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Social
 
-- [Reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
 - [Twitter](https://twitter.com/LedgerTips) - Usage tips.
 - [Google Group](https://groups.google.com/forum/#!forum/ledger-cli) - Ledger Google Group.
 - [Stack Exchange](https://money.stackexchange.com/search?q=ledger-cli) - Tag on “Personal Finance & Money Stack”.
@@ -69,8 +68,8 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2978
-- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:2978
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2987
+- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:2987
 
 ## License
 

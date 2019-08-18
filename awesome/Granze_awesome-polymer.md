@@ -60,9 +60,9 @@
 * [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
 ## Boilerplates
-* [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate) :star:374
+* [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate) :star:375
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
-* [Seed element](https://github.com/polymerlabs/seed-element) :star:285
+* [Seed element](https://github.com/polymerlabs/seed-element) :star:286
 * [Polymer Admin](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
 * [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
 * [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth) :star:6

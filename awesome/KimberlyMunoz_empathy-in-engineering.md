@@ -52,6 +52,6 @@ Sometimes you need code samples to implement strategies above.
 - [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea) - This is a simulation of what it is like to read a block of text with dyslexia.
 
 ### Bookmarklets
-- [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness. :star:111
+- [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness. :star:112
 - [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
 

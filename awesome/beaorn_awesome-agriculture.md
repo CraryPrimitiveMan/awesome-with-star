@@ -27,11 +27,11 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Climate, Environment and Weather
 
 - [agroclimatology](https://github.com/beaorn/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource. :star:8
-- [bomrang](https://github.com/ropensci/bomrang) - Australian Government Bureau of Meteorology Data from R. :star:54
+- [bomrang](https://github.com/ropensci/bomrang) - Australian Government Bureau of Meteorology Data from R. :star:55
 - [evapotranspiration](https://github.com/beaorn/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo). :star:9
-- [frostline](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones. :star:82
+- [frostline](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones. :star:83
 - [GSODR](https://github.com/ropensci/GSODR) - Global summary daily weather data in R. :star:54
-- [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run. :star:59
+- [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run. :star:60
 - [PyETo](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo). :star:57
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data. :star:36
 - [soilDB](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases. :star:14
@@ -60,24 +60,24 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [MyJohnDeereAPI-OAuth-Java-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Java-Client) - Java MyJohnDeere API client implementation. :star:4
 - [MyJohnDeereAPI-OAuth-NodeJS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-NodeJS-Client) - Node.js MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-PHP-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-PHP-Client) - PHP MyJohnDeere API client implementation. :star:3
-- [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation. :star:6
+- [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation. :star:7
 - [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
-- [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation. :star:2
+- [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation. :star:3
 - [SampleData](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing. :star:6
 - [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations. :star:3
 
 ## Farm Management Systems and Record Keeping
 
 - [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
-- [farmOS](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP. :star:228
+- [farmOS](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP. :star:229
 - [Ekylibre](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS. :star:198
-- [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js. :star:202
+- [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js. :star:210
 
 ## Geospatial and GIS
 
 ### GIS Resources
 
-- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources. :star:1164
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources. :star:1169
 
 ### GIS Platforms
 
@@ -85,26 +85,26 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### Shapefiles
 
-- [pyshp](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python. :star:618
-- [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby. :star:76
+- [pyshp](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python. :star:623
+- [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby. :star:77
 
 ## IoT, Hardware, Automation and Robotics
 
-- [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software. :star:87
-- [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing. :star:80
+- [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software. :star:89
+- [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing. :star:82
 - [FarmBot](https://github.com/farmbot) -  Open source precision agriculture CNC farming project.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi. :star:13
 
 ## Knowledgebases and Learning Resources
 
-- [Harvest Helper](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API. :star:36
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails. :star:659
+- [Harvest Helper](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API. :star:37
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails. :star:663
 
 ## Remote Sensing and Imagery
 
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites. :star:220
-- [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery. :star:787
+- [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery. :star:789
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes. :star:57
 
 ## License

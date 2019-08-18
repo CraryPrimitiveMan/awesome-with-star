@@ -20,9 +20,9 @@
 
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2187
-* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2881
-* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2094
+* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2204
+* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2898
+* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2098
 * [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 * [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
 
@@ -1367,13 +1367,14 @@ Returns the index of the last element for which the provided function returns a 
 
 Use `Array.prototype.map()` to map each element to an array with its index and value.
 Use `Array.prototype.filter()` to remove elements for which `fn` returns falsy values, `Array.prototype.pop()` to get the last one.
+`-1` is the default value when not found.
 
 ```js
 const findLastIndex = (arr, fn) =>
-  arr
+  (arr
     .map((val, i) => [i, val])
     .filter(([i, val]) => fn(val, i, arr))
-    .pop()[0];
+    .pop() || [-1])[0];
 ```
 
 <details>
@@ -1381,6 +1382,7 @@ const findLastIndex = (arr, fn) =>
 
 ```js
 findLastIndex([1, 2, 3, 4], n => n % 2 === 1); // 2 (index of the value 3)
+findLastIndex([1, 2, 3, 4], n => n === 5); // -1 (default value when not found)
 ```
 
 </details>
@@ -4804,6 +4806,7 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 <summary>Examples</summary>
 
 ```js
+
 
 
 
