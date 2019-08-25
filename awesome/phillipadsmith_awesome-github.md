@@ -47,7 +47,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 
 ## Resources for those already familiar with GitHub
 
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:28712
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. :star:28746
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
@@ -58,12 +58,12 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.. :star:107
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.. :star:108
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.) :star:28712
-- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all. :star:1694
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.) :star:28746
+- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all. :star:1702
 - [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web)) :star:56
@@ -72,30 +72,30 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated.  :star:19
-- [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub. :star:661
-- [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications. :star:58
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:17105
+- [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub. :star:663
+- [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications. :star:59
+- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. :star:17163
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs. :star:65
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line. :star:176
-- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:5728
+- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub. :star:5773
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another :star:387
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked. :star:79
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests). :star:47
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
-- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub :star:2850
+- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub :star:2849
 - [TinyPress](https://github.com/kehers/tinypress) - TinyPress is the easiest way to publish a blog on GitHub. :star:5
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 - [Noteit](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists. :star:10
-- [Zappr](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements. :star:440
+- [Zappr](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements. :star:443
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
 - [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 
 ## Novel uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub. :star:43
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:42957
-- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2644
-- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code. :star:664
-- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2609
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science. :star:43092
+- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion. :star:2645
+- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code. :star:665
+- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub. :star:2607
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
 

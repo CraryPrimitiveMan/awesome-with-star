@@ -19,10 +19,31 @@ Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindres
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
+## The Fiery Meter of AWSome
+
+* Repo with 0100+ Stars: :fire:
+* Repo with 0200+ Stars: :fire::fire:
+* Repo with 0500+ Stars: :fire::fire::fire:
+* Repo with 1000+ Stars: :fire::fire::fire::fire:
+* Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
+
+Repos not on `The Fiery Meter of AWSome` can still be awesome
+
+# A Note on Repo AWSomeness
+
+Each repo listed meets at least one of the following requirements:
+
+* Community-authored repo with 100+ stars
+* Community-vouched repo with < 100 stars
+
+100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
+
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:48
-   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:6
-   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md) :star:20
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:49
+   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:7
+   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md) :star:21
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:3
 
 
@@ -90,7 +111,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:352
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:355
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
@@ -102,7 +123,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:403
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:404
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -135,7 +156,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing). :star:64
 
-* [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming. :star:34
+* [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming. :star:35
 
 * [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime. :star:107
 * [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding. :star:24
@@ -177,7 +198,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
 
-* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes. :star:23
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes. :star:24
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries. :star:17
 
@@ -220,7 +241,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
-* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library  :star:4
+* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library  :star:5
 * [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js) :star:19
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects :star:8

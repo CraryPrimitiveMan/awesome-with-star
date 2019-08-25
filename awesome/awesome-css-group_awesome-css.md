@@ -68,18 +68,18 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Editor's drafts of CSS specifications*
 
-- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository. :star:1757
-- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository. :star:1578
+- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository. :star:1765
+- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository. :star:1581
 
 ## Parsers :mag:
 
-* [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript. :star:635
-* [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator. :star:702
+* [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript. :star:638
+* [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator. :star:709
 * [Gonzales](https://github.com/css/gonzales) - Fast CSS parser. :star:116
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors. :star:263
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser. :star:93
 * [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib. :star:273
-* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins. :star:21317
+* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins. :star:21362
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js. :star:2783
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS for all browsers. :star:135
 
@@ -89,10 +89,10 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 *Write CSS faster*
 
-* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax. :star:16100
-* [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins. :star:21317
-* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language. :star:12062
-* [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor. :star:737
+* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax. :star:16110
+* [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins. :star:21362
+* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language. :star:12078
+* [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor. :star:740
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -106,7 +106,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
-* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web. :star:13026
+* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web. :star:13057
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
@@ -115,7 +115,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes. :star:73
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
-* [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development. :star:13851
+* [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development. :star:14002
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
@@ -133,17 +133,17 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## CSS Structure
 
-- [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure. :star:3657
+- [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure. :star:3659
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Reset and Normalize
 
-- [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements. :star:35906
+- [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements. :star:35985
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. :star:805
-- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset. :star:1687
-- [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box. :star:3702
+- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset. :star:1697
+- [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box. :star:3709
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline. :star:12
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -157,7 +157,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
-* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) :star:1326
+* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) :star:1325
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -203,7 +203,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 - [Source](https://sourcejs.com/)
 - [styledoc](https://github.com/Joony/styledoc/) :star:4
 - [styledocco](https://github.com/jacobrask/styledocco) :star:1077
-- [styledown](https://github.com/styledown/styledown) :star:672
+- [styledown](https://github.com/styledown/styledown) :star:671
 - [sc5-styleguide](https://github.com/SC5/sc5-styleguide) :star:1260
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -217,9 +217,9 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css) :star:5852
+* [idiomatic-css](https://github.com/necolas/idiomatic-css) :star:5854
 * [Atomic Design](http://patternlab.io/resources.html)
-* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname) :star:3632
+* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname) :star:3637
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
 * [NCSS](https://ncss.io)
@@ -229,16 +229,16 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [aphrodite](https://github.com/Khan/aphrodite) :star:4789
+* [aphrodite](https://github.com/Khan/aphrodite) :star:4792
 * [babel-plugin-css-in-js](https://github.com/martinandert/babel-plugin-css-in-js) :star:288
 * [classy](https://github.com/inturn/classy) :star:22
-* [csjs](https://github.com/rtsao/csjs) :star:558
-* [css-loader](https://github.com/webpack/css-loader) :star:3514
-* [JSS](https://github.com/cssinjs/jss) :star:5080
+* [csjs](https://github.com/rtsao/csjs) :star:559
+* [css-loader](https://github.com/webpack/css-loader) :star:3524
+* [JSS](https://github.com/cssinjs/jss) :star:5101
 * [react-styled](https://github.com/bloodyowl/react-styled) :star:34
 * [react-with-styles](https://github.com/airbnb/react-with-styles) :star:1505
-* [styled-jsx](https://github.com/zeit/styled-jsx) :star:4669
-* [styled-components](https://github.com/styled-components/styled-components) :star:25286
+* [styled-jsx](https://github.com/zeit/styled-jsx) :star:4686
+* [styled-components](https://github.com/styled-components/styled-components) :star:25401
 
 Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
@@ -247,11 +247,11 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## CSS Polyfills
 
-* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier. :star:293
-* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell. :star:3754
-* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill. :star:1477
+* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier. :star:294
+* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell. :star:3757
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill. :star:1478
 * [selectivizr](https://github.com/keithclark/selectivizr) - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8. :star:1756
-* [PIE](https://github.com/lojjic/PIE) - Allows Internet Explorer to recognize and render various CSS3 box decoration properties. :star:2845
+* [PIE](https://github.com/lojjic/PIE) - Allows Internet Explorer to recognize and render various CSS3 box decoration properties. :star:2844
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -263,7 +263,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [cssfx](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge. :star:80
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML  :star:554
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML  :star:556
 
 
 <sub>[⇧ back to top](#contents)</sub>

@@ -68,7 +68,7 @@ Table of contents:
 * [Official Blog](http://angularjs.blogspot.com/)
 * [Official Documentation](https://angular.io/docs/js/latest/)
 * [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular) :star:50320
+* [Official GitHub Repo](https://github.com/angular/angular) :star:50535
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -86,7 +86,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 
 #### Angular 2 Server-Side Rendering
-* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:3390
+* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal) :star:3391
 
 #### Angular 2 Material Design
 
@@ -147,15 +147,15 @@ Table of contents:
 #### Angular 2 Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
-* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:1074
-* [react-native-renderer](https://github.com/angular/react-native-renderer) :star:795
+* [nativescript-angular](https://github.com/NativeScript/nativescript-angular) :star:1077
+* [react-native-renderer](https://github.com/angular/react-native-renderer) :star:794
 
 ### Angular 2 Components
-* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2) :star:18
-* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:4835
+* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2) :star:20
+* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap) :star:4836
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3 :star:269
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:109
-* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3 :star:111
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3 :star:110
+* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3 :star:113
 * [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3 :star:36
 
 ### Angular 2 Generators
@@ -163,7 +163,7 @@ Table of contents:
   * Slush
     * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2) :star:44
   * Yeoman
-    * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2) :star:267
+    * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2) :star:266
 * Dart
   * Stagehand
     * [kasperpeulen/stagehand](https://github.com/kasperpeulen/stagehand) :star:2
@@ -175,11 +175,11 @@ Table of contents:
 > Universal (isomorphic) javascript support for Angular 2
 
 #### Universal General Resources
-* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:3390
+* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal) :star:3391
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
-* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3 :star:594
+* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3 :star:595
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
@@ -250,13 +250,13 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Haxe Angular 2 Online Playground
 
 #### Haxe Seed Projects
-* [angular2haxe](https://github.com/nweedon/angular2haxe) :star:27
+* [angular2haxe](https://github.com/nweedon/angular2haxe) :star:28
 
 ### Angular 2 in Scala
 > General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
 
 #### Scala Seed Projects
-* [play-angular2](https://github.com/gdi2290/play-angular2) :star:9
+* [play-angular2](https://github.com/gdi2290/play-angular2) :star:10
 
 ### Platforms
 
@@ -270,7 +270,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
 
 #### NativeScript Seed Projects
-* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:47
+* [sample-Angular2](https://github.com/NativeScript/sample-Angular2) :star:48
 
 #### Angular 2 in React Native
 > React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript

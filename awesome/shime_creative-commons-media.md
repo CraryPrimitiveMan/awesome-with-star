@@ -81,7 +81,7 @@ Contributions are very welcome!
 
 ## Other awesome lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:24694
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:24720
 
 ## License
 

@@ -19,16 +19,16 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 ## Official Resources
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-- [Q# samples](https://github.com/Microsoft/Quantum) :star:2401
+- [Q# samples](https://github.com/Microsoft/Quantum) :star:2416
 - [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:108
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
 - [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC) :star:56
 
 ## Tutorials
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1847
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1862
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
-- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019. :star:25
+- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019. :star:26
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018. :star:22
 
 ## Books
@@ -52,7 +52,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - Solution descriptions for [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) and for the [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
 
 ### Participants' solutions
-- [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
+- [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge) :star:1
 - [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018)
 - [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
 
@@ -65,7 +65,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
-- [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor) :star:6
+- [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor) :star:7
 - [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate) :star:2
 - [Q# Bell State Program](https://github.com/pktippa/q_sharp_bell_state) :star:1
 - [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)

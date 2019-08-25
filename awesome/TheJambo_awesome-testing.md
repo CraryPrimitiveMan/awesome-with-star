@@ -25,7 +25,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
-- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues. :star:6091
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues. :star:6123
 - [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - View and Edit Cookies easily using the developer tools pane.
 
 ### Make your life easier
@@ -37,11 +37,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
 - [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) - Handy extension that can be used to save common snippets (Jira tables, test data etc.) you use often for easy typing.
 - [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
-- [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system :star:751
+- [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system :star:754
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
-- [recheck-web](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests. :star:51
-- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system :star:300
-- [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool :star:1538
+- [recheck-web](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests. :star:52
+- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system :star:303
+- [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool :star:1566
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
@@ -60,7 +60,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training :star:633
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training :star:637
 - [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -75,24 +75,24 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:10534
-- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration. :star:32976
-- [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause. :star:536
+- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB? :star:10560
+- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration. :star:33004
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause. :star:539
 
 ### Useful References
-- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:114240
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation :star:633
-- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:3801
+- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists. :star:114646
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation :star:637
+- [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill. :star:3808
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want. :star:508
-- [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful. :star:4741
-- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:1567
+- [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful. :star:4756
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:1575
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources. :star:6
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Testers.io](http://www.testers.io/) - Community Slack for testers to discuss everything and rant. Mostly rant.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
-- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews. :star:9
+- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews. :star:10
 
 ## Contributing
 See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.

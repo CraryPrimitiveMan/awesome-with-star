@@ -108,6 +108,7 @@ Patreon: https://www.patreon.com/herrbischoff
     - [Remote Apple Events](#remote-apple-events)
     - [Root User](#root-user)
     - [Safe Mode Boot](#safe-mode-boot)
+    - [Save Dialogs](#save-dialogs)
     - [Screenshots](#screenshots)
     - [Software Installation](#software-installation)
     - [Software Update](#software-update)
@@ -1835,6 +1836,12 @@ sudo nvram boot-args="-x"
 sudo nvram boot-args=""
 ```
 
+### Save Dialogs
+Significantly improve the now rather slow animation in save dialogs.
+```bash
+defaults write NSGlobalDomain NSWindowResizeTime .001
+```
+
 ### Screenshots
 
 #### Take Delayed Screenshot
@@ -1976,7 +1983,6 @@ sudo systemsetup setusingnetworktime off
 ```
 
 
-
 ## Terminal
 
 #### Ring Terminal Bell
@@ -1987,7 +1993,7 @@ tput bel
 
 ### Alternative Terminals
 
-- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. :star:17799
+- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. :star:17915
 - [iTerm2](https://iterm2.com) - A better Terminal.app.
 - [kitty](https://sw.kovidgoyal.net/kitty/) - Modern, GPU-accelerated terminal emulator.
 
@@ -2002,7 +2008,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:10594
+- [Bash-it](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash. :star:10616
 
 #### fish
 Install the latest version and set as current user's default shell:
@@ -2014,8 +2020,8 @@ chsh -s $(brew --prefix)/bin/fish
 
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
-- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:5213
-- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:292
+- [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell. :star:5233
+- [Installation & Configuration Tutorial](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X. :star:293
 
 #### Zsh
 Install the latest version and set as current user's default shell:
@@ -2027,20 +2033,20 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:10413
-- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:1096
+- [Prezto](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes. :star:10433
+- [zgen](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you. :star:1099
 
 ### Terminal Fonts
 
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
-- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:4993
+- [Codeface](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers. :star:5001
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:2030
+- [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. :star:2036
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:16660
+- [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin. :star:16712
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 

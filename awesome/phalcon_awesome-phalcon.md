@@ -62,7 +62,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:186
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea :star:187
 
 
 ## Application Skeleton
@@ -73,7 +73,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:64
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:333
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon. :star:30
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:722
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:723
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon Framework and Angular :star:19
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:75
@@ -96,8 +96,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for implementing authentications schemes.*
 
 * [Padlock](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server :star:8
-* [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:20
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4917
+* [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:21
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4928
 
 ## CMS & Blogs
 
@@ -189,7 +189,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *List of i18n and l10n libraries and services.*
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates :star:11
-* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation). :star:76
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation). :star:77
 * [Phalcon Translation Module](https://github.com/uLow/phalcon-translate) - Phalcon Translation Module. Easy way to have translations for your projects. Includes volt integration. :star:1
 
 
@@ -274,9 +274,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon Framework :star:60
 * [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server :star:39
 * [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate :star:96
-* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:20
-* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:35
-* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon Framework :star:219
+* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer :star:21
+* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:36
+* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon Framework :star:220
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon :star:25
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application :star:163
 * [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package :star:29
@@ -332,7 +332,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon Framework :star:6
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:23
-* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:285
+* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:286
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:341
 
 
@@ -358,7 +358,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon Framework :star:3
 * [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon Framework :star:2
-* [PHP Request Validator](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support :star:28
+* [PHP Request Validator](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support :star:29
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface :star:2
 
 

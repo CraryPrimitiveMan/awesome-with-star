@@ -129,6 +129,7 @@ Graphics
 * :moneybag: [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 * :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+* :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,    
 
 #### Vector/Image Editor
 
@@ -288,6 +289,7 @@ Code
 * :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 * :tada: [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * :tada: [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 * :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
 * :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
@@ -446,7 +448,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:653
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:654
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

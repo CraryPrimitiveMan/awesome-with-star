@@ -54,7 +54,7 @@ Official resources.
 
 - [Website](https://eos.io/)
 - [GitHub](https://github.com/eosio)
-- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2053
+- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2054
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
 - [Developer Portal](https://developers.eos.io/)
@@ -101,13 +101,13 @@ Various software and tools.
 #### Desktop
 
 - [cleos](https://developers.eos.io/eosio-cleos/docs)
-  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10567
+  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10580
   - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article.
 - [Scatter](https://get-scatter.com/)
-  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:387
+  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:388
 - [EOS Toolkit](https://eostoolkit.io/)
   - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub. :star:71
   - [EOS Toolkit by Genereos](https://www.youtube.com/watch?v=dg7mIWPnV0E) - YouTube.
@@ -137,8 +137,8 @@ Various software and tools.
 
 #### Mobile
 
-- [OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) :star:154
-- [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) :star:112
+- [OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) :star:155
+- [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) :star:111
 - [Android client for EOS.IO](https://github.com/playerone-id/EosCommander) :star:207
 
 ### Account services
@@ -186,26 +186,26 @@ All about development on EOSIO platform.
 
 #### API libraries
 
-- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK. :star:1203
-- [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) - Official Java SDK. :star:45
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK. :star:1207
+- [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) - Official Java SDK. :star:46
   - [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
   - [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
 - [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) - Official Swift SDK. :star:33
   - [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
   - [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
 - [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library. :star:430
-- [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library. :star:154
+- [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library. :star:157
 - [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) - Kotlin / Android library. :star:33
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library. :star:5
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library. :star:13
-- [React Native EOS](https://github.com/EvaCoop/react-native-eos) - Native implementation of client to eos blockchain communication. :star:28
+- [React Native EOS](https://github.com/EvaCoop/react-native-eos) - Native implementation of client to eos blockchain communication. :star:29
 - [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) - Official GitHub. :star:48
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
 #### Authentication and Signing libraries
 
-- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers. :star:73
+- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers. :star:74
   - [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
 - [EOSIO/eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) - Example web app demonstrating EOSIO signing via WebAuthn. :star:11
   - [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - Article.
@@ -227,7 +227,7 @@ All about development on EOSIO platform.
 
 ### Developer Tools
 
-- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts. :star:381
+- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts. :star:383
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification. :star:18
 - [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
 - [EOS Node Tools](https://eosnode.tools/) - This microsite is a collection of resources and tools for any EOS enthusiast, dApp developer or block producer who wants to setup, maintain or recover their own nodes for the EOSIO blockchain.
@@ -237,7 +237,7 @@ All about development on EOSIO platform.
 - [EOSSnapshots.io](https://www.eossnapshots.io/) - Snapshots As A Service.
   - [Snapshots As A Service: Airdrops for All](https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac) - Article.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain. :star:55
-- [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS). :star:192
+- [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS). :star:194
 - [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOSIO keosd with Touch ID Secure Enclave. :star:14
 
 
@@ -249,7 +249,7 @@ All about development on EOSIO platform.
 
 ### Code examples
 
-- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain. :star:210
+- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain. :star:211
 - [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java. :star:9
 - [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap). :star:47
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter. :star:79

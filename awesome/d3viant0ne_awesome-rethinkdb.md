@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### ORM
 
-- [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python. :star:188
+- [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python. :star:189
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 - [Rethink](https://github.com/caoimhghin/rethink) - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB. :star:14
  - Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
@@ -160,11 +160,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Community Supported Drivers
 
-- [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage. :star:300
+- [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage. :star:302
 - [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++. :star:82
-- [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:187
+- [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure. :star:188
 - [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3. :star:31
-- [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:496
+- [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir. :star:498
 - [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.  :star:1463
 - [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell. :star:92
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp. :star:42
@@ -172,7 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.  :star:13
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver. :star:22
 - [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL). :star:335
-- [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:99
+- [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB. :star:100
 
 **[Back to top](#table-of-contents)**
 
@@ -206,12 +206,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### RethinkDB Examples
 
 - [RethinkDB NodeJS Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat) - A node.js chat application running on rethinkdb. :star:198
-- [RethinkDB Flask Backbone ToDo](https://github.com/rethinkdb/rethinkdb-example-flask-backbone-todo) - A canonical backbone todo application running on flask and RethinkDB. :star:118
+- [RethinkDB Flask Backbone ToDo](https://github.com/rethinkdb/rethinkdb-example-flask-backbone-todo) - A canonical backbone todo application running on flask and RethinkDB. :star:119
 - [RethinkDB ccoenraets/nodecellar Fork](https://github.com/rethinkdb/nodecellar-rethinkdb) - Sample app built with Backbone.js,Bootstrap, Node.js, Express, RethinkDB. :star:12
 - [RethinkDB PubNub Live Blog](https://github.com/rethinkdb/rethinkdb-pubnub-liveblog) - PubNub / Express Blog Example App. :star:20
-- [RethinkDB Angular Express Promise](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express-promise) - Promise based Todo example with RethinkDB, ExpressJS and AngularJS . :star:130
-- [RethinkDB Angular Express](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express) - Todo example with RethinkDB, ExpressJS and AngularJS. :star:130
-- [RethinkDB Angular KOA](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-koa) - Todo example with RethinkDB, KoaJS and AngularJS.  :star:130
+- [RethinkDB Angular Express Promise](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express-promise) - Promise based Todo example with RethinkDB, ExpressJS and AngularJS . :star:131
+- [RethinkDB Angular Express](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express) - Todo example with RethinkDB, ExpressJS and AngularJS. :star:131
+- [RethinkDB Angular KOA](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-koa) - Todo example with RethinkDB, KoaJS and AngularJS.  :star:131
 
 #### Community Examples
 
@@ -220,9 +220,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB :star:25
 - [Boot RethinkDB](https://github.com/geowarin/boot-rethinkdb) - Chat example with spring boot and RethinkDB. :star:37
 - [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application. :star:66
-- [Meguca](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB. :star:213
+- [Meguca](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB. :star:215
 - [VueJS RethinkDB](https://github.com/alexcheninfo/vuejs-rethinkdb-example) - Vuejs + Express + RethinkDB example. :star:59
-- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:861
+- [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. :star:862
 - [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) - A Meteor and RethinkDB Example Using GraphQL. :star:45
 
 **[Back to top](#table-of-contents)**

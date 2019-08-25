@@ -71,20 +71,20 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/). :star:54
-* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:11
+* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:12
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
 
-* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:55
-* [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:73
+* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:57
+* [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:74
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1665
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:338
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1679
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:347
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -144,7 +144,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1090
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1096
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:188
 
 ## License

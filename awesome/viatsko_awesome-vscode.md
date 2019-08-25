@@ -184,7 +184,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Source code](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:81415
+- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:81762
 
 # Syntax
 
@@ -949,7 +949,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:81
+- [Essence](https://github.com/flagello/Essence) :star:83
 - [Pragmatic Essence](https://github.com/orta/Essence) :star:71
 
 ## Syntax
@@ -1192,7 +1192,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module :star:105
+- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module :star:106
 - [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method. :star:1
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests. :star:1
 
@@ -1201,7 +1201,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:541
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:545
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 

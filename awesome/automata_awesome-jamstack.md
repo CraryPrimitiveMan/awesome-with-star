@@ -105,7 +105,7 @@
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS.
 - [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll.
-- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files. :star:272
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files. :star:271
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
@@ -149,7 +149,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:318
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:320
 
 ## Serverless
 

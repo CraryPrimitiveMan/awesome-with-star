@@ -37,9 +37,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:565
-* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:401
-* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:484
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client. :star:564
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase. :star:404
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase. :star:487
 
 
 ### Cloud
@@ -65,7 +65,7 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database. :star:2
-* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:873
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase. :star:874
 
 #### Geospatial
 
@@ -73,8 +73,9 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase. :star:151
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:183
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database. :star:185
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
+* [NebulaGraph](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database. :star:389
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 
 #### SQL/OLAP
@@ -97,7 +98,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:559
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase. :star:561
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
@@ -110,27 +111,27 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations
 
-* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector. :star:128
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration. :star:3214
+* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector. :star:129
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration. :star:3229
 * [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 * [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading. :star:9
 * [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around Cascading.HBase for use in Cascalog. :star:21
 * [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch. :star:95
 * [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
 * [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase. :star:31
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector. :star:9906
-* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase. :star:304
-* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase. :star:524
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector. :star:10029
+* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase. :star:303
+* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase. :star:527
 * [HAWQ](http://pivotalhd-210.docs.pivotal.io/tutorial/getting-started/hawq/pxf-hbase-external-tables.html) - HAWQ PXF external tables on HBase.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
-* [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy. :star:59
+* [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy. :star:61
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration. :star:580
 * [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - HBase connector for Pulsar.
 * [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
-* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:425
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector. :star:427
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
-* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase. :star:5802
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase. :star:5814
 * [Tajo](https://tajo.apache.org/docs/current/hbase_integration.html) - Tajo integration with HBase.
 * [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 

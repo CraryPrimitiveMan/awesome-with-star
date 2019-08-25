@@ -40,7 +40,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](https://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2287
+- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2293
 - [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - Interview about the philosophy behind Eta's development.
 
 ### First Steps
@@ -56,7 +56,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Compatibility
 
-- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta. :star:54
+- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta. :star:56
 - [Template Haskell](https://eta-lang.org/docs/faq#eta-repl-support) - Status of Template Haskell.
 - [GHC 8](https://eta-lang.org/docs/faq#is-eta-compatible-ghc8) - Compatibility with GHC 8.
 
@@ -126,7 +126,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Android
 
-- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:25
+- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android. :star:24
 - [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android. :star:40
 
 ### Web

@@ -31,9 +31,9 @@
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:44
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:76
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:518
+- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:519
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:15
-- [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:35
+- [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:36
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests. :star:14
 - [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing. :star:31
 - [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability. :star:30
@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16688
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1436
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5102
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16719
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1441
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5106
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -63,11 +63,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:235
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:236
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5872
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5892
 
 [More...](https://testanything.org/producers.html)
 
@@ -106,7 +106,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:140
+- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:142
 
 
 ## Documentation

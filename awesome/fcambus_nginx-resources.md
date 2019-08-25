@@ -9,7 +9,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
 - [Understanding Nginx versioning](https://www.nginx.com/blog/nginx-1-6-1-7-released/)
-- [Interview with the creator of Nginx](http://mindend.com/index.php/interview-with-the-creator-of-nginx/)
+- [Interview with the creator of Nginx](https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/)
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
 - [The case for Nginx in front of application servers](https://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
 - [Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush](https://t37.net/nginx-optimization-understanding-sendfile-tcp_nodelay-and-tcp_nopush.html)
@@ -32,17 +32,15 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
-- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:7938
-- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) :star:2371
-- [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
-- [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
+- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) :star:7949
+- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) :star:2373
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 - [nginxconfig.io - Online nginx configuration generator](https://nginxconfig.io)
 
 ## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](https://www.nginx.com/resources/admin-guide/)
-- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials)) :star:2291
+- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials)) :star:2293
 - [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 - [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
 - [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
@@ -115,7 +113,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
-- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:4907
+- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) :star:4920
 
 - [OpenResty Con 2015](http://www.iresty.com)
 
@@ -123,10 +121,11 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 - [Tengine Web Server](http://tengine.taobao.org)
-- [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) :star:7324
+- [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) :star:7371
 
 ## Talks
 
+- [NGINX Conference 2018 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS)
 - [NGINX Conference 2017 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXeT-z_rcZ9yF0kV5SENZ-yt)
 - [NGINX Conference 2016 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXcOsB_dT26iu0BvbSxWYG1g)
 - [NGINX Conference 2015 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)

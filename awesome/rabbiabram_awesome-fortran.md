@@ -25,7 +25,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Contributing](#contributing)
 
 ## Functional Libraries
-* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:231
+* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:234
 
 
 ## Graphics Libraries
@@ -34,7 +34,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [DISLIN](http://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](http://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
-* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool. :star:140
+* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool. :star:141
 * [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
 * [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard. :star:66
 
@@ -48,15 +48,15 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
-* [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. :star:96
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2836
+* [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. :star:97
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2846
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
 *Libraries for JSON data manipulating with Fortran language.*
 
 * [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser. :star:49
-* [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API. :star:171
+* [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API. :star:172
 
 ## XML Manipulation
 *Libraries for XML data manipulating with Fortran language.*

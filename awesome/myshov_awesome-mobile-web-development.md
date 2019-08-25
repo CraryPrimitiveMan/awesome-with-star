@@ -87,9 +87,10 @@ All that you need to create a great mobile web experience.
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - How to audit performance issues on the site, by Paul Lewis.
 
 
-## Performance Auditing Tools
+## Auditing Tools
 
-- [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages. :star:17622
+- [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages. :star:17675
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
 - [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - Compare the speed of your mobile site to others.
@@ -108,16 +109,16 @@ All that you need to create a great mobile web experience.
 ## Other Useful Tools and Libraries
 
 - [Browsersync](https://browsersync.io) - Time-saving synchronised browser testing.
-- [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers. :star:6331
-- [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers. :star:8557
-- [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers. :star:17629
-- [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API :star:5621
-- [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web. :star:9735
+- [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers. :star:6373
+- [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers. :star:8575
+- [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers. :star:17639
+- [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API :star:5641
+- [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web. :star:9771
 - [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites :star:2790
-- [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps. :star:7777
-- [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions. :star:20641
+- [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps. :star:7781
+- [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions. :star:20692
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
-- [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites. :star:18578
+- [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites. :star:18580
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 

@@ -29,7 +29,7 @@
 
 - [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members. :star:18
 - [The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker. :star:254
-- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers. :star:69
+- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers. :star:68
 - [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code. :star:236
 
 ## Programming
@@ -64,7 +64,7 @@
 
 ### Java
 
-- [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:312
+- [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:316
 - [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard. :star:21
 - [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams. :star:48
 - [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful. :star:11
@@ -72,7 +72,7 @@
 
 ### C++
 
-- [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:312
+- [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:316
 - [BaseBot](https://github.com/frc5024/basebot) - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions. :star:1
 
 ### C#

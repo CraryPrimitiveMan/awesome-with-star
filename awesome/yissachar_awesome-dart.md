@@ -46,18 +46,18 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity. :star:180
-* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:571
-* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:1188
-* [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:321
-* [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses. :star:433
+* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:573
+* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:1199
+* [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:323
+* [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses. :star:435
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system :star:33
-* [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources :star:171
+* [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources :star:172
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine :star:1539
+* [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine :star:1557
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine. :star:46
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine. :star:24
@@ -70,7 +70,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Template
 
-* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache. :star:50
+* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache. :star:52
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine. :star:34
 
 ## Database
@@ -89,7 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
 * [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.  :star:148
-* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:440
+* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:448
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:425
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps. :star:30
@@ -103,7 +103,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:135
-* [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:143
+* [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:144
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
@@ -121,11 +121,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR. :star:304
+* [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR. :star:309
 
 ## Testing
 
-* [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library. :star:40
+* [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library. :star:41
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
 
 ## Tools
@@ -161,9 +161,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
-* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package :star:231
-* [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language :star:119
-* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim :star:337
+* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package :star:230
+* [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language :star:120
+* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim :star:336
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.

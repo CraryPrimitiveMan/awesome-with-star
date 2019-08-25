@@ -20,14 +20,14 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/tc39/proposal-observable) :star:2235
+- [Overview](https://github.com/tc39/proposal-observable) :star:2242
 - [Specification](https://tc39.github.io/proposal-observable/)
 
 
 ## Implementations
 
-- [zen-observable](https://github.com/zenparsing/zen-observable) :star:547
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:19497
+- [zen-observable](https://github.com/zenparsing/zen-observable) :star:549
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:19567
 
 
 ## Packages

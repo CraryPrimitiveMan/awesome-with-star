@@ -66,6 +66,7 @@
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
+- [GNOME Feeds](https://gitlab.com/gabmus/gnome-feeds) - An RSS/Atom feed reader for GNOME.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME. :star:144
 - [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
@@ -80,26 +81,26 @@
 
 ### Documents
 
-- [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:63
+- [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support. :star:64
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - Modern GTK Python app to easily read ePub files. :star:2
-- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:847
-- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader :star:937
-- [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:51
-- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs :star:30
+- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME. :star:848
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader :star:953
+- [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer. :star:52
+- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs :star:29
 
 ### Multimedia
 
 - [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop. :star:7
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop. :star:221
-- [Celluloid](https://github.com/celluloid-player/celluloid) - Simple GTK+ frontend for mpv. :star:287
+- [Celluloid](https://github.com/celluloid-player/celluloid) - Simple GTK+ frontend for mpv. :star:293
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio. :star:319
+- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio. :star:320
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:1087
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications. :star:1097
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:189
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux :star:196
 
 ### Graphics
 
@@ -109,7 +110,7 @@
 
 ### Games
 
-- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux :star:2347
+- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux :star:2364
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### Customization
@@ -118,15 +119,15 @@
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME :star:109
-- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers :star:49
+- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers :star:52
 
 ### Tools
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:3459
-- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:348
-- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:4789
-- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:411
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME. :star:3479
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension). :star:349
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF. :star:4818
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala :star:416
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
 
@@ -137,7 +138,7 @@
 
 ## Third-party Apps Plugins
 
-- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita. :star:205
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita. :star:212
 
 ## GTK Modules and Systems
 
@@ -161,13 +162,13 @@
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet. :star:53
-- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:191
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet. :star:190
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet. :star:46
 - [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet. :star:104
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME. :star:375
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for Gnome Shell 3.24+ :star:1134
+- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for Gnome Shell 3.24+ :star:1144
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers :star:93
 
 ### Status Area
@@ -177,12 +178,12 @@
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets. :star:51
 
 ### Windows
-- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:109
+- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen. :star:110
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell. :star:200
 - [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
-- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell. :star:384
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell. :star:386
 
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - Transforms the GNOME Dash into a fully-featured dock.
@@ -194,7 +195,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them. :star:903
+- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them. :star:908
 
 ### Adwaita-based
 
@@ -203,47 +204,48 @@
 
 ### Material
 
-- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell) :star:2363
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell) :star:3298
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:1045
+- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell) :star:2376
+- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell) :star:3300
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell. :star:1050
+- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh.
 
 ### Flat
 
-- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell) :star:577
-- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell) :star:343
-- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell) :star:326
+- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell) :star:579
+- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell) :star:347
+- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell) :star:327
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK) :star:1064
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme) :star:493
-- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell) :star:480
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme) :star:494
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell) :star:485
 
 ### Metallic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK) :star:284
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell) :star:777
 - [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell) :star:82
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:493
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme). :star:494
 
 ## Icons
 
 ### Adwaita-based
 
-- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party icons theme, based on GNOME 3.32's Adwaita :star:24
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party icons theme, based on GNOME 3.32's Adwaita :star:26
 
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:2800
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:2814
 - [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus.
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:1404
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines. :star:1412
 
 ### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme. :star:90
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:526
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme. :star:531
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme. :star:121
 
 ### Skeumorphic
@@ -253,7 +255,7 @@
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme. :star:173
- - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:495
+ - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons. :star:497
 
 ## Community
 

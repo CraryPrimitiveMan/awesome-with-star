@@ -31,16 +31,16 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## JavaScript
 
-- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one. :star:4085
+- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one. :star:4104
 - [ffmpeg-probe](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files. :star:8
-- [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using FFmpeg with sexy OpenGL transitions. :star:183
+- [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using FFmpeg with sexy OpenGL transitions. :star:184
 - [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video. :star:40
 - [ffmpeg-extract-frame](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video. :star:4
 - [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using FFmpeg. :star:13
 - [gif-extract-frames](https://github.com/transitive-bullshit/gif-extract-frames) - Extracts frames from GIFs including inter-frame coalescing. :star:7
 - [ffmpeg-extract-audio](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file. :star:5
 - [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg. :star:7
-- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side. :star:898
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side. :star:902
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing. :star:191
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad. :star:10
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
@@ -48,19 +48,19 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Native
 
-- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)). :star:138
+- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)). :star:141
 
 
 ## Mobile
 
-- [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS. :star:1597
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg. :star:24267
+- [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS. :star:1599
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg. :star:24326
 
 
 ## Tutorials
 
 - [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
-- [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) :star:4314
+- [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) :star:4332
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
 

@@ -89,7 +89,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities :star:219
 * [DOM Utilities](https://github.com/dojo/dom) - Dojo2 DOM Utilities :star:11
 * [Dojo Command Line Tooling](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
-* [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:12
+* [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:13
 * [Dojo routing](https://github.com/dojo/routing) - Dojo2 Routing :star:14
 * [Dojo compose](https://github.com/dojo/compose) - Dojo2 Composition Library :star:9
 * [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2 :star:49
@@ -145,16 +145,16 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [AuShada](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management :star:61
 * [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer :star:10
-* [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels :star:41
+* [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels :star:42
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo :star:56
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API :star:48
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops :star:28
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:28
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25745
-* [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:57
-* [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:26
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25758
+* [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:56
+* [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:27
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
 [Back to top](#awesome-dojo)
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18370
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18413
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:100
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:114231
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1457
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:114643
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1462
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:5902
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:5921
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:127
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:197
 

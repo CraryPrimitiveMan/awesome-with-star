@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2948
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2952
 
 ### Articles
 
@@ -36,6 +36,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 * [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations).
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti)
 
 ### Papers
 
@@ -60,7 +61,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:188
-* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:203
+* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:204
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:74
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:79
@@ -68,12 +69,12 @@ Idris is a general purpose pure functional programming language with dependent t
 * [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite. :star:33
 * [idris-http](https://github.com/uwap/idris-http) - HTTP library for Idris. :star:31
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris. :star:17
-* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:45
+* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:46
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:17
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:25
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:23
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:16
-* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:95
+* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:99
 * [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:214
 
 ### Backends
@@ -81,13 +82,13 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris. :star:298
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend. :star:67
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend. :star:176
-* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:70
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend. :star:72
 
 ### Build tools | Package managers
 
 - [Idris Rules](http://idris.build) - Idris rules for Bazel
 - [Ikan](https://github.com/idris-industry/ikan) - A package manager for idris, in idris :star:19
-- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:125
+- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:126
 - [idream](https://github.com/idream-build/idream) - A simple build system for Idris :star:15
 
 ### Community

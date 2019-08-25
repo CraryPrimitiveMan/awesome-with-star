@@ -41,13 +41,13 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata21: Simple Lists](http://codekata.com/kata/kata21-simple-lists/)
 
 ## [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
-  - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) :star:687
-  - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) :star:687
-  - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) :star:687
-  - [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) :star:687
-  - [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) :star:687
-  - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) :star:687
-  - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) :star:687
+  - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) :star:688
+  - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) :star:688
+  - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) :star:688
+  - [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) :star:688
+  - [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) :star:688
+  - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) :star:688
+  - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) :star:688
 
 ## [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas)
   - [Kata 1: (Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
@@ -83,7 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) :star:12
   - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
   - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:158
+  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:159
   - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
   - [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
   - [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
@@ -92,10 +92,10 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) :star:21
   - [incremental_katas](https://github.com/Gianfrancoalongi/incremental_katas) :star:51
   - [CLI Arguments Parser Kata](https://github.com/ivoputzer/cli-args-parser-kata) :star:5
-  - [Git katas](https://github.com/praqma-training/gitkatas) :star:203
+  - [Git katas](https://github.com/praqma-training/gitkatas) :star:204
   - [Pdt256 katas (php, go, python, java, haskell, typescript)](https://github.com/pdt256/kata) :star:4
   - [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata) :star:9
-  - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) :star:1848
+  - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) :star:1863
   
 ## Contribution
   

@@ -57,7 +57,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex).
 
 #### ANE Dev Tools
-* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:29
+* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions . :star:30
 * [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 . :star:49
 
 ## Frameworks
@@ -88,7 +88,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects. :star:148
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc. :star:376
-* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1129
+* [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects. :star:1130
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more. :star:31
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc. :star:52
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games. :star:31
@@ -255,7 +255,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23364
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23409
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:84
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:27
 
@@ -283,7 +283,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript. :star:103
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework. :star:62
-* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:27
+* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP). :star:28
 
 ## Database
 
@@ -472,9 +472,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sockets
 
-* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:244
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:243
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
-* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:212
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:213
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:34
 * [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:11
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF. :star:2
@@ -587,7 +587,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices. :star:56
 
 #### Multimedia ANE
-* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:138
+* [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:139
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:53
 * [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:58
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:2
@@ -595,7 +595,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:10
 * [Speech](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background. :star:13
 * [MyAR](https://github.com/myflashlab/AR-ANE-Samples) - AR ANE supporting Android and iOS 64-bit based on Metaio's SDK. :star:37
-* [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:88
+* [QR-zbar](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader. :star:89
 * [Barcode](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE. :star:12
 * [Bullet](https://github.com/mziwisky/bullet-ane) - Bullet physics simulation library. :star:40
 

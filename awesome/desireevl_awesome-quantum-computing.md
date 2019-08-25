@@ -32,13 +32,13 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
-- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit. :star:968
+- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit. :star:972
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
 - [Quantum computing for the very curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#. :star:1847
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#. :star:1862
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
@@ -56,14 +56,14 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers. :star:1721
+- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers. :star:1736
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - Online quantum composer to run experiments on real quantum computing hardware.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers. :star:26
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
-- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti. :star:843
+- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti. :star:851
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
-- [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - Software development kit by IBM for working with OpenQASM and the IBM Q Experience. :star:2557
+- [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - Software development kit by IBM for working with OpenQASM and the IBM Q Experience. :star:2560
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM. :star:69
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.

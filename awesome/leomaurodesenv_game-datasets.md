@@ -66,7 +66,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 - [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
 - [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels. :star:8
-- [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure. :star:1084
+- [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure. :star:1087
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator.
 - [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
@@ -75,7 +75,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Card game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 - [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D. :star:17
-- [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game. :star:3328
+- [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game. :star:3335
 - [microRTS](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS). :star:121
 - [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854). :star:9
@@ -83,8 +83,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld](https://github.com/polyworld/polyworld) - Artificial life system. :star:117
-- [qengine](https://github.com/klaussilveira/qengine) - Retro game engine. :star:716
-- [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/). :star:1747
+- [qengine](https://github.com/klaussilveira/qengine) - Retro game engine. :star:717
+- [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/). :star:1755
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 - [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) - Competition of Pokemon battle. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf). :star:12
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
@@ -96,13 +96,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Roguelike game. :star:2363
-- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon. :star:532
+- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Roguelike game. :star:2365
+- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon. :star:536
 
 ### Web
 
 - [Digger](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/). :star:35
-- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/). :star:320
+- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/). :star:322
 - [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html). :star:347
 - [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/). :star:167
 - [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
@@ -147,7 +147,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 - [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
-- [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon. :star:59
+- [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon. :star:60
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
 - [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
@@ -160,7 +160,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
-- [StarData](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139). :star:520
+- [StarData](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139). :star:521
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Pokemon data from all generations.
@@ -192,12 +192,12 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
 - [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
-- [Awesome ACG](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games. :star:505
+- [Awesome ACG](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games. :star:507
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [data.world](https://data.world) - Datasets.
 - [datasets-games](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games. :star:3
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language. :star:1192
-- [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub. :star:13255
+- [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub. :star:13280
 - [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
 - [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.

@@ -31,7 +31,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy :star:181
 * [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates. :star:573
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1537
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs :star:1538
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci :star:3
 
 ## IDE and Editor Support
@@ -46,7 +46,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language :star:456
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java :star:230
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap :star:47
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1814
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications :star:1813
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.). :star:45
 * [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
@@ -72,8 +72,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy :star:375
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:2422
-* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:972
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework. :star:2430
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation :star:973
 * [Betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. :star:443
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures. :star:10
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses. :star:34
@@ -81,7 +81,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
-* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:208
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM :star:209
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy :star:144
 * [Vertx](https://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
@@ -93,8 +93,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript :star:206
 
 ## Static Web
-* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:147
-* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:146
+* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy :star:146
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown. :star:148
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy :star:62
@@ -118,8 +118,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin :star:7
-* [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories :star:14
-* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more. :star:1407
+* [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories :star:15
+* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more. :star:1419
 * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH. :star:304
 
 
@@ -131,7 +131,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:3344
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github :star:3350
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 

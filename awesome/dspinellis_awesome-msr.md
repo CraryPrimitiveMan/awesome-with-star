@@ -60,14 +60,14 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 - [Ultimate Debian Database (UDD)](https://wiki.debian.org/UltimateDebianDatabase) - Data about various aspects of Debian (e.g. packages, bugs, mainteners) in the same SQL database.
 - [Unified Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/) - Static source code based datasets which includes the Bugcatchers Bug Dataset, the [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php), the [Eclipse Bug Dataset](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/), the [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/), some datasets from the [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) repository.
-- [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution. :star:3650
+- [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution. :star:3654
 
 ## Tools
 
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 - [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
-- [Coming](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories. :star:33
-- [CryptOSS](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects. :star:1
+- [Coming](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories. :star:35
+- [CryptOSS](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects. :star:2
 - [DbDeo](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells. :star:8
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java. :star:53
@@ -76,10 +76,10 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph. :star:11
 - [Puppeteer](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code. :star:35
-- [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories. :star:156
-- [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code. :star:29
+- [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories. :star:200
+- [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code. :star:30
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_. :star:50
-- [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git). :star:8
+- [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git). :star:9
 
 ## Research Outlets
 - Outlets exclusively devoted to empirical software engineering research

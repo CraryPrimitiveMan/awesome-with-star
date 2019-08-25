@@ -58,8 +58,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 * [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed. :star:120
-* [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project. :star:3162
-* [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage. :star:395
+* [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project. :star:3167
+* [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage. :star:396
 * [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ## Algorithmics
@@ -137,7 +137,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Configuration
 
 * [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
-* [Dhal](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate  :star:509
+* [Dhal](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate  :star:512
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -151,7 +151,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3583
+* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access. :star:3592
 
 ## Data Formats
 
@@ -298,7 +298,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Messaging
 
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
-* [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ). :star:111
+* [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ). :star:112
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
 * [IRC Client](http://hackage.haskell.org/packages/#cat:IRC Client) - a collaborative Hackage list.
 
@@ -319,7 +319,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     ---
 *Additional languages on top of Haskell*
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2949
+* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language :star:2952
 * [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
 
 ## Operating Systems
@@ -396,7 +396,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:6305
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers). :star:6309
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
 * [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!

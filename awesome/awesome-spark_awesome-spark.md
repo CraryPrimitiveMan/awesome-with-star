@@ -63,8 +63,10 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### SQL Data Sources
 
-* [Spark CSV](https://github.com/databricks/spark-csv) <img src="https://img.shields.io/github/last-commit/databricks/spark-csv.svg"> - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)).
-* [Spark Avro](https://github.com/databricks/spark-avro) <img src="https://img.shields.io/github/last-commit/databricks/spark-avro.svg"> - [Apache Avro](https://avro.apache.org/) reader and writer.
+SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html#manually-specifying-options) for files. These include `csv`, `json`, `parquet`, `orc`, and `avro`. It also supports JDBC databases as well as Apache Hive. Additional data sources can be added by including the packages listed below, or writing your own. 
+
+* [Spark CSV](https://github.com/databricks/spark-csv) <img src="https://img.shields.io/github/last-commit/databricks/spark-csv.svg"> - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)). 
+* [Spark Avro](https://github.com/databricks/spark-avro) <img src="https://img.shields.io/github/last-commit/databricks/spark-avro.svg"> - [Apache Avro](https://avro.apache.org/) reader and writer (obselete since Spark 2.4 [[SPARK-24768]](https://issues.apache.org/jira/browse/SPARK-24768)).
 * [Spark XML](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) <img src="https://img.shields.io/github/last-commit/Stratio/Spark-MongoDB.svg"> - MongoDB reader and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) <img src="https://img.shields.io/github/last-commit/datastax/spark-cassandra-connector.svg"> - Cassandra support including data source and API and support for arbitrary queries.
@@ -174,7 +176,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1635
+* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning. :star:1637
 * [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model. :star:688
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment. :star:165
@@ -185,7 +187,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Docker Images
 
-- [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client. :star:4226
+- [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client. :star:4252
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/). :star:771
 
 ### Miscellaneous

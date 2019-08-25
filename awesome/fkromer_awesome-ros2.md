@@ -196,7 +196,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS. :star:16
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2797
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2805
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
 ## Forks
@@ -212,8 +212,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent packages](https://index.ros.org/packages/page/1/time/#ardent).
 - [ROS 2 Design](http://design.ros2.org/) - Articles which inform and guide the ROS 2.0 design efforts.
 - [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
-- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1257
-- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1257
+- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1263
+- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1263
 - [ROS 2 Distribution (rosdistro)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages. :star:2
 - [ROS2 package status](http://repo.ros2.org/).
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) - Status of ROS Bouncy packages.

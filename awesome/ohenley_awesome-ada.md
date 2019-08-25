@@ -210,7 +210,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam. :star:37
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool. :star:27
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com. :star:13
-- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools). :star:187
+- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools). :star:188
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI. :star:6
@@ -224,7 +224,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems. :star:32
-- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel. :star:52
+- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel. :star:53
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting.
@@ -239,13 +239,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux. :star:1
 - [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
 - [buttons](https://github.com/andreacervetti/buttons) - A simple Gtkada Button Mania game.
+- [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
 
 ## Frameworks
 
 #### Components
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - B-trees, Chebyshev series, Cryptography, Doubly-linked webs and lists, Blackboards (lock-free), ELV/eQ-3 MAX! client, Events (plain, pulse, array of), GNUTLS bindings, Graphs (directed, weighted, acyclic, trees), HTTP implementation, FIFO (lock-free), IEEE 754, Inter-process communication, MODBUS client, MQTT client-server/broker, TCP, Mutexes, Objects, ODBC bindings, Parsers, Persistent objects, Persistent storage, Pools, Sets, Maps, SMTP client, SQLite bindings, Stacks, Streams, Strings editing, Tables (maps of strings), Unbounded arrays.
-- [ada-util](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS. :star:17
+- [ada-util](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS. :star:18
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection. :star:20
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection. :star:5
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection. :star:7
@@ -306,7 +307,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset. :star:102
 
 #### Generation
-- [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders. :star:129
+- [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders. :star:130
 - [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL. :star:29
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator. :star:1
@@ -318,7 +319,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Libraries
 
 #### Math
-- [math-packages](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada. :star:7
+- [math-packages](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada. :star:8
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
@@ -342,7 +343,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK. :star:23
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
-- [lib-anne](https://github.com/Entomy/libAnne) - Large collection of Ada packages. This is sort of meant to be a "new standard library". Who's Anne? Ada's daughter. :star:7
+- [lib-anne](https://github.com/Entomy/libAnne) - Large collection of Ada packages. This is sort of meant to be a "new standard library". Who's Anne? Ada's daughter. :star:8
 - [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions. :star:16
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function. :star:1
@@ -372,7 +373,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada. :star:1
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.) :star:52
+- [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.) :star:53
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 - [gela](https://github.com/reznikmm/gela) - Ada code analyzer.

@@ -49,6 +49,7 @@ the word using the `#RubyML` hash tag!
   * [Clustering](#clustering)
   * [Linear classifiers](#linear-classifiers)
   * [Statistical models](#statistical-models)
+  * [Gradient boosting](#gradient-boosting)
 - [Applications of machine learning](#applications-of-machine-learning)
 - [Data structures](#data-structures)
 - [Data visualization](#data-visualization)
@@ -123,7 +124,7 @@ programming languages with appropriate bindings for Ruby.
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to [Scikit-Learn][scikit] in Python.
-- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:452
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:453
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
@@ -149,7 +150,7 @@ programming languages with appropriate bindings for Ruby.
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Deep learning framework for Ruby.
-- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:801
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:803
 
 
 ### Kernel methods
@@ -217,6 +218,18 @@ programming languages with appropriate bindings for Ruby.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
   <sup>[[dep: bundled](#bundled)]</sup>
+
+### Gradient boosting
+
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) &mdash;
+  Ruby bindings for XGBoost.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [xgb](https://github.com/ankane/xgb) &mdash;
+  Ruby bindings for XGBoost.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [lightgbm](https://github.com/ankane/lightgbm) &mdash;
+  Ruby bindings for LightGBM.
+  <sup>[[dep: LightGBM](#lightgbm)]</sup>
 
 ## Applications of machine learning
 
@@ -366,6 +379,10 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Related Resources
 
+- <a name="lightgbm"></a>
+  [LightGBM](https://github.com/microsoft/LightGBM)
+- <a name="xgboost"></a>
+  [XGBoost](https://github.com/dmlc/xgboost)
 - <a name="gls"></a>
   [GSL (GNU Scientific Library)][gls]
 - <a name="opencv"></a>

@@ -154,7 +154,7 @@
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer. :star:17
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated. :star:43
-* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:44
+* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer. :star:43
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer. :star:122
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions. :star:32
 * [framer keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. :star:10
@@ -175,7 +175,7 @@
 
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:97
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:96
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:28
 
 ## Sites

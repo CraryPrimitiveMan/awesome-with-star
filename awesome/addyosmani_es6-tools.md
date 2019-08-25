@@ -3,10 +3,10 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:34189
-* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7980
+* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime :star:34259
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. :star:7984
 * [es6ify](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform :star:606
-* [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform :star:1622
+* [babelify](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform :star:1623
 * [es6-transpiler](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread :star:219
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Facebook's [regenerator](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
@@ -16,7 +16,7 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
-* [Lebab](https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (approximates) :star:4874
+* [Lebab](https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (approximates) :star:4880
 
 ## Build-time transpilation
 
@@ -35,7 +35,7 @@
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
-* [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js)) :star:6735
+* [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js)) :star:6746
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3 :star:5
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * TypeScript: [grunt-ts](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation
@@ -100,7 +100,7 @@
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype :star:54
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
-* [Babel Module Loader](https://github.com/babel/babel-loader) :star:3876
+* [Babel Module Loader](https://github.com/babel/babel-loader) :star:3886
 * [beck.js](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments :star:5
 
 ## Boilerplates
@@ -118,8 +118,8 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:9729
-* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2862
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel). :star:9802
+* [es6-shim](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more. :star:2867
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) :star:140
@@ -133,15 +133,15 @@
 * [`Array.prototype.findIndex`](https://github.com/paulmillr/Array.prototype.findIndex) :star:27
 * [`Array.from`](https://github.com/mathiasbynens/Array.from) :star:57
 * [`Array.of`](https://github.com/mathiasbynens/Array.of) :star:11
-* [`Object.assign`](https://github.com/sindresorhus/object-assign) :star:827
+* [`Object.assign`](https://github.com/sindresorhus/object-assign) :star:828
 * [`Number.isFinite`](https://github.com/sindresorhus/is-finite) :star:14
 * [`Math.sign`](https://github.com/sindresorhus/math-sign) :star:6
 * [`RegExp.prototype.match`](https://github.com/mathiasbynens/RegExp.prototype.match) :star:8
 * [`RegExp.prototype.search`](https://github.com/mathiasbynens/RegExp.prototype.search) :star:5
-* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:6735
+* [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API :star:6746
 * [ES6 Map Shim](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible. :star:22
 * [`Function.create`](https://github.com/walling/Function.create.js) :star:8
-* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) :star:1186
+* [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) :star:1187
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol) :star:157
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections) :star:4
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
@@ -157,8 +157,8 @@
 
 ## Parsers
 
-* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) :star:2349
-* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:5017
+* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) :star:2356
+* [Acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format. :star:5114
 * [esparse](https://github.com/zenparsing/esparse) - ES6 parser written in ES6. :star:112
 * [Traceur compiler](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
@@ -169,12 +169,12 @@
 * [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc. :star:3
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules. :star:3
-* [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6 :star:168
-* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/esnext/es6-arrow-function). :star:2602
+* [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6 :star:169
+* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/esnext/es6-arrow-function). :star:2626
 * [Paws on ES6](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities. :star:315
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 * [es6-translate](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6. :star:5
-* [Isparta](https://github.com/douglasduteil/isparta) :star:659
+* [Isparta](https://github.com/douglasduteil/isparta) :star:660
 * [babel-node](https://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using Babel.
 * [ES6 Lab setup](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `Babel` or `traceur` with `gulp` and `jasmine` support. :star:29
 * [TypeScript](http://www.typescriptlang.org/) - A superset of ECMAScript with strict typing that aims to align with ES6

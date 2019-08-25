@@ -56,30 +56,30 @@
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 - [Ardour](https://ardour.org/) - Digital Audio Workstation (DAW). ([GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
-- [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt)) :star:3058
-- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE)) :star:1392
+- [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt)) :star:3075
+- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE)) :star:1394
 
 ### Command Line Tools
 
-- [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE)) :star:7241
+- [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE)) :star:7256
 - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
-- [Logdissect](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) :star:51
+- [Logdissect](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) :star:52
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
-- [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md)) :star:6087
+- [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md)) :star:6122
 
 ### Communication
 
-- [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE)) :star:3292
+- [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE)) :star:3311
 - [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE)) :star:4093
-- [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE)) :star:8331
-- [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE)) :star:4487
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE)) :star:4108
+- [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE)) :star:8355
+- [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE)) :star:4517
 - [Mattermost](https://mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
-- [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md)) :star:2300
+- [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md)) :star:2302
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
-- [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE)) :star:11759
-- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING)) :star:1042
-- [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt)) :star:2762
+- [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE)) :star:11776
+- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING)) :star:1045
+- [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt)) :star:2776
 
 ### File Management
 
@@ -96,13 +96,13 @@
 - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
 - [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
 - [Krita](https://krita.org) - Painting program made by artists. ([GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt)) :star:594
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt)) :star:597
 - [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE)) :star:11
 
 ### IDEs
 
 - [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
-- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt)) :star:8315
+- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt)) :star:8350
 
 ### Office
 
@@ -119,24 +119,24 @@
 ### Other
 
 - [Disroot](https://disroot.org/) - Hosted versions of many of the services on this list. (Multiple licenses)
-- [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md)) :star:697
+- [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md)) :star:702
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
 
 ### Payments
 
-- [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE)) :star:3565
+- [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE)) :star:3579
 - [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
 ### Scientific Work
 
-- [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt)) :star:222
-- [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md)) :star:1377
+- [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt)) :star:221
+- [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md)) :star:1381
   
 ### Screencasting
 
-- [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING)) :star:14241
-- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt)) :star:10603
+- [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING)) :star:14314
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt)) :star:10629
 - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
 
 ### Text Editors
@@ -148,17 +148,17 @@
 
 ### Utilities
 
-- [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md)) :star:533
-- [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md)) :star:494
-- [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE)) :star:203
+- [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md)) :star:536
+- [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md)) :star:495
+- [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE)) :star:207
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
   
 ### Video
 
-- [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE)) :star:6208
-- [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md)) :star:9427
+- [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE)) :star:6238
+- [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md)) :star:9451
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
-- [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE)) :star:54502
+- [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE)) :star:54694
   
 ### Virtualization
 
@@ -168,24 +168,24 @@
 ### Web Applications
 
 - [Dnote](https://dnote.io/) - A simple, end-to-end encrypted notebook for privacy. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
-- [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE)) :star:8037
-- [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE)) :star:30672
+- [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE)) :star:8062
+- [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE)) :star:30720
 - [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
-- [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE)) :star:31348
-- [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md)) :star:211
-- [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE)) :star:2310
-- [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE)) :star:18611
+- [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE)) :star:31446
+- [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md)) :star:212
+- [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE)) :star:2322
+- [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE)) :star:18694
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [MetaGer](https://metager.de/en) - Private search engine created by a non-profit that uses green electricity for its servers. ([GNU AGPLv3](https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE))
-- [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt)) :star:562
+- [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt)) :star:564
 - [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming service. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
-- [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE)) :star:10875
-- [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md)) :star:4320
-- [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING)) :star:1498
+- [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE)) :star:10906
+- [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md)) :star:4343
+- [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING)) :star:1499
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Servers
@@ -267,9 +267,9 @@
 
 ### Other Lists
 
-- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:586
-- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:34663
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:8522
+- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy. :star:592
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally. :star:34830
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools. :star:8556
 
 ### People
 

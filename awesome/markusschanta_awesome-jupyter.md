@@ -31,50 +31,50 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Runtimes/Frontends
 
 - [Beaker](http://beakernotebook.com) - Development environment with seamless data transmission from one language to another.
-- [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker. :star:4226
-- [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels. :star:3333
-- [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime. :star:6157
-- [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter. :star:4927
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter. :star:8609
-- [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments. :star:82
+- [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker. :star:4252
+- [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels. :star:3343
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime. :star:6178
+- [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter. :star:4943
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter. :star:8642
+- [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments. :star:84
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. :star:325
-- [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages. :star:1056
-- [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend. :star:4286
+- [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages. :star:1059
+- [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend. :star:4290
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend. :star:542
 
 ## Collaboration/Education
 
-- [callgraph](https://github.com/osteele/callgraph) - Magic to display a function call graph. :star:26
+- [callgraph](https://github.com/osteele/callgraph) - Magic to display a function call graph. :star:27
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter. :star:143
-- [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter. :star:385
+- [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter. :star:386
 - [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock. :star:17
-- [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook. :star:24
+- [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook. :star:25
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx. :star:18
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises. :star:4
-- [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks. :star:771
-- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line). :star:341
+- [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks. :star:774
+- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line). :star:342
 
 ## Visualization
 
-- [Altair](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite). :star:4059
+- [Altair](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite). :star:4075
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
-- [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter. :star:2470
+- [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter. :star:2477
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks. :star:9
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks. :star:733
-- [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter. :star:187
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks. :star:735
+- [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter. :star:190
 - [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter. :star:22
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. :star:85
-- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter. :star:1512
-- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL. :star:1195
-- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D. :star:169
+- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter. :star:1517
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL. :star:1199
+- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D. :star:170
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D. :star:11
-- [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks. :star:560
+- [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks. :star:563
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js vor interactive data visualizations.
-- [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library. :star:6582
-- [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure. :star:535
-- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. :star:1858
+- [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library. :star:6632
+- [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure. :star:536
+- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. :star:1865
 - [tributary](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support. :star:82
-- [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables. :star:11206
+- [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables. :star:11279
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet. :star:32
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc. :star:14
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets. :star:76
@@ -82,40 +82,40 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Rendering/Publishing/Conversion
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
-- [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks. :star:72
-- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents. :star:2714
+- [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks. :star:73
+- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents. :star:2728
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
-- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. :star:1316
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. :star:1329
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons. :star:142
-- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks. :star:9
+- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks. :star:10
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-- [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back). :star:649
-- [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks. :star:2320
-- [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text. :star:200
-- [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow. :star:2363
+- [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back). :star:650
+- [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks. :star:2354
+- [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text. :star:199
+- [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow. :star:2370
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file. :star:8
-- [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks :star:1057
+- [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks :star:1078
 
 ## JupyterLab Extensions
 
-- [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags. :star:68
-- [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams. :star:268
-- [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration. :star:388
-- [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab. :star:80
-- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration. :star:251
-- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab. :star:27
+- [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags. :star:69
+- [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams. :star:270
+- [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration. :star:389
+- [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab. :star:82
+- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration. :star:252
+- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab. :star:29
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. :star:4
-- [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents. :star:233
+- [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents. :star:235
 - [statusbar](https://github.com/jupyterlab/jupyterlab-statusbar) - Statusbar that displays various metrics/states of JupyterLab. :star:44
-- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks. :star:346
-- [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values. :star:384
-- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/). :star:173
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks. :star:349
+- [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values. :star:388
+- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/). :star:174
 
 ## Testing
 
-- [ipytest](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook. :star:79
-- [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks. :star:233
+- [ipytest](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook. :star:80
+- [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks. :star:234
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx Extension for Generating Jupyter Notebooks. :star:50
 - [nosebook](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests. :star:76
 
@@ -123,7 +123,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [ArcGIS](https://developers.arcgis.com/python/) - Library for working with maps and geospatial data, powered by web GIS.
 - [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
-- [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis. :star:917
+- [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis. :star:921
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries. :star:619
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook. :star:65
@@ -145,7 +145,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Official Resources and Documentation
 
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
-- [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels. :star:8327
+- [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels. :star:8367
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
 - [Try Jupyter](https://try.jupyter.org) - Try Jupyter in your browser.
 
@@ -165,17 +165,17 @@ is the PyPI trove classifier for Jupyter projects.
 ## Articles/Guides/Tutorials
 
 - [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
-- [Gallery of Jupyter notebooks I](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) :star:8327
+- [Gallery of Jupyter notebooks I](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) :star:8367
 - [Gallery of Jupyter notebooks II](http://nb.bianp.net/sort/views/)
 - [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-- [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks) :star:479
+- [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks) :star:482
 - [JupyterLab - Your Personal Data Science Workbench](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London. :star:13
 - [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
-- [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes) :star:6029
+- [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes) :star:6059
 - [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-- [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) :star:2570
+- [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) :star:2579
 - [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
-- [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig. :star:12388
+- [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig. :star:12403
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 

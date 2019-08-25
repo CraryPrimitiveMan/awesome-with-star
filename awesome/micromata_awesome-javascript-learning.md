@@ -29,7 +29,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) - Glossary which explains all the buzzwords from the JavaScript eco system.
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Helps developers with basic knowledge to get familiar with modern codebases. :star:19041
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Helps developers with basic knowledge to get familiar with modern codebases. :star:19066
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
 ## Articles & Tutorials
@@ -58,7 +58,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 ## Free eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language. :star:106708
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language. :star:107219
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
@@ -94,6 +94,7 @@ Thin books which you can get through in a few days.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
+- [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 
 ## ES6 and above
 
@@ -102,8 +103,8 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2541
-- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:47822
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices. :star:2547
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less. :star:48003
 
 ## DOM related
 
@@ -113,7 +114,7 @@ Thin books which you can get through in a few days.
 
 ## Node.js
 
-- [The Art of Node](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.  :star:8321
+- [The Art of Node](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.  :star:8333
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.

@@ -91,11 +91,11 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 ## Open Source
 
 - [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:78
-- [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:32
+- [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:33
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:60
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components :star:1
-- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:33
+- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:34
 - [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:6
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app. :star:1
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:188

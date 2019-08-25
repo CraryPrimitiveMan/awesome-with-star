@@ -278,7 +278,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
 * [Blackbox](https://github.com/bradleythughes/blackbox) - Lightweight window manager for the X window system, without library dependencies. Built using C++. :star:20
-* [bspwm](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree. :star:2968
+* [bspwm](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree. :star:2984
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.
 * [Enlightenment](http://www.enlightenment.org/) - Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.
@@ -319,7 +319,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app. :star:463
+* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app. :star:467
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -348,11 +348,11 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features. :star:4637
+* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features. :star:4656
 * [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. :star:368
-* [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:3147
+* [ramme](https://github.com/terkelg/ramme) - Instagram client. :star:3153
 * [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client). :star:1262
-* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version. :star:344
+* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version. :star:346
 
 #### Package management and creation tools
 
@@ -363,34 +363,34 @@ Distro-oriented:
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [dnfdragora](https://github.com/manatools/dnfdragora) (Fedora) - A GUI for the `dnf` package manager. :star:44
-* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers). :star:3288
-* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager. :star:754
+* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers). :star:3324
+* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager. :star:756
 
 Distro-independent:
 
-* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:4773
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file. :star:4794
 
 ### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:45963
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command. :star:46267
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:6083
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2621
-* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:16010
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:3195
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console. :star:6121
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal. :star:2628
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts. :star:16098
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/). :star:3200
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
-* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser. :star:7959
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser. :star:7990
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
-* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor. :star:3362
-* [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices. :star:299
-* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:54493
+* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor. :star:3369
+* [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices. :star:301
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites. :star:54688
 
 ## Useful Websites
 
