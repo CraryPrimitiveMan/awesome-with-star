@@ -90,7 +90,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 ## Open Source
 
-- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:78
+- [11t](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon :star:77
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API. :star:33
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse. :star:60
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.

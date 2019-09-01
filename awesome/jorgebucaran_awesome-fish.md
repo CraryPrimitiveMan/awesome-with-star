@@ -11,38 +11,38 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 
 ### Package managers
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager. :star:3806
-- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by vundle. :star:227
-- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - Shell configuration framework and package manager all-in-one. :star:5233
+- [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager. :star:3814
+- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by vundle. :star:229
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - Shell configuration framework and package manager all-in-one. :star:5250
 
 ### Shell prompts
 
-- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt. :star:473
+- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt. :star:475
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) - No bells or whistles, minimal shell prompt. :star:13
-- [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt. :star:24
-- [Spacefish](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts. :star:473
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt. :star:809
+- [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt. :star:25
+- [Spacefish](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts. :star:481
+- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt. :star:811
 
 ### Commands, utilities, functions
 
-- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. :star:335
-- [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf). :star:314
-- [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)). :star:126
-- [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes. :star:190
+- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. :star:338
+- [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf). :star:316
+- [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)). :star:127
+- [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes. :star:191
 - [mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks. :star:6
 - [spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell. :star:180
 - [gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow. :star:4
-- [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line. :star:99
+- [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line. :star:100
 - [getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [argparse](https://fishshell.com/docs/current/commands.html#argparse) fish builtin. :star:128
 - [git-util](https://github.com/fishpkg/fish-git-util) - Git utility functions to query the status of a repository. :star:53
-- [fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish scripts. :star:236
+- [fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish scripts. :star:237
 - [ssh-agent](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent. :star:101
-- [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution. :star:38
-- [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper. :star:683
-- [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2. :star:34
-- [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. :star:463
-- [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)). :star:192
-- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search. :star:91
+- [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution. :star:42
+- [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper. :star:685
+- [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2. :star:35
+- [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. :star:465
+- [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)). :star:195
+- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search. :star:92
 
 ### Articles, tutorials, guides
 

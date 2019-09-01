@@ -8,7 +8,7 @@
 
 ## Articles
 
-* [One-line node modules](https://github.com/sindresorhus/ama/issues/10) :star:1083
+* [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
 * [Module best practices](https://github.com/mattdesl/module-best-practices) :star:1305
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
@@ -41,7 +41,7 @@
 
 ### String
 
-* [decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow. :star:141
+* [decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow. :star:142
 * [pad-left](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string. :star:37
 * [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case. :star:27
 * [to-capital-case](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case. :star:9
@@ -56,20 +56,20 @@
 * [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars. :star:1043
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style. :star:26
-* [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes. :star:203
-* [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js. :star:354
+* [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes. :star:204
+* [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js. :star:357
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value. :star:1
 
 ### Date & Time
 
-* [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s. :star:420
+* [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s. :star:423
 * [hirestime](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps. :star:8
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds. :star:2
-* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1743
+* [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing. :star:1745
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service. :star:1
-* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3805
+* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement. :star:3819
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month. :star:1
-* [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp. :star:78
+* [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp. :star:79
 * [twas](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago") :star:141
 
 ### Object
@@ -82,8 +82,8 @@
 * [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness. :star:6
 * [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module. :star:428
 * [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign(). :star:248
-* [set-value](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths. :star:110
-* [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object. :star:130
+* [set-value](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths. :star:117
+* [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object. :star:131
 * [has-value](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths. :star:19
 * [has-key-deep](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation. :star:1
 * [flatkeys](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator. :star:3
@@ -95,7 +95,7 @@
 * [missing-deep-keys](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 * [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property.  :star:2
 * [merge-objects](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated. :star:2
-* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects. :star:345
+* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects. :star:347
 
 ### Function
 
@@ -104,23 +104,23 @@
 * [once](https://github.com/isaacs/once) - Run a function exactly one time. :star:162
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions. :star:7
 * [identity-function](https://github.com/substack/identity-function) - Always return the input argument.  :star:8
-* [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input. :star:559
-* [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions. :star:446
+* [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input. :star:565
+* [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions. :star:449
 * [compose-tiny](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function. :star:42
 
 ### Math
 
-* [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number. :star:136
+* [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number. :star:138
 
 ### Stream
-* [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise. :star:1607
-* [through2-filter](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams. :star:30
-* [through2-map](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams. :star:66
+* [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise. :star:1610
+* [through2-filter](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams. :star:31
+* [through2-map](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams. :star:67
 * [stream-spigot](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams. :star:15
-* [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result. :star:507
+* [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result. :star:508
 * [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify :star:1678
 * [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2. :star:3
-* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:717
+* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes. :star:721
 * [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. :star:338
 * [is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream. :star:68
 * [syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously. :star:76
@@ -128,33 +128,33 @@
 
 ### Promise
 
-* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:1189
+* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:1190
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties. :star:10
-* [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay. :star:46
-* [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise. :star:83
+* [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay. :star:48
+* [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise. :star:84
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf). :star:3346
-* [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p. :star:2106
+* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf). :star:3354
+* [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p. :star:2109
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb. :star:23
-* [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies. :star:213
-* [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js. :star:497
+* [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies. :star:214
+* [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js. :star:498
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs). :star:173
 
 ### Browser
 
-* [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation. :star:147
+* [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation. :star:148
 * [insert-css](https://github.com/substack/insert-css) - Insert a string of css into the head :star:201
 * [dom-element-value](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter. :star:4
 * [image-promise](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise. :star:95
 * [get-media-size](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context. :star:8
-* [document-ready](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers. :star:51
+* [document-ready](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers. :star:52
 * [copee](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively! :star:78
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm. :star:2893
+* [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm. :star:2905
 * [semver-max](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver. :star:3
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range. :star:2
 
@@ -163,9 +163,9 @@
 ### CLI
 
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings. :star:136
-* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:5853
+* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js. :star:5867
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user. :star:105
-* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:3780
+* [minimist](https://github.com/substack/minimist) - Parse argument options. :star:3785
 * [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format. :star:46
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application :star:4
 
@@ -180,8 +180,8 @@
 
 ### Other
 
-* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:7845
-* [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1413
+* [uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript. :star:7867
+* [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module. :star:1418
 * [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object. :star:3
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name. :star:14
 
@@ -189,8 +189,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:32160
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:3336
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources. :star:32258
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips. :star:3339
 
 ## Small modules rockstars to follow
 

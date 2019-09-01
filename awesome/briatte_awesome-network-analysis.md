@@ -664,7 +664,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
 -   [graphlayouts](https://cran.r-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
-    -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/)
+    -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
+    -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
@@ -828,6 +829,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
       -   [Social Contagion, Information Cascades, Diffusion of Innovations, Etc.](http://bactra.org/notebooks/social-contagion.html)
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
+            -   See also: [An Annotated Bibliography on Stochastic Blockmodels](https://www.alexpghayes.com/blog/an-annotated-bibliography-on-stochastic-block-models/) (2019).
 -   Daniel Little’s blog posts on the philosophy of social science:
       -   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
       -   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).

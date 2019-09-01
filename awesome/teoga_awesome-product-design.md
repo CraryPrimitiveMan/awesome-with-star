@@ -140,7 +140,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
 - [Find Guidelines](http://findguidelin.es/) - The fastest way to brand assets.
 - [Style Guides](http://styleguides.io/) - Website Style Guide Resources.
-- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between. :star:9742
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between. :star:9755
 - [Instant Logo Search](http://instantlogosearch.com/) - Search & download thousands of logos instantly.
 - [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither. :star:710

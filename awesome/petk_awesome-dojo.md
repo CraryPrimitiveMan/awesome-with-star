@@ -81,7 +81,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task :star:4
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit. :star:1
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API :star:165
-* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:268
+* [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects. :star:267
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
 #### Dojo 2
@@ -92,7 +92,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2. :star:13
 * [Dojo routing](https://github.com/dojo/routing) - Dojo2 Routing :star:14
 * [Dojo compose](https://github.com/dojo/compose) - Dojo2 Composition Library :star:9
-* [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2 :star:49
+* [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2 :star:50
 * [Dojo has](https://github.com/dojo/has) - A feature detection library :star:3
 * [Dojo shim](https://github.com/dojo/shim) - Modules that provide modular fills of ES6+ functionality :star:15
 * [Dojo parse](https://github.com/dojo/parser) - A package for declaratively instantiating widgets. :star:3
@@ -152,7 +152,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation :star:13
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit :star:28
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25758
+* [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples :star:25781
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples :star:56
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies. :star:27
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
@@ -199,13 +199,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18413
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list :star:18459
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books :star:100
 * awesome lists:
-    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:114643
-    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1462
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list :star:115042
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list :star:1465
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists](https://github.com/jnv/lists) - awesome lists :star:5921
+    * [lists](https://github.com/jnv/lists) - awesome lists :star:5927
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists :star:127
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists :star:197
 

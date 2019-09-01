@@ -14,7 +14,7 @@
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:395
-- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:235
+- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:236
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:295
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:6
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI. :star:11
@@ -30,20 +30,20 @@
 
 ## Cookbooks
 
-- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:2993
-- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:175
+- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:3008
+- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:176
 - [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
 - [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes. :star:30
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes. :star:7
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1165
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free. :star:6
-- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2390
-- [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:28
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2400
+- [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:29
 
 ## API for Food services
 
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo. :star:4
-- [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy. :star:55
+- [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy. :star:56
 - [Spoonacular](https://spoonacular.com/food-api) -
   Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 - [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.

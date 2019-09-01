@@ -76,15 +76,15 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-des"></a>
 ### Molecular Descriptors
 
-* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:57
-* [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:74
+* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:59
+* [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:75
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1679
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:347
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1687
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:348
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -106,7 +106,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:239
-* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:138
+* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:140
 
 ## Journals
 
@@ -144,8 +144,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1096
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:188
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1098
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:191
 
 ## License
 

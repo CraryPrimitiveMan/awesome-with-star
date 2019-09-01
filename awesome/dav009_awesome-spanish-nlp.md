@@ -27,7 +27,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/) :star:697
+- [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/) :star:698
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora

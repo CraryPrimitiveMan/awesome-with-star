@@ -37,7 +37,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 
 ### Windows
-- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:18317
+- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:18382
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on. :star:17
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
@@ -56,10 +56,10 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Cross-Platform
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron. :star:3
 - [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface. :star:1
-- [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator. :star:9
+- [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator. :star:10
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
-- [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math. :star:84
+- [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math. :star:85
 - [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go. :star:434
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
 

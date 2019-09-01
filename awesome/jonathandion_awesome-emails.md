@@ -28,7 +28,7 @@
 
 ## Frameworks
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:7126
+- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook. :star:7135
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 - [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
@@ -43,17 +43,17 @@
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. :star:6594
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.) :star:6271
-- [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns. :star:3579
-- [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths. :star:3461
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query. :star:629
+- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.) :star:6276
+- [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns. :star:3587
+- [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths. :star:3463
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query. :star:628
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails. :star:294
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
-- [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages. :star:3570
+- [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages. :star:3575
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
-- [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications. :star:1390
+- [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications. :star:1397
 - [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 
 ## Tools
@@ -74,7 +74,7 @@ VML and CSS.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:9164
+- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. :star:9179
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 - [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
@@ -87,7 +87,7 @@ VML and CSS.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
 
 ## Workflows
-- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS. :star:2864
+- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS. :star:2866
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow. :star:162
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
@@ -97,6 +97,7 @@ VML and CSS.
 
 ## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
@@ -109,6 +110,7 @@ VML and CSS.
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 - [HTML Email Blog](https://htmlemail.io/blog/)
+- [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
 
 ## Copy
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
@@ -145,7 +147,7 @@ VML and CSS.
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
-- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go) :star:5222
+- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go) :star:5244
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 - [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails

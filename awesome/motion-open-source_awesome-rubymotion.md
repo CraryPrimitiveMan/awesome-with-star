@@ -80,12 +80,12 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Apps
 
 ### Example Android Apps
-* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1210
+* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
 * [Rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android. :star:27
 
 
 ### Example iOS Apps
-* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1210
+* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
 * [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion.
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit. :star:321
 * [Motion Dropbox Example](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK.
@@ -98,7 +98,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example macOS Apps
-* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1210
+* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
 * [Mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App. :star:4
 * [Motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application. :star:4
 * [Motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion. :star:5
@@ -110,7 +110,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example tvOS Apps
-* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1210
+* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
 
 
 ### Open Source macOS Apps
@@ -215,7 +215,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Sugarcube](https://github.com/rubymotion/sugarcube) - These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string. :star:434
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
-* [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:131
+* [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:132
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:237
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1280
@@ -293,7 +293,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Graphic Libraries
-* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot. :star:78
+* [Motion-Plot](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot. :star:79
 * [Motion-ocr](https://github.com/ferdev/motion-ocr) - RubyMotion wrapper for the OCR engine Tesseract. :star:62
 
 
@@ -338,7 +338,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-giphy](https://github.com/willrax/motion-giphy) - Nice wrapper around the http://giphy.com API. :star:4
 * [Motion-installr](https://github.com/FluffyJack/motion-installr) - Ad-hoc deployment using the amazing Installr service! https://www.installrapp.com/ . :star:13
 * [Under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project. :star:4
-* [MotionPanel](https://github.com/tombroomfield/motion_panel) - Native RubyMotion wrapper around the Mixpanel API. :star:6
+* [MotionPanel](https://github.com/tombroomfield/motion_panel) - Native RubyMotion wrapper around the Mixpanel API.
 * [MotionPaddle](https://github.com/henderea/motion-paddle) - RubyMotion gem for the Paddle framework. :star:1
 * [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - Simple integration of Algolia Offline Search SDK (http://www.algolia.com/) in your RubyMotion application.
 

@@ -129,7 +129,7 @@
 
 ## :family_man_woman_girl_boy: Community
 
-- [GitHub](https://github.com/prisma/prisma) :star:15431
+- [GitHub](https://github.com/prisma/prisma) :star:15491
 - [Website](https://www.prisma.io)
 - [Docs](https://www.prisma.io/docs/)
 - [Tutorials](https://www.prisma.io/tutorials)

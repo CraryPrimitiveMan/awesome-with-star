@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1856
+- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1864
 - [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
 - [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 - [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
@@ -359,7 +359,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration. :star:4
 - [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker. :star:25
 - [Craft 3 Multi-environment](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS. :star:85
-- [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments. :star:293
+- [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments. :star:295
 - [Craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly. :star:127
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects. :star:59
 - [Generator Craft Install](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs. :star:58

@@ -102,7 +102,7 @@ The following are collections of various types of resources (talks, documents, b
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
 - [Inclusion At Work](https://inclusionatwork.co) - By Jennifer Kim.
-- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:275
+- [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan. :star:276
 
 ## Actionable Resources
 

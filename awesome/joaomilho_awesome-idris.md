@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2952
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2957
 
 ### Articles
 
@@ -60,7 +60,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:188
+* [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:189
 * [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:204
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:74
@@ -72,10 +72,10 @@ Idris is a general purpose pure functional programming language with dependent t
 * [specdris](https://github.com/pheymann/specdris) - Test framework for Idris. :star:46
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris. :star:17
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:25
-* [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:23
+* [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:24
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:16
-* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:99
-* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:214
+* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:101
+* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:215
 
 ### Backends
 

@@ -36,7 +36,7 @@
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan](https://github.com/lelylan/lelylan) :star:1407
+- [Lelylan](https://github.com/lelylan/lelylan) :star:1409
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -47,8 +47,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:35761
-- [Electron](https://github.com/atom/electron) :star:76378
+- [nw.js](https://github.com/nwjs/nw.js) :star:35780
+- [Electron](https://github.com/atom/electron) :star:76546
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)
@@ -70,7 +70,7 @@
 
 #### Tools-Plugins
 
-- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:709
+- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:708
 
 ## Miscellaneous
 

@@ -49,12 +49,12 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:423
+- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:424
 
 ### Canon
 
 - [OfxCanon](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.* :star:42
-- [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.* :star:75
+- [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.* :star:76
 
 ### GoPro
 - [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:131
@@ -69,7 +69,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Utilities
 
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:100
-- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:172
+- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:173
 
 
 ## RAW image developers
@@ -84,7 +84,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Fotoxx](http://www.kornelix.com/fotoxx.html) - *A Linux program for editing photos and other images.*
 
 ## HDR Specific Software
-- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:363
+- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:364
 - [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - *HDR Tone Mapping GUI for Linux.*
 - [PFS Tools](http://pfstools.sourceforge.net/) - *A set of command line programs for reading, writing and manipulating HDR images and video frames.*
 
@@ -99,8 +99,8 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
 - [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
-- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:921
-- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.* :star:2894
+- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:923
+- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.* :star:2898
 - [A Photo Manager](https://github.com/k3b/APhotoManager/) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...* :star:114
 ## EXIF Editors
 
@@ -157,13 +157,13 @@ record, convert and stream audio and video.*
 - [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1387
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:81
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:2446
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:2461
 
 ### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:135
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:384
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:389
 - [Frei0r](https://github.com/dyne/frei0r) - *A large collection of free and portable video plugins.* :star:118
 
 ## Scripts

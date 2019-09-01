@@ -18,9 +18,9 @@
 
 ### Official resources
 
-- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6207
+- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6210
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:249
-- [Repo](https://github.com/yoshuawuyts/choo) :star:6207
+- [Repo](https://github.com/yoshuawuyts/choo) :star:6210
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,11 +28,11 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:576
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:577
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:972
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:537
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:539
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:69
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:103
 - [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:169
@@ -43,9 +43,9 @@ under the hood:
 
 ### Demos
 
-- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6207
+- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6210
 - [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
-- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6207
+- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6210
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo)) :star:41
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
 - [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow)) :star:14

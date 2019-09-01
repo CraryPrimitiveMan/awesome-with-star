@@ -18,6 +18,7 @@ A collection of simple tips to help up your jQuery game.
 
 1. [Use `noConflict()`](#use-noconflict)
 1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
+1. [Check Whether an Element Exists](#check-whether-an-element-exists)
 1. [Use `.on()` Binding Instead of `.click()`](#use-on-binding-instead-of-click)
 1. [Back to Top Button](#back-to-top-button)
 1. [Preload Images](#preload-images)
@@ -70,6 +71,19 @@ if (typeof jQuery == 'undefined') {
 ```
 
 Now you're off...
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Check Whether an Element Exists
+
+Prior using a HTML element you need to ensure it's part of DOM.
+
+```javascript
+if ($("#selector").length) {
+  //do something with element
+}
+```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -488,6 +502,10 @@ $(document).ready(function () {
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+
+
+
+
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
@@ -497,13 +515,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ## Translations
 
-* [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES) :star:4111
-* [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR) :star:4111
-* [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU) :star:4111
-* [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT) :star:4111
-* [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU) :star:4111
-* [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN) :star:4111
-* [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW) :star:4111
+* [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES) :star:4108
+* [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR) :star:4108
+* [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU) :star:4108
+* [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT) :star:4108
+* [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU) :star:4108
+* [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN) :star:4108
+* [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW) :star:4108
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

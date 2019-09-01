@@ -39,7 +39,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
-* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) :star:1181
+* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) :star:1183
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
@@ -189,12 +189,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4860
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:10833
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:41427
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:13471
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:8482
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) :star:5743
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:270
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:705
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4872
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:10876
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:41515
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:13537
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:8502
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) :star:5759
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:273
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:711
 

@@ -15,12 +15,12 @@ An "awesome" list of the Ionic resources
 * [Blog](http://blog.ionic.io/)
 * [Documentation](http://ionicframework.com/docs/v2/)
 * [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1909
+* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1906
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:38839
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:38894
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -136,7 +136,7 @@ An "awesome" list of the Ionic resources
 * [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2982
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2994
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) :star:273
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) :star:37
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud) :star:27

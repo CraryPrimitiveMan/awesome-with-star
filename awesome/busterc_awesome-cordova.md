@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:138
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:140
 
 ## Plugins
 
@@ -29,8 +29,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1207
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:750
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1209
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:751
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -80,7 +80,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) :star:14
 * Testing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) :star:6
-  * [ripple](https://github.com/ripple-emulator/ripple) :star:33
+  * [ripple](https://github.com/ripple-emulator/ripple) :star:34
 * Building
   * [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch) :star:1

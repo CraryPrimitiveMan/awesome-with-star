@@ -50,7 +50,7 @@ Hope that helps clear things up.
 - [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
 - [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook) :star:12200
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook) :star:12250
 - [Binance Academy](https://www.binance.vision) — Open access education provided by Binance.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
