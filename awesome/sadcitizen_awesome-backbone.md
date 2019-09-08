@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27528
+- [Github repository](https://github.com/jashkenas/backbone) :star:27529
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -112,7 +112,7 @@
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:87
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone) :star:86
 - [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
@@ -120,13 +120,13 @@
 
 ## Libraries
 
-- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2385
-- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2211
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2063
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2383
+- [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2209
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2062
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1932
-- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1682
+- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1681
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1456
-- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1361
+- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1360
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:895
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:817
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:591

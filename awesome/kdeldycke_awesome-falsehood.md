@@ -140,7 +140,7 @@ String formatting of date is hard.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "Just store dates in UTC" is not always the right approach..
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - Mind the leap second!
-
+- [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous StackOverflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software. 
 
 ## Emails
 
@@ -233,7 +233,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:9708
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:9738
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/twcclegg/libphonenumber-csharp),
@@ -254,17 +254,19 @@ It's not only about the address itself, but the relationship between a person an
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
+- [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -
+Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Regex and Postal
 Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
 Why regular expressions and street addresses do not mix.
-- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:411
+- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:410
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:686
+- [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:688
 addressing library, powered by Google's dataset.
-- [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:113
+- [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:114
 module to parse, normalize and render postal addresses.
-- [`address`](https://github.com/Boostport/address) - Go library to validate :star:36
+- [`address`](https://github.com/Boostport/address) - Go library to validate :star:37
 and format addresses using Google's dataset.
 
 

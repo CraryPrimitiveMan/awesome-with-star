@@ -21,7 +21,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Official Resources
 
 * [Homepage](https://hyperapp.js.org)
-* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16890
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16908
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -49,12 +49,12 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker. :star:14
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:47
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL. :star:12
-* [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter. :star:36
+* [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter. :star:35
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms.  :star:2
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7042
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7077
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching. :star:20
@@ -67,7 +67,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:81
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:47
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:260
-* [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:86
+* [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:87
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:38
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp. :star:27
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components :star:15

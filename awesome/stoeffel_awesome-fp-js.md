@@ -26,7 +26,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Ramda Adjunct](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
-* [Rambda](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB. :star:696
+* [Rambda](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB. :star:701
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
@@ -43,7 +43,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [functionize](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 * [lambdajs](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
-* [react-on-lambda](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).  :star:138
+* [react-on-lambda](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).  :star:141
 * [trifl](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
 * [funcy](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. _Experimental_  :triangular_flag_on_post:
 * [date-fp](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
@@ -78,9 +78,9 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
-* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:1372
-* [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. :star:218
-* [TSTL](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. :star:239
+* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. :star:1373
+* [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. :star:220
+* [TSTL](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. :star:241
 
 ### Algebraic Data Types
 
@@ -99,9 +99,9 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 * [crocks](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 * [kudo-js](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript :star:16
-* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs :star:304
+* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs :star:315
 * [MojiScript](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
-* [Pratica](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast. :star:59
+* [Pratica](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast. :star:63
 * [Tifi](https://github.com/mobily/tifi) - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both `undefined` and `null`. Tifi is inspired by the OCaml/Reason utilities for the option data type. :star:36
 
 ### Lenses
@@ -136,7 +136,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ## Programming Tools
 
-* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:698
+* [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming :star:701
 * [4.5](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 * [hm-def](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 * [ftor](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding. :star:38
@@ -212,7 +212,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [lucasviola/Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 * [xgrommx/Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript) :star:267
-* [tk-learning-center/Functional Programming Learning Path](https://github.com/tk-learning-center/functional-programming-learning-path) - A Learning Path for Functional Programming :star:304
+* [tk-learning-center/Functional Programming Learning Path](https://github.com/tk-learning-center/functional-programming-learning-path) - A Learning Path for Functional Programming :star:309
 
 ### Talk
 

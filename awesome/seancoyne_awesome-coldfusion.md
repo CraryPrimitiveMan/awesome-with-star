@@ -52,7 +52,7 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:83
+* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine :star:84
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) :star:7
 * [Mura](https://github.com/blueriver/MuraCMS) :star:262
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language :star:56
@@ -92,7 +92,7 @@ Pull requests very welcome.
 * [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 * [Adobe ColdFusion Builder 3](http://www.adobe.com/products/coldfusion-builder.html) - Eclipse based ColdFusion IDE from Adobe
-* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) :star:1372
+* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) :star:1375
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion :star:12
@@ -123,7 +123,7 @@ Pull requests very welcome.
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
 * [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes :star:26
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
-* [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron :star:90
+* [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron :star:91
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
 * [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
 * [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs :star:247

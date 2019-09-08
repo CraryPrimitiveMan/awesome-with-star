@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:140
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:138
 
 ## Plugins
 
@@ -65,14 +65,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:34
   * Icons
-    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:673
+    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:675
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:34
   * Splash Screens
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:34
-    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:437
+    * [cordova-splash](https://github.com/AlexDisler/cordova-splash) :star:438
     * [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) :star:7
   * Plugin
     * [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) :star:13

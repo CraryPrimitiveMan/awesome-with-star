@@ -70,12 +70,15 @@
 
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
+- [ZEIT Now](https://zeit.co) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 
 ## JAMstack Sites Showcase
 
 - [React](https://reactjs.org/) - Built on Gatsby.
 - [Squoosh.app](https://squoosh.app/) - Hosted on Netlify, demonstrates advanced features from a modern Web Application.
 - [Hopper](https://travel.hopper.com/) - Built on Gatsby and hosted on Netlify.
+- [VSCode Power User Course](https://vscode.pro/) - PWA built on Gatsby and hosted on Netlify.
+- [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
 
 ## Static Site Generators
 
@@ -95,7 +98,7 @@
 ## CMS
 
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
-- [NetlifyCMS](https://netlifycms.org/) - Famous digital art blog.
+- [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
@@ -104,7 +107,7 @@
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS.
-- [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll.
+- [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files. :star:270
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
@@ -129,7 +132,7 @@
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:881
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:882
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -150,7 +153,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:322
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:324
 
 ## Serverless
 
@@ -171,6 +174,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) - Serverless data warehousing services that help you to deploy advanced cloud data warehousing solutions for your enterprise.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units).
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
+- [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for JAMstack to make it easy to manage media, CDN, storage, transformations, and more.
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 

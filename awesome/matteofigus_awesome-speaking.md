@@ -26,15 +26,15 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:338
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). :star:340
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:115045
-* [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot** :star:159
-* [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:1036
+* [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus** :star:115400
+* [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot** :star:160
+* [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur** :star:1041
 
 ## Videos
 * [The Talk on Talks](https://zachholman.com/talk/the-talk-on-talks/) - by **Zach Holman** [36:26]
@@ -46,7 +46,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2664
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks :star:2669
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.

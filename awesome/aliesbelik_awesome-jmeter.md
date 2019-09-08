@@ -105,7 +105,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## DSL
 
-- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:676
+- [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans. :star:678
 
 ## Distributions
 
@@ -123,7 +123,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:304
+    - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:305
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) :star:16
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
@@ -204,7 +204,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library. :star:3
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
 - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
-- [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e), [sources](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime. :star:44
+- [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e), [sources](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime. :star:45
 
 ## JMeter Performance
 

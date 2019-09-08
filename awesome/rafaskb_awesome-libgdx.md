@@ -43,10 +43,10 @@
 _Resources that can be used in libGDX code to boost the framework's capabilities._
 
 ### Artificial Intelligence
-- [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines. :star:738
+- [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines. :star:739
 
 ### Controllers
-- [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds support to gamepads and joysticks. :star:15831
+- [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds support to gamepads and joysticks. :star:15856
 - [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2. :star:30
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging. :star:8
 
@@ -55,26 +55,26 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis. :star:586
 
 ### Physics
-- [Box2D](https://github.com/libgdx/libgdx/wiki/Box2d) - One of the most popular physics libraries for 2D games. :star:15831
-- [Bullet](https://github.com/libgdx/libgdx/wiki/Bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library. :star:15831
+- [Box2D](https://github.com/libgdx/libgdx/wiki/Box2d) - One of the most popular physics libraries for 2D games. :star:15856
+- [Bullet](https://github.com/libgdx/libgdx/wiki/Bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library. :star:15856
 
 ### Services
 - [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API. :star:57
 - [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase. :star:36
 - [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase. :star:29
 - [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics) - Game Analytics REST API client implementation for libGDX. Works on all backends. :star:11
-- [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more. :star:60
+- [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more. :star:61
 - [gdx-pay](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing. :star:161
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API. :star:272
 
 ### Setup and Deployment
-- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 5.x series. :star:17
-- [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS. :star:1953
+- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 5.x series. :star:18
+- [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS. :star:1957
 
 ### User Interface
-- [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files. :star:15831
+- [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files. :star:15856
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs. :star:59
-- [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins. :star:298
+- [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins. :star:300
 - [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game. :star:91
 - [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 - [Skin Composer](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface. :star:157
@@ -84,14 +84,14 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 ### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering. :star:197
-- [libgdx-contribs-postprocessing](https://github.com/manuelbua/libgdx-contribs/tree/master/postprocessing) - A lightweight, GLES2-only library to ease development and inclusion of post-processing effects. :star:239
-- [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews. :star:11
-- [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing. :star:13
+- [libgdx-contribs-postprocessing](https://github.com/manuelbua/libgdx-contribs/tree/master/postprocessing) - A lightweight, GLES2-only library to ease development and inclusion of post-processing effects. :star:240
+- [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews. :star:12
+- [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing. :star:16
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Others
-- [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code. :star:15831
-- [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically. :star:28
+- [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code. :star:15856
+- [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically. :star:27
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials. :star:53
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework. :star:266
 
@@ -102,14 +102,14 @@ _Tutorials for newbies and seasoned developers alike._
 
 ### Getting Started
 
-- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official libGDX wiki that contains a huge amount of information. :star:15831
+- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official libGDX wiki that contains a huge amount of information. :star:15856
 - [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
 - [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands. :star:157
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples. :star:157
-- [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) - Big list of official unofficial tutorials. :star:15831
+- [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) - Big list of official unofficial tutorials. :star:15856
 
 ### Advanced
 
@@ -143,11 +143,11 @@ _Get in touch with other libGDX developers to collaborate and get help._
 
 _Other awesome lists that might be useful to libGDX developers._
 
-- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources. :star:1767
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources. :star:1798
 - [Game Talks](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc). :star:655
-- [Java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software. :star:22120
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff. :star:7662
-- [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen. :star:6338
+- [Java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software. :star:22204
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff. :star:7698
+- [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen. :star:6361
 - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
 

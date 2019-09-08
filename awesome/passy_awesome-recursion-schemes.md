@@ -19,7 +19,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Introductions
 
-- [Awesome Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes. :star:708
+- [Awesome Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes. :star:709
 - [Practical Recursion Schemes](https://jtobin.io/practical-recursion-schemes) -
   Introduction to pattern functors, fix points, anamorphisms, catamorphisms,
   paramorphisms and hylomorphisms, requiring very little prior knowledge.
@@ -121,7 +121,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
   Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
-- [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) for [cubicaltt](https://github.com/mortberg/cubicaltt) - a cubical version of recursion schemes. :star:390
+- [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) for [cubicaltt](https://github.com/mortberg/cubicaltt) - a cubical version of recursion schemes. :star:391
 
 ## License
 

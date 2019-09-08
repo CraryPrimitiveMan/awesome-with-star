@@ -84,26 +84,26 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
-- [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :star:435
-- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.  :star:4060
-- [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface :star:720
+- [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :star:436
+- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.  :star:4083
+- [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface :star:719
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
-- [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. :star:10803
+- [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. :star:10824
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
 - [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
 - [Pts.js](https://ptsjs.org) - Pts is a javascript library for visualization and creative-coding.
-- [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework :star:3513
+- [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework :star:3514
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
-- [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG :star:6705
+- [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG :star:6742
 
 ### For other purposes, but still use canvas
-- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components. :star:12112
+- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components. :star:12118
 
 
 ## Resources
@@ -130,7 +130,7 @@ Where to discover more about Canvas.
 ### Twitter
 
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) :star:1738
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) :star:54285
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) :star:54467
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)

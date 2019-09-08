@@ -47,7 +47,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Navigation, Decision-Making and AI Libraries*
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library :star:492
-* [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding :star:15
+* [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding :star:16
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -55,8 +55,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend :star:21
 * [anim8](https://github.com/kikito/anim8) - Animation library :star:371
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
-* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE :star:39
-* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:17
+* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE :star:40
+* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system :star:18
 * [Walt](https://github.com/davisdude/Walt) - Animation library :star:46
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime :star:17
 
@@ -67,24 +67,24 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid :star:30
 * [gamera](https://github.com/kikito/gamera) - Camera system :star:146
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
-* [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) - STALKER-X is a camera module for LÖVE :star:148
+* [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) - STALKER-X is a camera module for LÖVE :star:149
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility :star:13
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph :star:27
-* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console :star:197
+* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console :star:198
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility :star:81
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game :star:173
-* [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table :star:159
+* [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table :star:160
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript :star:28
 * [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only) :star:3
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
-* [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes :star:28
+* [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes :star:29
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE :star:31
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches :star:68
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL) :star:16
@@ -94,16 +94,16 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator :star:2
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE :star:33
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE :star:69
-* [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls :star:15
+* [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls :star:16
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
 
 * [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System :star:19
-* [Concord](https://github.com/Tjakka5/Concord) - A feature-complete ECS library :star:49
-* [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS :star:211
+* [Concord](https://github.com/Tjakka5/Concord) - A feature-complete ECS library :star:50
+* [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS :star:213
 * [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management :star:16
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful :star:248
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful :star:249
 
 ## <a name="helper"></a>Helper Libraries
 *Game specific Library bundles, that provide reuseable functions*
@@ -111,17 +111,17 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games :star:80
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer. :star:33
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras). Repo is inactive but improvements are in the works at [this fork](https://github.com/HDictus/hump/tree/temp-master) (branch temp-master)
-* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:211
+* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer) :star:213
 * [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules :star:1
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows. :star:8
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine :star:3
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game :star:31
-* [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development :star:394
+* [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development :star:395
 * [roomy](https://github.com/tesselode/roomy) - screen management library for LÖVE :star:4
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js :star:165
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework :star:22
-* [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation :star:32
-* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer :star:454
+* [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation :star:33
+* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer :star:456
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library :star:36
 
 ## Input
@@ -143,18 +143,18 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Math specific Libraries*
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua :star:5
-* [brinevector](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance :star:21
+* [brinevector](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance :star:22
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games :star:144
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons :star:74
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use :star:57
-* [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua :star:27
+* [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua :star:28
 * [vector.lua](https://github.com/themousery/vector.lua) - a simple vector library based on the PVector class from processing :star:5
 
 ## Music
 *Music related libraries*
 
-* [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library :star:47
+* [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library :star:49
 * [lovebpm](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track :star:33
 * [ripple](https://github.com/tesselode/ripple) - An audio manager with tagging support :star:1
 * [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities :star:65
@@ -165,17 +165,17 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6] :star:88
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet [IPv4] :star:44
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6] :star:230
-* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4] :star:93
+* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4] :star:95
 * [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library :star:11
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
-* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins :star:280
-* [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction :star:340
+* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins :star:281
+* [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction :star:341
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
-* [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors. :star:211
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:1118
+* [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors. :star:213
+* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons) :star:1122
 
 ## Performance
 *Performance measurement tools*
@@ -198,17 +198,17 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
 
-* [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API :star:504
+* [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API :star:506
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
-* [LovePotion](https://github.com/videah/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew :star:153
-* [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten :star:409
-* [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices :star:455
+* [LovePotion](https://github.com/videah/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew :star:152
+* [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten :star:412
+* [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices :star:461
 
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store :star:18
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:4806
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file :star:4818
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -216,7 +216,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer :star:114
 * [bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT :star:83
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI :star:27
-* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script :star:211
+* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script :star:213
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser :star:30
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua :star:58
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua :star:9
@@ -227,13 +227,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes :star:40
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:298
+* [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc. :star:300
 
 ## Testing
 *Libraries and Tools for Unit Testing*
 
-* [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions :star:828
-* [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework :star:211
+* [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions :star:830
+* [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework :star:213
 * [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests :star:75
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework :star:65
 * [lust](https://github.com/bjornbytes/lust) - Minimal test framework :star:34
@@ -245,7 +245,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua :star:174
 * [hump.timer](https://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
-* [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease. :star:211
+* [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease. :star:213
 * [tick](https://github.com/rxi/tick) - Lua module for delaying function calls :star:35
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method :star:337
 
@@ -256,7 +256,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library :star:137
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library :star:7
-* [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:212
+* [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine :star:213
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games :star:217
 * [Patchy](https://github.com/excessive/patchy) - 9patch library :star:23
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
@@ -268,14 +268,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Non-Game specific libraries and tools*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
-* [cargo](https://github.com/bjornbytes/cargo) - Asset manager :star:93
+* [cargo](https://github.com/bjornbytes/cargo) - Asset manager :star:94
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
-* [Classic](https://github.com/rxi/classic) - A tiny class module for Lua :star:340
+* [Classic](https://github.com/rxi/classic) - A tiny class module for Lua :star:341
 * [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine :star:10
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE :star:34
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game :star:14
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser :star:4
-* [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output :star:160
+* [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output :star:161
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading :star:97
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader :star:28
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself :star:11
@@ -319,7 +319,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS. :star:6
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE
-	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode :star:181
+	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode :star:185
 	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - Lua plugin for IntelliJ-IDEA
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA :star:43
 * [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient
@@ -341,9 +341,9 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:2111
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses :star:2121
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE :star:42
-* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:1328
+* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more :star:1333
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

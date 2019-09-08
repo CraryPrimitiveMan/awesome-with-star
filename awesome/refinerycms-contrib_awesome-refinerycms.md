@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:52
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1631
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1632
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:8
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -33,15 +33,15 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ## Refinery team extensions
 
 ### Main project
-* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3663
-* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3663
-* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3663
-* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3663
+* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3662
+* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3662
+* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3662
+* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3662
 
 ### Frontoffice extensions
 * [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:10
 * [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news)) :star:124
-* [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:105
+* [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms :star:104
 * [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news :star:124
 * [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images :star:128
 * [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed) :star:214

@@ -26,7 +26,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw) - A hands-on guide and reference for service workers, caching strategies, push notifications, and more. Everything you need to build a modern progressive web app.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A gentle introduction to service workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - A great Udacity course introducing service workers and IndexedDB.
-- [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff). :star:3222
+- [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff). :star:3224
 
 ## Learning Resources
 
@@ -51,7 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Libraries and Tools
 
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns. :star:3640
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns. :star:3642
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
 - [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources. :star:5249
 - [sw-offline-google-analytics](https://developers.google.com/web/updates/2016/07/offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
@@ -70,9 +70,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Related Technologies
 
-- [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps) :star:1350
-- [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync) :star:1350
-- [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api) :star:1350
-- [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb) :star:1350
-- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications) :star:1350
+- [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps) :star:1351
+- [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync) :star:1351
+- [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api) :star:1351
+- [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb) :star:1351
+- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications) :star:1351
 

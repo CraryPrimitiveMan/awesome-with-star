@@ -89,9 +89,9 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 # The Gold
 *Collections of machine learning models that could be converted to Core ML*
 
-* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format. :star:28940
-* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:57101
-* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models. :star:57101
+* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format. :star:29000
+* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:57298
+* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models. :star:57298
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
@@ -109,7 +109,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [deephorizon](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
 # Contributing and License
-* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) :star:4204
+* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) :star:4219
 * Distributed under the MIT license. See LICENSE for more information.
 
 

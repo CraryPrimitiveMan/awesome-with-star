@@ -30,7 +30,7 @@
 ## General resources
 
 - [Documentation](https://lit-html.polymer-project.org/guide)
-- [GitHub repository](https://github.com/Polymer/lit-html) :star:5369
+- [GitHub repository](https://github.com/Polymer/lit-html) :star:5387
 
 ## Community
 
@@ -53,7 +53,7 @@ Sorted by creation date (oldest first).
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html. :star:31
+- [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html. :star:32
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
 - [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
@@ -87,22 +87,22 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System. :star:11
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element. :star:1
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:24
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:25
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs. :star:27
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud. :star:12
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing. :star:5
-- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project. :star:47
-- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1197
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph. :star:213
+- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project. :star:64
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1208
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph. :star:215
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs! :star:512
-- [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint. :star:160
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. :star:7415
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs! :star:516
+- [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint. :star:163
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. :star:7427
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team. :star:2130
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations. :star:64
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team. :star:2137
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations. :star:65
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement in TypeScript. :star:12
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - Client side application build with `@rxdi`, lit-html, GraphQL, dependency injection. :star:3
 
@@ -110,7 +110,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings. :star:214
 - [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html. :star:43
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings. :star:31
+- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings. :star:32
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html. :star:24
 
 ## TypeScript Plugins
@@ -133,7 +133,7 @@ These are not implementations of lit-html itself but rather community extensions
 ## Examples
 
 - [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class. :star:48
-- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop) :star:65
+- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop) :star:67
 
 ## Videos
 
@@ -170,12 +170,12 @@ An episode with the lit-html creator Justin Fagnani.
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
-- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. :star:5138
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1455
+- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. :star:5151
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1465
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html. :star:58
-- [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines. :star:19
+- [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines. :star:20
 - [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components. :star:31
-- [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the browser with support for Server Side Rendering in Node. :star:577
+- [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the browser with support for Server Side Rendering in Node. :star:579
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings. :star:7
 
 ## Other awesome resources

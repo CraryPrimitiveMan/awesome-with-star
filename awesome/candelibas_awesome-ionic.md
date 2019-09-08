@@ -15,12 +15,12 @@ An "awesome" list of the Ionic resources
 * [Blog](http://blog.ionic.io/)
 * [Documentation](http://ionicframework.com/docs/v2/)
 * [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1906
+* [Ionic Native](https://github.com/driftyco/ionic-native/) :star:1908
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/) :star:38894
+* [GitHub Repo](https://github.com/driftyco/ionic/) :star:38947
 
 #### Ionic Fundamentals
 * [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -136,7 +136,7 @@ An "awesome" list of the Ionic resources
 * [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2994
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) :star:2999
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) :star:273
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) :star:37
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud) :star:27
@@ -146,7 +146,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player) :star:30
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app) :star:25
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base) :star:163
-* [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) :star:245
+* [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) :star:244
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) :star:125
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components) :star:1629
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes) :star:18

@@ -30,7 +30,7 @@ them.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
-- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:568
+- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:570
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
@@ -80,11 +80,11 @@ them.
   (Python, MIT, GitHub)
 - [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
   (Python, MIT, [GitHub](https://github.com/inducer/meshpy))
-- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:304
+- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:308
   (Python, MIT, GitHub)
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:91
+- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:92
   (Python, MIT, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, BitBucket)
@@ -113,7 +113,7 @@ them.
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh. :star:34
   (Python, MIT, GitHub)
 - [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:249
-- [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg)) :star:89
+- [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg)) :star:90
 
 ## Sparse linear solvers
 
@@ -140,7 +140,7 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:218
+- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:220
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
   (Python, [custom open-source

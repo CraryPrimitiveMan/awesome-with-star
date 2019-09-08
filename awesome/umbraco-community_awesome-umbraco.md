@@ -78,7 +78,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Property Editors
 
-* [Archetype](https://github.com/kgiszewski/Archetype) - Group multiple property-editors. :star:96
+* [Archetype](https://github.com/kgiszewski/Archetype) - Group multiple property-editors. :star:95
 * [Inline HTML Help Label](https://our.umbraco.com/packages/backoffice-extensions/inline-html-help-label/) - Created inline HTML-based labels to provide help to content editors.  Includes an option for a flyout dialog for more detailed help.
 * [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.

@@ -161,7 +161,7 @@
 
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 
-- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:637
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:639
 
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
 
@@ -227,7 +227,7 @@
 
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
-- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1531
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1530
 
 <a name="quora" />
 

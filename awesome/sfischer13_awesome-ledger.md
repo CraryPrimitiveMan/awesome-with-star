@@ -27,7 +27,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
-- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:2997
+- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:3008
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
 ## Background
@@ -68,8 +68,8 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:2997
-- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:2997
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:3008
+- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:3008
 
 ## License
 

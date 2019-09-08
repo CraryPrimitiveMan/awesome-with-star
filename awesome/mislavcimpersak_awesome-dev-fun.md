@@ -36,8 +36,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS. :star:1326
-- [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend. :star:5362
+- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS. :star:1325
+- [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend. :star:5364
 
 
 ## Elixir
@@ -58,30 +58,30 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:11583
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. :star:11637
 
 
 ## JavaScript
 
-- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1231
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4688
+- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast. :star:1234
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. :star:4691
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage. :star:3891
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:3176
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller. :star:3173
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console. :star:184
-- [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:100
+- [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids. :star:101
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers. :star:10
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1165
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library. :star:1168
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA. :star:669
-- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2741
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too. :star:2743
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
-- [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:5
-- [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now! :star:123
-- [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13. :star:4822
+- [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even. :star:6
+- [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now! :star:173
+- [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13. :star:4836
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄 :star:131
-- [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸 :star:6534
+- [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸 :star:6544
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 
 
@@ -94,33 +94,33 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools. :star:115
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
-- [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram. :star:321
+- [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram. :star:322
 
 
 ## Ruby
 
-- [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter! :star:708
+- [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter! :star:709
 - [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted. :star:419
-- [Table Flipper](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions. :star:324
+- [Table Flipper](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions. :star:323
 - [Cat Facts](https://github.com/fabrik42/cat_facts) - Adds random cat facts to HTTP response headers. 🐈 :star:4
 
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5768
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:6924
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:2020
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language. :star:5771
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again. :star:6932
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language. :star:2029
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚. :star:124
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language. :star:4
-- [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics. :star:5434
+- [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics. :star:5437
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:2282
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off. :star:2284
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
-- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme. :star:114
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme. :star:115
 - [shoutcloud.io](http://shoutcloud.io/) - ALL CAPS AS A SERVICE. ⬆️
 - [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 - [eafd](https://github.com/doesdev/eafd) - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃) :star:1
@@ -128,7 +128,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Browser extensions
 
-- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1324
+- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'. :star:1327
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts. :star:5
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
@@ -140,25 +140,25 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping. :star:106
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al. :star:11
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt. :star:3
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:3703
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1723
-- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:4223
-- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1526
-- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:3705
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns! :star:3709
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane. :star:1725
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers. :star:4228
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls". :star:1530
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell. :star:3715
 - [fat](https://github.com/drummyfish/fat) - Expand your files. :star:2
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:4481
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. :star:4490
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing. :star:5
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers. :star:177
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:1004
-- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH. :star:94289
-- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code. :star:5632
-- [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix. :star:870
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver. :star:1010
+- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH. :star:94574
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code. :star:5635
+- [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix. :star:878
 - [Gosleap](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen. :star:18
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:30670
-- [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass. :star:10448
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. :star:30966
+- [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass. :star:10453
 - [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider. :star:212
 
 
@@ -168,9 +168,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars. :star:11
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data. :star:533
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4637
-- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:2116
-- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing. :star:958
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed). :star:7303
-- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷 :star:1471
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*. :star:4643
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere. :star:2126
+- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing. :star:957
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed). :star:7333
+- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷 :star:1476
 

@@ -61,9 +61,9 @@ coding style guides and development practices across the web.
 ### CSS
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) :star:5853
-+ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) :star:7229
-+ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) :star:3642
++ [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) :star:5857
++ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) :star:7239
++ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) :star:3641
 
 ### Sass
 
@@ -76,7 +76,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) :star:7229
++ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) :star:7239
 
 ### XML
 
@@ -91,7 +91,7 @@ coding style guides and development practices across the web.
 ### C++
 
 + [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-+ [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) :star:24059
++ [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) :star:24126
 
 ### C&#35;
 
@@ -100,29 +100,29 @@ coding style guides and development practices across the web.
 
 ### Clojure
 
-+ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) :star:3267
++ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) :star:3269
 
 ### CoffeeScript
 
-+ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme) :star:1656
++ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme) :star:1655
 
 ### Elixir
 
-+ [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) :star:3163
++ [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) :star:3170
 
 ### Go
 
-+ [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) :star:62799
++ [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) :star:63171
 
 ### JavaScript
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 + [UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-+ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) :star:15336
-+ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) :star:88485
++ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) :star:15363
++ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) :star:88667
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) :star:395
-+ [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) :star:768
++ [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) :star:776
 
 ### Java
 
@@ -131,8 +131,8 @@ coding style guides and development practices across the web.
 ### Objective-C
 
 + [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
-+ [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme) :star:5479
-+ [The official raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide#readme) :star:2996
++ [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme) :star:5480
++ [The official raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide#readme) :star:3003
 
 ### PHP
 
@@ -150,7 +150,7 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#readme) :star:15005
++ [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#readme) :star:15015
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala
@@ -169,7 +169,7 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-+ [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme) :star:10196
++ [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme) :star:10218
 
 ### Vimscript
 
@@ -179,7 +179,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) :star:24209
++ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) :star:24216
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### RSpec
@@ -189,7 +189,7 @@ coding style guides and development practices across the web.
 
 ### Rails
 
-+ [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme) :star:5827
++ [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme) :star:5829
 
 ### Vue
 
@@ -199,9 +199,9 @@ coding style guides and development practices across the web.
 
 ### API
 
-+ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) :star:13187
++ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) :star:13191
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
-+ [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) :star:10749
++ [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) :star:10784
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 + [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
@@ -216,7 +216,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-+ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme) :star:9239
++ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme) :star:9246
 
 ### iOS
 
@@ -224,8 +224,8 @@ coding style guides and development practices across the web.
 
 ### Git
 
-+ [Git Style Guide](https://github.com/agis/git-style-guide#readme) :star:4470
-+ [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) :star:5655
++ [Git Style Guide](https://github.com/agis/git-style-guide#readme) :star:4475
++ [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) :star:5665
 
 ### JSON
 
@@ -237,8 +237,8 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-+ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) :star:4598
-+ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme) :star:32618
++ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) :star:4601
++ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme) :star:32842
 
 ### Security
 

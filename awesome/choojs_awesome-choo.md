@@ -18,9 +18,9 @@
 
 ### Official resources
 
-- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6210
-- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:249
-- [Repo](https://github.com/yoshuawuyts/choo) :star:6210
+- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6215
+- [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:250
+- [Repo](https://github.com/yoshuawuyts/choo) :star:6215
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -28,14 +28,14 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:577
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using :star:579
   template strings.
-- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:972
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:973
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:539
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:541
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:69
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:103
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:169
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:171
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:33
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:45
@@ -43,9 +43,9 @@ under the hood:
 
 ### Demos
 
-- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6210
+- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6215
 - [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
-- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6210
+- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6215
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo)) :star:41
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
 - [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow)) :star:14
@@ -118,7 +118,7 @@ Other CLI templates
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB. :star:396
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/). :star:3
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:. :star:16
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:447
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots! :star:448
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit. :star:9
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`. :star:5
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`. :star:40

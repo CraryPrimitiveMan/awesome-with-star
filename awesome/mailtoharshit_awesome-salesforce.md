@@ -41,7 +41,7 @@ Each repo listed meets at least one of the following requirements:
 Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
   Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:49
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) :star:50
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles) :star:7
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md) :star:21
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:3
@@ -92,7 +92,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:183
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com :star:182
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  The main Mavansmate project is now no longer active, so this plugin may be of limited use.
 
@@ -106,12 +106,12 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:165
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:166
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:355
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more! :star:357
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
@@ -123,7 +123,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:406
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:407
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -156,7 +156,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing). :star:64
 
-* [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming. :star:36
+* [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming. :star:37
 
 * [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime. :star:109
 * [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding. :star:24
@@ -216,7 +216,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
 * [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets :star:247
-* [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services. :star:41
+* [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services. :star:42
 
 ## Javascript Libraries for Salesforce
 
@@ -225,7 +225,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
 * [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context. :star:11
-* [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps :star:165
+* [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps :star:166
 * [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:388
 * [ngForce](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps

@@ -22,11 +22,11 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility. :star:338
-- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:7899
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image. :star:7923
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor. :star:802
-- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:614
+- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS. :star:615
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors. :star:278
-- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python :star:384
+- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python :star:387
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
@@ -83,7 +83,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-- [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names. :star:766
+- [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names. :star:768
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)

@@ -28,7 +28,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
 - [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
 - [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests. :star:103
-- [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/)  :star:477
+- [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/)  :star:480
 
 
 ## Modules

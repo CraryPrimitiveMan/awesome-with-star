@@ -19,9 +19,9 @@
 
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2265
-* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2972
-* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2111
+* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2297
+* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2994
+* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2121
 * [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 * [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
 
@@ -528,7 +528,7 @@ const ary = (fn, n) => (...args) => fn(...args.slice(0, n));
 
 ```js
 const firstTwoMax = ary(Math.max, 2);
-[[2, 6, 'a'], [8, 4, 6], [10]].map(x => firstTwoMax(...x)); // [6, 8, 10]
+[[2, 6, 'a'], [6, 4, 8], [10]].map(x => firstTwoMax(...x)); // [6, 6, 10]
 ```
 </details>
 
@@ -676,7 +676,7 @@ const sum = pipeAsyncFunctions(
   x => x + 3,
   async x => (await x) + 4
 );
-(async () => {
+(async() => {
   console.log(await sum(5)); // 15 (after one second)
 })();
 ```
@@ -8019,8 +8019,8 @@ const isUpperCase = str => str === str.toUpperCase();
 
 ```js
 isUpperCase('ABC'); // true
-isLowerCase('A3@$'); // true
-isLowerCase('aB4'); // false
+isUpperCase('A3@$'); // true
+isUpperCase('aB4'); // false
 ```
 </details>
 

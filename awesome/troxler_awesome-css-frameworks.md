@@ -27,7 +27,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.   :star:1529
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.   :star:1531
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -197,6 +197,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
+- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - Responsive and comprehensive CSS framework with beautiful controls and simplistic structure.  
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Docs](https://spiderpig86.github.io/Cirrus/docs/),
+  [Repo](https://github.com/Spiderpig86/Cirrus)
+  | #CSS
+
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
@@ -247,7 +253,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
 
-- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4098
+- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4100
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/),
   [Repo](https://github.com/BafS/Gutenberg)

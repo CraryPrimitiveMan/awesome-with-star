@@ -71,9 +71,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:64
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:333
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:334
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon. :star:30
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:722
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:724
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development :star:8
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon Framework and Angular :star:19
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications :star:75
@@ -85,7 +85,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap :star:10
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower :star:15
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon Framework :star:79
-* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:334
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:333
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:99
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service :star:7
 
@@ -97,7 +97,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Padlock](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server :star:9
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library. :star:21
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4949
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server) :star:4974
 
 ## CMS & Blogs
 
@@ -106,7 +106,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support :star:32
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework :star:20
-* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:430
+* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS :star:429
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon Framework :star:9
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon Framework
@@ -223,13 +223,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/phalcon-orphanage/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:34
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework :star:712
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework :star:714
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon framework :star:9
 * [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA :star:34
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps :star:3
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL :star:4
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework :star:20
-* [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools :star:24
+* [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools :star:25
 * [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
 
@@ -248,7 +248,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter :star:21
 * [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon :star:17
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon :star:9
-* [phalcon-redis-model](https://github.com/ienaga/RedisPlugin) - redis based ORM and Easy Criteria (The correspondence of MySQL sharding.) :star:11
+* [phalcon-redis-model](https://github.com/ienaga/RedisPlugin) - redis based ORM and Easy Criteria (The correspondence of MySQL sharding.) :star:12
 
 ## ODM
 
@@ -267,7 +267,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Representational state transfer.*
 
-* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon :star:39
+* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon :star:40
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon Framework :star:16
 * [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library :star:104
 * [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL :star:32
@@ -333,7 +333,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon Framework :star:6
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website :star:23
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:286
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:341
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:342
 
 
 ## Templating

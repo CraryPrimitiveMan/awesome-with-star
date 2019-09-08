@@ -46,20 +46,20 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity. :star:180
-* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:577
-* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:1208
-* [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:323
+* [Angel](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve. :star:580
+* [Aqueduct](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support. :star:1222
+* [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart. :star:324
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses. :star:436
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
-* [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system :star:33
+* [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system :star:34
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources :star:172
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine :star:1581
+* [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine :star:1617
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
-* [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine. :star:46
+* [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine. :star:47
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine. :star:24
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph. :star:21
 
@@ -75,9 +75,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Database
 
-* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:65
+* [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries. :star:66
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector. :star:13
-* [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver :star:71
+* [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver :star:72
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
 * [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL
 
@@ -88,22 +88,22 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
-* [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.  :star:149
-* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:458
+* [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.  :star:150
+* [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization. :star:461
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
-* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:430
+* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality. :star:434
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps. :star:30
 
 ## Dependency Injection
 
-* [DI](https://github.com/angular/di.dart) - Dependency Injection framework by Angular :star:67
+* [DI](https://github.com/angular/di.dart) - Dependency Injection framework by Angular :star:68
 * [Dependencies](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors. :star:13
 
 ## Parsers
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
-* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:136
-* [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:146
+* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server. :star:137
+* [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically. :star:147
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
@@ -121,18 +121,18 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR. :star:314
+* [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR. :star:319
 
 ## Testing
 
-* [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library. :star:41
+* [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library. :star:42
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
 
 ## Tools
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
-* [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart :star:31
+* [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart :star:32
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](https://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).

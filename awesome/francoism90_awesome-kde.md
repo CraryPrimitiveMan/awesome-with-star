@@ -99,40 +99,40 @@
 
 #### Extensions
 
-- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌. :star:764
-- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality. :star:471
+- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌. :star:766
+- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality. :star:480
 
 #### KCM Modules and Systems
 
 - [kde-gtk-config](https://cgit.kde.org/kde-gtk-config.git) - GTK2 and GTK3 Configurator for KDE 📌.
 - [kcm-wacomtablet](https://cgit.kde.org/wacomtablet.git) - KDE GUI for the Wacom Linux Drivers 📌.
-- [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops. :star:20
+- [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops. :star:21
 
 #### Themes
 
 - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras. :star:417
-- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras. :star:643
-- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras. :star:180
+- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras. :star:646
+- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras. :star:181
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
 
 ##### Qt and GTK+ Applications Appearance
 
-- [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌. :star:31
+- [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌. :star:32
 
 #### Icons
 
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:2831
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:2842
 - [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
-- [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity. :star:194
+- [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity. :star:193
 
 #### Cursors
 
 - [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-- [Capitaine](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. :star:500
+- [Capitaine](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. :star:503
 
 #### Scripts
 
-- [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin. :star:527
+- [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin. :star:528
 
 ## Documentation
 
