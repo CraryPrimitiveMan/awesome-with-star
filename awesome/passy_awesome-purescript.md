@@ -15,7 +15,7 @@
 
 ## Preludes
 
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:88
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude. :star:89
 - [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features. :star:28
 
 ## UI Libraries
@@ -27,7 +27,7 @@ CSS:
 React-based:
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:333
-- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:312
+- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:313
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:160
 - [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`. :star:62
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:545
@@ -39,13 +39,13 @@ React-based:
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:983
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:985
 
 Signals/Behaviors/FRP:
 
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal. :star:260
-- [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:51
-- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:29
+- [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP. :star:53
+- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom. :star:30
 - [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM? :star:62
 - [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript. :star:73
 - [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing. :star:146
@@ -67,8 +67,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:227
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:227
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript. :star:228
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff. :star:228
 - [purescript-queue](https://github.com/athanclark/purescript-queue) - An asynchronous queue library for PureScript. :star:2
 - [purescript-signal](https://github.com/bodil/purescript-signal) - An asynchronous signal library for PureScript, similar to Elm. :star:234
 - [purescript-zeta](https://github.com/athanclark/purescript-zeta) - An alternative signal implementation in PureScript. :star:3
@@ -81,7 +81,7 @@ Signals/Behaviors/FRP:
 ## Json Serialization
 
 - [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - Json encoding and decoding typeclasses. :star:38
-- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Json encoding and decoding through Generics. :star:101
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Json encoding and decoding through Generics. :star:100
 
 ## Binary Serialization
 
@@ -99,7 +99,7 @@ Signals/Behaviors/FRP:
 
 - [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) :star:191
+- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) :star:193
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)

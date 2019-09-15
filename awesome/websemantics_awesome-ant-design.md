@@ -81,13 +81,13 @@ These are tools and utilities to help build apps using Ant Design,
 Here are utilities that can help you customize your theme and ability to change it in browser
 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file. :star:141
-- [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment. :star:111
-- [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.  :star:39
+- [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment. :star:113
+- [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.  :star:40
 
 ### Themes
 
-- [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design. :star:169
-- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design. :star:83
+- [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design. :star:174
+- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design. :star:84
 - [ant-dark-theme](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design. :star:4
 
 ## Related Projects
@@ -103,33 +103,33 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:5443
-- [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular :star:531
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:5477
+- [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular :star:534
 - [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+. :star:8000
-- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:1991
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+. :star:8065
+- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:1993
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js. :star:31
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design. :star:8
 - [antue](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely. :star:244
-- [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue :star:861
+- [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue :star:869
 
 ## Components
 
 A list of UI components built with Ant Design.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance :star:146
-- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:791
+- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:794
 - [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components. :star:32
-- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:89
-- [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design. :star:20
+- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:90
+- [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design. :star:21
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication :star:27
-- [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator. :star:44
+- [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator. :star:46
 
 ## React Hooks
 
@@ -148,7 +148,7 @@ A list of starter projects and boilerplates built with Ant Design.
 
 - [Ant Design Pro](http://pro.ant.design/) - An out-of-box UI solution for enterprise applications :fire::fire::fire:
 - [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
-- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:6558
+- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:6588
 - [Meteor Antd Boilerplate](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery. :star:515
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456). :star:553
@@ -160,19 +160,19 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Star Admin](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel. :star:78
 - [React Redux Intro](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies. :star:33
 - [React Start Kit](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design. :star:105
-- [CL React](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software. :star:168
+- [CL React](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software. :star:169
 - [TODO MVC](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design. :star:9
 - [React Boilerplate](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design. :star:20
 - [Dva Antd Starter](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design. :star:25
-- [Dva Antd Mobile Starter](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile. :star:113
+- [Dva Antd Mobile Starter](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile. :star:114
 - [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core. :star:21
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages. :star:17
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject). :star:87
-- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:3234
-- [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack). :star:186
-- [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features. :star:6
-- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting :star:309
+- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:3247
+- [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack). :star:185
+- [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features. :star:7
+- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting :star:311
 - [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
 - [The Green Meal](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript. :star:53
 
@@ -180,7 +180,7 @@ A list of starter projects and boilerplates built with Ant Design.
 
 A list of libraries that are written for non-JavaScript languages.
 
-- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript. :star:205
+- [Antizer](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript. :star:206
 - [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## Electron
@@ -190,8 +190,8 @@ A list of libraries that are written for non-JavaScript languages.
 
 ## Icons
 
-- [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons) :star:169
-- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile. :star:57
+- [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons) :star:170
+- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile. :star:58
 
 ## Design Tools and Resources
 

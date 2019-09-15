@@ -81,7 +81,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 - [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015 :star:1686
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015 :star:1689
 
 ## Presentations
 
@@ -91,8 +91,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Courses
 
 - [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
-- [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program. :star:94
-- [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics. :star:180
+- [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program. :star:95
+- [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics. :star:181
 - [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 - [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 

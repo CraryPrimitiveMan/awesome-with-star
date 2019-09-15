@@ -26,13 +26,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw) - A hands-on guide and reference for service workers, caching strategies, push notifications, and more. Everything you need to build a modern progressive web app.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A gentle introduction to service workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - A great Udacity course introducing service workers and IndexedDB.
-- [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff). :star:3224
+- [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff). :star:3230
 
 ## Learning Resources
 
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to service workers and using UpUp to provide offline functionality in minutes.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-- [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API. :star:670
+- [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API. :star:672
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 - [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker) - Shortest available introduction, by [Remy Sharp](https://github.com/remy).
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of service worker Patterns by Jake Archibald.
@@ -70,9 +70,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Related Technologies
 
-- [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps) :star:1351
-- [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync) :star:1351
-- [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api) :star:1351
-- [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb) :star:1351
-- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications) :star:1351
+- [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps) :star:1352
+- [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync) :star:1352
+- [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api) :star:1352
+- [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb) :star:1352
+- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications) :star:1352
 

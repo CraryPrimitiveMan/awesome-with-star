@@ -42,7 +42,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:191
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway. :star:194
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
@@ -68,22 +68,22 @@ List of content
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core) :star:104
-* [secp256k1](https://github.com/bitcoin-core/secp256k1) :star:841
+* [secp256k1](https://github.com/bitcoin-core/secp256k1) :star:842
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:50
-* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3378
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3620
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3392
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3629
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:41
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
 # PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:68
-* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:39
+* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) :star:40
 
 # Ruby Libraries
-* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:860
+* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby) :star:861
 
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:19
@@ -110,7 +110,7 @@ List of content
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) Bitcoin Script for dummies
 * [Debug Script Execution](https://webbtc.com/script)
-* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:199
+* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:200
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
@@ -131,11 +131,11 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:12272
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:12302
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
-* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) :star:85
+* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) :star:86
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.

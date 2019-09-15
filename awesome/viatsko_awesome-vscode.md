@@ -186,7 +186,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Source code](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:82482
+- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:82904
 
 # Syntax
 
@@ -289,24 +289,17 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command. :star:89
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more. :star:47
 
+#### More
+
+* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+
 ## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
-
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
-
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
-
-![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
-
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
-
-![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
-
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
-
-![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
-
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
 ![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
@@ -371,8 +364,6 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
-
-![VS Code extension to debug your JavaScript code in the Chrome browser screenshot](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
 
 ## TypeScript
 
@@ -578,7 +569,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
@@ -961,8 +952,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence) :star:83
-- [Pragmatic Essence](https://github.com/orta/Essence) :star:71
+- [Essence](https://github.com/flagello/Essence) :star:84
+- [Pragmatic Essence](https://github.com/orta/Essence) :star:72
 
 ## Syntax
 
@@ -1213,7 +1204,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:547
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:548
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 

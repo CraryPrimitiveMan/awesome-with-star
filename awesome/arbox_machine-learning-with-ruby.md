@@ -105,7 +105,7 @@ programming languages with appropriate bindings for Ruby.
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
-- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2507
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2508
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
@@ -124,7 +124,7 @@ programming languages with appropriate bindings for Ruby.
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to [Scikit-Learn][scikit] in Python.
-- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:468
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports :star:471
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
@@ -153,8 +153,8 @@ programming languages with appropriate bindings for Ruby.
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Deep learning framework for Ruby.
-- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:803
-- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby. :star:9
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:804
+- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby. :star:10
 
 ### Kernel methods
 

@@ -44,6 +44,7 @@ A collection of tips to help take your CSS skills pro.
 1. [Use `:root` for Flexible Type](#use-root-for-flexible-type)
 1. [Set `font-size` on Form Elements for a Better Mobile Experience](#set-font-size-on-form-elements-for-a-better-mobile-experience)
 1. [Use Pointer Events to Control Mouse Events](#use-pointer-events-to-control-mouse-events)
+1. [Set `display: none` on Line Breaks Used as Spacing](#set-display-none-on-line-breaks-used-as-spacing)
 
 
 ### Use a CSS Reset
@@ -596,6 +597,19 @@ It's that simple.
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Set `display: none` on Line Breaks Used as Spacing
+
+As [Harry Roberts pointed out](https://twitter.com/csswizardry/status/1170835532584235008), this can help prevent CMS users from using extra line breaks for spacing:
+
+```css
+br + br {
+  display: none;
+}
+```
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
@@ -605,19 +619,19 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ## Translations
 
-* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) :star:13886
-* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW) :star:13886
-* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE) :star:13886
-* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES) :star:13886
-* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR) :star:13886
-* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND) :star:13886
-* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT) :star:13886
-* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP) :star:13886
-* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR) :star:13886
-* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL) :star:13886
-* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR) :star:13886
-* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT) :star:13886
-* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU) :star:13886
+* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) :star:13914
+* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW) :star:13914
+* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE) :star:13914
+* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES) :star:13914
+* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR) :star:13914
+* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND) :star:13914
+* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT) :star:13914
+* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP) :star:13914
+* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR) :star:13914
+* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL) :star:13914
+* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR) :star:13914
+* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT) :star:13914
+* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU) :star:13914
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

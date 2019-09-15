@@ -34,7 +34,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0. :star:35
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM. :star:13
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players. :star:44
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:137
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam. :star:139
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe. :star:124
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours. :star:2
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game. :star:20
@@ -47,7 +47,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment. :star:25
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game. :star:26
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects. :star:57
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:709
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game. :star:710
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016. :star:1
 
 ### 3D
@@ -65,14 +65,14 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method.
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting. :star:52
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server. :star:20
-- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0). :star:452
-- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1). :star:486
+- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0). :star:456
+- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1). :star:489
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap. :star:48
-- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics. :star:50
+- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics. :star:53
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics. :star:35
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one. :star:79
-- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:45
-- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module. :star:86
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo. :star:44
+- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module. :star:87
 
 ## Tutorials
 
@@ -106,11 +106,11 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 *Stuff integrated into Godot core (C++).*
 
-- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot. :star:43
+- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot. :star:44
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support. :star:41
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3. :star:509
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot. :star:46
-- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine. :star:233
+- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine. :star:240
 - [Gdnet](https://github.com/empyreanx/gdnet) - An ENet wrapper for Godot. :star:76
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3. :star:51
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective) :star:17
@@ -129,14 +129,14 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays. :star:107
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing. :star:17
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:348
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework. :star:351
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript. :star:4
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:11
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot. :star:12
 - [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions. :star:10
-- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:44
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript. :star:45
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd. :star:6
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework. :star:11
-- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:157
+- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot. :star:163
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot. :star:20
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). :star:166
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations. :star:38
@@ -147,7 +147,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot. :star:10
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games. :star:70
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/). :star:309
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/). :star:308
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style. :star:5
 

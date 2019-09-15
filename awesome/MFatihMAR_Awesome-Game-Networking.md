@@ -96,15 +96,15 @@ Game networking is a subset of computer networking that commonly covers data rep
 
 - C / C++
   - [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library.
-  - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Valve's internal (Steam) network transport layer for games. :star:4184
-  - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine. :star:2684
-  - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers. :star:1652
+  - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Valve's internal (Steam) network transport layer for games. :star:4204
+  - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine. :star:2690
+  - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers. :star:1661
 - C#
-  - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity. :star:374
+  - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity. :star:375
   - [DarkRift Networking](https://www.darkriftnetworking.com/) - Unity focused multi-threaded multiplayer networking solution.
-  - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution. :star:821
-  - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET). :star:823
-  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono). :star:1196
+  - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution. :star:823
+  - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET). :star:827
+  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono). :star:1206
   - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
   - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
@@ -115,16 +115,16 @@ Game networking is a subset of computer networking that commonly covers data rep
 
 - Unreal Engine
   - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) - Project that adds sprint ability to the CharacterMovementComponent. :star:25
-  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project. :star:145
-  - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) - 3rd-person multiplayer zombie survival game tutorial project. :star:1424
+  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project. :star:148
+  - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) - 3rd-person multiplayer zombie survival game tutorial project. :star:1429
 - Unity
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - Server authoritative movement project using Forge Networking for Unity. :star:40
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project.
-  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - Forge Networking-based multiplayer FPS game as an example project. :star:117
-  - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Network framework for Entitas ECS targeting turn-based or slow-paced games. :star:48
-  - [FPSSample](https://github.com/Unity-Technologies/FPSSample) - An official Multiplayer FPS project sample from Unity using new networking package and ECS. :star:3079
-  - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Gabriel Gambetta's network architecture implementation in Unity using Lidgren. :star:28
-  - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) - UNET-based simple multiplayer 1st-person shooter tutorial project. :star:346
+  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - Forge Networking-based multiplayer FPS game as an example project. :star:118
+  - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Network framework for Entitas ECS targeting turn-based or slow-paced games. :star:49
+  - [FPSSample](https://github.com/Unity-Technologies/FPSSample) - An official Multiplayer FPS project sample from Unity using new networking package and ECS. :star:3094
+  - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Gabriel Gambetta's network architecture implementation in Unity using Lidgren. :star:29
+  - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) - UNET-based simple multiplayer 1st-person shooter tutorial project. :star:348
   - [SmartFoxServer2X Multiplayer](https://assetstore.unity.com/packages/tools/network/smartfoxserver2x-multiplayer-sdk-17261) - SFS2X-based multiplayer project examples.
   - [TANKS! Networking](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213) - UNET-based multiplayer tank shooter project.
   - [UNet-Controller](https://github.com/Heep042/UNet-Controller) - UNET-based networked 1st-person and 3rd-person player controller with advanced features. :star:66

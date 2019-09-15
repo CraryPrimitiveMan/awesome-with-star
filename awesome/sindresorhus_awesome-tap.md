@@ -25,13 +25,13 @@
 ### JavaScript
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:30
-- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:257
+- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:258
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:139
 - [tap-min](https://github.com/derhuerst/tap-min) - Minimal output. :star:5
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:44
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:76
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:519
+- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:520
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:15
 - [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:36
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests. :star:14
@@ -41,7 +41,7 @@
 - [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows. :star:58
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output. :star:21
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility. :star:1
-- [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output. :star:31
+- [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output. :star:32
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity. :star:8
 
 
@@ -51,15 +51,15 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16764
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1454
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5124
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16791
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1460
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5133
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:399
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
-- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`). :star:104
+- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`). :star:105
 
 ### Fish
 
@@ -67,7 +67,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5918
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5932
 
 [More...](https://testanything.org/producers.html)
 
@@ -78,7 +78,7 @@ Things that consume TAP output.
 
 ### JavaScript
 
-- [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:94
+- [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:95
 - [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:21
 - [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:20
 
@@ -96,7 +96,7 @@ Things that consume TAP output.
 
 ### Python
 
-- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP. :star:70
+- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP. :star:71
 
 
 ## Articles
@@ -117,7 +117,7 @@ Things that consume TAP output.
 
 ## Community
 
-- [Discuss](https://github.com/TestAnything/Specification/issues) :star:49
+- [Discuss](https://github.com/TestAnything/Specification/issues) :star:50
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
 

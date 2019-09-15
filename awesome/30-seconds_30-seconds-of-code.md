@@ -19,9 +19,9 @@
 
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2297
-* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:2994
-* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2121
+* [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react) :star:2328
+* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code) :star:3144
+* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code) :star:2128
 * [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 * [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
 
@@ -676,7 +676,7 @@ const sum = pipeAsyncFunctions(
   x => x + 3,
   async x => (await x) + 4
 );
-(async() => {
+(async () => {
   console.log(await sum(5)); // 15 (after one second)
 })();
 ```
@@ -2233,7 +2233,9 @@ reduceWhich(
 
 ### reject
 
-Takes a predicate and array, like `Array.prototype.filter()`, but only keeps `x` if `pred(x) === false`.
+Filters an array's values based on a predicate function, returning only values for which the predicate function returns `true`.
+
+Use `Array.prototype.filter()` in combination with the predicate function, `pred`, to return only the values for which `pred()` returns `true`.
 
 ```js
 const reject = (pred, array) => array.filter((...args) => !pred(...args));

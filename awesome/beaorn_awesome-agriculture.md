@@ -31,7 +31,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [evapotranspiration](https://github.com/beaorn/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo). :star:9
 - [frostline](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones. :star:84
 - [GSODR](https://github.com/ropensci/GSODR) - Global summary daily weather data in R. :star:54
-- [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run. :star:62
+- [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run. :star:63
 - [PyETo](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo). :star:59
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data. :star:36
 - [soilDB](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases. :star:14
@@ -43,10 +43,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Datasets, Machine Learning and AI
 
 - [agridat](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments. :star:50
-- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data. :star:144
-- [CWFID](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations. :star:49
-- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes. :star:48
-- [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping using computer vision. :star:219
+- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data. :star:145
+- [CWFID](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations. :star:50
+- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes. :star:49
+- [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping using computer vision. :star:221
 
 ## Data Standardization, Interoperability and APIs
 
@@ -63,21 +63,21 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation. :star:7
 - [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation. :star:3
-- [SampleData](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing. :star:6
+- [SampleData](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing. :star:7
 - [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations. :star:3
 
 ## Farm Management Systems and Record Keeping
 
 - [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
-- [farmOS](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP. :star:233
+- [farmOS](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP. :star:234
 - [Ekylibre](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS. :star:200
-- [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js. :star:216
+- [Tania](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js. :star:220
 
 ## Geospatial and GIS
 
 ### GIS Resources
 
-- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources. :star:1206
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources. :star:1219
 
 ### GIS Platforms
 
@@ -85,13 +85,13 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### Shapefiles
 
-- [pyshp](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python. :star:633
-- [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby. :star:77
+- [pyshp](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python. :star:634
+- [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby. :star:78
 
 ## IoT, Hardware, Automation and Robotics
 
-- [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software. :star:96
-- [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing. :star:82
+- [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software. :star:98
+- [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing. :star:83
 - [FarmBot](https://github.com/farmbot) -  Open source precision agriculture CNC farming project.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi. :star:13
@@ -99,12 +99,12 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Knowledgebases and Learning Resources
 
 - [Harvest Helper](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API. :star:37
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails. :star:667
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails. :star:668
 
 ## Remote Sensing and Imagery
 
-- [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites. :star:221
-- [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery. :star:797
+- [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites. :star:223
+- [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery. :star:801
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes. :star:57
 
 ## License

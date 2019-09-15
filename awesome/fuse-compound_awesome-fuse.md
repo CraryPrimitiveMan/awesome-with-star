@@ -85,7 +85,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Samples](https://github.com/fusetools/fuse-samples/) - Samples demonstrating the use of various Fuse and FuseJS APIs. :star:187
+- [Samples](https://github.com/fusetools/fuse-samples/) - Samples demonstrating the use of various Fuse and FuseJS APIs. :star:188
 - [Tour De Fuse](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse. :star:10
 
 ## Open Source
@@ -98,7 +98,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 - [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager. :star:34
 - [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse. :star:6
 - [Fuse Review](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app. :star:1
-- [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:187
+- [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS. :star:188
 - [Fuse Taptic-Feedback](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine. :star:1
 - [fuse.QrScanner](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode. :star:2
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase. :star:14

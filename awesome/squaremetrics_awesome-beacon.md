@@ -9,15 +9,15 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2834
+* [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone) :star:2835
 * Advertising frame types
-  * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid) :star:2834
-  * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm) :star:2834
-  * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url) :star:2834
-* [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator) :star:2834
+  * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid) :star:2835
+  * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm) :star:2835
+  * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url) :star:2835
+* [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator) :star:2835
 * [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (by Nordic Semiconductor) :star:34
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
-* [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets) :star:2834
+* [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets) :star:2835
 
 ## Physical Web
 
@@ -27,8 +27,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - Ubiquity Dev Summit 2016
 * [URL Validator 1](https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/), [URL Validator 2](https://url-caster.appspot.com/webui)
 * [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
-* [Physical Web Implementation Status](https://github.com/google/physical-web/blob/master/implementation-status.md) :star:6093
-* [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo) :star:6093
+* [Physical Web Implementation Status](https://github.com/google/physical-web/blob/master/implementation-status.md) :star:6092
+* [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo) :star:6092
 * [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
 * [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
@@ -95,14 +95,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Swift
 
-* [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) :star:2834
+* [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) :star:2835
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:1021
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) :star:1023
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. :star:140
-* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon. :star:13
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon. :star:14
 
 ## Objective-C
 
@@ -123,9 +123,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Virtual Beacons
 
 * [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
-* [Android BLE advertising library](https://github.com/uriio/beacons-android) :star:100
+* [Android BLE advertising library](https://github.com/uriio/beacons-android) :star:99
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
-* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising) :star:2834
+* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising) :star:2835
 * [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon) :star:129
 * [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
@@ -176,7 +176,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Beacon OSX](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon :star:857
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons :star:45
 * [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon. :star:126
-* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework ns Swift using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon, iBeacon. :star:13
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework ns Swift using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon, iBeacon. :star:14
 
 # Linux
 
@@ -185,8 +185,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2653
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1634
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble) :star:2657
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno) :star:1636
 
 # Windows
 
@@ -206,7 +206,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:339
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) :star:340
 
 # Beacon Developer Kits & BLE Chips
 

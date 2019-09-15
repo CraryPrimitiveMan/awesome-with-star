@@ -89,7 +89,7 @@ Pull requests are more than welcome.
 - [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/) :star:4
-- [Ripple Gen](https://github.com/CodeShark/RippleGen/) :star:22
+- [Ripple Gen](https://github.com/CodeShark/RippleGen/) :star:23
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network

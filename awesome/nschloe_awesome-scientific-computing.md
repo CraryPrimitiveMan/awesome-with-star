@@ -30,7 +30,7 @@ them.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
-- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:570
+- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:576
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
@@ -80,7 +80,7 @@ them.
   (Python, MIT, GitHub)
 - [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
   (Python, MIT, [GitHub](https://github.com/inducer/meshpy))
-- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:308
+- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:311
   (Python, MIT, GitHub)
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
@@ -102,7 +102,7 @@ them.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
   (C, *nonfree software*)
-- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:95
+- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:96
   (Python, MIT, GitHub)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
@@ -112,7 +112,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh. :star:34
   (Python, MIT, GitHub)
-- [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:249
+- [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:251
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg)) :star:90
 
 ## Sparse linear solvers
@@ -140,7 +140,7 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:220
+- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:224
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
   (Python, [custom open-source

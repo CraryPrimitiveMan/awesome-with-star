@@ -76,7 +76,7 @@ Pull requests very welcome.
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion. :star:27
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant. :star:87
-* [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:127
+* [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking :star:128
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - Exception Tracking :star:149
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`. :star:11
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications. :star:52
@@ -92,7 +92,7 @@ Pull requests very welcome.
 * [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 * [Adobe ColdFusion Builder 3](http://www.adobe.com/products/coldfusion-builder.html) - Eclipse based ColdFusion IDE from Adobe
-* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) :star:1375
+* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) :star:1377
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion :star:12

@@ -19,8 +19,8 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 ## Official Resources
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-- [Q# samples](https://github.com/Microsoft/Quantum) :star:2435
-- [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:110
+- [Q# samples](https://github.com/Microsoft/Quantum) :star:2447
+- [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:113
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
 - [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC) :star:57

@@ -40,8 +40,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
 - [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [Koko](https://github.com/KokoIRC/koko) - Minimalistic design, VIM-like shortcuts and built on electron. `Windows` `macOS` :star:307
-- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web` :star:154
+- [Koko](https://github.com/KokoIRC/koko) - Minimalistic design, VIM-like shortcuts and built on electron. `Windows` `macOS` :star:308
+- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web` :star:152
 - [Circe](https://github.com/jorgenschaefer/circe) - For use in Emacs, sane defaults. `Emacs` :star:260
 - [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
@@ -49,7 +49,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
 - [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client. `macOS`
 - [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. ([source](https://github.com/MCMrARM/revolution-irc)) `Android` :star:221
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. ([source](https://github.com/MCMrARM/revolution-irc)) `Android` :star:223
 - [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
 - [IRC for Android™](https://www.countercultured.net/android/) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 
@@ -70,7 +70,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 #### Self-hosted
 
 - [Convos](https://convos.by) - Always online web IRC client. ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
-- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) :star:1628
+- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) :star:1631
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
@@ -79,12 +79,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used for running your own IRC server or network.*
 
-- [ircd.js](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff. :star:532
+- [ircd.js](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff. :star:533
 - [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd)) :star:715
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited. :star:296
 - [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd)) :star:243
 - [Hulk](https://github.com/chrisdone/hulk) - Intended for private business use or hobby work. `Haskell` :star:145
-- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source](https://github.com/oragono/oragono)) :star:716
+- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source](https://github.com/oragono/oragono)) :star:719
 - [charybdis](https://github.com/charybdis-ircd/charybdis) - Scalable IRCv3 server. :star:204
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits.
 
@@ -92,7 +92,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
-- [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme)) :star:271
+- [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme)) :star:272
 - [anope](https://anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope)) :star:220
 
 ### Bots
@@ -103,9 +103,9 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [phenny](http://inamidst.com/phenny/) - Simple, module creation guide. ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](https://github.com/RJ/irccat) - Simplifies messaging from shell scripts. `Java` :star:278
 - [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python` :star:453
-- [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python` :star:244
+- [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python` :star:245
 - [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python` :star:231
-- [Jenni](https://github.com/myano/jenni) - `Python` :star:232
+- [Jenni](https://github.com/myano/jenni) - `Python` :star:231
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure` :star:152
 - [IRC-BF](https://github.com/ddevault/bf-irc-bot) - `Brainfuck` :star:152
@@ -122,9 +122,9 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Cinch](https://github.com/cinchrb/cinch) - Quickly create bots with minimal effort. `Ruby` :star:1031
 - [goirc](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go` :star:444
 - [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript` :star:314
-- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go` :star:405
+- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go` :star:406
 - [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python` :star:326
-- [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript` :star:204
+- [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript` :star:205
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java` :star:175
 - [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework. :star:10
 
@@ -132,15 +132,15 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Sends messages back and forth.*
 
-- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript` :star:746
+- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript` :star:747
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript` :star:573
 - [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go` :star:70
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-- [teleirc](https://github.com/FruitieX/teleirc) - Telegram ↔ IRC. `JavaScript` :star:260
+- [teleirc](https://github.com/FruitieX/teleirc) - Telegram ↔ IRC. `JavaScript` :star:261
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C` :star:7
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript` :star:3
 - [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web ↔ IRC. `Go` :star:190
-- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go` :star:1861
+- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go` :star:1874
 
 ### Channels
 
@@ -189,8 +189,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Information and resources about the IRC protocol itself.*
 
 - [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source](https://github.com/ircv3/ircv3.github.io)) :star:54
-- [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source](https://github.com/ircdocs/modern-irc)) :star:63
-- [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source](https://github.com/ircdocs/irc-defs)) :star:45
+- [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source](https://github.com/ircdocs/modern-irc)) :star:64
+- [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source](https://github.com/ircdocs/irc-defs)) :star:46
 - [grawity's IRC docs](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation. :star:44
 - [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source](https://github.com/ircdocs/irc-stats)) :star:3
 - [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent. :star:19

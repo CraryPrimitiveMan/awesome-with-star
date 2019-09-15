@@ -40,28 +40,28 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
-- [webext-options-sync](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options. :star:45
+- [webext-options-sync](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options. :star:46
 - [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox. :star:9
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension. :star:94
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:721
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace. :star:727
 
 ## Tools
 
 Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically). :star:166
-- [mozilla/web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions. :star:713
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions. :star:716
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published. :star:18
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it. :star:27
-- [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files. :star:20
+- [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files. :star:21
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper. :star:14
-- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store. :star:449
+- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store. :star:450
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons. :star:39
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - Translator tool to manage i18n messages.json. :star:11
 
 ## Testing
 
-- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:321
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing. :star:323
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines. :star:138
 
 ## Boilerplates
@@ -69,17 +69,17 @@ Apps that help you manage your extensions.
 - [browser-extension-template](https://github.com/notlmn/browser-extension-template) - Barebones boilerplate with webpack, options handler and auto-publishing. :star:107
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator. :star:15
 - [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:139
-- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:1571
+- [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development. :star:138
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading. :star:1578
 
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub](https://github.com/npmhub/npmhub) :star:390
+- [npmhub](https://github.com/npmhub/npmhub) :star:389
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) :star:227
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:9669
-- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1931
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) :star:9727
+- [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation. :star:1941
 
 ## License
 

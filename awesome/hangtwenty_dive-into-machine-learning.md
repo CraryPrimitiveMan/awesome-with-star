@@ -118,7 +118,7 @@ Next, pick **one or two** of these IPython Notebooks and play along.
 
 There are more places to find great IPython Notebooks:
 
-* [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science) :star:13767
+* [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science) :star:13770
 * [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
 _Know another great notebook? Please submit a PR!_
@@ -186,10 +186,10 @@ You'll want to get more familiar with Pandas.
 * Here are some docs I found especially helpful as I continued learning:
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
-	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
+	* [Reshaping by pivoting DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
 	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
-	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for later when you need to scale
 	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
 	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
@@ -222,7 +222,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
-* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:2129
+* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:2127
 
 ## Risks
 
@@ -327,9 +327,9 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:3081
-* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:834
-* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:1155
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:3099
+* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:835
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:1158
 
 ----
 
@@ -348,7 +348,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
-* [Sonnet](https://github.com/deepmind/sonnet) - a python library built on top of TensorFlow for building complex neural networks. Made by Google DeepMind. :star:7864
+* [Sonnet](https://github.com/deepmind/sonnet) - a python library built on top of TensorFlow for building complex neural networks. Made by Google DeepMind. :star:7879
 * [Build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e) using [Lore](https://github.com/instacart/lore/).
 
 ## "Big" Data?

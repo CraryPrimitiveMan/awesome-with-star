@@ -95,11 +95,11 @@ We're looking for pull requests related to papers we should add, better organiza
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
 * [netlib](http://www.netlib.org/)
-* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2860
+* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering) :star:2862
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.html)
+* [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 

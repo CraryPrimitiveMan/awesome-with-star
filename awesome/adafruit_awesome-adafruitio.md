@@ -39,7 +39,7 @@
 - [Adafruit IO HTTP API Documentation](https://io.adafruit.com/api/docs/#adafruit-io-http-api) - Adafruit IO HTTP API provides access to your Adafruit IO data from any programming language or environment which can speak HTTP.
 - [Adafruit IO MQTT API Documentation](https://io.adafruit.com/api/docs/mqtt.html#adafruit-io-mqtt-api) - Adafruit MQTT API provides access to your Adafruit IO data from any MQTT Client.
 - [Adafruit IO MQTT API Cookbook](https://io.adafruit.com/api/docs/cookbook.html#adafruit-io-api-cookbook) - Recipes related to the Adafruit IO API which have been found useful in the past.
-- [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO. :star:86
+- [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO. :star:87
 - [Adafruit IO CircuitPython Library](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO) - A CircuitPython client for Adafruit IO. :star:7
 - [Adafruit IO Python Library](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO. :star:137
 - [Adafruit IO Ruby Library](https://github.com/adafruit/io-client-ruby) - A Ruby client for Adafruit IO. :star:24

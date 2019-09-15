@@ -80,12 +80,12 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Apps
 
 ### Example Android Apps
-* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
+* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1212
 * [Rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android. :star:27
 
 
 ### Example iOS Apps
-* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
+* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1212
 * [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion.
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit. :star:321
 * [Motion Dropbox Example](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK.
@@ -98,7 +98,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example macOS Apps
-* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
+* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1212
 * [Mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App. :star:4
 * [Motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application. :star:4
 * [Motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion. :star:5
@@ -110,7 +110,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example tvOS Apps
-* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1211
+* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1212
 
 
 ### Open Source macOS Apps
@@ -141,7 +141,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
 * [Atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom. :star:5
 * [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment. :star:38
-* [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:157
+* [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:158
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
 
 
@@ -216,12 +216,12 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:132
-* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:238
+* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:237
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1280
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:22
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way. :star:21
-* [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:19
+* [ProMotion-iap](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion. :star:18
 * [ProMotion-menu](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem. :star:78
 * [ProMotion-push](https://github.com/infinitered/ProMotion-push) - Push notification support for ProMotion. :star:17
 * [ProMotion-map](https://github.com/infinitered/ProMotion-map) - ProMotion::MapScreen gem. Extracted from ProMotion core. :star:12

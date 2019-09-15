@@ -21,7 +21,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Official Resources
 
 * [Homepage](https://hyperapp.js.org)
-* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16908
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16912
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -54,11 +54,11 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7077
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7108
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching. :star:20
-* [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API. :star:15
+* [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API. :star:16
 * [Home Away From Home](https://homeawayfromhome.online) - A social network for meeting foreigners and a resource for people living abroad.
 
 
@@ -72,14 +72,14 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp. :star:27
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components :star:15
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:40
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:85
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:86
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:15
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:17
 * [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:92
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:2
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:12
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:19
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:299
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:301
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps :star:2
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form) :star:7
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript. :star:1

@@ -132,7 +132,7 @@
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:882
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:883
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -153,7 +153,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:324
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:325
 
 ## Serverless
 

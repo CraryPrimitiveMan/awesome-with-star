@@ -34,7 +34,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## General
 
 - [GIMP](http://www.gimp.org/) - *A swiss knife for image manipulation.*
-- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:187
+- [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.* :star:188
 - [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick.*
 
@@ -49,27 +49,27 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:428
+- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.* :star:433
 
 ### Canon
 
-- [OfxCanon](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.* :star:42
+- [OfxCanon](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.* :star:43
 - [Edsdk4j](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.* :star:76
 
 ### GoPro
 - [GoPro](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.* :star:131
-- [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:86
+- [GoPro](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.* :star:87
 - [GoPro](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.* :star:256
 - [GoPro.Hero](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.* :star:54
 
 ### Sony
 
-- [SonyPy](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.* :star:30
+- [SonyPy](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.* :star:31
 
 ## Utilities
 
-- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:100
-- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:174
+- [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.* :star:101
+- [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.* :star:175
 
 
 ## RAW image developers
@@ -84,7 +84,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Fotoxx](http://www.kornelix.com/fotoxx.html) - *A Linux program for editing photos and other images.*
 
 ## HDR Specific Software
-- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:364
+- [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - *A complete workflow for HDR imaging* :star:366
 - [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - *HDR Tone Mapping GUI for Linux.*
 - [PFS Tools](http://pfstools.sourceforge.net/) - *A set of command line programs for reading, writing and manipulating HDR images and video frames.*
 
@@ -99,8 +99,8 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
 - [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
-- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:930
-- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.* :star:2899
+- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.* :star:935
+- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.* :star:2903
 - [A Photo Manager](https://github.com/k3b/APhotoManager/) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...* :star:116
 ## EXIF Editors
 
@@ -154,17 +154,17 @@ record, convert and stream audio and video.*
 
 ### Compositing software
 
-- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1389
+- [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.* :star:1390
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.*  :star:81
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:2473
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.* :star:2486
 
 ### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.* :star:135
-- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:389
-- [Frei0r](https://github.com/dyne/frei0r) - *A large collection of free and portable video plugins.* :star:118
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*. :star:390
+- [Frei0r](https://github.com/dyne/frei0r) - *A large collection of free and portable video plugins.* :star:120
 
 ## Scripts
 

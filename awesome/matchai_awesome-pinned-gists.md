@@ -19,7 +19,7 @@
 Displaying data from external services in a pinned gist.
 
 - [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user. :star:100
-- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:48
+- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:54
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava. :star:8
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm. :star:11
 
@@ -27,7 +27,7 @@ Displaying data from external services in a pinned gist.
 
 Displaying more detailed GitHub user data in a pinned gist.
 
-- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user. :star:17
+- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user. :star:19
 
 ## Resources
 

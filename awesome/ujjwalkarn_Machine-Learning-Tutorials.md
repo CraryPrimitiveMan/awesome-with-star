@@ -1,4 +1,5 @@
 # Information comes from [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
 # Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
@@ -161,7 +162,7 @@
 
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 
-- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:639
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach :star:641
 
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
 
@@ -227,7 +228,7 @@
 
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
-- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1530
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage :star:1532
 
 <a name="quora" />
 
@@ -1069,6 +1070,18 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [adaBag R package](https://cran.r-project.org/web/packages/adabag/adabag.pdf)
     
     - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
+
+- CatBoost
+
+    - [CatBoost Documentation](https://catboost.ai/docs/)
+
+    - [Benchmarks](https://catboost.ai/#benchmark)
+
+    - [Tutorial](https://github.com/catboost/tutorials)
+
+    - [GitHub Project](https://github.com/catboost)
+
+    - [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 <a name="ensem" />
 

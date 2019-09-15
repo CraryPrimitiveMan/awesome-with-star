@@ -27,14 +27,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects. :star:13
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template. :star:48
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses. :star:8
-* [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs :star:28
+* [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs :star:29
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard :star:14
 * [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard :star:35
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard :star:5
 * [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:40
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:32
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:51
-* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:43
+* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:44
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:42
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
@@ -87,8 +87,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Guice
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:259
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:163
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:260
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:164
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:34
 
 ### Deployment

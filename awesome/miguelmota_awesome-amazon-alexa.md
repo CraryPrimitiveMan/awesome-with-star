@@ -29,37 +29,37 @@
 
 ## SDKs/Tools
 
-- [alexa-skills-kit-js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. :star:2700
+- [alexa-skills-kit-js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. :star:2704
 - [jargon-sdk-nodejs](https://github.com/JargonInc/jargon-sdk-nodejs/tree/master/packages/alexa-skill-sdk) - The Jargon SDK makes it easy for skill developers to manage their runtime content and to support multiple languages from within their skill. :star:13
 - [AVS-server](https://github.com/miguelmota/AVS-server) - Node.js web server for interacting with the Alexa Voice Service. :star:18
 - [AVS-client](https://github.com/miguelmota/AVS-client) - Front-end application for interacting with Alexa Voice Service. :star:12
 - [SSMLOL](https://github.com/okofish/ssmlol) - MP3 file validator for Alexa SSML \<audio\> tags. :star:3
-- [Jovo Framework](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform apps for Alexa and Google Home. :star:845
+- [Jovo Framework](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform apps for Alexa and Google Home. :star:847
 - [Alexa Smart Home SDK](https://github.com/thehappydinoa/alexa-smart-home-skill) - An Alexa Skill Generator for IoT. :star:9
 - [AssistantJS](https://github.com/webcomputing/AssistantJS) - TypeScript framework to build cross-platform voice applications. :star:86
 - [alexa-avs-sample-app](https://github.com/alexa/alexa-avs-sample-app) - This project provides a step-by-step walkthrough to help you build a hands-free Alexa Voice Service (AVS) prototype in 60 minutes.
-- [alexa-skills-kit-sdk-for-java](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - SDK and example code for building voice-enabled skills for the Amazon Echo. :star:693
+- [alexa-skills-kit-sdk-for-java](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - SDK and example code for building voice-enabled skills for the Amazon Echo. :star:694
 - [ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit) - A minimalist SDK for developing skills for the Amazon Echo's ASK. :star:276
 - [alexa-skill-kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda. :star:275
 - [alexa-home](https://github.com/zachfeldman/alexa-home) - Using Amazon Echo to control the home! :star:251
 - [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development. :star:230
-- [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - A library and sample app to abstract access to the Amazon Alexa service for Android applications. :star:245
+- [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - A library and sample app to abstract access to the Amazon Alexa service for Android applications. :star:247
 - [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini. :star:240
 - [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray, uses Alexa Voice Service and built with Swift. :star:191
-- [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast, designed for Raspberry Pi. :star:228
+- [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast, designed for Raspberry Pi. :star:227
 - [AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java. :star:207
 - [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation. :star:156
-- [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill. :star:110
-- [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET. :star:276
+- [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill. :star:109
+- [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET. :star:277
 - [ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa. :star:173
-- [alexacast](https://github.com/erik/alexacast) - Chromecast support for Amazon Alexa. :star:107
-- [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill. :star:377
+- [alexacast](https://github.com/erik/alexacast) - Chromecast support for Amazon Alexa. :star:106
+- [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill. :star:378
 - [haaska](https://github.com/auchter/haaska) - Home Assistant Alexa Skill Adapter. :star:234
-- [Alexa Skills Kit SDK for Java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo. :star:693
+- [Alexa Skills Kit SDK for Java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo. :star:694
  - [Aleksa](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin. :star:34
-- [Alexa Skills Kit for Python](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python. :star:1774
+- [Alexa Skills Kit for Python](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python. :star:1775
 - [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda. :star:63
-- [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java. :star:693
+- [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java. :star:694
 - [vsms-skeleton](https://github.com/internetofvoice/vsms-skeleton) - Voice Skill Management System (Skeleton). :star:2
 - [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills. :star:15
 - [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library. :star:93
@@ -86,7 +86,7 @@
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - An express middleware that verifies HTTP requests sent to an Alexa skill are sent from Amazon. :star:30
 - [alexia](https://github.com/Accenture/alexia) - A Framework for creating Amazon Echo skills using Node.js. :star:155
 - [fluent-ssml](https://github.com/maghis/fluent-ssml) - Reusable, testable SSML templates for Typescript or plain Node.js. :star:1
-- [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant. :star:845
+- [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant. :star:847
 - [chatskills](https://github.com/primaryobjects/chatskills) - Run and debug Alexa skills on the command-line. Create bots. Run them in Slack. Run them anywhere! :star:168
 - [alexa-utterances](https://github.com/alexa-js/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string. :star:151
 - [alexa-mp3-validator](https://github.com/tejashah88/alexa-mp3-validator) - A node module for validating your MP3 files to be used in your Amazon Alexa skill. :star:2
@@ -125,27 +125,27 @@
 - [alexa-astro](https://github.com/peap/alexa-astro) - Ask your Amazon Echo about the night sky.
 - [alexa_metar](https://github.com/djacobow/alexa_metar) - Read ADDS METARs aloud on an Amazon Echo. :star:6
 - [alexa-qrz](https://github.com/maihde/alexa-qrz) - An Alexa Skill to lookup FCC license information. :star:2
-- [alexa-airportinfo](https://github.com/bignerdranch/alexa-airportinfo) - This skill uses the FAA API to report the current weather, and any delays, for a given airport code. :star:62
+- [alexa-airportinfo](https://github.com/bignerdranch/alexa-airportinfo) - This skill uses the FAA API to report the current weather, and any delays, for a given airport code. :star:61
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice. :star:92
 - [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more. :star:13
-- [geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa. :star:638
+- [geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa. :star:639
 - [alex-robinhood-skill](https://github.com/dvehar/alexa-robinhood-skill) - Unoffical Alexa Skill for Robinhood.
 
 ## Boilerplates
 
 - [skill-sample-nodejs-fact](https://github.com/alexa/skill-sample-nodejs-fact) - This Alexa sample skill is a template for a basic fact skill. :star:937
-- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills. :star:388
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills. :star:387
 - [skill-sample-nodejs-petmatch](https://github.com/alexa/skill-sample-nodejs-petmatch) - This Alexa Skill Kit sample shows how to build a skill using Dialog Management and Entity Resolution. :star:87
 - [skill-sample-nodejs-team-lookup](https://github.com/alexa/skill-sample-nodejs-team-lookup) - An Alexa Skill Sample showing how to build a team lookup skill. :star:46
 - [skill-sample-nodejs-city-guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - An Alexa Skill Sample showing how to build a skill featuring a single city's landmarks and news. :star:189
-- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills. :star:388
-- [skill-sample-nodejs-highlowgame](https://github.com/alexa/skill-sample-nodejs-highlowgame) - This Alexa sample skill is a template for a basic high-low game skill. :star:88
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills. :star:387
+- [skill-sample-nodejs-highlowgame](https://github.com/alexa/skill-sample-nodejs-highlowgame) - This Alexa sample skill is a template for a basic high-low game skill. :star:89
 - [skill-sample-nodejs-howto](https://github.com/alexa/skill-sample-nodejs-howto) - This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a parameter-based skill using a template called ‘Minecraft Helper’. :star:229
 - [skill-sample-nodejs-feed](https://github.com/alexa/skill-sample-nodejs-feed) - An Alexa Skill Template to help create skills that read RSS/Atom feeds. :star:93
 - [skill-sample-nodejs-decision-tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - An Alexa Skill Sample for building a skill that can take a user through a decision tree, like "What should I eat for breakfast?". :star:143
 - [skill-sample-nodejs-calendar-reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - An Alexa Skill Sample showing how to import calendar data from an .ICS file. :star:70
-- [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - This Alexa sample skill is a template for a trivia style game with score keeping. :star:238
-- [skill-sample-nodejs-quiz-game](https://github.com/alexa/skill-sample-nodejs-quiz-game) - An Alexa Skill Sample showing how to build a quiz game skill. :star:223
+- [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - This Alexa sample skill is a template for a trivia style game with score keeping. :star:237
+- [skill-sample-nodejs-quiz-game](https://github.com/alexa/skill-sample-nodejs-quiz-game) - An Alexa Skill Sample showing how to build a quiz game skill. :star:224
 - [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - This project demonstrates how to build an Alexa private skill that integrates with your Salesforce data, utilizing account linking and a personal voice code. :star:22
 
 ## Prototyping

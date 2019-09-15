@@ -22,25 +22,25 @@
 
 ## Libraries
 
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5. :star:1477
-- [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library. :star:1125
-- [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas. :star:327
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5. :star:1479
+- [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library. :star:1124
+- [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas. :star:328
 - [pusuo/patchca](https://github.com/pusuo/patchca) - Simple yet powerful CAPTCHA library written in Java.
-- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. :star:2524
-- [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps. :star:1592
-- [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel. :star:1092
-- [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services. :star:100
+- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. :star:2534
+- [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps. :star:1593
+- [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel. :star:1101
+- [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services. :star:99
 
 
 ## Generation
-- [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs. :star:992
-- [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs. :star:552
-- [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js. :star:900
+- [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs. :star:997
+- [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs. :star:554
+- [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js. :star:908
 - [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software. :star:474
 - [contra/captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js. :star:152
-- [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image. :star:594
-- [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform. :star:639
-- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha. :star:644
+- [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image. :star:595
+- [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform. :star:640
+- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha. :star:647
 
 
 ## Crack
@@ -48,40 +48,40 @@
 ### General
 - [arunpatala/captcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch. :star:162
 - [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow. :star:51
-- [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm. :star:576
-- [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras. :star:1189
+- [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm. :star:579
+- [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras. :star:1205
 - [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍. :star:377
 - [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set. :star:351
 - [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning. :star:196
 - [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model. :star:497
 - [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）. :star:212
-- [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation. :star:354
+- [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation. :star:355
 - [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha. :star:163
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN. :star:104
-- [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm. :star:96
-- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha. :star:546
+- [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm. :star:98
+- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha. :star:547
 - [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha. :star:224
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy. :star:2593
-- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters. :star:1689
-- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model. :star:676
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters. :star:1704
+- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model. :star:686
 
 ### Chinese
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition. :star:1067
 - [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn. :star:202
-- [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition. :star:162
-- [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu. :star:586
-- [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning. :star:226
-- [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow. :star:894
+- [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition. :star:161
+- [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu. :star:588
+- [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning. :star:227
+- [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow. :star:914
 
 
 ## Tools
 
-- [Tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine. :star:29599
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine. :star:29719
 - [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes. :star:833
-- [Negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful. :star:766
-- [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form. :star:975
+- [Negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful. :star:767
+- [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form. :star:976
 - [Securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script. :star:488
-- [Captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services. :star:100
+- [Captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services. :star:99
 
 
 ## Other

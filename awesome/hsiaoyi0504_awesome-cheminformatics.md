@@ -56,7 +56,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### General Purpose
 
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-* [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers. :star:78
+* [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers. :star:79
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
@@ -64,27 +64,27 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Format Checking
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
-* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/). :star:46
+* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/). :star:47
 
 <a id="lib-visualization"></a>
 ### Visulization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/). :star:56
-* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:12
+* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:13
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
 
-* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:60
+* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:61
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:75
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1695
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:349
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1702
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:350
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -105,8 +105,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:241
-* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:141
+* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:242
+* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:142
 
 ## Journals
 
@@ -119,7 +119,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
-* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data. :star:42
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data. :star:43
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399%2F%2F5399) - ChemInformatics course (Spring 2017) of University of Arkansas at Little Rock by Robert Belford
 
 ### Blogs
@@ -146,7 +146,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1100
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1107
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:194
 
 ## License

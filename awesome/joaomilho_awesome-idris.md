@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2965
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2968
 
 ### Articles
 
@@ -74,8 +74,8 @@ Idris is a general purpose pure functional programming language with dependent t
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:25
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:24
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:16
-* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:105
-* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:215
+* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:107
+* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:218
 
 ### Backends
 
@@ -88,7 +88,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 - [Idris Rules](http://idris.build) - Idris rules for Bazel
 - [Ikan](https://github.com/idris-industry/ikan) - A package manager for idris, in idris :star:19
-- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:126
+- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:125
 - [idream](https://github.com/idream-build/idream) - A simple build system for Idris :star:15
 
 ### Community

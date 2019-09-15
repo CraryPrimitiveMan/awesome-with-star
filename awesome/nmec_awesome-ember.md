@@ -74,7 +74,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
 - [Forum](http://discuss.emberjs.com/)
-- [GitHub issues](https://github.com/emberjs/ember.js/issues) :star:21165
+- [GitHub issues](https://github.com/emberjs/ember.js/issues) :star:21175
 - [Reddit](https://www.reddit.com/r/emberjs/)
 
 ## Twitter

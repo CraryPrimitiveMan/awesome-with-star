@@ -29,23 +29,23 @@
 
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
-* [Mill](https://github.com/lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/). :star:1205
-* [Bloop](https://github.com/scalacenter/bloop) - Scala build server and command-line tool for fast developer workflows. :star:490
+* [Mill](https://github.com/lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/). :star:1211
+* [Bloop](https://github.com/scalacenter/bloop) - Scala build server and command-line tool for fast developer workflows. :star:492
 * [Seed](https://github.com/tindzk/seed) - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo). :star:86
 
 ## Functional Programming
-* [Shapeless](https://github.com/milessabin/shapeless) - Library for generic programming. :star:2854
-* [Squants](https://github.com/typelevel/squants) - DSL for quantities, units of measure and dimensional analysis. :star:635
-* [scalaz](https://github.com/scalaz/scalaz) - Type classes and instances for data structures. :star:4222
+* [Shapeless](https://github.com/milessabin/shapeless) - Library for generic programming. :star:2861
+* [Squants](https://github.com/typelevel/squants) - DSL for quantities, units of measure and dimensional analysis. :star:637
+* [scalaz](https://github.com/scalaz/scalaz) - Type classes and instances for data structures. :star:4227
 * [nobox](https://github.com/xuwei-k/nobox) - Immutable primitive array wrapper without boxing. :star:28
 * [PPrint](https://github.com/lihaoyi/PPrint) - Pretty-print values and types. :star:91
 * [SourceCode](https://github.com/lihaoyi/sourcecode) - Implicits providing meta data similar to `__LINE__` in C. :star:383
 * [reactify](https://github.com/outr/reactify) - Functional Reactive Programming framework for Scala. :star:65
-* [chimney](https://github.com/scalalandio/chimney) - Boilerplate-free data transformations. :star:434
+* [chimney](https://github.com/scalalandio/chimney) - Boilerplate-free data transformations. :star:436
 
 ## Unit Tests
 * [utest](https://github.com/lihaoyi/utest) - Library for unit tests. :star:380
-* [minitest](https://github.com/monix/minitest) - Lightweight testing library. :star:138
+* [minitest](https://github.com/monix/minitest) - Lightweight testing library. :star:140
 * [scalaprops](https://github.com/scalaprops/scalaprops) - Library for property-based testing. :star:250
   * [scalaprops-shapeless](https://github.com/scalaprops/scalaprops-shapeless) - Generation of arbitrary ADT instances. :star:8
   * [scalaprops-cross-example](https://github.com/scalaprops/scalaprops-cross-example) - Cross-platform example. :star:2
@@ -58,7 +58,7 @@
 * [Cocoa](https://github.com/jokade/scalanative-cocoa) - Bindings for the macOS graphical framework [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)). :star:14
 * [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl/). :star:2
 * [BLAS](https://github.com/ekrich/scala-native-ml) - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra. :star:12
-* [Gtk+](https://github.com/jokade/scalanative-gtk) - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit. :star:11
+* [Gtk+](https://github.com/jokade/scalanative-gtk) - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit. :star:10
 * [libsoup](https://github.com/jokade/scalanative-libsoup) - Bindings for the [libsoup](https://wiki.gnome.org/Projects/libsoup) HTTP client/server library. :star:2
 * [libui](https://github.com/lolgab/scalaui) - GUI framework based on [libui](https://github.com/andlabs/libui). :star:40
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - Bindings for the [GStreamer](https://gstreamer.freedesktop.org) multimedia framework.
@@ -71,8 +71,8 @@
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering. :star:88
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser. :star:59
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation. :star:13
-* [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library. :star:481
-* [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala. :star:882
+* [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library. :star:483
+* [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala. :star:885
   * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io/). :star:1
 * [sconfig](https://github.com/ekrich/sconfig/) - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) parser. :star:56
 
@@ -80,7 +80,7 @@
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native. :star:7
 
 ## Web Development
-* [Trail](https://github.com/sparsetech/trail) - Routing library. :star:54
+* [Trail](https://github.com/sparsetech/trail) - Routing library. :star:55
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - Fast and simple logging library. :star:232
@@ -88,18 +88,18 @@
 
 ## Console
 * [fansi](https://github.com/lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code). :star:159
-* [scopt](https://github.com/scopt/scopt) - Command-line argument parser. :star:1140
+* [scopt](https://github.com/scopt/scopt) - Command-line argument parser. :star:1144
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative). :star:7
-* [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library. :star:498
+* [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library. :star:501
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - Framework for writing robot software. :star:14
 * [WPILib](https://github.com/Team846/scala-native-wpilib) - Reimplementation of the [FIRST Robotics WPILib libraries](http://first.wpi.edu/FRC/roborio/release/docs/java/). :star:5
 
 ## Programs
-* [sglgears](https://github.com/Milyardo/sglgears) - Port of GL [gears.c](https://github.com/JoakimSoderberg/mesademos/blob/master/src/xdemos/glxgears.c). :star:12
+* [sglgears](https://github.com/Milyardo/sglgears) - Port of GL [gears.c](https://github.com/JoakimSoderberg/mesademos/blob/master/src/xdemos/glxgears.c). :star:13
 * [k8s-cli](https://github.com/fsat/k8s-cli) - CLI tools to generate [Kubernetes](https://kubernetes.io/) resources for [Akka](https://akka.io/), [Play Framework](https://www.playframework.com/) and [Lagom](https://www.lagomframework.com/)-based applications. :star:3
-* [Coursier](https://github.com/coursier/coursier) - Coursier's [`bootstrap` command](https://get-coursier.io/docs/cli-native-bootstrap) generates native launchers. :star:1517
+* [Coursier](https://github.com/coursier/coursier) - Coursier's [`bootstrap` command](https://get-coursier.io/docs/cli-native-bootstrap) generates native launchers. :star:1523
 
 ## Infrastructure
 * [Seed Docker image](https://hub.docker.com/r/tindzk/seed/tags) - Docker image for cross-platform builds with [Seed](https://github.com/tindzk/seed).

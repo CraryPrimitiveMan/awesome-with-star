@@ -26,7 +26,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:18772
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:18822
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md) :star:1358
 
 ## Documentation
@@ -39,15 +39,15 @@
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:116
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:258
+* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:117
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:263
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:113
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:97
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:14
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 * [Mastalab](https://github.com/stom79/mastalab) - Android client.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:418
-* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon. :star:115
+* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:416
+* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon. :star:116
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon. :star:9

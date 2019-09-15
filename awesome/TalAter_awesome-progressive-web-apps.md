@@ -84,7 +84,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Background Sync
 
 - [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync) - A gentle introduction to background sync, along with some great videos and code samples.
-- [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) - The official "explainer" document for background sync, including one-off synchronization and periodic synchronization. :star:515
+- [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) - The official "explainer" document for background sync, including one-off synchronization and periodic synchronization. :star:517
 - [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
 ### Push Notifications
@@ -112,8 +112,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Web Share APIs
 
 - [Introducing the Web Share API](https://developers.google.com/web/updates/2016/10/navigator-share) - High level introduction to the Web Share API.
-- [Web Share API explainer](https://github.com/WICG/web-share/blob/master/docs/explainer.md) - An explanation of the API, along with some examples. Part of the proposal doc. :star:246
-- [Web Share Target API](https://github.com/WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md). :star:142
+- [Web Share API explainer](https://github.com/WICG/web-share/blob/master/docs/explainer.md) - An explanation of the API, along with some examples. Part of the proposal doc. :star:248
+- [Web Share Target API](https://github.com/WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md). :star:144
 
 ## Awesome Performance
 
