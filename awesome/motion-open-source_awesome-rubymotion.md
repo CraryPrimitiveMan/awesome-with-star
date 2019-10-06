@@ -141,7 +141,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
 * [Atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom. :star:5
 * [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment. :star:38
-* [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:158
+* [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing. :star:157
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
 
 
@@ -176,7 +176,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Data Protocols
 * [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:20
-* [Meteor-motion](https://github.com/whitesmith/meteor-motion) - Wrapper for Meteor DDP with support for Motion Model. :star:10
+* [Meteor-motion](https://github.com/whitesmith/meteor-motion) - Wrapper for Meteor DDP with support for Motion Model.
 
 
 ### Database
@@ -216,7 +216,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:132
-* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:237
+* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:235
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1281
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:22

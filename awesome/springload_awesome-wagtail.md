@@ -44,9 +44,9 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository](https://github.com/wagtail/wagtail) :star:7891
+- [GitHub repository](https://github.com/wagtail/wagtail) :star:7913
 - [Twitter account](https://twitter.com/wagtailcms)
-- [Roadmap](https://github.com/wagtail/wagtail/projects/1) :star:7891
+- [Roadmap](https://github.com/wagtail/wagtail/projects/1) :star:7913
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
 - [Other resources](#resources)
 
@@ -55,11 +55,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Blogging/news
 
 - [Puput](https://puput.readthedocs.org/) - Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.
-- [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) - A WordPress-like blog app implemented in Wagtail. :star:189
+- [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) - A WordPress-like blog app implemented in Wagtail. :star:190
 - [wagtailnews](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality. :star:40
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS. :star:30
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects. :star:45
-- [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s). :star:187
+- [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s). :star:189
 - [Snotra_RSS](https://github.com/olopost/snotra_rss) - Snotra_RSS is an Atom and RSS news aggregator app for Wagtail. :star:4
 
 ### Rich text editor extensions
@@ -79,7 +79,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail. :star:77
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields. :star:33
 - [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`. :star:7
-- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images. :star:36
+- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images. :star:38
 
 ### StreamField
 
@@ -90,7 +90,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [UWKM Streamfields](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain. :star:26
 - [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting. :star:59
-- [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts. :star:8
+- [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts. :star:9
 - [Wagtail UI Plus](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks. :star:3
 
 ### Static site generation
@@ -117,7 +117,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Analytics
 
-- [Wagtail Analytics](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin. :star:127
+- [Wagtail Analytics](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin. :star:128
 
 ### Customer experience
 
@@ -165,21 +165,21 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Error Pages](https://gitlab.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail. :star:56
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
-- [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details. :star:42
+- [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details. :star:44
 - [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support). :star:59
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail. :star:29
-- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views. :star:12
+- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views. :star:14
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances. :star:24
 - [Wagtail Import/Export Tool](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages. :star:2
 - [Wagtail Tag Manager](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags. :star:30
-- [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware. :star:23
-- [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website. :star:26
+- [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware. :star:24
+- [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website. :star:27
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel. :star:21
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content. :star:8
 
 ## Tools
 
-- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6. :star:144
+- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6. :star:145
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
 - [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
@@ -307,7 +307,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Showcases
 
 - [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps. :star:7891
+- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps. :star:7913
 
 ### Lists
 
@@ -316,7 +316,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## For editors
 
-- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages) :star:139
+- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages) :star:142
 
 ## Community
 

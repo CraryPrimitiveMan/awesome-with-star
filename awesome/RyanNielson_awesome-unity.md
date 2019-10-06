@@ -50,13 +50,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
-* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:261
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity. :star:263
 
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
-* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2885
+* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects. :star:2892
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
@@ -65,18 +65,18 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Character Controllers
 
-* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component. :star:734
+* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component. :star:736
 
 ## Frameworks
 
-* [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games. :star:543
+* [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games. :star:544
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
 
 * [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy. :star:645
-* [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:58
+* [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project. :star:57
 * [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input. :star:689
 * [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier. :star:1233
 
@@ -103,7 +103,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
-* [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple. :star:502
+* [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple. :star:503
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
@@ -114,14 +114,14 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:303
+* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`. :star:307
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views. :star:26
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:3729
-* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1244
+* [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await. :star:3747
+* [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0. :star:1246
 
 ## Video
 
@@ -135,7 +135,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Games
 
-* [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online. :star:140
+* [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online. :star:141
 
 # Resources
 

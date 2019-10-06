@@ -22,7 +22,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2986
+* [Official repo](https://github.com/idris-lang/Idris-dev) :star:2993
 
 ### Articles
 
@@ -61,7 +61,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris. :star:189
-* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:204
+* [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris. :star:205
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris. :star:74
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript. :star:79
@@ -74,8 +74,8 @@ Idris is a general purpose pure functional programming language with dependent t
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris. :star:25
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris. :star:24
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them. :star:16
-* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:117
-* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:225
+* [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library :star:122
+* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language :star:226
 
 ### Backends
 
@@ -88,7 +88,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 - [Idris Rules](http://idris.build) - Idris rules for Bazel
 - [Ikan](https://github.com/idris-industry/ikan) - A package manager for idris, in idris :star:20
-- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:125
+- [Elba](https://github.com/elba/elba) - A package manager for Idris :star:126
 - [idream](https://github.com/idream-build/idream) - A simple build system for Idris :star:16
 
 ### Community

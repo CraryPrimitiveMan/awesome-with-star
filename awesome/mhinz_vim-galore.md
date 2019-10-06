@@ -298,7 +298,6 @@ Help:
 
 - http://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
 - https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png
-- http://www.nathael.org/Data/vi-vim-cheat-sheet.svg
 - http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png
 - http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png
 
@@ -2525,9 +2524,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7739
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:12124
-- [spf13](https://github.com/spf13/spf13-vim) :star:14027
+- [janus](https://github.com/carlhuda/janus.git) :star:7737
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:12184
+- [spf13](https://github.com/spf13/spf13-vim) :star:14038
 
 ## Standard plugins
 

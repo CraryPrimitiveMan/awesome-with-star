@@ -121,7 +121,7 @@
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project. :star:37
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype. :star:28
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer. :star:175
-* [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer. :star:180
+* [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer. :star:179
 * [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
 * [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer. :star:32
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code. :star:7
@@ -132,7 +132,7 @@
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:542
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:234
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:431
+* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in". :star:430
 * [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS. :star:54
 * [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders. :star:20
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components. :star:109
@@ -176,7 +176,7 @@
 
 ## UI Libraries
 * [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11. :star:95
-* [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:29
+* [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer. :star:31
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
@@ -184,7 +184,7 @@
 
 ## Other
 * [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place. :star:340
-* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:497
+* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow. :star:496
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. :star:146
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment. :star:32
 * [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.

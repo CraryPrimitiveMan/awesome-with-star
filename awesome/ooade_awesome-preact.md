@@ -24,31 +24,31 @@
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github](https://github.com/developit/preact) :star:23744
+- [Github](https://github.com/developit/preact) :star:23964
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3929
-- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:4749
-- [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting. :star:5577
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds. :star:3938
+- [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact. :star:4760
+- [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting. :star:5598
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js. :star:10
 - [Create Preact App](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration. :star:84
-- [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components. :star:41689
+- [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components. :star:41872
 
 ### Boilerplates
-- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:899
+- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack. :star:900
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2. :star:61
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact. :star:377
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript. :star:34
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - PWA Starter with TypeScript and SASS (131kb)
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example. :star:28
-- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup. :star:506
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup. :star:505
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel. :star:4
 
 ### Routing
-- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:621
+- [Preact Router](https://github.com/developit/preact-router) - URL router for Preact. :star:626
 - [Preact Route Async](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components. :star:30
-- [Wouter](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API. :star:1633
+- [Wouter](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API. :star:1644
 
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web". :star:475
@@ -81,7 +81,7 @@
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom](https://github.com/qubitproducts/tiny-atom). :star:2
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact. :star:3
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact. :star:2
-- [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact. :star:128
+- [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact. :star:129
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact. :star:15
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change. :star:13
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router. :star:121
@@ -91,16 +91,16 @@
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact. :star:51
 
 ### Libraries
-- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1840
+- [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers. :star:1841
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm. :star:44
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
-- [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve. :star:38
+- [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve. :star:39
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
-- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:167
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing. :star:168
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact. :star:7
-- [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices. :star:48
+- [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices. :star:49
 
 ### Articles
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
@@ -122,9 +122,9 @@
 - [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)). :star:15
 
 ### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:136869
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:13966
-- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:5461
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. :star:137250
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. :star:13974
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine. :star:5471
 
 ### Tips
 Contribute some ;)

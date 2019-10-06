@@ -51,7 +51,7 @@ List of content
 - Document
 	* [MongoDB](https://www.mongodb.com) An open-source, document database designed for ease of development and scaling. 
 		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.
-		* [MemDB](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (based on MongoDB) :star:587
+		* [MemDB](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (based on MongoDB) :star:588
 	* [Elasticsearch](https://www.elastic.co/) Search & Analyze Data in Real Time.
 	* [Couchbase](https://www.couchbase.com/) The highest performing NoSQL distributed database.
 	* [RethinkDB](https://rethinkdb.com/) The open-source database for the realtime web.
@@ -111,7 +111,7 @@ List of content
 * [HDFS](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 	* [Snakebite](https://github.com/spotify/snakebite) A pure python HDFS client
 * [AWS S3](https://aws.amazon.com/s3/)
-	* [smart_open](https://github.com/RaRe-Technologies/smart_open) Utils for streaming large files (S3, HDFS, gzip, bz2) :star:1385
+	* [smart_open](https://github.com/RaRe-Technologies/smart_open) Utils for streaming large files (S3, HDFS, gzip, bz2) :star:1391
 * [Alluxio](https://www.alluxio.org/) Alluxio is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce
 * [CEPH](https://ceph.com/) Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability
 * [OrangeFS](https://www.orangefs.org/) Orange File System is a branch of the Parallel Virtual File System
@@ -196,6 +196,7 @@ multi-processor, multi-core machines
 * [Azkaban](https://azkaban.github.io/) Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows. 
 * [Oozie](https://oozie.apache.org/) Oozie is a workflow scheduler system to manage Apache Hadoop jobs
 * [Pinball](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
+* [Dagster](https://github.com/dagster-io/dagster) Dagster is an open-source Python library for building data applications.
 
 # ELK Elastic Logstash Kibana
 * [docker-logstash](https://github.com/pblittle/docker-logstash) A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).

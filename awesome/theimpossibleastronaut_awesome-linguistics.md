@@ -20,10 +20,10 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe. :star:18
-* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:8795
+* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js. :star:8801
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
-* [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages. :star:8
+* [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages. :star:9
 
 ### Algorithms
 * [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.

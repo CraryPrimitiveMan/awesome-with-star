@@ -15,25 +15,25 @@
 
 ## Family
 
-### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
+### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-60m |
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_(board_game))
+### [Pandemic](<https://wikipedia.org/wiki/Pandemic_(board_game)>)
 
 > Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
 
 ![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  45m |
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
@@ -41,19 +41,19 @@
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 5 |       10 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       10 |  45m |
 
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
+### [Elder Sign](<https://wikipedia.org/wiki/Elder_Sign_(card_game)>)
 
 > Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
 
 ![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   1 - 8 |       13 |    90m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 8 |       13 |  90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
@@ -63,19 +63,19 @@
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 6 |       13 |    60m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       13 |  60m |
 
-### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
+### [Dixit](<https://en.wikipedia.org/wiki/Dixit_(card_game)>)
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
 
 ![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 8 |        8 |    30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 8 |        8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -83,16 +83,17 @@
 
 ![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|  2 - 6  |        8 | 10-20m |
+|   2 - 6 |        8 | 10-20m |
 
 ### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
+
 > Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 8 |       14 | 30-45m |
 
@@ -104,31 +105,61 @@
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       13 |  60m |
+
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
+
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 6 |       12 | 60-120m |
+
+### [Candy Land](<https://en.wikipedia.org/wiki/Candy_Land>)
+
+> The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
+
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   1 - 5 |       13 |    60m |
+|   2 - 4 |        3 | 15-21m |
 
 ## Strategy
 
-### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
+### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
 
-> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own. 
+> It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+
+![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        5 | 5-60m |
+
+### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
+
+> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
 
 ![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2     |       5  |    30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        5 |  30m |
 
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
+### [7 Wonders](<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
 
 > You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
 
 ![7 Wonders game image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/7_wonders_board_game_cover.jpg/200px-7_wonders_board_game_cover.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 7 |       10 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 7 |       10 |  45m |
 
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
@@ -136,9 +167,9 @@
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|       2 |       10 |    30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -146,20 +177,21 @@
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|       2 |       13 |    75m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
+
 <!-- nothing on wikipedia currently -->
 
 > ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   1 - 5 |       10 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       10 |  45m |
 
 ### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
 
@@ -167,17 +199,17 @@
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
-| Players | Min. Age | Time     |
+| Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
+### [Game of Thrones](<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
-| Players | Min. Age | Time     |
+| Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   3 - 6 |       12 | 180-360m |
 
@@ -187,7 +219,7 @@
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
 
@@ -197,7 +229,7 @@
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 8 |       12 | 90-120m |
 
@@ -207,7 +239,7 @@
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 4 |       15 | 30-120m |
 
@@ -217,7 +249,7 @@
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
@@ -227,17 +259,17 @@
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 8 |        8 |    15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        8 |  15m |
 
-### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
+### [Carcassonne](<https://en.wikipedia.org/wiki/Carcassonne_(board_game)>)
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
 
 ![Carcassonne game image](https://battlequarters.com/2277-home_default/carcassonne-board-game.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-90m |
 
@@ -245,21 +277,21 @@
 
 > Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
 
-<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260px">
+<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260">
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  2 - 5  |        7 |     15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        7 |  15m |
 
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
-> Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide. 
+> Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide.
 
 ![Chess game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|    2    |     5    | 5-120m |
+|       2 |        5 | 5-120m |
 
 ### [Commonspoly](https://commonspoly.cc/)
 
@@ -267,9 +299,60 @@
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
+
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
+
+![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |        8 | 10-60m |
+
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |       14 |  60m |
+
+### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+
+> Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
+
+![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+
+### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
+
+> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+
+![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2     |        6 | 1-10m  |
+
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+> Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
+> You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   4-8   |       13 |  45m   |
 
 ## Party
 
@@ -279,19 +362,19 @@
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 8 |        7 |    10m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        7 |  10m |
 
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
+### [Mysterium](<https://wikipedia.org/wiki/Mysterium_(board_game)>)
 
 > As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 7 |       10 |    42m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 7 |       10 |  42m |
 
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
@@ -299,9 +382,9 @@
 
 ![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|  4 - 16 |        8 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  4 - 16 |        8 |  45m |
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
@@ -309,9 +392,9 @@
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 6 |       10 |    15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |       10 |  15m |
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
@@ -319,30 +402,29 @@
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
-### [Ludo](https://en.wikipedia.org/wiki/Ludo_(board_game))
+### [Ludo](<https://en.wikipedia.org/wiki/Ludo_(board_game)>)
 
 > This board game can be played between minimum 2 to max 4 people of any age group. One of two dices can be used to move the tokens. The player whose all tokens reach home first is the winner. Player can kill other player's token by clashing his token to the same square. Other player's token goes back to house again. Some boards provides special squares where the token are safe and can’t be killed. Players can decide if they want a rule of getting additional turn to roll the dice upon getting 6. More exciting rules can be found on the Wikipedia link.
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  2 - 4  |    4     | 30-60m  |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        4 | 30-60m |
 
 ### [Carrom](https://en.wikipedia.org/wiki/Carrom)
 
-> This board game is played by two to four  players. The objective is to use a striker disk with a flick of a finger to hit black or white lighter disks called carrom men and put them in the pockets present at the corners. The aim of the game is to pot (pocket) one's nine carrom men and the queen before the other opponent does. The carrom queen is analogous to the 8 ball (black ball) in the game of eight-ball pool.
+> This board game is played by two to four players. The objective is to use a striker disk with a flick of a finger to hit black or white lighter disks called carrom men and put them in the pockets present at the corners. The aim of the game is to pot (pocket) one's nine carrom men and the queen before the other opponent does. The carrom queen is analogous to the 8 ball (black ball) in the game of eight-ball pool.
 
 ![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  2 - 4  |    3     | 30-60m  |
-
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        3 | 30-60m |
 
 ### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
 
@@ -350,9 +432,9 @@
 
 ![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|   3 - 6 |       15 |     30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       15 |  30m |
 
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
@@ -360,19 +442,19 @@
 
 ![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW-BOX-COVER_250x250.jpg?v=1554841270)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  3 - 10 |        8 |  10-15m |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  3 - 10 |        8 | 10-15m |
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
-> Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable $100 questions, life lines, and a over 2,000 questions.
+> Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable \$100 questions, life lines, and a over 2,000 questions.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  2 - 5  |   12     | 45-60m  |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       12 | 45-60m |
 
 ### [Catan](https://www.catan.com/game/catan)
 
@@ -380,9 +462,9 @@
 
 ![catan game image](https://www.catan.com/sites/all/themes/catan/images/start-packshot_mayfair_neu.png)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  3 - 4  |       10 |  45-90m |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 4 |       10 | 45-90m |
 
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
@@ -390,9 +472,9 @@
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  2 - 5  |        8 |     15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  15m |
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
@@ -400,15 +482,136 @@
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
-|  1 - 4  |       13 | 90-120m |
+|   1 - 4 |       13 | 90-120m |
 
+### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
+
+> Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies. The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.
+
+![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        7 | 15-20m |
+
+### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
+
+> Twilight Imperium (Fourth Edition) is a game of galactic conquest in which three to six players take on the role of one of seventeen factions vying for galactic domination through military might, political maneuvering, and economic bargaining. Every faction offers a completely different play experience, from the wormhole-hopping Ghosts of Creuss to the Emirates of Hacan, masters of trade and economics. These seventeen races are offered many paths to victory, but only one may sit upon the throne of Mecatol Rex as the new masters of the galaxy.
+
+![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       14 | 240m |
+
+### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
+
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
+> The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
+
+<img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  3 - 10 |       18 | 30-90m |
+
+### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
+
+> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
+
+<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        8 | 40-75m |
+
+### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
+
+> Terror Below is a game of government experiments gone wild in the Nevada desert. The faster you move, the more vibrations you make, attracting the attention of the vicious worms underground. Navigate the difficult terrain to collect valuable worm eggs and deliver them to locations around town to claim bounties. If you're feeling lucky, collect items and weapons to go hunt 'em.
+
+![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-60m |
+
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+
+> Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
+
+![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 | 120m |
+
+### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+
+> Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
+
+![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  5 - 10 |       13 |  45m |
+
+### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
+
+> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
+
+![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  45m |
+
+### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
+
+> Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
+
+![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-120m |
+
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   4 - 8 |       12 |  30m |
+
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  15m |
+
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       14 |  15m |
 
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
-
 
 ## License
 

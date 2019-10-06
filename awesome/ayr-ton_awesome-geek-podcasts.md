@@ -57,6 +57,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
+* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
@@ -116,9 +117,12 @@ A curated list of podcasts we like to listen to.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [Javascript to Elm](https://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
 * [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
+* [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
+* [Linux Headlines](https://linuxheadlines.show/) - Linux and open source headlines every weekday, in under 3 minutes.
+* [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
@@ -154,6 +158,7 @@ A curated list of podcasts we like to listen to.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
+* [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 * [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
@@ -205,6 +210,7 @@ A curated list of podcasts we like to listen to.
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - Podcast about JavaScript and front-end web development.
+* [Weird Trick Mafia](https://weirdtrickmafia.fm/) - A podcast about tech, feelings, open source, and /dev/urandom.
 * [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) - Glance behind the scenes of WIRED.com with the tech team.
 * [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
@@ -215,6 +221,7 @@ A curated list of podcasts we like to listen to.
 * [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
+* [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [DioCast](https://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
@@ -230,6 +237,7 @@ A curated list of podcasts we like to listen to.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [OpenDevPodcast](http://www.opendevpodcast.com.br) - Um bate papo descontraído sobre a área de tecnologia da informação
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
+* [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 * [PlayBook](https://astellainvest.com/playbook/) - Onde empreendedores e investidores dividem a história da sua jornada.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [PodProgramar](https://podprogramar.com.br/) - Podcast apresentado por mulheres, desenvolvedoras, focado em programação, notícias e histórias da área. Tudo com o toque feminino numa área ainda dominada por homens.

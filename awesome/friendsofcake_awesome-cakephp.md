@@ -8,8 +8,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:22271
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:24953
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) :star:22300
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:24998
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -82,7 +82,7 @@ Additional lists you might find useful:
 *Tools for managing, compressing and minifying website assets.*
 
 - [AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP. :star:367
-- [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files. :star:3
+- [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files. :star:2
 - [Less plugin](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP. :star:18
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output. :star:17
 
@@ -90,7 +90,7 @@ Additional lists you might find useful:
 *Plugins for auditing and logging.*
 
 - [AuditStash plugin](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking. :star:59
-- [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files. :star:32
+- [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files. :star:33
 - [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer. :star:71
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities. :star:48
 
@@ -129,7 +129,7 @@ Additional lists you might find useful:
 *Plugins for debugging.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
-- [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging. :star:855
+- [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging. :star:856
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team. :star:15
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks. :star:20
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer. :star:3
@@ -213,12 +213,12 @@ Additional lists you might find useful:
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core. :star:75
 - [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano. :star:115
-- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:944
-- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:1167
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon). :star:948
+- [Composer Installers](https://github.com/composer/installers) - A multi framework Composer library installer. :star:1171
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library. :star:65
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2730
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package. :star:2729
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files. :star:5
 
@@ -293,7 +293,7 @@ Additional lists you might find useful:
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) - Behavior and Trait for selecting, finding, getting and setting properties and values inside JSON type fields through CakePHP ORM. :star:5
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money](https://github.com/sebastianbergmann/money). :star:7
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables. :star:21
-- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP. :star:70
+- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP. :star:71
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models. :star:10
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel. :star:18
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin. :star:3
@@ -418,7 +418,7 @@ Additional lists you might find useful:
 *Software and tools for creating a sandboxed development environment.*
 
 - [Cakebox](https://github.com/alt3/cakebox) - A Vagrant development environment powered by the CakePHP 3.x Console. :star:124
-- [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals. :star:89879
+- [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals. :star:90094
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments. :star:5
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment. :star:26
 - [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins. :star:40
@@ -500,7 +500,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 *Reading materials related to the CakePHP internals and decisions.*
 
 - [Core Google Group](https://groups.google.com/forum/#!forum/cakephp-core) - Discussions around the CakePHP core.
-- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand. :star:7963
+- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand. :star:7969
 
 # Conferences
 

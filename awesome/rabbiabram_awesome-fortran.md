@@ -25,7 +25,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Contributing](#contributing)
 
 ## Functional Libraries
-* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:238
+* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran. :star:240
 
 
 ## Graphics Libraries
@@ -49,7 +49,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
 * [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. :star:98
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2926
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL. :star:2931
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
@@ -67,7 +67,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Date and time manipulation
 *Libraries for date and time manipulation with Fortran language.*
 
-* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library. :star:64
+* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library. :star:65
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -96,7 +96,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Compiling and building
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects. :star:90
+* [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects. :star:91
 
 ## Preprocessor
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*

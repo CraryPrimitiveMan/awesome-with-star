@@ -6,13 +6,13 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27546
+- [Github repository](https://github.com/jashkenas/backbone) :star:27545
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:657
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) :star:656
 
 ## Tutorials and articles
 
@@ -122,16 +122,16 @@
 
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2384
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2208
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2062
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2061
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1932
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1681
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1455
-- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1360
-- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:895
+- [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1358
+- [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:894
 - [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:818
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:591
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:503
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:482
-- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:504
-- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:384
+- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503
+- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:383
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

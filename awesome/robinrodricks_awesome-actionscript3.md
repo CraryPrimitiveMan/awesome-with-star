@@ -64,7 +64,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### MVC Frameworks
 
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)). :star:123
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:977
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash. :star:979
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework. :star:28
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects. :star:1
 * [Somacore](https://github.com/soundstep/somacore_framework) - Lightweight event-based AS3 MVC framework. :star:21
@@ -103,7 +103,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11)). :star:663
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl)). :star:165
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11)). :star:113
-* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:373
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)). :star:374
 * [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
 * [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based). :star:2
 
@@ -220,12 +220,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Scale9Image](https://github.com/Tibus/Scale9Image) - Optimized scale9Grid image for starling. :star:13
 * [ASImageLib](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript. :star:8
-* [Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format. :star:21
+* [Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format. :star:20
 * [Flip-Planes-AS3](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects. :star:15
 * [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library. :star:12
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc. :star:1
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing. :star:170
-* [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:57
+* [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector. :star:56
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3. :star:79
 * [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation. :star:11
 
@@ -255,7 +255,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23697
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23738
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:84
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:27
 
@@ -466,7 +466,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus. :star:25
 * [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1. :star:98
 * [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup. :star:2
-* [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:83
+* [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution. :star:82
 * [P2Pmessaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash. :star:1
 * [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS. :star:177
 
@@ -474,7 +474,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455. :star:243
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless. :star:14
-* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:213
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients. :star:212
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client. :star:34
 * [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication. :star:11
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF. :star:2
@@ -589,7 +589,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Multimedia ANE
 * [WebView (Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android. :star:141
 * [WebView (FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR. :star:53
-* [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:58
+* [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg. :star:59
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS. :star:3
 * [VideoPlayer](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player. :star:29
 * [SurfaceVideoPlayer](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects. :star:10

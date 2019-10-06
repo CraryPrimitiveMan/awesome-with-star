@@ -14,6 +14,13 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [People to follow](#people-to-follow)
 - [Applications](#applications)
 
+## Document
+
+- [Actions on Google](https://developers.google.com/actions/)
+- [Template Actions](https://developers.google.com/actions/templates/)
+- [Build digital transactions](https://developers.google.com/actions/transactions/digital/dev-guide-digital)
+- [Interactive Canvas](https://developers.google.com/actions/interactivecanvas)
+
 ## Blogs
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
@@ -58,7 +65,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-number-genie-java) - Localization sample.
 - [GDG Action](https://github.com/actions-on-google/dialogflow-gdg-nodejs) - This sample demonstrates Actions on Google features for use on Google Assistant including localization (i18n-node), conversation design, rich responses, and API integrations. :star:12
 - Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(Java)](https://github.com/actions-on-google/actionssdk-say-number-java) - Say a number Actions SDK sample for Actions on Google.
-- [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google. :star:538
+- [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google. :star:545
 - [PDPU Scheduler](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today. :star:7
 - [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
@@ -69,7 +76,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg) - GDE for Actions on Google.
 - [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr) -  GDE for Actions on Google.
 - [Aygul Zagidullina](https://twitter.com/aygul) -  GDE for Actions on Google.
-- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer community manager for the Actions On Google team.
+- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 - [Yoichiro Tanaka](https://twitter.com/yoichiro) - GDE for Actions on Google.
 - [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.

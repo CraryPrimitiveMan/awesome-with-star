@@ -67,7 +67,7 @@ Official projects and resources of Ant Design.
 
 These are tools and utilities to help build apps using Ant Design,
 
-- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli). :star:803
+- [Antd Init](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli). :star:805
 - [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva), a :star:958
   lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
@@ -80,14 +80,14 @@ These are tools and utilities to help build apps using Ant Design,
 
 Here are utilities that can help you customize your theme and ability to change it in browser
 
-- [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file. :star:145
+- [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file. :star:146
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment. :star:120
 - [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.  :star:42
 
 ### Themes
 
-- [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design. :star:189
-- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design. :star:90
+- [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design. :star:191
+- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design. :star:94
 - [ant-dark-theme](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design. :star:7
 
 ## Related Projects
@@ -103,33 +103,33 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:5539
-- [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular :star:542
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular. :star:5555
+- [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular :star:543
 - [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+. :star:8211
-- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:2001
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+. :star:8252
+- [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design. :star:2002
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js. :star:32
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design. :star:8
 - [antue](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely. :star:244
-- [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue :star:886
+- [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue :star:885
 
 ## Components
 
 A list of UI components built with Ant Design.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance :star:153
-- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:800
+- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design. :star:802
 - [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
-- [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components. :star:32
-- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:93
+- [Antd Kit](https://github.com/huhulab/antd-kit) - Advanced Ant Design components. :star:31
+- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data. :star:96
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design. :star:22
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication :star:28
-- [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator. :star:48
+- [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator. :star:49
 
 ## React Hooks
 
@@ -148,7 +148,7 @@ A list of starter projects and boilerplates built with Ant Design.
 
 - [Ant Design Pro](http://pro.ant.design/) - An out-of-box UI solution for enterprise applications :fire::fire::fire:
 - [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
-- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:6641
+- [Antd Admin](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js. :star:6665
 - [Meteor Antd Boilerplate](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
 - [React SPA](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery. :star:516
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456). :star:554
@@ -169,12 +169,12 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Aspnet Core Antd Boilerplate](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core. :star:21
 - [React Redux Universal](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages. :star:17
 - [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject). :star:87
-- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:3277
-- [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack). :star:189
-- [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features. :star:7
-- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting :star:317
+- [Ng-Alain](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd). :star:3283
+- [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack). :star:192
+- [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features. :star:8
+- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting :star:323
 - [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
-- [The Green Meal](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript. :star:53
+- [The Green Meal](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript. :star:54
 
 ## Non-JavaScript Libraries
 
@@ -185,12 +185,12 @@ A list of libraries that are written for non-JavaScript languages.
 
 ## Electron
 
-- [StarCabinet](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design. :star:381
-- [Nowa](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution. :star:188
+- [StarCabinet](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design. :star:382
+- [Nowa](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution. :star:189
 
 ## Icons
 
-- [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons) :star:173
+- [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons) :star:175
 - [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile. :star:58
 
 ## Design Tools and Resources

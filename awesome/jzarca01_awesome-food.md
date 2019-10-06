@@ -18,15 +18,15 @@
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:398
-- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:243
-- [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:297
-- [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:6
+- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:244
+- [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:299
+- [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:7
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI. :star:11
-- [pizzadash](https://github.com/bhberson/pizzadash) - This is a Node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza. :star:181
+- [pizzadash](https://github.com/bhberson/pizzadash) - This is a Node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza. :star:182
 - [fetch-my-whopper](https://github.com/jzarca01/fetch-my-whopper) - Node app to claim your free whopper at Burger King. :star:3
 - [fetch-my-cookie](https://github.com/jzarca01/fetch-my-cookie) - Node app to claim your free cookie at Subway. :star:1
 - [whoffer](https://github.com/jzarca01/whoffer) - React Native OCR app to claim free cookie at Subway.
-- [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning. :star:323
+- [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning. :star:324
 - [TooManyChefs](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game. :star:47
 - [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator. :star:16
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms. :star:16
@@ -34,20 +34,20 @@
 
 ## Cookbooks
 
-- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:3097
-- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:177
+- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:3098
+- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:178
 - [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
-- [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes. :star:30
+- [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes. :star:31
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes. :star:7
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1168
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free. :star:6
-- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2419
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2428
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:29
 
 ## API for Food services
 
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo. :star:4
-- [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy. :star:56
+- [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy. :star:55
 - [Spoonacular](https://spoonacular.com/food-api) -
   Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 - [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.

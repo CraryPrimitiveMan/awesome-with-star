@@ -18,10 +18,10 @@
 
 Displaying data from external services in a pinned gist.
 
-- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user. :star:104
-- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:59
+- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user. :star:105
+- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats. :star:61
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava. :star:8
-- [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm. :star:14
+- [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm. :star:15
 
 ## GitHub
 

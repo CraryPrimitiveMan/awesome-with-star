@@ -63,7 +63,7 @@ A curated collection of awesome web typography articles.
 - [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
 - [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css) :star:806
 - [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
-- [brick.im](https://github.com/alfredxing/brick) :star:2880
+- [brick.im](https://github.com/alfredxing/brick) :star:2879
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
 - [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
 - [Using Custom Fonts in Emails](https://github.com/ladjs/custom-fonts-in-emails) :star:64

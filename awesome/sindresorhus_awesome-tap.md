@@ -26,7 +26,7 @@
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:29
 - [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:258
-- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:139
+- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:141
 - [tap-min](https://github.com/derhuerst/tap-min) - Minimal output. :star:5
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:45
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:76
@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16866
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1470
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5142
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16896
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1474
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5144
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -63,11 +63,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:240
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:242
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5973
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:5990
 
 [More...](https://testanything.org/producers.html)
 
@@ -106,7 +106,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:143
+- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop. :star:142
 
 
 ## Documentation

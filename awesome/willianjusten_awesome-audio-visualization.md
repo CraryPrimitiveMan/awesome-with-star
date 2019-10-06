@@ -166,22 +166,22 @@
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
 - [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery. :star:483
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
-- [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web. :star:2985
-- [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers. :star:1236
+- [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web. :star:2989
+- [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers. :star:1237
 - [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js. :star:438
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data. :star:29
-- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:133
+- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:134
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:744
+- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:749
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
   
 
 ## Libraries Visualization
 
 - [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-- [Pixi.js](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL. :star:27245
+- [Pixi.js](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL. :star:27305
 - [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 - [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 - [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
@@ -193,11 +193,11 @@
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input. :star:141
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:412
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:279
+- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:280
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
-- [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone :star:24
-- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts :star:68
+- [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone :star:25
+- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts :star:69
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS :star:1063
 
 ## People to Follow

@@ -1,5 +1,5 @@
 # Information comes from [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce)
- 
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -47,7 +47,7 @@ Pull requests might be left open for a period of time to let the community chime
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) :star:3
 
 
-## Table of Contents  
+## Table of Contents
 * [Awesome Salesforce](#awesome-salesforce--)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
   * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
@@ -106,7 +106,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito   :star:169
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito :star:169
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
@@ -123,7 +123,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:411
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/> :star:412
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -144,7 +144,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
     + JSON serialization and deserialization base classes.
     + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
 
-* [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/> :star:28
+* [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/> :star:29
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
 * [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/> :star:5
@@ -169,9 +169,9 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
 
-* [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
+* [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates
 
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG 
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG
   and "Deploy to Salesforce button" to your README.md files
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
@@ -200,7 +200,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes. :star:24
 
-* [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries. :star:17
+* [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries. :star:18
 
 ### Git Ignore for Salesforce
 
@@ -211,7 +211,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 ### Open Source Projects Repositories from Salesforce
 
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
-* [Salesforce Labs](https://github.com/salesforcelabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas 
+* [Salesforce Labs](https://github.com/salesforcelabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
@@ -226,7 +226,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context. :star:11
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps :star:167
-* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:389
+* [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com :star:388
 * [ngForce](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps :star:51
@@ -241,7 +241,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
-* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library  :star:5
+* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library :star:5
 * [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js) :star:19
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects :star:8
@@ -323,7 +323,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 
 
 ### Technical Blogs
-* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
+* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 * [Andrew Fawcett](http://andyinthecloud.com/) - CTO at Financialforce.com, Author and known for his outstanding contribution to Salesforce Community. [Read More](http://andyinthecloud.com/about/)
 * [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
@@ -332,15 +332,15 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Jeff Doughlas](http://blog.jeffdouglas.com/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More](http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More](https://www.blogger.com/profile/07815472992351343395)
 * [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. [Read More](http://enree.co/)
-* [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More](http://peterknolle.com/about/)  
+* [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More](http://peterknolle.com/about/)
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
-* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
+* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification.
 * [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
-
+* [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
 ## Contribute
 

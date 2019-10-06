@@ -46,6 +46,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
 - [Starbound](https://playstarbound.com/) - Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
+- [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
@@ -58,6 +59,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 ## Community
 
 ### Artists
+- [eBoy](http://hello.eboy.com/eboy/) - German, pixel art group founded in 1997 by Kai Vermehr, Steffen Sauerteig and Svend Smital. They are regarded as the “Godfathers of Pixel Art”.
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
@@ -75,4 +77,5 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
+- [rx](https://cloudhead.io/rx/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
 

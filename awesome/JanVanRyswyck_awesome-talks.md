@@ -7,18 +7,18 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 (In no particular order)
 
 ### Categories
-  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development) :star:2688
-  - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming) :star:2688
-  - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming) :star:2688
-  - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design) :star:2688
-  - [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development) :star:2688
-  - [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development) :star:2688
-  - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies) :star:2688
-  - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history) :star:2688
-  - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases) :star:2688
-  - [Security](https://github.com/JanVanRyswyck/awesome-talks#security) :star:2688
-  - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development) :star:2688
-  - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies) :star:2688
+  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development) :star:2692
+  - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming) :star:2692
+  - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming) :star:2692
+  - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design) :star:2692
+  - [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development) :star:2692
+  - [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development) :star:2692
+  - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies) :star:2692
+  - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history) :star:2692
+  - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases) :star:2692
+  - [Security](https://github.com/JanVanRyswyck/awesome-talks#security) :star:2692
+  - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development) :star:2692
+  - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies) :star:2692
 
 #### Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]

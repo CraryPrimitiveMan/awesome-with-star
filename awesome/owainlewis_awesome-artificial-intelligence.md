@@ -101,7 +101,7 @@ Contributions most welcome.
 
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
-* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects. :star:42
+* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects. :star:43
 
 ## Videos
 
@@ -124,18 +124,18 @@ Contributions most welcome.
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:41919
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:41989
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:1181
+* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:1196
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
-* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data :star:2389
-* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data :star:836
-* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences :star:970
-* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences :star:295
-* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences :star:202
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data :star:2407
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data :star:846
+* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences :star:981
+* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences :star:297
+* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences :star:208
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks. :star:1
 
 ## Organizations

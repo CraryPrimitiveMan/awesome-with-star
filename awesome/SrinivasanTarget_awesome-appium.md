@@ -25,23 +25,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tips](#tips)
 
 ## Server
-- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac). :star:10179
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac). :star:10201
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib) :star:183
-- [Python](https://github.com/appium/python-client) :star:924
-- [Java](https://github.com/appium/java-client) :star:737
+- [Python](https://github.com/appium/python-client) :star:929
+- [Java](https://github.com/appium/java-client) :star:739
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c) :star:67
 - [PHP](https://github.com/appium/php-client) :star:49
-- [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:174
+- [C# (.NET)](https://github.com/appium/appium-dotnet-driver) :star:176
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary) :star:214
 
 ## Inspectors
-- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:2166
-- [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator. :star:3493
+- [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux. :star:2172
+- [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator. :star:3498
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
-- [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector. :star:120
+- [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector. :star:122
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector. :star:281
 
 ## Become an Appium Pro
@@ -166,8 +166,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Cloud and Docker Solutions
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm. :star:66
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm. :star:87
-- [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:249
-- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:1526
+- [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices. :star:250
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android. :star:1547
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android. :star:7
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android. :star:7
 
@@ -181,7 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets. :star:56
 - [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization. :star:56
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly. :star:135
-- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices. :star:634
+- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices. :star:635
 
 ## Community
 - [Discuss](https://discuss.appium.io)

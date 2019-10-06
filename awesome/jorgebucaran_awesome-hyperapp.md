@@ -21,7 +21,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Official Resources
 
 * [Homepage](https://hyperapp.js.org)
-* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16940
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16957
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -42,7 +42,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Boilerplates
 
-* [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application. :star:43
+* [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application. :star:44
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools. :star:49
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX. :star:124
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:68
@@ -54,7 +54,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7174
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7194
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching. :star:20
@@ -78,8 +78,8 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:93
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:2
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:13
-* [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:20
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:302
+* [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:21
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:303
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps :star:2
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form) :star:7
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript. :star:1

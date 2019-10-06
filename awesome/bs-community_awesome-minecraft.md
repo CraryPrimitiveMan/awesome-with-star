@@ -47,7 +47,7 @@
 
 ### Mod Loader
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3361
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3366
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place. :star:24
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent. :star:4
@@ -58,7 +58,7 @@
 
 ### Skins And Capes
 
-- [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft. :star:154
+- [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft. :star:157
 - [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures. :star:28
 
 ### Maps
@@ -85,7 +85,7 @@
 ### Energy
 
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
-- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:632
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:635
 
 ### Tweaking
 
@@ -93,9 +93,9 @@
 
 ## Server Plugins
 
-- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players. :star:18
-- [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers. :star:256
-- [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like. :star:8
+- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players. :star:19
+- [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers. :star:262
+- [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like. :star:9
 
 ## Web Applications
 
@@ -111,8 +111,8 @@
 
 ### Launchers
 
-- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:1052
-- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1647
+- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:1056
+- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1650
 
 ## Development
 

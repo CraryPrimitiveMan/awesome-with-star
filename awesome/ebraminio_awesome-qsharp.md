@@ -19,14 +19,14 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 
 ## Official Resources
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-- [Q# samples](https://github.com/Microsoft/Quantum) :star:2469
-- [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:114
+- [Q# samples](https://github.com/Microsoft/Quantum) :star:2482
+- [Q# libraries](https://github.com/Microsoft/QuantumLibraries) :star:118
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
 - [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC) :star:57
 
 ## Tutorials
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1893
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing. :star:1901
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019. :star:26
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018. :star:23
@@ -69,7 +69,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate) :star:2
 - [Q# Bell State Program](https://github.com/pktippa/q_sharp_bell_state) :star:1
 - [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
-- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript. :star:13
+- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript. :star:14
 
 ## Blogs
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.

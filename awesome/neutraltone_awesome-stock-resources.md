@@ -203,7 +203,7 @@ Websites offering images suitable for texturing objects for 3D graphics.
 A mixture of free and open source font resources.
 
 * [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
-* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good. :star:2880
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good. :star:2879
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
@@ -223,7 +223,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
-* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons. :star:6114
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons. :star:6119
 * [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
@@ -247,9 +247,9 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. :star:1916
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. :star:1917
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-* [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands. :star:7686
+* [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands. :star:7718
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
 ## Colors

@@ -97,6 +97,17 @@ Table of Contents
     * Visual Studio Code
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
+  * [Oracle Cloud](https://www.oracle.com/cloud/)
+    * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
+    * Block Volume - 2 volumes, 100 GB total (used for compute)
+    * Object Storage - 10 GB
+    * Load balancer - 1 instance with 10 Mbps
+    * Databases - 2 DBs, 20 GB each
+    * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
+    * Bandwidth - 10TB egress per month
+    * Notifications - 1 million delivery options per month, 1000 emails sent per month
+    * Full, detailed list - https://www.oracle.com/cloud/free/
+
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
@@ -143,6 +154,7 @@ Table of Contents
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
   * [Releaseflags](https://releaseflags.com) - Feature Flags should be available for every developer at a low cost. Releaseflags offers free releaseflags for single developers and a low cost plan for startups.
+  * [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
 
 
 
@@ -674,6 +686,7 @@ Table of Contents
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
   * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+  * [veriphone.io](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 ## Payment / Billing Integration
 

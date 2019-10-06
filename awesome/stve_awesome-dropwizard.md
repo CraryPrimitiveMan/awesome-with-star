@@ -31,10 +31,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard :star:14
 * [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard :star:35
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard :star:5
-* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:40
+* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard :star:41
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application :star:32
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard :star:51
-* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:44
+* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard :star:45
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard :star:42
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard :star:1
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius :star:62
@@ -50,7 +50,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Authentication
 
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard :star:36
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies :star:22
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies :star:23
 
 ### Assets
 
@@ -61,7 +61,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd :star:4
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB. :star:21
-* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service :star:57
+* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service :star:58
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:8
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra :star:60
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak :star:1
@@ -83,11 +83,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz. :star:55
 * [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard :star:2
-* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:34
+* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial :star:35
 
 ### Guice
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:261
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice. :star:260
 * [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration :star:164
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration. :star:34
 

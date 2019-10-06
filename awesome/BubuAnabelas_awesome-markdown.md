@@ -72,23 +72,23 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 ### C
 
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork). :star:832
-- [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar. :star:612
-- [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C. :star:1755
+- [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar. :star:614
+- [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C. :star:1757
 
 ### Java
 
-- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:1072
-- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:1080
-- [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions. :star:1257
+- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format. :star:1077
+- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST. :star:1090
+- [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions. :star:1256
 
 ### JavaScript
 
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:8197
-- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:7254
-- [marked](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:20560
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. :star:8222
+- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript. :star:7260
+- [marked](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed. :star:20593
 - [mmarkdown](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it. :star:71
-- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:9611
-- [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:1279
+- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber. :star:9629
+- [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser. :star:1280
 
 ### Perl
 
@@ -96,14 +96,14 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 ### PHP
 
-- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:11782
-- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:3002
+- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP. :star:11825
+- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber. :star:3004
 
 ### Python
 
 - [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python. :star:1843
-- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1590
-- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1878
+- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature. :star:1594
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown. :star:1882
 
 ### Ruby
 
@@ -118,12 +118,12 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:509
 - [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:52
-- [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:1017
-- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1875
+- [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP. :star:1025
+- [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter. :star:1877
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:20
-- [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript. :star:4194
+- [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript. :star:4204
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:23
 
 ### Editors
@@ -134,8 +134,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:911
-- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:11492
+- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:910
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8] :star:11573
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
@@ -145,9 +145,9 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Flag and standarize your Markdown documents.
 
-- [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues. :star:748
-- [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files. :star:176
-- [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter. :star:542
+- [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues. :star:752
+- [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files. :star:177
+- [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter. :star:543
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 
 ### Miscellaneous
@@ -164,15 +164,15 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
-- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code :star:353
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code :star:357
 
 ### Presentations
 
 > Create and edit your slides presentations with Markdown.
 
-- [gitpitch](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe] :star:4988
+- [gitpitch](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe] :star:4999
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Apple][apple] ![Linux][linux] :star:3471
+- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Apple][apple] ![Linux][linux] :star:3481
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 
 ## Services

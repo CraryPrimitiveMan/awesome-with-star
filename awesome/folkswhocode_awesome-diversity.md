@@ -26,7 +26,7 @@ This list contains a variety of resources on diversity, more specifically divers
 
 Organizations bringing diversity to tech.
 
-- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses. :star:636
+- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses. :star:634
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
@@ -216,7 +216,8 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Enforcing Your Code Of Conduct: Effective Incident Response](https://www.youtube.com/watch?v=nizfHxg8y3o) - By Audrey Eschright.
 - [Going Beyong The Pipeline Problem](https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - By Pantheon.
 - [Intro To Accessibility](https://www.youtube.com/watch?v=qQj4JLfQvtI) - By Eric Bailey.
-- [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
+- [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvaIaYMd0o) - By Lena Reinhard.
+- [Survival Tips For Women In Tech](https://www.pscp.tv/w/1BdGYepvvLQGX) - By Patricia Aas.
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
 

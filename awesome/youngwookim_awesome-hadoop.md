@@ -36,13 +36,13 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Tez](http://tez.apache.org/) - A Framework for YARN-based, Data Processing Applications In Hadoop
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
-* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1577
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig. :star:1582
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython.  :star:244
-* [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs. :star:2448
+* [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs. :star:2451
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system.  :star:205
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard :star:190
-* [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them. :star:1206
+* [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them. :star:1208
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
 * [Crunch](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop :star:187
 * [Apache Ignite](http://ignite.apache.org/) - Distributed in-memory platform
@@ -51,17 +51,17 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Slider](http://slider.incubator.apache.org/) - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.
 * [Apache Twill](http://twill.incubator.apache.org/) - Apache Twill is an abstraction over Apache Hadoop® YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their application logic.
-* [mpich2-yarn](https://github.com/alibaba/mpich2-yarn) - Running MPICH2 on Yarn :star:106
+* [mpich2-yarn](https://github.com/alibaba/mpich2-yarn) - Running MPICH2 on Yarn :star:107
 
 ## NoSQL
 *Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase supporting secondary indices
-* [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase. :star:493
+* [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase. :star:497
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting. :star:167
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase :star:152
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase :star:563
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase :star:564
 * [Apache Accumulo](https://accumulo.apache.org/) - The Apache Accumulo™ sorted, distributed key/value store is a robust, scalable, high performance data storage and retrieval system.
 * [OpenTSDB](http://opentsdb.net/) - The Scalable Time Series Database
 * [Apache Cassandra](http://cassandra.apache.org/)
@@ -84,8 +84,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
 * [Apache Kudu](https://kudu.apache.org/) - Kudu provides a combination of fast inserts/updates and efficient columnar scans to enable multiple real-time analytic workloads across a single storage layer, complementing HDFS and Apache HBase.
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas. :star:1017
-* [Hortonworks Schema Registry](https://github.com/hortonworks/registry) - Schema Registry is a framework to build metadata repositories. :star:132
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas. :star:1023
+* [Hortonworks Schema Registry](https://github.com/hortonworks/registry) - Schema Registry is a framework to build metadata repositories. :star:134
 
 ## Workflow, Lifecycle and Governance
 
@@ -93,16 +93,16 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:14076
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines :star:14134
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
 
 * [Apache Flume](http://flume.apache.org) - Apache Flume
-* [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline :star:725
+* [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline :star:726
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
 * [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1612
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop :star:1617
 
 ## DSL
 
@@ -125,12 +125,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Avro](http://avro.apache.org/) - Apache Avro is a data serialization system.
 * [Elephant Bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code. :star:1095
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
-* [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs) :star:748
+* [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs) :star:752
 * [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 * [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-* [Schema Registry UI](https://github.com/Landoop/schema-registry-ui) - Web tool for the Confluent Schema Registry in order to create / view / search / evolve / view history & configure Avro schemas of your Kafka cluster. :star:278
+* [Schema Registry UI](https://github.com/Landoop/schema-registry-ui) - Web tool for the Confluent Schema Registry in order to create / view / search / evolve / view history & configure Avro schemas of your Kafka cluster. :star:281
 
 ## Realtime Data Processing
 
@@ -166,7 +166,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [ElasticSearch](https://www.elastic.co/)
 * [Apache Solr](http://lucene.apache.org/solr/) - Apache Solr is an open source search platform built upon a Java library called Lucene.
-* [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr :star:623
+* [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr :star:624
 
 ## Search Engine Framework
 
@@ -182,14 +182,14 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Benchmark
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
-* [HiBench](https://github.com/intel-hadoop/HiBench) :star:889
+* [HiBench](https://github.com/intel-hadoop/HiBench) :star:891
 * [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench)
-* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:2710
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems. :star:2718
 
 ## Machine learning and Big Data analytics
 
 * [Apache Mahout](http://mahout.apache.org)
-* [Oryx 2](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning :star:1649
+* [Oryx 2](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning :star:1654
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
@@ -221,12 +221,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/hrp/sequel-hive-adapter
      * https://github.com/forward/node-hive
      * https://github.com/recruitcojp/WebHive
-     * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto :star:173
+     * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto :star:172
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
-     * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto :star:1082
+     * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto :star:1084
      * https://github.com/recruitcojp/OdbcHive
      * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
-     * [HiveRunner](https://github.com/klarna/HiveRunner) - An Open Source unit test framework for hadoop hive queries based on JUnit4 :star:184
+     * [HiveRunner](https://github.com/klarna/HiveRunner) - An Open Source unit test framework for hadoop hive queries based on JUnit4 :star:186
      * [Beetest](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers. :star:69
      * [Hive_test](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 * Flume Plugins

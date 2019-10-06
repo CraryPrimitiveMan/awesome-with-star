@@ -3,7 +3,7 @@
 
 A list of awesome beginners-friendly projects.
 
-Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post and YourFirstPR project.
+Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
 If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
@@ -47,7 +47,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
-- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi. 
+- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 - [Roc](https://github.com/roc-project/roc/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 
 ## Clojure
@@ -84,9 +84,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
-- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is a versioned NoSQL document store (XML and JSON) written in Java.
 
 ## JavaScript
 
@@ -147,6 +148,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue) _(label: good first issue)_ <br> Create a webpage with just markdown.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
+- [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 ## Julia
 
@@ -156,6 +158,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Kotlin
 
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
+- [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
 
 ## Perl
 
@@ -168,6 +171,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted) _(label: help wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
+- [Drupal](https://www.drupal.org/getting-involved-guide) _(label: N/A, link to external website)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 
 ## Python
 
@@ -197,6 +201,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
+- [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 
 ## Ruby
 
@@ -209,8 +215,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
-- [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md) :star:568
-- [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md) :star:496
+- [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md) :star:571
+- [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md) :star:498
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 
 ## Rust
@@ -220,6 +226,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
+- [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
+- [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 
 ## Scala
 

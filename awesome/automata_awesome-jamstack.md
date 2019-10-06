@@ -49,6 +49,7 @@
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
 - [Podcasts](#podcasts)
+- [Books](#books)
 
 ---
 
@@ -113,6 +114,7 @@
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
+- [Ghost](https://ghost.org/) - A headless CMS for online publications
 
 ## API
 
@@ -134,7 +136,7 @@
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:883
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:885
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -155,7 +157,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:330
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:333
 
 ## Serverless
 
@@ -184,6 +186,7 @@
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
+- [JAMstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) - Phil Hawksworth.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
@@ -219,6 +222,10 @@
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 - [That's my JAMstack](https://thatsmyjamstack.com)
+
+## Books
+- [Modern Web Development on the JAMstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
+- [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
 

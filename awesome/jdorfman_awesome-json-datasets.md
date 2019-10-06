@@ -43,7 +43,6 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 * [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 * [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
-* [Drought Severity Index](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
 
 ## Crime
 
@@ -128,6 +127,13 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
+
+* Spain
+  * [Province of Madrid Municipalities](https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json)
+  * [Province of Barcelona Municipalities](https://do.diba.cat/api/dataset/municipis/format/json2)
+  * [Province of Madrid Educational Centers (non-university)](https://datos.comunidad.madrid/catalogo/dataset/ae433b7e-98f7-4547-8aa5-6ada557a429f/resource/21424b1c-6465-4db9-a5e3-6ddf180c634b/download/centros_educativos.json)
+
+> Pro Tip: At [https://datos.gob.es/](https://datos.gob.es/catalogo?res_format_label=JSON) you can filter all kinds of public Spanish data. From universities to local and regional government institutions.
 
 ## Historical Events
 * Languages

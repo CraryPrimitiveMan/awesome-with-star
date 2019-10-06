@@ -36,20 +36,23 @@ A curated list of awesome Dash (plotly) resources
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - Five-part series exploring Dash features.
 - [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - Official introduction video.
 - [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components using the Dash Component Boilerplate cookiecutter template.
+- [Interactive Image Processing with Dash-Canvas](https://www.youtube.com/watch?v=LKXSFBB5ccI) - Official introduction video to the Dash Canvas components.
+- [Dash Cytoscape Component](https://www.youtube.com/watch?v=snXcIsCMQgk) - Official introduction video to the Dash Cytoscape components.
+- [An introduction to Dash DataTable](https://www.youtube.com/watch?v=dueejcyrYh8) - Official introduction video to the Dash DataTable components.
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
-- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components. :star:19453
-- [Awesome React](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components. :star:33580
-- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:165
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components. :star:19545
+- [Awesome React](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components. :star:33677
+- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:167
 - [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
 - [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 - [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
-- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:96
+- [Dash HTML Components](https://github.com/plotly/dash-html-components) :star:97
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components. :star:18
-- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:58
+- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:59
 - [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component. :star:1
 - [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable. :star:2
 - [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django. :star:12
@@ -69,16 +72,16 @@ A curated list of awesome Dash (plotly) resources
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve) :star:27
 - [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - Several plots (including a map), a grid layout built with Bootstrap, interactions with an input field, and caching (See also [Tutorials](#tutorials)). [Source Code.](https://github.com/timothyrenner/bigfoot-dash-app) :star:13
 - [Visualize Earthquakes with Plotly Dash](https://belle-croissant-54211.herokuapp.com/) - Great UI and usage of geospatial analytics with Dash. Includes [basic unit tests](https://github.com/jackdbd/dash-earthquakes/tree/master/tests). [Source Code.](https://github.com/jackdbd/dash-earthquakes) :star:24
-- [Street Quality IDentification [SQUID]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code.](https://github.com/amyoshino/SQUID-Syracuse-Dashboard) :star:13
+- [Street Quality IDentification [SQUID]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code.](https://github.com/amyoshino/SQUID-Syracuse-Dashboard) :star:14
 - [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code.](https://github.com/lukassnoek/VoxelViz) :star:23
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents) :star:4
 
 ## Idiomatic examples
-- [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community. :star:501
+- [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community. :star:504
 
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
-- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:501
+- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:504
 
 ## Talks
 - [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) - Chelsea Douglas, PyData DC 2018.

@@ -24,7 +24,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 - [Website](https://prometheus.io/) - Official Prometheus project website.
-- [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:26668
+- [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration. :star:26767
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 - [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
@@ -101,18 +101,18 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Exporters
 
-- [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:1184
-- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:337
-- [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:73
-- [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:651
-- [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:3530
-- [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats. :star:969
-- [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats. :star:699
+- [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**. :star:1190
+- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**. :star:339
+- [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**. :star:74
+- [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**. :star:653
+- [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**. :star:3556
+- [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats. :star:974
+- [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats. :star:704
 
 ## Alertmanager
 
-- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules. :star:506
-- [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager. :star:429
+- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules. :star:527
+- [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager. :star:432
 
 ## Proxies
 

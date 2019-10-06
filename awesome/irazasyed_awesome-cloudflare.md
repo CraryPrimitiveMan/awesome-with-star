@@ -39,25 +39,25 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ## DNS
 
 - [DNS Zone Files](https://github.com/irazasyed/dns-zone-files) - Ready to import common config zone files for easy configuration of various services. :star:12
-- [Lexicon](https://github.com/AnalogJ/lexicon) - CLI tool to manipulate DNS records on various DNS providers in a standardized way. :star:756
-- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering. :star:696
-- [Partner Panel](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Tool for hosting partners to provide a DNS management panel for customers. :star:556
-- [CFPMP](https://github.com/Netrvin/CFPMP) - Partner management panel. :star:123
+- [Lexicon](https://github.com/AnalogJ/lexicon) - CLI tool to manipulate DNS records on various DNS providers in a standardized way. :star:762
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering. :star:698
+- [Partner Panel](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Tool for hosting partners to provide a DNS management panel for customers. :star:570
+- [CFPMP](https://github.com/Netrvin/CFPMP) - Partner management panel. :star:124
 - [Flares](https://github.com/lfaoro/flares) - DNS backup tool. :star:146
 - [Block Bad Bot Ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules. :star:50
-- [Docker DDNS](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider. :star:91
-- [DDNS script for Synology](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - DDNS script for Synology NAS. :star:85
+- [Docker DDNS](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider. :star:92
+- [DDNS script for Synology](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - DDNS script for Synology NAS. :star:88
 - [Dynamic DNS Bash](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script. :star:32
 - [Dynamic DNS PHP](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP. :star:130
-- [Dynamic DNS Python](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python. :star:118
-- [Multi-Provider DDNS Script](https://github.com/phuslu/ddns) - Multiple providers ddns script without dependencies. :star:28
-- [Argo Tunnel Client](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network. :star:525
-- [Upper](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver. :star:77
-- [Cloud Buster](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks. :star:107
+- [Dynamic DNS Python](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python. :star:119
+- [Multi-Provider DDNS Script](https://github.com/phuslu/ddns) - Multiple providers ddns script without dependencies. :star:29
+- [Argo Tunnel Client](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network. :star:534
+- [Upper](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver. :star:78
+- [Cloud Buster](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks. :star:110
 - [CLI Tool](https://github.com/danielpigott/cloudflare-cli) - CLI tool for interacting with Cloudflare. :star:80
 - [Detector](https://github.com/k4m4/cloudflare-detect) - Detect whether a site is running behind Cloudflare. :star:11
-- [Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page. :star:1585
-- [CloudFlair](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed. :star:903
+- [Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page. :star:1600
+- [CloudFlair](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed. :star:914
 
 ## Developers
 
@@ -80,7 +80,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### Open Source
 
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
-- [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics. :star:7
+- [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics. :star:8
 
 ## Workers
 
@@ -95,7 +95,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 ### Tools
 
-- [Wrangler](https://github.com/cloudflare/wrangler) - `wrangler` is a CLI tool designed for folks who are interested in using Cloudflare workers. :star:750
+- [Wrangler](https://github.com/cloudflare/wrangler) - `wrangler` is a CLI tool designed for folks who are interested in using Cloudflare workers. :star:802
 - [Playground](https://www.cloudflareworkers.com) - Simple, instant way to preview and test code directly in the browser against any site.
 - [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
 - [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app. :star:28
@@ -105,9 +105,9 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 ### Recipes
 
-- [Examples Collection](https://github.com/cloudflare/worker-examples) - Collection of recipes. :star:369
+- [Examples Collection](https://github.com/cloudflare/worker-examples) - Collection of recipes. :star:373
 - [Hello World JS Boilerplate](https://github.com/cloudflare/worker-template) - Template for kick starting a worker project in JS. :star:23
-- [Hello World Rust Boilerplate](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a worker project using wasm-pack. :star:48
+- [Hello World Rust Boilerplate](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a worker project using wasm-pack. :star:50
 - [Router](https://github.com/cloudflare/worker-template-router) - Router that can be used with REST APIs or apps for basic routing logic. :star:31
 - [Static](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script. :star:3
 - [Fetch](https://github.com/cloudflare/worker-template-fetch) - Examples of making fetch requests and generating JSON post requests. :star:7
@@ -117,10 +117,10 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Binast](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker. :star:1
 - [Pwnage Protection](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378). :star:108
 - [Cache Purger Proxy](https://gist.github.com/vdbelt/20f116236d2ebffa92f131e679c0551a) - Proxies purge cache requests - [Usage](https://community.cloudflare.com/t/worker-recipe-cache-purge-proxy/29978).
-- [URL Router](https://github.com/berstend/service-worker-router) - Fast url router - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406). :star:40
+- [URL Router](https://github.com/berstend/service-worker-router) - Fast url router - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406). :star:43
 - [Edge Proxy](https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy) - Enable A/B testing, canary releasing, gatekeeping, and SEO A/B/N testing. :star:27
 - [Blue / Green Deployments](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing. :star:4
-- [Preact PWA](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact progressive web app. :star:16
+- [Preact PWA](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact progressive web app. :star:17
 - [CURL Interceptor](https://github.com/Gaafar/curl-worker) - Intercepts requests from `curl` command and returns something different. :star:23
 - [Worker with built-in Router](https://github.com/anderly/cloudflare-worker-routing) - Allows you to separate your worker logic into different functions and/or controllers. :star:20
 - [Connecting to Google Storage](https://community.cloudflare.com/t/connecting-to-google-storage/32350) - Pull files from Google's cloud storage.
@@ -128,22 +128,22 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [URL Query Strings Parser](https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286) - Parse url query strings.
 - [Regrex Replacement and Injection](https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279) - Perform regex replacements and inject CSS/JS.
 - [Webpack Boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack. :star:77
-- [Basic Auth](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth. :star:2
+- [Basic Auth](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth. :star:3
 - [Send Logs to Logdna](https://github.com/boynet/cf-logdna-worker) - Simple recipe to send logs to logdna. :star:9
 - [IP lookup service](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers. :star:4
-- [Airtable Proxy](https://github.com/portable-cto/airtable-proxy-worker) - Allows you to make secure requests to the Airtable API from your frontend. :star:15
-- [TypeScript Workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested typescript worker. :star:22
+- [Airtable Proxy](https://github.com/portable-cto/airtable-proxy-worker) - Allows you to make secure requests to the Airtable API from your frontend. :star:16
+- [TypeScript Workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested typescript worker. :star:24
 - [Proxies](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs. :star:6
 - [Static Worker](https://github.com/manatarms/static-worker) - Provides functions that make it easy to host a static website. :star:6
 - [Bannero](https://github.com/nondanee/bannero) - Bannero image API for simpledesktops. :star:2
 - [Hasura](https://github.com/nathanwaters/hasura-cloudflare-worker) - Example using Facebook-based authorization and graphql proxy queries with hasura.
 - [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - Redirect users based on their ip address.
-- [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - Reroute image to webp when supported. :star:2
+- [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - Reroute image to webp when supported. :star:3
 - [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - Geographic routing and load balancing with workers.
 - [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect short links.
 - [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily. :star:18
-- [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations. :star:47
+- [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations. :star:48
 
 ## Other
 
