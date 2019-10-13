@@ -30,7 +30,7 @@ them.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
-- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:586
+- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:590
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
@@ -43,7 +43,7 @@ them.
 ## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
-  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
+  (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
@@ -76,15 +76,15 @@ them.
 
 - [Gmsh](http://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
   (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
-- [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh. :star:245
+- [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh. :star:247
   (Python, MIT, GitHub)
 - [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
   (Python, MIT, [GitHub](https://github.com/inducer/meshpy))
-- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:317
+- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:326
   (Python, MIT, GitHub)
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:95
+- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:96
   (Python, MIT, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, BitBucket)
@@ -102,7 +102,7 @@ them.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
   (C, *nonfree software*)
-- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:107
+- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:111
   (Python, MIT, GitHub)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
@@ -114,10 +114,11 @@ them.
   (Python, MIT, GitHub)
 - [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:267
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg)) :star:95
+- [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub) :star:15
 
 ## Sparse linear solvers
 
-- [SuperLU](https://crd-legacy.lbl.gov/~xiaoye/SuperLU/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
+- [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu))
 - [KryPy](https://github.com/andrenarchy/krypy) - Krylov subspace methods for the solution of linear algebraic systems. :star:58
   (Python, MIT, GitHub)
@@ -140,7 +141,7 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:228
+- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:231
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
   (Python, [custom open-source

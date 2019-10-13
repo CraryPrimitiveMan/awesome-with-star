@@ -1,11 +1,11 @@
 # Information comes from [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome beginners-friendly projects.
+A list of awesome beginner-friendly projects.
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
-If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
 If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
@@ -71,7 +71,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy) _(label: E-easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
@@ -96,11 +96,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only) _(label: first-timers-only)_ <br> Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
-- [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
-- [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -117,7 +115,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-- [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
+- [serverless](https://github.com/serverless/serverless/labels/good%20first%20issue) _(label: good first issue)_ <br> The Serverless Framework
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
 - [React](https://github.com/facebook/react/labels/good%20first%20issue) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue) _(label: Good first issue)_ <br> A framework for building native apps with React.
@@ -149,6 +147,11 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue) _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
+- [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
+- [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
+- [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
+- [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 
 ## Julia
 
@@ -172,6 +175,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: N/A, link to external website)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
+- [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 
 ## Python
 
@@ -203,6 +208,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
+- [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
+- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 
 ## Ruby
 
@@ -215,9 +222,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
-- [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md) :star:571
-- [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md) :star:498
+- [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md) :star:573
+- [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md) :star:499
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 
 ## Rust
 
@@ -248,5 +256,5 @@ Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
 

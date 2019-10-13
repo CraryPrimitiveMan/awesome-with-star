@@ -258,6 +258,7 @@ Code
 * :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
+* :tada: [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 * :tada: [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * :tada: [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -437,6 +438,7 @@ Must see
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 * [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition)
+* [Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++](https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 ### Magazines
 
@@ -448,7 +450,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:656
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :star:658
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

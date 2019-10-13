@@ -28,57 +28,57 @@ Feel free to send a PR :)
 ## Source Code Repos 
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
- * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:22022
+ * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server :star:22031
  * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more :star:65
 
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:1255
- * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3962
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project :star:1260
+ * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE :star:3963
 
 
 ## Collaboration Tools
 
- * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4313
- * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3619
- * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:9194
+ * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool :star:4316
+ * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH  :star:3626
+ * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams :star:9196
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
 
- * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:4061
+ * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control :star:4087
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
  * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 
 ## CI / CD
 
- * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:13996
- * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:7759
- * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:2661
+ * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server :star:14038
+ * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects :star:7769
+ * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration  :star:2667
 
 
 ## Security and PKI
 
  * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
- * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software :star:224
+ * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software :star:226
 
 
 ## Bug trackers
 
-* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software :star:287
-* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:1142
+* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software :star:289
+* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power :star:1148
 
 
 ## Project management
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:3502
-* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:11012
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails :star:3518
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software :star:11030
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
- * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:6796
+ * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes :star:6826
 
 ## ADN 
   

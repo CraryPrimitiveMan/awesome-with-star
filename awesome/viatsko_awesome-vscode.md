@@ -186,7 +186,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Source code](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:83985
+- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+) :star:84307
 
 # Syntax
 
@@ -221,6 +221,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
+- [Shaders (*HLSL*, *GLSL*, *Cg*) ](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -1111,7 +1112,7 @@ Beautiful functionality for professional developers, from the author of the orig
 A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with color blindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
-  <img src="./themes/screenshots/night-owl.png" width=600 />
+  <img src="./themes/screenshots/night-owl.png" width="600" />
 </a>
 
 ### [Plastic by Will Stone](https://vscodethemes.com/e/will-stone.plastic)
@@ -1200,7 +1201,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module :star:106
+- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module :star:107
 - [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method. :star:1
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests. :star:1
 
@@ -1209,7 +1210,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:552
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code :star:560
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 

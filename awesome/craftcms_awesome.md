@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1877
+- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1887
 - [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
 - [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 - [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.

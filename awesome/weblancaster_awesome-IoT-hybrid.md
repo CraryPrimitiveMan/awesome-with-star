@@ -36,7 +36,7 @@
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan](https://github.com/lelylan/lelylan) :star:1414
+- [Lelylan](https://github.com/lelylan/lelylan) :star:1413
 - [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
@@ -52,8 +52,8 @@
 
 ## Hybrid Desktop
 
-- [nw.js](https://github.com/nwjs/nw.js) :star:35890
-- [Electron](https://github.com/atom/electron) :star:77351
+- [nw.js](https://github.com/nwjs/nw.js) :star:35915
+- [Electron](https://github.com/atom/electron) :star:77526
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)
@@ -75,7 +75,7 @@
 
 #### Tools-Plugins
 
-- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:708
+- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon) :star:710
 
 ## Miscellaneous
 

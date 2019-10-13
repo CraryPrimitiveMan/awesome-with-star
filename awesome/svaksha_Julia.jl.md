@@ -32,7 +32,7 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [FileIO.md](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
 + [Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware, Robotics, and other API libraries.
-+ [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n) :star:845
++ [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n) :star:847
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
 + [OpenDataScience.md](https://github.com/svaksha/Julia.jl/blob/master/OpenDataScience.md) :: OpenData + OpenScience, Free Data Sets, Reproducible research, et al.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.

@@ -23,6 +23,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Guidelines
 * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+* [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
   
 ## Blogs
 * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
@@ -34,12 +35,13 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
+* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:2975
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:2990
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
  
 ## Data Protection Authorities 
@@ -67,10 +69,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Collibra](https://www.collibra.com)
     
 ## Related
-* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) :star:1270
-* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:117022
-* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:610
-* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:169
+* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) :star:1277
+* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:117444
+* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:613
+* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:170
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

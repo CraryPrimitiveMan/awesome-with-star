@@ -190,7 +190,7 @@ drm/kms.
 *  [clspv](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. [Apache License 2.0]
 *  [Pumex](https://github.com/pumexx/pumex) - cross-platform Vulkan renderer implementing frame graph and simple scene graph. Able to render on many surfaces at once [MIT]
 *  [VUDA](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. [MIT]
-*  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [No license]
+*  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [MIT]
 *  [ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference framework with Vulkan based GPU inference. [BSD 3-clause]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. [Apache License 2.0]
 *  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]	
@@ -226,9 +226,9 @@ drm/kms.
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
 * [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan) :star:60
+  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan) :star:62
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:296
+  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook) :star:298
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields.
 
 ## Khronos

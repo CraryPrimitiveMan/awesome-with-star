@@ -65,7 +65,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard. :star:8
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra :star:60
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak :star:1
-* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:14
+* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard :star:15
 * [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/)
 
 ### Metrics

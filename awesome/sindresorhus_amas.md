@@ -5,12 +5,12 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:59
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:60
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:34
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:89
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:695
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:512
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:513
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:263
@@ -100,7 +100,7 @@
 - [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC](https://github.com/beerjs/sjc) organizer. :star:1
 - [Adrian Mejia](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located. :star:1
-- [Jon Kuperman](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com). :star:9
+- [Jon Kuperman](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com). :star:10
 - [Max Stoiber](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS](https://github.com/keystonejs/keystone) and [ElementalUI](https://github.com/elementalui/elemental). Creator of [react-boilerplate](https://github.com/mxstbr/react-boilerplate), part of React Vienna. :star:26
 - [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com). :star:1
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
@@ -124,7 +124,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:270
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:271
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4

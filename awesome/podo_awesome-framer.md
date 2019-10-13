@@ -128,7 +128,7 @@
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects. :star:3
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project. :star:3
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually. :star:150
-* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:272
+* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization. :star:271
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization. :star:542
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices. :star:234
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API. :star:9

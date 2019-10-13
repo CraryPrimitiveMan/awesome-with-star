@@ -5,7 +5,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite :star:52
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1645
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby) :star:1650
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows :star:8
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications :star:5
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products :star:7
@@ -33,10 +33,10 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ## Refinery team extensions
 
 ### Main project
-* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3670
-* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3670
-* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3670
-* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3670
+* [Core](https://github.com/refinery/refinerycms/tree/master/core) :star:3671
+* [Images](https://github.com/refinery/refinerycms/tree/master/images) :star:3671
+* [Pages](https://github.com/refinery/refinerycms/tree/master/pages) :star:3671
+* [Resources](https://github.com/refinery/refinerycms/tree/master/resources) :star:3671
 
 ### Frontoffice extensions
 * [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication :star:11

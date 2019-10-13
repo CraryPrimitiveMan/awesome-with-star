@@ -257,7 +257,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md) :star:3262
+* [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md) :star:3265
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
@@ -354,14 +354,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
-  - [Pixi.js](https://github.com/pixijs/pixi.js) :star:27304
-  - [phaser](https://github.com/photonstorm/phaser) :star:25772
-  - [MelonJS](https://github.com/melonjs/melonJS) :star:2724
-  - [kiwi.js](https://github.com/gamelab/kiwi.js) :star:1087
-  - [Crafty](https://github.com/craftyjs/Crafty) :star:2800
-  - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) :star:3270
-  - [Stage.js](https://github.com/shakiba/stage.js) :star:1393
-  - [cocos2d](https://github.com/cocos2d/cocos2d-html5) :star:2587
+  - [Pixi.js](https://github.com/pixijs/pixi.js) :star:27384
+  - [phaser](https://github.com/photonstorm/phaser) :star:25810
+  - [MelonJS](https://github.com/melonjs/melonJS) :star:2731
+  - [kiwi.js](https://github.com/gamelab/kiwi.js) :star:1089
+  - [Crafty](https://github.com/craftyjs/Crafty) :star:2803
+  - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) :star:3272
+  - [Stage.js](https://github.com/shakiba/stage.js) :star:1395
+  - [cocos2d](https://github.com/cocos2d/cocos2d-html5) :star:2596
 
 ## Videos and Keynotes
 
@@ -400,8 +400,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Other awesome lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:24998
-* [lists](https://github.com/jnv/lists) :star:6022
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) :star:25047
+* [lists](https://github.com/jnv/lists) :star:6046
 * [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 
 ## Contributing

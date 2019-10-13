@@ -15,6 +15,17 @@
 
 ## Family
 
+### [Ghost Blitz](<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
+
+> Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
+
+![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        8 |  20m |
+
+
 ### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
@@ -354,6 +365,16 @@
 | ------: | -------: | -----: |
 |   4-8   |       13 |  45m   |
 
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -608,6 +629,18 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
+
+### [SuperFight](https://www.superfightgame.com/)
+
+> A game of absurd arguments
+
+Superfight is a game where you argue with your friends over ridiculous fights. The game is very simple. Players use the cards to create ridiculous fighters, and argue about which character would win in a fight. Then everyone around the table votes on the winner. As you can imagine, the fights are epic and hilarious. It’s fun for all ages and works for all kinds of players.
+
+![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       8  |  15m |
 
 ## Contribute
 

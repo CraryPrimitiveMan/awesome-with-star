@@ -69,13 +69,13 @@ Found something cool? Please, **[contribute](contributing.md)**!
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4415
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) :star:4413
 - [RenameIt](https://github.com/rodi01/RenameIt) :star:1338
-- [Sketch Measure](https://github.com/utom/sketch-measure) :star:6605
-- [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/) :star:1883
-- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1097
+- [Sketch Measure](https://github.com/utom/sketch-measure) :star:6613
+- [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/) :star:1882
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) :star:1096
 - [Page Switch](https://github.com/mauehara/sketch-page-switch) :star:67
-- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1760
+- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) :star:1759
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/) :star:130
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:3275
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) :star:3277
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).

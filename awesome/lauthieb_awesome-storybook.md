@@ -35,7 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DEV.to](https://dev.to/t/storybook)
 - [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook. :star:26
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site. :star:404
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site. :star:405
 
 ## Tutorials
 
@@ -53,6 +53,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Blog posts
 
+- [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111)
+- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf)
+- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - A features' showcase about the biggest release to date.
 - [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook.
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - Learn how to build a component library with Vue and Storybook to create modular and reusable components.

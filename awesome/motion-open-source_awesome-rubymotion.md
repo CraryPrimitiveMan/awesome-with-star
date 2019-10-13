@@ -176,7 +176,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Data Protocols
 * [Motion-csv](https://github.com/OTGApps/motion-csv) - RubyMotion friendly CSV parser gem. :star:20
-* [Meteor-motion](https://github.com/whitesmith/meteor-motion) - Wrapper for Meteor DDP with support for Motion Model.
+* [Meteor-motion](https://github.com/whitesmith/meteor-motion) - Wrapper for Meteor DDP with support for Motion Model. :star:10
 
 
 ### Database

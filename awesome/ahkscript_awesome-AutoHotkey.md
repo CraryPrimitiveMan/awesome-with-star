@@ -70,7 +70,7 @@ Development state:
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
-* [AHKonsole](https://github.com/G33kDude/Console) - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955). :star:18
+* [AHKonsole](https://github.com/G33kDude/Console) - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955). :star:19
 * [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=17). :star:44
 
 ### <a name="libraries-data-format"></a>Data format
@@ -87,12 +87,12 @@ Development state:
 ### <a name="libraries-data-structs-algorithms"></a>Data Structures and Algorithms
 * [Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade) - by Shambles - A Set of Functional Programming Libraries. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253)
 * [HashTable](https://github.com/Shambles-Dev/AutoHotkey-HashTable) - by Shambles - A Hash Table Implementation for AutoHotkey. :star:4
-* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:32
+* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions. :star:33
 * [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - by Shambles - Type Checking for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
 
 ### Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179). :star:45
-* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064). :star:45
+* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064). :star:46
 
 ### Filesystem
 * [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
@@ -100,7 +100,7 @@ Development state:
 ### <a name="libraries-graphics"></a>Graphics
 * [GDIp](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517). :star:69
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517). :star:26
-* [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) :star:82
+* [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) :star:85
 * [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 * [Particle System](https://github.com/acorns/Particle-System) - by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485). :star:7
 
@@ -183,7 +183,7 @@ Development state:
 
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries. :star:109
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management). :star:45
-* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:22
+* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools. :star:24
 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*

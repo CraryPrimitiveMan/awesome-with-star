@@ -148,31 +148,31 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ### Android SDK
 
-* [Repo :fire::fire::fire:](https://github.com/aws/aws-sdk-android) :star:659
-* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-android-samples) :star:796
+* [Repo :fire::fire::fire:](https://github.com/aws/aws-sdk-android) :star:662
+* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-android-samples) :star:798
 * [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
 * [Learn More](https://aws.amazon.com/mobile/sdk/)
 
 ### C++ SDK
 
-* [Repo :fire::fire::fire:](https://github.com/awslabs/aws-sdk-cpp) :star:918
+* [Repo :fire::fire::fire:](https://github.com/awslabs/aws-sdk-cpp) :star:926
 * [Blog with Samples](https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/)
 
 *The C++ SDK is a labs project with limited docs and/or samples.*
 
 ### Clojure SDK
 
-* [Repo :fire::fire::fire:](https://github.com/mcohen01/amazonica) :star:836
-* [Install](https://github.com/mcohen01/amazonica#installation) :star:836
-* [Docs](https://github.com/mcohen01/amazonica#documentation) :star:836
+* [Repo :fire::fire::fire:](https://github.com/mcohen01/amazonica) :star:838
+* [Install](https://github.com/mcohen01/amazonica#installation) :star:838
+* [Docs](https://github.com/mcohen01/amazonica#documentation) :star:838
 
 *The Clojure SDK is a community project with limited docs and/or samples.*)
 
 ### Go SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go) :star:5188
-* [Install](https://github.com/aws/aws-sdk-go/wiki) :star:5188
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go) :star:5201
+* [Install](https://github.com/aws/aws-sdk-go/wiki) :star:5201
 * [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
 * [Learn More](https://aws.amazon.com/sdk-for-go/)
 
@@ -182,8 +182,8 @@ Related Repos:
 
 ### iOS SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ios) :star:1259
-* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples) :star:904
+* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ios) :star:1264
+* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples) :star:905
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
 * [Learn More](https://aws.amazon.com/mobile/sdk/)
@@ -191,7 +191,7 @@ Related Repos:
 ### IoT SDK
 
 * [Repo for Arduino](https://github.com/awslabs/aws-sdk-arduino) :star:91
-* [Repo for C :fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-embedded-C) :star:544
+* [Repo for C :fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-embedded-C) :star:549
 * [Repo for JavaScript :fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-js) :star:781
 * [Repo for Arduino Yun :fire:](https://github.com/aws/aws-iot-device-sdk-arduino-yun/) :star:145
 * [Docs](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
@@ -200,15 +200,15 @@ Related Repos:
 
 ### Java SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java) :star:3049
-* [Repo with Samples :fire:](https://github.com/awslabs/aws-java-sample) :star:193
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java) :star:3058
+* [Repo with Samples :fire:](https://github.com/awslabs/aws-java-sample) :star:194
 * [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
 * [Learn More](https://aws.amazon.com/sdk-for-java/)
 
 ### JavaScript SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-js) :star:5462
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-js) :star:5471
 * [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-nodejs-sample) :star:259
 * [Install](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-javascript/)
@@ -216,14 +216,14 @@ Related Repos:
 
 Related Repos:
 
-* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify) :star:5929
+* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify) :star:5951
 * [chilts/awssum :fire::fire:](https://github.com/chilts/awssum) :star:463
 * [mirkokiefer/aws-lib :fire::fire::fire:](https://github.com/mirkokiefer/aws-lib) :star:693
 * [SaltwaterC/aws2js :fire::fire:](https://github.com/SaltwaterC/aws2js) :star:241
 
 ### Haskell SDK
 
-* [Repo :fire::fire:](https://github.com/brendanhay/amazonka) :star:405
+* [Repo :fire::fire:](https://github.com/brendanhay/amazonka) :star:404
 * [Docs](http://brendanhay.nz/amazonka-doc/)
 
 Related Repos:
@@ -234,9 +234,9 @@ Related Repos:
 
 ### Perl SDK
 
-* [Repo :fire:](https://github.com/pplu/aws-sdk-perl) :star:140
-* [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples) :star:140
-* [Install](https://github.com/pplu/aws-sdk-perl#installation) :star:140
+* [Repo :fire:](https://github.com/pplu/aws-sdk-perl) :star:141
+* [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples) :star:141
+* [Install](https://github.com/pplu/aws-sdk-perl#installation) :star:141
 * [Docs](https://metacpan.org/pod/Paws)
 * [Learn More](https://metacpan.org/pod/Paws)
 
@@ -244,7 +244,7 @@ Related Repos:
 
 ### PHP SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php) :star:4307
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php) :star:4328
 * [Repo with Samples](https://github.com/awslabs/aws-php-sample) :star:79
 * [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
@@ -252,41 +252,41 @@ Related Repos:
 
 Related Repos:
 
-* [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel) :star:1195
+* [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel) :star:1202
 * [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex) :star:81
 * [aws-sdk-php-zf2 ](https://github.com/aws/aws-sdk-php-zf2) :star:99
 
 ### Python SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) :star:4865
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) :star:4887
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-python-sample) :star:131
-* [Install](http://github.com/boto/boto#installation) :star:6357
+* [Install](http://github.com/boto/boto#installation) :star:6361
 * [Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-* [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto) :star:6357
+* [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto) :star:6361
 
 Related Repos:
 
-* [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) :star:4865
-* [botocore :fire::fire::fire:](https://github.com/boto/botocore) :star:687
+* [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) :star:4887
+* [botocore :fire::fire::fire:](https://github.com/boto/botocore) :star:688
 
 ### Ruby SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby) :star:2976
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby) :star:2980
 * [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample) :star:28
 * [Install](http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-install.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
-* [Samples :fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/) :star:1745
+* [Samples :fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/) :star:1761
 
 Related Repos:
 
-* [aws-sdk-rails :fire::fire:](https://github.com/aws/aws-sdk-rails) :star:282
+* [aws-sdk-rails :fire::fire:](https://github.com/aws/aws-sdk-rails) :star:283
 * [appoxy/aws :fire::fire:](https://github.com/appoxy/aws) :star:235
 * [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws) :star:460
 
 ### Rust SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/rusoto/rusoto) :star:1192
-* [Install](https://github.com/rusoto/rusoto#installation) :star:1192
+* [Repo :fire::fire::fire::fire:](https://github.com/rusoto/rusoto) :star:1212
+* [Install](https://github.com/rusoto/rusoto#installation) :star:1212
 * [Docs](https://rusoto.github.io/rusoto/rusoto/index.html)
 
 *The Rust SDK is a community project with limited docs and/or samples.*
@@ -298,7 +298,7 @@ Related Repos:
 Related Repos:
 
 * [atlassian/aws-scala](https://bitbucket.org/atlassian/aws-scala)
-* [seratch/AWScala :fire::fire::fire:](https://github.com/seratch/AWScala) :star:660
+* [seratch/AWScala :fire::fire::fire:](https://github.com/seratch/AWScala) :star:659
 
 *The Scala SDK is a labs project with limited docs and/or samples.*
 
@@ -337,15 +337,15 @@ Related Repos:
 
 ### Universal Command Line Interface
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) :star:8620
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) :star:8646
 * [Install](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
 * [Docs](https://aws.amazon.com/documentation/cli/)
 * [Learn More](https://aws.amazon.com/cli/)
 
 Related Repos:
 
-* [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell) :star:5083
-* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) :star:4233
+* [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell) :star:5093
+* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) :star:4240
 
 ### Windows PowerShell
 
@@ -395,16 +395,16 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### CLI
 
 AWS Repos:
 
-* [awscli-aliases :fire::fire:](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases. :star:251
-* [amazon-ecs-cli :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands. :star:1313
-* [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface. :star:8620
-* [aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell) :star:5083
+* [awscli-aliases :fire::fire:](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases. :star:253
+* [amazon-ecs-cli :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands. :star:1316
+* [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface. :star:8646
+* [aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell) :star:5093
 * [awscli-cookbook](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks. :star:38
 * [awsmobile-cli :fire:](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem. :star:144
 
@@ -412,10 +412,10 @@ Community Repos:
 
 * [achiku/jungle :fire::fire::fire:](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler. :star:844
 * [dbcli/athenacli](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting. :star:92
-* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface. :star:4233
+* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface. :star:4240
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB. :star:378
-* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go. :star:4412
-* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go. :star:2630
+* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go. :star:4417
+* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go. :star:2665
 
 ### CloudFormation
 
@@ -423,22 +423,22 @@ AWS Repos:
 
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples. :star:68
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework. :star:71
-* [cfn-python-lint :fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation. :star:885
+* [cfn-python-lint :fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation. :star:888
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook. :star:52
-* [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters. :star:459
+* [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters. :star:464
 
 Community Repos:
 
 * [Appliscale/perun](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks. :star:79
 * [bazaarvoice/cloudformation-ruby-dsl :fire::fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates. :star:201
-* [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin. :star:96
-* [cloudreach/sceptre :fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation. :star:905
-* [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions. :star:3812
+* [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin. :star:98
+* [cloudreach/sceptre :fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation. :star:911
+* [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions. :star:3827
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - Manages stacks. :star:205
-* [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks. :star:238
+* [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks. :star:239
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - CLI for stack management. :star:60
 * [sparkleformation/sparkle_formation :fire::fire:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation. :star:208
-* [Stelligent/cfn_nag :fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates :star:502
+* [Stelligent/cfn_nag :fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates :star:503
 
 ### CloudSearch
 
@@ -448,7 +448,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### CloudTrail
 
@@ -471,7 +471,7 @@ AWS Repos:
 
 Community Repos:
 
-* [jorgebastida/awslogs :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events. :star:3051
+* [jorgebastida/awslogs :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events. :star:3066
 * [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin. :star:160
 
 ### Code Deploy
@@ -484,7 +484,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Code Pipeline
 
@@ -499,7 +499,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Cognito
 
@@ -515,7 +515,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito. :star:302
+* [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito. :star:303
 
 ### Data Pipeline
 
@@ -525,7 +525,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Device Farm
 
@@ -539,7 +539,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### DynamoDB
 
@@ -548,10 +548,10 @@ AWS Repos:
 * [aws-dotnet-session-provider](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps. :star:22
 * [aws-dotnet-trace-listener](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events. :star:11
 * [aws-dynamodb-encryption-java :fire:](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java. :star:110
-* [aws-dynamodb-examples :fire:](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK. :star:179
+* [aws-dynamodb-examples :fire:](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK. :star:180
 * [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images. :star:48
 * [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat. :star:94
-* [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps. :star:44
+* [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps. :star:45
 * [dynamodb-cross-region-library :fire::fire:](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication. :star:249
 * [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data. :star:239
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples. :star:84
@@ -559,14 +559,14 @@ AWS Repos:
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis interface to consume and process data from a DynamoDB stream. :star:52
 * [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app. :star:42
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan. :star:393
-* [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables. :star:294
+* [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables. :star:295
 * [logstash-input-dynamodb](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin. :star:93
 
 Community Repos:
 
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda. :star:312
-* [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest. :star:1487
-* [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling. :star:596
+* [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest. :star:1491
+* [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling. :star:597
 
 ### Elastic Beanstalk
 
@@ -578,10 +578,10 @@ AWS Repos:
 * [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) - Simple Node.js and Tomcat apps using Docker images. :star:55
 * [eb-docker-nginx-proxy :fire:](https://github.com/awslabs/eb-docker-nginx-proxy) - Simple PHP app using the PHP-FPM and Nginx Docker images. :star:112
 * [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) - Simple PHP, Tomcat, and Nginx applications using Docker images. :star:28
-* [eb-node-express-sample :fire:](https://github.com/awslabs/eb-node-express-sample) - Sample express app. :star:174
+* [eb-node-express-sample :fire:](https://github.com/awslabs/eb-node-express-sample) - Sample express app. :star:176
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express framework and Bootstrap Node.js sample app. :star:81
 * [eb-node-express](https://github.com/awslabs/eb-node-express) - Sample app referenced in the Developer Guide. :star:7
-* [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles. :star:37
+* [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles. :star:38
 * [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap. :star:245
 * [eb-python-flask](https://github.com/awslabs/eb-python-flask) - Simple Python and Flask app. :star:34
 * [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) - Sample login app with Web Identity Federation. :star:16
@@ -595,17 +595,17 @@ Community Repos:
 
 AWS Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 Community Repos:
 
-* [alestic/ec2-consistent-snapshot :fire::fire:](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2. :star:447
+* [alestic/ec2-consistent-snapshot :fire::fire:](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2. :star:448
 * [ConradIrwin/aws-name-server :fire::fire::fire:](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name. :star:554
-* [cristim/autospotting :fire::fire::fire::fire:](https://github.com/cristim/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances. :star:1454
-* [evannuil/aws-snapshot-tool :fire::fire:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation. :star:212
-* [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts. :star:17768
-* [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) - SSH config manager. :star:220
-* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance. :star:5815
+* [cristim/autospotting :fire::fire::fire::fire:](https://github.com/cristim/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances. :star:1462
+* [evannuil/aws-snapshot-tool :fire::fire:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation. :star:213
+* [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts. :star:17857
+* [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) - SSH config manager. :star:221
+* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance. :star:5832
 * [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously. :star:396
 * [wbailey/claws :fire:](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration. :star:167
 
@@ -613,24 +613,24 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers. :star:1576
+* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers. :star:1577
 * [amazon-ecs-amazon-efs](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persists Data from containers. :star:60
 * [amazon-ecs-init :fire:](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent. :star:135
-* [blox :fire::fire::fire:](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS. :star:906
+* [blox :fire::fire::fire:](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS. :star:908
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS. :star:322
 * [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets from the blog using Amazon ECS and Amazon CloudWatch logs. :star:65
 * [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app. :star:102
 * [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) - Integrates Apache Mesos. :star:168
-* [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline. :star:677
+* [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline. :star:679
 * [ecs-task-kite](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication. :star:57
-* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS. :star:251
+* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS. :star:252
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app. :star:71
-* [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS. :star:103
+* [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS. :star:104
 
 Community Repos:
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications. :star:40
-* [Stelligent/mu :fire::fire::fire:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline. :star:818
+* [Stelligent/mu :fire::fire::fire:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline. :star:825
 
 ### Elastic File System
 
@@ -640,14 +640,14 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Elastic MapReduce
 
 AWS Repos:
 
 * [emr-bootstrap-actions :fire::fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions. :star:570
-* [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sample apps. :star:61
+* [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sample apps. :star:62
 
 Community Repos:
 
@@ -657,7 +657,7 @@ Community Repos:
 
 AWS Repos:
 
-* [logstash-output-amazon_es :fire::fire:](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events. :star:303
+* [logstash-output-amazon_es :fire::fire:](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events. :star:305
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - OpsWorks Elasticsearch sample cookbook. :star:37
 
 Community Repos:
@@ -669,13 +669,13 @@ Community Repos:
 AWS Repos:
 
 * [aws-elasticache-cluster-client-libmemcached](https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached) - Libmemcached library support. :star:20
-* [aws-elasticache-cluster-client-memcached-for-java](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java. :star:68
+* [aws-elasticache-cluster-client-memcached-for-java](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java. :star:69
 * [aws-elasticache-cluster-client-memcached-for-php](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache. :star:47
 * [elasticache-cluster-config-net](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery. :star:20
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Glacier
 
@@ -689,16 +689,16 @@ AWS Repos:
 
 * [amazon-kinesis-aggregators :fire:](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations. :star:137
 * [amazon-kinesis-client-net](https://github.com/awslabs/amazon-kinesis-client-net) - Client Library for .NET. :star:43
-* [amazon-kinesis-client-nodejs :fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js. :star:199
-* [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python. :star:263
+* [amazon-kinesis-client-nodejs :fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js. :star:202
+* [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python. :star:264
 * [amazon-kinesis-client-ruby :fire:](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby. :star:133
 * [amazon-kinesis-client :fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
-* [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services. :star:304
-* [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app. :star:167
+* [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services. :star:305
+* [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app. :star:168
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development. :star:61
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library. :star:253
-* [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams. :star:275
-* [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin. :star:244
+* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library. :star:254
+* [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams. :star:276
+* [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin. :star:246
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter. :star:52
 * [kinesis-log4j-appender](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender. :star:60
 * [kinesis-poster-worker](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker. :star:67
@@ -707,47 +707,47 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Lambda
 
 AWS Repos:
 
-* [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis. :star:328
-* [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications. :star:4570
-* [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions. :star:2091
-* [aws-lambda-java-libs :fire::fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes. :star:224
+* [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis. :star:327
+* [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications. :star:4585
+* [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions. :star:2102
+* [aws-lambda-java-libs :fire::fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes. :star:226
 * [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader. :star:502
-* [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework. :star:6036
+* [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework. :star:6062
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test. :star:22
-* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS. :star:251
-* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing. :star:313
-* [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend. :star:209
+* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS. :star:252
+* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing. :star:314
+* [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend. :star:210
 * [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend. :star:509
-* [lambda-refarch-webapp :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application. :star:838
+* [lambda-refarch-webapp :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application. :star:841
 
 Community Repos:
 
-* [alestic/lambdash :fire::fire:](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment. :star:445
+* [alestic/lambdash :fire::fire:](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment. :star:446
 * [Alephbet/gimel :fire::fire:](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda. :star:209
-* [apex/apex :fire::fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support. :star:7934
-* [claudiajs/claudia :fire::fire::fire::fire::fire:](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily. :star:3280
-* [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers. :star:380
+* [apex/apex :fire::fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support. :star:7936
+* [claudiajs/claudia :fire::fire::fire::fire::fire:](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily. :star:3286
+* [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers. :star:381
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service. :star:1320
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda. :star:713
 * [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda. :star:899
-* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool. :star:1751
-* [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda. :star:13261
-* [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications. :star:393
+* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool. :star:1752
+* [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda. :star:13262
+* [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications. :star:401
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda. :star:598
-* [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation. :star:2045
-* [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda. :star:1262
+* [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation. :star:2046
+* [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda. :star:1266
 * [kubek2k/lambdoku :fire::fire::fire:](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda. :star:577
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) - A continuous integration system built on Lambda. :star:3692
 * [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter). :star:1057
-* [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze. :star:1281
-* [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway. :star:9753
-* [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda. :star:1011
+* [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze. :star:1280
+* [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway. :star:9782
+* [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda. :star:1017
 * [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin. :star:254
 * [trek10inc/aws-lambda-debugger :fire::fire:](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10 :star:269
@@ -756,11 +756,11 @@ Community Repos:
 
 AWS Repos:
 
-* [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps. :star:788
+* [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps. :star:787
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Mobile Analytics
 
@@ -770,7 +770,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### OpsWorks
 
@@ -792,27 +792,27 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### Redshift
 
 AWS Repos:
 
 * [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader. :star:502
-* [amazon-redshift-utils :fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables. :star:1687
+* [amazon-redshift-utils :fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables. :star:1694
 
 Community Repos:
 
 * [Lumoslabs/aleph](https://github.com/lumoslabs/aleph) - A full featured web application for writing and running Redshift :star:69
 queries. Supports revision tracking of queries and has basic visualization support.
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it. :star:13907
+* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it. :star:13962
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas. :star:96
 
 ### Route 53
 
 AWS Repos:
 
-* [route53-infima :fire:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation. :star:195
+* [route53-infima :fire:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation. :star:196
 
 Community Repos:
 
@@ -824,26 +824,26 @@ Community Repos:
 Community Repos:
 
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests. :star:329
-* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files. :star:921
+* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files. :star:923
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor. :star:599
-* [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs. :star:545
+* [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs. :star:546
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets. :star:95
-* [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands. :star:2570
-* [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go. :star:2415
+* [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands. :star:2575
+* [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go. :star:2432
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join) :star:1057
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API. :star:793
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - Flask extension. :star:210
-* [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin. :star:298
-* [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage. :star:1165
-* [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3. :star:18288
+* [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin. :star:297
+* [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage. :star:1188
+* [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3. :star:18414
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python. :star:143
-* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3. :star:16327
+* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3. :star:16460
 * [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility. :star:161
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin. :star:389
-* [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI. :star:1013
-* [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository. :star:1117
-* [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE. :star:3737
-* [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront. :star:3098
+* [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI. :star:1012
+* [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository. :star:1121
+* [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE. :star:3757
+* [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront. :star:3102
 * [schickling/git-s3 :fire::fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket. :star:228
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave. :star:357
 * [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3. :star:209
@@ -856,8 +856,8 @@ Community Repos:
 
 Community Repos:
 
-* [drewblas/aws-ses :fire::fire::fire:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface. :star:529
-* [microapps/MoonMail :fire::fire::fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda. :star:1440
+* [drewblas/aws-ses :fire::fire::fire:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface. :star:530
+* [microapps/MoonMail :fire::fire::fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda. :star:1445
 
 ### Simple Workflow
 
@@ -869,7 +869,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### SimpleDB
 
@@ -881,27 +881,27 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-php-sns-message-validator :fire:](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP. :star:119
+* [aws-php-sns-message-validator :fire:](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP. :star:120
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### SQS
 
 AWS Repos:
 
-* [amazon-sqs-java-messaging-lib](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS. :star:93
+* [amazon-sqs-java-messaging-lib](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS. :star:94
 
 Community Repos:
 
-* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby. :star:1514
+* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby. :star:1519
 
 ### Data
 
 Community Repos:
 
-* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks. :star:17003
+* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks. :star:17159
 * [everpeace/vagrant-mesos :fire::fire:](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant. :star:456
 * [jhorey/ferry :fire::fire:](https://github.com/jhorey/ferry) -  Define, run, and deploy big data apps using Docker. :star:256
 * [nathanmarz/storm-deploy :fire::fire::fire:](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters. :star:526
@@ -910,12 +910,12 @@ Community Repos:
 
 Community Repos:
 
-* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources. :star:2444
+* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources. :star:2453
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook. :star:401
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53. :star:1256
-* [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources. :star:887
-* [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances. :star:2528
-* [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources. :star:555
+* [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources. :star:891
+* [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances. :star:2529
+* [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources. :star:556
 
 ### Security
 
@@ -924,21 +924,21 @@ AWS Repos:
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner. :star:5
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration. :star:30
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration. :star:34
-* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. :star:3519
+* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. :star:3525
 
 Community Repos:
 
-* [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops. :star:697
+* [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops. :star:698
 * [alex/letsencrypt-aws :fire::fire::fire:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates. :star:729
-* [cloudsploit/scans :fire::fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks. :star:807
-* [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool. :star:1584
-* [jordanpotti/AWSBucketDump :fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets. :star:802
-* [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function. :star:2190
-* [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations. :star:3825
-* [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security. :star:378
+* [cloudsploit/scans :fire::fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks. :star:811
+* [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool. :star:1588
+* [jordanpotti/AWSBucketDump :fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets. :star:809
+* [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function. :star:2198
+* [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations. :star:3834
+* [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security. :star:379
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud. :star:172
-* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services. :star:14639
-* [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints. :star:1826
+* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services. :star:14746
+* [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints. :star:1824
 
 ### Accompanying Repos
 
@@ -946,13 +946,13 @@ AWS Repos:
 
 *Repos Accompanying Blogs, Training Events, and Conferences.*
 
-* [aws-arch-backoff-simulator :fire:](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog. :star:125
-* [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog. :star:777
+* [aws-arch-backoff-simulator :fire:](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog. :star:126
+* [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog. :star:778
 * [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs. :star:10
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog. :star:2
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab. :star:12
 * [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
-* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances. :star:540
+* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances. :star:544
 * [aws-training-demo :fire:](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community. :star:115
 * [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012. :star:43
 * [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013. :star:166
@@ -982,35 +982,35 @@ Community Repos:
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service. :star:453
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service. :star:283
-* [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS. :star:1764
-* [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page. :star:238
-* [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services. :star:4640
-* [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate). :star:3077
+* [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS. :star:1766
+* [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page. :star:239
+* [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services. :star:4658
+* [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate). :star:3094
 * [segmentio/stack :fire::fire::fire::fire:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure. :star:1960
 * [j2labs/microarmy ](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK. :star:180
 * [jvehent/haproxy-aws :fire::fire:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy. :star:269
-* [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline! :star:19408
-* [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby. :star:308
+* [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline! :star:19537
+* [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby. :star:309
 * [mozilla/awsbox :fire::fire::fire:](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps. :star:798
-* [Netflix/aminator :fire::fire::fire:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs. :star:863
-* [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API. :star:2026
-* [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management. :star:2209
+* [Netflix/aminator :fire::fire::fire:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs. :star:864
+* [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API. :star:2024
+* [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management. :star:2208
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices. :star:415
-* [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures. :star:7298
-* [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover. :star:8440
-* [Netflix/EVCache :fire::fire::fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store. :star:1236
-* [Netflix/Fenzo :fire::fire::fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks. :star:670
-* [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool. :star:2619
-* [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers. :star:3188
-* [Netflix/SimianArmy :fire::fire::fire::fire::fire:](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form. :star:7339
-* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more. :star:8214
+* [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures. :star:7342
+* [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover. :star:8453
+* [Netflix/EVCache :fire::fire::fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store. :star:1239
+* [Netflix/Fenzo :fire::fire::fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks. :star:669
+* [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool. :star:2621
+* [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers. :star:3198
+* [Netflix/SimianArmy :fire::fire::fire::fire::fire:](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form. :star:7346
+* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more. :star:8247
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash) - Open-source LaunchRock alternative. Build beautiful splash pages. :star:438
-* [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure. :star:188
+* [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure. :star:189
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React. :star:295
-* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch. :star:4936
-* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more. :star:6538
-* [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library. :star:2880
+* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch. :star:4944
+* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more. :star:6560
+* [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library. :star:2899
 
 ## Guides, Books, Documentation, and Training
 
@@ -1039,7 +1039,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### General Guides
 
@@ -1057,7 +1057,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws) :star:24936
+* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws) :star:24972
 * [Automatically generated glossary of services](https://www.aws-glossary.info)
 
 ### Books
@@ -1167,7 +1167,7 @@ Community Blogs:
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
 * [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
-* [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) :star:15887
+* [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) :star:15920
 * [AWS Geek](https://www.awsgeek.com/)
 
 ### Twitter Influencers
@@ -1205,7 +1205,7 @@ AWS Pages:
 
 Community Pages:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ### YouTube Channels
 
@@ -1256,7 +1256,7 @@ AWS Conferences:
 
 Community Conferences:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7368
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) :star:7386
 
 ## Latest KPIs and Stats
 

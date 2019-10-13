@@ -30,7 +30,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 - [SaltStack site](https://www.saltstack.com/) - Company website.
-- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:10312
+- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration. :star:10323
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -103,7 +103,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-- [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:176
+- [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure. :star:179
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack. :star:26
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack. :star:196
 - [salt-cumin](https://pypi.org/project/salt-cumin/) - A CLI front-end to a running salt-api system.
@@ -156,7 +156,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz. :star:20
 - [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 - [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
-- [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki. :star:10312
+- [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki. :star:10323
 
 ## Uncategorized
 

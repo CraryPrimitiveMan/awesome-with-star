@@ -61,9 +61,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:64
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:334
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:729
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:732
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:23
-* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:334
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:333
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:99
 
 
@@ -80,10 +80,10 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Content management systems & blogs.*
 
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
-* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:23
+* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:27
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:364
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework :star:140
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework :star:139
 
 
 ## Command Line
@@ -110,7 +110,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Debug & profiling tools.*
 
-* [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:14
+* [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:15
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install. :star:5
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework :star:145
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon) :star:448
@@ -136,7 +136,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+. :star:34
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework :star:718
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework :star:719
 * [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools :star:25
 * [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
@@ -166,7 +166,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Representational state transfer.*
 
-* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon :star:42
+* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon :star:43
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon :star:36
 * [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package :star:30
 
@@ -212,7 +212,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud :star:23
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application :star:25
-* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice :star:43
+* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice :star:42
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment :star:1
 
 

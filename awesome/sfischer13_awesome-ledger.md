@@ -27,7 +27,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
-- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:3040
+- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki. :star:3046
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
 ## Background
@@ -43,7 +43,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
-- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:206
+- [vim](https://github.com/ledger/vim-ledger) - Vim plugin. :star:208
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 - [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code. :star:16
@@ -68,8 +68,8 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:3040
-- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:3040
+- [Code](https://github.com/ledger/ledger) - Code on GitHub. :star:3046
+- [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations. :star:3046
 
 ## License
 

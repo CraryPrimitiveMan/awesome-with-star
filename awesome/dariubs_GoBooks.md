@@ -1,5 +1,5 @@
 # Information comes from [dariubs/GoBooks](https://github.com/dariubs/GoBooks)
-Go Books [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Go Books [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -22,7 +22,7 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 ### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/public/img/intro/cover.0.png" width="120px"/>
+<img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
 
 This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
@@ -35,6 +35,8 @@ This book is free to [read online](http://www.golang-book.com/) or [pdf form](ht
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
+
+<img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
@@ -54,7 +56,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://www.packtpub.com/sites/default/files/B05569.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05569.png" width="120px"/>
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
@@ -127,6 +129,10 @@ With this book you'll learn to use Go, taking advantage of it's multi-threaded n
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
+### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
+
+The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
+
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
@@ -161,15 +167,9 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 
 ### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
  
-<img src="https://www.packtpub.com/sites/default/files/B05557.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05557.png" width="120px"/>
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
-
-### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
-
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
-
-Build concurrent, easy-to-maintain responsive applications in Go.
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
@@ -177,16 +177,21 @@ Build concurrent, easy-to-maintain responsive applications in Go.
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
-### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
-
-The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
-
 ### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
 Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you’re a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
 
+### [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
+
+Hands-On Dependency Injection in Go takes you on a journey, teaching you about refactoring existing code to adopt dependency injection (DI) using various methods available in Go.
+
+Of the six methods introduced in this book, some are conventional, such as constructor or method injection, and some unconventional, such as just-in-time or config injection. Each method is explained in detail, focusing on their strengths and weaknesses, and is followed with a step-by-step example of how to apply it. With plenty of examples, you will learn how to leverage DI to transform code into something simple and flexible.
+
+Hands-On Dependency Injection in Go takes a pragmatic approach and focuses heavily on the code, user experience, and how to achieve long-term benefits through incremental changes.
 
 **Web Development**
 ----
@@ -197,6 +202,12 @@ A good resource for start Building Web Apps with Go. Free to [read online](http:
 ### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+
+### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
+
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
 ### [Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
 
@@ -218,12 +229,6 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
-### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
-
-<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
-
-This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
-
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 
 <a href="https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797"><img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/></a>
@@ -232,7 +237,7 @@ Today, companies and developers need to respond to changing markets at breakneck
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go)
 
-<a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
+<a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
@@ -244,7 +249,7 @@ This course is an invaluable resource to help you understand Go's powerful featu
 
 ### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 
-<img src="https://www.packtpub.com/sites/default/files/B05528.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05528.png" width="120px"/>
 
 Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
 
@@ -253,6 +258,20 @@ Whether you are planning a new application or working in an existing monolith, t
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
 A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
+
+### [Build SaaS apps in Go](https://buildsaasappingo.com)
+
+<a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
+
+Together, we'll build a strong, API-first, reusable codebase suitable for 
+building a SaaS or vanilla web application. By the end of the book you'll have 
+a solid framework to use as the starting point for future projects.
+
+### [Let's Go!](https://lets-go.alexedwards.net/)
+
+<img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
+
+Let's Go teaches you step-by-step how to create fast, secure and maintainable web applications using Go. It guides you through the start-to-finish build of a real-world application — covering topics like how to structure your code, manage dependencies, authenticate and authorize users, secure your server and test your application.
 
 Resources
 ====
@@ -263,6 +282,8 @@ Resources
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
+### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 
 Contributing
 ====

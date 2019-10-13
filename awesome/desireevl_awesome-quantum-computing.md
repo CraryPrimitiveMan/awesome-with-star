@@ -32,13 +32,13 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
-- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit. :star:1020
+- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit. :star:1024
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
 - [Quantum computing for the very curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#. :star:1901
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#. :star:1908
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
@@ -47,26 +47,28 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
+- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
-- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - Learn about the benefits quantum technologies can provide to machine learning.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
+- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
+- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers. :star:1795
+- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers. :star:1806
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers. :star:26
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
-- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti. :star:878
+- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti. :star:881
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
-- [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM. :star:71
+- [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM. :star:72
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
-- [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library. :star:169
+- [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library. :star:171
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms. :star:16
@@ -75,13 +77,15 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Blogs
 
-- [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team
 - [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
+- [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
+- [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates. 
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
 
 ## Books
 

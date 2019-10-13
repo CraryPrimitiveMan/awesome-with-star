@@ -363,7 +363,7 @@ Table of Contents
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 10,000 free API requests/month
-  * [sparkpost.com](https://www.sparkpost.com/) — First 15,000 emails/month free
+  * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
@@ -391,6 +391,7 @@ Table of Contents
   * [socketlabs.com](https://www.socketlabs.com) - 40k emails free for first month, then first 2000 emails/month free
   * [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
+  * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
 
 ## CDN and Protection
 
@@ -475,7 +476,6 @@ Table of Contents
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
-  * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
@@ -552,7 +552,7 @@ Table of Contents
    * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
-   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
+   * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
    * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
@@ -567,7 +567,6 @@ Table of Contents
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
    * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
-   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — search based on time tracking, attachments on Agile Board, and many other improvements. 10 users 5 GB free
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
    * [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
@@ -694,7 +693,9 @@ Table of Contents
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
+  * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy to use currency conversion JSON API. Free tier with no request limit.
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
+  
 ## Docker Related
 
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images

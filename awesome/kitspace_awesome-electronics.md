@@ -81,24 +81,24 @@ This list is for websites, services, software, tools and more: everything that y
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-- [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation. :star:195
+- [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation. :star:198
 
 ## CAD Specific
 
 ### KiCAD
-- [Xesscorp's list of KiCAD 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) :star:221
+- [Xesscorp's list of KiCAD 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) :star:222
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB. :star:1479
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB. :star:1488
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them. :star:139
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place. :star:562
+- [Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them. :star:140
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place. :star:567
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) :star:904
-- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1357
+- [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) :star:1358
 
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -179,10 +179,10 @@ This list is for websites, services, software, tools and more: everything that y
 
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects :star:129
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects :star:130
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers :star:159
-- [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources :star:132
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics :star:48
+- [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources :star:133
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics :star:49
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources :star:311
 

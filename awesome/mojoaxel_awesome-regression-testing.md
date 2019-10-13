@@ -33,24 +33,24 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Browser automation
 
-- [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem. :star:15713
-- [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox. :star:2880
-- [trifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. :star:788
-- [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. :star:7314
-- [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol. :star:5240
+- [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem. :star:15780
+- [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox. :star:2885
+- [trifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. :star:789
+- [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. :star:7318
+- [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol. :star:5248
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. :star:928
-- [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. :star:13261
+- [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. :star:13262
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
 ## Tools and frameworks
 
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
-- [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds. :star:130
-- [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support. :star:4603
-- [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework. :star:4614
-- [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium). :star:1346
-- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs). :star:1493
-- [Huxley](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver). :star:4110
+- [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds. :star:132
+- [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support. :star:4607
+- [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework. :star:4623
+- [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium). :star:1349
+- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs). :star:1492
+- [Huxley](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver). :star:4109
 - [PhantomFlow](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees. :star:697
 - [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing. :star:450
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots. :star:381
@@ -60,30 +60,30 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium](https://github.com/SeleniumHQ/selenium). :star:624
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots. :star:22
 - [Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing. :star:327
-- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack. :star:7457
+- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack. :star:7488
 - [Needle](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python). :star:550
 - [gatling](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby). :star:51
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site. :star:273
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium. :star:9
 - [Happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces. :star:507
-- [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report. :star:151
-- [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron. :star:17780
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API. :star:54556
-- [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions. :star:266
-- [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo. :star:379
+- [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report. :star:152
+- [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron. :star:17800
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API. :star:54752
+- [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions. :star:267
+- [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo. :star:380
 - [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback. :star:779
-- [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer). :star:426
-- [ResembleJS](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5. :star:3404
+- [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer). :star:429
+- [ResembleJS](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5. :star:3408
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer](https://github.com/GoogleChrome/puppeteer). :star:57
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/). :star:22
-- [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more. :star:82
-- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. :star:81
-- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. :star:614
+- [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more. :star:83
+- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. :star:82
+- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. :star:617
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
-- [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS. :star:2425
+- [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS. :star:2436
 - [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery :star:578
-- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol. :star:9713
-- [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps. :star:8353
+- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol. :star:9734
+- [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps. :star:8364
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components :star:37
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports. :star:7
 
@@ -140,10 +140,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
-- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018. :star:27053
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017. :star:4769
-- [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017. :star:718
-- [dpxdt](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python. :star:1422
+- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018. :star:27061
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017. :star:4770
+- [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017. :star:717
+- [dpxdt](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python. :star:1424
 
 ## Miscellaneous
 

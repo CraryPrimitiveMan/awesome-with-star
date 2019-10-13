@@ -110,7 +110,7 @@
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS.
 - [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
-- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files. :star:270
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files. :star:271
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 - [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
@@ -136,7 +136,7 @@
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:885
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:883
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -157,7 +157,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:333
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:338
 
 ## Serverless
 

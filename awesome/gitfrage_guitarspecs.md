@@ -390,4 +390,173 @@ Following topics change resonant frequency and resonant peak:
 >  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector     
 >  [dimarzio.com](http://www.dimarzio.com/pickup-picker) - pickup picker    
 
+### Electronics Wiring Options
+
+![electronics wiring options](./images/clip14_switch.jpg)
+
+Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+------------------------- |------|------|-----|-----|-----|----
+volume                    |  y   | -/y¹ |  -  |  -  | -   | -
+tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
+series/parallel           |  -   |  y   |  -  |  y  | y   | y
+coil split                |  -   |  y   |  y  |  y  | y   | y
+series/parallel & coil tap|  -   |  y²  |  y² |  y² | y²  | -
+phase switch              |  -   |  y   |  y  |  y  | y   | y
+pickup switch             |  -   |  y   |  y  |  y  | y   | y
+
+
+     * switch owerview:
+    DPDT (ON/OFF/ON):     DPDT (ON/ON):     DPDT (ON/ON/ON):
+    0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
+    0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
+
+
+'¹' DPDP(ON/OFF/ON) available as "Mini-switch" oder "Push/Push-Pot" for volume and tone control
+
+'²' can be done by 4 Push/Pull pots, 4 Mini-switch (as SD "triple shot") or by 5-Way blade megaswitch
+
+'³' c-switch/varitone - Rotary switch for different pots
+
+> [open.guitars (german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
+
+
+### Electronics Wiring Schemas
+![electronics wiring schemas](./images/clip4_wiring.jpg)
+
+More wiring schemas from:
+
+>- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
+>- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
+>- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
+
+### Potentiometer and Capacitor Values
+![cap values](./images/clip16_cap.jpg)
+
+Sound group    			| Pot  | Cap     | Examples
+------------------------|------|---------|----
+standard hambucker  	| 500K | 0.047mF | most hambucker equiped guitars
+bright   			    | 500K | 0.022mF | some guitars (U.S. FAT Tele)
+brighter   			    | 500K | 0.01mF  | some custom models
+brightest       		| 1M   | 0.01mF  | some custom models
+standard singele coils 	| 250K | 0.022mF | most strat & tele models
+jazzy  					| 250K | 0.047mF | some teles (ASAT BluesBoy)
+
+> http://www.planetz.com/guitar-tone-capacitors-material-types -   comparison of tone capacitor material types and capacitance values.
+
+### Volume and Tone Potentiometer Options
+![volume and tone pot](./images/clip15_pot.jpg)
+
+Group    | Pot body Ø  | Bushing Ø | Bushing length | Shaft length | Example
+---------|-------------|-----------|----------------|--------------|------------
+standard | 24 mm      |  8 mm  | 10 mm  | 19 mm   | most fender guitars
+mini     | 17 mm      |  7 mm  | 10 mm  | '>' 17 mm | many jazz guitars
+long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
+
+ - Resistance: 250K, 300K, 500K, 1M
+ - Taper: Audio, Reverse Audio, Linear, Balance
+ - Shaft Type: Knurled, Round & Plain
+ - Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)
+ - Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)
+
+> [mouser.de - guitar potentiometer category](http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&Keyword=Potentiometers&FS=True) - showing more options.
+
+
+### Active Pickups Electronics
+![active pickups](./images/clip7_active-pickup.jpg)
+
+Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
+
+> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
+> [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.     
+> [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.    
+
+
+## Strings
+![strings](./images/strings.jpg)
+
+Depending on following options your sound will be more bright or more mellow:
+
+ - Construction (Flat Wound/Round Wound)
+ - Material (Steel/Nickel) and
+ - Tension
+
+Most manufacturers use following naming convention to describe tension of string set:
+
+Name   	  | 'e' site approx. | 'E' site approx.
+------------|--------------- | --------
+Extra-Light |  .008    		 | .039
+Light 		|  .009    		 | .042
+Regular     |  .010    		 | .046
+Medium 		|  .011    		 | .052
+Jazz        |  .012    		 | .054
+Baritone 	|  .013    		 | .056
+
+There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "Balanced Tension" combinations.
+
+> [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.      
+> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
+> [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
+
+
+## Scale Length
+![scale-length](./images/scale-length-648-vs-628-mm-neck-web.jpg)
+
+A guitar's scale length is length of string between the nut and the bridge.
+
+Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).
+
+ Longer scale length sound and playability characteristics:
+ - quick response, crisp attack
+ - transparent sound with well-defined basses and heights
+ - larger finger spread
+ - higher string tension at constant gauge
+
+Shorter scale length sound characteristics:
+ - warmer
+ - more sustain and longer decay
+ 
+Common Scale Length:
+ 
+ - 572 mm (22.5") or shorter - 3/4 & some travel guitars
+ - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
+ - 629 mm (24.75") - many Gibson guitars
+ - 635 mm (25") - many PRS guitars
+ - 648 mm (25.5") - many Fender guitars
+ - 650 mm (25.5)	- typical classical guitars
+ - 686 mm (27") or longer - Baritone guitars
+
+
+## Woods
+![strings](./images/esche.png)
+
+Woods       | Sound¹    | Weight²| Used for³| Looks
+------------|---------- |--------|----------|-------------------
+Alder     	| bright   	| medium | T/B      | bright, simple
+Ash    		| bright   	| medium | T/B  	| bright, simple
+Basswood   	| neutral	| light  | B  		| bright, simple
+Bubinga     | bright   	| medium | T/B/N/F  | red, often grained
+Ebony 		| bright  	| heavy  | N/F  	| dark
+Maple 		|very bright| heavy  | T/B/N/F  | bright, often grained
+Koa   		| warm 		| medium | T/B/N 	| dark, grained, attractive
+Korina 		| warm 		| medium | T/B/N 	| grained, attractive
+Mahogany	| warm   	| medium | T/B/N  	| red
+Poplar 		| neutral	| medium | B  		| bright, simple
+Rosewood 	| warm   	| medium | T/B/N/F  | dark
+Sitka Spruce| neutral 	| light  | T/B 		| bright, simple
+Swamp-Ash 	| neutral	| light  | T/B 		| bright, attractive
+Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
+Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
+
+¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below. 
+² Weight may vary for the same variety. 
+³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
+
+![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
+
+> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.
+
+
+
+
+
 

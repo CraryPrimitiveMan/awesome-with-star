@@ -235,7 +235,7 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:9862
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's :star:9898
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C#](https://github.com/twcclegg/libphonenumber-csharp),
@@ -261,14 +261,14 @@ Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Regex and Postal
 Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
 Why regular expressions and street addresses do not mix.
-- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:414
+- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's :star:417
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
 - [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ :star:689
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python :star:116
 module to parse, normalize and render postal addresses.
-- [`address`](https://github.com/Boostport/address) - Go library to validate :star:39
+- [`address`](https://github.com/Boostport/address) - Go library to validate :star:40
 and format addresses using Google's dataset.
 
 

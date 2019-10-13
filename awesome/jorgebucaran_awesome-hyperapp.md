@@ -21,7 +21,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Official Resources
 
 * [Homepage](https://hyperapp.js.org)
-* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16957
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:16963
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -47,14 +47,14 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX. :star:124
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects. :star:68
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker. :star:14
-* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:47
+* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp. :star:46
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL. :star:12
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter. :star:36
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms.  :star:2
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7194
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7230
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching. :star:20
@@ -66,20 +66,20 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:81
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:47
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:260
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:259
 * [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:87
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:38
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp. :star:27
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components :star:15
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components. :star:40
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:86
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications. :star:85
 * [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications. :star:15
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase. :star:17
 * [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data. :star:93
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:2
-* [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:13
+* [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:15
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:21
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:303
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:304
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps :star:2
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form) :star:7
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript. :star:1

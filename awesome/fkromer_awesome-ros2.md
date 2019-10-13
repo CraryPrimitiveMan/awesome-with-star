@@ -24,7 +24,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Packages
 
-### Demostrations
+### Demonstrations
 
 - [adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 2.0/1.0 based robots swarm architecture (opensplice DDS). ![adlink_ddsbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_ddsbot.svg)
 - [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) - ROS2/DDS robot pkg for human following and swarm. ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg)
@@ -59,6 +59,11 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 
+### Penetration testing
+
+- [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots. :star:62
+- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer. :star:2
+
 ### Application layer
 
 - [Apex.Autonomy](https://www.apex.ai/products) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
@@ -90,9 +95,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ### Middleware
 
-- [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients. :star:10
+- [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent acts as a server between DDS Network and Micro XRCE-DDS Clients. :star:11
 - [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
-- [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications. :star:8
+- [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications. :star:9
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent. :star:1
 
 ### "System" bindings
@@ -119,7 +124,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
 - [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 - [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - ROS2 node for TrackIMU IMU sensor![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
-- [HRIM](https://github.com/AcutronicRobotics/HRIM) - A standard interface for robot modules. :star:57
+- [HRIM](https://github.com/AcutronicRobotics/HRIM) - A standard interface for robot modules. :star:56
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
@@ -196,8 +201,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Operating systems
 
-- [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS. :star:18
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2881
+- [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS. :star:19
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2891
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
 ## Forks
@@ -213,14 +218,14 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent packages](https://index.ros.org/packages/page/1/time/#ardent).
 - [ROS 2 Design](http://design.ros2.org/) - Articles which inform and guide the ROS 2.0 design efforts.
 - [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
-- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1293
-- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1293
+- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1304
+- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1304
 - [ROS 2 Distribution (rosdistro)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages. :star:2
 - [ROS2 package status](http://repo.ros2.org/).
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) - Status of ROS Bouncy packages.
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 Ardent packages.
 - [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
-- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface. :star:17
+- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface. :star:29
 
 ## Community
 

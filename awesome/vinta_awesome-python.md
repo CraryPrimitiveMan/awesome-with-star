@@ -107,23 +107,23 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for administrative interfaces.*
 
-* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve. :star:5773
+* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve. :star:5777
 * [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
-* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality. :star:2373
+* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality. :star:2384
 * [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
-* [django-xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies. :star:4057
-* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask. :star:3849
-* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery. :star:3898
-* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts. :star:1318
+* [django-xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies. :star:4070
+* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask. :star:3858
+* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery. :star:3907
+* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts. :star:1320
 
 ## Algorithms and Design Patterns
 
 *Python implementation of algorithms and design patterns.*
 
-* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python. :star:16001
+* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python. :star:16042
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns. :star:862
-* [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python. :star:22242
-* [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types. :star:1481
+* [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python. :star:22311
+* [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types. :star:1489
 
 ## Audio
 
@@ -131,30 +131,30 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Audio
     * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding. :star:297
-    * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition. :star:4670
+    * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition. :star:4680
     * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications. :star:2609
-    * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface. :star:3842
-    * [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework. :star:260
+    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications. :star:2630
+    * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface. :star:3851
+    * [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework. :star:261
 * Metadata
-    * [beets](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger. :star:8912
-    * [eyeD3](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata. :star:168
-    * [mutagen](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata. :star:489
-    * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files. :star:361
+    * [beets](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger. :star:8929
+    * [eyeD3](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata. :star:169
+    * [mutagen](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata. :star:492
+    * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files. :star:363
 
 ## Authentication
 
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [authlib](https://github.com/lepture/authlib) - JavaScript Object Signing and Encryption draft implementation. :star:1273
-    * [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works." :star:4888
-    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django. :star:1696
-    * [oauthlib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic. :star:1871
-    * [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers. :star:2888
-    * [python-social-auth](https://github.com/omab/python-social-auth) - An easy-to-setup social authentication mechanism. :star:2778
+    * [authlib](https://github.com/lepture/authlib) - JavaScript Object Signing and Encryption draft implementation. :star:1293
+    * [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works." :star:4903
+    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django. :star:1701
+    * [oauthlib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic. :star:1879
+    * [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers. :star:2891
+    * [python-social-auth](https://github.com/omab/python-social-auth) - An easy-to-setup social authentication mechanism. :star:2780
 * JWT
-    * [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python. :star:2918
+    * [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python. :star:2926
     * [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python. :star:552
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens. :star:161
 
@@ -164,8 +164,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
 * [buildout](http://www.buildout.org/en/latest/) - A build system for creating, assembling and deploying applications from multiple parts.
-* [PlatformIO](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms. :star:3412
-* [pybuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python. :star:1129
+* [PlatformIO](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms. :star:3425
+* [pybuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python. :star:1134
 * [SCons](http://www.scons.org/) - A software construction tool.
 
 ## Built-in Classes Enhancement
@@ -173,9 +173,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for enhancing Python built-in classes.*
 
 * [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Data classes.
-* [attrs](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions. :star:2772
-* [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.. :star:491
-* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access. :star:1293
+* [attrs](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions. :star:2779
+* [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.. :star:494
+* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access. :star:1298
 * [DottedDict](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation. :star:69
 
 ## CMS
@@ -186,17 +186,17 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
 * [feincms](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django. :star:765
 * [Kotti](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid. :star:338
-* [mezzanine](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform. :star:3926
+* [mezzanine](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform. :star:3933
 * [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
-* [quokka](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB. :star:2124
+* [quokka](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB. :star:2125
 
 ## Caching
 
 *Libraries for caching data.*
 
-* [beaker](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching. :star:423
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models. :star:757
-* [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation. :star:1092
+* [beaker](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching. :star:424
+* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models. :star:759
+* [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation. :star:1098
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is next generation replacement for Beaker made by same authors.
 * [HermesCache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
 * [pylibmc](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface. :star:414
@@ -206,31 +206,31 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for chatbot development.*
 
-* [errbot](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps. :star:2102
+* [errbot](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps. :star:2103
 
 ## Code Analysis
 
 *Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/mre/awesome-static-analysis).*
 
 * Code Analysis
-    * [coala](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application. :star:2871
-    * [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts. :star:649
-    * [prospector](https://github.com/PyCQA/prospector) - A tool to analyse Python code. :star:1156
-    * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application. :star:1350
+    * [coala](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application. :star:2875
+    * [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts. :star:650
+    * [prospector](https://github.com/PyCQA/prospector) - A tool to analyse Python code. :star:1160
+    * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application. :star:1352
 * Code Linters
     * [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) :star:221
+        * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) :star:225
     * [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
-    * [pylama](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript. :star:615
-    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever. :star:423
+    * [pylama](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript. :star:619
+    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever. :star:448
 * Code Formatters
-    * [black](https://github.com/python/black) - The uncompromising Python code formatter. :star:12741
-    * [yapf](https://github.com/google/yapf) - Yet another Python code formatter from Google. :star:9796
+    * [black](https://github.com/python/black) - The uncompromising Python code formatter. :star:12890
+    * [yapf](https://github.com/google/yapf) - Yet another Python code formatter from Google. :star:9822
 * Static Type Checkers, also see [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
     * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
-    * [pyre-check](https://github.com/facebook/pyre-check) - Performant type checking. :star:3036
+    * [pyre-check](https://github.com/facebook/pyre-check) - Performant type checking. :star:3047
 * Static Type Annotations Generators
-    * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types :star:2365
+    * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types :star:2374
 
 ## Command-line Interface Development
 
@@ -240,42 +240,42 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [cement](http://builtoncement.com/) - CLI Application Framework for Python.
     * [click](http://click.pocoo.org/dev/) - A package for creating beautiful command line interfaces in a composable way.
     * [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    * [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools. :star:2527
+    * [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools. :star:2528
     * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object. :star:15379
-    * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines. :star:5787
+    * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object. :star:15460
+    * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines. :star:5795
 * Terminal Rendering
-    * [asciimatics](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations). :star:1573
-    * [bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal. :star:1270
+    * [asciimatics](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations). :star:1586
+    * [bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal. :star:1275
     * [colorama](https://pypi.org/project/colorama/) - Cross-platform colored terminal text.
-    * [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI. :star:11824
+    * [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI. :star:11890
 
 ## Command-line Tools
 
 *Useful CLI-based tools for productivity.*
 
 * Productivity Tools
-    * [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). :star:10354
-    * [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal. :star:2571
-    * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line. :star:7525
-    * [PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output. :star:4233
-    * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX. :star:2811
-    * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command. :star:48340
-    * [tmuxp](https://github.com/tony/tmuxp) - A [tmux](https://github.com/tmux/tmux) session manager. :star:2532
-    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier. :star:502
+    * [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). :star:10405
+    * [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal. :star:2584
+    * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line. :star:7539
+    * [PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output. :star:4239
+    * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX. :star:2812
+    * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command. :star:48630
+    * [tmuxp](https://github.com/tony/tmuxp) - A [tmux](https://github.com/tmux/tmux) session manager. :star:2536
+    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier. :star:504
 * CLI Enhancements
-    * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement. :star:43332
-    * [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI. :star:1397
-    * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. :star:8039
-    * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting. :star:8185
-    * [saws](https://github.com/donnemartin/saws) - A Supercharged [aws-cli](https://github.com/aws/aws-cli). :star:4233
+    * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement. :star:43420
+    * [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI. :star:1409
+    * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. :star:8061
+    * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting. :star:8196
+    * [saws](https://github.com/donnemartin/saws) - A Supercharged [aws-cli](https://github.com/aws/aws-cli). :star:4240
 
 ## Compatibility
 
 *Libraries for migrating from Python 2 to 3.*
 
 * [python-future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
-* [python-modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration. :star:528
+* [python-modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration. :star:529
 * [six](https://pypi.org/project/six/) - Python 2 and 3 compatibility utilities.
 
 ## Computer Vision
@@ -283,7 +283,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for computer vision.*
 
 * [OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
-* [pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr). :star:2401
+* [pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr). :star:2411
 * [SimpleCV](http://simplecv.org/) - An open source framework for building computer vision applications.
 
 ## Concurrency and Parallelism
@@ -294,31 +294,31 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
-* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of `asyncio` event loop on top of `libuv`. :star:6267
-* [scoop](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python. :star:402
+* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of `asyncio` event loop on top of `libuv`. :star:6286
+* [scoop](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python. :star:403
 
 ## Configuration
 
 *Libraries for storing and parsing configuration options.*
 
-* [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation. :star:201
+* [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation. :star:204
 * [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
 * [profig](https://profig.readthedocs.io/en/default/) - Config from multiple formats with value conversion.
-* [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code. :star:1097
+* [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code. :star:1108
 
 ## Cryptography
 
 * [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
-* [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library. :star:5715
+* [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library. :star:5729
 * [passlib](https://passlib.readthedocs.io/en/stable/) - Secure password storage/hashing library, very high level.
-* [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library. :star:647
+* [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library. :star:648
 
 ## Data Analysis
 
 *Libraries for data analyzing.*
 
-* [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data. :star:2735
-* [Open Mining](https://github.com/mining/mining) - Business Intelligence (BI) in Pandas interface. :star:1026
+* [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data. :star:2737
+* [Open Mining](https://github.com/mining/mining) - Business Intelligence (BI) in Pandas interface. :star:1029
 * [Orange](https://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
 * [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 * [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark. :star:748
@@ -327,60 +327,60 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for validating data. Used for forms in many cases.*
 
-* [Cerberus](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library. :star:1830
+* [Cerberus](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library. :star:1835
 * [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
-* [jsonschema](https://github.com/Julian/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python. :star:2483
-* [schema](https://github.com/keleshev/schema) - A library for validating Python data structures. :star:1885
-* [Schematics](https://github.com/schematics/schematics) - Data Structure Validation. :star:2270
+* [jsonschema](https://github.com/Julian/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python. :star:2490
+* [schema](https://github.com/keleshev/schema) - A library for validating Python data structures. :star:1893
+* [Schematics](https://github.com/schematics/schematics) - Data Structure Validation. :star:2272
 * [valideer](https://github.com/podio/valideer) - Lightweight extensible data validation and adaptation library. :star:228
-* [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library. :star:1525
+* [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library. :star:1530
 
 ## Data Visualization
 
 *Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
-* [Altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python. :star:4179
-* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python. :star:11658
-* [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook :star:2520
+* [Altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python. :star:4209
+* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python. :star:11727
+* [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook :star:2527
 * [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
-    * [awesome-dash](https://github.com/Acrotrend/awesome-dash) :star:512
-* [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2. :star:1855
+    * [awesome-dash](https://github.com/Acrotrend/awesome-dash) :star:524
+* [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2. :star:1861
 * [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 * [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
 * [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 * [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
-* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib. :star:6453
-* [VisPy](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL. :star:2108
+* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib. :star:6473
+* [VisPy](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL. :star:2118
 
 ## Database
 
 *Databases implemented in Python.*
 
-* [pickleDB](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python. :star:411
-* [tinydb](https://github.com/msiemens/tinydb) - A tiny, document-oriented database. :star:3101
-* [ZODB](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database. :star:350
+* [pickleDB](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python. :star:413
+* [tinydb](https://github.com/msiemens/tinydb) - A tiny, document-oriented database. :star:3111
+* [ZODB](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database. :star:353
 
 ## Database Drivers
 
 *Libraries for connecting and operating databases.*
 
 * MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork). :star:1543
-    * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python. :star:5405
+    * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork). :star:1549
+    * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python. :star:5425
 * PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
     * [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
     * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL. :star:214
 * Other Relational Databases
     * [pymssql](http://www.pymssql.org/en/latest/) - A simple database interface to Microsoft SQL Server.
 * NoSQL Databases
-    * [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra. :star:1083
-    * [happybase](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase. :star:497
-    * [kafka-python](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka. :star:3330
+    * [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra. :star:1084
+    * [happybase](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase. :star:499
+    * [kafka-python](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka. :star:3340
     * [py2neo](https://py2neo.org/) - Python wrapper client for Neo4j's restful interface.
-    * [pymongo](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB. :star:2873
-    * [redis-py](https://github.com/andymccurdy/redis-py) - The Python client for Redis. :star:7905
+    * [pymongo](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB. :star:2877
+    * [redis-py](https://github.com/andymccurdy/redis-py) - The Python client for Redis. :star:7925
 * Asynchronous Clients
-    * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB. :star:1324
+    * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB. :star:1330
     * [Telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra. :star:93
     * [txpostgres](https://github.com/wulczer/txpostgres) - Twisted based asynchronous driver for PostgreSQL. :star:104
     * [txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis. :star:120
@@ -389,72 +389,72 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with dates and times.*
 
-* [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates. :star:292
-* [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module. :star:1078
-* [delorean](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes. :star:1596
-* [moment](https://github.com/zachwill/moment) - A Python library for dealing with dates/times. Inspired by [Moment.js](http://momentjs.com/). :star:600
-* [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy. :star:3544
+* [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates. :star:293
+* [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module. :star:1084
+* [delorean](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes. :star:1597
+* [moment](https://github.com/zachwill/moment) - A Python library for dealing with dates/times. Inspired by [Moment.js](http://momentjs.com/). :star:601
+* [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy. :star:3554
 * [PyTime](https://github.com/shinux/PyTime) - An easy-to-use Python module which aims to operate date/time/datetime by string. :star:135
 * [pytz](https://launchpad.net/pytz) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 * [when.py](https://github.com/dirn/When.py) - Providing user-friendly functions to help perform common date and time actions. :star:182
-* [maya](https://github.com/kennethreitz/maya) - Datetimes for Humans. :star:3036
+* [maya](https://github.com/kennethreitz/maya) - Datetimes for Humans. :star:3043
 
 ## Debugging Tools
 
 *Libraries for debugging code.*
 
 * pdb-like Debugger
-    * [ipdb](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html). :star:1055
-    * [pdb++](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb. :star:267
-    * [pudb](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger. :star:1555
-    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets. :star:1421
+    * [ipdb](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html). :star:1059
+    * [pdb++](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb. :star:277
+    * [pudb](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger. :star:1569
+    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets. :star:1422
 * Tracing
-    * [lptrace](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs. :star:644
+    * [lptrace](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs. :star:646
     * [manhole](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt. :star:259
-    * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes. :star:1538
-    * [python-hunter](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit. :star:423
+    * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes. :star:1540
+    * [python-hunter](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit. :star:426
 * Profiler
-    * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling. :star:3066
-    * [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code. :star:39
-    * [profiling](https://github.com/what-studio/profiling) - An interactive Python profiler. :star:2910
-    * [py-spy](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust. :star:4442
-    * [pyflame](https://github.com/uber/pyflame) - A ptracing profiler For Python. :star:2537
-    * [vprof](https://github.com/nvdv/vprof) - Visual Python profiler. :star:3532
+    * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling. :star:3076
+    * [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code. :star:41
+    * [profiling](https://github.com/what-studio/profiling) - An interactive Python profiler. :star:2913
+    * [py-spy](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust. :star:4470
+    * [pyflame](https://github.com/uber/pyflame) - A ptracing profiler For Python. :star:2548
+    * [vprof](https://github.com/nvdv/vprof) - Visual Python profiler. :star:3534
 * Others
-    * [icecream](https://github.com/gruns/icecream) - Inspect variables, expressions, and program execution with a single, simple function call. :star:1388
-    * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - Display various debug information for Django. :star:5610
-    * [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver. :star:1248
+    * [icecream](https://github.com/gruns/icecream) - Inspect variables, expressions, and program execution with a single, simple function call. :star:1389
+    * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - Display various debug information for Django. :star:5619
+    * [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver. :star:1247
     * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask. :star:713
-    * [pyelftools](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information. :star:880
+    * [pyelftools](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information. :star:885
 
 ## Deep Learning
 
 *Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
 
-* [caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.. :star:29184
-* [keras](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano. :star:44529
-* [mxnet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility. :star:17818
-* [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. :star:32078
-* [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox. :star:5352
-* [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google. :star:135448
-* [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation. :star:8935
+* [caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.. :star:29229
+* [keras](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano. :star:44685
+* [mxnet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility. :star:17855
+* [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. :star:32418
+* [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox. :star:5363
+* [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google. :star:135816
+* [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation. :star:8940
 
 ## DevOps Tools
 
 *Software and libraries for DevOps.*
 
-* [ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform. :star:39651
+* [ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform. :star:39746
 * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
-* [cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric. :star:1241
+* [cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric. :star:1242
 * [docker-compose](https://docs.docker.com/compose/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
-* [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment. :star:11714
-* [fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files. :star:1199
-* [honcho](https://github.com/nickstenning/honcho) - A Python clone of [Foreman](https://github.com/ddollar/foreman), for managing Procfile-based applications. :star:1281
+* [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment. :star:11737
+* [fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files. :star:1201
+* [honcho](https://github.com/nickstenning/honcho) - A Python clone of [Foreman](https://github.com/ddollar/foreman), for managing Procfile-based applications. :star:1284
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
-* [pexpect](https://github.com/pexpect/pexpect) - Controlling interactive programs in a pseudo-terminal like GNU expect. :star:1664
-* [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module. :star:5405
-* [saltstack](https://github.com/saltstack/salt) - Infrastructure automation and management system. :star:10310
-* [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX. :star:5691
+* [pexpect](https://github.com/pexpect/pexpect) - Controlling interactive programs in a pseudo-terminal like GNU expect. :star:1668
+* [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module. :star:5437
+* [saltstack](https://github.com/saltstack/salt) - Infrastructure automation and management system. :star:10323
+* [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX. :star:5703
 
 ## Distributed Computing
 
@@ -462,40 +462,40 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Batch Processing
     * [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-    * [dask](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing. :star:5665
-    * [luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs. :star:12287
+    * [dask](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing. :star:5689
+    * [luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs. :star:12316
     * [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services. :star:2451
-    * [Ray](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem. :star:8843
+    * [Ray](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem. :star:8918
 * Stream Processing
-    * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python. :star:3751
+    * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python. :star:3779
     * [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/). :star:1389
 
 ## Distribution
 
 *Libraries to create packaged executables for release distribution.*
 
-* [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Build and distribute a virtualenv as a Debian package. :star:1311
+* [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Build and distribute a virtualenv as a Debian package. :star:1313
 * [Nuitka](http://nuitka.net/) - Compile scripts, modules, packages to an executable or extension module.
 * [py2app](http://pythonhosted.org/py2app/) - Freezes Python scripts (Mac OS X).
 * [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
-* [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform). :star:5843
+* [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform). :star:5876
 * [pynsist](http://pynsist.readthedocs.io/en/latest/) - A tool to build Windows installers, installers bundle Python itself.
 
 ## Documentation
 
 *Libraries for generating project documentation.*
 
-* [sphinx](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator. :star:2844
-    * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) :star:582
+* [sphinx](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator. :star:2860
+    * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) :star:586
 * [pdoc](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries. :star:609
-* [pycco](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator. :star:684
+* [pycco](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator. :star:685
 
 ## Downloader
 
 *Libraries for downloading.*
 
-* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront. :star:3098
-* [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance. :star:921
+* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront. :star:3102
+* [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance. :star:923
 * [you-get](https://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 
@@ -504,34 +504,34 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Frameworks and libraries for e-commerce and payments.*
 
 * [alipay](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python. :star:319
-* [Cartridge](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine. :star:598
+* [Cartridge](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine. :star:600
 * [django-oscar](http://oscarcommerce.com/) - An open-source e-commerce framework for Django.
-* [django-shop](https://github.com/awesto/django-shop) - A Django based shop system. :star:1975
-* [merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors. :star:933
-* [money](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange. :star:170
+* [django-shop](https://github.com/awesto/django-shop) - A Django based shop system. :star:1979
+* [merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors. :star:934
+* [money](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange. :star:172
 * [python-currencies](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies. :star:41
-* [forex-python](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion. :star:266
+* [forex-python](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion. :star:269
 * [saleor](http://getsaleor.com/) - An e-commerce storefront for Django.
 * [shoop](https://www.shuup.com/en/) - An open source E-Commerce platform based on Django.
 
 ## Editor Plugins and IDEs
 
 * Emacs
-    * [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment. :star:1478
+    * [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment. :star:1481
 * Sublime Text
-    * [anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE. :star:2007
-    * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi. :star:874
+    * [anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE. :star:2011
+    * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi. :star:876
 * Vim
-    * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python. :star:4123
-    * [python-mode](https://github.com/python-mode/python-mode) - An all in one plugin for turning Vim into a Python IDE. :star:4790
-    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python. :star:19882
+    * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python. :star:4129
+    * [python-mode](https://github.com/python-mode/python-mode) - An all in one plugin for turning Vim into a Python IDE. :star:4796
+    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python. :star:19930
 * Visual Studio
-    * [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio. :star:2211
+    * [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio. :star:2213
 * Visual Studio Code
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - The official VSCode extension with rich support for Python.
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
-    * [spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE. :star:4783
+    * [spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE. :star:4795
 
 ## Email
 
@@ -539,34 +539,34 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [envelopes](http://tomekwojcik.github.io/envelopes/) - Mailing for human beings.
 * [flanker](https://github.com/mailgun/flanker) - An email address and Mime parsing library. :star:1339
-* [imbox](https://github.com/martinrusev/imbox) - Python IMAP for Humans. :star:855
-* [inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans. :star:1465
-* [lamson](https://github.com/zedshaw/lamson) - Pythonic SMTP Application Server. :star:680
+* [imbox](https://github.com/martinrusev/imbox) - Python IMAP for Humans. :star:858
+* [inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans. :star:1468
+* [lamson](https://github.com/zedshaw/lamson) - Pythonic SMTP Application Server. :star:681
 * [Marrow Mailer](https://github.com/marrow/mailer) - High-performance extensible mail delivery framework. :star:172
-* [modoboa](https://github.com/modoboa/modoboa) - A mail hosting and management platform including a modern and simplified Web UI. :star:1373
-* [Nylas Sync Engine](https://github.com/nylas/sync-engine) - Providing a RESTful API on top of a powerful email sync platform. :star:3482
-* [yagmail](https://github.com/kootenpv/yagmail) - Yet another Gmail/SMTP client. :star:1534
+* [modoboa](https://github.com/modoboa/modoboa) - A mail hosting and management platform including a modern and simplified Web UI. :star:1375
+* [Nylas Sync Engine](https://github.com/nylas/sync-engine) - Providing a RESTful API on top of a powerful email sync platform. :star:3481
+* [yagmail](https://github.com/kootenpv/yagmail) - Yet another Gmail/SMTP client. :star:1536
 
 ## Environment Management
 
 *Libraries for Python version and virtual environment management.*
 
-* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management. :star:16718
-* [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans. :star:18426
-* [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy. :star:6246
-* [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments. :star:3220
+* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management. :star:16783
+* [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans. :star:18497
+* [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy. :star:6329
+* [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments. :star:3234
 
 ## Files
 
 *Libraries for file manipulation and MIME type detection.*
 
 * [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
-* [path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html). :star:881
+* [path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html). :star:882
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
-* [PyFilesystem2](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer. :star:945
-* [python-magic](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library. :star:1458
+* [PyFilesystem2](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer. :star:947
+* [python-magic](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library. :star:1460
 * [Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to file/directory operations. :star:485
-* [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events. :star:3699
+* [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events. :star:3713
 
 ## Foreign Function Interface
 
@@ -581,40 +581,40 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with forms.*
 
-* [Deform](https://github.com/Pylons/deform) - Python HTML form generation library influenced by the formish form generation library. :star:319
-* [django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django. :star:2154
-* [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django. :star:613
-* [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way. :star:3619
-* [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - A platform independent Django form serializer. :star:193
-* [WTForms](https://github.com/wtforms/wtforms) - A flexible forms validation and rendering library. :star:1000
+* [Deform](https://github.com/Pylons/deform) - Python HTML form generation library influenced by the formish form generation library. :star:320
+* [django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django. :star:2157
+* [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django. :star:617
+* [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way. :star:3625
+* [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - A platform independent Django form serializer. :star:195
+* [WTForms](https://github.com/wtforms/wtforms) - A flexible forms validation and rendering library. :star:1002
 
 ## Functional Programming
 
 *Functional Programming with Python.*
 
 * [Coconut](http://coconut-lang.org/) - Coconut is a variant of Python built for simple, elegant, Pythonic functional programming.
-* [CyToolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of Toolz: High performance functional utilities. :star:657
-* [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP. :star:2895
-* [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools. :star:2139
-* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. :star:2436
+* [CyToolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of Toolz: High performance functional utilities. :star:659
+* [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP. :star:2897
+* [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools. :star:2142
+* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. :star:2453
 
 ## GUI Development
 
 *Libraries for working with graphical user interface applications.*
 
 * [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
-* [Eel](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps. :star:2987
-* [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declaratic Syntax like QML. :star:805
-* [Flexx](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering. :star:2110
-* [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line. :star:7856
+* [Eel](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps. :star:2998
+* [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declaratic Syntax like QML. :star:808
+* [Flexx](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering. :star:2115
+* [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line. :star:7905
 * [kivy](https://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
 * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - A cross-platform windowing and multimedia library for Python.
 * [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
 * [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
-* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi. :star:2213
-* [pywebview](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component. :star:1505
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi. :star:2286
+* [pywebview](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component. :star:1513
 * [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
-* [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit. :star:2103
+* [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit. :star:2113
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
 
@@ -635,11 +635,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
-* [django-countries](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms. :star:717
+* [django-countries](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms. :star:718
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
-* [GeoIP](https://github.com/maxmind/geoip-api-python) - Python API for MaxMind GeoIP Legacy Database. :star:193
-* [geojson](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON. :star:465
-* [geopy](https://github.com/geopy/geopy) - Python Geocoding Toolbox. :star:2584
+* [GeoIP](https://github.com/maxmind/geoip-api-python) - Python API for MaxMind GeoIP Legacy Database. :star:194
+* [geojson](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON. :star:470
+* [geopy](https://github.com/geopy/geopy) - Python Geocoding Toolbox. :star:2595
 * [pygeoip](https://github.com/appliedsec/pygeoip) - Pure Python GeoIP API. :star:480
 
 ## HTML Manipulation
@@ -647,37 +647,37 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with HTML and XML.*
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-* [bleach](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library. :star:1793
+* [bleach](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library. :star:1797
 * [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
-* [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments. :star:796
+* [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments. :star:797
 * [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [MarkupSafe](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python. :star:283
-* [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML. :star:1763
-* [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access. :star:426
+* [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML. :star:1766
+* [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access. :star:428
 * [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
 * [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
-* [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON. :star:3638
+* [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON. :star:3647
 
 ## HTTP Clients
 
 *Libraries for working with HTTP.*
 
-* [grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests. :star:3174
-* [httplib2](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library. :star:328
+* [grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests. :star:3188
+* [httplib2](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library. :star:332
 * [requests](http://docs.python-requests.org/en/latest/) - HTTP Requests for Humans™.
-* [treq](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client. :star:479
-* [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly. :star:2138
+* [treq](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client. :star:478
+* [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly. :star:2142
 
 ## Hardware
 
 *Libraries for programming with hardware.*
 
 * [ino](http://inotool.org/) - Command line toolkit for working with [Arduino](https://www.arduino.cc/).
-* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux. :star:1581
+* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux. :star:1589
 * [mouse](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux. :star:227
 * [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
-* [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard. :star:866
-* [scapy](https://github.com/secdev/scapy) - A brilliant packet manipulation library. :star:4383
+* [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard. :star:868
+* [scapy](https://github.com/secdev/scapy) - A brilliant packet manipulation library. :star:4418
 * [wifi](https://github.com/rockymeza/wifi) - A Python library and command line tool for working with WiFi on Linux. :star:255
 
 ## Image Processing
@@ -686,43 +686,43 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [hmap](https://github.com/rossgoodwin/hmap) - Image histogram remapping. :star:168
 * [imgSeek](https://sourceforge.net/projects/imgseek/) - A project for searching a collection of images using visual similarity.
-* [nude.py](https://github.com/hhatto/nude.py) - Nudity detection. :star:683
-* [pagan](https://github.com/daboth/pagan) - Retro identicon (Avatar) generation based on input string and hash. :star:165
-* [pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork. :star:6662
+* [nude.py](https://github.com/hhatto/nude.py) - Nudity detection. :star:685
+* [pagan](https://github.com/daboth/pagan) - Retro identicon (Avatar) generation based on input string and hash. :star:167
+* [pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork. :star:6679
 * [pyBarcode](https://pythonhosted.org/pyBarcode/) - Create barcodes in Python without needing PIL.
 * [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters. :star:86
-* [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator. :star:1885
-* [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees. :star:890
+* [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator. :star:1891
+* [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees. :star:891
 * [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
-* [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images. :star:7179
-* [wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick. :star:918
+* [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images. :star:7215
+* [wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick. :star:920
 
 ## Implementations
 
 *Implementations of Python.*
 
-* [CPython](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.** :star:26962
+* [CPython](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.** :star:27070
 * [Cython](http://cython.org/) - Optimizing Static Compiler for Python.
 * [CLPython](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp. :star:272
-* [Grumpy](https://github.com/google/grumpy) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha). :star:9817
-* [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#. :star:966
+* [Grumpy](https://github.com/google/grumpy) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha). :star:9823
+* [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#. :star:969
 * [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the JVM.
-* [MicroPython](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation. :star:9272
+* [MicroPython](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation. :star:9312
 * [Numba](http://numba.pydata.org/) - Python JIT compiler to LLVM aimed at scientific Python.
-* [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. :star:1315
-* [Pyjion](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR. :star:1280
+* [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. :star:1320
+* [Pyjion](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR. :star:1281
 * [PyPy](https://bitbucket.org/pypy/pypy) - A very fast and compliant implementation of the Python language.
 * [Pyston](https://github.com/dropbox/pyston) - A Python implementation using JIT techniques. :star:4485
-* [Stackless Python](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language. :star:474
+* [Stackless Python](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language. :star:476
 
 ## Interactive Interpreter
 
 *Interactive Python interpreters (REPL).*
 
-* [bpython](https://github.com/bpython/bpython) - A fancy interface to the Python interpreter. :star:1298
+* [bpython](https://github.com/bpython/bpython) - A fancy interface to the Python interpreter. :star:1301
 * [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) :star:1310
-* [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). :star:3407
+    * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) :star:1323
+* [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). :star:3411
 
 ## Internationalization
 
@@ -736,12 +736,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for scheduling jobs.*
 
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/) - A light but powerful in-process task scheduler that lets you schedule functions.
-* [django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django. :star:752
+* [django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django. :star:756
 * [doit](http://pydoit.org/) - A task runner and build tool.
-* [gunnery](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface. :star:695
+* [gunnery](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface. :star:696
 * [Joblib](https://joblib.readthedocs.io/) - A set of tools to provide lightweight pipelining in Python.
-* [Plan](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm. :star:1085
-* [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. :star:6616
+* [Plan](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm. :star:1086
+* [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. :star:6640
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python. :star:804
 * [TaskFlow](https://docs.openstack.org/developer/taskflow/) - A Python library that helps to make task execution easy, consistent and reliable.
 * [Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule and monitor workflows.
@@ -750,22 +750,22 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for generating and working with logs.*
 
-* [Eliot](https://github.com/ScatterHQ/eliot) - Logging for complex & distributed systems. :star:624
+* [Eliot](https://github.com/ScatterHQ/eliot) - Logging for complex & distributed systems. :star:630
 * [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
-* [raven](https://github.com/getsentry/raven-python) - Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications. :star:1645
+* [raven](https://github.com/getsentry/raven-python) - Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications. :star:1648
 
 ## Machine Learning
 
 *Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
-* [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform. :star:4341
-* [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics. :star:1189
-* [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing. :star:5990
+* [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform. :star:4359
+* [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics. :star:1194
+* [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing. :star:5996
 * [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/). :star:150
-* [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library. :star:17355
+* [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library. :star:17407
 
 ## Microsoft Windows
 
@@ -773,7 +773,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Python(x,y)](http://python-xy.github.io/) - Scientific-applications-oriented Python Distribution based on Qt and Spyder.
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/) - Unofficial Windows binaries for Python extension packages.
-* [PythonNet](https://github.com/pythonnet/pythonnet) - Python Integration with the .NET Common Language Runtime (CLR). :star:1775
+* [PythonNet](https://github.com/pythonnet/pythonnet) - Python Integration with the .NET Common Language Runtime (CLR). :star:1784
 * [PyWin32](https://sourceforge.net/projects/pywin32/) - Python Extensions for Windows.
 * [WinPython](https://winpython.github.io/) - Portable development environment for Windows 7/8.
 
@@ -781,9 +781,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system. :star:953
-* [boltons](https://github.com/mahmoud/boltons) - A set of pure-Python utilities. :star:4938
-* [itsdangerous](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments. :star:1839
+* [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system. :star:956
+* [boltons](https://github.com/mahmoud/boltons) - A set of pure-Python utilities. :star:4947
+* [itsdangerous](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments. :star:1842
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python. :star:831
 * [tryton](http://www.tryton.org/) - A general purpose business framework.
 
@@ -792,45 +792,45 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with human languages.*
 
 - General
-    * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans. :star:9918
-    * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system. :star:1428
+    * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans. :star:9945
+    * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system. :star:1433
     * [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-    * [pattern](https://github.com/clips/pattern) - A web mining module for the Python. :star:7151
-    * [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages. :star:1387
-    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch. :star:5416
-    * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research. :star:1452
+    * [pattern](https://github.com/clips/pattern) - A web mining module for the Python. :star:7162
+    * [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages. :star:1400
+    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch. :star:5437
+    * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research. :star:1455
     * [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ languages. :star:2461
+    * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ languages. :star:2481
 - Chinese
-    * [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library. :star:20264
-    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains. :star:3963
-    * [snownlp](https://github.com/isnowfy/snownlp) - A library for processing Chinese text. :star:4329
-    * [funNLP](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP. :star:13035
+    * [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library. :star:20369
+    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains. :star:3993
+    * [snownlp](https://github.com/isnowfy/snownlp) - A library for processing Chinese text. :star:4339
+    * [funNLP](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP. :star:13295
 
 ## Network Virtualization
 
 *Tools and libraries for Virtual Networking and SDN (Software Defined Networking).*
 
-* [mininet](https://github.com/mininet/mininet) - A popular network emulator and API written in Python. :star:2982
-* [pox](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers. :star:458
+* [mininet](https://github.com/mininet/mininet) - A popular network emulator and API written in Python. :star:2991
+* [pox](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers. :star:460
 
 ## Networking
 
 *Libraries for networking programming.*
 
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) :star:1805
-* [pulsar](https://github.com/quantmind/pulsar) - Event-driven concurrent framework for Python. :star:1793
-* [pyzmq](https://github.com/zeromq/pyzmq) - A Python wrapper for the ZeroMQ message library. :star:2303
+    - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) :star:1819
+* [pulsar](https://github.com/quantmind/pulsar) - Event-driven concurrent framework for Python. :star:1796
+* [pyzmq](https://github.com/zeromq/pyzmq) - A Python wrapper for the ZeroMQ message library. :star:2308
 * [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
-* [napalm](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices. :star:1318
+* [napalm](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices. :star:1327
 
 ## News Feed
 
 *Libraries for building user's activities.*
 
-* [django-activity-stream](https://github.com/justquick/django-activity-stream) - Generating generic activity streams from the actions on your site. :star:1634
-* [Stream Framework](https://github.com/tschellenbach/Stream-Framework) - Building newsfeed and notification systems using Cassandra and Redis. :star:4146
+* [django-activity-stream](https://github.com/justquick/django-activity-stream) - Generating generic activity streams from the actions on your site. :star:1639
+* [Stream Framework](https://github.com/tschellenbach/Stream-Framework) - Building newsfeed and notification systems using Cassandra and Redis. :star:4151
 
 ## ORM
 
@@ -839,16 +839,16 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Relational Databases
     * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - A part of Django.
     * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
-        * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) :star:1937
-    * [dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL. :star:3629
+        * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) :star:1940
+    * [dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL. :star:3636
     * [orator](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation. :star:972
-    * [peewee](https://github.com/coleifer/peewee) - A small, expressive ORM. :star:6881
-    * [pony](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL. :star:1935
-    * [pydal](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer. :star:280
+    * [peewee](https://github.com/coleifer/peewee) - A small, expressive ORM. :star:6909
+    * [pony](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL. :star:1940
+    * [pydal](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer. :star:282
 * NoSQL Databases
     * [hot-redis](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis. :star:253
-    * [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB. :star:2911
-    * [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/). :star:1028
+    * [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB. :star:2923
+    * [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/). :star:1036
     * [redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis. :star:430
 
 ## Package Management
@@ -857,53 +857,53 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [pip](https://pip.pypa.io/en/stable/) - The Python package and dependency manager.
     * [PyPI](https://pypi.org/)
-    * [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh. :star:3631
-* [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager. :star:3194
+    * [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh. :star:3644
+* [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager. :star:3204
 
 ## Package Repositories
 
 *Local PyPI repository server and proxies.*
 
-* [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI). :star:2294
-* [bandersnatch](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA). :star:118
-* [devpi](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool. :star:317
+* [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI). :star:2299
+* [bandersnatch](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA). :star:119
+* [devpi](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool. :star:321
 * [localshop](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi). :star:355
 
 ## Permissions
 
 *Libraries that allow or deny users access to data or functionality.*
 
-* [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions for Django 1.2+ :star:2392
-* [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. :star:933
+* [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions for Django 1.2+ :star:2399
+* [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. :star:939
 
 ## Processes
 
 *Libraries for starting and communicating with OS processes.*
 
-* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) for Humans™ 2.0. :star:1391
+* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) for Humans™ 2.0. :star:1397
 * [sarge](https://sarge.readthedocs.io/en/latest/) - Yet another wrapper for subprocess.
-* [sh](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python. :star:5067
+* [sh](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python. :star:5076
 
 ## Queue
 
 *Libraries for working with event and task queues.*
 
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
-* [huey](https://github.com/coleifer/huey) - Little multi-threaded task queue. :star:2490
-* [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent. :star:776
-* [rq](https://github.com/rq/rq) - Simple job queues for Python. :star:5867
+* [huey](https://github.com/coleifer/huey) - Little multi-threaded task queue. :star:2513
+* [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent. :star:781
+* [rq](https://github.com/rq/rq) - Simple job queues for Python. :star:5880
 
 ## Recommender Systems
 
 *Libraries for building recommender systems.*
 
-* [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage. :star:6041
-* [fastFM](https://github.com/ibayer/fastFM) - A library for Factorization Machines. :star:776
-* [implicit](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets. :star:1653
-* [libffm](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM). :star:1303
-* [lightfm](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms. :star:2754
-* [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch. :star:1829
-* [Surprise](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems. :star:3495
+* [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage. :star:6067
+* [fastFM](https://github.com/ibayer/fastFM) - A library for Factorization Machines. :star:779
+* [implicit](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets. :star:1663
+* [libffm](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM). :star:1307
+* [lightfm](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms. :star:2765
+* [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch. :star:1838
+* [Surprise](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems. :star:3509
 * [tensorrec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow. :star:961
 
 ## RESTful API
@@ -914,35 +914,35 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit to build web APIs.
     * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 * Flask
-    * [eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions. :star:5837
+    * [eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions. :star:5851
     * [flask-api-utils](https://github.com/marselester/flask-api-utils) - Taking care of API representation and authentication for Flask. :star:52
     * [flask-api](http://www.flaskapi.org/) - Browsable Web APIs for Flask.
-    * [flask-restful](https://github.com/flask-restful/flask-restful) - Quickly building REST APIs for Flask. :star:5068
-    * [flask-restless](https://github.com/jfinkels/flask-restless) - Generating RESTful APIs for database models defined with SQLAlchemy. :star:996
+    * [flask-restful](https://github.com/flask-restful/flask-restful) - Quickly building REST APIs for Flask. :star:5086
+    * [flask-restless](https://github.com/jfinkels/flask-restless) - Generating RESTful APIs for database models defined with SQLAlchemy. :star:1000
 * Pyramid
     * [cornice](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid. :star:349
 * Framework agnostic
-    * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. :star:5331
+    * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. :star:5333
     * [falcon](http://falconframework.org/) - A high-performance framework for building cloud APIs and web app backends.
-    * [hug](https://github.com/timothycrosley/hug) - A Python 3 framework for cleanly exposing APIs. :star:5947
-    * [restless](https://github.com/toastdriven/restless) - Framework agnostic REST framework based on lessons learned from Tastypie. :star:769
+    * [hug](https://github.com/timothycrosley/hug) - A Python 3 framework for cleanly exposing APIs. :star:5959
+    * [restless](https://github.com/toastdriven/restless) - Framework agnostic REST framework based on lessons learned from Tastypie. :star:771
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs. :star:192
-    * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems. :star:2324
+    * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems. :star:2325
 
 ## Robotics
 
 *Libraries for robotics.*
 
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations. :star:6833
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations. :star:6919
 * [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## RPC Servers
 
 *RPC-compatible servers.*
 
-* [SimpleJSONRPCServer](https://github.com/joshmarshall/jsonrpclib/) - This library is an implementation of the JSON-RPC specification. :star:400
+* [SimpleJSONRPCServer](https://github.com/joshmarshall/jsonrpclib/) - This library is an implementation of the JSON-RPC specification. :star:401
 * [SimpleXMLRPCServer](https://docs.python.org/3/library/xmlrpc.server.html) - (Python standard library) Simple XML-RPC server implementation, single-threaded.
-* [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/). :star:2509
+* [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/). :star:2516
 
 ## Science
 
@@ -958,15 +958,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [NIPY](http://nipy.org) - A collection of neuroimaging toolkits.
 * [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
-* [ObsPy](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology. :star:554
+* [ObsPy](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology. :star:555
 * [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
-* [PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit. :star:4516
+* [PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit. :star:4529
 * [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 * [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 * [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
-* [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python. :star:4282
-* [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics. :star:6256
-* [Zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library. :star:9499
+* [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python. :star:4301
+* [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics. :star:6274
+* [Zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library. :star:9529
 * [SimPy](https://bitbucket.org/simpy/simpy) -  A process-based discrete-event simulation framework.
 
 ## Search
@@ -974,75 +974,75 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries and software for indexing and performing search queries on data.*
 
 * [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
-* [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch. :star:2604
-* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django. :star:2818
-* [pysolr](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/). :star:522
+* [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch. :star:2609
+* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django. :star:2825
+* [pysolr](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/). :star:524
 * [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
 
 ## Serialization
 
 *Libraries for serializing complex data types*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes. :star:4117
-* [pysimdjson](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson](https://github.com/lemire/simdjson). :star:180
-* [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON](https://github.com/Tencent/rapidjson). :star:336
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes. :star:4141
+* [pysimdjson](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson](https://github.com/lemire/simdjson). :star:181
+* [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON](https://github.com/Tencent/rapidjson). :star:341
 
 ## Serverless Frameworks
 
 *Frameworks for developing serverless Python code.*
 
-* [python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda. :star:1011
-* [Zappa](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway. :star:9753
+* [python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda. :star:1017
+* [Zappa](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway. :star:9782
 
 ## Specific Formats Processing
 
 *Libraries for parsing and manipulating specific text formats.*
 
 * General
-    * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML. :star:3544
+    * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML. :star:3545
 * Office
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
-    * [pyexcel](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files. :star:697
-    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files. :star:1881
-    * [python-pptx](https://github.com/scanny/python-pptx) - Python library for creating and updating PowerPoint (.pptx) files. :star:866
-    * [unoconv](https://github.com/unoconv/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice. :star:1649
-    * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files. :star:1995
-    * [xlwings](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa. :star:1487
-    * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files. :star:1684
+    * [pyexcel](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files. :star:700
+    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files. :star:1888
+    * [python-pptx](https://github.com/scanny/python-pptx) - Python library for creating and updating PowerPoint (.pptx) files. :star:876
+    * [unoconv](https://github.com/unoconv/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice. :star:1658
+    * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files. :star:1998
+    * [xlwings](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa. :star:1495
+    * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files. :star:1687
 * PDF
-    * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents. :star:3751
-    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages. :star:2763
+    * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents. :star:3764
+    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages. :star:2779
     * [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 * Markdown
-    * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown. :star:1594
-    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown. :star:1881
+    * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown. :star:1598
+    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown. :star:1885
 * YAML
     * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV. :star:3973
+    * [csvkit](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV. :star:3982
 * Archive
-    * [unp](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily. :star:346
+    * [unp](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily. :star:345
 
 ## Static Site Generator
 
 *Static site generator is a software that takes some text + templates as input and produces HTML files on the output.*
 
-* [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator. :star:8396
-* [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. :star:9102
-* [lektor](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine. :star:3142
-* [nikola](https://github.com/getnikola/nikola) - A static website and blog generator. :star:1771
+* [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator. :star:8436
+* [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. :star:9123
+* [lektor](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine. :star:3146
+* [nikola](https://github.com/getnikola/nikola) - A static website and blog generator. :star:1777
 
 ## Tagging
 
 *Libraries for tagging items.*
 
-* [django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for Django. :star:2238
+* [django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for Django. :star:2245
 
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
 
-* [Jinja2](https://github.com/pallets/jinja) - A modern and designer friendly templating language. :star:6532
+* [Jinja2](https://github.com/pallets/jinja) - A modern and designer friendly templating language. :star:6539
 * [Genshi](https://genshi.edgewall.org/) - Python templating toolkit for generation of web-aware output.
 * [Mako](http://www.makotemplates.org/) - Hyperfast and lightweight templating for the Python platform.
 
@@ -1052,39 +1052,39 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Testing Frameworks
     * [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    * [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library. :star:3812
-    * [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2. :star:583
-    * [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework. :star:3856
+    * [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library. :star:3836
+    * [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2. :star:584
+    * [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework. :star:3873
     * [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 * Test Runners
-    * [green](https://github.com/CleanCut/green) - A clean, colorful test runner. :star:618
+    * [green](https://github.com/CleanCut/green) - A clean, colorful test runner. :star:620
     * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     * [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 * GUI / Web Testing
-    * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. :star:11019
-    * [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings. :star:3110
+    * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. :star:11070
+    * [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings. :star:3126
     * [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     * [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework. :star:1590
-    * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications. :star:2089
+    * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications. :star:2093
 * Mock
     * [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
     * [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module. :star:2116
-    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+. :star:389
-    * [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python. :star:1725
-    * [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support. :star:159
-    * [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library. :star:2473
-    * [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests. :star:1522
+    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module. :star:2130
+    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+. :star:390
+    * [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python. :star:1731
+    * [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support. :star:161
+    * [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library. :star:2488
+    * [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests. :star:1531
 * Object Factories
-    * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python. :star:1929
-    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc. :star:627
-    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django. :star:942
+    * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python. :star:1934
+    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc. :star:629
+    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django. :star:944
 * Code Coverage
     * [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
 * Fake Data
-    * [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data. :star:2502
-    * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator. :star:1989
-    * [faker](https://github.com/joke2k/faker) - A Python package that generates fake data. :star:8550
+    * [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data. :star:2513
+    * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator. :star:1991
+    * [faker](https://github.com/joke2k/faker) - A Python package that generates fake data. :star:8579
     * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
 
 ## Text Processing
@@ -1092,52 +1092,52 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for parsing and manipulating plain texts.*
 
 * General
-    * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector. :star:1181
+    * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector. :star:1184
     * [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
-    * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically. :star:2538
-    * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching. :star:6092
-    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity. :star:701
+    * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically. :star:2543
+    * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching. :star:6117
+    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity. :star:702
     * [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing. :star:135
-    * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python. :star:523
-    * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音). :star:2130
-    * [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms. :star:1459
+    * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python. :star:525
+    * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音). :star:2151
+    * [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms. :star:1467
     * [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 * Slugify
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode. :star:428
-    * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII. :star:756
+    * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII. :star:757
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency. :star:285
 * Unique identifiers
-    * [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python. :star:976
-    * [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs. :star:1138
+    * [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python. :star:978
+    * [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs. :star:1142
 * Parser
-    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python. :star:1441
+    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python. :star:1448
     * [pygments](http://pygments.org/) - A generic syntax highlighter.
-    * [pyparsing](https://github.com/pyparsing/pyparsing) - A general purpose framework for generating parsers. :star:440
-    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components. :star:364
-    * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers. :star:2278
-    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser. :star:949
-    * [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser. :star:1790
+    * [pyparsing](https://github.com/pyparsing/pyparsing) - A general purpose framework for generating parsers. :star:444
+    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components. :star:366
+    * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers. :star:2282
+    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser. :star:957
+    * [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser. :star:1798
 
 ## Third-party APIs
 
 *Libraries for accessing third party services APIs. Also see [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/) - One Python library for all clouds.
-* [boto3](https://github.com/boto/boto3) - Python interface to Amazon Web Services. :star:4865
-* [django-wordpress](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django. :star:302
-* [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK. :star:2447
-* [google-api-python-client](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python. :star:2961
-* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API. :star:4333
-* [twython](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API. :star:1656
+* [boto3](https://github.com/boto/boto3) - Python interface to Amazon Web Services. :star:4887
+* [django-wordpress](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django. :star:303
+* [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK. :star:2450
+* [google-api-python-client](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python. :star:2977
+* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API. :star:4344
+* [twython](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API. :star:1660
 
 ## URL Manipulation
 
 *Libraries for parsing URLs.*
 
-* [furl](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy. :star:1684
+* [furl](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy. :star:1692
 * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation. :star:233
 * [pyshorteners](https://github.com/ellisonleao/pyshorteners) - A pure Python URL shortening lib. :star:236
-* [webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks. :star:887
+* [webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks. :star:891
 
 ## Video
 
@@ -1150,19 +1150,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *WSGI-compatible web servers.*
 
-* [bjoern](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C. :star:2067
-* [gunicorn](https://github.com/benoitc/gunicorn) - Pre-forked, partly written in C. :star:6171
+* [bjoern](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C. :star:2073
+* [gunicorn](https://github.com/benoitc/gunicorn) - Pre-forked, partly written in C. :star:6184
 * [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
-* [waitress](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid. :star:628
-* [werkzeug](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects. :star:4966
+* [waitress](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid. :star:634
+* [werkzeug](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects. :star:4978
 
 ## Web Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file. :star:2247
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django. :star:1328
-* [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django. :star:1345
+* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file. :star:2249
+* [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django. :star:1329
+* [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django. :star:1351
 * [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 * [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
 * [flask-assets](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app. :star:382
@@ -1172,41 +1172,41 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for extracting web contents.*
 
-* [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text. :star:774
-* [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans. :star:475
-* [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs. :star:451
-* [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python. :star:8687
-* [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool. :star:1685
-* [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans. :star:10267
-* [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages. :star:2072
-* [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc. :star:2657
-* [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs. :star:2899
+* [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text. :star:781
+* [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans. :star:476
+* [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs. :star:453
+* [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python. :star:8702
+* [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool. :star:1684
+* [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans. :star:10295
+* [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages. :star:2078
+* [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc. :star:2663
+* [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs. :star:2904
 
 ## Web Crawling
 
 *Libraries to automate web scraping.*
 
-* [cola](https://github.com/chineking/cola) - A distributed crawling framework. :star:1369
+* [cola](https://github.com/chineking/cola) - A distributed crawling framework. :star:1371
 * [feedparser](https://pythonhosted.org/feedparser/) - Universal feed parser.
-* [grab](https://github.com/lorien/grab) - Site scraping framework. :star:1829
-* [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites. :star:3321
-* [pyspider](https://github.com/binux/pyspider) - A powerful spider system. :star:13698
-* [robobrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser. :star:3367
+* [grab](https://github.com/lorien/grab) - Site scraping framework. :star:1834
+* [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites. :star:3323
+* [pyspider](https://github.com/binux/pyspider) - A powerful spider system. :star:13709
+* [robobrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser. :star:3369
 * [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
-* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy. :star:7287
+* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy. :star:7305
 
 ## Web Frameworks
 
 *Full stack web frameworks.*
 
 * [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-    * [awesome-django](https://github.com/shahraizali/awesome-django) :star:154
+    * [awesome-django](https://github.com/shahraizali/awesome-django) :star:159
 * [Flask](http://flask.pocoo.org/) - A microframework for Python.
-    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) :star:7808
-* [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework. :star:1086
+    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) :star:7851
+* [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework. :star:1102
 * [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-    * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) :star:471
-* [Sanic](https://github.com/channelcat/sanic) - Web server that's written to go fast. :star:12874
+    * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) :star:472
+* [Sanic](https://github.com/channelcat/sanic) - Web server that's written to go fast. :star:12898
 * [Vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
 * [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
 
@@ -1214,11 +1214,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with WebSocket.*
 
-* [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html). :star:2079
-* [crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn). :star:1685
-* [django-channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django. :star:4016
-* [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django. :star:1218
-* [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy. :star:1048
+* [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html). :star:2083
+* [crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn). :star:1687
+* [django-channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django. :star:4024
+* [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django. :star:1220
+* [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy. :star:1049
 
 # Services
 

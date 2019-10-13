@@ -136,7 +136,7 @@
 - [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 - [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js. :star:5
 - [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - Applying compositional pattern-producing networks to generate interesting visuals from audio data.
-- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes. :star:3
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes. :star:4
 
 ## Experiments on Codepen
 
@@ -166,22 +166,22 @@
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
 - [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery. :star:483
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
-- [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web. :star:2989
-- [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers. :star:1237
-- [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js. :star:438
+- [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web. :star:2994
+- [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers. :star:1238
+- [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js. :star:439
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data. :star:29
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals :star:134
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:749
+- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files. :star:753
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
   
 
 ## Libraries Visualization
 
 - [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-- [Pixi.js](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL. :star:27305
+- [Pixi.js](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL. :star:27383
 - [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 - [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 - [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
@@ -191,7 +191,7 @@
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input. :star:141
-- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:412
+- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input). :star:413
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 - [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations. :star:280
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.

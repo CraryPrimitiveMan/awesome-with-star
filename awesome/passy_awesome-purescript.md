@@ -26,20 +26,20 @@ CSS:
 
 React-based:
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:333
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`. :star:334
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript :star:315
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases. :star:164
 - [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`. :star:64
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript. :star:547
-- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:124
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript. :star:125
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others. :star:147
-- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:107
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations! :star:108
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals. :star:115
 - [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs. :star:79
 
 Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:1002
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library. :star:1006
 
 Signals/Behaviors/FRP:
 
@@ -56,7 +56,7 @@ Signals/Behaviors/FRP:
 - [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript. :star:77
 - [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor. :star:18
 - [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript. :star:31
-- [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:4
+- [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all! :star:5
 
 ## Components
 
@@ -81,7 +81,7 @@ Signals/Behaviors/FRP:
 ## Json Serialization
 
 - [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - Json encoding and decoding typeclasses. :star:38
-- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Json encoding and decoding through Generics. :star:101
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Json encoding and decoding through Generics. :star:102
 
 ## Binary Serialization
 
@@ -99,7 +99,7 @@ Signals/Behaviors/FRP:
 
 - [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) :star:207
+- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) :star:212
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)

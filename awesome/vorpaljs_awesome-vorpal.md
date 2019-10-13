@@ -20,7 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Chat](https://gitter.im/dthree/vorpal)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
-- [Wiki](https://github.com/dthree/vorpal/wiki) :star:5172
+- [Wiki](https://github.com/dthree/vorpal/wiki) :star:5175
 
 ## Tutorials
 
@@ -41,12 +41,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI. :star:383
 - [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.* :star:100
 - [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI. :star:83
-- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:428
+- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library. :star:429
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI. :star:7
 - [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy. :star:26
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes. :star:64
-- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3446
+- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app. :star:3447
 - [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI. :star:27
 - [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV. :star:23
 - [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more :star:24

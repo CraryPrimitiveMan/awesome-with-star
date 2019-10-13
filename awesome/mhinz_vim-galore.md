@@ -2393,13 +2393,11 @@ profile.
 
 If you want to profile _everything_, do this:
 
-```
-:profile start /tmp/profile.log
-:profile file *
-:profile func *
-<do something in Vim>
-<quit Vim>
-```
+    :profile start /tmp/profile.log
+    :profile file *
+    :profile func *
+    <do something in Vim>
+    :qa
 
 Vim keeps the profiling information in memory and only writes it out to the
 logfile on exit. (Neovim has fixed this using `:profile dump`).
@@ -2407,11 +2405,15 @@ logfile on exit. (Neovim has fixed this using `:profile dump`).
 Have a look at `/tmp/profile.log`. All code that was executed during profiling
 will be shown. Every line, how often it was executed and how much time it took.
 
-Most of the time that will be plugin code the user isn't familiar with, but if
-you're investigating a certain issue, jump to the bottom of the log. Here are
-two different sections `FUNCTIONS SORTED ON TOTAL TIME` and `FUNCTIONS SORTED ON
-SELF TIME` that are worth gold. At a quick glance you can see, if a certain
-function is taking too long.
+Jump to the bottom of the log. Here are two different sections `FUNCTIONS SORTED
+ON TOTAL TIME` and `FUNCTIONS SORTED ON SELF TIME` that are worth gold. At a
+quick glance you can see which functions are taking the longest.
+
+You can use `:profile` during startup as well:
+
+    $ vim --cmd 'prof start prof.log | prof file * | prof func *' test.c
+    :q
+    $ tail -50 prof.log
 
 ## Debugging Vim scripts
 
@@ -2524,9 +2526,9 @@ Anyway, if you know what you're doing, you might draw some inspiration from
 looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
-- [janus](https://github.com/carlhuda/janus.git) :star:7737
-- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:12184
-- [spf13](https://github.com/spf13/spf13-vim) :star:14038
+- [janus](https://github.com/carlhuda/janus.git) :star:7740
+- [spacevim](https://github.com/SpaceVim/SpaceVim) :star:12246
+- [spf13](https://github.com/spf13/spf13-vim) :star:14042
 
 ## Standard plugins
 

@@ -124,18 +124,18 @@ Contributions most welcome.
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:41989
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused :star:42111
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:1196
+* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning :star:1205
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
-* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data :star:2407
-* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data :star:846
-* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences :star:981
-* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences :star:297
-* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences :star:208
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data :star:2425
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data :star:856
+* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences :star:990
+* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences :star:304
+* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences :star:212
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks. :star:1
 
 ## Organizations

@@ -41,13 +41,13 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata21: Simple Lists](http://codekata.com/kata/kata21-simple-lists/)
 
 ## [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
-  - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) :star:693
-  - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) :star:693
-  - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) :star:693
-  - [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) :star:693
-  - [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) :star:693
-  - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) :star:693
-  - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) :star:693
+  - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) :star:695
+  - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) :star:695
+  - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) :star:695
+  - [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) :star:695
+  - [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) :star:695
+  - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) :star:695
+  - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) :star:695
 
 ## [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas)
   - [Kata 1: (Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
@@ -57,21 +57,21 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
 
 ## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
-  - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata) :star:579
-  - [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove) :star:579
-  - [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob) :star:579
-  - [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata) :star:579
-  - [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata) :star:579
-  - [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob) :star:579
-  - [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-) :star:579
-  - [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-) :star:579
-  - [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-) :star:579
-  - [Leap Year](https://github.com/garora/TDD-Katas#leap-year-) :star:579
-  - [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-) :star:579
-  - [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands) :star:579
-  - [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-) :star:579
-  - [Reversi](https://github.com/garora/TDD-Katas#reversi-) :star:579
-  - [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-) :star:579
+  - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata) :star:580
+  - [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove) :star:580
+  - [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob) :star:580
+  - [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata) :star:580
+  - [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata) :star:580
+  - [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob) :star:580
+  - [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-) :star:580
+  - [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-) :star:580
+  - [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-) :star:580
+  - [Leap Year](https://github.com/garora/TDD-Katas#leap-year-) :star:580
+  - [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-) :star:580
+  - [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands) :star:580
+  - [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-) :star:580
+  - [Reversi](https://github.com/garora/TDD-Katas#reversi-) :star:580
+  - [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-) :star:580
   - [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ## Others
@@ -83,7 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) :star:12
   - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
   - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:160
+  - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) :star:161
   - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
   - [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
   - [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
@@ -92,10 +92,10 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) :star:24
   - [incremental_katas](https://github.com/Gianfrancoalongi/incremental_katas) :star:51
   - [CLI Arguments Parser Kata](https://github.com/ivoputzer/cli-args-parser-kata) :star:5
-  - [Git katas](https://github.com/praqma-training/gitkatas) :star:217
+  - [Git katas](https://github.com/praqma-training/gitkatas) :star:220
   - [Pdt256 katas (php, go, python, java, haskell, typescript)](https://github.com/pdt256/kata) :star:4
   - [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata) :star:9
-  - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) :star:1901
+  - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) :star:1908
   
 ## Contribution
   

@@ -34,7 +34,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala] - lightweight real-time distributed streaming engine built on Akka.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java] - A general purpose distributed data processing engine, built on top of Hazelcast.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
-- [heron](https://github.com/apache/incubator-heron) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter. :star:3406
+- [heron](https://github.com/apache/incubator-heron) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter. :star:3404
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure] - Distributed, masterless, high performance, fault tolerant data processing.
 - [s4](https://github.com/apache/incubator-s4) [Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
@@ -71,7 +71,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 
 ### DSL
 
-- [Apache Beam](https://github.com/apache/beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+- [Apache Beam](https://github.com/apache/beam) [Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 - [coast](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
 - [Esper](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
 - [Streamparse](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
@@ -129,6 +129,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 
 - [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/) [Java] - real-time, fully managed and scalable data stream engine provided by AWS. 
 - [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) [.NET] a massively scalable, fully managed, real-time, data stream engine provided by Microsoft Azure.
+- [Cloud Dataflow](https://cloud.google.com/dataflow/)[Java, Python, SQL, Scala] - Google's managed stream and batch data processing engine. Supports running Beam pipelines.
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C++] - a distributed stream processing framework built in C++ on top of Apache.
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) [Python/Java/Scala] - platform for distributed processing and real-time analytics. Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
 - [jubatus](http://jubat.us/en/) [C++] - distributed processing framework and streaming machine learning library.

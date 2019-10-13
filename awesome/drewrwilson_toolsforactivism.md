@@ -48,14 +48,14 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  
  ## Browsers:
 
- * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:3
+ * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. :star:6
 
 ## Projects to keep an eye on (ie projects in development)
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches :star:31
- * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil :star:11
+ * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil :star:12
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign :star:8
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese. :star:113
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 

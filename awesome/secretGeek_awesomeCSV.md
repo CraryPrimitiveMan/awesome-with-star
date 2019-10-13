@@ -36,10 +36,10 @@ Here are some awesome tools for dealing with CSV:
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values. :star:228
 - [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-- [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust. :star:4818
+- [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust. :star:4837
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
-- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk. :star:8823
+- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk. :star:8835
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
 - [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second. :star:1027
 - [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV. :star:45
@@ -48,19 +48,20 @@ Here are some awesome tools for dealing with CSV:
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 - [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) - Powerful in-built facility for dealing with CSV ([example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
 - [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
-- [graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data. :star:641
+- [graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data. :star:640
 - [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV. :star:66
 - [csvprintf](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files. :star:24
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
 - [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
-- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors. :star:222
+- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors. :star:223
 
 ### Repair or Validate CSV
 
-- [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180. :star:80
+- [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180. :star:81
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust) :star:33
+- [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs :star:15
 
 ## Generate Table Schema
 
@@ -78,7 +79,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Convert to or from CSV
 
-- [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table. :star:780
+- [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table. :star:781
 
 ### CSV <-> JSON
 
@@ -106,7 +107,7 @@ Here are some awesome tools for dealing with CSV:
 - [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 - [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. :star:35422
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. :star:35544
 
 ## Conferences
 
@@ -123,10 +124,12 @@ Here are some awesome tools for dealing with CSV:
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
+- [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
+- [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
 ## META: Other similar lists
 
-- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc. :star:5108
+- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc. :star:5112
 - [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 - [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 

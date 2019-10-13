@@ -255,7 +255,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23738
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/)). :star:23801
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3. :star:84
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux. :star:27
 
@@ -267,7 +267,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library. :star:57
 * [SeiON](https://github.com/cardin/SeiON) - Sound Management Library. :star:9
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)- Upgraded version of the Sound Manager Class from Matt Przybylski.
-* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10. :star:72
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10. :star:73
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript. :star:5
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer. :star:95
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV. :star:246
@@ -277,7 +277,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:276
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web. :star:275
 * [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3. :star:18
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player. :star:103
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player. :star:115
@@ -419,7 +419,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### XLSX
 
-* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (.XLSX) or Open Office spreadsheets. :star:41
+* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (.XLSX) or Open Office spreadsheets. :star:42
 
 
 ## Networking
@@ -520,7 +520,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders. :star:76
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched)). :star:92
-* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1497
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization. :star:1498
 * [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages. :star:47
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more. :star:9
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions. :star:1
@@ -562,7 +562,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:454
+* [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles. :star:455
 * [Commodore 64 Emulator](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3. :star:61
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor. :star:5
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript. :star:4

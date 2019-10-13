@@ -135,7 +135,7 @@ Often there is no clear differentiation between social media management and anal
 
 ## Analytics dashboards
 
-* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:5745
+* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. :star:5748
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution

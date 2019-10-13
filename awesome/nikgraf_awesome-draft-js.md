@@ -5,14 +5,14 @@
 
 **Table of Contents**
 
-- [Community](https://github.com/nikgraf/awesome-draft-js#community) :star:1955
-- [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations) :star:1955
-- [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs) :star:1955
-- [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities) :star:1955
-- [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles) :star:1955
-- [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos) :star:1955
-- [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production) :star:1955
-- [License](https://github.com/nikgraf/awesome-draft-js#license) :star:1955
+- [Community](https://github.com/nikgraf/awesome-draft-js#community) :star:1962
+- [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations) :star:1962
+- [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs) :star:1962
+- [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities) :star:1962
+- [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles) :star:1962
+- [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos) :star:1962
+- [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production) :star:1962
+- [License](https://github.com/nikgraf/awesome-draft-js#license) :star:1962
 
 ## Community
 
@@ -30,20 +30,20 @@
 
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips. :star:425
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - A Rich text editor inspired by Medium & Facebook Notes. :star:132
-* [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE. :star:2129
+* [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE. :star:2134
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes. :star:218
-* [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:818
-* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1420
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:3665
-* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:644
-* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:208
+* [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility. :star:824
+* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts. :star:1428
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation. :star:3689
+* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs. :star:646
+* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins. :star:207
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notations editor. :star:75
-* [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail. :star:243
-* [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor :star:2491
+* [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail. :star:245
+* [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor :star:2508
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:3281
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js :star:3288
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation. :star:59
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type. :star:37
@@ -88,11 +88,11 @@
 
 ## Common Utilities
 
-* [BackDraft.js](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string. :star:41
+* [BackDraft.js](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string. :star:42
 * [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js. :star:32
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - Export ContentState to HTML. :star:674
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - Export ContentState to HTML. :star:676
 * [Draft.js: Export ContentState to PDFMake](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake. :star:7
-* [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React :star:206
+* [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React :star:207
 * [Draft.js exporter (Ruby)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML. :star:16
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML :star:48
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST). :star:30
@@ -100,11 +100,11 @@
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators. :star:28
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators. :star:19
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS. :star:183
-* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content. :star:178
-* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML. :star:341
-* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content. :star:87
+* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content. :star:180
+* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML. :star:342
+* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content. :star:88
 * [Draft.js Exporter (Go)](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML. :star:17
-* [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model. :star:311
+* [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model. :star:312
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) - Filter Draft.js content to preserve only the formatting you allow. :star:27
 * [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application :star:5
 
@@ -121,7 +121,7 @@
 * [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
 ## Live Demos
-* [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs) :star:49
+* [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs) :star:50
 * [Draftail Playground](https://draftail-playground.herokuapp.com/) – Wagtail’s Draft.js dependencies as a standalone demo.
 * [Draft drag and drop demo for mobile browser](https://github.com/jan4984/draft-dnd-example) :star:11
 

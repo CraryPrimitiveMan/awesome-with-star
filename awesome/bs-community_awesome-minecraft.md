@@ -47,7 +47,7 @@
 
 ### Mod Loader
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3366
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. :star:3384
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place. :star:24
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent. :star:4
@@ -85,7 +85,7 @@
 ### Energy
 
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
-- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:635
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. :star:636
 
 ### Tweaking
 
@@ -111,8 +111,8 @@
 
 ### Launchers
 
-- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:1056
-- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1650
+- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once. :star:1064
+- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features. :star:1660
 
 ## Development
 

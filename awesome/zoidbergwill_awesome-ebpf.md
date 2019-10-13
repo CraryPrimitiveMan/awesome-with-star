@@ -41,7 +41,7 @@ BPF, as in _Berkeley Packet Filter_, is an in-kernel virtual machine running pro
 
 ### Other
 
-- [IO Visor's Unofficial eBPF spec](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md) - Summary of eBPF syntax and operation codes. :star:398
+- [IO Visor's Unofficial eBPF spec](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md) - Summary of eBPF syntax and operation codes. :star:400
 - [Jesper Dangaard Brouer's documentation](https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html) - Work in progress, contributions welcome.
 - Emails from David Miller to the [xdp-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) mailing list:
 
@@ -49,7 +49,7 @@ BPF, as in _Berkeley Packet Filter_, is an in-kernel virtual machine running pro
   - [Contextually speaking...](https://www.spinics.net/lists/xdp-newbies/msg00181.html)
   - [BPF Verifier Overview](https://www.spinics.net/lists/xdp-newbies/msg00185.html)
 
-- [List of BPF features per kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md) :star:7593
+- [List of BPF features per kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md) :star:7745
 
 ## Articles and Presentations
 
@@ -66,7 +66,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [Ferris Ellis's blog posts about eBPF](https://ferrisellis.com/tags/ebpf/) - They have a few posts about eBPF:
   - [Part 1: Past, Present, and Future](https://ferrisellis.com/content/ebpf_past_present_future/)
   - [Part 2: Syscall and Map Types](https://ferrisellis.com/content/ebpf_syscall_and_maps/)
-- [A BPF reference guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - About BPF C and bcc Python helpers, from bcc repository. :star:7593
+- [A BPF reference guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - About BPF C and bcc Python helpers, from bcc repository. :star:7745
 - [Making the Kernel's Networking Data Path Programmable with BPF and XDP](http://schd.ws/hosted_files/ossna2017/da/BPFandXDP.pdf) - A set of slides covering all the basics about eBPF and XDP (mostly for network processing).
 - [The BSD Packet Filter](https://speakerdeck.com/tuxology/the-bsd-packet-filter) - An introduction mostly covering the tracing aspects.
 - [BPF: tracing and more](http://www.slideshare.net/brendangregg/bpf-tracing-and-more) - An introduction mostly covering the tracing aspects.
@@ -156,25 +156,25 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ## Tutorials
 
-- [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring. :star:7593
-- [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - Comes with bcc, but targets the Python bits across seventeen "lessons". :star:7593
-- [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) - Involves the use of several BPF tools for tracing. :star:722
+- [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring. :star:7745
+- [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - Comes with bcc, but targets the Python bits across seventeen "lessons". :star:7745
+- [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) - Involves the use of several BPF tools for tracing. :star:727
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) - Troubleshooting ping requests and replies with perf and bcc programs.
 - [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) - Operated by Netronome: some tutorials for network-related eBPF use cases, including an eBPF Offload Starting Guide.
 - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek) - First edition of a workshop to get started with XDP.
 - [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) - Second edition, with new contents.
 - [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
-- [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP. :star:181
+- [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP. :star:188
 
 ## Examples
 
 - [linux/samples/bpf/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/samples/bpf) - In the kernel tree: some sample eBPF programs.
 - [linux/tools/testing/selftests/bpf](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/testing/selftests/bpf) - In the kernel tree: Linux BPF selftests, with many eBPF programs.
-- [prototype-kernel/kernel/samples/bpf](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure. :star:169
+- [prototype-kernel/kernel/samples/bpf](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure. :star:171
 - [iproute2/examples/bpf/](https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf) - Some networking programs to attach to the TC interface.
 - [Netronome sample network applications](https://github.com/Netronome/bpf-samples/) - Provides basic but complete examples of eBPF applications also compatible with hardware offload. :star:57
-- [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing. :star:7593
-- [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions. :star:7593
+- [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing. :star:7745
+- [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions. :star:7745
 - [MPLSinIP sample](https://github.com/fzakaria/eBPF-mpls-encap-decap) - A heavily commented sample demonstrating how to encapsulate & decapsulate MPLS within IP. The code is commented for those new to BPF development. :star:3
 - [ebpf-samples](https://github.com/vbpf/ebpf-samples) - A collection of compiled (as ELF object files) samples gathered from several projects, primarily intended to serve as test cases for user space verifiers. :star:5
 
@@ -182,9 +182,9 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### bcc
 
-- [bcc](https://github.com/iovisor/bcc/) - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system. :star:7593
-- [P4 compiler for BPF targets for bcc](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4/compiler) - An alternative to the restricted C. :star:7593
-- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc. :star:7593
+- [bcc](https://github.com/iovisor/bcc/) - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system. :star:7745
+- [P4 compiler for BPF targets for bcc](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4/compiler) - An alternative to the restricted C. :star:7745
+- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc. :star:7745
 
 ### iproute2
 
@@ -222,7 +222,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 ### Testing in Virtual Environments
 
 - [A Vagrant setup](https://github.com/iovisor/xdp-vagrant) - To easily test XDP. Less useful now that generic XDP (driver-independant, mostly for testing) exists. :star:46
-- [bcc in a Docker container](https://github.com/zlim/bcc-docker) :star:13
+- [bcc in a Docker container](https://github.com/zlim/bcc-docker) :star:14
 
 ## Projects Related to eBPF
 
@@ -231,8 +231,8 @@ If you are new to eBPF, you may want to try the links described as "introduction
   - [P4 on the Edge](https://schd.ws/hosted_files/2016p4workshop/1d/Intel%20Fastabend-P4%20on%20the%20Edge.pdf) - P4 with eBPF to create high-performance programmable switches.
   - [OvS Orbit episode (#11), called P4 on the Edge](https://ovsorbit.org/#e11) - Related to the former item. Audio interview of John Fastabend by Ben Pfaff, one of the core maintainers of Open vSwitch.
   - [P4, EBPF and Linux TC Offload](https://open-nfp.org/m/documents/Open_NFP_P4_EBPF_Linux_TC_Offload_FINAL_5JHLETS.pdf) - P4 with some elements related to eBPF hardware offload on Netronome's NFP (Network Flow Processor) architecture.
-  - [Old documentation for P4 usage with eBPF](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4) - From bcc repository; deprecated by the P4_16 backend linked below. :star:7593
-  - [P4_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md) :star:203
+  - [Old documentation for P4 usage with eBPF](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4) - From bcc repository; deprecated by the P4_16 backend linked below. :star:7745
+  - [P4_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md) :star:205
 
 - Cilium project ([GitHub repository](https://github.com/cilium/cilium)) is a technology relying on BPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
 
@@ -257,20 +257,20 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - Suricata, an open source intrusion detection system, [relies on eBPF components](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/) for its "capture bypass" features:
 
   - ["eBPF and XDP" section of Suricata documentation](http://suricata.readthedocs.io/en/latest/capture-hardware/ebpf-xdp.html?highlight=XDP#ebpf-and-xdp)
-  - [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Extreme Performance Tuning guide - Mark II. :star:54
+  - [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Extreme Performance Tuning guide - Mark II. :star:55
   - [A blog post introducing the feature](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/)
   - [The adventures of a Suricate in eBPF land](http://netdevconf.org/1.2/slides/oct6/10_suricata_ebpf.pdf)
   - [eBPF and XDP seen from the eyes of a meerkat](https://www.slideshare.net/ennael/kernel-recipes-2017-ebpf-and-xdp-eric-leblond)
 
-- [Sysdig](https://github.com/draios/sysdig) - A tool for "universal system visibility with native support for containers", now supports eBPF. :star:5803
-- [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf) :star:398
+- [Sysdig](https://github.com/draios/sysdig) - A tool for "universal system visibility with native support for containers", now supports eBPF. :star:5848
+- [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf) :star:400
 - [gobpf - utilizing eBPF from Go](https://fosdem.org/2017/schedule/event/go_bpf/) - A library to create, load and use eBPF programs from Go.
 - [ply](https://wkz.github.io/ply/) - A small but flexible open source dynamic tracer for Linux, with features similar to the bcc tools, but with a simpler language inspired by awk and DTrace.
-- [bpftrace](https://github.com/iovisor/bpftrace) - A tool for tracing, again with its own DSL. It is flexible enough to be envisioned as a Linux replacement for DTrace and SystemTap. :star:1920
-- [kubectl trace](https://github.com/iovisor/kubectl-trace) - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster. :star:688
-- [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware. :star:337
+- [bpftrace](https://github.com/iovisor/bpftrace) - A tool for tracing, again with its own DSL. It is flexible enough to be envisioned as a Linux replacement for DTrace and SystemTap. :star:1940
+- [kubectl trace](https://github.com/iovisor/kubectl-trace) - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster. :star:705
+- [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware. :star:339
 - [BPFd](https://github.com/joelagnel/bpfd) - A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android. :star:64
-- [adeb](https://github.com/joelagnel/adeb) - A Linux shell environment for using tracing tools on Android with BPFd. :star:59
+- [adeb](https://github.com/joelagnel/adeb) - A Linux shell environment for using tracing tools on Android with BPFd. :star:60
 - [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - Considers using eBPF.
 - [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - Helps with measuring power consumption for servers and uses eBPF programs for in-kernel aggregation of data.
 
@@ -299,12 +299,12 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
 - [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF is at the heart of the project, and is regularly discussed on the mailing list.
 - [@IOVisor Twitter account](https://twitter.com/IOVisor)
-- [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP. :star:63
+- [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP. :star:64
 
 ## Other Lists of Resources on eBPF
 
-- [IO Visor's bcc documentation](https://github.com/iovisor/bcc/tree/master/docs) :star:7593
-- [IO Visor's bpf-docs repository](https://github.com/iovisor/bpf-docs/) :star:398
+- [IO Visor's bcc documentation](https://github.com/iovisor/bcc/tree/master/docs) :star:7745
+- [IO Visor's bpf-docs repository](https://github.com/iovisor/bpf-docs/) :star:400
 - [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 
 ## Acknowledgement

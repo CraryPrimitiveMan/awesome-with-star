@@ -77,7 +77,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math) :star:437
+* [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math) :star:439
 
 ## Youtube Series
 
@@ -97,6 +97,7 @@ A curated list of awesome mathematics resources.
 * [Wolfram Alpha](http://www.wolframalpha.com/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
+* [Unit Converter](https://unitconverter.net)
 
 ## Questions and Answers
 
@@ -195,6 +196,7 @@ A curated list of awesome mathematics resources.
 * [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* [Elementary Number Theory](https://napocaro.files.wordpress.com/2015/02/david_m-_burton_elementary_number_theory_sixth_bookfi-org.pdf) - David M. Burton
 
 ### Algebraic Number Theory
 
@@ -243,7 +245,7 @@ A curated list of awesome mathematics resources.
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper :star:305
+* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper :star:307
 * [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - Jim Hefferon
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
@@ -427,7 +429,7 @@ A curated list of awesome mathematics resources.
 * [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
-* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley) :star:1817
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley) :star:1818
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 * [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 

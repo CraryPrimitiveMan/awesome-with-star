@@ -572,7 +572,7 @@ on the code here.
 
 ## Related Resources
 
-- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) :star:338
+- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) :star:340
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
@@ -581,7 +581,7 @@ on the code here.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:498
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:499
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -

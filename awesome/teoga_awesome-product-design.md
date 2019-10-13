@@ -140,7 +140,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
 - [Find Guidelines](http://findguidelin.es/) - The fastest way to brand assets.
 - [Style Guides](http://styleguides.io/) - Website Style Guide Resources.
-- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between. :star:9879
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between. :star:9912
 - [Instant Logo Search](http://instantlogosearch.com/) - Search & download thousands of logos instantly.
 - [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither. :star:711
@@ -191,7 +191,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [The 12 Principles](http://the12principles.tumblr.com/) - The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios.
 - [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
 - [Microinteractions](http://microinteractions.com/) - Designing with Details.
-- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions. :star:592
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions. :star:593
 #### Softwares
 - [Pop](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 - [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
@@ -234,7 +234,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 - [YouGov](https://yougov.com/) - We believe in the power of participation.
 - [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-- [The Tate Collection](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks. :star:409
+- [The Tate Collection](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks. :star:410
 - [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## IoT

@@ -17,8 +17,8 @@
 
 ## Food-related projects
 
-- [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:398
-- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:244
+- [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:399
+- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:245
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:299
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:7
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI. :star:11
@@ -39,9 +39,9 @@
 - [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
 - [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes. :star:31
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes. :star:7
-- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1168
+- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1170
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free. :star:6
-- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2428
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2431
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:29
 
 ## API for Food services
@@ -52,7 +52,7 @@
   Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 - [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.
 - [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
-- [node-ubereats](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats. :star:4
+- [node-ubereats](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats. :star:5
 - [node-simplefeast](https://github.com/jzarca01/node-simplefeast) - An API Wrapper for the app Simple Feast.
 
 ### Only available for French market
