@@ -44,9 +44,9 @@ A curated list of awesome Dash (plotly) resources
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
-- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components. :star:19667
-- [Awesome React](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components. :star:33794
-- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:168
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components. :star:19759
+- [Awesome React](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components. :star:33874
+- [Dash Core Components](https://github.com/plotly/dash-core-components) :star:169
 - [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
 - [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 - [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
@@ -55,7 +55,7 @@ A curated list of awesome Dash (plotly) resources
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash. :star:60
 - [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component. :star:1
 - [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable.
-- [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django. :star:13
+- [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django. :star:12
 - [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash. :star:7
 - [dash-color-picker](https://github.com/vivekvs1/dash-color-picker) - Wrapper around react-color. :star:1
 - [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist. :star:7
@@ -77,11 +77,11 @@ A curated list of awesome Dash (plotly) resources
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents) :star:4
 
 ## Idiomatic examples
-- [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community. :star:512
+- [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community. :star:517
 
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
-- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:512
+- [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community. :star:517
 
 ## Talks
 - [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) - Chelsea Douglas, PyData DC 2018.

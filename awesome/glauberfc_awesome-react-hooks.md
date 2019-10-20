@@ -54,9 +54,9 @@ A curated list about React Hooks.
 
 ## Discussions
 
-- [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson. :star:18161
-- [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge. :star:2507
-- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos. :star:81748
+- [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson. :star:18213
+- [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge. :star:2511
+- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos. :star:81949
 
 ## Examples
 
@@ -64,9 +64,9 @@ A curated list about React Hooks.
 - [React Hooks counter](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js) - Counter using useState of React Hooks.
 - [Toggle component](https://codesandbox.io/s/m449vyk65x) - Toggle component made with React Hooks.
 - [Hooks test](https://github.com/jacobp100/hooks-test) - Somewhat complicated use case solved relatively nicely with React Hooks. :star:202
-- [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example. :star:1331
-- [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use. :star:348
-- [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1368
+- [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example. :star:1336
+- [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use. :star:356
+- [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1377
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by [Gabe Ragland](https://twitter.com/gabe_ragland).
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) - Collection of React Hooks.
 - [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
@@ -76,23 +76,23 @@ A curated list about React Hooks.
 
 ## Extensions/Libraries
 
-- [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store. :star:1885
-- [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. :star:7922
-- [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations. :star:3823
+- [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store. :star:1889
+- [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. :star:8065
+- [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations. :star:3828
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) - This plugin enforce rule of hooks to avoid common mistakes.
-- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks. :star:221
-- [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state. :star:667
-- [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7. :star:1331
-- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase. :star:719
+- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks. :star:226
+- [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state. :star:674
+- [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7. :star:1336
+- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase. :star:733
 - [react-intersection-visible-hook](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer. :star:43
 - [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer. :star:19
-- [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components. :star:1340
+- [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components. :star:1350
 - [react-with-hooks](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API. :star:155
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid. :star:13
-- [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests. :star:968
-- [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API. :star:95
+- [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests. :star:974
+- [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API. :star:100
 - [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes. :star:1042
-- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation. :star:2920
+- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation. :star:3193
 
 ## License
 

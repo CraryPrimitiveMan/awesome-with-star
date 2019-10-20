@@ -41,7 +41,7 @@
 - [Adafruit IO MQTT API Cookbook](https://io.adafruit.com/api/docs/cookbook.html#adafruit-io-api-cookbook) - Recipes related to the Adafruit IO API which have been found useful in the past.
 - [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO. :star:89
 - [Adafruit IO CircuitPython Library](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO) - A CircuitPython client for Adafruit IO. :star:8
-- [Adafruit IO Python Library](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO. :star:140
+- [Adafruit IO Python Library](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO. :star:141
 - [Adafruit IO Ruby Library](https://github.com/adafruit/io-client-ruby) - A Ruby client for Adafruit IO. :star:24
 - [Adafruit IO Node.js Library](https://github.com/adafruit/adafruit-io-node) - A Node.js Adafruit IO client, local server, and TLS Tunnel. :star:88
 - [Adafruit IO Go Library](https://github.com/adafruit/io-client-go) - A Go client for Adafruit IO. :star:10

@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16925
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1474
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5147
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:16957
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1476
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5151
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
@@ -63,11 +63,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:241
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:243
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6013
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6029
 
 [More...](https://testanything.org/producers.html)
 
@@ -79,7 +79,7 @@ Things that consume TAP output.
 ### JavaScript
 
 - [tap-parser](https://github.com/substack/tap-parser) - TAP parser. :star:95
-- [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:21
+- [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser. :star:22
 - [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser. :star:20
 
 [More...](https://testanything.org/consumers.html)

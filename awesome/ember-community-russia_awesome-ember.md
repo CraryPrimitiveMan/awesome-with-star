@@ -174,7 +174,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API. :star:36
 - [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer. :star:22
-- [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit. :star:4672
+- [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit. :star:4687
 - [dyfactor](https://github.com/dyfactor/dyfactor) - A platform for running codemods based on runtime information. :star:8
 
 ### a11y
@@ -183,7 +183,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember.js applications. :star:5
 - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember.js addon to help with landmark roles for better accessibility. :star:12
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember.js applications. :star:79
-- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember.js components that help you manage the currently focused element. :star:20
+- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember.js components that help you manage the currently focused element. :star:21
 - [ember-gestures](https://github.com/html-next/ember-gestures) - Ember.js gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app. :star:156
 - [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more. :star:3
 - [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management for Ember.js Apps. :star:165
@@ -201,10 +201,10 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data. :star:244
 - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data. :star:7
 - [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data. :star:135
-- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage. :star:207
-- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data. :star:274
+- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage. :star:208
+- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data. :star:275
 - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress. :star:88
-- [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase. :star:659
+- [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase. :star:661
 - [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript. :star:30
 
 ### Animations
@@ -216,7 +216,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
 - [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications. :star:1868
-- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js. :star:766
+- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js. :star:767
 
 ### Automation
 
@@ -234,7 +234,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Blogging
 
-- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.js. :star:131
+- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.js. :star:132
 - [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI. :star:88
 - [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember.js Addon for integrating a Tumblr blog. :star:9
 
@@ -269,7 +269,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Build tools
 
-- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions. :star:3242
+- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions. :star:3249
 
 ### Charts
 
@@ -334,13 +334,13 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer. :star:101
 - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths. :star:274
 - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory. :star:64
-- [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components. :star:538
+- [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components. :star:539
 - [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli. :star:79
 - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications. :star:249
 - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces. :star:95
 - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js. :star:10
-- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets. :star:6099
-- [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass. :star:708
+- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets. :star:6100
+- [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass. :star:709
 
 ### Fonts
 - [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process. :star:19
@@ -363,9 +363,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL. :star:224
 - [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js. :star:5
-- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js. :star:280
-- [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues. :star:119
-- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model. :star:48
+- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js. :star:282
+- [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues. :star:120
+- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model. :star:49
 - [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
 ### Data manipulation & Computed
@@ -399,12 +399,12 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember.js applications. :star:85
 - [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - Command to generate a route map of your Ember.js application. :star:13
 - [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data. :star:16
-- [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps. :star:2536
+- [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps. :star:2558
 - [ember-dead-code](https://github.com/buschtoens/ember-dead-code) - Detect dead code with confidence via real user monitoring. :star:3
 
 ### Documentation
 
-- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember.js addon. :star:150
+- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember.js addon. :star:151
 - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember.js CLI addon to generate HTML documentation from JSDoc comments in the source code. :star:21
 - [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember-freestyle is an Ember.js addon that allows you to quickly create a component explorer for your Ember.js app. :star:245
 
@@ -419,7 +419,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem. :star:98
 - [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon. :star:70
 - [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error. :star:22
-- [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) - An ember-cli addon to provide feature flags. :star:204
+- [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) - An ember-cli addon to provide feature flags. :star:205
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember.js Components. :star:18
 - [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember.js components anywhere on a server-rendered page to create "Islands of Richness". :star:243
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM. :star:283
@@ -449,9 +449,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [Folktale](http://folktale.origamitower.com) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
-- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections. :star:28491
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections. :star:28528
 - [Kefir.js](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage. :star:1
-- [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases. :star:5776
+- [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases. :star:5787
 - [lodash](https://lodash.com) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [mori](http://swannodette.github.io/mori/) - Library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
@@ -466,15 +466,15 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Helpers
 
-- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.js. :star:585
+- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.js. :star:586
 - [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js. :star:9
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts. :star:37
 - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember.js HTMLBars helpers for basic arithmetic. :star:85
-- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember.js templates. :star:192
+- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember.js templates. :star:193
 - [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes. :star:334
 - [ember-root-url](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL. :star:7
 - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data. :star:3
-- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array. :star:661
+- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array. :star:662
 - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember.js computed macros. :star:205
 - [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - Ember.js macro helpers for making your own fancy macros! :star:59
 - [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers. :star:56
@@ -485,14 +485,14 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Include external JS code
 
-- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages. :star:316
+- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages. :star:317
 - [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports. :star:39
 - [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app. :star:14
 - [ember-browserify](https://github.com/ef4/ember-browserify) - Addon for easily loading CommonJS packages from npm via browserify. :star:174
 
 ### Infinite Scroll
 
-- [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps. :star:355
+- [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps. :star:356
 - [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS. :star:133
 - [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications. :star:272
 
@@ -524,7 +524,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Mad science
 
 - [ember-elm](https://github.com/nucleartide/ember-elm) - Write Elm in your Ember.js app. :star:52
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings. :star:54852
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings. :star:55075
 
 ### Math
 
@@ -533,7 +533,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Metrics
 
-- [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember.js Addon for tracking user activity & idling. :star:94
+- [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember.js Addon for tracking user activity & idling. :star:95
 - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API. :star:332
 
 ### Minifiers
@@ -553,7 +553,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons. :star:12
 - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices. :star:13
 - [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - Mobile layout ember-mobile-pane. :star:4
-- [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember.js. :star:9
+- [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember.js. :star:10
 
 ### Modifiers
 - [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css. :star:2
@@ -594,7 +594,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Query Params
 
-- [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - Do you have controllers that *only* parse query params? :star:32
+- [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - Do you have controllers that *only* parse query params? :star:33
 - [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember.js. :star:186
 - [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}. :star:191
 
@@ -605,7 +605,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Routing addons
 - [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember.js. :star:26
 - [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort. :star:30
-- [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position. :star:187
+- [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position. :star:188
 
 ### Resolver customization
 - [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - This addons allows to modify default files structure to be more feature-grouped.
@@ -664,7 +664,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks. :star:18
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests. :star:250
 - [ember-percy](https://github.com/percy/ember-percy) - Ember.js addon for visual regression testing with Percy. :star:57
-- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember.js. :star:243
+- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember.js. :star:242
 - [ember-test-friendly-error-handler](https://github.com/rwjblue/ember-test-friendly-error-handler) - Build testable error handlers that don't throw in production... :star:14
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests. :star:231
 - [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication. :star:5
@@ -694,9 +694,9 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - Provides element-ui for ember. :star:5
 - [ember-elements](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 - [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost. :star:32
-- [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember.js approach to Material Design. :star:841
+- [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember.js approach to Material Design. :star:843
 - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember.js apps. :star:21
-- [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) :star:5324
+- [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) :star:5338
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember.js library for the Semantic-UI modules. :star:332
 - [Flexi](https://github.com/html-next/flexi) :star:222
 
@@ -705,7 +705,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-attacher](https://kybishop.github.io/ember-attacher/) - Tooltips & popovers made easy.
 - [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions. :star:260
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember.js addon that wraps the Flatpickr date picker. :star:86
-- [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember. :star:502
+- [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember. :star:501
 - [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - The basic dropdown you ember app needs. :star:116
 
 ### UX
@@ -735,7 +735,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Web Components
 
 - [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember.js components in other framework as Web Components!	 :star:10
-- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root. :star:16
+- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root. :star:17
 
 ### Webpack
 
@@ -747,7 +747,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Resources
 
-- [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) :star:11035
+- [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) :star:11049
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
@@ -893,7 +893,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
 - [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration.
-- [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md) :star:964
+- [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md) :star:965
 - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
 - [Glimmer: Blazing Fast Rendering for Ember.js, Part 1](https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1)
 - [Glimmer: Blazing Fast Rendering for Ember.js, Part 2](https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2)
@@ -1015,7 +1015,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
 - [Ember.js Book (RU)](https://leanpub.com/ember-book)
-- [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) :star:11780
+- [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) :star:11825
 
 ### Cheatsheets
 
@@ -1029,7 +1029,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker. :star:1
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - Codemod scripts for ember-mocha. :star:4
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember.js application layout. :star:77
-- [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) - This codemod is intended to automatically convert your projects from the older moduleFor* syntax of ember-qunit@2 to the newer syntax. :star:33
+- [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) - This codemod is intended to automatically convert your projects from the older moduleFor* syntax of ember-qunit@2 to the newer syntax. :star:34
 - [ember-test-helpers-codemod](https://github.com/simonihmig/ember-test-helpers-codemod) - Codemod to transform your Ember.js tests to use @ember/test-helpers. :star:25
 - [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation. :star:32
 - [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions. :star:10
@@ -1042,7 +1042,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Community
 
 - [Forum](http://discuss.emberjs.com/)
-- [GitHub issues](https://github.com/emberjs/ember.js/issues) :star:21218
+- [GitHub issues](https://github.com/emberjs/ember.js/issues) :star:21229
 - [Reddit](https://www.reddit.com/r/emberjs/)
 - [Slack](https://embercommunity.slack.com)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/ember.js)
@@ -1072,31 +1072,31 @@ to build any web application. It is focused on making you, the developer, as pro
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs. :star:44
 - [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember.js Guides. :star:23
 - [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels. :star:12
-- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/). :star:4786
-- [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes. :star:349
+- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/). :star:4792
+- [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes. :star:353
 - [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things. :star:89
 - [Travis CI](https://github.com/travis-ci/travis-web) - The Ember.js web client for [Travis CI](https://travis-ci.org/). :star:569
-- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp). :star:14136
+- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp). :star:14214
 - [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember.js front-end for the Open Science Framework. :star:79
 - [ember-graphql-examples](https://github.com/chadian/ember-graphql-examples) - Examples of using GraphQL in Ember.js. :star:4
 - [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember.js tutorial between the quick start and Super Rents could look like.
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide) :star:60
-- [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) :star:372
-- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS. :star:85
+- [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) :star:374
+- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS. :star:86
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test) :star:1
 - [Percy's frontend web application, built with Ember.js.](https://github.com/percy/percy-web) :star:138
 - [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires. :star:4
 - [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework. :star:247
 - [PIX](https://github.com/1024pix/pix-editor) - PIX.
 - [ember-monorepo-demo](https://github.com/lennyburdette/ember-monorepo-demo) :star:4
-- [documize.com](https://github.com/documize/community) :star:903
+- [documize.com](https://github.com/documize/community) :star:909
 - [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder) :star:22
 - [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 - [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)). :star:23
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
 ### Examples Glimmer
-- [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World. :star:57
+- [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World. :star:58
 - [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js. :star:12
 - [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js. :star:28
 - [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer.js project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
@@ -1216,7 +1216,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember Data adaptor for the Sails.js sockets. :star:91
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember Data adapter for the WordPress JSON API. :star:39
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using GitHub Gist.
-- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember.js tab to Chrome or Firefox Developer Tools that allows you to inspect Ember.js objects in your application. - Officially maintained. :star:902
+- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember.js tab to Chrome or Firefox Developer Tools that allows you to inspect Ember.js objects in your application. - Officially maintained. :star:903
 - [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app. :star:73
 - [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between new ember apps.
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.

@@ -69,7 +69,7 @@ Boards
 ---
 *Boards are tools for encapsulating the process of rendering a board.*
 
- - [Chessboard.js](https://github.com/oakmac/chessboardjs/) - chessboard.js is a standalone JavaScript chess board. :star:1233
+ - [Chessboard.js](https://github.com/oakmac/chessboardjs/) - chessboard.js is a standalone JavaScript chess board. :star:1235
  - [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output. :star:18
  - [jchess](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs. :star:86
  - [Chessboard-js](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library. :star:21

@@ -54,7 +54,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:109
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:110
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -72,6 +72,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -- by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young ([slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
+* [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) and [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) and for [youtube](https://youtu.be/9giJYYag6wQ)
 
 #### Standards In software Testing
 
@@ -93,7 +94,7 @@ If you would like add something, just send the text as you would like it to appe
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:287
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:288
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:9
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:248
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
@@ -142,7 +143,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu :star:63
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu :star:64
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 * [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
@@ -168,7 +169,6 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальные методы
 
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
-* http://is.ifmo.ru/verification/
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
 # Courses
@@ -186,7 +186,19 @@ If you would like add something, just send the text as you would like it to appe
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
 * Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
-
+* [Test Automation Universities](https://testautomationu.applitools.com/) (free)
+    - [Java Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
+    - [Java API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
+    - [Java Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
+    - [JavaScript Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-javascript-path)
+    - [JavaScript API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-javascript-path)
+    - [JavaScript Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-javascript-path)
+    - [Python Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path)
+    - [Python Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-python-path)
+    - [C# Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-csharp-path)
+    - [Ruby Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path)
+    - [Swift Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-swift-path)
+    - [Codeless Path](https://testautomationu.applitools.com/learningpaths.html?id=codeless-path)
 
 #### Software Testing
 
@@ -251,8 +263,6 @@ If you would like add something, just send the text as you would like it to appe
 ##### Coq
 
 * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
-* [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
-* [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
 * [Introduction to the Coq Proof Assistant](https://video.ias.edu/univalent/appel)
 * [Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri) - DeepSpec Summer School
 * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
@@ -279,7 +289,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Verification](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUsh0QIh_zd58V4Ekmer23D) - Natasha Sharygina
 * [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:416
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:417
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -315,7 +325,7 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальная верификация ПО
 
 * [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
+* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
@@ -330,7 +340,7 @@ If you would like add something, just send the text as you would like it to appe
     - [Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting) :star:101
     - [Foundations of Software Testing - Glossary](https://ankiweb.net/shared/info/834818027)
     - [ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
-    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18288
+    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18340
     - [Design Patterns](https://ankiweb.net/shared/info/701549605)
     - [Object Oriented Design Patterns](https://ankiweb.net/shared/info/1202033519)
     - [Regular Expressions](https://ankiweb.net/shared/info/1355137499)
@@ -339,17 +349,17 @@ If you would like add something, just send the text as you would like it to appe
     - [LPIC 101 and 102](https://ankiweb.net/shared/info/1818363239)
     - [SQL basics](https://ankiweb.net/shared/info/40406665)
     - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
-    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:74671
+    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:75081
 - [Testing Mnemonics Game](http://mnemonics.brainforit.com/)
 - [The Deadlock Empire: Slay dragons, learn concurrency!](https://deadlockempire.github.io)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:18
 - [test-anything](https://github.com/finnp/test-anything) :star:143
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:758
-- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:970
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:761
+- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:973
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
-- [Code-defenders game (mutation testing)](http://code-defenders.org/login)
+- [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
@@ -373,28 +383,31 @@ see [podcasts](podcasts.md)
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
-* [Postmortems](https://github.com/danluu/post-mortems) :star:5153
+* [Postmortems](https://github.com/danluu/post-mortems) :star:5158
 
 # Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing) :star:2806
+- Fuzzing testing by [secfigo](https://github.com/secfigo/Awesome-Fuzzing) and by [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing) :star:107
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2654
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6223
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2670
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6259
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:480
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:343
-- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) :star:517
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:453
-- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:304
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq) :star:183
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:53
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1001
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:345
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:457
+- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:305
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:55
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1004
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md) :star:218
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:832
-- [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:361
-- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:20446
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:10760
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:833
+- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:20667
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:10781
+- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) :star:242
+- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:362
+- [Awesome Coq](https://github.com/uhub/awesome-coq) :star:183
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) :star:520
+- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) :star:6
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) :star:250
 
 ### License
 

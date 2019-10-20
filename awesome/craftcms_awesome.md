@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1887
+- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports. :star:1894
 - [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
 - [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 - [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
@@ -355,7 +355,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Dev Tools
 
-- [Craft CLI](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2. :star:142
+- [Craft CLI](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2. :star:143
 - [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration. :star:4
 - [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker. :star:26
 - [Craft 3 Multi-environment](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS. :star:85

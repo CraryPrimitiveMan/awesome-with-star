@@ -63,14 +63,14 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
   - [iOS App](https://github.com/irccloud/ios) - Official. `Objective-C` :star:232
-  - [Android App](https://github.com/irccloud/android) - Official. `Java` :star:226
+  - [Android App](https://github.com/irccloud/android) - Official. `Java` :star:227
   - [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C` :star:150
 - [Grove](https://grove.io) - Hosted IRC and so much more (+client) ($10-$125/month).
 
 #### Self-hosted
 
 - [Convos](https://convos.by) - Always online web IRC client. ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
-- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) :star:1635
+- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) :star:1637
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
@@ -80,11 +80,11 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Used for running your own IRC server or network.*
 
 - [ircd.js](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff. :star:532
-- [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd)) :star:719
+- [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd)) :star:722
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited. :star:299
-- [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd)) :star:243
+- [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd)) :star:244
 - [Hulk](https://github.com/chrisdone/hulk) - Intended for private business use or hobby work. `Haskell` :star:144
-- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source](https://github.com/oragono/oragono)) :star:723
+- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source](https://github.com/oragono/oragono)) :star:724
 - [charybdis](https://github.com/charybdis-ircd/charybdis) - Scalable IRCv3 server. :star:206
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits.
 
@@ -92,8 +92,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
-- [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme)) :star:271
-- [anope](https://anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope)) :star:220
+- [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme)) :star:269
+- [anope](https://anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope)) :star:222
 
 ### Bots
 
@@ -102,7 +102,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel)) `Python`
 - [phenny](http://inamidst.com/phenny/) - Simple, module creation guide. ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](https://github.com/RJ/irccat) - Simplifies messaging from shell scripts. `Java` :star:278
-- [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python` :star:452
+- [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python` :star:454
 - [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python` :star:244
 - [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python` :star:231
 - [Jenni](https://github.com/myano/jenni) - `Python` :star:231
@@ -122,8 +122,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Cinch](https://github.com/cinchrb/cinch) - Quickly create bots with minimal effort. `Ruby` :star:1033
 - [goirc](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go` :star:444
 - [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript` :star:314
-- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go` :star:408
-- [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python` :star:327
+- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go` :star:409
+- [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python` :star:328
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript` :star:205
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java` :star:175
 - [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework. :star:10
@@ -134,13 +134,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript` :star:753
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript` :star:575
-- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go` :star:73
+- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go` :star:72
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
 - [teleirc](https://github.com/FruitieX/teleirc) - Telegram ↔ IRC. `JavaScript` :star:263
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C` :star:8
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript` :star:3
 - [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web ↔ IRC. `Go` :star:190
-- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go` :star:1913
+- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go` :star:1926
 
 ### Channels
 

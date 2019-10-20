@@ -105,7 +105,7 @@ programming languages with appropriate bindings for Ruby.
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
-- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2525
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature :star:2531
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
@@ -153,8 +153,8 @@ programming languages with appropriate bindings for Ruby.
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Deep learning framework for Ruby.
-- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:807
-- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby. :star:13
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/). :star:810
+- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby. :star:14
 
 ### Kernel methods
 
@@ -411,7 +411,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:499
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython). :star:502
 - [Kiba](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -

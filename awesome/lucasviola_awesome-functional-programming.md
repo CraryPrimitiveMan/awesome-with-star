@@ -96,13 +96,13 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 
 ### Repos
 - [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types :star:162
-- [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop. :star:1857
+- [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop. :star:1855
 - [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover` :star:310
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell. :star:958
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript. :star:271
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier. :star:13202
-- [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift. :star:309
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier. :star:13219
+- [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift. :star:316
 
 ### People
 

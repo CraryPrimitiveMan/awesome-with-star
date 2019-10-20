@@ -41,7 +41,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:2990
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:3009
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
  
 ## Data Protection Authorities 
@@ -70,9 +70,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) :star:1277
-* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:117444
-* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:613
-* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:170
+* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:117845
+* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:616
+* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:172
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

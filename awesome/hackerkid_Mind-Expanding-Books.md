@@ -8,6 +8,9 @@
 
 > Curated list of mind expanding books.
 
+We are working on a website for mind expanding books. It's under construction and can be accessed at https://books.vishnuks.com. If you
+are interested in improving the website feel free to claim one of the open issues.
+
 ## Table of Contents
 * [Startups and Business](#startups-and-business)
 * [Philosophy and Psychology](#philosophy-and-psychology)
@@ -110,6 +113,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
+| Illusions: The Adventures of a Reluctant Messiah | Richard Bach | [4.15](https://www.goodreads.com/book/show/29946.Illusions) | 1977 |  
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
 | Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life | Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
@@ -193,6 +197,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
+| How the Internet Happened: From Netscape to the iPhone | Brian McCullough | [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
 | The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  

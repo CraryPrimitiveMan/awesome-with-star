@@ -59,9 +59,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Various application skeletons.*
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework :star:87
-* [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:64
+* [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:65
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:334
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:732
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:733
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:23
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:333
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:99
@@ -80,9 +80,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Content management systems & blogs.*
 
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
-* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:27
+* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:31
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
-* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:364
+* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:365
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework :star:139
 
 
@@ -112,8 +112,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application :star:15
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install. :star:5
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework :star:145
-* [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon) :star:448
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework :star:146
+* [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon) :star:449
 
 
 ## i18n

@@ -33,9 +33,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Discord](https://discordapp.com/invite/UUt2PJb)
 - [Medium](https://medium.com/storybookjs)
 - [DEV.to](https://dev.to/t/storybook)
-- [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook. :star:26
+- [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook. :star:27
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site. :star:405
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site. :star:407
 
 ## Tutorials
 
@@ -73,7 +73,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
-- [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example) :star:25
+- [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example) :star:26
 
 ## Addons
 

@@ -8,11 +8,19 @@
 
 I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-_Note:_ There are several fields within "Data" and Machine Learning is just one. It's good to know the context: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+<br/>
 
-# Get your feet wet!
+## [Does your employer support your growth?]("https://triplebyte.com/iv/RoKMZpG/cp/header")
 
-I suggest you get your feet wet ASAP. You'll boost your confidence.
+If you're reading this guide, you like to learn by doing. Your employer should give you projects in line with your strengths and interests. If not, you owe it to yourself to move on!
+
+<a href="https://triplebyte.com/iv/RoKMZpG/cp/header"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"></a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">Take the Triplebyte coding quiz and **let the jobs come to you.**</a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">You can support <i>Dive Into Machine Learning</i> by using my link.</a>
+
+<br/>
+
+# Let's get started
+
+I suggest you get your feet wet to start. You'll boost your confidence.
 
 ## Tools you'll need
 
@@ -77,6 +85,11 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 
 [Do Simple Things]: http://wiki.c2.com/?DoSimpleThings
 
+## Jargon note
+
+* [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1) 
+* Another handy term: [_**Data Engineering.**_](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811?gi=67df10cc32ea), which may involve or support Machine Learning, but is not limited to Machine Learning.
+
 ## Just about time for a break...
 
 Before you take a break, grab some podcasts. 
@@ -118,7 +131,7 @@ Next, pick **one or two** of these IPython Notebooks and play along.
 
 There are more places to find great IPython Notebooks:
 
-* [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science) :star:13810
+* [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science) :star:13821
 * [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
 _Know another great notebook? Please submit a PR!_
@@ -224,7 +237,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
-* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:2131
+* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :star:2133
 
 ## Risks
 
@@ -329,9 +342,9 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:3173
-* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:838
-* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:1180
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) :star:3196
+* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) :star:839
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) :star:1189
 
 ----
 

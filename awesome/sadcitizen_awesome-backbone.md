@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27544
+- [Github repository](https://github.com/jashkenas/backbone) :star:27552
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -122,16 +122,16 @@
 
 - [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) :star:2384
 - [Backbone-forms](https://github.com/powmedia/backbone-forms) :star:2208
-- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2061
+- [Backgrid.js](https://github.com/wyuenho/backgrid) :star:2060
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) :star:1932
 - [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) :star:1681
 - [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) :star:1455
 - [Backbone.validation](https://github.com/thedersen/backbone.validation) :star:1358
 - [Exoskeleton](https://github.com/paulmillr/exoskeleton) :star:894
-- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:818
+- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) :star:817
 - [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) :star:591
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:503
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:482
-- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:503
+- [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:504
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:383
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

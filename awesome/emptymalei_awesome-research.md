@@ -375,7 +375,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2621
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) :star:2630
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -396,16 +396,16 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) :star:113
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1705
+* [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) :star:1709
 
 
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind](https://github.com/hizzgdev/jsmind) :star:1242
+* [jsmind](https://github.com/hizzgdev/jsmind) :star:1254
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps](https://github.com/drichard/mindmaps) :star:1705
+* [mindmaps](https://github.com/drichard/mindmaps) :star:1709
 
 
 ### Concept Map and Diagrams
@@ -451,9 +451,9 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut](https://github.com/tantaman/Strut) :star:1539
+* [Strut](https://github.com/tantaman/Strut) :star:1540
 * [Impressionist](https://github.com/harish-io/Impressionist) :star:597
-* [hovercraft](https://github.com/regebro/hovercraft) :star:1181
+* [hovercraft](https://github.com/regebro/hovercraft) :star:1187
 
 
 
@@ -467,14 +467,14 @@ Use [colors](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js](https://github.com/hakimel/reveal.js) :star:48685
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4518
+* [Reveal.js](https://github.com/hakimel/reveal.js) :star:48806
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) :star:4520
 * [CSSS](https://github.com/LeaVerou/CSSS) :star:1566
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) :star:690
-* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5390
-* [Shower](https://github.com/shower/shower) :star:4347
+* [Deck.js](https://github.com/imakewebthings/deck.js) :star:5389
+* [Shower](https://github.com/shower/shower) :star:4354
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
-* [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1277
+* [Flowtime.js](https://github.com/marcolago/flowtime.js) :star:1279
 * [Slides](https://github.com/briancavalier/slides) :star:479
 * [remark](https://remarkjs.com)
 
@@ -697,7 +697,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:1228
+* [matplotlib](https://github.com/jbmouret/matplotlib_for_papers) :star:1229
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -756,7 +756,7 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) :star:1275
+* [plot in terminal](https://github.com/glamp/bashplotlib) :star:1279
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.

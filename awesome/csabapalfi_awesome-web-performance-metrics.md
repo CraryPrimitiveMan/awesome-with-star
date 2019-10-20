@@ -190,7 +190,7 @@ A metric derived from the Layout Instability API. The cumulative layout shift (C
 
 - Lab: N/A
 - Field: CrUX + Chrome 73+ (origin trial)
-- [Spec - Layout Instability](https://github.com/WICG/layout-instability) :star:35
+- [Spec - Layout Instability](https://github.com/WICG/layout-instability) :star:36
 - [Chrome - Origin Trial for Layout Stability API](https://developers.chrome.com/origintrials/#/view_trial/1215971899390033921)
 - [Blogpost - The Layout Instability API](https://web.dev/layout-instability-api/)
 
@@ -212,7 +212,7 @@ First CPU Idle marks the **first time at which the page's main thread is quiet e
 
 - Lab: Lighthouse, WPT (but it's called **First interactive** in WPT)
 - Field: N/A
-- [Docs - First Interactive - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md) :star:2278
+- [Docs - First Interactive - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md) :star:2285
 - [Docs - First CPU Idle - Lighthouse](https://developers.google.com/web/tools/lighthouse/audits/first-cpu-idle)
 
 ### Time to Interactive (TTI)
@@ -323,7 +323,7 @@ Measuring own (and third-party) JavaScript bytes is crucial as JavaScript is the
 - [Sitespeed.io PageXray](https://www.sitespeed.io/documentation/pagexray/)
 - [Lighthouse Performance Budgets](https://developers.google.com/web/tools/lighthouse/audits/budgets)
 - [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
-- [Which third party scripts are most excessive](https://github.com/patrickhulce/third-party-web) :star:792
+- [Which third party scripts are most excessive](https://github.com/patrickhulce/third-party-web) :star:796
 
 ---
 

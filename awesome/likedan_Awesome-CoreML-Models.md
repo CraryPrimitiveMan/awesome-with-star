@@ -84,14 +84,14 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [Scikit-learn](https://apple.github.io/coremltools/generated/coremltools.converters.sklearn.convert.html)
 * [MXNet](https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/)
 * [LibSVM](https://apple.github.io/coremltools/generated/coremltools.converters.libsvm.convert.html)
-* [Torch7](https://github.com/prisma-ai/torch2coreml) :star:335
+* [Torch7](https://github.com/prisma-ai/torch2coreml) :star:336
 
 # The Gold
 *Collections of machine learning models that could be converted to Core ML*
 
-* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format. :star:29230
-* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:58274
-* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models. :star:58274
+* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format. :star:29261
+* [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow. :star:58515
+* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models. :star:58515
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
@@ -109,7 +109,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [deephorizon](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
 # Contributing and License
-* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) :star:4284
+* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) :star:4296
 * Distributed under the MIT license. See LICENSE for more information.
 
 
