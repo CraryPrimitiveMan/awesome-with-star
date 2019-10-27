@@ -26,27 +26,27 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:19213
-* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md) :star:1363
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:19254
+* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md) :star:1364
 
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - Mastodon Community Wiki.
-* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) :star:1363
+* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) :star:1364
 
 ## Clients
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:117
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:270
-* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:118
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:273
+* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:117
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:98
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:14
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 * [Mastalab](https://github.com/stom79/mastalab) - Android client.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:425
+* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:427
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon. :star:118
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
@@ -99,7 +99,7 @@
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python). :star:42
-* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python). :star:30
+* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python). :star:29
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python). :star:33
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
@@ -167,7 +167,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Libraries
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:350
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:354
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js. :star:25
 
 ## Hosting

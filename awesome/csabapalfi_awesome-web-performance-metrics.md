@@ -190,7 +190,7 @@ A metric derived from the Layout Instability API. The cumulative layout shift (C
 
 - Lab: N/A
 - Field: CrUX + Chrome 73+ (origin trial)
-- [Spec - Layout Instability](https://github.com/WICG/layout-instability) :star:36
+- [Spec - Layout Instability](https://github.com/WICG/layout-instability) :star:37
 - [Chrome - Origin Trial for Layout Stability API](https://developers.chrome.com/origintrials/#/view_trial/1215971899390033921)
 - [Blogpost - The Layout Instability API](https://web.dev/layout-instability-api/)
 
@@ -212,7 +212,7 @@ First CPU Idle marks the **first time at which the page's main thread is quiet e
 
 - Lab: Lighthouse, WPT (but it's called **First interactive** in WPT)
 - Field: N/A
-- [Docs - First Interactive - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md) :star:2285
+- [Docs - First Interactive - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md) :star:2292
 - [Docs - First CPU Idle - Lighthouse](https://developers.google.com/web/tools/lighthouse/audits/first-cpu-idle)
 
 ### Time to Interactive (TTI)
@@ -221,7 +221,7 @@ Time to interactive is **the time it takes for the page to become fully interact
 
 - Lab: Lighthouse, WPT (see [Consistently Interactive](#consistently-interactive))
 - Field: Not recommended as users interacting with your page can skew field measurements of TTI
-- [Polyfill - TTI](https://github.com/GoogleChromeLabs/tti-polyfill) :star:214
+- [Polyfill - TTI](https://github.com/GoogleChromeLabs/tti-polyfill) :star:218
 - [Spec - TTI - Lighthouse](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit)
 - [Blogpost - TTI](https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/)
 
@@ -232,7 +232,7 @@ First Input Delay (FID) measures **the time from when a user first interacts wit
 - Lab: N/A (as it requires the user to interact with the page)
 - Field: IE9+ (and Safari, Chrome, Firefox) (with polyfill - 0.4KB)
 - [Docs - FID](https://developers.google.com/web/updates/2018/05/first-input-delay)
-- [Polyfill - FID](https://github.com/GoogleChromeLabs/first-input-delay) :star:270
+- [Polyfill - FID](https://github.com/GoogleChromeLabs/first-input-delay) :star:272
 
 
 ### First Interactive

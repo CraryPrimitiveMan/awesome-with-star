@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:142
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:143
 
 ## Plugins
 
@@ -31,7 +31,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * [Ionic Framework](https://ionicframework.com/)
   * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1227
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:757
-* [jQuery Mobile](http://jquerymobile.com/)
+* [jQuery Mobile](https://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
 * ### Pay to Use
@@ -47,7 +47,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * [Framework7 Icons](https://framework7.io/icons/)
 * [Icons8](https://icons8.com/)
 * [Ionicons](https://ionicons.com/)
-* [Material Icons](https://material.io/tools/icons/)
+* [Material Icons](https://material.io/resources/icons/)
 
 ## Tools
 
@@ -82,8 +82,9 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) :star:6
   * [ripple](https://github.com/ripple-emulator/ripple) :star:34
 * Building
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) :star:287
   * [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
-  * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch) :star:1
+  * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch) :star:1
   * [xavtool](https://github.com/gabrielrobert/xavtool) :star:22
 * Logging
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender) :star:3

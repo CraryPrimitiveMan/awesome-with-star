@@ -228,7 +228,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 - [Waits for the PR checks before merging a PR](https://user-images.githubusercontent.com/1402241/35192861-3f4a1bf6-fecc-11e7-8b9f-35ee019c6cdf.gif)
 - [Linkifies issue/PR references in code, comments and titles](https://cloud.githubusercontent.com/assets/170270/25370217/61718820-29b3-11e7-89c5-2959eaf8cac8.png)
 - [Shows links to closing PR in issues and PR](https://user-images.githubusercontent.com/1402241/37037746-8b8eac8a-2185-11e8-94f6-4d50a9c8a152.png)
-- [And much more..](https://github.com/sindresorhus/refined-github#highlights) :star:9899
+- [And much more..](https://github.com/sindresorhus/refined-github#highlights) :star:9934
 
 </details>
 
@@ -371,6 +371,15 @@ Helps you see easily which activities happened since you last visited GitHub.
 <details><summary>Screenshots</summary>
 
  ![What's New on GitHub](https://camo.githubusercontent.com/b167c82ff1f87582150a03ff81d20dc429274601/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7832744d704e41357757363330385a694e5a42474669506d714172653653716a48546d4d4d6d30585049764d43323063487167784e30362d324533566e375361367872695061595074673d77313238302d68383030)
+</details>
+
+### [Follow GitHub Organization](https://github.com/follow-github-organisation/fghx) <a href="https://chrome.google.com/webstore/detail/follow-github-organizatio/nihhgppianmnaaomafdoemomnnpdnfjn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/follow-github-organization/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Follow your favorite GitHub organizations and receive activities in the main feed.
+
+<details><summary>Screenshots</summary>
+
+ ![Follow GitHub Organization](https://raw.githubusercontent.com/follow-github-organisation/follow-github-organisation.github.io/master/images/followgithub-og.png)
 </details>
 
 
@@ -543,6 +552,16 @@ Find the best GIFs for your awesome pull requests.
 <details><summary>Screenshots</summary>
 
  ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
+ 
+</details>
+
+### [PR Monitor](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
  
 </details>
 

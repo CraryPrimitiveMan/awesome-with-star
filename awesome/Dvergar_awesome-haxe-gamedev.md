@@ -115,7 +115,7 @@ More showcase :
 * [itch.io showcase](https://itch.io/games/made-with-haxe)
 * [HaxePunk showcase](https://haxepunk.com/games/)
 * [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) :star:728
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) :star:921
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) :star:924
 
 ## Miscellaneous
 

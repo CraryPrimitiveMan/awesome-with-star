@@ -60,8 +60,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework :star:87
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework :star:65
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:334
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:733
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:333
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:734
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:23
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:333
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:99
@@ -82,7 +82,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:31
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:7
-* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:365
+* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:364
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework :star:139
 
 
@@ -191,7 +191,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Conferences, Chats, Forums, etc..*
 
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:286
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:344
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:346
 
 
 ## Templating

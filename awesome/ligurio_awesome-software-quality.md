@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
+**Join chat [t.me/sqaunderhood](https://t.me/sqaunderhood) and [subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
 
 ### Introduction
 
@@ -13,9 +13,6 @@ This page collects resources for anyone considering the use of software testing 
 There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
     
 If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
-
-**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
-
 
 ## Index
 
@@ -116,6 +113,7 @@ If you would like add something, just send the text as you would like it to appe
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert
 * [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
 * [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
+* [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - Nikita Sobolev
 
 #### Formal methods
 
@@ -289,7 +287,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Verification](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUsh0QIh_zd58V4Ekmer23D) - Natasha Sharygina
 * [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:417
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:418
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -340,7 +338,7 @@ If you would like add something, just send the text as you would like it to appe
     - [Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting) :star:101
     - [Foundations of Software Testing - Glossary](https://ankiweb.net/shared/info/834818027)
     - [ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
-    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18340
+    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18392
     - [Design Patterns](https://ankiweb.net/shared/info/701549605)
     - [Object Oriented Design Patterns](https://ankiweb.net/shared/info/1202033519)
     - [Regular Expressions](https://ankiweb.net/shared/info/1355137499)
@@ -349,15 +347,15 @@ If you would like add something, just send the text as you would like it to appe
     - [LPIC 101 and 102](https://ankiweb.net/shared/info/1818363239)
     - [SQL basics](https://ankiweb.net/shared/info/40406665)
     - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
-    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:75081
+    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:75443
 - [Testing Mnemonics Game](http://mnemonics.brainforit.com/)
 - [The Deadlock Empire: Slay dragons, learn concurrency!](https://deadlockempire.github.io)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:18
 - [test-anything](https://github.com/finnp/test-anything) :star:143
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:761
-- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:973
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:763
+- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:978
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
@@ -383,31 +381,32 @@ see [podcasts](podcasts.md)
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
-* [Postmortems](https://github.com/danluu/post-mortems) :star:5158
+* [Postmortems](https://github.com/danluu/post-mortems) :star:5174
 
 # Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 - Fuzzing testing by [secfigo](https://github.com/secfigo/Awesome-Fuzzing) and by [cpuu](https://github.com/cpuu/awesome-fuzzing)
-- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:107
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2670
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6259
+- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:110
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2680
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6312
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:480
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:345
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:457
-- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:305
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:55
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1004
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:349
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:458
+- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:304
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:56
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1009
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md) :star:218
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:833
-- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:20667
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:10781
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:836
+- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:20917
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:10803
 - [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) :star:242
-- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:362
-- [Awesome Coq](https://github.com/uhub/awesome-coq) :star:183
+- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:364
+- [Awesome Coq](https://github.com/uhub/awesome-coq) :star:185
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) :star:520
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) :star:6
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) :star:250
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) :star:253
+- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings) :star:1862
 
 ### License
 

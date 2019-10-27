@@ -127,13 +127,13 @@ Lanugage Analysis
   - Entity Disambiguation / Entity Linking
 
 ## Codes
-- [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.  :star:1270
+- [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.  :star:1273
   - Official; Tensorflow v1.2
   - [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-- [QANet](https://github.com/NLPLearn/QANet) - A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions. :star:930
+- [QANet](https://github.com/NLPLearn/QANet) - A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions. :star:928
   - Google; Unofficial; Tensorflow v1.5
   - [Paper](#qanet)
-- [R-Net](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage. :star:552
+- [R-Net](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage. :star:550
   - MS; Unofficially by HKUST; Tensorflow v1.5
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras. :star:171
@@ -142,7 +142,7 @@ Lanugage Analysis
 - [DrQA](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering. :star:333
   - Facebook; Official; Pytorch v0.4
   - [Paper](#drqa)
-- [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.  :star:18742
+- [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.  :star:18954
   - Google; Official implementation; Tensorflow v1.11.0
   - [Paper](https://arxiv.org/abs/1810.04805)
 
@@ -154,8 +154,8 @@ Lanugage Analysis
 - [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf) - By Dr. Mariana Neves | Hasso Plattner Institut | 2017.
 
 ## Dataset Collections
-- [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets) :star:66
-- [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) :star:839
+- [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets) :star:67
+- [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) :star:842
 
 ## Datasets
 - [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
@@ -163,10 +163,10 @@ Lanugage Analysis
   - Paper: http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 - It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
-- [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) :star:1183
+- [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) :star:1185
   - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   - Paper: https://arxiv.org/abs/1506.03340
-- [GraphQuestions](https://github.com/ysu1989/GraphQuestions) :star:66
+- [GraphQuestions](https://github.com/ysu1989/GraphQuestions) :star:67
   - On generating Characteristic-rich Question sets for QA evaluation.
 - [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
   - It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
@@ -176,10 +176,10 @@ Lanugage Analysis
 - [MultiRC](https://cogcomp.org/multirc/)
   - A dataset of short paragraphs and multi-sentence questions
   - Paper: http://cogcomp.org/page/publication_view/833 
-- [NarrativeQA](https://github.com/deepmind/narrativeqa) :star:341
+- [NarrativeQA](https://github.com/deepmind/narrativeqa) :star:342
   - It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   - Paper: https://arxiv.org/pdf/1712.07040v1.pdf
-- [NewsQA](https://github.com/Maluuba/newsqa) :star:161
+- [NewsQA](https://github.com/Maluuba/newsqa) :star:163
   - A machine comprehension dataset
   - Paper: https://arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)

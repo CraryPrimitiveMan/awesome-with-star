@@ -6,7 +6,7 @@
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository](https://github.com/jashkenas/backbone) :star:27552
+- [Github repository](https://github.com/jashkenas/backbone) :star:27551
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -101,7 +101,7 @@
 ## Examples and boilerplates
 
 - [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project :star:627
-- [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:935
+- [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js :star:934
 - [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap :star:472
 - [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application :star:65
 - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more :star:493
@@ -133,5 +133,5 @@
 - [Backbone-associations](https://github.com/dhruvaray/backbone-associations) :star:503
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) :star:482
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio) :star:504
-- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:383
+- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) :star:384
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) :star:2

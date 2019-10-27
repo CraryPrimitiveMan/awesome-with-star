@@ -25,18 +25,18 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM. :star:2127
+* [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM. :star:2163
 * [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) - Carbon Design System add-on for IBM Cloud. :star:14
 * [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom) - This library is an extension of the Carbon IBM Design System. It contains unique components shared between the IBM.com user journeys to unify its look and feel. :star:4
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions. :star:15
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets. :star:15
 * [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript. :star:83
-* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM. :star:153
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System. :star:965
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System. :star:145
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates). :star:893
-* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System. :star:62
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript. :star:84
+* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM. :star:157
+* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System. :star:968
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System. :star:149
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates). :star:895
+* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System. :star:63
 * [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - A collection of themes for use with Carbon Components. :star:27
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System. :star:16
 
@@ -62,15 +62,15 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers. :star:65
 * [go-cloud](https://github.com/victorshinya/go-cloud) - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 * [go-website](https://github.com/victorshinya/go-website) - Deploy your website using a Golang server.
-* [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API. :star:25
+* [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API. :star:26
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience. :star:29
-* [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. :star:7202
+* [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. :star:7211
 * [kitura-couchdb](https://github.com/IBM-Swift/Kitura-CouchDB) - CouchDB adapter for Kitura. :star:42
 * [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) - A pluggable framework for validating user credentials in a Swift server using Kitura. :star:39
 * [kitura-credentials-google](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login. :star:7
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking. :star:92
 * [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - A networking library for Kitura, based on SwiftNIO. :star:29
-* [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura. :star:79
+* [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura. :star:78
 * [kitura-session](https://github.com/IBM-Swift/Kitura-Session) - A pluggable framework for managing user sessions in a Swift server using Kitura. :star:16
 * [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud. :star:30
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution. :star:81
@@ -93,7 +93,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *SDKs and code patterns with Watson services.*
 
-* [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API. :star:429
+* [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API. :star:430
 * [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) - A middleware to connect Watson Assistant Service to different chat channels using Botkit. :star:187
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud. :star:140
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) - This is the Watson Discovery Service Demo. :star:72
@@ -103,26 +103,26 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service. :star:95
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services. :star:160
 * [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) - A collection of nodes for the IBM Watson services. :star:63
-* [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service. :star:462
-* [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service. :star:73
+* [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service. :star:464
+* [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service. :star:74
 * [simple-chat-swift](https://github.com/watson-developer-cloud/simple-chat-swift) - 📱 An iOS chat application using cognitive services from the Watson Developer Cloud Swift SDK. :star:46
-* [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers. :star:209
-* [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service. :star:788
+* [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers. :star:210
+* [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service. :star:792
 * [tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) - Sample Node.js Application for the IBM Tone Analyzer Service. :star:407
-* [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML. :star:474
+* [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML. :star:475
 * [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service. :star:371
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
     * [android-sdk](https://github.com/watson-developer-cloud/android-sdk) - 🔆 Android SDK to use the IBM Watson services. :star:121
     * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕 .NET Standard library to access Watson Services. :star:120
-    * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services. :star:50
+    * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services. :star:51
     * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services. :star:554
-    * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services. :star:1331
+    * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services. :star:1337
     * [openwhisk-sdk](https://github.com/watson-developer-cloud/openwhisk-sdk) - 🆕 SDK for using Watson Services on IBM Cloud Functions (based on Apache Openwhisk). :star:10
-    * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud. :star:1168
+    * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud. :star:1173
     * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) - ♦️ Ruby SDK to use the IBM Watson services. :star:33
     * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) - A Salesforce library for communicating with the IBM Watson REST APIs. :star:19
     * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications. :star:864
-    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services. :star:475
+    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services. :star:476
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours. :star:151

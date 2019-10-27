@@ -58,7 +58,6 @@ _Projects released with an open source license._
 - [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
-- [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 - [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
@@ -129,7 +128,7 @@ _Operating Systems and Linux distributions._
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
-- [Serenity OS](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
+- [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
@@ -187,7 +186,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp and mny other Javascript projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
-- [Kévin Dunglas](https://github.com/sponsors/dunglas) - API-Platform, Vulcain, Mercure and Symphony contributions.
+- [Kévin Dunglas](https://github.com/sponsors/dunglas) - API Platform, Vulcain, Mercure and Symfony contributions.
 - [Khoa Pham](https://github.com/users/onmyway133/sponsorship) - A multitude of libraries, applications and articles about iOS/Cocoa,
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.

@@ -11,39 +11,39 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 
 ### Package managers
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager. :star:3895
-- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by vundle. :star:237
-- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - Shell configuration framework and package manager all-in-one. :star:5395
+- [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager. :star:3906
+- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by vundle. :star:239
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - Shell configuration framework and package manager all-in-one. :star:5419
 
 ### Shell prompts
 
-- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt. :star:496
+- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt. :star:501
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) - No bells or whistles, minimal shell prompt. :star:18
-- [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt. :star:30
-- [Spacefish](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts. :star:540
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt. :star:838
+- [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt. :star:32
+- [Spacefish](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts. :star:545
+- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt. :star:842
 
 ### Commands, utilities, functions
 
-- [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter :star:1245
-- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. :star:358
-- [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf). :star:331
+- [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter :star:1262
+- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. :star:360
+- [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf). :star:332
 - [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)). :star:130
 - [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes. :star:208
 - [mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks. :star:7
 - [spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell. :star:185
-- [gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow. :star:8
-- [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line. :star:105
-- [getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [argparse](https://fishshell.com/docs/current/commands.html#argparse) fish builtin. :star:131
-- [git-util](https://github.com/fishpkg/fish-git-util) - Git utility functions to query the status of a repository. :star:54
+- [gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow. :star:9
+- [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line. :star:108
+- [getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [argparse](https://fishshell.com/docs/current/commands.html#argparse) fish builtin. :star:132
+- [git-util](https://github.com/fishpkg/fish-git-util) - Git utility functions to query the status of a repository. :star:55
 - [fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish scripts. :star:243
-- [ssh-agent](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent. :star:107
-- [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution. :star:45
-- [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper. :star:699
-- [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2. :star:38
-- [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. :star:492
-- [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)). :star:208
-- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search. :star:94
+- [ssh-agent](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent. :star:108
+- [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution. :star:47
+- [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper. :star:700
+- [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2. :star:39
+- [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. :star:491
+- [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)). :star:210
+- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search. :star:95
 
 ### Articles, tutorials, guides
 

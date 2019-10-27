@@ -40,7 +40,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Eta](https://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2320
+- [GitHub](https://github.com/typelead/eta) - Eta on GitHub. :star:2328
 - [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - Interview about the philosophy behind Eta's development.
 
 ### First Steps

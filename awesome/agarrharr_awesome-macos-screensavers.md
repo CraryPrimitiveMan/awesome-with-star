@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Developer](#developer)
 - [Graphics](#graphics)
 - [Other](#other)
+- [Collections](#collections)
 
 ---
 
@@ -254,6 +255,16 @@ Free (Open Source)
 Free
 
 [![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
+
+## Collections
+
+### Bjorn Johansson
+
+> Digital art in the form of screensavers by designer Bjorn Johansson.
+
+Free (pay what you want)
+
+[![](screenshots/johansson.png)](https://johansson.design/screensavers/)
 
 ---
 

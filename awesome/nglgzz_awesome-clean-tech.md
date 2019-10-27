@@ -30,6 +30,10 @@ Short description.
 
 ### Vegetation, Agriculture & Food
 
+- [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+
+Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
@@ -53,6 +57,10 @@ Short description.
 - [Olio](https://olioex.com/) | UK | 2015
 
   Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
+
+- [Peckas Tomater](http://www.peckas.com) | Sweden | 2015
+
+  Combined tomato and fish farm grown in a system where fish basin waste water nourishes tomatoes, and the tomato bed in turn cleans the water which goes back to the fish basins. Their fish is grown without antibiotics and the tomates does not need fertilizers.
 
 - [Phytoponics](https://phytoponics.com/) | UK | 2016
 
@@ -87,7 +95,8 @@ Short description.
 ### Water
 
 - [The great bubble barrier](https://thegreatbubblebarrier.com) | Netherlands | 2016
-  Developped a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
+
+  Developed a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
 
@@ -185,6 +194,10 @@ Short description.
 
 ### Social Impact
 
+- [Billions in Change](https://billionsinchange.com/) | USA | 2015
+
+  Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
+
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
 
   Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
@@ -197,9 +210,17 @@ Short description.
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
+- [Ewally](https://ewally.com.mx/) | Mexico | 2017
+
+  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+
+- [Triodos Bank](https://www.triodos.com) | Netherlands | 1980
+
+   European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
 
 - [Unmade](https://unmade.com/) | England | 2013
 
@@ -208,6 +229,7 @@ Short description.
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
+- [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
