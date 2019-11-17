@@ -115,7 +115,7 @@ More showcase :
 * [itch.io showcase](https://itch.io/games/made-with-haxe)
 * [HaxePunk showcase](https://haxepunk.com/games/)
 * [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) :star:729
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) :star:935
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) :star:940
 
 ## Miscellaneous
 
@@ -155,7 +155,7 @@ More showcase :
 * [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
 ## Other haxe lists
-* [awesome haxe](https://github.com/nadako/awesome-haxe) :star:65
+* [awesome haxe](https://github.com/nadako/awesome-haxe) :star:66
 * [awesome snowkit](https://github.com/anissen/awesome-snowkit) :star:122
 * [awesome haxe js](https://github.com/MatthijsKamstra/awesome-haxe-js) :star:17
 

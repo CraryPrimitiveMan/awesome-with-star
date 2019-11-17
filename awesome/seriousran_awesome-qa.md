@@ -127,22 +127,22 @@ Lanugage Analysis
   - Entity Disambiguation / Entity Linking
 
 ## Codes
-- [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.  :star:1288
+- [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.  :star:1294
   - Official; Tensorflow v1.2
   - [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-- [QANet](https://github.com/NLPLearn/QANet) - A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions. :star:928
+- [QANet](https://github.com/NLPLearn/QANet) - A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions. :star:932
   - Google; Unofficial; Tensorflow v1.5
   - [Paper](#qanet)
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage. :star:553
   - MS; Unofficially by HKUST; Tensorflow v1.5
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-- [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras. :star:170
+- [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras. :star:171
   - MS; Unofficial; Keras v2.0.6
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-- [DrQA](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering. :star:337
+- [DrQA](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering. :star:338
   - Facebook; Official; Pytorch v0.4
   - [Paper](#drqa)
-- [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.  :star:19448
+- [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.  :star:19618
   - Google; Official implementation; Tensorflow v1.11.0
   - [Paper](https://arxiv.org/abs/1810.04805)
 
@@ -163,7 +163,7 @@ Lanugage Analysis
   - Paper: http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 - It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
-- [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) :star:1189
+- [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) :star:1191
   - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   - Paper: https://arxiv.org/abs/1506.03340
 - [GraphQuestions](https://github.com/ysu1989/GraphQuestions) :star:67
@@ -176,7 +176,7 @@ Lanugage Analysis
 - [MultiRC](https://cogcomp.org/multirc/)
   - A dataset of short paragraphs and multi-sentence questions
   - Paper: http://cogcomp.org/page/publication_view/833 
-- [NarrativeQA](https://github.com/deepmind/narrativeqa) :star:343
+- [NarrativeQA](https://github.com/deepmind/narrativeqa) :star:344
   - It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   - Paper: https://arxiv.org/pdf/1712.07040v1.pdf
 - [NewsQA](https://github.com/Maluuba/newsqa) :star:168

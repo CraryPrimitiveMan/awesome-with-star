@@ -18,9 +18,9 @@
 
 ### Official resources
 
-- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6265
+- [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) :star:6274
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook) :star:251
-- [Repo](https://github.com/yoshuawuyts/choo) :star:6265
+- [Repo](https://github.com/yoshuawuyts/choo) :star:6274
 - [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -32,10 +32,10 @@ under the hood:
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to :star:980
   library backends.
-- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:549
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes. :star:550
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed. :star:69
 - [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router. :star:104
-- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:175
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus. :star:176
 - [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library. :star:8
 - [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library. :star:34
 - [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module. :star:45
@@ -43,9 +43,9 @@ under the hood:
 
 ### Demos
 
-- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6265
+- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title)) :star:6274
 - [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
-- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6265
+- [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) :star:6274
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo)) :star:41
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
 - [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow)) :star:14

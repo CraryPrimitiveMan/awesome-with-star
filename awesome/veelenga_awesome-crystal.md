@@ -92,8 +92,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms :star:10
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms :star:8
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring :star:4
- * [haversine](https://github.com/mamantoha/haversine) - An Implementation of the Haversine formula :star:5
- * [kd_tree](https://github.com/mamantoha/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors" :star:5
+ * [haversine](https://github.com/mamantoha/haversine) - An Implementation of the Haversine formula :star:6
+ * [kd_tree](https://github.com/mamantoha/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors" :star:6
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs :star:7
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes :star:15
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset :star:1
@@ -127,9 +127,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library :star:3
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library :star:8
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog` :star:5
- * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library) :star:1545
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library) :star:1548
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings :star:24
- * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool)) :star:1078
+ * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool)) :star:1085
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter :star:26
@@ -142,8 +142,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces :star:93
  * [cli](https://github.com/mosop/cli) - Library for building command-line interface applications :star:89
  * [clicr](https://github.com/j8r/clicr) -  A simple declarative command line interface builder :star:22
- * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder :star:68
- * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder :star:87
+ * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder :star:71
+ * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder :star:88
  * [completion](https://github.com/f/completion) - Easy command line completion engine :star:64
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments :star:20
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
@@ -154,13 +154,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data. :star:44
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar :star:8
  * [tablo](https://github.com/hutou/tablo) - A flexible terminal table generator :star:8
- * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns :star:18
+ * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns :star:19
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator :star:21
  * [terminimal](https://github.com/aca-labs/terminimal) - A tiny CLI toolkit for building terminal apps for humans :star:5
  * [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
 ## Code Analysis and Metrics
- * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool :star:240
+ * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool :star:244
 
 ## Compression
  * [brotli.cr](https://github.com/naqvis/brotli.cr) - Bindings to the Google brotli compression library :star:5
@@ -176,23 +176,23 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file :star:60
  * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader :star:4
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules :star:44
- * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats :star:28
+ * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats :star:30
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening :star:6
- * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney](https://github.com/RubyMoney/money)) :star:2211
+ * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney](https://github.com/RubyMoney/money)) :star:2213
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format :star:14
- * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass](https://github.com/sass/libsass/) binding) :star:4052
+ * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass](https://github.com/sass/libsass/) binding) :star:4055
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease :star:3
  * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words :star:7
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter) :star:13
 
 ## Cryptography
  * [openssl.cr](https://github.com/z64/openssl.cr) - This library provides binding for OpenSSL library
- * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API :star:8
+ * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API :star:11
 
 ## Data Formats
- * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser :star:20
+ * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser :star:21
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser :star:3
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer :star:19
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
@@ -217,7 +217,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB :star:1
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal :star:71
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver :star:328
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client :star:298
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client :star:299
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) - Driver for RethinkDB / RebirthDB :star:11
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings :star:76
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) - EventQL driver :star:7
@@ -230,22 +230,22 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL :star:7
 
 ## Debugging
- * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging :star:48
+ * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging :star:51
 
 ## Dependency Injection
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container :star:26
  * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal :star:3
 
 ## Development Tools
- * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs :star:249
+ * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs :star:250
  * [kemal-watcher](https://github.com/faustinoaq/kemal-watcher) - Kemal plugin to watch files and live-reload the browser :star:17
- * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes :star:208
+ * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes :star:209
  * [sentry-run](https://github.com/faustinoaq/sentry-run) - Reload code changes using Sentry.run :star:10
  * [Warden](https://github.com/diggersheep/warden) - Watches files, run command and a git command if succeed on file changes :star:9
  * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat :star:18
 
 ## Email
- * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library :star:45
+ * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library :star:46
  * [crystal-email](https://github.com/arcage/crystal-email) - Simple e-mail sending library :star:76
  * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - A RFC compliant Email validator
  * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client :star:5
@@ -261,7 +261,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable :star:1
  * [crsfml-examples](https://github.com/oprypin/crsfml-examples) - Simple games made with CrSFML :star:46
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game :star:82
- * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example :star:433
+ * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example :star:434
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD example :star:1
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters :star:183
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal :star:135
@@ -274,7 +274,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL :star:7
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React :star:59
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) - Build Realtime Web applications with Kemal and Vue.js :star:32
- * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core :star:138
+ * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core :star:137
  * [realtime-todo-app](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL :star:19
  * [try.cr](https://github.com/maiha/try.cr) - Try monad :star:23
 
@@ -292,7 +292,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT :star:23
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal :star:38
- * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth) :star:71
+ * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth) :star:72
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit :star:44
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers :star:6
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.) :star:8
@@ -308,8 +308,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## GUI library
  * [hedron](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, with markup language capabilities :star:79
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui) :star:9039
- * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen :star:140
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui) :star:9047
+ * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen :star:141
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap :star:17
@@ -323,15 +323,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## HTTP
  * [Cable](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client :star:43
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client :star:94
- * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem :star:131
+ * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem :star:132
  * [crul](https://github.com/porras/crul) - Command line HTTP client :star:104
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool :star:112
  * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers :star:124
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers :star:23
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping) :star:16
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms :star:14
- * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks :star:44
- * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation :star:72
+ * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks :star:45
+ * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation :star:73
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (Crystal stdlib)
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (Crystal stdlib)
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
@@ -353,7 +353,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal :star:25
  * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flow.org/)
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
- * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web :star:1346
+ * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web :star:1349
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
@@ -370,10 +370,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on https://github.com/SergioFierens/ai4r) :star:14
- * [Cadmium](https://github.com/watzon/cadmium) - NLP library based heavily on [natural](https://github.com/NaturalNode/natural) :star:8846
+ * [Cadmium](https://github.com/watzon/cadmium) - NLP library based heavily on [natural](https://github.com/NaturalNode/natural) :star:8856
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding :star:75
- * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal) :star:108
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:137090
+ * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal) :star:115
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow) :star:137398
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities :star:7
@@ -390,7 +390,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) - Library for working with container registries :star:2
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization library :star:29
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser :star:16
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github :star:5
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github :star:6
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library :star:63
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library :star:36
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps :star:195
@@ -433,10 +433,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [avram](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases. :star:46
- * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features :star:141
+ * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features :star:143
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto :star:297
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite :star:190
- * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system :star:239
+ * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system :star:241
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis :star:57
  * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder :star:85
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format :star:4
@@ -466,21 +466,21 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing :star:25
  * [mosquito](https://github.com/robacarp/mosquito/) - Redis backed periodic and ad hoc job processing :star:93
  * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client :star:22
- * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing :star:591
+ * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing :star:592
 
 ## Routing
  * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library :star:64
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server :star:206
- * [toro](https://github.com/soveran/toro) - Tree Oriented Routing :star:73
+ * [toro](https://github.com/soveran/toro) - Tree Oriented Routing :star:75
 
 ## Scheduling
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns :star:34
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks :star:56
- * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs :star:19
+ * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs :star:20
 
 ## Science and Data analysis
- * [bottle](https://github.com/crystal-data/bottle) - Numerical computing library supporting N-Dimensional data :star:20
+ * [bottle](https://github.com/crystal-data/bottle) - Numerical computing library supporting N-Dimensional data :star:23
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg :star:31
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model :star:11
  * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
@@ -502,14 +502,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Task management
  * [cake](https://github.com/axvm/cake) - Production-ready Make-like utility tool :star:38
- * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system :star:56
+ * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system :star:57
 
 ## Template Engine
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal :star:52
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
- * [Jbuilder](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder :star:26
- * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines :star:107
+ * [Jbuilder](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder :star:27
+ * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines :star:108
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim :star:166
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files :star:10
  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions :star:46
@@ -521,19 +521,19 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara :star:37
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API testing library :star:4
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts :star:17
- * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions :star:98
+ * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions :star:99
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal :star:36
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
- * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop) :star:2895
- * [vcr](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal :star:29
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop) :star:2896
+ * [vcr](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal :star:30
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump](https://github.com/bwilczek/watir_pump) :star:13
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests :star:73
 
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - Get AWS credentials in various ways :star:2
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4 :star:7
- * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface :star:53
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface :star:55
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms :star:10
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) - Bugsnag exception notifier and sidekiq middleware :star:5
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - Consul API client :star:9
@@ -542,7 +542,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper :star:2
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks :star:16
- * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library :star:101
+ * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library :star:102
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing :star:5
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper :star:18
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API :star:13
@@ -551,7 +551,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client :star:1
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API :star:11
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API :star:4
- * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:22710
+ * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry) :star:22784
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library :star:16
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API :star:69
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data :star:2
@@ -563,16 +563,16 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin :star:8
 
 ## Web Frameworks
- * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:1864
+ * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework :star:1868
  * [athena](https://github.com/blacksmoke16/athena) - Modular, annotation based, API oriented framework with built in param conversion :star:48
- * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2716
- * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal) :star:55
- * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests :star:1544
- * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility :star:77
+ * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra :star:2723
+ * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal) :star:54
+ * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests :star:1550
+ * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility :star:78
 
 ## Web Servers
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server :star:141
- * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development :star:132
+ * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development :star:133
  * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server :star:21
 
 # Community
@@ -606,14 +606,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
- * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit :star:20
+ * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit :star:21
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal :star:34
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git :star:26
- * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby) :star:391
- * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube :star:1495
+ * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby) :star:394
+ * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube :star:1867
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats :star:22
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator :star:44
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
@@ -648,7 +648,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets :star:13
  * Vim
-   * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal :star:277
+   * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal :star:278
    * [vim-slang](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine :star:9
  * Visual Studio Code
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode :star:11

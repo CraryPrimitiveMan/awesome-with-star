@@ -74,7 +74,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - Play with Flexbox examples on CodePen.
 - [Flexbox Defense](http://www.flexboxdefense.com) - A tower defense game in the browser to learn about Flexbox with fun.
 - [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
-- [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them. :star:11538
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them. :star:11567
 - [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 
 ### Grid

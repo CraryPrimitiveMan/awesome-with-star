@@ -38,7 +38,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse.
 - [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - Collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils.
 - [Cryptocurrency GitHub Activity and Market Cap Dataset](https://rvantonder.github.io/CryptOSS/) - Activity such as commits, stars, prices, and market cap of over 200 cryptocurrency projects on GitHub over time. Raw, historic data is also [available](https://zenodo.org/record/2595588#.XRuzuBNKhSM).
-- [Defects4J](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research. :star:224
+- [Defects4J](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research. :star:226
 - [Eclipse AERI stacktraces](https://software-data.org/datasets/aeri-stacktraces) - Collection of stacktraces of Exceptions encountered by users of the Eclipse IDE, as retrieved by the AERI reporting system..
 - [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - All the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'.
 - [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org). :star:1
@@ -60,7 +60,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 - [Ultimate Debian Database (UDD)](https://wiki.debian.org/UltimateDebianDatabase) - Data about various aspects of Debian (e.g. packages, bugs, mainteners) in the same SQL database.
 - [Unified Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/) - Static source code based datasets which includes the Bugcatchers Bug Dataset, the [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php), the [Eclipse Bug Dataset](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/), the [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/), some datasets from the [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) repository.
-- [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution. :star:3916
+- [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution. :star:3935
 
 ## Tools
 
@@ -70,13 +70,13 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [CryptOSS](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects. :star:3
 - [DbDeo](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells. :star:7
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
-- [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java. :star:57
+- [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java. :star:58
 - [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories. :star:14
 - [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph. :star:14
 - [Puppeteer](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code. :star:36
-- [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories. :star:255
+- [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories. :star:259
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code. :star:32
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_. :star:52
 - [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git). :star:13

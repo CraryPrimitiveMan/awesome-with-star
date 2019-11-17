@@ -56,7 +56,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### General Purpose
 
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-* [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers. :star:82
+* [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers. :star:84
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
@@ -64,7 +64,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Format Checking
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
-* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/). :star:49
+* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/). :star:50
 
 <a id="lib-visualization"></a>
 ### Visulization
@@ -72,25 +72,25 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization. :star:351
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/). :star:57
-* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:15
+* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide. :star:16
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
 
-* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:75
+* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/). :star:77
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures. :star:81
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1779
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :star:1785
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry. :star:364
 
 <a id="lib-web"></a>
 ### Web APIs
 
-* [webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web. :star:63
+* [webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web. :star:64
 * [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API.
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the NCI Chemical Identifier Resolver (CIR).
@@ -106,8 +106,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:252
-* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:149
+* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories. :star:253
+* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles. :star:148
 
 ## Journals
 
@@ -120,7 +120,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
-* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data. :star:64
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data. :star:66
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399%2F%2F5399) - ChemInformatics course (Spring 2017) of University of Arkansas at Little Rock by Robert Belford
 
 ### Blogs
@@ -149,8 +149,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1174
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:213
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo. :star:1181
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry. :star:217
 
 ## License
 

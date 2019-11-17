@@ -50,10 +50,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open source projects
 
 - [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
-- [Netbox](https://github.com/digitalocean/netbox) :star:5825
-- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API. :star:2088
-- [go-libvirt](https://github.com/digitalocean/go-libvirt) :star:432
-- [go-qemu](https://github.com/digitalocean/go-qemu) :star:386
+- [Netbox](https://github.com/digitalocean/netbox) :star:5849
+- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API. :star:2102
+- [go-libvirt](https://github.com/digitalocean/go-libvirt) :star:436
+- [go-qemu](https://github.com/digitalocean/go-qemu) :star:389
 
 ## Community OSS projects
 
@@ -70,8 +70,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Clients
 
-- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services. :star:2088
-- [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client. :star:179
+- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services. :star:2102
+- [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client. :star:178
 - [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client. :star:72
 - [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX. :star:1475
@@ -85,7 +85,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Reddit community](https://www.reddit.com/r/digital_ocean/)
 - [`##digitalocean` on freenode](https://webchat.freenode.net/)
 - [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct) :star:277
-- [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet. :star:805
+- [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet. :star:804
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
 ## License

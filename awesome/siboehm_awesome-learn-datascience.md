@@ -43,7 +43,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 - [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 - [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
-- [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions. :star:22252
+- [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions. :star:22352
 
 ### scikit-learn
 [scikit-learn](http://scikit-learn.org/stable/) is the most common library for Machine Learning and Data Science in Python.
@@ -63,10 +63,10 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-- [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science) :star:2569
+- [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science) :star:2588
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 - [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
-- [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges. :star:9887
+- [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges. :star:9939
 - [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 
@@ -80,9 +80,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:10659
-- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:3751
-- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:9657
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) :star:10683
+- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) :star:3756
+- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star:9668
 
 ## Contribute
 

@@ -197,14 +197,14 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:5020
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:11253
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:42482
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:14019
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:8669
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:5034
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star:11295
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:42536
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star:14062
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:8679
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo) :star:40
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) :star:5969
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:290
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:765
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) :star:5981
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) :star:293
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) :star:767
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2) :star:350
 

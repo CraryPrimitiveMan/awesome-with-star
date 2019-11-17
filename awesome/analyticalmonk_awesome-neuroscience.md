@@ -30,20 +30,20 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:447
+- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models. :star:449
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data. :star:153
-- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:560
-- [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:274
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:1126
-- [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:284
-- [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:754
-- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:6022
-- [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. :star:343
+- [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data. :star:562
+- [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging. :star:280
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG). :star:1132
+- [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats. :star:287
+- [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python. :star:758
+- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. :star:6023
+- [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. :star:348
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments. :star:81
 
 ### Matlab
 
-- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:343
+- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis. :star:344
 - [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### C++
@@ -54,8 +54,8 @@ Software, libraries and frameworks for development purposes.
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging. :star:231
 
 ### R
-- [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons. :star:28
-- [brainGraph](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data. :star:66
+- [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons. :star:29
+- [brainGraph](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data. :star:67
 
 ## Resources
 Interesting resources related to neuroscience.
@@ -92,7 +92,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - A mailing list that is is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience. 
 
 ### Miscellaneous
-- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets. :star:36097
+- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets. :star:36210
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.

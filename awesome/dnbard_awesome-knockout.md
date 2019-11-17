@@ -3,7 +3,7 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:9634
+- [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript :star:9648
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections :star:1073
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications :star:1774
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views :star:96
@@ -17,7 +17,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge :star:67
 
 ## Plugins and libraries
-- [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS :star:554
+- [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS :star:555
 - [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS :star:1029
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality :star:541
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout :star:287
@@ -37,7 +37,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Custom Bindings
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes :star:241
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings :star:172
-- [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler :star:135
+- [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler :star:134
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout :star:88
 
 ## Components

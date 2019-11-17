@@ -228,7 +228,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Game Development
-* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:291
+* [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion. :star:290
 
 
 ### Graphical User Interface

@@ -63,7 +63,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### Penetration testing
 
 - [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots. :star:63
-- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer. :star:5
+- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer. :star:6
 
 ### Application layer
 
@@ -183,7 +183,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - [Connext DDS](https://www.rti.com/products/connext-dds-professional) - Connectivity Software for Developing and Integrating IIoT Systems. :heavy_dollar_sign:
 - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS). ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
-- [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy_dollar_sign: :star:160
+- [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy_dollar_sign: :star:161
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) - Implementation of Twin Oaks Computing, Inc.. :heavy_dollar_sign:
 - [freertps](https://github.com/ros2/freertps) - A free, portable, minimalist, work-in-progress RTPS implementation. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [cdds](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
@@ -203,7 +203,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS. :star:20
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2951
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance. :star:2954
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
 ## Forks
@@ -219,8 +219,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent packages](https://index.ros.org/packages/page/1/time/#ardent).
 - [ROS 2 Design](http://design.ros2.org/) - Articles which inform and guide the ROS 2.0 design efforts.
 - [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
-- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1331
-- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1331
+- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples. :star:1337
+- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2. :star:1337
 - [ROS 2 Distribution (rosdistro)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages. :star:2
 - [ROS2 package status](http://repo.ros2.org/).
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) - Status of ROS Bouncy packages.

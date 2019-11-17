@@ -1088,7 +1088,7 @@ This list also uses tags to help when searching the contents:
 
 ## See also
 
-* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments :star:1743
+* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments :star:1744
 * [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
 
 ## Credits

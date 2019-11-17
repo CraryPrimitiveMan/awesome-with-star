@@ -50,13 +50,13 @@ A curated list about React Hooks.
 - [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - Ross Bulat.
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston.
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston.
-- [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds. :star:353
+- [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds. :star:355
 
 ## Discussions
 
-- [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson. :star:18345
-- [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge. :star:2547
-- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos. :star:82464
+- [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson. :star:18386
+- [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge. :star:2555
+- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos. :star:82657
 
 ## Examples
 
@@ -64,9 +64,9 @@ A curated list about React Hooks.
 - [React Hooks counter](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js) - Counter using useState of React Hooks.
 - [Toggle component](https://codesandbox.io/s/m449vyk65x) - Toggle component made with React Hooks.
 - [Hooks test](https://github.com/jacobp100/hooks-test) - Somewhat complicated use case solved relatively nicely with React Hooks. :star:201
-- [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example. :star:1355
-- [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use. :star:384
-- [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1408
+- [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example. :star:1363
+- [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use. :star:395
+- [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1420
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by [Gabe Ragland](https://twitter.com/gabe_ragland).
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) - Collection of React Hooks.
 - [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
@@ -76,23 +76,23 @@ A curated list about React Hooks.
 
 ## Extensions/Libraries
 
-- [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store. :star:1916
-- [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. :star:8492
-- [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations. :star:3850
+- [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store. :star:1927
+- [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. :star:8646
+- [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations. :star:3865
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) - This plugin enforce rule of hooks to avoid common mistakes.
-- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks. :star:234
-- [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state. :star:705
-- [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7. :star:1355
-- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase. :star:759
+- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks. :star:236
+- [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state. :star:711
+- [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7. :star:1363
+- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase. :star:764
 - [react-intersection-visible-hook](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer. :star:42
-- [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer. :star:21
-- [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components. :star:1379
+- [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer. :star:22
+- [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components. :star:1391
 - [react-with-hooks](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API. :star:155
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid. :star:13
-- [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests. :star:994
-- [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API. :star:120
-- [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes. :star:1054
-- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation. :star:4040
+- [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests. :star:1002
+- [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API. :star:124
+- [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes. :star:1061
+- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation. :star:4452
 
 ## License
 

@@ -45,7 +45,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:3049
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) :star:3058
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
  
 ## Data Protection Authorities 
@@ -63,6 +63,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - Research related to understand and improving the usability of privacy and security.
 * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
 * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
+* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
   
 ## Solutions providers
 * [OneTrust](https://www.onetrust.com/)
@@ -73,10 +74,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Collibra](https://www.collibra.com)
     
 ## Related
-* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) :star:1288
-* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:119074
-* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:628
-* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:268
+* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) :star:1292
+* [Awesome: Security](https://github.com/sindresorhus/awesome#security) :star:119463
+* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) :star:633
+* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme) :star:273
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

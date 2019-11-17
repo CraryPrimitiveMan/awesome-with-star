@@ -32,12 +32,12 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.   :star:1559
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.   :star:1562
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
   
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).   :star:2583
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).   :star:2584
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
@@ -81,6 +81,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
   
@@ -253,7 +254,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
 
-- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4120
+- [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.   :star:4122
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/),
   [Repo](https://github.com/BafS/Gutenberg)

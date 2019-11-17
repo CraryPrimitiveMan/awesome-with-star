@@ -31,7 +31,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:44473
+- [Rails Source Code](https://github.com/rails/rails) :star:44505
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 [^top](#table-of-contents)
@@ -65,7 +65,7 @@
 
 ### Articles
 
-- [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App) :star:483
+- [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App) :star:484
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
 - [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
 - [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
@@ -105,8 +105,8 @@
 
 ## Open Source Rails Apps
 
-- [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents :star:107
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants :star:487
+- [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents :star:111
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants :star:486
 - [airCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone [:earth_africa:](http://aircasting.org)
 - [alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction  [:earth_africa:](http://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [:earth_africa:](https://alonetone.com)
@@ -115,18 +115,18 @@
 - [autolab](https://github.com/autolab/Autolab) - A course management service - [:earth_africa:](http://www.autolabproject.com)
 - [beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere :star:120
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [:earth_africa:](https://bikeindex.org)
-- [blackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server - **using Rails 6.0** :star:455
-- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1434
-- [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:379
+- [blackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server - **using Rails 6.0** :star:456
+- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation :star:1433
+- [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR :star:380
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [:earth_africa:](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc :star:2977
+- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc :star:2983
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [:earth_africa:](https://catarse.me/)
 - [ciao](https://github.com/brotandgames/ciao) - URL status checking app - **using Rails 6.0** :star:1005
 - [coRM](https://github.com/SIGIRE/CoRM) - Customer relationship management app - **using Rails 3.2** - [:earth_africa:](http://www.corm.fr)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [:earth_africa:](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [:earth_africa:](https://www.codetriage.com/)
-- [commudle](https://github.com/gdgnewdelhi/commudle) - Community management app - **using Rails 5.2** :star:242
+- [commudle](https://github.com/gdgnewdelhi/commudle) - Community management app - **using Rails 5.2** :star:243
 - [contribulator](https://github.com/24pullrequests/contribulator) - Open source project finder app - **using Rails 5.1** :star:87
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Learning platform app - **using Rails 5.2** :star:80
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5 :star:103
@@ -134,7 +134,7 @@
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform :star:593
 - [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -  Free in-browser coding-dojo [:earth_africa:](http://cyber-dojo.org)
-- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 :star:756
+- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 :star:759
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - Case management app - **using Rails 5.2** :star:65
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Social platform app specialized for web development - **using Rails 5.2** - [:earth_africa:](https://dev.to)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database :star:58
@@ -142,7 +142,7 @@
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -A platform for community discussion  [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP :star:207
-- [postal](https://github.com/atech/postal) - Mail delivery platform app - **using Rails 5.2** :star:9301
+- [postal](https://github.com/atech/postal) - Mail delivery platform app - **using Rails 5.2** :star:9320
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click :star:114
 - [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).  :star:150
@@ -151,7 +151,7 @@
 - [feedi](https://github.com/davidesantangelo/feedi) - RSS feed converter (to API) app - **using Rails 5.2** - [:earth_africa:](https://search.feedi.me)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click :star:84
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [:earth_africa:](https://gitlab.com/gitlab-org/gitlab-ce) - :star:22042
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [:earth_africa:](https://gitlab.com/gitlab-org/gitlab-ce) - :star:22046
 - [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [:earth_africa:](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [:earth_africa:](http://www.growstuff.org/)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [:earth_africa:](http://www.hashrobot.com)
@@ -159,7 +159,7 @@
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [:earth_africa:](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [:earth_africa:](https://happyhours.io)
 - [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates :star:40
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:2009
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans :star:2010
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [:earth_africa:](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails :star:74
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [:earth_africa:](http://kanban.seanomlor.com)
@@ -167,13 +167,13 @@
 - [leihs](https://github.com/leihs/leihs) - An easy inventory handling system :star:90
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A website for career-oriented personal strategic planning - [:earth_africa:](http://lifetoremindhub.herokuapp.com)
 - [listenup](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [:earth_africa:](http://listenup-songshare.herokuapp.com)
-- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site :star:2414
+- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site :star:2420
 - [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making tool that makes it easy for anyone [:earth_africa:](https://www.loomio.org)
 - [mastodon](https://github.com/tootsuite/mastodon) - GNU Social-compatible microblogging server [:earth_africa:](https://mastodon.social)
 - [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [:earth_africa:](http://mumuki.io)
 - [obtvse2](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails :star:263
 - [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails [:earth_africa:](https://church.io)
-- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge :star:673
+- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge :star:674
 - [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress :star:47
 - [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [:earth_africa:](https://www.openproject.org)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [:earth_africa:](http://www.openstreetmap.org)
@@ -204,7 +204,7 @@
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [:earth_africa:](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [:earth_africa:](http://www.getontracks.org)
-- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses :star:144
+- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses :star:145
 - [videoGameList](https://github.com/connorshea/VideoGameList) - A video game library tracking web app - **using Rails 6.0** - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved :star:561
@@ -216,7 +216,7 @@
 
 ### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io). :star:1382
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io). :star:1384
   
 [^top](#table-of-contents)
 
@@ -236,8 +236,8 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:6102
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1109
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:6123
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1110
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2640
 
 [^top](#table-of-contents)

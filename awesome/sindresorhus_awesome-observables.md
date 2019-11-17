@@ -20,14 +20,14 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/tc39/proposal-observable) :star:2325
+- [Overview](https://github.com/tc39/proposal-observable) :star:2330
 - [Specification](https://tc39.github.io/proposal-observable/)
 
 
 ## Implementations
 
-- [zen-observable](https://github.com/zenparsing/zen-observable) :star:569
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:20249
+- [zen-observable](https://github.com/zenparsing/zen-observable) :star:572
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:20315
 
 
 ## Packages
@@ -36,7 +36,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable. :star:28
 - [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise. :star:36
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable. :star:71
-- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:154
+- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill. :star:156
 - [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function. :star:36
 - [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage. :star:53
 

@@ -59,13 +59,13 @@
 - **Custom Elements** provide a way for authors to build their own fully-featured DOM elements.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) :star:2519
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) :star:2527
   - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
 
 - **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) :star:2519
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) :star:2527
   - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 
 - **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
@@ -77,8 +77,8 @@
 #### CSS Shadow Parts
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts) :star:2519
-- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md) :star:10
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts) :star:2527
+- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md) :star:11
 - [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
 - [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
 - [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
@@ -87,17 +87,17 @@
 
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated) :star:2519
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated) :star:2527
 
 #### Custom State Pseudo class
 
 - [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
-- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md) :star:2954
+- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md) :star:2968
 
 #### Constructable Stylesheet Objects
 
 - [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html) :star:2519
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html) :star:2527
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md) :star:91
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
@@ -105,7 +105,7 @@
 
 - [std-switch](https://github.com/tkent-google/std-switch) - Proposal for `<std-switch>` HTML element implementing a 'switch' control. :star:66
 - [std-toast](https://github.com/jackbsteinberg/std-toast) - Proposal for `<std-toast>` HTML element implementing a 'toast' pop-up notification. :star:70
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast) :star:2519
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast) :star:2527
 
 ### Polyfills
 
@@ -113,16 +113,16 @@
 
 The polyfills below are maintained by Polymer team.
 
-- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polyfill for HTML Custom Elements v1. :star:213
-- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim. :star:213
-- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim. :star:213
-- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`. :star:213
+- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polyfill for HTML Custom Elements v1. :star:218
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim. :star:218
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim. :star:218
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`. :star:218
 
 #### @ungap
 
 The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
-- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - polyfill for Custom Elements builtin extends. :star:52
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - polyfill for Custom Elements builtin extends. :star:53
 
 ## Articles
 
@@ -167,7 +167,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
-- [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki) :star:788
+- [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki) :star:790
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
@@ -200,22 +200,22 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators. :star:27
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
-- [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation. :star:589
-- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating). :star:10197
+- [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation. :star:594
+- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating). :star:10241
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
 - [readymade](https://github.com/readymade-ui/readymade) - JavaScript microlibrary for developing Web Components with decorators. :star:29
-- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint. :star:3077
+- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint. :star:3081
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards. :star:673
 - [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API. :star:11
 
 ### Functional
 
-- [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks. :star:302
+- [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks. :star:303
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components. :star:24
-- [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1408
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1584
+- [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components. :star:1420
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1602
 - [reLift-HTML](https://github.com/mardix/relift-html) - Small (3kb) view library allowing to create Web Components and to make HTML pages reactive. :star:325
-- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way. :star:40
+- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way. :star:41
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions. :star:258
 - [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming. :star:34
 
@@ -228,24 +228,24 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries. :star:46
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component. :star:85
-- [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements. :star:459
+- [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements. :star:460
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js. :star:18
 
 ## Component Libraries
 
-- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System. :star:12
-- [AMP HTML](https://github.com/ampproject/amphtml) - Web component library for building web pages that render with reliable and fast performance. :star:13222
+- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System. :star:13
+- [AMP HTML](https://github.com/ampproject/amphtml) - Web component library for building web pages that render with reliable and fast performance. :star:13234
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element. :star:3
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:31
-- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud. :star:16
-- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns. :star:307
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:34
+- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud. :star:19
+- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns. :star:311
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project. :star:73
-- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1350
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1374
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph. :star:271
-- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components, and the tools to build them. :star:90
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Components library providing the enterprise-flavored sugar on top of native APIs. :star:565
-- [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications. :star:267
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look. :star:7604
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components, and the tools to build them. :star:91
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Components library providing the enterprise-flavored sugar on top of native APIs. :star:568
+- [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications. :star:275
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look. :star:7646
 
 ## Frameworks
 
@@ -276,7 +276,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ## Tools
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - Web Components and Shadow DOM support for Cypress. :star:57
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics. :star:107
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics. :star:111
 
 ## Books
 
@@ -323,7 +323,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation. :star:805
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation. :star:814
 
 ## History
 

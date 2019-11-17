@@ -33,9 +33,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-- [Docs](https://github.com/substack/node-browserify#usage) :star:12949
+- [Docs](https://github.com/substack/node-browserify#usage) :star:12955
 - [Handbook](https://github.com/substack/browserify-handbook) :star:4382
-- [Repo](https://github.com/substack/node-browserify) :star:12949
+- [Repo](https://github.com/substack/node-browserify) :star:12955
 - [Website](http://browserify.org/)
 
 ## Community Resources
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:2023
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping. :star:2025
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun. :star:795
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server. :star:242
 
@@ -104,15 +104,15 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:394
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser. :star:395
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers! :star:63
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:909
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser. :star:911
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:1035
+- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams. :star:1037
 
 ## Contributing
 

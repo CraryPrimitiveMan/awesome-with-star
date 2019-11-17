@@ -26,7 +26,7 @@
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon) :star:19403
+* [GitHub repository](https://github.com/tootsuite/mastodon) :star:19648
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md) :star:1365
 
 ## Documentation
@@ -39,14 +39,14 @@
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:117
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:278
+* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm). :star:118
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python). :star:279
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go). :star:117
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon. :star:98
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS. :star:14
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 * [Mastalab](https://github.com/stom79/mastalab) - Android client.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:435
+* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. :star:437
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon. :star:118
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
@@ -167,7 +167,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Libraries
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:355
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API. :star:361
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js. :star:26
 
 ## Hosting

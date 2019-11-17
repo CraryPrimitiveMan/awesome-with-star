@@ -33,8 +33,8 @@
 ## Resources
 
 - [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
-- [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code. :star:989
-- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2113
+- [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code. :star:992
+- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2116
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
 ## Applications
@@ -42,10 +42,10 @@
 ### Development environment
 
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer. :star:10572
-- [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux. :star:12162
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1920
-- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm. :star:2656
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer. :star:10648
+- [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux. :star:12200
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows. :star:1923
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm. :star:2664
 
 ### Continuous integration
 
@@ -55,7 +55,7 @@
 
 ### Virtualization
 
-- [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing. :star:59
+- [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing. :star:60
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 - [Docker](https://www.docker.com/) - Software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.
 
@@ -69,7 +69,7 @@
 
 ### Databases
 
-- [Redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. :star:798
+- [Redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. :star:803
 
 ## Libraries
 
@@ -79,47 +79,47 @@
 - [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux). :star:87
 - [getos](https://github.com/retrohacker/getos) - Retrieve the current OS, including Linux distribution. :star:55
 - [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system. :star:72
-- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information. :star:960
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information. :star:965
 
 ### Shell
 
-- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`. :star:2682
+- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`. :star:2693
 - [gulp-execa](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js. :star:40
-- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`. :star:656
-- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands. :star:10394
-- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc). :star:1804
+- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`. :star:662
+- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands. :star:10420
+- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc). :star:1810
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks. :star:473
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks. :star:371
-- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste. :star:340
+- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste. :star:339
 
 ### Environment
 
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4287
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4301
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform. :star:137
-- [username](https://github.com/sindresorhus/username) - Get the current username. :star:109
+- [username](https://github.com/sindresorhus/username) - Get the current username. :star:110
 - [osenv](https://github.com/npm/osenv) - Cross-platform environment variables. :star:128
 - [is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges. :star:20
 - [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`. :star:189
 
 ### Filesystem
 
-- [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform. :star:1025
+- [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform. :star:1024
 - [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`. :star:385
 - [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`. :star:247
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform. :star:239
-- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching. :star:5963
-- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows. :star:908
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform. :star:238
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching. :star:5984
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows. :star:911
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object. :star:4
-- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`. :star:82
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`. :star:81
 
 ### Signals
 
-- [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform. :star:503
+- [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform. :star:502
 - [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler. :star:115
 
 ### Processes
 
-- [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes. :star:132
+- [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes. :star:131
 - [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists. :star:28
 
 ### Streams
@@ -129,8 +129,8 @@
 
 ### Desktop UI
 
-- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform. :star:1711
-- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications. :star:4071
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform. :star:1716
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications. :star:4086
 
 ### Windows registry
 
@@ -140,13 +140,13 @@
 
 ## Known issues
 
-- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - By default, `cmd.exe` does not display Unicode characters on Windows. :star:35361
-- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux. :star:35361
+- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - By default, `cmd.exe` does not display Unicode characters on Windows. :star:35356
+- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux. :star:35356
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - Depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior. :star:29
 
 ## See also
 
-- [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop. :star:301
+- [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop. :star:303
 
 ## Support
 

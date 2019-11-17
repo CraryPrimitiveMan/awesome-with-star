@@ -38,7 +38,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
 
 ### Windows
-- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:18971
+- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:18993
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on. :star:20
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
@@ -57,7 +57,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Cross-Platform
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron. :star:3
 - [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface. :star:1
-- [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator. :star:11
+- [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator. :star:12
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
 - [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math. :star:92

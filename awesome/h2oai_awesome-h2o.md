@@ -53,6 +53,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) Steven N. Hart, Eric C. Polley, Hermella Shimelis, Siddhartha Yadav, Fergus J. Couch (2019)
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) Fernando Itano, Ricardo Pires, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandeza. (2019)
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  Fernando Itano, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandez. (2018)
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050) Gregory B. Auffenberg, Khurshid R. Ghani, Shreyas Ramani, Etiowo Usoro, Brian Denton, Craig Rogers, Benjamin Stockton, David C. Miller, Karandeep Singh. (2018)
@@ -82,7 +83,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 - [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015 :star:1715
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015 :star:1718
 
 ## Presentations
 
