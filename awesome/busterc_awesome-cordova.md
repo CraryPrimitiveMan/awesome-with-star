@@ -16,7 +16,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:146
+* [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) :star:147
 
 ## Plugins
 
@@ -29,8 +29,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1235
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:759
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) :star:1241
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) :star:760
 * [jQuery Mobile](https://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -57,7 +57,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react) :star:1
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
     * [generator-cordova-www](https://github.com/busterc/generator-cordova-www)
-    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:684
+    * [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic) :star:685
     * [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova) :star:1
     * [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova) :star:2
     * [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova) :star:24
@@ -65,7 +65,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:34
   * Icons
-    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:677
+    * [cordova-icon](https://github.com/AlexDisler/cordova-icon) :star:679
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) :star:5
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) :star:34
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) :star:6
   * [ripple](https://github.com/ripple-emulator/ripple) :star:34
 * Building
-  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) :star:287
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) :star:290
   * [cordova-xml](https://github.com/mifi/cordova-xml) :star:5
   * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch) :star:1
   * [xavtool](https://github.com/gabrielrobert/xavtool) :star:22

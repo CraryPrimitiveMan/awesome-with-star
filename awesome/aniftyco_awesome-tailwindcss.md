@@ -28,53 +28,54 @@
 
 ## Plugins
 
-- [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - Adds better default styles to form elements. :star:524
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables. :star:148
-- [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`. :star:26
+- [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - Adds better default styles to form elements. :star:545
+- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables. :star:158
+- [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`. :star:35
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities. :star:6
-- [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities. :star:76
+- [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities. :star:83
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities. :star:4
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities. :star:6
-- [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities. :star:91
-- [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities. :star:24
-- [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility. :star:61
+- [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities. :star:95
+- [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities. :star:26
+- [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility. :star:63
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities. :star:11
 - [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities. :star:4
-- [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants. :star:44
+- [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants. :star:46
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants. :star:4
-- [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities. :star:21
+- [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities. :star:22
 - [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities. :star:1
 - [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities. :star:4
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component. :star:10
-- [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities. :star:102
+- [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities. :star:103
 - [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Adds `hyphens` utilities. :star:2
-- [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities. :star:29
+- [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities. :star:30
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities. :star:6
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities. :star:3
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query. :star:101
+- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query. :star:115
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - Adds visibility classes that work with Vue.js's `v-cloak` directive. :star:4
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind CSS 1.0.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities. :star:51
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order) - Extends `order` utilities. :star:31
-- [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities. :star:70
-- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities. :star:122
-- [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variants. :star:42
-- [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table utilities based on Bootstrap's tables. :star:49
-- [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities. :star:62
-- [Card](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components. :star:12
+- [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities. :star:74
+- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities. :star:124
+- [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variants. :star:44
+- [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table utilities based on Bootstrap's tables. :star:50
+- [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities. :star:63
+- [Card](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components. :star:13
 - [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities. :star:36
-- [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities. :star:87
+- [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities. :star:88
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities. :star:11
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities. :star:12
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties. :star:10
-- [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties. :star:46
+- [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties. :star:48
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items, except the last one. :star:12
 - [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Ads [Hero Patterns](https://www.heropatterns.com) components. :star:31
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages. :star:2
 - [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component. :star:1
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration. :star:16
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities. :star:18
-- [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements. :star:4
+- [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements. :star:5
+- [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint). :star:7
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
@@ -87,8 +88,8 @@
 
 ## UI Libraries & Components
 
-- [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS. :star:82
-- [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS. :star:144
+- [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS. :star:84
+- [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS. :star:153
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Tailwind CSS templates, components and resources.
 - [Tailwind Templates](https://www.tailwindtemplates.io) - Tailwind CSS components.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
@@ -98,7 +99,7 @@
 ### Useful Links
 
 - [Tailwind CSS website](https://tailwindcss.com) - Official Tailwind CSS website.
-- [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository. :star:16758
+- [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository. :star:17196
 - [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - [Discussion Repository](https://github.com/tailwindcss/discuss) - Official Tailwind CSS repository for discussions. :star:133
 - [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
@@ -122,6 +123,7 @@
 - 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
 - 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
 - 💼 [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Gastby plugin to use Tailwind CSS with CSS-in-JS.
+- 💼 [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Gridsome plugin to use Tailwind CSS with PurgeCSS, postcss-import, and postcss-env.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
@@ -129,6 +131,7 @@
 - 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 - 💼 [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+- 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 
 | Emoji | Description                                    |
 | ----- | ---------------------------------------------- |
@@ -173,12 +176,13 @@
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Visual Studio Code IntelliSense extension for Tailwind CSS.
 - [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
-- [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim IntelliSense extension for Tailwind CSS. :star:28
+- [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim IntelliSense extension for Tailwind CSS. :star:29
+- [Headwind for VS Code](https://github.com/heybourn/headwind) - Visual Studio Code class sorter for Tailwind CSS. :star:155
 
 ### Open-Source Projects
 
-- [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool. :star:836
-- [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS. :star:1367
+- [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool. :star:848
+- [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS. :star:1395
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS. :star:67
 
 ### Learning
@@ -233,10 +237,9 @@
 
 ### Apps & Websites
 
-- [University of West London](https://www.uwl.ac.uk)
-- [Merched.com](https://merched.com)
-- [NiftyCo](https://aniftyco.com)
 - [Josh Manders](https://joshmanders.com)
+- [App Metrics](https://appmetrics.co)
+- [Full Snack Developer](https://full.snack.dev)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
@@ -246,6 +249,7 @@
 - [Taylor Bryant](https://taylorbryant.blog)
 - [Oliver Davies](https://www.oliverdavies.uk)
 - [BaseCode](https://basecodefieldguide.com)
+- [University of West London](https://www.uwl.ac.uk)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
 - [Eyewitness.io](https://eyewitness.io)

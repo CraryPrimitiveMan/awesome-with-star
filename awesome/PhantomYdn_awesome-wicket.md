@@ -20,7 +20,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-- [Wicket on Github](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com). :star:494
+- [Wicket on Github](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com). :star:499
 - [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 - [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 - [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -33,7 +33,7 @@ List of libraries and components which can be used in your application
 
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket. :star:3
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation. :star:11
-- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:281
+- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket. :star:280
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too. :star:16
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side. :star:9
 - [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) - Library to easily create CRUD's with wicket. :star:9
@@ -49,64 +49,64 @@ List of libraries and components which can be used in your application
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application. :star:7
 - [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library. :star:22
 - [wicket-source](https://github.com/42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source. :star:36
-- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:98
+- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot. :star:96
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket. :star:30
-- [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications. :star:68
+- [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications. :star:69
 
 ### WicketStuff
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
 
-- [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations. :star:323
-- [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations. :star:323
-- [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) -  Control a background process within a Wicket application. :star:323
-- [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket. :star:323
-- [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) - [Mozilla Persona](https://login.persona.org/) integration with Wicket. :star:323
-- [Console](https://github.com/wicketstuff/core/wiki/Console) - Provides support for executing code dynamically (at runtime). :star:323
-- [Context](https://github.com/wicketstuff/core/wiki/Context) - Used to locate components,models and models' objects declaratively with @Context annotation. :star:323
-- [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) - Support of dashboards for Wicket for quick access to required information in widgets. :star:323
-- [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java): [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/). :star:323
-- [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast. :star:323
-- [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) - [DataTables jQuery](http://www.datatables.net/) Plugin Integration. :star:323
-- [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging. :star:323
-- [Eidogo](https://github.com/wicketstuff/core/wiki/Eidogo) - SGF viewer and editor for GO game (also called baduk, igo or weiqi). :star:323
-- [Facebook](https://github.com/wicketstuff/core/wiki/Facebook) - Contains wicket components and behaviors to use the [Facebook](https://facebook.com) social plugins with wicket. :star:323
-- [Fast Serializer](https://github.com/wicketstuff/core/wiki/FastSerializer) - Wicket Serializer using the Fast 1.x (FST) library. :star:323
-- [Fast Serializer 2](https://github.com/wicketstuff/core/wiki/FastSerializer2) - Wicket Serializer using the Fast 2.x (FST) library. :star:323
-- [GMap3](https://github.com/wicketstuff/core/wiki/Gmap3) - Offers a component to use Google Maps v3 within Wicket applications. :star:323
-- [Google AppEngine Initializer](https://github.com/wicketstuff/core/wiki/Google-AppEngine-Initializer) - Provides Wicket's org.apache.wicket.IInitializer implementation that auto-configures the Wicket Application to be runable at Google AppEngine. :star:323
-- [Google Charts](https://github.com/wicketstuff/core/wiki/GoogleCharts) - Allows creation of charts using the [Google Chart API](https://developers.google.com/chart/). :star:323
-- [HTML5](https://github.com/wicketstuff/core/wiki/Html5) - Contains classes that give wicket support for using exciting new Html5 features. :star:323
-- [HTML Compressor](https://github.com/wicketstuff/core/wiki/Htmlcompressor) - Integration library for Wicket and [htmlcompressor](http://code.google.com/p/htmlcompressor). :star:323
-- [InMethodGrid](https://github.com/wicketstuff/core/wiki/InMethodGrid) - Data grid component. :star:323
-- [Java EE Inject](https://github.com/wicketstuff/core/wiki/Java-EE-Inject) - Provides integration through Java EE 5 resource injection. :star:323
-- [JEE Web Integration](https://github.com/wicketstuff/core/wiki/JEE-Web-Integration) - Embed Servlet, JSP abd JSF content into wicked HTML pages. :star:323
-- [JqPlot Plugin Integration](https://github.com/wicketstuff/core/wiki/JqPlot-Plugin-Integration) - Produces beautiful line, bar and pie charts with many features. :star:323
-- [JWicket UI Toolip](https://github.com/wicketstuff/core/wiki/jWicket-UI-Tooltip) - Generate the JavaScript needed to provide a Wicket Component with a jQuery UI tooltip. :star:323
-- [Kryo Serializer](https://github.com/wicketstuff/core/wiki/Kryo-Serializer) - An implementation of org.apache.wicket.serialize.ISerializer for Wicket. :star:323
-- [Kryo2 Serializer](https://github.com/wicketstuff/core/tree/master/serializer-kryo2) - An implementation of org.apache.wicket.serialize.ISerializer for Wicket. :star:323
-- [LazyModel](https://github.com/wicketstuff/core/wiki/LazyModel) - Type-safe model implementation. :star:323
-- [Lightbox2 Plugin Integration](https://github.com/wicketstuff/core/wiki/Lightbox2-Plugin-Integration) - Simple, unobtrusive script used to overlay images on top of the current page. :star:323
-- [Logback](https://github.com/wicketstuff/core/wiki/Logback) - The home for classes that can help with using wicket and [logback](http://logback.qos.ch/) together. :star:323
-- [MBeanView](https://github.com/wicketstuff/core/wiki/MBeanView) - JMX panel, to view and operate the applications mbeans. :star:323
-- [Minis](https://github.com/wicketstuff/core/wiki/Minis) - Collection of assorted components and behaviors that are too small to warrant their own project. :star:323
-- [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) - A lightweight extension to Wicket's ModalWindow capabilities that comes with standardized MessageBox class and allows easy definition of Modal dialog box classes. :star:323
-- [OSGI](https://github.com/wicketstuff/core/wiki/Osgi) - Lets you use Wicket in OSGi environments. :star:323
-- [Open Layers 3](https://github.com/wicketstuff/core/tree/master/openlayers3-parent) - Provides a set of components that may be used to add interactive maps to a Wicket application. :star:323
-- [POI](https://github.com/wicketstuff/core/wiki/POI) - Integrates Wicket projects to Apache POI. :star:323
-- [Progressbar](https://github.com/wicketstuff/core/wiki/Progressbar) - Provides a progress bar component for Wicket. :star:323
-- [Push](https://github.com/wicketstuff/core/wiki/Push) - Provides support for Reverse AJAX in Wicket applications and allows them to "push" partial Web page updates to the Web browser. :star:323
-- [Scala Extensions](https://github.com/wicketstuff/core/wiki/ScalaExtensions) - Improves the syntax of Wicket models when using the Scala programming language. :star:323
-- [Select2](https://github.com/wicketstuff/core/tree/master/select2-parent) - Provides Apache Wicket components that leverage [Select2](http://ivaynberg.github.com/select2) JavaScript library to build select boxes that provide Ajax choice filtering, custom rendering and etc. :star:323
-- [Servlet Container Authentication and Authorization](https://github.com/wicketstuff/core/wiki/Servlet-Container-Authentication-and-Authorization) - Simplify the integration of wicket-auth-roles with the servlet 3 security container. :star:323
-- [Spring Reference](https://github.com/wicketstuff/core/wiki/SpringReference) - Can be used to integrate a wicket web application with spring. :star:323
-- [Stateless](https://github.com/wicketstuff/core/tree/master/stateless-parent) - Adds a few components that provide more comprehensive stateless features for Wicket. :star:323
-- [TinyMCE Integration](https://github.com/wicketstuff/core/wiki/TinyMCE-Integration) - Integration of the well-known TinyMCE WYSIWYG editor in Wicket. :star:323
-- [Twitter](https://github.com/wicketstuff/core/wiki/Twitter) - Contains wicket components and behaviors to use the Twitter widgets with wicket. :star:323
-- [UrlFragment](https://github.com/wicketstuff/core/tree/master/urlfragment-parent) - With this you can build bookmarkable AJAX features and still support the back button. :star:323
+- [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations. :star:324
+- [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations. :star:324
+- [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) -  Control a background process within a Wicket application. :star:324
+- [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket. :star:324
+- [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) - [Mozilla Persona](https://login.persona.org/) integration with Wicket. :star:324
+- [Console](https://github.com/wicketstuff/core/wiki/Console) - Provides support for executing code dynamically (at runtime). :star:324
+- [Context](https://github.com/wicketstuff/core/wiki/Context) - Used to locate components,models and models' objects declaratively with @Context annotation. :star:324
+- [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) - Support of dashboards for Wicket for quick access to required information in widgets. :star:324
+- [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java): [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/). :star:324
+- [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast. :star:324
+- [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) - [DataTables jQuery](http://www.datatables.net/) Plugin Integration. :star:324
+- [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging. :star:324
+- [Eidogo](https://github.com/wicketstuff/core/wiki/Eidogo) - SGF viewer and editor for GO game (also called baduk, igo or weiqi). :star:324
+- [Facebook](https://github.com/wicketstuff/core/wiki/Facebook) - Contains wicket components and behaviors to use the [Facebook](https://facebook.com) social plugins with wicket. :star:324
+- [Fast Serializer](https://github.com/wicketstuff/core/wiki/FastSerializer) - Wicket Serializer using the Fast 1.x (FST) library. :star:324
+- [Fast Serializer 2](https://github.com/wicketstuff/core/wiki/FastSerializer2) - Wicket Serializer using the Fast 2.x (FST) library. :star:324
+- [GMap3](https://github.com/wicketstuff/core/wiki/Gmap3) - Offers a component to use Google Maps v3 within Wicket applications. :star:324
+- [Google AppEngine Initializer](https://github.com/wicketstuff/core/wiki/Google-AppEngine-Initializer) - Provides Wicket's org.apache.wicket.IInitializer implementation that auto-configures the Wicket Application to be runable at Google AppEngine. :star:324
+- [Google Charts](https://github.com/wicketstuff/core/wiki/GoogleCharts) - Allows creation of charts using the [Google Chart API](https://developers.google.com/chart/). :star:324
+- [HTML5](https://github.com/wicketstuff/core/wiki/Html5) - Contains classes that give wicket support for using exciting new Html5 features. :star:324
+- [HTML Compressor](https://github.com/wicketstuff/core/wiki/Htmlcompressor) - Integration library for Wicket and [htmlcompressor](http://code.google.com/p/htmlcompressor). :star:324
+- [InMethodGrid](https://github.com/wicketstuff/core/wiki/InMethodGrid) - Data grid component. :star:324
+- [Java EE Inject](https://github.com/wicketstuff/core/wiki/Java-EE-Inject) - Provides integration through Java EE 5 resource injection. :star:324
+- [JEE Web Integration](https://github.com/wicketstuff/core/wiki/JEE-Web-Integration) - Embed Servlet, JSP abd JSF content into wicked HTML pages. :star:324
+- [JqPlot Plugin Integration](https://github.com/wicketstuff/core/wiki/JqPlot-Plugin-Integration) - Produces beautiful line, bar and pie charts with many features. :star:324
+- [JWicket UI Toolip](https://github.com/wicketstuff/core/wiki/jWicket-UI-Tooltip) - Generate the JavaScript needed to provide a Wicket Component with a jQuery UI tooltip. :star:324
+- [Kryo Serializer](https://github.com/wicketstuff/core/wiki/Kryo-Serializer) - An implementation of org.apache.wicket.serialize.ISerializer for Wicket. :star:324
+- [Kryo2 Serializer](https://github.com/wicketstuff/core/tree/master/serializer-kryo2) - An implementation of org.apache.wicket.serialize.ISerializer for Wicket. :star:324
+- [LazyModel](https://github.com/wicketstuff/core/wiki/LazyModel) - Type-safe model implementation. :star:324
+- [Lightbox2 Plugin Integration](https://github.com/wicketstuff/core/wiki/Lightbox2-Plugin-Integration) - Simple, unobtrusive script used to overlay images on top of the current page. :star:324
+- [Logback](https://github.com/wicketstuff/core/wiki/Logback) - The home for classes that can help with using wicket and [logback](http://logback.qos.ch/) together. :star:324
+- [MBeanView](https://github.com/wicketstuff/core/wiki/MBeanView) - JMX panel, to view and operate the applications mbeans. :star:324
+- [Minis](https://github.com/wicketstuff/core/wiki/Minis) - Collection of assorted components and behaviors that are too small to warrant their own project. :star:324
+- [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) - A lightweight extension to Wicket's ModalWindow capabilities that comes with standardized MessageBox class and allows easy definition of Modal dialog box classes. :star:324
+- [OSGI](https://github.com/wicketstuff/core/wiki/Osgi) - Lets you use Wicket in OSGi environments. :star:324
+- [Open Layers 3](https://github.com/wicketstuff/core/tree/master/openlayers3-parent) - Provides a set of components that may be used to add interactive maps to a Wicket application. :star:324
+- [POI](https://github.com/wicketstuff/core/wiki/POI) - Integrates Wicket projects to Apache POI. :star:324
+- [Progressbar](https://github.com/wicketstuff/core/wiki/Progressbar) - Provides a progress bar component for Wicket. :star:324
+- [Push](https://github.com/wicketstuff/core/wiki/Push) - Provides support for Reverse AJAX in Wicket applications and allows them to "push" partial Web page updates to the Web browser. :star:324
+- [Scala Extensions](https://github.com/wicketstuff/core/wiki/ScalaExtensions) - Improves the syntax of Wicket models when using the Scala programming language. :star:324
+- [Select2](https://github.com/wicketstuff/core/tree/master/select2-parent) - Provides Apache Wicket components that leverage [Select2](http://ivaynberg.github.com/select2) JavaScript library to build select boxes that provide Ajax choice filtering, custom rendering and etc. :star:324
+- [Servlet Container Authentication and Authorization](https://github.com/wicketstuff/core/wiki/Servlet-Container-Authentication-and-Authorization) - Simplify the integration of wicket-auth-roles with the servlet 3 security container. :star:324
+- [Spring Reference](https://github.com/wicketstuff/core/wiki/SpringReference) - Can be used to integrate a wicket web application with spring. :star:324
+- [Stateless](https://github.com/wicketstuff/core/tree/master/stateless-parent) - Adds a few components that provide more comprehensive stateless features for Wicket. :star:324
+- [TinyMCE Integration](https://github.com/wicketstuff/core/wiki/TinyMCE-Integration) - Integration of the well-known TinyMCE WYSIWYG editor in Wicket. :star:324
+- [Twitter](https://github.com/wicketstuff/core/wiki/Twitter) - Contains wicket components and behaviors to use the Twitter widgets with wicket. :star:324
+- [UrlFragment](https://github.com/wicketstuff/core/tree/master/urlfragment-parent) - With this you can build bookmarkable AJAX features and still support the back button. :star:324
 - [WHighCharts](https://github.com/wicketstuff/wiquery-highcharts) - Provides WiQuery bindings for HighCharts. :star:12
-- [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) - Provides a Whiteboard which can be integrated in any wicket application. :star:323
-- [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/). :star:323
-- [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS. :star:323
+- [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) - Provides a Whiteboard which can be integrated in any wicket application. :star:324
+- [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/). :star:324
+- [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS. :star:324
 - [WiQuery](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI. :star:6
 - [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot. :star:10
 
@@ -118,7 +118,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Hippo CMS](http://www.onehippo.com/en) - Enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics.
 - [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket. :star:9
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
-- [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site. :star:102
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site. :star:103
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket. :star:18
 
 ## Solutions
@@ -126,10 +126,10 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:182
-- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1715
+- [Estatio](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket. :star:184
+- [GeoServer](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data. :star:1738
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
-- [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:102
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps. :star:103
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 - [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform. :star:84
 

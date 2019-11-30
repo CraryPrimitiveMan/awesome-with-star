@@ -31,7 +31,7 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
-- [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group. :star:1090
+- [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group. :star:1100
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
@@ -92,14 +92,14 @@
 
 ## Projects
 
-- [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend. :star:186
+- [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend. :star:189
 - [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway. :star:45
 - [Utils](https://github.com/serverless/utils) - General Serverless utilities. :star:15
 - [CloudWatch public metrics](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page. :star:27
-- [Invoicely](https://github.com/EwanValentine/invoicely) - Invoice automation tool. :star:22
+- [Invoicely](https://github.com/EwanValentine/invoicely) - Invoice automation tool. :star:21
 - [World Cup Slackbot](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack. :star:10
 - [Serverless Express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless Framework. :star:117
-- [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging. :star:79
+- [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging. :star:81
 - [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda. :star:74
 - [Serverless Central](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo. :star:26
 - [Tipe](https://tipe.io) - Next generation serverless CMS.
@@ -110,28 +110,28 @@
 
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers. :star:12
 - [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
-- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers. :star:4
+- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers. :star:5
 - [Begin](https://begin.com) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD.
 - [Operiant](https://operiant.com) - Connect your event streams to actions.
 - [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
 - [Handly](https://github.com/harijoe/handly) - A wrapper for serverless handlers to prevent silly mistakes. :star:15
 - [Serverless boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional Serverless boilerplate. :star:246
-- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. :star:10007
-- [Cirrus](https://github.com/ucbrise/cirrus) - Serverless machine learning framework. :star:59
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. :star:10105
+- [Cirrus](https://github.com/ucbrise/cirrus) - Serverless machine learning framework. :star:63
 - [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
-- [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git. :star:482
+- [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git. :star:513
 
 ## Serverless Framework Plugins
 
 - [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables. :star:3
 - [Offline SSM](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS. :star:34
 - [Nocode](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework. :star:8
-- [Canary deployments](https://github.com/davidgf/serverless-plugin-canary-deployments) - Implement canary deployments of AWS Lambda functions. :star:229
+- [Canary deployments](https://github.com/davidgf/serverless-plugin-canary-deployments) - Implement canary deployments of AWS Lambda functions. :star:237
 - [Flow-based programming](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless. :star:5
 - [Go serverless](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs. :star:17
-- [Event Gateway](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework. :star:25
+- [Event Gateway](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework. :star:26
 - [Fn](https://github.com/fnproject/serverless-fn) - Fn provider plugin. :star:6
-- [Cloudflare Workers](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers. :star:68
+- [Cloudflare Workers](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers. :star:69
 - [S3 Deploy](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket. :star:32
 
 ## Literature / Education

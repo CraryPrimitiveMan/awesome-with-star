@@ -75,7 +75,8 @@ and developer-friendly build server out of the box
 * [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 * [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
-* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
+* [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
 
 ## Online Build System
 Online build release system  
@@ -103,7 +104,8 @@ Online build release system
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
-* [semaphoreci](https://semaphoreci.com) The continuous integration and delivery platform powering the world’s best engineering teams  
+* [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
+* [builkite](https://buildkite.com) Lightning fast testing and delivery for all your software projects  
 
 
 ## Monitoring
@@ -124,6 +126,7 @@ The hardware,virtual machines, fram management, docker
 
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
+* [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
 * [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
@@ -235,7 +238,8 @@ Provision tools
 * [Ansible](http://www.ansible.com) Simple infrastructure management tool via human readable playbooks
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 * [Chef](https://www.chef.io/chef/)  Fast, scalable and flexible software for data center automation  
-* [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
+* [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
+* [terraform](https://www.terraform.io) Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service  
 
 ## Web Server
 Common used web server  
@@ -287,7 +291,7 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:1847
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:1884
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact

@@ -73,7 +73,7 @@ A list of communities about web development and design that are powered by **Sla
 - [DevOps](https://devopschat.co/)
 
 ## Looking for more lists like that
-- [Awesome Community](https://github.com/phpearth/awesome-community) :star:163
+- [Awesome Community](https://github.com/phpearth/awesome-community) :star:164
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.

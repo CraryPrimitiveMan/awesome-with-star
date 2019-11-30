@@ -33,7 +33,7 @@
 ## General resources
 
 - [Documentation](https://lit-html.polymer-project.org/guide)
-- [GitHub repository](https://github.com/Polymer/lit-html) :star:5685
+- [GitHub repository](https://github.com/Polymer/lit-html) :star:5724
 
 ## Community
 
@@ -56,7 +56,7 @@ Sorted by creation date (oldest first).
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html. :star:34
+- [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html. :star:35
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
 - [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
@@ -93,34 +93,34 @@ These are not implementations of lit-html itself but rather community extensions
 
 ### Component Libraries
 
-- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System. :star:13
-- [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement. :star:1
+- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System. :star:14
+- [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement. :star:2
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element. :star:3
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:34
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs. :star:30
-- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud. :star:19
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components. :star:36
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs. :star:31
+- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud. :star:22
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing. :star:8
-- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project. :star:73
-- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1374
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph. :star:271
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs! :star:568
+- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project. :star:75
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components. :star:1491
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph. :star:275
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs! :star:578
 - [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-- [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint. :star:179
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. :star:7646
+- [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint. :star:181
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. :star:7682
 
 ### Individual Components
 
-- [`<app-datepicker>`](https://github.com/motss/app-datepicker) - Datepicker element built with LitElement and Material Design 2. :star:107
+- [`<app-datepicker>`](https://github.com/motss/app-datepicker) - Datepicker element built with LitElement and Material Design 2. :star:108
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement. :star:2
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement. :star:8
-- [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations. :star:113
-- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models. :star:1078
-- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec. :star:102
+- [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations. :star:118
+- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models. :star:1107
+- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec. :star:107
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team. :star:2236
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations. :star:68
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team. :star:2253
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations. :star:69
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement in TypeScript. :star:16
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - Client side application build with `@rxdi`, lit-html, GraphQL, dependency injection. :star:5
 
@@ -128,35 +128,35 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings. :star:216
 - [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html. :star:55
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings. :star:34
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html. :star:30
+- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings. :star:35
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html. :star:31
 
 ## TypeScript Plugins
 
 - [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin) - Plugin that adds type checking and code completion for lit-html. Used by `vscode-lit-plugin`. :star:55
-- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html. Used by `vscode-lit-html`. :star:171
+- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html. Used by `vscode-lit-html`. :star:174
 
 ## Tools
 
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings. :star:23
-- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings. :star:36
+- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings. :star:39
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - CLI that type checks bindings in lit-html templates. :star:55
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings. :star:15
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings. :star:17
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings. :star:22
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components. :star:2
-- [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack. :star:71
+- [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack. :star:72
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice. :star:102
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
 
 ## Static Site Generators
 
 - [Greenwood](https://github.com/ProjectEvergreen/greenwood) - Modern and performant static site generator supporting Web Components based development. :star:8
-- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - Static-site generator built with TypeScript, which uses templating inspired by lit-html. :star:49
+- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - Static-site generator built with TypeScript, which uses templating inspired by lit-html. :star:51
 
 ## Examples
 
-- [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class. :star:58
-- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop) :star:75
+- [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class. :star:60
+- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop) :star:76
 
 ## Videos
 
@@ -164,6 +164,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 - [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
+- [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)
 
 ## Podcasts
 
@@ -194,8 +195,8 @@ An episode with the lit-html creator Justin Fagnani.
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
-- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. :star:5300
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1602
+- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. :star:5316
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API. :star:1626
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html. :star:58
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines. :star:22
 - [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components. :star:32

@@ -36,7 +36,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 - [Website](https://imba.io)
 - [Docs](https://imba.io/docs)
 - [Gitter](https://gitter.im/somebee/imba)
-- [GitHub Repo](https://github.com/imba/imba) :star:3673
+- [GitHub Repo](https://github.com/imba/imba) :star:3679
 - [GitHub Organization](https://github.com/imba)
 
 

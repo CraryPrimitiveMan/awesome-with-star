@@ -20,6 +20,7 @@ Assembler List
 | *FLASM*                            | http://www.nowrap.de/flasm                                   | Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier. |
 | *XEDParse*                         | https://github.com/x64dbg/XEDParse                           | XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions. |
 | *HLA*                              | http://www.plantation-productions.com/Webster/HighLevelAsm/index.html | High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. |
+| *JWasm*                              | http://jwasm.info/ | JWasm is a free MASM-compatible assembler. |
 
 Disassembler & Debuggers
 ----------
@@ -68,7 +69,7 @@ External links
 ----------
 * [Unix Assembly Language Programming](http://www.int80h.org)
 * [Linux Assembly](http://asm.sourceforge.net/)
-* [Linux Kernel](https://github.com/cirosantilli/linux-kernel-module-cheat) :star:1305
+* [Linux Kernel](https://github.com/cirosantilli/linux-kernel-module-cheat) :star:1332
 * [PPR: Learning Assembly Language](http://c2.com/cgi/wiki?LearningAssemblyLanguage)
 * [Assembly Language Programming Examples](http://www.azillionmonkeys.com/qed/asmexample.html)	
 * [Authoring Windows Applications In Assembly Language](http://www.grc.com/smgassembly.htm)
@@ -76,7 +77,7 @@ External links
 * [Introduction to programming using Linux assembly language](http://www.programminggroundup.blogspot.fi/)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
-* [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) :star:2802
+* [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) :star:2819
 * [x86 Disassembly Wikibook](https://en.wikibooks.org/wiki/X86_Disassembly)
 * [Software written primarily in assembly language](https://en.wikipedia.org/wiki/Category:Software_written_primarily_in_assembly_language)
 * [Novice and Advanced Assembly resources for x86 Platform](http://www.intel-assembler.it/portale/indice.asp)
