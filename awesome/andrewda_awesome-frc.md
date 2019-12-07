@@ -31,7 +31,7 @@
 - [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members. :star:18
 - [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
 - [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
-- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers. :star:78
+- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers. :star:80
 - [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code. :star:235
 
 ## Suppliers
@@ -59,7 +59,7 @@
 
 ## Scouting
 
-- [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app. :star:83
+- [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app. :star:84
 - [VictiScout](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418. :star:21
 - [Scoutomic](https://github.com/Scoutomic/Scoutomic-Client) - A user interface for scouting. :star:7
 
@@ -80,9 +80,9 @@
 
 ### Java
 
-- [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:343
+- [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:347
 - [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard. :star:21
-- [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams. :star:49
+- [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams. :star:50
 - [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful. :star:11
 - [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST. :star:6
 - [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - An library for programming robots in Kotlin, made by Team 5190. :star:26
@@ -90,7 +90,7 @@
 
 ### C++
 
-- [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:343
+- [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries. :star:347
 - [BaseBot](https://github.com/frc5024/basebot) - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions. :star:1
 
 ### C#

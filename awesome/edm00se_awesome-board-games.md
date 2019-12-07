@@ -140,6 +140,17 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 15-21m |
 
+### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
+
+> Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
+
+![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        6 | 30m    |
+
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -374,6 +385,26 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
+
+### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
+
+> Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
+
+![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|    2    |       8  |  30m   |
+
+### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
+
+> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+
+![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       13 | 30-45m |
 
 ## Party
 

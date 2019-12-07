@@ -45,7 +45,7 @@ A list of communities about web development and design that are powered by **Sla
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
-- [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups) :star:108
+- [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups) :star:116
 - [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 - [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
 - [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
