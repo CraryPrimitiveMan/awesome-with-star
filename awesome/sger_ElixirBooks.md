@@ -235,7 +235,7 @@ Languages may come and go, but the relational database endures. Learn how to use
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:9670
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:9683
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

@@ -21,7 +21,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Official Resources
 
 * [Homepage](https://hyperapp.dev/)
-* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:17046
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp) :star:17058
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -54,7 +54,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7448
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions. :star:7468
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching. :star:20
@@ -66,7 +66,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp. :star:81
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console. :star:47
-* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:259
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp. :star:260
 * [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support. :star:87
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp. :star:38
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp. :star:27
@@ -79,7 +79,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development. :star:2
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp. :star:15
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output. :star:22
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:309
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom. :star:310
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps :star:2
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form) :star:7
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript. :star:2

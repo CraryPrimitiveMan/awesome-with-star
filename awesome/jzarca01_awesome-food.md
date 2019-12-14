@@ -18,7 +18,7 @@
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:399
-- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:252
+- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:254
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:299
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:7
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI. :star:11
@@ -26,7 +26,7 @@
 - [fetch-my-whopper](https://github.com/jzarca01/fetch-my-whopper) - Node app to claim your free whopper at Burger King. :star:3
 - [fetch-my-cookie](https://github.com/jzarca01/fetch-my-cookie) - Node app to claim your free cookie at Subway. :star:1
 - [whoffer](https://github.com/jzarca01/whoffer) - React Native OCR app to claim free cookie at Subway.
-- [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning. :star:342
+- [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning. :star:343
 - [TooManyChefs](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game. :star:47
 - [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator. :star:16
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms. :star:16
@@ -41,7 +41,7 @@
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes. :star:7
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1173
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free. :star:6
-- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2463
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2465
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:30
 
 ## API for Food services

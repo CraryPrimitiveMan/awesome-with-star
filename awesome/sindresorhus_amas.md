@@ -5,12 +5,12 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:63
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:64
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:34
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:89
-- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:698
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:536
+- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:699
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:540
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:268
@@ -70,7 +70,7 @@
 - [Hamish Friedlander](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 - [Chris Tankersley](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 - [Deepak Verma](https://github.com/deepaknverma/ama) - Full stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma). :star:1
-- [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux). :star:216
+- [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux). :star:218
 - [Daichi Furiya](https://github.com/wasabeef/ama) - Software developer in Japan. I love Android, JavaScript and iOS. :star:2
 - [Maxime Thirouin](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder. :star:2
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.

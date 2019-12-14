@@ -38,7 +38,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
 
 ### Windows
-- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:19089
+- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows :star:19123
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on. :star:20
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
@@ -50,7 +50,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
 
 ### Linux
-- [Galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator. :star:64
+- [Galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator. :star:65
 - [KCalc](https://github.com/KDE/kcalc) - Calculator which offers many more mathematical functions than meet the eye on a first glance. :star:15
 - [x48](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever. :star:14
 
@@ -60,7 +60,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator. :star:13
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
-- [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math. :star:94
+- [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math. :star:95
 - [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go. :star:435
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
 - [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.

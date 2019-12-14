@@ -31,7 +31,7 @@ them.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
-- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:615
+- [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries. :star:620
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
@@ -78,15 +78,15 @@ them.
 
 - [Gmsh](http://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
   (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
-- [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh. :star:262
+- [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh. :star:264
   (Python, MIT, GitHub)
 - [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
   (Python, MIT, [GitHub](https://github.com/inducer/meshpy))
-- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:392
+- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion. :star:393
   (Python, MIT, GitHub)
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:105
+- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities. :star:108
   (Python, MIT, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, BitBucket)
@@ -104,7 +104,7 @@ them.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
   (C, *nonfree software*)
-- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:130
+- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing. :star:134
   (Python, MIT, GitHub)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
@@ -112,11 +112,11 @@ them.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 - [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
-- [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh. :star:43
+- [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh. :star:44
   (Python, MIT, GitHub)
-- [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:287
+- [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/)) :star:294
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg)) :star:100
-- [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub) :star:15
+- [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub) :star:16
 - [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cs.nyu.edu/~yixinhu/triwild.pdf) -  Robust Triangulation with Curve Constraints.
@@ -155,7 +155,7 @@ them.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:252
+- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python. :star:254
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
   (Python, [custom open-source

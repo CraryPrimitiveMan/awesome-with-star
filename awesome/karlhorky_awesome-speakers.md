@@ -64,40 +64,6 @@ https://twitter.com/riggaroo
 
 # Asia
 
-## Pakistan 🇵🇰
-
-### Karachi
-
-<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Ahsan Ayaz**\
-Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
-https://twitter.com/ahsan_ayz
-
-<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Mashhood Rastgar**\
-Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web\
-https://twitter.com/mashhoodr
-
-<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Muhammad Kamran**\
-Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
-https://twitter.com/smkamranqadri
-
-<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="70px" align="left" alt="" />
-
-**Narain Sagar**\
-Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
-https://twitter.com/narainsagar
-
-<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Nasir Hussain**\
-Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration\
-https://twitter.com/i_am_the_dev
-
 ## India 🇮🇳
 
 ### Bangalore
@@ -174,6 +140,16 @@ https://twitter.com/amdsouza92
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 https://twitter.com/aviaryan123
 
+## Indonesia 🇮🇩
+
+### Jakarta
+
+<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Frans Allen**\
+Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
+https://twitter.com/fransallen
+
 ## Lebanon 🇱🇧
 
 ### Tyre
@@ -183,6 +159,40 @@ https://twitter.com/aviaryan123
 **Sara Soueidan**\
 Topics: Animations, CSS, SVG\
 https://twitter.com/sarasoueidan
+
+## Pakistan 🇵🇰
+
+### Karachi
+
+<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Ahsan Ayaz**\
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
+https://twitter.com/ahsan_ayz
+
+<img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Mashhood Rastgar**\
+Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web\
+https://twitter.com/mashhoodr
+
+<img src="https://twitter.com/smkamranqadri/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Muhammad Kamran**\
+Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
+https://twitter.com/smkamranqadri
+
+<img src="https://twitter.com/narainsagar/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Narain Sagar**\
+Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
+https://twitter.com/narainsagar
+
+<img src="https://twitter.com/_dev_nasir_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Nasir Hussain**\
+Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
+[https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
 
 ## Singapore 🇸🇬
 
@@ -390,11 +400,11 @@ https://twitter.com/mafintosh
 Topics: Virtual Reality, Web Image Processing\
 https://twitter.com/enthusiasto
 
-<img src="https://twitter.com/terezk_a/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tereza_sokol/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Tereza Sokol**\
 Topics: Elm, Visualizations\
-https://twitter.com/terezk_a
+https://twitter.com/tereza_sokol
 
 ## Finland 🇫🇮
 
@@ -486,6 +496,12 @@ https://twitter.com/HugoGiraudel
 Topics: Graphic Design, Typography, Branding, User Experience\
 https://twitter.com/Lugotype
 
+<img src="https://twitter.com/ManuelBieh/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Manuel Bieh**\
+Topics: React, JavaScript, Code Quality, Clean Code, Leadership, Developer Experience\
+https://twitter.com/ManuelBieh
+
 <img src="https://twitter.com/nataliepis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Natalie Pistunovich**\
@@ -520,7 +536,7 @@ https://twitter.com/Srushtika
 
 **Tejas Kumar**\
 Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities\
-[https://twitter.com/tejaskumar\_](https://twitter.com/tejaskumar_)
+[https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -688,11 +704,11 @@ https://twitter.com/claudiopro
 Topics: HTML, CSS, JavaScript\
 https://twitter.com/donovanh
 
-<img src="https://twitter.com/ingridepure/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/opinionatedpie/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ingrid Epure**\
 Topics: Security, Psychology\
-https://twitter.com/ingridepure
+https://twitter.com/opinionatedpie
 
 <img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
