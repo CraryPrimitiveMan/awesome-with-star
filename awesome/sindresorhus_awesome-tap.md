@@ -25,7 +25,7 @@
 ### JavaScript
 
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output. :star:29
-- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:262
+- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter. :star:263
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat. :star:141
 - [tap-min](https://github.com/derhuerst/tap-min) - Minimal output. :star:5
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:46
@@ -51,16 +51,16 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:17191
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1514
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5190
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:17272
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1516
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5200
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:400
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:401
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`). :star:107
-- [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel. :star:247
+- [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel. :star:251
 
 ### Fish
 
@@ -68,7 +68,7 @@ Things that produce TAP output.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6135
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6145
 
 [More...](https://testanything.org/producers.html)
 

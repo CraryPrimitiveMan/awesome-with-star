@@ -81,6 +81,7 @@
 - [VSCode Power User Course](https://vscode.pro/) - PWA built on Gatsby and hosted on Netlify.
 - [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
 - [FbaMonthly](https://www.fbamonthly.com) - Hosted on Netlify, built with Jekyll, Netlify Functions and Netlify Forms.
+- [Jarod Peachey](https://jarodpeachey.netlify.com) - Built with Gatsby + MaterialUI and hosted on Netlify
 
 ## Static Site Generators
 
@@ -138,7 +139,7 @@
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:894
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites. :star:895
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for JAMstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -160,7 +161,7 @@
 ### Automation
 
 - [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:352
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs. :star:354
 
 ## Serverless
 

@@ -66,18 +66,18 @@ List of useful plugins to make WordPress and Gatsby work together.
 ### WordPress
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
-- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema. :star:146
-- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin. :star:17
+- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema. :star:147
+- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin. :star:19
 - [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Exposes Gutenberg blocks to the WPGraphQL API. :star:49
-- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL :star:13
+- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL :star:15
 - [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) - Adds Meta_Query support to the WPGraphQL Plugin for postObject query args. :star:12
 - [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) - Adds Tax_Query support to the WPGraphQL Plugin for postObject query args (WP_Query). :star:12
 - [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens). :star:87
 - [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries. :star:4
-- [QL Search](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL. :star:6
-- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) - Extends the WordPress dashboard with a GraphiQL IDE. :star:143
+- [QL Search](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL. :star:7
+- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) - Extends the WordPress dashboard with a GraphiQL IDE. :star:146
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends the WordPress JSON REST API with new routes for WordPress registered menus.
-- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms). :star:118
+- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms). :star:122
 
 
 **The obvious, that goes along with some of the plugins above:**
@@ -137,7 +137,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 List of project starters, that you can clone and start building upon.
 
 - [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) - Demo showing how to use WPGraphQL as the source for Gatsby Sites. :star:93
-- [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) - A Gatsby + WordPress starter for continuous deployment to Netlify. :star:165
+- [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) - A Gatsby + WordPress starter for continuous deployment to Netlify. :star:166
 
 
 ## Themes

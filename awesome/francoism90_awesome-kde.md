@@ -88,7 +88,7 @@
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 - [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
-- [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE. :star:176
+- [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE. :star:178
 
 ### Development & Programming
 
@@ -105,8 +105,8 @@
 
 #### Extensions
 
-- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌. :star:784
-- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality. :star:552
+- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌. :star:787
+- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality. :star:556
 
 #### KCM Modules and Systems
 
@@ -116,9 +116,9 @@
 
 #### Themes
 
-- [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras. :star:425
-- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras. :star:672
-- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras. :star:212
+- [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras. :star:427
+- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras. :star:674
+- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras. :star:214
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
 - [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 
@@ -128,18 +128,18 @@
 
 #### Icons
 
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:3013
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper. :star:3027
 - [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
-- [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity. :star:210
+- [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity. :star:211
 
 #### Cursors
 
 - [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-- [Capitaine](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. :star:542
+- [Capitaine](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. :star:547
 
 #### Scripts
 
-- [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin. :star:570
+- [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin. :star:573
 
 ## Documentation
 

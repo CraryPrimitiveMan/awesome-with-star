@@ -80,12 +80,12 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Apps
 
 ### Example Android Apps
-* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1214
+* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1215
 * [Rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android. :star:27
 
 
 ### Example iOS Apps
-* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1214
+* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1215
 * [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion.
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit. :star:320
 * [Motion Dropbox Example](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK.
@@ -98,7 +98,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example macOS Apps
-* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1214
+* [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1215
 * [Mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App. :star:4
 * [Motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application. :star:4
 * [Motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion. :star:5
@@ -110,7 +110,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example tvOS Apps
-* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1214
+* [TvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion. :star:1215
 
 
 ### Open Source macOS Apps
@@ -216,7 +216,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications. :star:51
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate. :star:132
-* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:233
+* [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast. :star:234
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion. :star:135
 * [ProMotion](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast. :star:1280
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm. :star:22
@@ -356,7 +356,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### Software Design Patterns
 
 * [Motion-pool](https://github.com/wooandoo/motion-pool) - Pool for RubyMotion.
-* [Motion-state-machine](https://github.com/opyh/motion-state-machine) - Grand Central-aware, simple syntax for state machines. :star:74
+* [Motion-state-machine](https://github.com/opyh/motion-state-machine) - Grand Central-aware, simple syntax for state machines.
 * [Motion-objection](https://github.com/atomicobject/motion-objection) - RubyMotion wrapper for Objection. :star:27
 * [Weak_attr_accessor](https://github.com/hboon/weak_attr_accessor) - Adds weak_attr_accessor that wraps objects with WeakRef, for RubyMotion. :star:6
 
