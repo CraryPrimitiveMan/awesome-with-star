@@ -8,10 +8,10 @@ A curated list of good design and experience principles.
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### Contents
-- [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems) :star:282
-- [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles) :star:282
-- [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources) :star:282
-- [Credits and Notes](https://github.com/robinstickel/awesome-design-principles#credits-and-notes) :star:282
+- [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems) :star:286
+- [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles) :star:286
+- [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources) :star:286
+- [Credits and Notes](https://github.com/robinstickel/awesome-design-principles#credits-and-notes) :star:286
 
 ## Principles within bigger Design Systems
 

@@ -26,7 +26,7 @@ This list contains a variety of resources on diversity, more specifically divers
 
 Organizations bringing diversity to tech.
 
-- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses. :star:633
+- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses. :star:634
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.

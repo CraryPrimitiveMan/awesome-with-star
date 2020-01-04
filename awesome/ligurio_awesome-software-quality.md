@@ -51,7 +51,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:113
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon :star:114
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -91,9 +91,9 @@ If you would like add something, just send the text as you would like it to appe
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:287
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book) :star:286
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book) :star:9
-* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:255
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski :star:256
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript) :star:37
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -141,7 +141,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu :star:71
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu :star:72
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 * [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
@@ -287,7 +287,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Verification](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUsh0QIh_zd58V4Ekmer23D) - Natasha Sharygina
 * [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:435
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) :star:436
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
 * mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
@@ -339,7 +339,7 @@ If you would like add something, just send the text as you would like it to appe
     - [Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting) :star:101
     - [Foundations of Software Testing - Glossary](https://ankiweb.net/shared/info/834818027)
     - [ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
-    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18785
+    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards) :star:18830
     - [Design Patterns](https://ankiweb.net/shared/info/701549605)
     - [Object Oriented Design Patterns](https://ankiweb.net/shared/info/1202033519)
     - [Regular Expressions](https://ankiweb.net/shared/info/1355137499)
@@ -348,15 +348,15 @@ If you would like add something, just send the text as you would like it to appe
     - [LPIC 101 and 102](https://ankiweb.net/shared/info/1818363239)
     - [SQL basics](https://ankiweb.net/shared/info/40406665)
     - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
-    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:79181
+    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) :star:79682
 - [Testing Mnemonics Game](http://mnemonics.brainforit.com/)
 - [The Deadlock Empire: Slay dragons, learn concurrency!](https://deadlockempire.github.io)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop) :star:18
 - [test-anything](https://github.com/finnp/test-anything) :star:144
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:779
-- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:1006
+- [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop) :star:783
+- [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) :star:1012
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
@@ -382,32 +382,32 @@ see [podcasts](podcasts.md)
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
-* [Postmortems](https://github.com/danluu/post-mortems) :star:5295
+* [Postmortems](https://github.com/danluu/post-mortems) :star:5305
 
 # Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 - Fuzzing testing by [secfigo](https://github.com/secfigo/Awesome-Fuzzing) and by [cpuu](https://github.com/cpuu/awesome-fuzzing)
-- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:118
-- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2815
-- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6631
-- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:487
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:385
-- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:482
-- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:349
+- [Mutation testing](https://github.com/theofidry/mutation-testing) :star:120
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star:2834
+- [Static analysis](https://github.com/mre/awesome-static-analysis) :star:6657
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap) :star:489
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) :star:386
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution) :star:483
+- [History of symbolic execution](https://github.com/enzet/symbolic-execution) :star:350
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable) :star:62
-- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1052
-- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings) :star:1955
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing) :star:1056
+- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings) :star:1959
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md) :star:223
-- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:880
-- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:22142
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:11019
-- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) :star:259
+- [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems) :star:882
+- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place. :star:22239
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) :star:11213
+- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) :star:261
 - [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt) :star:377
 - [Awesome Coq](https://github.com/uhub/awesome-coq) :star:188
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) :star:545
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) :star:6
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) :star:273
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) :star:275
 
 ### License
 

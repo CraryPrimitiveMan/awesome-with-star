@@ -5,12 +5,12 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:64
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io). :star:65
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK. :star:34
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap. :star:89
-- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:702
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:544
+- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub. :star:703
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker. :star:545
 - [Simon Boudrias](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp. :star:2
 - [Reza Akhavan](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua. :star:3
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter. :star:268
@@ -124,7 +124,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild. :star:8
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
-- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:278
+- [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS. :star:279
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor. :star:4

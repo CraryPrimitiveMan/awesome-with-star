@@ -39,28 +39,28 @@ Software tools for analyzing embedded/IoT firmware.
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
 - [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
   - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) - Conference talk about FACT :tv:.
-- [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI. :star:291
+- [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI. :star:294
 
 ### Analysis Tools
 
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.   :star:5241
-- [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware. :star:857
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.   :star:5249
+- [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware. :star:858
 - [firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information. :star:486
-- [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering. :star:305
+- [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering. :star:306
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
-- [Radare2](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset. :star:11657
+- [Radare2](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset. :star:11695
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information. :star:156
 
 ### Extraction Tools
 
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Extracts arbitrary files utilizing a carving approach. :star:5241
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Extracts arbitrary files utilizing a carving approach. :star:5249
 - [FACT Extractor](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool. :star:11
-- [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats. :star:296
+- [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats. :star:298
 - [The SRecord package](http://srecord.sourceforge.net/) - Collection of tools for manipulating EPROM files (can convert lots of binary formats).
 
 ### Support Tools
 
-- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino. :star:301
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino. :star:304
 - [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 
@@ -73,7 +73,7 @@ Software tools for analyzing embedded/IoT firmware.
 - [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -  Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 - [ChipWhisperer](https://newae.com/tools/chipwhisperer/) - Detects Glitch/Side-channel attacks.
-- [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces. :star:600
+- [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces. :star:609
 - [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 
@@ -126,9 +126,9 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Free Training
 
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019. :star:17
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt. :star:77
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt. :star:78
 - [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018. :star:51
-- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge. :star:177
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge. :star:178
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge. :star:80
 - [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
 

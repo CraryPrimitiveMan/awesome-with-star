@@ -17,7 +17,7 @@
 
 ## Food-related projects
 
-- [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:399
+- [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. :star:400
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips. :star:255
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers. :star:300
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management. :star:8
@@ -34,14 +34,14 @@
 
 ## Cookbooks
 
-- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:3187
-- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:179
+- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. :star:3198
+- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community. :star:180
 - [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
 - [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes. :star:34
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes. :star:7
-- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1173
+- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars. :star:1174
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free. :star:6
-- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2470
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. :star:2476
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella. :star:30
 
 ## API for Food services

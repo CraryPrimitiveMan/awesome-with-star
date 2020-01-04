@@ -25,7 +25,7 @@
 ## PlayCanvas
 
 - [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT. :star:5032
+- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT. :star:5042
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 - [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
@@ -55,9 +55,9 @@
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit. :star:142
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js. :star:1
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine. :star:14
-- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations. :star:25
+- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations. :star:26
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin. :star:25
-- [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas. :star:7090
+- [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas. :star:7109
 - [Editor Plus](https://chrome.google.com/webstore/detail/playcanvas-editor-plus/ebedfcjmndjbaboecddbbjjjoleddfap?hl=en) - Collection of extensions to the base PlayCanvas Editor.
 - [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API. :star:3
