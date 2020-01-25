@@ -3,7 +3,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-This is a list of useful Wardley mapping resources. Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+This is a list of useful Wardley mapping resources. Short URL: **[list.wardleymaps.com](http://list.wardleymaps.com)**. Contributions welcome! [Contribution guidelines](contributing.md) for adding something to the list. 
 
 ## Contents
 
@@ -17,8 +17,8 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Templates](#templates)
 - [Apps](#apps)
 - [Events](#events)
-- [Meetups](#meetups)
 - [Workshops](#workshops)
+- [Meetups](#meetups)
 
 ## Quick Start
 
@@ -31,6 +31,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
+- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
 
 ## Reading
 
@@ -93,10 +94,10 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle. :star:7
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX. :star:3
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle. :star:8
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX. :star:3
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
-- [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
+- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd. :star:8
 
 ### Doctrine Assessement
@@ -107,17 +108,22 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:129
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/). :star:24
-- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - ⚠️ Observable [Terms of Service](https://observablehq.com/terms-of-service), #3. MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
+- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:130
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/). :star:28
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - ⚠️ Observable [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
-- [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/). :star:5
+- [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/). :star:6
 
 ## Events
 
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
+  -  [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Video presentations on InfoQ.
+
+## Workshops
+
+- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials. :star:18
 
 ## Meetups
 
@@ -137,10 +143,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - USA
   - California
     - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
-  
-## Workshops
-
-- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials. :star:18
 
 ## License
 
