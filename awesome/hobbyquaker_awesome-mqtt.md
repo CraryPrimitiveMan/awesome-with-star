@@ -58,21 +58,21 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 ### Broker
 
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
-* [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT broker that can run on any stream server, the node way. :star:500
-* [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage. :star:2202
-* [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era. :star:5558
+* [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT broker that can run on any stream server, the node way. :star:507
+* [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage. :star:2207
+* [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era. :star:5569
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266. :star:159
-* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio. :star:559
+* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio. :star:560
 * [HiveMQ](https://www.hivemq.com/) - Java MQTT Broker that supports MQTT 3.1, 3.1.1 and 5.0. Commercial and open source editions available.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go. :star:111
-* [Moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker. :star:1493
+* [Moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker. :star:1494
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
 * [Mosquitto](http://mosquitto.org/) - *"*The"** Open Source MQTT Broker. 
      * [Free test server](https://mqtt.eclipse.org/) hosted by the Eclipse Foundation.
      * [Authorization Plugin in Go](https://github.com/iegomez/mosquitto-go-auth) supports many types of logins.
      * [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) makes it easy to encrypt. 
 * [MyQttHub](https://myqtthub.com) - Cloud MQTT broker.
-* [Mystique](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1. :star:14
+* [Mystique](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1. :star:15
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](https://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
@@ -80,6 +80,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ### Cloud
 
+* [Adafruit IO](https://io.adafruit.com) - Adafruit IO is the easiest way to connect your project to the internet. You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have lots of libraries) and control or monitor over the internet. Data stored with Adafruit IO is yours to manage and control.
 - [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) - Provides secure and reliable communication between devices and the IoT Platform which allows you to manage a large number of devices on a single IoT Platform.
 - [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls) - AWS IoT Core is a managed cloud service that lets connected devices easily and securely interact with cloud applications and other devices. AWS IoT Core can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely. With AWS IoT Core, your applications can keep track of and communicate with all your devices, all the time, even when they aren’t connected.
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Enable highly secure and reliable communication between your IoT application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution backend to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.
@@ -105,10 +106,10 @@ Core analytics
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/). :star:92
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) - A benchmarking tool for MQTT Servers. :star:121
 * [MQTT CLI](https://github.com/hivemq/mqtt-cli) - A command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1. :star:44
-* [mqtt-client](https://github.com/sdeancos/mqtt-client) - A Simple MQTT Client command line (Python) (use paho lib) :star:6
+* [mqtt-client](https://github.com/sdeancos/mqtt-client) - A Simple MQTT Client command line (Python) (use paho lib) :star:7
 * [mqtt-forget](https://github.com/hobbyquaker/mqtt-forget) - Command line tool to remove retained MQTT topics by wildcard. :star:6
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) - A simple fuzzer for the MQTT protocol. :star:46
-* [mqtt-malaria](https://github.com/etactica/mqtt-malaria) - scalability and load testing utilities for MQTT environments. :star:230
+* [mqtt-malaria](https://github.com/etactica/mqtt-malaria) - scalability and load testing utilities for MQTT environments. :star:231
 * [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations. :star:98
 * [mqtt-shell](https://github.com/pidster-dot-org/mqtt-shell) - A simple interactive shell for MQTT. :star:17
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - Java based MQTT frontend. Supports scripting.
@@ -124,26 +125,27 @@ Core analytics
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications. :star:21
 * [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
 * [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark. :star:74
-* [MQTTX](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. :star:219
+* [MQTTX](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. :star:224
 
 ### Clients
 
 * [aiomqtt](https://github.com/mossblaser/aiomqtt) - Async Python MQTT client based on paho-mqtt. :star:36
-* [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X written with Swift. :star:947
-* [emqttc](https://github.com/emqx/emqtt) - Asynchronous Erlang MQTT Client. :star:205
-* [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based). :star:116
-* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio. :star:559
+* [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X written with Swift. :star:949
+* [emqttc](https://github.com/emqx/emqtt) - Asynchronous Erlang MQTT Client. :star:206
+* [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based). :star:118
+* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio. :star:560
 * [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) - High-performance Java MQTT client library with different API flavours for MQTT 5.0 and 3.1.1. :star:230
 * [Hulaaki](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers. :star:115
 * [luamqtt](https://github.com/xHasKx/luamqtt/) - Pure-lua MQTT v3.1.1 and v5.0 client. :star:36
 * [Machine Head](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client. :star:54
+* [MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT) - MQTT Client Library for CircuitPython :star:7
 * [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Simulate up to 100,000 MQTT clients per server for development/testing/deployment of IoT applications.
 * [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift. :star:218
 * [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP. :star:400
-* [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio. :star:110
+* [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio. :star:113
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) - MQTT Client library for the Lua language.
-* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. :star:175
-* [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework. :star:1502
+* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. :star:177
+* [MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework. :star:1505
 * [mqtt-client](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js). :star:14
 * [mqtt-elements](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT. :star:23
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust. :star:82
@@ -155,14 +157,14 @@ Core analytics
 * [mqttex](https://github.com/alfert/mqttex) - MQTT implementation in Elixir. :star:44
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS. :star:446
 * [Paho](http://www.eclipse.org/paho/) - Open source client implementations (C/C++, Java, Python, Javascript, Go, C#).
-* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:2438
-* [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol. :star:384
-* [rumqtt](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure Rust MQTT client. :star:197
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:2445
+* [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol. :star:404
+* [rumqtt](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure Rust MQTT client. :star:198
 * [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a MQTT broker. Very, very basic. :star:4
 * [TMQTTClient](https://github.com/jamiei/Delphi-TMQTT2) - MQTT Client Library for Delphi. :star:16
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics. :star:87
 * [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/) - A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
-* [MQTTnet](https://github.com/chkr1011/MQTTnet) - MQTT client and broker implementations in .NET. :star:1268
+* [MQTTnet](https://github.com/chkr1011/MQTTnet) - MQTT client and broker implementations in .NET. :star:1276
 
 ### Scripting
 
@@ -177,16 +179,16 @@ Core analytics
 #### Makers
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) - Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker. :star:11
-* [Basecamp](https://github.com/ct-Open-Source/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448). :star:251
+* [Basecamp](https://github.com/ct-Open-Source/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448). :star:252
 * [MySensors](https://www.mysensors.org/) - Arduino NRF24L01 based sensor network with support for an MQTT gateway
-* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:2438
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. :star:2445
 * [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway. :star:82
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT. :star:16
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway. :star:19
 
 ##### ESP
 
-* [ESP32-BLE2MQTT](https://github.com/shmuelzon/esp32-ble2mqtt) - BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication. :star:162
+* [ESP32-BLE2MQTT](https://github.com/shmuelzon/esp32-ble2mqtt) - BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication. :star:167
 * [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) - MQTT over mesh WiFi integrated library for ESP8266 :star:196
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266. :star:997
 * [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO. :star:118
@@ -201,8 +203,8 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy) - Turns ESP into a multifunction sensor device for <abbr title="Home automation">HA</abbr> solutions with web-based configuration.
 * [ESPHome](https://esphome.io/) - builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
-* [Espurna](https://github.com/xoseperez/espurna) - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box :star:2003
-* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs). :star:9455
+* [Espurna](https://github.com/xoseperez/espurna) - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box :star:2015
+* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs). :star:9538
 * [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
 
@@ -215,9 +217,9 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 #### Telephony, PBX
 
-* [agi-mqtt](https://github.com/zeha/agi-mqtt) - Interface between Asterisk and MQTT. :star:27
+* [agi-mqtt](https://github.com/zeha/agi-mqtt) - Interface between Asterisk and MQTT. :star:28
 * [fritz2mqtt](https://github.com/akentner/fritz2mqtt) - Connect FRITZ!Box to MQTT. :star:5
-* [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) - A SIP monitoring script that publishes incoming calls with CallerID to MQTT. :star:12
+* [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) - A SIP monitoring script that publishes incoming calls with CallerID to MQTT. :star:13
 
 
 #### Operating System
@@ -225,8 +227,8 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals. :star:10
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages. :star:109
 * [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin. :star:7
-* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker. :star:26
-* [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT. :star:51
+* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker. :star:27
+* [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT. :star:52
 * [WinThing](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT. :star:69
 
 
@@ -250,7 +252,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - Send MQTT messages to Elasticsearch. :star:2
 * [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server. :star:67
 * [mqttcollect](https://github.com/jpmens/mqttcollect) - A collectd "Exec" plugin for MQTT. :star:18
-* [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT. :star:16
+* [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT. :star:17
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB. :star:3
 * [mqtt-firebase](https://www.npmjs.com/package/mqtt-firebase) - A CLI tool for subscribing to MQTT topics and dumping them to a firebase firestore DB.
 
@@ -267,16 +269,16 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between EQ-3's Homematic line of smarthome devices and MQTT. Supports Homematic IP. :star:20
 * [homeeToMqtt](https://github.com/odig/homeeToMqtt) - Bidirectional Interface between homee and MQTT. :star:6
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) - Gateway between TPLink HS100/HS110 and MQTT. :star:6
-* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - A small FTP server to receive movement images from ipcameras and turn them into MQTT alerts. :star:9
+* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - A small FTP server to receive movement images from ipcameras and turn them into MQTT alerts. :star:11
 * [knx-mqtt-bridge](https://github.com/pakerfeldt/knx-mqtt-bridge) - ridges KNX and MQTT using the knx.js library. :star:10
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. :star:28
 * [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) - Plug-in for HS3 (HomeSeer).
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge. :star:3
 * [mqtt2homekit](https://github.com/forty2/mqtt2homekit) - Roughly the opposite of [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt): Control your HomeKit-enabled devices with MQTT and without Siri or iPhone. :star:15
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) - Gateway for Loxone™ mini server to communicate with MQTT broker. :star:23
-* [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT. :star:320
+* [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT. :star:321
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server. :star:18
-* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway. :star:3559
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway. :star:3591
 
 
 #### Smart Home Integration Software
@@ -287,7 +289,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [Home Assistant](https://www.home-assistant.io/) has a MQTT component.
 * [Home.Pi](https://github.com/denschu/home.pi) is based on MQTT.
 * [Homegear](https://homegear.eu/index.php/Main_Page) has build in MQTT support.
-* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps. :star:242
+* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps. :star:241
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
 * [Lelylan](http://www.lelylan.com/) - IOT Cloud Platform. Microservices Architecture. For Developers.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things, has native MQTT Support.
@@ -297,11 +299,11 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 #### Lighting
 
-* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT. :star:186
+* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT. :star:188
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - Control Chromoflex USP3 RGB LED modules via MQTT. :star:2
 * [h801/mqtt](https://github.com/open-homeautomation/h801/tree/master/mqtt) - Alternative firmware for the H801 LED dimmer that uses MQTT as a control channel. :star:33
 * [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) - Interface between the Philips Hue bridge and MQTT. :star:17
-* [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-controller) - DMX Controller with MQTT support. :star:30
+* [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-controller) - DMX Controller with MQTT support. :star:31
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Headless counterpart to [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - use scenes and sequences exported from the MQTT DMX Controller and control them via MQTT. :star:10
 * [sunricher-wifi-mqtt](https://github.com/magcode/sunricher-wifi-mqtt) - control Sunricher LED devices using MQTT. :star:12
 * [TRADFRI2MQTT](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway. :star:65
@@ -311,13 +313,13 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 * [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices. :star:33
 * [bravia2mqtt](https://github.com/forty2/bravia2mqtt) - Control your Sony Bravia TV with MQTT. :star:8
-* [broadlink-mqtt](https://github.com/eschava/broadlink-mqtt) - MQTT client to control BroadLink RM devices. :star:138
+* [broadlink-mqtt](https://github.com/eschava/broadlink-mqtt) - MQTT client to control BroadLink RM devices. :star:139
 * [chromecast-mqtt-connector](https://github.com/nohum/chromecast-mqtt-connector) - Control your Google Chromecast devices using MQTT. :star:24
-* [harmony-api](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT. :star:316
+* [harmony-api](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT. :star:317
 * [htd2mqtt](https://github.com/TheOriginalAndrobot/htd2mqtt) - Bridge between an HTD Lync audio system and MQTT.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi media center instance and MQTT. :star:68
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT. :star:53
-* [lirc2mqtt](https://github.com/hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org). :star:15
+* [lirc2mqtt](https://github.com/hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org). :star:16
 * [mopidy-mqtt](https://github.com/magcode/mopidy-mqtt) - MQTT features for Mopidy. :star:10
 * [MQTT-DashCast-Docker](https://github.com/mukowman/MQTT-DashCast-Docker) - MQTT Docker to launch DashCast session on Chromecast. :star:1
 * [mqtt2atlonamatrix](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT.
@@ -337,32 +339,33 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 #### Messaging
 
 * [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot. :star:17
-* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services. :star:780
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services. :star:781
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic. :star:15
 
 
 #### Misc
 
-* [AlexaMqttBridge](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and MQTT. :star:60
-* [bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor. :star:155
+* [AlexaMqttBridge](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and MQTT. :star:62
+* [bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor. :star:161
 * [buderus2mqtt](https://github.com/krambox/buderus2mqtt) - Bridge between Buderus KM200 internet gateway and MQTT. :star:12
 * [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT. :star:13
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT. :star:6
-* [gBridge](https://github.com/kservices/gBridge) - gBridge allows you to control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages. :star:123
+* [gBridge](https://github.com/kservices/gBridge) - gBridge allows you to control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages. :star:128
 * [haiku2mqtt](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT. :star:8
-* [homely](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff. :star:12
+* [homely](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff. :star:13
 * [kobold2mqtt](https://github.com/krambox/kobold2mqtt) - Bridge between Vorwerk Kobold Vr200 internet gateway and MQTT.
 * [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to MQTT. :star:18
-* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker. :star:289
+* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker. :star:291
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics. :star:21
 * [mqttclpro](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app. :star:70
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface. :star:20
+* [mqtt-camera-streamer](https://github.com/robmarkcole/mqtt-camera-streamer) - Stream images from a connected camera over MQTT & view using Streamlit :star:10
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive. :star:48
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone. :star:18
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection. :star:5
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT. :star:4
-* [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT. :star:43
-* [Valetudo](https://github.com/Hypfer/Valetudo) - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface. :star:1125
+* [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT. :star:45
+* [Valetudo](https://github.com/Hypfer/Valetudo) - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface. :star:1140
 * [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) - Addon for a popular DIY barbecue thermometer.
 * Tasker (Automation for Android) [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin).
 * [MQTT2ETCD](https://github.com/David-Lor/MQTT2ETCD) - MQTT-ETCD gateway: PUT keys on ETCD through MQTT, and watch ETCD key changes on MQTT topics :star:1
@@ -372,25 +375,25 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 * [Crouton](https://github.com/edfungus/Crouton) - A dashboard that taps into your IOT network, using only MQTT and JSON. :star:246
 * [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets. :star:85
-* [HelloIoT](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application. :star:41
+* [HelloIoT](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application. :star:42
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization. :star:12
 * [IoT OnOff](https://www.iot-onoff.com/) - Configurable iOS/Android app.
 * [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client. :star:44
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt) - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them. :star:12
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
 * [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) - A universal independant MQTT Dashboard for linux/Raspberry Pi. :star:2
-* [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT. :star:260
+* [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT. :star:261
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page. :star:50
 * [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - Plotting live numbered data from a subscribed MQTT topic using Highcharts. :star:54
-* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED. :star:737
+* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED. :star:738
 
 Other tools that can be used to create Visualization/Dashboards can be found under [Platforms](#platforms) and [Smart Home Integration Software](#smart-home-integration-software).
 
 
 ### Architecture, Convention
 
-* [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal. :star:293
-* [The Homie Convention](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT. :star:507
+* [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal. :star:294
+* [The Homie Convention](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT. :star:509
 
 ### Security, Encryption
 
