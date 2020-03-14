@@ -120,7 +120,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:134
+- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:135
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/). :star:36
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - ⚠️ Observable [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 

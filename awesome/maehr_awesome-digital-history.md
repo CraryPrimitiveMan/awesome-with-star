@@ -72,7 +72,7 @@ Digitized or digital born [primary sources](https://en.wikipedia.org/wiki/Primar
 - [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) - A database containing all current historical edition projects in Switzerland.
 - [MEMOBASE](http://www.memobase.ch/) - 70,000 audiovisual documents from 13 Swiss memory institutions.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
-- [Awesome Computer History](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore. :star:1450
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore. :star:1456
 - [Ad*Access](https://repository.duke.edu/dc/adaccess) - Over 7,000 U.S. and Canadian advertisements covering five product categories - Beauty and Hygiene, Radio, Television, Transportation, and World War II propaganda - dated between 1911 and 1955.
 - [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) - An interactive portal on the history of women's movements in Germany.
 - [Marxist Internet Archive](https://www.marxists.org/) - Everything you ever wanted to know about Marx (and other important socialists).
@@ -146,7 +146,7 @@ Digitized or digital born [primary sources](https://en.wikipedia.org/wiki/Primar
 - [Poppler](https://poppler.freedesktop.org/)
 - [QPDF](http://qpdf.sourceforge.net/)
 - [ImageMagick](https://imagemagick.org/)
-- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) :star:2347
+- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) :star:2369
 
 ### Data Augmentation
 

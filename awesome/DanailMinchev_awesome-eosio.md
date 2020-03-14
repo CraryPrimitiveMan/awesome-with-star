@@ -54,7 +54,7 @@ Official resources.
 
 - [Website](https://eos.io/)
 - [GitHub](https://github.com/eosio)
-- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2068
+- [Technical White Paper](https://github.com/EOSIO/Documentation) :star:2065
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
 - [Developer Portal](https://developers.eos.io/)
@@ -100,13 +100,13 @@ Various software and tools.
 #### Desktop
 
 - [cleos](https://developers.eos.io/eosio-cleos/docs)
-  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10824
+  - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO). :star:10826
   - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article.
 - [Scatter](https://get-scatter.com/)
-  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:424
+  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub. :star:425
 - [EOS Toolkit](https://eostoolkit.io/)
   - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub. :star:76
   - [EOS Toolkit by Genereos](https://www.youtube.com/watch?v=dg7mIWPnV0E) - YouTube.
@@ -117,8 +117,8 @@ Various software and tools.
   - [eosrio/simpleos](https://github.com/eosrio/simpleos) - Official GitHub. :star:152
   - [simplEOS Wallet: A Super Cool EOS Wallet For Transactions, Voting & Airdrops](https://www.youtube.com/watch?v=valaPyHftus) - YouTube.
   - [SIMPLEOS EOS wallet by EOSRIO](https://www.youtube.com/watch?v=v69oFvexka0) - YouTube.
-- [Greymass eos voter](https://github.com/greymass/eos-voter) :star:338
-  - [greymass/eos-voter](https://github.com/greymass/eos-voter) - Official GitHub. :star:338
+- [Greymass eos voter](https://github.com/greymass/eos-voter) :star:339
+  - [greymass/eos-voter](https://github.com/greymass/eos-voter) - Official GitHub. :star:339
   - [EOS - Vote w/ Greymass! - Fast, Easy, & Secure](https://www.youtube.com/watch?v=cHEKQl5Fa5M) - YouTube.
   - [How to vote in EOS block producer elections using EOS voter by Greymass](https://www.youtube.com/watch?v=TF16fQCuIis) - YouTube.
 - [Official EOS REX interface of EOS Authority](https://eosauthority.com/rex)
@@ -130,7 +130,7 @@ Various software and tools.
   - [cypherglassdotcom/glasslens](https://github.com/cypherglassdotcom/glasslens) - Official GitHub. :star:2
   - [Introducing Cypherglass LENS a new EOS Voting Tool](https://steemit.com/eos/@cypherglass/introducing-cypherglass-lens-a-new-eos-voting-tool) - Article.
   - [How to Vote for EOS Block Producers with Cypherglass LENS](https://www.youtube.com/watch?v=hDDh77Hw5iI) - YouTube.
-- [EOSIO/eosio-explorer](https://github.com/EOSIO/eosio-explorer) - An application providing Web GUI to communicate with EOSIO blockchain in a local development environment. :star:81
+- [EOSIO/eosio-explorer](https://github.com/EOSIO/eosio-explorer) - An application providing Web GUI to communicate with EOSIO blockchain in a local development environment. :star:80
   - [EOSIO Labs™ Release: The EOSIO™ Explorer](https://eos.io/news/eosio-labs-release-the-eosio-explorer/) - Article.
 - [All Things EOS](http://allthingseos.com/)
 
@@ -184,15 +184,15 @@ All about development on EOSIO platform.
 
 #### API libraries
 
-- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK. :star:1259
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK. :star:1258
 - [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) - Official Java SDK. :star:77
   - [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
   - [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
 - [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) - Official Swift SDK. :star:45
   - [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
   - [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
-- [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library. :star:478
-- [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library. :star:159
+- [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library. :star:479
+- [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library. :star:160
 - [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) - Kotlin / Android library. :star:36
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library. :star:5
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library. :star:13
@@ -215,7 +215,7 @@ All about development on EOSIO platform.
 
 #### Frameworks
 
-- [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects. :star:282
+- [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects. :star:281
   - [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 - [EOS Factory](http://eosfactory.io/) - Python-based EOSIO smart-contract development & unit testing framework.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub. :star:247
@@ -226,7 +226,7 @@ All about development on EOSIO platform.
 
 ### Developer Tools
 
-- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts. :star:418
+- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts. :star:419
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification. :star:24
 - [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
 - [EOS Node Tools](https://eosnode.tools/) - This microsite is a collection of resources and tools for any EOS enthusiast, dApp developer or block producer who wants to setup, maintain or recover their own nodes for the EOSIO blockchain.
@@ -250,7 +250,7 @@ All about development on EOSIO platform.
 
 ### Code examples
 
-- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain. :star:230
+- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain. :star:232
 - [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java. :star:15
 - [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap). :star:47
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter. :star:82
@@ -262,7 +262,7 @@ All about development on EOSIO platform.
 
 - [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOSIO nodes. :star:44
 - [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - A dashboard tool for monitoring internal Block Producer infrastructure. :star:19
-- [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOSIO Block Producer Failover Scripts. :star:34
+- [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOSIO Block Producer Failover Scripts. :star:33
 - [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier. :star:3
 - [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) - Adjusting supply of a token and connector balance of bancor during final phase of boot. :star:6
 
