@@ -111,275 +111,275 @@
 
 ### Mad science
 
-- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser. :star:21450
-- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client. :star:5368
-- [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets. :star:485
-- [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files. :star:4273
+- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser. :star:21492
+- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client. :star:5374
+- [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets. :star:488
+- [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files. :star:4292
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent. :star:298
-- [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast. :star:448
-- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library. :star:3788
-- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library. :star:3547
-- [PDFKit](https://github.com/devongovett/pdfkit) - PDF generation library. :star:5983
-- [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine. :star:5081
+- [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast. :star:449
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library. :star:3793
+- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library. :star:3556
+- [PDFKit](https://github.com/devongovett/pdfkit) - PDF generation library. :star:5996
+- [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine. :star:5099
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication. :star:403
-- [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm. :star:6167
-- [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system. :star:1003
-- [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework. :star:10817
-- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis. :star:6447
+- [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm. :star:6168
+- [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system. :star:1004
+- [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework. :star:10834
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis. :star:6463
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser. :star:178
-- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git. :star:3630
+- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git. :star:3632
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine. :star:371
-- [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer. :star:20135
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git. :star:4589
+- [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer. :star:20242
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git. :star:4606
 
 ### Command-line apps
 
-- [np](https://github.com/sindresorhus/np) - Better `npm publish`. :star:5037
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm. :star:118
+- [np](https://github.com/sindresorhus/np) - Better `npm publish`. :star:5056
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm. :star:119
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory. :star:156
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package. :star:169
-- [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`. :star:1955
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping. :star:3299
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line. :star:1950
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots. :star:8981
+- [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`. :star:1957
+- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping. :star:3308
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line. :star:1956
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots. :star:8983
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files. :star:260
-- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts. :star:3527
-- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash. :star:102
+- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts. :star:3532
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash. :star:103
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down. :star:331
-- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up. :star:821
-- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address. :star:527
+- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up. :star:822
+- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address. :star:529
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal. :star:352
-- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style. :star:4977
-- [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all. :star:23329
-- [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript. :star:15995
-- [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user. :star:167
+- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style. :star:4978
+- [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all. :star:23365
+- [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript. :star:16038
+- [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user. :star:168
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date. :star:916
-- [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server. :star:9236
-- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability. :star:3081
+- [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server. :star:9253
+- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability. :star:3086
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers. :star:299
-- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal. :star:205
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. :star:6039
-- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal. :star:370
-- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies. :star:1006
+- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal. :star:206
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. :star:6049
+- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal. :star:372
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies. :star:1011
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment. :star:359
-- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input. :star:111
-- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password. :star:210
-- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper. :star:681
-- [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness. :star:169
+- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input. :star:112
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password. :star:211
+- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper. :star:685
+- [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness. :star:171
 - [torrent](https://github.com/maxogden/torrent) - Download torrents. :star:565
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory. :star:255
-- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing. :star:3423
+- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing. :star:3432
 - [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor. :star:299
-- [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series. :star:123
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode. :star:474
+- [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series. :star:125
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode. :star:475
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder. :star:234
 - [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation. :star:169
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes. :star:392
 - [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator. :star:77
 - [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator. :star:43
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator. :star:235
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator. :star:237
 - [Cash](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript. :star:7685
-- [trymodule](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal. :star:1108
-- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. :star:1563
-- [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking. :star:788
-- [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code. :star:1065
+- [trymodule](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal. :star:1109
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. :star:1572
+- [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking. :star:790
+- [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code. :star:1067
 - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal. :star:115
-- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down. :star:2511
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world. :star:9625
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG. :star:1736
-- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal. :star:8068
-- [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more. :star:2321
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal. :star:4463
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies. :star:132
-- [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat. :star:7478
-- [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3. :star:429
-- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders. :star:2575
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down. :star:2510
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world. :star:9649
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG. :star:1758
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal. :star:8073
+- [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more. :star:2329
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal. :star:4473
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies. :star:136
+- [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat. :star:7489
+- [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3. :star:430
+- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders. :star:2593
 
 ### Functional programming
 
-- [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js. :star:43849
-- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections. :star:29322
-- [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data. :star:18412
-- [Folktale](https://github.com/origamitower/folktale) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse. :star:1739
-- [Mout](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead. :star:1179
-- [Bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming. :star:6217
-- [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data. :star:21315
+- [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js. :star:43955
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections. :star:29358
+- [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data. :star:18448
+- [Folktale](https://github.com/origamitower/folktale) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse. :star:1744
+- [Mout](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead. :star:1182
+- [Bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming. :star:6218
+- [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data. :star:21377
 - [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases. :star:5876
-- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage. :star:1651
+- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage. :star:1657
 
 ### HTTP
 
-- [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module. :star:6958
+- [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module. :star:6992
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API. :star:146
-- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too). :star:70594
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too). :star:70856
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities. :star:373
-- [download](https://github.com/kevva/download) - Download and extract files effortlessly. :star:949
-- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy. :star:10979
-- [superagent](https://github.com/visionmedia/superagent) - HTTP request library. :star:14945
-- [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js. :star:4730
+- [download](https://github.com/kevva/download) - Download and extract files effortlessly. :star:953
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy. :star:11002
+- [superagent](https://github.com/visionmedia/superagent) - HTTP request library. :star:14959
+- [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js. :star:4761
 - [flashheart](https://github.com/bbc/flashheart) - REST client. :star:110
-- [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes. :star:224
+- [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes. :star:225
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support. :star:199
-- [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got). :star:242
+- [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got). :star:245
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables. :star:75
 
 ### Debugging / Profiling
 
-- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience, enabled by Chrome DevTools. :star:9883
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience, enabled by Chrome DevTools. :star:9900
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box. :star:2369
-- [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools. :star:12489
-- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility. :star:8555
-- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why? :star:1064
-- [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function. :star:276
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools. :star:12490
+- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility. :star:8574
+- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why? :star:1067
+- [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function. :star:275
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams. :star:57
-- [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies. :star:213
+- [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies. :star:216
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables. :star:277
-- [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling. :star:1769
+- [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling. :star:1775
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals. :star:108
 - [leakage](https://github.com/andywer/leakage) - Write memory leak tests. :star:1434
-- [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process. :star:821
+- [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process. :star:823
 - [thetool](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format. :star:149
-- [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics. :star:397
+- [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics. :star:403
 - [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow. :star:153
 
 ### Logging
 
-- [pino](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan. :star:5153
-- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library. :star:15028
+- [pino](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan. :star:5175
+- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library. :star:15053
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes. :star:57
-- [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories. :star:600
-- [signale](https://github.com/klauscfhq/signale) - Console logger. :star:8031
-- [consola](https://github.com/nuxt/consola) - Console logger. :star:2743
+- [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories. :star:603
+- [signale](https://github.com/klauscfhq/signale) - Console logger. :star:8049
+- [consola](https://github.com/nuxt/consola) - Console logger. :star:2750
 
 ### Command-line utilities
 
-- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right. :star:14080
-- [meow](https://github.com/sindresorhus/meow) - CLI app helper. :star:2088
-- [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface. :star:7392
-- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner. :star:5719
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right. :star:14118
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper. :star:2097
+- [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface. :star:7425
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner. :star:5733
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin. :star:247
-- [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc. :star:749
-- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps. :star:12920
-- [listr](https://github.com/samverschueren/listr) - Terminal task list. :star:2427
-- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module. :star:544
-- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal. :star:293
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels. :star:504
-- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks. :star:388
+- [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc. :star:750
+- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps. :star:12937
+- [listr](https://github.com/samverschueren/listr) - Terminal task list. :star:2428
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module. :star:545
+- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal. :star:294
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels. :star:505
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks. :star:390
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal. :star:709
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal. :star:264
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal. :star:267
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal. :star:480
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it. :star:183
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal. :star:52
 - [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run. :star:70
-- [blessed](https://github.com/chjj/blessed) - Curses-like library. :star:9068
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt. :star:12079
+- [blessed](https://github.com/chjj/blessed) - Curses-like library. :star:9077
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt. :star:12127
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values. :star:185
-- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables. :star:133
+- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables. :star:137
 - [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters. :star:863
-- [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app. :star:1361
+- [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app. :star:1367
 - [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal. :star:224
-- [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar. :star:2385
+- [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar. :star:2389
 - [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics. :star:485
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor. :star:66
 - [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping. :star:372
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists. :star:23
-- [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console. :star:548
+- [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console. :star:550
 - [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners. :star:264
-- [omelette](https://github.com/f/omelette) - Shell autocompletion helper. :star:913
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4553
-- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands. :star:10813
+- [omelette](https://github.com/f/omelette) - Shell autocompletion helper. :star:914
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform. :star:4572
+- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands. :star:10845
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions. :star:80
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail. :star:262
 - [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`. :star:349
-- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories. :star:10386
+- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories. :star:10440
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output. :star:410
-- [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins. :star:4635
+- [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins. :star:4661
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size. :star:109
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs. :star:228
 
 ### Build tools
 
-- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler. :star:35099
-- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser. :star:53285
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler. :star:17750
-- [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config. :star:31660
-- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions. :star:3280
-- [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow. :star:6659
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler. :star:35152
+- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser. :star:53384
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler. :star:17791
+- [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config. :star:31671
+- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions. :star:3281
+- [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow. :star:6664
 - [Start](https://github.com/deepsweet/start) - Functional task runner with shareable presets. :star:482
 - [ygor](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much. :star:69
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support. :star:3951
-- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable. :star:15435
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable. :star:15474
 
 ### Hardware
 
-- [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework. :star:11347
-- [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing. :star:4311
-- [usb](https://github.com/nonolith/node-usb) - USB library. :star:912
-- [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access. :star:216
-- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection. :star:916
-- [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access. :star:76
-- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi. :star:608
-- [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers. :star:138
+- [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework. :star:11363
+- [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing. :star:4320
+- [usb](https://github.com/nonolith/node-usb) - USB library. :star:913
+- [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access. :star:219
+- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection. :star:920
+- [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access. :star:77
+- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi. :star:612
+- [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers. :star:139
 
 ### Templating
 
-- [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags. :star:9431
-- [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired). :star:6555
-- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks. :star:15180
-- [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language. :star:4234
-- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml. :star:19069
+- [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags. :star:9437
+- [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired). :star:6566
+- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks. :star:15194
+- [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language. :star:4263
+- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml. :star:19093
 
 ### Web frameworks
 
-- [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services. :star:12181
-- [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. :star:28664
-- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications. :star:47679
-- [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express. :star:12230
-- [LoopBack](https://github.com/strongloop/loopback) - Powerful framework for creating REST APIs and easily connecting to backend data sources. :star:13076
-- [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))* :star:41668
-- [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services. :star:9707
-- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API. :star:5075
+- [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services. :star:12204
+- [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. :star:28715
+- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications. :star:47784
+- [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express. :star:12250
+- [LoopBack](https://github.com/strongloop/loopback) - Powerful framework for creating REST APIs and easily connecting to backend data sources. :star:13079
+- [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))* :star:41666
+- [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services. :star:9711
+- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API. :star:5081
 - [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients. :star:2080
-- [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps. :star:45887
-- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps. :star:25875
-- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices. :star:3642
+- [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps. :star:46083
+- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps. :star:26032
+- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices. :star:3643
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-- [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io). :star:729
-- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach. :star:9146
+- [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io). :star:730
+- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach. :star:9155
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework. :star:13813
-- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps. :star:25092
-- [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices. :star:104
-- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators. :star:3929
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework. :star:13874
+- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps. :star:25275
+- [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices. :star:105
+- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators. :star:3972
 
 ### Documentation
 
-- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation. :star:4979
-- [ESDoc](https://github.com/esdoc/esdoc) - Documentation generator targeting ES2015, attaching test code and measuring documentation coverage. :star:2570
-- [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code. :star:3425
-- [JSDoc](https://github.com/jsdoc3/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc. :star:10431
+- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation. :star:4980
+- [ESDoc](https://github.com/esdoc/esdoc) - Documentation generator targeting ES2015, attaching test code and measuring documentation coverage. :star:2572
+- [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code. :star:3424
+- [JSDoc](https://github.com/jsdoc3/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc. :star:10455
 
 ### Filesystem
 
-- [del](https://github.com/sindresorhus/del) - Delete files/folders using globs. :star:1055
-- [globby](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns. :star:1366
+- [del](https://github.com/sindresorhus/del) - Delete files/folders using globs. :star:1057
+- [globby](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns. :star:1369
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files. :star:260
-- [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`. :star:3642
-- [make-dir](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`. :star:398
-- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements. :star:940
-- [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS. :star:6358
-- [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories. :star:275
-- [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) - Inter-process and inter-machine lockfile utility. :star:104
+- [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`. :star:3657
+- [make-dir](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`. :star:400
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements. :star:944
+- [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS. :star:6384
+- [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories. :star:276
+- [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) - Inter-process and inter-machine lockfile utility. :star:105
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file. :star:167
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically. :star:147
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic. :star:47
-- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename. :star:273
+- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename. :star:274
 - [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`. :star:10
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary. :star:65
-- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use. :star:524
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module. :star:6651
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use. :star:525
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module. :star:6673
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package. :star:126
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system. :star:170
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices. :star:137
@@ -388,29 +388,29 @@
 ### Control flow
 
 - Promises
-	- [Bluebird](https://github.com/petkaantonov/bluebird) - Promise library with focus on innovative features and performance. :star:18976
-	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:1267
-	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:366
+	- [Bluebird](https://github.com/petkaantonov/bluebird) - Promise library with focus on innovative features and performance. :star:18985
+	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function. :star:1269
+	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time. :star:367
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch. :star:44
 	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function. :star:25
-	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently. :star:514
-	- [More…](https://github.com/sindresorhus/promise-fun) :star:2897
+	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently. :star:517
+	- [More…](https://github.com/sindresorhus/promise-fun) :star:2898
 - Observables
-	- [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables. :star:608
-	- [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming. :star:21315
+	- [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables. :star:609
+	- [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming. :star:21377
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise. :star:267
 	- [More…](https://github.com/sindresorhus/awesome-observables) :star:267
 - Streams
-	- [Highland.js](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. :star:3272
+	- [Highland.js](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. :star:3276
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach. :star:107
-	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity. :star:26402
+	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity. :star:26412
 - Channels
-	- [js-csp](https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go). :star:2266
+	- [js-csp](https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go). :star:2265
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise. :star:1683
+- [through2](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise. :star:1687
 - [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`. :star:118
 - [get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer. :star:187
 - [into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream. :star:148
@@ -428,46 +428,46 @@
 
 ### Real-time
 
-- [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library. :star:11307
-- [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication. :star:48978
+- [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library. :star:11331
+- [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication. :star:49033
 - [Faye](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol. :star:4251
-- [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores. :star:5578
-- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in. :star:4078
+- [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores. :star:5579
+- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in. :star:4079
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework. :star:252
 - [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework. :star:113
-- [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP. :star:5255
+- [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP. :star:5280
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets. :star:233
-- [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server. :star:562
+- [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server. :star:570
 
 ### Image
 
-- [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images. :star:15894
-- [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array. :star:207
-- [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper. :star:6036
+- [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images. :star:15950
+- [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array. :star:208
+- [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper. :star:6042
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick. :star:2251
-- [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed. :star:1918
-- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript. :star:9804
-- [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download. :star:329
-- [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator. :star:3825
+- [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed. :star:1925
+- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript. :star:9830
+- [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download. :star:331
+- [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator. :star:3843
 
 ### Text
 
-- [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings. :star:2298
+- [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings. :star:2304
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes. :star:80
-- [camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar. :star:402
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters. :star:354
+- [camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar. :star:404
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters. :star:356
 - [execall](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string. :star:79
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`. :star:14
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string. :star:81
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string. :star:93
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code. :star:140
-- [he](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder. :star:2416
-- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage. :star:2526
+- [he](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder. :star:2425
+- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage. :star:2529
 - [babelfish](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals. :star:210
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching. :star:446
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters. :star:17
-- [i18next](https://github.com/i18next/i18next) - Internationalization framework. :star:4780
-- [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator. :star:8608
+- [i18next](https://github.com/i18next/i18next) - Internationalization framework. :star:4806
+- [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator. :star:8638
 
 ### Number
 
@@ -478,265 +478,265 @@
 
 ### Math
 
-- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays. :star:907
-- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library. :star:9592
+- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays. :star:910
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library. :star:9613
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number. :star:6
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures. :star:87
 - [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS. :star:43
 
 ### Date
 
-- [Luxon](https://github.com/moment/luxon) - Library for working with dates and times. :star:9114
-- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility. :star:21635
+- [Luxon](https://github.com/moment/luxon) - Library for working with dates and times. :star:9131
+- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility. :star:21714
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
-- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js. :star:26228
-- [dateformat](https://github.com/felixge/node-dateformat) - Date formatting. :star:1051
+- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js. :star:26351
+- [dateformat](https://github.com/felixge/node-dateformat) - Date formatting. :star:1053
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`. :star:7
 - [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates. :star:54
 
 ### URL
 
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL. :star:430
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL. :star:432
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com. :star:190
 - [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs. :star:42
-- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration. :star:1023
-- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support. :star:363
-- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings. :star:478
+- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration. :star:1024
+- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support. :star:364
+- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings. :star:479
 - [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags. :star:44
 
 ### Data validation
 
-- [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects. :star:14375
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast. :star:901
+- [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects. :star:14416
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast. :star:902
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express. :star:149
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation. :star:463
-- [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals. :star:7070
+- [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals. :star:7106
 
 ### Parsing
 
-- [remark](https://github.com/wooorm/remark) - Markdown processor powered by plugins. :star:2815
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins. :star:9050
-- [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser. :star:2329
+- [remark](https://github.com/wooorm/remark) - Markdown processor powered by plugins. :star:2825
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins. :star:9089
+- [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser. :star:2337
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON. :star:449
-- [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS. :star:98
+- [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS. :star:99
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors. :star:173
-- [URI.js](https://github.com/medialize/URI.js) - URL mutation. :star:5906
-- [PostCSS](https://github.com/postcss/postcss) - CSS parser / stringifier. :star:22293
-- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify. :star:1714
-- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above. :star:152
-- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else. :star:780
-- [PEG.js](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting. :star:3586
-- [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility. :star:5222
-- [nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parsing for JavaScript. :star:2393
+- [URI.js](https://github.com/medialize/URI.js) - URL mutation. :star:5914
+- [PostCSS](https://github.com/postcss/postcss) - CSS parser / stringifier. :star:22312
+- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify. :star:1715
+- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above. :star:154
+- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else. :star:784
+- [PEG.js](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting. :star:3593
+- [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility. :star:5224
+- [nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parsing for JavaScript. :star:2397
 - [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing. :star:146
 - [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins. :star:138
-- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser. :star:4371
-- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter. :star:3921
-- [Jison](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family. :star:3624
-- [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers. :star:801
+- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser. :star:4381
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter. :star:3924
+- [Jison](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family. :star:3631
+- [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers. :star:808
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers. :star:360
-- [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX. :star:508
-- [Chevrotain](https://github.com/SAP/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript. :star:1283
-- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML. :star:699
+- [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX. :star:510
+- [Chevrotain](https://github.com/SAP/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript. :star:1294
+- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML. :star:705
 
 ### Humanize
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`. :star:571
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`. :star:500
-- [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility. :star:2711
-- [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter. :star:1310
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`. :star:502
+- [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility. :star:2719
+- [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page. :star:296
 
 ### Compression
 
-- [yazl](https://github.com/thejoshwolfe/yazl) - Zip. :star:229
-- [yauzl](https://github.com/thejoshwolfe/yauzl) - Unzip. :star:465
-- [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR. :star:1826
-- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip). :star:2776
+- [yazl](https://github.com/thejoshwolfe/yazl) - Zip. :star:234
+- [yauzl](https://github.com/thejoshwolfe/yauzl) - Unzip. :star:475
+- [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR. :star:1833
+- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip). :star:2784
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs). :star:277
-- [decompress](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box. :star:285
+- [decompress](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box. :star:286
 
 ### Network
 
-- [get-port](https://github.com/sindresorhus/get-port) - Get an available port. :star:484
+- [get-port](https://github.com/sindresorhus/get-port) - Get an available port. :star:485
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address. :star:174
-- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address. :star:222
-- [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server. :star:178
-- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS. :star:275
+- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address. :star:221
+- [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server. :star:179
+- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS. :star:276
 
 ### Database
 
 - Drivers
-	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings. :star:8240
-	- [Redis](https://github.com/luin/ioredis) - Redis client. :star:7225
-	- [LevelUP](https://github.com/Level/levelup) - LevelDB. :star:3692
-	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client. :star:15175
-	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client. :star:358
+	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings. :star:8264
+	- [Redis](https://github.com/luin/ioredis) - Redis client. :star:7294
+	- [LevelUP](https://github.com/Level/levelup) - LevelDB. :star:3699
+	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client. :star:15205
+	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client. :star:363
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client. :star:164
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client. :star:424
-	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver. :star:8462
+	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver. :star:8471
 - ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL. :star:21311
-	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js. :star:5818
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL. :star:21367
+	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js. :star:5824
 	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool. :star:2548
-	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling. :star:20383
-	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases. :star:5156
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord. :star:448
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises. :star:2544
-	- [slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions. :star:1331
-	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex. :star:4960
-	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more. :star:17934
-	- [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite. :star:690
+	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling. :star:20414
+	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases. :star:5158
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord. :star:447
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises. :star:2553
+	- [slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions. :star:1342
+	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex. :star:4975
+	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more. :star:18044
+	- [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite. :star:705
 - Query builder
-	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use. :star:11546
+	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use. :star:11579
 - Other
-	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript. :star:11081
-	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash. :star:12508
-	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends. :star:986
-	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models. :star:139
+	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript. :star:11112
+	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash. :star:12564
+	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends. :star:989
+	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models. :star:141
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection. :star:29
-	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files. :star:219
+	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files. :star:220
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection. :star:54
 
 ### Testing
 
-- [AVA](https://github.com/avajs/ava) - Futuristic test runner. :star:17669
-- [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun. :star:19094
-- [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses. :star:4051
+- [AVA](https://github.com/avajs/ava) - Futuristic test runner. :star:17687
+- [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun. :star:19120
+- [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses. :star:4060
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework. :star:1560
-- [tape](https://github.com/substack/tape) - TAP-producing test harness. :star:5255
-- [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface. :star:2466
+- [tape](https://github.com/substack/tape) - TAP-producing test harness. :star:5260
+- [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface. :star:2471
 - [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver. :star:335
-- [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI. :star:2173
-- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation. :star:1822
-- [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks. :star:7846
+- [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI. :star:2172
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation. :star:1829
+- [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks. :star:7851
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting. :star:45
-- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations. :star:9237
-- [intern](https://github.com/theintern/intern) - Code testing stack. :star:4194
-- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions. :star:2628
+- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations. :star:9259
+- [intern](https://github.com/theintern/intern) - Code testing stack. :star:4195
+- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions. :star:2631
 - [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr. :star:46
 - [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM. :star:175
-- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver. :star:10080
-- [WebdriverIO](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol. :star:5547
-- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing. :star:30053
-- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing. :star:7929
+- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver. :star:10093
+- [WebdriverIO](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol. :star:5558
+- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing. :star:30127
+- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing. :star:7949
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server. :star:574
-- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing. :star:2700
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome. :star:59315
-- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API. :star:10498
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing. :star:2707
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome. :star:59511
+- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API. :star:10660
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally. :star:498
 
 ### Security
 
-- [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms. :star:456
-- [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on. :star:966
+- [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms. :star:457
+- [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on. :star:968
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
-- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection. :star:816
-- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing. :star:403
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection. :star:823
+- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing. :star:404
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard. :star:28
 
 ### Benchmarking
 
-- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results. :star:4467
-- [matcha](https://github.com/logicalparadox/matcha) - Simplistic approach to benchmarking. :star:520
+- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results. :star:4471
+- [matcha](https://github.com/logicalparadox/matcha) - Simplistic approach to benchmarking. :star:521
 
 ### Minifiers
 
-- [babili](https://github.com/babel/babili) - ES2015+ aware minifier based on the Babel toolchain. :star:4039
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript minifier. :star:10602
-- [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier. :star:3456
+- [babili](https://github.com/babel/babili) - ES2015+ aware minifier based on the Babel toolchain. :star:4045
+- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript minifier. :star:10616
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier. :star:3462
 - [minimize](https://github.com/Swaagie/minimize) - HTML minifier. :star:146
-- [imagemin](https://github.com/imagemin/imagemin) - Image minifier. :star:3816
+- [imagemin](https://github.com/imagemin/imagemin) - Image minifier. :star:3821
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication. :star:17085
-- [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi. :star:2628
+- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication. :star:17112
+- [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi. :star:2633
 
 ### Authorization
 
-- [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API. :star:1851
-- [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC. :star:848
+- [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API. :star:1862
+- [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC. :star:878
 
 ### Email
 
-- [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email. :star:12291
-- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server. :star:1792
-- [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates. :star:2725
-- [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails. :star:10195
+- [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email. :star:12315
+- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server. :star:1793
+- [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates. :star:2732
+- [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails. :star:10226
 
 ### Job queues
 
-- [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue. :star:7830
-- [agenda](https://github.com/rschmukler/agenda) - MongoDB-backed job scheduling. :star:6315
-- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control. :star:47
-- [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue. :star:806
-- [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue. :star:1247
-- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue. :star:1775
+- [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue. :star:7907
+- [agenda](https://github.com/rschmukler/agenda) - MongoDB-backed job scheduling. :star:6344
+- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control. :star:48
+- [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue. :star:808
+- [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue. :star:1254
+- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue. :star:1781
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring. :star:188
-- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate. :star:800
-- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis. :star:257
+- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate. :star:805
+- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis. :star:259
 
 ### Node.js management
 
-- [n](https://github.com/tj/n) - Node.js version management. :star:12823
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js. :star:1401
-- [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv. :star:1176
-- [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows. :star:11863
-- [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching. :star:1151
+- [n](https://github.com/tj/n) - Node.js version management. :star:12851
+- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js. :star:1402
+- [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv. :star:1178
+- [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows. :star:11941
+- [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching. :star:1158
 
 ### Natural language processing
 
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system. :star:1873
-- [franc](https://github.com/wooorm/franc) - Detect the language of text. :star:3144
+- [franc](https://github.com/wooorm/franc) - Detect the language of text. :star:3148
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm. :star:491
-- [natural](https://github.com/NaturalNode/natural) - Natural language facility. :star:9090
-- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more. :star:3516
+- [natural](https://github.com/NaturalNode/natural) - Natural language facility. :star:9091
+- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more. :star:3535
 
 ### Process management
 
-- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager. :star:31875
-- [nodemon](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server. :star:20160
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager. :star:31930
+- [nodemon](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server. :star:20204
 - [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app. :star:454
 - [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog. :star:369
-- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer. :star:1881
+- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer. :star:1885
 - [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes. :star:3665
-- [Phusion Passenger](https://github.com/phusion/passenger) - Friendly process manager that integrates directly into Nginx. :star:4561
+- [Phusion Passenger](https://github.com/phusion/passenger) - Friendly process manager that integrates directly into Nginx. :star:4563
 
 ### Automation
 
-- [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen. :star:8663
+- [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen. :star:8676
 
 ### AST
 
-- [Acorn](https://github.com/ternjs/acorn) - Tiny, fast JavaScript parser. :star:5759
-- [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel. :star:36004
-- [cherow](https://github.com/cherow/cherow) - JavaScript parser with focus on performance and stability. :star:1544
+- [Acorn](https://github.com/ternjs/acorn) - Tiny, fast JavaScript parser. :star:5820
+- [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel. :star:36067
+- [cherow](https://github.com/cherow/cherow) - JavaScript parser with focus on performance and stability. :star:1546
 
 ### Static site generators
 
-- [Wintersmith](https://github.com/jnordberg/wintersmith) - Flexible, minimalistic, multi-platform static site generator. :star:3488
-- [Assemble](https://github.com/assemble/assemble/) - Static site generator for Node.js, Grunt.js, and Yeoman. :star:3770
+- [Wintersmith](https://github.com/jnordberg/wintersmith) - Flexible, minimalistic, multi-platform static site generator. :star:3485
+- [Assemble](https://github.com/assemble/assemble/) - Static site generator for Node.js, Grunt.js, and Yeoman. :star:3771
 - [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem. :star:3005
-- [Phenomic](https://github.com/phenomic/phenomic) - Modern static website generator based on the React and Webpack ecosystem. :star:3324
-- [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files. :star:12714
-- [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX. :star:275
+- [Phenomic](https://github.com/phenomic/phenomic) - Modern static website generator based on the React and Webpack ecosystem. :star:3323
+- [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files. :star:12794
+- [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX. :star:276
 
 ### Content management systems
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB. :star:1723
-- [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB. :star:3063
-- [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs. :star:22660
-- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file. :star:2024
+- [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB. :star:1756
+- [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB. :star:3069
+- [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs. :star:22812
+- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file. :star:2028
 
 ### Forum
 
-- [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web. :star:10872
+- [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web. :star:10881
 
 ### Blogging
 
-- [Ghost](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform. :star:32938
-- [Hexo](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework. :star:29801
+- [Ghost](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform. :star:33002
+- [Hexo](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework. :star:29883
 
 ### Weird
 
@@ -753,62 +753,62 @@
 ### Serialization
 
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library. :star:420
-- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers. :star:6487
+- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers. :star:6507
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol. :star:82
 
 ### Miscellaneous
 
-- [execa](https://github.com/sindresorhus/execa) - Better `child_process`. :star:3016
-- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server. :star:21485
-- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))* :star:81265
-- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. :star:1897
-- [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file. :star:759
-- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path. :star:432
-- [onetime](https://github.com/sindresorhus/onetime) - Only run a function once. :star:105
-- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input. :star:630
+- [execa](https://github.com/sindresorhus/execa) - Better `child_process`. :star:3030
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server. :star:21527
+- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))* :star:81407
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. :star:1903
+- [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file. :star:763
+- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path. :star:433
+- [onetime](https://github.com/sindresorhus/onetime) - Only run a function once. :star:111
+- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input. :star:632
 - [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache. :star:194
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream. :star:82
-- [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale. :star:154
-- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module. :star:3945
+- [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale. :star:155
+- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module. :star:3956
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple. :star:30
 - [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily. :star:196
-- [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer. :star:1488
-- [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy. :star:880
-- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. :star:2887
-- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads. :star:2133
-- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste). :star:924
-- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries. :star:753
-- [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library. :star:3933
-- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file. :star:10953
+- [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer. :star:1492
+- [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy. :star:882
+- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. :star:2891
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads. :star:2139
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste). :star:931
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries. :star:756
+- [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library. :star:3936
+- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file. :star:10996
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo. :star:35
-- [semver](https://github.com/npm/node-semver) - Semantic version parser. :star:3168
-- [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data. :star:22763
-- [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git. :star:4445
+- [semver](https://github.com/npm/node-semver) - Semantic version parser. :star:3173
+- [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data. :star:22845
+- [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git. :star:4451
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop. :star:9
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path. :star:88
-- [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler. :star:1991
-- [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM. :star:13723
-- [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views. :star:5478
-- [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values. :star:896
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path. :star:90
+- [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler. :star:1993
+- [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM. :star:13758
+- [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views. :star:5482
+- [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values. :star:899
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path. :star:27
-- [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter. :star:1023
+- [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter. :star:1025
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming. :star:233
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
-- [cashify](https://github.com/xxczaki/cashify) - Currency conversion. :star:285
-- [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code. :star:21
+- [cashify](https://github.com/xxczaki/cashify) - Currency conversion. :star:286
+- [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code. :star:22
 
 ## Resources
 
 ### Tutorials
 
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages. :star:41617
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages. :star:41864
 - [Nodeschool](https://github.com/nodeschool) - Learn Node.js with interactive lessons.
-- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js. :star:8556
-- [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams. :star:12938
-- [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules. :star:1344
+- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js. :star:8566
+- [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams. :star:12945
+- [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules. :star:1346
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
-- [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript. :star:1178
-- [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code. :star:1029
+- [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript. :star:1179
+- [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code. :star:1033
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
 
 ### Discovery
@@ -827,7 +827,7 @@
 - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
-- [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs. :star:5454
+- [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs. :star:5460
 - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
 
 ### Newsletters
@@ -872,9 +872,9 @@
 
 ### Cheatsheets
 
-- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4) :star:1097
+- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4) :star:1099
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more. :star:184
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service. :star:332
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service. :star:335
 
 ### Tools
 
@@ -899,14 +899,14 @@
 ### Miscellaneous
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
-- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module. :star:639
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module. :star:640
 - [modern-node](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard. :star:183
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module. :star:692
-- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2150
-- [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules. :star:475
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module. :star:693
+- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms. :star:2152
+- [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules. :star:476
 
 ## Related lists
 
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm. :star:3487
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code. :star:827
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm. :star:3486
+- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code. :star:828
 

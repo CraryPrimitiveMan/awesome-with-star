@@ -34,7 +34,7 @@ Here's some of the things I'd like to build out for this extension. However the 
 - [ ] Favourite 'gems' to bookmark folder
 - [ ] Basic stats
 - [ ] Categories
-  - [x] [awesome curated lists](https://github.com/sindresorhus/awesome) :star:128796
+  - [x] [awesome curated lists](https://github.com/sindresorhus/awesome) :star:129443
   - [ ] tech, science, software, startups, etc.
 
 
@@ -47,7 +47,7 @@ This extension requires the `<all_urls>` permission, in order to show the overla
 
 ### Credit to the curators ✔
 This extension is made possible by awesome people curating the internet:
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and [all the awesome list authors](https://github.com/sindresorhus/awesome/graphs/contributors) :star:128796
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and [all the awesome list authors](https://github.com/sindresorhus/awesome/graphs/contributors) :star:129443
 
 #### Contribute
 

@@ -29,8 +29,8 @@ A curated list of bitcoin services and tools for software developers
 
 ## Utilities
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
-* [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library. :star:1076
-* [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool. :star:376
+* [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library. :star:1078
+* [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool. :star:377
 * [txwatcher](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks. :star:37
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network. :star:238
 * [Mining visualization](http://www.yogh.io/#mine:last)
@@ -70,16 +70,16 @@ A curated list of bitcoin services and tools for software developers
 
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
-* [libwally-core](https://github.com/ElementsProject/libwally-core) :star:126
-* [secp256k1](https://github.com/bitcoin-core/secp256k1) :star:900
+* [libwally-core](https://github.com/ElementsProject/libwally-core) :star:128
+* [secp256k1](https://github.com/bitcoin-core/secp256k1) :star:907
 
 ## JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) :star:52
-* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3547
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3788
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) :star:3557
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) :star:3794
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) :star:40
-* [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers. :star:2234
+* [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers. :star:2237
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) :star:72
@@ -91,14 +91,14 @@ A curated list of bitcoin services and tools for software developers
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python) :star:19
 * [btctxstore](https://github.com/F483/btctxstore) - Simple library to store/retrieve information in bitcoin transactions using OP_RETURN. :star:8
-* [pybitcointools](https://github.com/vbuterin/pybitcointools) - Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued. :star:1150
-* [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx). :star:1076
+* [pybitcointools](https://github.com/vbuterin/pybitcointools) - Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued. :star:1151
+* [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx). :star:1078
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.  :star:128
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 * [BitcoinJ](https://bitcoinj.github.io)
-* [XChange](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges. :star:2891
+* [XChange](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges. :star:2895
 
 ## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
@@ -106,36 +106,36 @@ A curated list of bitcoin services and tools for software developers
 
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
-* [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#. :star:327
-* [QBitNinja](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API. :star:59
+* [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#. :star:328
+* [QBitNinja](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API. :star:60
 
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
-* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies. :star:141
+* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies. :star:140
 * [Debug Script Execution](https://webbtc.com/script)
-* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:227
+* [Script Debugger](https://github.com/kallewoof/btcdeb) :star:229
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
-* [blockchain-demo](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts. :star:3060
-* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions. :star:41
+* [blockchain-demo](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts. :star:3062
+* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions. :star:42
 
 ## Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/) - These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database. :star:85
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser. :star:57
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies. :star:872
-* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform. :star:23
+* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform. :star:24
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - Graph Database Builder. :star:116
 
 ## Full nodes
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain. :star:26
 * [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) - Javascript implementation of bitcoin. :star:6
-* [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay. :star:340
-* [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node. :star:3547
+* [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay. :star:339
+* [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node. :star:3557
 
 ## Read
 * [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:13082
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) :star:13094
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
