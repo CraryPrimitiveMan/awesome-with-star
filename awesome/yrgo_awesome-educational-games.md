@@ -91,7 +91,7 @@
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
-- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:8479
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives. :star:8481
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 

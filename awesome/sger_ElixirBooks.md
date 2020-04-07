@@ -239,7 +239,7 @@ Give users the real-time experience they expect, by using Elixir and Phoenix Cha
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:9915
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) :star:9922
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
