@@ -15,26 +15,30 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [Culture](Culture.md)
+- [Decision-Making](Decision-Making.md)
+- [Delegation](Delegation.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Firing](Firing.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Interviewing Candidates](Hiring-and-Interviewing.md)
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md)
-- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
+- [Influencing Others](Influencing-Others.md)
 - [Leader List](Leader-List.md)
 - [Leadership Forums](Leadership-Forums.md)
 - [Leadership Media](Leadership-Media.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
 - [Managing Remotely](Managing-Remotely.md)
-- [Meetings and Time Management](Meetings-and-Time-Management.md)
+- [Meetings](Meetings.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Planning, Roadmaps and Processes](Planning-roadmaps.md)
 - [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
-- [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) :star:2839
+- [Productivity and Time Management](Productivity-and-Time-Management.md)
+- [Tools to Define Your Leadership Style](Tools-to-Define-Your-Leadership-Style.md)
+- [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) :star:2851
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 * "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>

@@ -47,14 +47,14 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository](https://github.com/less/less.js) :star:16286
+- [Official Repository](https://github.com/less/less.js) :star:16291
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
 - [1pxdeep](http://rriepe.github.io/1pxdeep/) - Brings designing by relative visual weight, or designing with color schemes, to Bootstrap.
-- [Ant Design](https://github.com/ant-design/ant-design/) - 	An enterprise-class UI design language and React-based implementation. :star:58377
+- [Ant Design](https://github.com/ant-design/ant-design/) - 	An enterprise-class UI design language and React-based implementation. :star:58552
 - [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) - Makes web accessibility easier for Bootstrap developers. :star:31
 - [Bootstrap 3](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootswatch](http://bootswatch.com/) - Collection of free themes for Bootstrap.
@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3898
+- [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette. :star:3900
 
 **[Back to top](#contents)**
 
@@ -121,7 +121,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [CssEffects](http://adodson.com/css-effects/) - 	Collection of CSS style effects.
 - [Cssowl](http://cssowl.owl-stars.com/) - Mixin library.
 - [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins. :star:103
-- [Est](https://github.com/ecomfe/est/) - 	Mixin library. :star:390
+- [Est](https://github.com/ecomfe/est/) - 	Mixin library. :star:391
 - [Hexagon](http://db0company.github.io/css-hexagon/) - Generate CSS hexagons with custom size and color.
 - [Homeless](https://github.com/pixelass/homeless) - Helpful functions.
 - [Less Elements](http://lesselements.com/) - Set of basic mixins.
@@ -131,7 +131,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less. :star:11
 - [Oban](http://oban.io/) - 	Collection of mixins.
 - [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS. :star:1707
-- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4462
+- [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants. :star:4463
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes. :star:36
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions. :star:2
 
@@ -139,7 +139,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Style Guides
 
-- [Handshake Style Guide](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions. :star:6
+- [Handshake Style Guide](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions. :star:7
 - [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services. :star:2
 
 **[Back to top](#contents)**
@@ -151,7 +151,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java. :star:41
 - [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter. :star:224
 - [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete. :star:165
-- [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:139
+- [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation. :star:138
 - [Lesscss](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant. :star:10
 - [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less. :star:10
 
@@ -174,7 +174,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Python
 
-- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python. :star:124
+- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python. :star:125
 
 **[Back to top](#contents)**
 
@@ -304,7 +304,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Community
 
-- [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) :star:16286
+- [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) :star:16291
 - [Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23%23lesscss)
 - [Medium](https://medium.com/search?q=less%20css)
 - [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
