@@ -34,12 +34,12 @@ General purpose icons used everywhere.
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
-- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each. :star:8667
-- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. :star:5652
+- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each. :star:8679
+- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. :star:5864
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.
 - [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code. :star:570
-- [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS. :star:5501
+- [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS. :star:5503
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 
@@ -47,7 +47,7 @@ General purpose icons used everywhere.
 
 Logos of different brands or companies or technologies.
 
-- [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos. :star:5153
+- [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos. :star:5172
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies. :star:798
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
@@ -58,7 +58,7 @@ Logos of different brands or companies or technologies.
 
 Icons that are not general or logos, but something special.
 
-- [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web. :star:2531
+- [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web. :star:2539
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world. :star:1939
 
 

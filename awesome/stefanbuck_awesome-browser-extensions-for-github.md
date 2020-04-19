@@ -237,7 +237,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 - [Waits for the PR checks before merging a PR](https://user-images.githubusercontent.com/1402241/35192861-3f4a1bf6-fecc-11e7-8b9f-35ee019c6cdf.gif)
 - [Linkifies issue/PR references in code, comments and titles](https://cloud.githubusercontent.com/assets/170270/25370217/61718820-29b3-11e7-89c5-2959eaf8cac8.png)
 - [Shows links to closing PR in issues and PR](https://user-images.githubusercontent.com/1402241/37037746-8b8eac8a-2185-11e8-94f6-4d50a9c8a152.png)
-- [And much more..](https://github.com/sindresorhus/refined-github#highlights) :star:11475
+- [And much more..](https://github.com/sindresorhus/refined-github#highlights) :star:11520
 
 </details>
 

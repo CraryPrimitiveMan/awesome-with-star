@@ -22,9 +22,9 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:1077
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) - Mirror of Apache TinkerPop. :star:1085
 * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS. :star:174
-* [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:465
+* [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database. :star:467
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database. :star:57
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server. :star:209
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend. :star:64
@@ -34,12 +34,12 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database.
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support.
 * [TinkerGraph](http://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin) - In-memory OLTP and OLAP reference implementation.
-* [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:173
-* [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:14
+* [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph. :star:174
+* [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features. :star:13
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database. :star:201
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:3219
-* [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:406
-* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:81
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org  :star:3240
+* [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph. :star:407
+* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB. :star:82
 
 
 #### <A NAME="wrappers"></A>Wrappers/Clients
@@ -53,16 +53,16 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Go
 * [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server. :star:83
 * [Gremgo](https://github.com/qasaur/gremgo) - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack. :star:85
-* [grammes](https://github.com/northwesternmutual/grammes) - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin. :star:37
+* [grammes](https://github.com/northwesternmutual/grammes) - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin. :star:40
 
 ##### Haskell
 * [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server. :star:8
-* [greskell-websocket](https://github.com/debug-ito/greskell) - Haskell client for TinkerPop3 Gremlin Server. :star:13
+* [greskell-websocket](https://github.com/debug-ito/greskell) - Haskell client for TinkerPop3 Gremlin Server. :star:14
 
 ##### Java
 * [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (java) - A Gremlin Server driver for Java.
 * [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3. :star:5
-* [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) - Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol. :star:65
+* [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) - Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol. :star:66
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:116
 
 ##### Javascript
@@ -92,13 +92,13 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server. :star:44
 * [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) - A Scala language wrapper for TinkerPop3. :star:440
 * [gremlin-template-string](https://github.com/jbmusso/gremlin-template-string) - A Javascript Gremlin language builder. :star:16
-* [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) - Gremlin in IPython and Jupyter. :star:32
+* [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) - Gremlin in IPython and Jupyter. :star:33
 * [ogre](http://ogre.clojurewerkz.org/) - A Clojure language wrapper for TinkerPop3.
 * [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the Tinkerpop3 graph stack. :star:39
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) - A SPARQL to Gremlin traversal compiler. :star:62
-* [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler. :star:56
-* [greskell](https://github.com/debug-ito/greskell) - Haskell binding for Gremlin graph query language :star:13
-* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) -  Cypher for Gremlin adds Cypher support to any Gremlin graph database. :star:208
+* [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler. :star:58
+* [greskell](https://github.com/debug-ito/greskell) - Haskell binding for Gremlin graph query language :star:14
+* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) -  Cypher for Gremlin adds Cypher support to any Gremlin graph database. :star:210
 
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack. :star:116
@@ -132,7 +132,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:438
+* [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial. :star:441
 
 
 ## <A NAME="contributing"></A>How to Contribute

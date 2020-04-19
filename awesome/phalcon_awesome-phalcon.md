@@ -67,9 +67,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework :star:337
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures :star:753
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty :star:25
-* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:344
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) :star:345
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack :star:99
-* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose. :star:2
+* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose. :star:3
 
 
 ## Authentication & OAuth
@@ -87,7 +87,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework :star:39
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon :star:8
-* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:370
+* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure :star:371
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework :star:142
 * [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features :star:1
 
@@ -215,7 +215,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Conferences, Chats, Forums, etc..*
 
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website :star:290
-* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:355
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum :star:356
 
 
 ## Templating
