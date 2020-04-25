@@ -563,7 +563,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 ### Java
 
 - [GraphStream](http://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
-- [Mixer](https://github.com/keith-turner/mixer) - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one. :star:1
+- [Mixer](https://github.com/keith-turner/mixer) - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one.
 
 ### JavaScript
 
