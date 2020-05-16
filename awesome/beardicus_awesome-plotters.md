@@ -66,7 +66,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
 
-- [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters. :star:14
+- [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters. :star:15
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
 - [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers. :star:18
@@ -81,32 +81,32 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
-- [grbl](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino. :star:3556
-- [cncjs](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware. :star:1100
-- [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js-based G-code interpreter and simulator. :star:21
+- [grbl](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino. :star:3590
+- [cncjs](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware. :star:1121
+- [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js-based G-code interpreter and simulator. :star:22
 - [svg2gcode](https://github.com/em/svg2gcode) - Node.js-based command line utility for converting SVG to G-code. :star:39
 - [svg2gcode](https://github.com/vishpat/svg2gcode) - Python-based utility for fast SVG to G-code conversion. :star:54
 - [jscut](http://jscut.org/) - A web-based utiltity for converting SVG to G-code.
-- [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender. :star:1017
+- [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender. :star:1028
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Plotter-Specific
 
 Software that is specific to a particular plotter or controller.
 
-- [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape. :star:243
+- [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape. :star:249
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3. :star:186
 - [xy](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit. :star:57
-- [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements. :star:459
+- [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements. :star:469
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the [Line-us plotter](https://www.line-us.com) directly from Inkscape. :star:2
-- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Example code for the [Line-us](https://www.line-us.com) plotter's G-code-based API. :star:70
+- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Example code for the [Line-us](https://www.line-us.com) plotter's G-code-based API. :star:71
 - [@beardicus/line-us](https://github.com/beardicus/line-us) - JavaScript library for controlling the [Line-us](https://www.line-us.com) machine from Node or the browser. :star:13
 - [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware. :star:78
-- [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot. :star:67
+- [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot. :star:68
 - [RoboPaint](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot. :star:95
-- [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing. :star:7
-- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control. :star:200
-- [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper. :star:154
+- [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing. :star:8
+- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control. :star:202
+- [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper. :star:163
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter. :star:2
 
 ### Vector Creation
@@ -116,35 +116,35 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Inkscape](https://inkscape.org) - Popular cross-platform open source vector graphics editor.
 - [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 - [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
-- [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. :star:2650
-- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics. :star:158
+- [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. :star:2669
+- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics. :star:165
 - [stipplegen](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves". :star:149
+- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves". :star:153
 - [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
-- [maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images. :star:23
-- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots. :star:53
+- [maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images. :star:25
+- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots. :star:57
 - [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing. :star:42
 - [Ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go. :star:185
-- [penplot](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript. :star:216
-- [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics. :star:80
+- [penplot](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript. :star:218
+- [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics. :star:82
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs. :star:35
 - [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing. :star:20
 - [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 - [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
-- [cozyvec](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots. :star:21
+- [cozyvec](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots. :star:25
 
 ### Vector Utilities
 
 Tools to manipulate and optimize vector-based file formats.
 
-- [svgsort](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up. :star:128
-- [svgo](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files. :star:14012
+- [svgsort](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up. :star:132
+- [svgo](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files. :star:14121
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph. :star:50
-- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time. :star:80
-- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document. :star:775
-- [vpype](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths. :star:83
+- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time. :star:82
+- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document. :star:776
+- [vpype](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths. :star:106
 
 ### Fonts
 
@@ -174,6 +174,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - Introduction to plotters, AxiDraw, walkthrough of the `penplot` library.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
+- [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 
 ## Community
 
@@ -201,11 +202,14 @@ Where to find other plotter and drawbot friends.
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
+- [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
+- [Michelle Chandra](https://www.dirtalleydesign.com/)
+- [Jessica In](https://www.jessicain.net/shop-originals)
 
 ## Other Awesomes
 
-- [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) :star:800
-- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) :star:6302
+- [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) :star:811
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) :star:6390
 
 ## License
 

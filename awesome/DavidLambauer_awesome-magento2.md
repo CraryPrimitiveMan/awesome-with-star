@@ -11,8 +11,8 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources
 
-- [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) :star:131743
-- [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues) :star:711
+- [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) :star:133163
+- [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues) :star:718
 
 ---
 
@@ -32,72 +32,72 @@
 
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows. :star:9
-- [VSCode Magento Dev Search](https://github.com/rafaelstz/VSCode-Magento-DevSearch) - Search faster into Magento DevDocs and Magento StackExchange. :star:8
+- [VSCode Magento Dev Search](https://github.com/rafaelstz/VSCode-Magento-DevSearch) - Search faster into Magento DevDocs and Magento StackExchange. :star:9
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm. :star:470
+- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm. :star:472
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
-- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:223
+- [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso. :star:225
 - [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on Mac and Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
-- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:265
-- [convertm1m2](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2. :star:137
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool :star:291
+- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist). :star:268
+- [convertm1m2](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2. :star:138
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool :star:294
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - Enables bulk order creation by inputting SKUs & quantities. :star:27
-- [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel. :star:51
+- [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel. :star:54
 - [QuickDevBar](https://github.com/vpietri/magento2-developer-quickdevbar) Developer Toolbar for Magento2
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - basic docker containers for Magento 2 with installer (updated: 27 November 2019) :star:23
-- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento :star:803
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search Configurator with Magento 2 installer (updated: 19 April 2020) :star:28
+- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento :star:825
 - [Warden](https://github.com/davidalger/warden) - A CLI utility for working with docker-compose environments by [David Alger](https://davidalger.com/)
-- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. :star:61
-- [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2 Extension. :star:180
-- [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets) :star:3495
+- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. :star:62
+- [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2 Extension. :star:199
+- [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets) :star:3537
 - [nuzil/magento-postman](https://github.com/nuzil/magento-postman) - Postman collections for Magento2 :star:4
-- [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs :star:75
-- [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool :star:117
+- [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs :star:77
+- [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool :star:119
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
 - [extdn/installer-m2](https://github.com/extdn/installer-m2) - Universal extension installer for Magento 2 by [Magento Extension Developers Network](https://extdn.org/)
-- [mage2click/m2c](https://github.com/mage2click/m2c) - Magento Docker development environment with mutagen.io sync for files on macOS and native filesystem mounts on Linux by [mage2.click](https://mage2.click/)  :star:36
+- [mage2click/m2c](https://github.com/mage2click/m2c) - Magento Docker development environment with mutagen.io sync for files on macOS and native filesystem mounts on Linux by [mage2.click](https://mage2.click/)  :star:39
 
 ## Open Source Extensions
 
 ### Development Utilities
 
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management. :star:97
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of Rules for PHP_CodeSniffer. :star:183
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2. :star:66
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of Rules for PHP_CodeSniffer. :star:185
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2. :star:67
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher by Vinai Kopp](https://twitter.com/vinaikopp)
-- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar. :star:241
-- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper. :star:188
+- [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar. :star:243
+- [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper. :star:190
 - [Magento2 PHPStorm Templates](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2 :star:216
-- [Magento 2 Dockerize](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2. :star:111
-- [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box. :star:258
-- [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js. :star:401
-- [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) - Useful frontend workflow gulp tasks for less-based themes. :star:10
-- [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz). :star:68
+- [Magento 2 Dockerize](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2. :star:112
+- [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box. :star:257
+- [frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js. :star:403
+- [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) - Useful frontend workflow gulp tasks for less-based themes. :star:12
+- [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz). :star:70
 - [PreferencesInfoCommand](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) - bin/magento command to display configured preferences for classes or interfaces :star:14
-- [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script :star:69
-- [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files. :star:141
+- [m2install](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script :star:70
+- [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files. :star:144
 - [Magento Collect](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2. :star:16
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache. :star:15
 - [MUP](https://github.com/npoole81/MUP) - A bash menu UI generated from a simple configuration file.  Built for Magento 2, but not limited to it. :star:8
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates. :star:29
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) - Composer Repository Manager for selling Magento 2 extension and offering composer installation for ordered packages. :star:16
-- [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues. :star:121
+- [MageVulnDB](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues. :star:125
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production. :star:5
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - Profiler for debugging Magento 2 performance issues. :star:29
-- [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data. :star:14
-- [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling. :star:136
-- [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API. :star:11
+- [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Prometheus Exporter for common Magento Data. :star:19
+- [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling. :star:144
+- [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API. :star:12
 - [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
 
 ### Deployment
 
-- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com). :star:188
+- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com). :star:189
 - [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/). :star:48
 - [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso). :star:54
-- [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/). :star:7634
-- [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects. :star:154
+- [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/). :star:7687
+- [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects. :star:157
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production. :star:5
 - [Github Actions for Magento2](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions :star:10
 
@@ -126,55 +126,55 @@
 ### Catalog & Checkout
 
 - [Donation Product Module](https://github.com/experius/Magento-2-Module-Experius-DonationProduct) - Integration for donations to charities. :star:23
-- [Clean Checkout](https://github.com/danslo/CleanCheckout) - A drop in Magento 2 Checkout alternative. :star:269
+- [Clean Checkout](https://github.com/danslo/CleanCheckout) - A drop in Magento 2 Checkout alternative. :star:270
 
 ### Search
 
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration. :star:124
-- [elastic/app-search-magento](https://github.com/elastic/app-search-magento) - A first party module to integrate Elastic App Search in Magento2. :star:20
-- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration. :star:553
-- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays. :star:113
+- [elastic/app-search-magento](https://github.com/elastic/app-search-magento) - A first party module to integrate Elastic App Search in Magento2. :star:21
+- [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration. :star:563
+- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays. :star:114
 
 ### CMS
 
-- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:80
-- [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support. :star:185
+- [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension. :star:82
+- [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support. :star:189
 - [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
 - [PageDesigner](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend. :star:80
-- [Mirasvit Blog](https://github.com/mirasvit/module-blog) - Blog Extension. :star:63
-- [Magefan Blog](https://github.com/magefan/module-blog) - Blog Extension. :star:185
-- [MageSuite](https://github.com/magesuite/magesuite) - Open Source (free) PageBuilder alternative :star:82
+- [Mirasvit Blog](https://github.com/mirasvit/module-blog) - Blog Extension. :star:62
+- [Magefan Blog](https://github.com/magefan/module-blog) - Blog Extension. :star:189
+- [MageSuite](https://github.com/magesuite/magesuite) - Open Source (free) PageBuilder alternative :star:89
 
 ### Marketing
 
-- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension. :star:86
+- [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension. :star:88
 - [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration. :star:46
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/). :star:49
 - [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli. :star:84
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento2. :star:181
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento2. :star:183
 
 ### Adminhtml / Backend
 
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons. :star:135
-- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes. :star:49
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and easily preview and test your order confirmation page, without the need to placing a new order each time. :star:43
-- [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer. :star:147
-- [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays :star:113
-- [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality :star:111
+- [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes. :star:50
+- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and easily preview and test your order confirmation page, without the need to placing a new order each time. :star:45
+- [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer. :star:150
+- [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays :star:114
+- [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality :star:113
 - [Image Resizer](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli). :star:82
 - [Excel Spreadsheet](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli). :star:8
 - [PDF Generator](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign). :star:51
 - [Mobile Detection](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign). :star:26
-- [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:150
+- [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2. :star:153
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect. :star:21
-- [Sentry.io](https://github.com/justbetter/magento2-sentry') - Application Monitoring and Error Tracking Software for Magento 2
+- [Sentry.io](https://github.com/justbetter/magento2-sentry) - Application Monitoring and Error Tracking Software for Magento 2 :star:74
 - [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed. :star:40
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server. :star:263
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server. :star:265
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/). :star:22
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, very useful for demo :star:12
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers. :star:46
-- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Reset UI Bookmarks allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ). :star:8
-- [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu. :star:60
+- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Reset UI Bookmarks allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ). :star:11
+- [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu. :star:61
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) - Self-service RMA for Magento2. :star:15
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks. by [Dmitry Shkoliar](https://shkoliar.com/)
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
@@ -183,7 +183,7 @@
 
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) - Improves Password Hashing for Magento 2.
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2. :star:42
-- [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware. :star:594
+- [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) - A collection of rules and samples to detect Magento malware. :star:597
 
 ### Payment Service Provider
 
@@ -200,15 +200,15 @@
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration. :star:68
-- [Docker Magento 2](https://github.com/fballiano/docker-magento2) - Magento2 + Varnish + PHP7 + Redis + SSL (cluster ready). :star:251
-- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for Magento 2. :star:195
-- [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration :star:22
-- [renatocason/magento2-module-mq](https://github.com/renatocason/magento2-module-mq) - Lightweight implementation of message queue for Magento2 Community Edition :star:32
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration. :star:71
+- [Docker Magento 2](https://github.com/fballiano/docker-magento2) - Magento2 + Varnish + PHP7 + Redis + SSL (cluster ready). :star:259
+- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for Magento 2. :star:197
+- [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration :star:25
+- [renatocason/magento2-module-mq](https://github.com/renatocason/magento2-module-mq) - Lightweight implementation of message queue for Magento2 Community Edition :star:31
 
 ### Mobile Application
 
-- [Magento React Native](https://github.com/troublediehard/magento-react-native) - React Native mobile application template for Magento 2. :star:181
+- [Magento React Native](https://github.com/troublediehard/magento-react-native) - React Native mobile application template for Magento 2. :star:183
 
 ---
 
@@ -224,13 +224,13 @@
 
 #### Boilerplates
 
-- [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus) :star:71
-- [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass) :star:352
+- [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus) :star:73
+- [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass) :star:354
 - [RW Prime boilerplate theme](https://github.com/rocketweb-fed/magento2-theme-prime) :star:23
 
 #### Progressive Web Application
 
-- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux :star:112
+- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux :star:117
 
 ---
 
@@ -268,7 +268,7 @@
 
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
 - [MageTalk: A Magento Community Podcast](http://magetalk.com/) - Community Podcast by [Kalen Jordan](https://commercehero.io/kalenjordan) and [Phillip Jackson](https://commercehero.io/philwinkle).
-- [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions happen. :star:177
+- [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions happen. :star:178
 
 ---
 
@@ -282,10 +282,10 @@
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 - [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
-- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam :star:496
+- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam :star:502
 - [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for Magento 2 Certified Professional Cloud Developer exam :star:53
 - [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for Magento 2 Certified Professional Developer Plus exam :star:60
-- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam :star:88
+- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam :star:90
 
 ---
 
@@ -301,10 +301,10 @@
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 - [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:8487
+- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository. :star:8530
 - [Magento PHP CS Fixer](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2. :star:230
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
-- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:289
+- [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2. :star:291
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento. :star:229
 - Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
@@ -364,8 +364,8 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 
 ### Other Magento 2 related Awesome Lists
 
-- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:546
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:23466
+- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2. :star:548
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources. :star:23594
 - [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel). :star:75
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 - [Magento security resources](https://github.com/gwillem/magento-security-resources) - A list of security related items for Magento 2. :star:9

@@ -41,6 +41,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
+- [Practical Introduction to Wardley Mapping - A step-by-step guide to creating and using Wardley Maps](https://leanpub.com/practicalintroductiontowardleymapping) - eBook by [E. Alex Hudson](https://github.com/alexhudson).
 
 ## Videos
 
@@ -57,6 +58,8 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Healthcare Enterprise Architecture for Epidemics and Pandemics](https://blog.opengroup.org/2020/05/12/healthcare-enterprise-architecture-for-epidemics-and-pandemics/) - The progression of COVID-19 as an Epidemic to Pandemic (Genesis to Nations) using a Wardley map. May 12, 2020.
+- [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9, 2020.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
 - [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
 - [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
@@ -100,6 +103,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government) - Part 2 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
+- [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
 
 ## Research Papers
 
@@ -128,8 +132,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:137
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/). :star:38
+- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:140
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). :star:43
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
 ### Doctrine Assessement

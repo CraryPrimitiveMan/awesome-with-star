@@ -210,12 +210,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
-  1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   1. [Mokrin House](http://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-  1. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
   1. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
@@ -330,6 +328,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
+  1. [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones. 
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
@@ -460,6 +459,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
   1. [The Grid](http://thegrid.io/) - AI website builder. 100% distributed team.
   1. [Thermeon](http://thermeon.com/jobs.html) - Car rental software - 100% remote technical team
+  1. [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
   1. [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
   1. [Toggl](https://jobs.toggl.com/)
@@ -502,7 +502,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
- 1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Yonder](http://www.yonder.io/events/) - A round table conference bringing together leaders of distributed companies.
  1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America.
  1. [Git Commit Show](http://gitcommit.show) - Global Developer Conference to promote remote work an education, attend from anywhwere
