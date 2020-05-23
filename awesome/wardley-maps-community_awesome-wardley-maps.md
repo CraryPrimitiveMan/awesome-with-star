@@ -24,6 +24,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - An engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
 
@@ -41,12 +42,12 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
-- [Practical Introduction to Wardley Mapping - A step-by-step guide to creating and using Wardley Maps](https://leanpub.com/practicalintroductiontowardleymapping) - eBook by [E. Alex Hudson](https://github.com/alexhudson).
+- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
 
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
 - [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
   
 ## Courses
@@ -100,9 +101,11 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - Nov 30, 2016.
 - [The map is not the territory](https://medium.com/@swardley/the-map-is-not-the-territory-257a3c258a83) - Nov 24, 2016.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0) - Evolution and co-evolution of architectural practice and worth based development. Nov 23, 2016.
+- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
 - [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government) - Part 2 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
+- [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html) - For the newly-appointed executive, to help get you into a position from which you can start to learn and talk about strategy. Aug 21, 2015.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
 
 ## Research Papers
@@ -120,7 +123,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle. :star:9
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle. :star:10
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX. :star:3
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd. :star:8
 
@@ -133,7 +136,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ### Mapping
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/). :star:140
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). :star:43
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). :star:45
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
 ### Doctrine Assessement
@@ -154,6 +157,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Meetups
 
+- Australia
+  - [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)

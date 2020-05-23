@@ -126,17 +126,17 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 ## Analyzers
 
 * [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
-* [Confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests. :star:894
+* [Confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests. :star:892
 * [DebugBear](https://www.debugbear.com/) - DebugBear is a website monitoring tool based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. DebugBear is a paid product with a free 30-day trial.
 * [Page Speed](https://developers.google.com/speed/pagespeed/) - The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications. :star:19810
-* [YSlow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. :star:2116
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications. :star:19887
+* [YSlow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. :star:2120
 * [YSlow for PhantomJS](http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 * [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser. :star:92
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)). :star:855
-* [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications :star:2585
-* [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite. :star:1873
+* [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications :star:2586
+* [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite. :star:1876
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 * [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
@@ -147,18 +147,18 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 ## Analyzers - API
 
 * [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js. :star:9
-* [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node - with reporting. :star:2998
+* [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node - with reporting. :star:3000
 
 ## Bundle Analyzer
 
-* [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check. :star:3824
-* [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps. :star:2799
+* [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check. :star:3831
+* [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps. :star:2810
 * [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding a npm package to your front-end bundle.
-* [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap. :star:9847
+* [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap. :star:9871
 * [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 * [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.   :star:3
 * [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
-* [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding. :star:1125
+* [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding. :star:1128
 
 
 ## Benchmark - CSS
@@ -172,9 +172,9 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests. :star:169
-* [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application. :star:526
-* [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet. :star:1485
-* [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance. :star:6512
+* [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application. :star:525
+* [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet. :star:1484
+* [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance. :star:6524
 * [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models. :star:1
 * [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory. :star:2007
 
@@ -189,17 +189,17 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 * [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) [Deprecated] - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them - Workaround by [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4.
-* [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API. :star:3819
+* [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API. :star:3817
 * [DOM Monster](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health. :star:556
 * [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) - CSS Stress is a Testing and Performance Profiling.
-* [Performance-Bookmarklet](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Chrome Extension](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en) and [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser. :star:960
+* [Performance-Bookmarklet](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Chrome Extension](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en) and [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser. :star:959
 
 
 ## CDN
 > A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
 * [PageCDN](https://pagecdn.com/lib) - A state of the art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link and very fast.
-* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites. :star:3139
+* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites. :star:3152
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 * [CDNjs](https://cdnjs.com/) - An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
@@ -233,28 +233,28 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit. :star:87
 * [Gulp-smushit](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh. :star:33
 * [Smush it](http://www.imgopt.com/) - Smush it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-* [Imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js. :star:3983
-* [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions. :star:16557
-* [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node. :star:6104
-* [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files. :star:10023
+* [Imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js. :star:3997
+* [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions. :star:16631
+* [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node. :star:6115
+* [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files. :star:10032
 * [ExifCleaner](https://exifcleaner.com) - GUI app to remove exif metadata from images and video files with drag and drop. Free and open source.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
-* [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt. :star:1218
-* [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp. :star:1768
+* [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt. :star:1220
+* [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp. :star:1769
 * [Grunt-WebP](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format. :star:118
-* [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp. :star:181
+* [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp. :star:182
 * [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process. :star:485
-* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process. :star:3019
+* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process. :star:3025
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
-* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. :star:4025
-* [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files. :star:939
-* [ZopfliPNG](https://github.com/google/zopfli) - A command line program to optimize PNG images. :star:2763
+* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. :star:4033
+* [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files. :star:943
+* [ZopfliPNG](https://github.com/google/zopfli) - A command line program to optimize PNG images. :star:2767
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
-* [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer. :star:650
+* [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer. :star:649
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 * [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 
@@ -262,7 +262,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 ## Lazyloaders
 
 * [lazyload](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb :star:942
-* [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more :star:6218
+* [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more :star:6228
 
 
 ## Loaders
@@ -271,13 +271,13 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel. :star:68
-* [InstantClick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant. :star:5248
-* [JIT](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins. :star:512
+* [InstantClick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant. :star:5251
+* [JIT](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins. :star:511
 
 
 ## Metrics Monitor
 
-* [Phantomas](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. :star:2135
+* [Phantomas](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. :star:2132
 * [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
 * [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server. :star:25
 * [Keepfast](https://github.com/keepfast/keepfast) - Tool to monitor indicators related to performance of a web page. :star:96
@@ -287,7 +287,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
-* [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance. :star:293
+* [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance. :star:292
 * [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 * [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - Monitor your browser-side applications in real time, with a focus on real end users’ experiences.
@@ -296,20 +296,20 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## Metrics Monitor - API
 
-* [WebPageTest API Wrapper for NodeJS](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool. :star:1473
+* [WebPageTest API Wrapper for NodeJS](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool. :star:1475
 
 
 ## Minifiers - HTML
 
 * [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
-* [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts. :star:475
-* [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities. :star:4202
+* [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts. :star:476
+* [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities. :star:4206
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier. :star:427
 * [Gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - A gulp plugin to minify HTML that uses HTMLMinifier. :star:701
 * [Grunt-htmlcompressor](https://github.com/jney/grunt-htmlcompressor) - Grunt plugin for html compression, using htmlcompressor. :star:36
 * [HTML_minifier](https://github.com/stereobooster/html_minifier) - Ruby wrapper for kangax html-minifier. :star:10
 * [HTML_press](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML. :star:35
-* [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything. :star:27
+* [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything. :star:26
 * [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
 * [Minimize](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release. :star:147
 * [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views :star:120
@@ -317,44 +317,44 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## Minifiers - JS & CSS
 
-* [YUI Compressor](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%. :star:2866
-* [UglifyJS2](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript. :star:10734
-* [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers. :star:3076
+* [YUI Compressor](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%. :star:2869
+* [UglifyJS2](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript. :star:10749
+* [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers. :star:3079
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier. :star:76
 * [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files. :star:810
-* [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files. :star:1469
-* [Clean-css](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js. :star:3516
-* [Django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. :star:2322
+* [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files. :star:1470
+* [Clean-css](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js. :star:3522
+* [Django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file. :star:2330
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding. :star:1366
-* [JShrink](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker. :star:617
+* [JShrink](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker. :star:618
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
-* [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else! :star:1073
+* [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else! :star:1074
 * [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink. :star:26
 * [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp. :star:22
 * [Prettyugly](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code. :star:7
 * [Grunt-contrib-cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) - CSS Minifier for Grunt. :star:793
 * [Gulp-cssmin](https://github.com/chilijung/gulp-cssmin) - CSS Minifier for Gulp.
-* [Grunt-uncss](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects. :star:3877
+* [Grunt-uncss](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects. :star:3878
 * [Gulp-uncss](https://github.com/ben-eb/gulp-uncss) - A gulp task for removing unused CSS from your projects. :star:970
 
 
 ## Miscellaneous
 
 * [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
-* [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS. :star:1631
+* [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS. :star:1630
 * [HTTPinvoke](https://github.com/jakutis/httpinvoke)- A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
-* [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha). :star:8344
+* [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha). :star:8353
 * [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff". :star:12
-* [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. :star:13374
+* [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. :star:13420
 * [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
-* [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web. :star:1656
+* [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web. :star:1655
 
 
 ## Generators
 
 * [Glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate sprites: :star:2559
 * [Pitomba-spriter](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed. :star:18
-* [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables. :star:1155
+* [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables. :star:1154
 * [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a stylesheet and then updates the references with the new sprite image and positions.
 * [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours.
 * [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding stylesheets for Gulp. :star:15
@@ -371,17 +371,17 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## SVG
 
-* [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files. :star:14121
+* [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files. :star:14154
 * [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
-* [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt. :star:440
+* [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt. :star:439
 * [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) - Minify SVG with SVGO for Gulp.
 * [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents.
-* [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors. :star:1094
+* [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors. :star:1098
 
 
 ## Web Components
 
-* [Polymer Bundler](https://github.com/Polymer/tools/tree/master/packages/bundler) - Polymer-bundler is a library for packaging project assets for production to minimize network round-trips. :star:369
+* [Polymer Bundler](https://github.com/Polymer/tools/tree/master/packages/bundler) - Polymer-bundler is a library for packaging project assets for production to minimize network round-trips. :star:368
 * [Gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize. :star:102
 
 
@@ -396,9 +396,9 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [HTTPerf.js](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb. :star:24
 * [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb. :star:11
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb. :star:5
-* [wrk](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response :star:24559
+* [wrk](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response :star:24648
   processing, and custom reporting)
-* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). :star:5850
+* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). :star:5855
 * [k6](https://k6.io/) - An open source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and websites using HTTP/1.1, HTTP/2 and WebSocket.
 
 
@@ -427,7 +427,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 # Other Awesome Lists
 
-* [iamakulov/awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance :star:436
+* [iamakulov/awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance :star:444
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 

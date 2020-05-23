@@ -106,7 +106,7 @@ Online build release system
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
-* [builkite](https://buildkite.com) Lightning fast testing and delivery for all your software projects  
+* [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
 
 ## Monitoring
@@ -271,7 +271,6 @@ VM application and container
 Database version control system  
 * [liquibase](http://www.liquibase.org) source control for your database  
 * [flywaydb](http://flywaydb.org) Database Migrations Made Easy  
-* [nextep](http://www.nextep-softwares.com) NeXtep Softwares provides software solutions for the industrialization of your database developments and deployments. Our goal is to increase the productivity of your development teams by taking control of your developments' lifecycle and by automating your deployment and test processes  
 * [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner   
 * [dbmaestro](http://www.dbmaestro.com/)  Controlled Database Continuous Delivery is Our Business  
 
@@ -296,7 +295,7 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) :star:1
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:2135
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) :star:2142
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact

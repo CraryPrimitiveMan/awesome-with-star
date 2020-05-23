@@ -3,13 +3,13 @@
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable
-* [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable :star:17540
-* [TipTap](https://github.com/scrumpy/tiptap) - Rich text editor for Vue.js :star:7194
-* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:15006
+* [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable :star:17595
+* [TipTap](https://github.com/scrumpy/tiptap) - Rich text editor for Vue.js :star:7242
+* [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor :star:15023
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
-* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:4114
+* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor :star:4116
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
-* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3606
+* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team :star:3601
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) - Made by Voog
@@ -19,13 +19,13 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing
 * [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience
-* [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor :star:871
+* [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor :star:872
 * [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1622
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2478
+* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor :star:1625
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI :star:2476
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
@@ -34,7 +34,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin  :star:1075
 * [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
 * [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
-* [MediumEditor](https://github.com/yabwe/medium-editor) - A clone of medium.com inline editor toolbar. Uses contenteditable API to implement a rich text solution. :star:14465
+* [MediumEditor](https://github.com/yabwe/medium-editor) - A clone of medium.com inline editor toolbar. Uses contenteditable API to implement a rich text solution. :star:14484
 
 ## Code editors
 
@@ -47,7 +47,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Markdown editors
 
-* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:7390
+* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript :star:7391
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
 ## Heuristic for contenteditable rich-text editors

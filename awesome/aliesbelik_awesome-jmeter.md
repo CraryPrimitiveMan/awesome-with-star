@@ -49,7 +49,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Official Resources
 
 - [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-- [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository. :star:4087
+- [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository. :star:4107
 - [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 - [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 - [Mailing Lists](https://jmeter.apache.org//mail2.html) - Apache JMeter mailing lists.
@@ -102,7 +102,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### DSL
 
-- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans. :star:704
+- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans. :star:705
 
 ### Packages
 
@@ -115,15 +115,15 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Other
 
-- [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter. :star:137
-- [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance. :star:228
+- [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter. :star:138
+- [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance. :star:230
 
 ## CI
 
 ### Tools & Plugins
 
-- [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) - Ant task to automate running JMeter test plans. :star:19
-- [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:329
+- [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) - Ant task to automate running JMeter test plans. :star:20
+- [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build. :star:330
 - [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity plugin to organize simplest performance testing in CI *(no updates more)*. :star:16
 - [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) - Bamboo plugin to collect, assert and graph JMeter test results.
@@ -177,7 +177,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - DigitalOcean
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
   - Microsoft Azure
-    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure. :star:35
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure. :star:36
 
 ## Cloud Services / SaaS
 
@@ -229,7 +229,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - ClickHouse
   - [JMeter Results from ClickHouse](https://grafana.com/grafana/dashboards/9561) - Using the [JMeter Listener pack](https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage), ClickHouse and Grafana to collect and monitor test results.
 - Backend Listener Implementations
-  - [jmeter-elasticsearch-backend-listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine. :star:59
+  - [jmeter-elasticsearch-backend-listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine. :star:61
   - [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) - JMeter plugin to send test results to Azure Application Insights. :star:14
   - [jmeter-backend-listener-kafka](https://github.com/rahulsinghai/jmeter-backend-listener-kafka) - JMeter plugin to send test results to a Kafka server. :star:6
   - [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter plugin to write load test data on-the-fly to ClickHouse, InfluxDB, ElasticSearch.
@@ -354,6 +354,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(no updates more)*.
 
 ### Forums
+
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
@@ -383,18 +384,18 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists. :star:133164
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness. :star:26048
-- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:1833
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources. :star:448
-- [Awesome Web Performance Metrics](https://github.com/palfi-ltd/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience. :star:530
-- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. :star:6853
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems. :star:25942
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. :star:4981
+- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists. :star:133610
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness. :star:26079
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources. :star:1835
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources. :star:455
+- [Awesome Page Speed Metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience. :star:531
+- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. :star:6852
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems. :star:25992
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. :star:4993
 - [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool. :star:11
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang. :star:9
-- [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty. :star:1
-- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution. :star:25
+- [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty. :star:2
+- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution. :star:26
 
 ## Contributing
 

@@ -17,13 +17,13 @@
 
 ## Documentation
 
-- [Overview](https://github.com/tc39/proposal-observable) :star:2464
+- [Overview](https://github.com/tc39/proposal-observable) :star:2466
 - [Specification](https://tc39.github.io/proposal-observable/)
 
 ## Implementations
 
-- [zen-observable](https://github.com/zenparsing/zen-observable) :star:631
-- [RxJS](https://github.com/ReactiveX/RxJS) :star:21892
+- [zen-observable](https://github.com/zenparsing/zen-observable) :star:634
+- [RxJS](https://github.com/ReactiveX/RxJS) :star:21947
 
 ## Packages
 
@@ -53,5 +53,5 @@
 
 ## Related
 
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) :star:35754
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) :star:35828
 

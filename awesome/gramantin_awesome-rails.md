@@ -31,7 +31,7 @@
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
-- [Rails Source Code](https://github.com/rails/rails) :star:45596
+- [Rails Source Code](https://github.com/rails/rails) :star:45663
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
 [Back to top](#table-of-contents)
@@ -70,7 +70,7 @@
 
 ### Articles
 
-- [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App) :star:586
+- [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App) :star:587
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
 - [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
 - [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
@@ -114,8 +114,8 @@
 
 > Note: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you find it outdated, don't forget to notfiy us by opening a pull request.
 
-- [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents - **using Rails 5.2** :star:256
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app - **using Rails 4.2** :star:505
+- [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents - **using Rails 5.2** :star:260
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app - **using Rails 4.2** :star:507
 - [airCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone - **using Rails 5.2** - [:earth_africa:](http://aircasting.org)
 - [alaveteli](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - **using Rails 5.1** - [:earth_africa:](http://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone) - A music hosting, management & distribution app - **using Rails 6.0** - [:earth_africa:](https://alonetone.com)
@@ -124,44 +124,44 @@
 - [autolab](https://github.com/autolab/Autolab) - A course management app - **using Rails 4.2** - [:earth_africa:](http://www.autolabproject.com)
 - [beatstream](https://github.com/Darep/Beatstream) -  A music streaming app - **using Rails 3.2** :star:121
 - [bike_index](https://github.com/bikeindex/bike_index) - A bike registry tracking app - **using Rails 4.2** - [:earth_africa:](https://bikeindex.org)
-- [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app - **using Rails 6.0** :star:560
+- [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app - **using Rails 6.0** :star:567
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app - **using Rails 5.2** - **archived** :star:1428
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app - **using Rails 4.2** :star:386
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An email, calendars, shared documents and class collaboration spaces management app - **using Rails 4.2** - [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A forum app - **using Rails 4.2** - [:earth_africa:](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app - **using Rails 5.2** :star:3314
+- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app - **using Rails 5.2** :star:3331
 - [catarse](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects - **using Rails 4.2** - [:earth_africa:](https://catarse.me/)
-- [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software - **using Rails 6.0** :star:4098
-- [ciao](https://github.com/brotandgames/ciao) - A URL status checking app - **using Rails 6.0** :star:1079
+- [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software - **using Rails 6.0** :star:4117
+- [ciao](https://github.com/brotandgames/ciao) - A URL status checking app - **using Rails 6.0** :star:1081
 - [coRM](https://github.com/SIGIRE/CoRM) - A customer relationship management app - **using Rails 3.2** - [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - **using Rails 3.2** :star:868
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) - A social network app for software engineers - **using Rails 5.0** :star:175
 - [codetriage](https://github.com/codetriage/codetriage) - An open source project finder app - **using Rails 6.0** - [:earth_africa:](https://www.codetriage.com/)
 - [commudle](https://github.com/gdgnewdelhi/commudle) - A community management app - **using Rails 5.2** :star:240
-- [contribulator](https://github.com/24pullrequests/contribulator) - An open source project finder app - **using Rails 5.1** :star:86
+- [contribulator](https://github.com/24pullrequests/contribulator) - An open source project finder app - **using Rails 5.1** :star:85
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Learning platform app - **using Rails 5.2** :star:85
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - A carpooling app - **using Rails 5.0** - **archived** :star:105
 - [crabgrass-core](https://0xacab.org/riseuplabs/crabgrass) - A collaboration platform for activist groups - **using Rails 4.2**
 - [crowdAI](https://github.com/crowdAI/crowdai) - An app for data science challenges - **using Rails 5.2** - [:earth_africa:](https://www.crowdai.org/)
-- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - **using Rails 3.2** :star:595
-- [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app - **using Rails 6.0** :star:847
+- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - **using Rails 3.2** :star:594
+- [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app - **using Rails 6.0** :star:852
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - A case management app - **using Rails 5.2** :star:67
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Social platform app specialized for web development - **using Rails 5.2** - [:earth_africa:](https://dev.to)
 - [dgi-db](https://github.com/griffithlab/dgi-db) - A drug gene interaction platform - **using Rails 5.1** :star:60
 - [diaper](https://github.com/rubyforgood/diaper) - An inventory management app for diaper banks - **using Rails 6.0** - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - A social networking app - **using Rails 5.1** - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion - **using Rails 6.0** - [:earth_africa:](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - A farm management app - **using Rails 4.2** :star:221
-- [postal](https://github.com/postalhq/postal) - A mail delivery platform - **using Rails 5.2** :star:9754
+- [ekylibre](https://github.com/ekylibre/ekylibre) - A farm management app - **using Rails 4.2** :star:224
+- [postal](https://github.com/postalhq/postal) - A mail delivery platform - **using Rails 5.2** :star:9767
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support - **using Rails 4.2** :star:116
 - [eol](https://github.com/EOL/eol) - An encyclopedia app - **using Rails 3.2** - [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app - **using Rails 4.2** :star:153
 - [fairmondo](https://github.com/fairmondo/fairmondo) - A marketplace app - **using Rails 4.2** - [:earth_africa:](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -  A RSS reader app - **using Rails 6.0** - [:earth_africa:](https://feedbin.com)
-- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2** :star:312
+- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2** :star:324
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app - **using Rails 4.2** - **archived** :star:84
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents - **using Rails 4.1** - [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 6.0** :star:22236
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 6.0** :star:22247
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app - **using Rails 4.1** - [:earth_africa:](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  A data management app for food gardeners - **using Rails 5.2** - [:earth_africa:](http://www.growstuff.org/)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media management app - **using Rails 4.2** - [:earth_africa:](http://www.hashrobot.com)
@@ -171,7 +171,7 @@
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  A community app for nature and related stuff - **using Rails 4.2** - [:earth_africa:](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - A control panel app for app deployment - **using Rails 4.1** :star:91
 - [kanban](https://github.com/seanomlor/kanban) - A Trello clone - **using Rails 4.2** - [:earth_africa:](http://kanban.seanomlor.com)
-- [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform - **using Rails 4.1** :star:2004
+- [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform - **using Rails 4.1** :star:2006
 - [lavish](https://github.com/mquan/lavish) - A color scheme generator - **using Rails 4.2** :star:698
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app - **using Rails 5.2** :star:5
 - [listenup](https://github.com/ooofinooo/listenup) -  A song playlist management app - **using Rails 4.1** - [:earth_africa:](http://listenup-songshare.herokuapp.com)
@@ -180,7 +180,7 @@
 - [mastodon](https://github.com/tootsuite/mastodon) - A microblogging app - **using Rails 5.2** - [:earth_africa:](https://mastodon.social)
 - [obtvse2](https://github.com/natew/obtvse2) - A blogging app - **using Rails 4.0** :star:268
 - [onebody](https://github.com/seven1m/onebody) - A social networking app for churches - **using Rails 5.1** - [:earth_africa:](https://church.io)
-- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A database for information about farming and gardening - **using Rails 5.2** - :star:702
+- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A database for information about farming and gardening - **using Rails 5.2** - :star:704
 - [opencongress](https://github.com/sunlightlabs/opencongress) - A website for getting information about US Congress - **using Rails 3.0** - **archived** :star:47
 - [openproject](https://github.com/opf/openproject) - A project management app - **using Rails 6.0** - [:earth_africa:](https://www.openproject.org)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app - **using Rails 6.0** -  [:earth_africa:](http://www.openstreetmap.org)
@@ -200,8 +200,8 @@
 - [rletters](https://github.com/rletters/rletters) - A frontend for database of journal articles for researchers - **using Rails 6.0** - [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform - **using Rails 6.0** - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - An account tracker - **using Rails 4.2** - [:earth_africa:](http://sanataro.herokuapp.com)
-- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A digital assets management app - **using Rails 5.1** :star:76
-- [selfstarter](https://github.com/apigy/selfstarter) - A crowdfunding app - **using Rails 4.0** :star:3138
+- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A digital assets management app - **using Rails 5.1** :star:77
+- [selfstarter](https://github.com/apigy/selfstarter) - A crowdfunding app - **using Rails 4.0** :star:3139
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A peer-to-peer marketplace platform - **using Rails 5.2** - [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - A social networking platform - **using Rails 5.0** :star:347
 - [splits-io](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. - **using Rails 6.0** - [:earth_africa:](https://splits.io)
@@ -213,7 +213,7 @@
 - [trado](https://github.com/Jellyfishboy/trado) - An e-commerce platform - **using Rails 4.2** :star:147
 - [videoGameList](https://github.com/connorshea/VideoGameList) - A video game library tracking web app - **using Rails 6.0** - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A project tracking app - **using Rails 5.2** - [:earth_africa:](https://www.agileventures.org/)
-- [whitehall](https://github.com/alphagov/whitehall) - A content management app used by UK government - **using Rails 5.1** :star:578
+- [whitehall](https://github.com/alphagov/whitehall) - A content management app used by UK government - **using Rails 5.1** :star:581
 
 [Back to top](#table-of-contents)
 
@@ -284,7 +284,7 @@
 
 ### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io). :star:1434
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io). :star:1442
   
 [Back to top](#table-of-contents)
 
@@ -299,15 +299,15 @@
 
 ### DevTools
 
-- [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log. :star:95
+- [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log. :star:96
 
 [Back to top](#table-of-contents)
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:6537
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1127
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2665
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub :star:6541
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) :star:1129
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) :star:2666
 
 [Back to top](#table-of-contents)
 

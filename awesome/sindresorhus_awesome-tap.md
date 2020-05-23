@@ -28,7 +28,7 @@
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing. :star:47
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing. :star:83
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output. :star:6
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:526
+- [faucet](https://github.com/substack/faucet) - Human-readable summarizer. :star:525
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters). :star:16
 - [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output. :star:38
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests. :star:14
@@ -47,15 +47,15 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:17894
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1597
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5301
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`). :star:17930
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js. :star:1598
+- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers. :star:5308
 - [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit. :star:73
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine. :star:401
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma. :star:7
-- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`). :star:108
+- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`). :star:107
 - [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel. :star:283
 
 ### Swift
@@ -64,11 +64,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:254
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. :star:256
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6417
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. :star:6430
 
 [More…](https://testanything.org/producers.html)
 

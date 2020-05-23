@@ -43,17 +43,17 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### User Interfaces
 
 - [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
-- [Coqtail](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor. :star:54
+- [Coqtail](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor. :star:56
 - [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode. :star:272
 - [jsCoq](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser. :star:349
-- [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment. :star:39
+- [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment. :star:40
 - [VSCoq](https://github.com/coq-community/vscoq) - Visual Studio Code extension. :star:91
 
 ### Libraries
 
 - [ALEA](https://github.com/coq-community/alea) - Library for reasoning on randomized algorithms. :star:2
-- [Bignums](https://github.com/coq/bignums) - Library of arbitrary large numbers. :star:16
+- [Bignums](https://github.com/coq/bignums) - Library of arbitrary large numbers. :star:17
 - [CoLoR](http://color.inria.fr) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users. :star:129
 - [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Extended alternative standard library for Coq.
@@ -73,10 +73,10 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed by Coq and based on generating a makefile.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - OPAM-based collection of Coq packages.
-- [Docker-Coq](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq. :star:19
+- [Docker-Coq](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq. :star:20
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - Docker images for many combinations of versions of Coq and the Mathematical Components library. :star:4
 - [Docker-Coq-action](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with docker-coq or docker-mathcomp.
-- [Dune](https://github.com/ocaml/dune) - Composable and opinionated build system for Coq and OCaml (former jbuilder). :star:932
+- [Dune](https://github.com/ocaml/dune) - Composable and opinionated build system for Coq and OCaml (former jbuilder). :star:939
 - [Nix](https://nixos.org/nix/) - Package manager for Linux and other Unix systems, supporting atomic upgrades and rollbacks.
 - [Nix Coq packages](https://nixos.org/nixos/packages.html?channel=nixpkgs-unstable&query=coqPackages) - Collection of Coq-related packages for Nix.
 - [OPAM](https://opam.ocaml.org) - Flexible and Git-friendly package manager for OCaml with multiple compiler support.
@@ -85,14 +85,14 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator. :star:16
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Plugin for the Embeddable Lambda Prolog Interpreter. :star:39
-- [CoqHammer](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs. :star:131
-- [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq. :star:137
+- [CoqHammer](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs. :star:132
+- [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq. :star:139
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 - [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) - Experimental typed tactic language similar to Coq's classic Ltac language.
 - [MetaCoq](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins. :star:157
 - [Mtac2](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning. :star:38
 - [Paramcoq](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms. :star:31
-- [QuickChick](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing. :star:169
+- [QuickChick](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing. :star:171
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers. :star:75
 - [Unicoq](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one. :star:31
 
@@ -100,20 +100,20 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code. :star:96
-- [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Tool for building dependency graphs between Coq objects. :star:51
-- [coq-tools](https://github.com/JasonGross/coq-tools) - Scripts to help construct small reproducing examples of bugs, remove unneeded imports, etc. :star:20
+- [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Tool for building dependency graphs between Coq objects. :star:52
+- [coq-tools](https://github.com/JasonGross/coq-tools) - Scripts to help construct small reproducing examples of bugs, remove unneeded imports, etc. :star:21
 - [Cosette](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences. :star:509
 - [hs-to-coq](https://github.com/antalsz/hs-to-coq) - Converter from Haskell code to equivalent Coq code. :star:262
 - [lngen](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs. :star:20
 - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) - Parser generator that can output Coq code for verified parsers.
 - [mCoq](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects. :star:14
 - [Ott](https://www.cl.cam.ac.uk/~pes20/ott/) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
-- [SerAPI](https://github.com/ejgallego/coq-serapi) - Library and tools for (de)serialization of Coq code to and from JSON and S-expressions. :star:69
+- [SerAPI](https://github.com/ejgallego/coq-serapi) - Library and tools for (de)serialization of Coq code to and from JSON and S-expressions. :star:70
 
 ### Type Theory and Mathematics
 
 - [Analysis](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components. :star:63
-- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory. :star:520
+- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory. :star:522
 - [CoRN](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra. :star:87
 - [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 - [Four Color Theorem](https://github.com/math-comp/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory. :star:74
@@ -123,7 +123,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 - [Math Classes](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes. :star:131
 - [Odd Order Theorem](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory. :star:9
-- [UniMath](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view. :star:619
+- [UniMath](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view. :star:622
 
 ### Verified Software
 
@@ -143,13 +143,13 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Official Coq Discourse forum](https://coq.discourse.group)
 - [Official Coq Gitter chat](https://gitter.im/coq/coq)
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
-- [Official Coq wiki](https://github.com/coq/coq/wiki) :star:2791
+- [Official Coq wiki](https://github.com/coq/coq/wiki) :star:2810
 - [Official Coq Twitter](https://twitter.com/CoqLang)
 - [coq-community package maintenance project](https://github.com/coq-community/manifesto) :star:50
 - [Coq subreddit](https://www.reddit.com/r/coq/)
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 - [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
-- [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) :star:296
+- [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) :star:295
 
 ### Blogs
 
@@ -179,5 +179,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures. :star:17
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-- [Tricks in Coq](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover. :star:233
+- [Tricks in Coq](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover. :star:232
 

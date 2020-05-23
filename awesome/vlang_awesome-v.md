@@ -49,7 +49,7 @@
 
 ### Interpreters/Compilers
 
-- [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. :star:16959
+- [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. :star:17040
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler. :star:7
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V. :star:9
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V. :star:37
@@ -75,7 +75,7 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun. :star:20
+- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun. :star:22
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server. :star:26
 
 ### Command-line
@@ -90,9 +90,9 @@
 
 ### Syntax highlighting
 
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim. :star:76
+- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim. :star:77
 - [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language. :star:5
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code. :star:108
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code. :star:110
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/). :star:4
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang). :star:2
@@ -108,7 +108,7 @@
 
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V. :star:9
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal. :star:7
-- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨 :star:22
+- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨 :star:21
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang. :star:2
 
 ### Graphics
@@ -119,8 +119,8 @@
 ### Web
 
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb. :star:57
-- [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra. :star:71
-- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum. :star:16959
+- [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra. :star:72
+- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum. :star:17040
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V. :star:15
 
 ### Database clients
@@ -135,7 +135,7 @@
 
 ### Operating System
 
-- [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform. :star:16959
+- [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform. :star:17040
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support. :star:2
 
 ### Automation
@@ -152,22 +152,22 @@
 
 ### Game Development
 
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework. :star:32
+- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework. :star:33
 
 ### Eventing
 
-- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V. :star:16959
+- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V. :star:17040
 
 ### User Interface Toolkits
 
-- [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web. :star:581
+- [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web. :star:595
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V. :star:17
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit. :star:8
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit. :star:3
 
 ### Scientific Computing
 
-- [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions. :star:62
+- [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions. :star:63
 - [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS. :star:21
 
 ## Other
